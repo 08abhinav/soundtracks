@@ -923,6 +923,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
+| Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
+| Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
 | Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
+| Tap Tap West | 95963 | [95963-tap-tap-west.json](./95963-tap-tap-west.json) |
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap the Frog: Doodle | 166287 | [166287-tap-the-frog-doodle.json](./166287-tap-the-frog-doodle.json) |
@@ -3243,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
+| Tesla8 | 95985 | [95985-tesla8.json](./95985-tesla8.json) |
 | Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
 | Teslagrad Power Pack Edition | 246451 | [246451-teslagrad-power-pack-edition.json](./246451-teslagrad-power-pack-edition.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
@@ -5998,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
+| The Endless Mission | 95922 | [95922-the-endless-mission.json](./95922-the-endless-mission.json) |
 | The Endless Summer Surfing Challenge | 197056 | [197056-the-endless-summer-surfing-challenge.json](./197056-the-endless-summer-surfing-challenge.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
@@ -12158,6 +12163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trader of Stories: Bell's Heart | 388277 | [388277-the-trader-of-stories-bells-heart.json](./388277-the-trader-of-stories-bells-heart.json) |
+| The Trader of Stories: Chapter I | 95936 | [95936-the-trader-of-stories-chapter-i.json](./95936-the-trader-of-stories-chapter-i.json) |
 | The Trader of Stories: Chapter II | 388275 | [388275-the-trader-of-stories-chapter-ii.json](./388275-the-trader-of-stories-chapter-ii.json) |
 | The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
@@ -18712,6 +18718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
+| Trader of Stories - Chapter 1 | 95968 | [95968-trader-of-stories-chapter-1.json](./95968-trader-of-stories-chapter-1.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Trader Tavern | 183827 | [183827-trader-tavern.json](./183827-trader-tavern.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
