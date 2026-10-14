@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Intrusion | 207603 | [207603-scp-intrusion.json](./207603-scp-intrusion.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Keter | 190925 | [190925-scp-keter.json](./190925-scp-keter.json) |
+| SCP: Kikan no Kanata - The Will of a Single Tale: Hon-pen - Dai 1-bu | 114833 | [114833-scp-kikan-no-kanata-the-will-of-a-single-tale-hon-pen-dai-1-bu.json](./114833-scp-kikan-no-kanata-the-will-of-a-single-tale-hon-pen-dai-1-bu.json) |
 | SCP: Liberation | 125908 | [125908-scp-liberation.json](./125908-scp-liberation.json) |
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
@@ -8368,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
+| SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
@@ -9586,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
+| Smuggle Buddies | 114861 | [114861-smuggle-buddies.json](./114861-smuggle-buddies.json) |
 | Smuggler Simulator | 154048 | [154048-smuggler-simulator.json](./154048-smuggler-simulator.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
@@ -11088,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
 | Something is Weird | 342005 | [342005-something-is-weird.json](./342005-something-is-weird.json) |
+| Something is Wrong | 114841 | [114841-something-is-wrong.json](./114841-something-is-wrong.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
@@ -13341,6 +13345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
+| Space Warfare | 114848 | [114848-space-warfare.json](./114848-space-warfare.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Warlord Organ Trading Simulator | 144317 | [144317-space-warlord-organ-trading-simulator.json](./144317-space-warlord-organ-trading-simulator.json) |
 | Space Warp | 17905 | [17905-space-warp.json](./17905-space-warp.json) |
@@ -13965,6 +13970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
+| Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
@@ -19076,6 +19082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
 | Stupid Stories | 149689 | [149689-stupid-stories.json](./149689-stupid-stories.json) |
+| Stupid Survivor | 114740 | [114740-stupid-survivor.json](./114740-stupid-survivor.json) |
 | Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
@@ -22433,6 +22440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
+| Supertrumpman: Patriot Fists of Truth | 114744 | [114744-supertrumpman-patriot-fists-of-truth.json](./114744-supertrumpman-patriot-fists-of-truth.json) |
 | SuperTux Advance | 194198 | [194198-supertux-advance.json](./194198-supertux-advance.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
@@ -23963,6 +23971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthopolis | 348798 | [348798-synthopolis.json](./348798-synthopolis.json) |
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
+| Synthrun | 114875 | [114875-synthrun.json](./114875-synthrun.json) |
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
