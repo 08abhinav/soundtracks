@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
 | Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
+| Hex Plus | 100061 | [100061-hex-plus.json](./100061-hex-plus.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
