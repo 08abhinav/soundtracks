@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
+| Jane's Combat Simulations: Attack Squadron | 100091 | [100091-janes-combat-simulations-attack-squadron.json](./100091-janes-combat-simulations-attack-squadron.json) |
 | Jane's Combat Simulations: F-15 | 73498 | [73498-janes-combat-simulations-f-15.json](./73498-janes-combat-simulations-f-15.json) |
 | Jane's Combat Simulations: Fighters Anthology | 70020 | [70020-janes-combat-simulations-fighters-anthology.json](./70020-janes-combat-simulations-fighters-anthology.json) |
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
