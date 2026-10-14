@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
+| A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
@@ -6632,7 +6633,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Memory: Birds | 81942 | [81942-animals-memory-birds.json](./81942-animals-memory-birds.json) |
 | Animals Memory: Dinosaurs | 81934 | [81934-animals-memory-dinosaurs.json](./81934-animals-memory-dinosaurs.json) |
+| Animals Memory: Dogs | 81984 | [81984-animals-memory-dogs.json](./81984-animals-memory-dogs.json) |
+| Animals Memory: Insect | 81992 | [81992-animals-memory-insect.json](./81992-animals-memory-insect.json) |
 | Animals Memory: Monkeys | 364050 | [364050-animals-memory-monkeys.json](./364050-animals-memory-monkeys.json) |
+| Animals Memory: Underwater Kingdom | 81976 | [81976-animals-memory-underwater-kingdom.json](./81976-animals-memory-underwater-kingdom.json) |
 | Animals of Australia | 108229 | [108229-animals-of-australia.json](./108229-animals-of-australia.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
 | Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
