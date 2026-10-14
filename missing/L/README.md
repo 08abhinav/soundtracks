@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
+| Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
 | Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Ryouou Gakuen Outousai - DX Pack | 214143 | [214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json](./214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
+| Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
