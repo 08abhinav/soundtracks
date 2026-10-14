@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All of Us Are Dead | 193833 | [193833-all-of-us-are-dead.json](./193833-all-of-us-are-dead.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
+| All of Zhem | 112694 | [112694-all-of-zhem.json](./112694-all-of-zhem.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All On Board!: Aye, Dark Overlord! | 374700 | [374700-all-on-board-aye-dark-overlord.json](./374700-all-on-board-aye-dark-overlord.json) |
 | All on Board!: Escape the Dark Castle | 374703 | [374703-all-on-board-escape-the-dark-castle.json](./374703-all-on-board-escape-the-dark-castle.json) |
@@ -5912,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
+| Ancient lands: the Tsar awakening | 112705 | [112705-ancient-lands-the-tsar-awakening.json](./112705-ancient-lands-the-tsar-awakening.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
 | Ancient Life | 153154 | [153154-ancient-life.json](./153154-ancient-life.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
@@ -6180,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
+| AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
@@ -9404,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARtillery | 380794 | [380794-artillery.json](./380794-artillery.json) |
 | Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
+| Artillery Globe | 112696 | [112696-artillery-globe.json](./112696-artillery-globe.json) |
 | Artillery Live | 234693 | [234693-artillery-live.json](./234693-artillery-live.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
@@ -10103,6 +10107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Shooter VR | 36941 | [36941-asteroid-shooter-vr.json](./36941-asteroid-shooter-vr.json) |
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
 | Asteroid Storm | 15604 | [15604-asteroid-storm.json](./15604-asteroid-storm.json) |
+| Asteroid Turret Defender VR | 112821 | [112821-asteroid-turret-defender-vr.json](./112821-asteroid-turret-defender-vr.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
