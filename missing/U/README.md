@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Smash | 248644 | [248644-unicorn-smash.json](./248644-unicorn-smash.json) |
 | Unicorn Tails | 127228 | [127228-unicorn-tails.json](./127228-unicorn-tails.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
+| Unicornicopia | 114131 | [114131-unicornicopia.json](./114131-unicornicopia.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Hero | 87054 | [87054-unicycle-hero.json](./87054-unicycle-hero.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
