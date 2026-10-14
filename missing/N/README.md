@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
 | Nasteroids: Space Shuttle vs. Asteroids | 91148 | [91148-nasteroids-space-shuttle-vs-asteroids.json](./91148-nasteroids-space-shuttle-vs-asteroids.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
+| Nasty | 94149 | [94149-nasty.json](./94149-nasty.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
