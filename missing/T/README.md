@@ -12295,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
+| The Ultimate Trivia Quiz | 98893 | [98893-the-ultimate-trivia-quiz.json](./98893-the-ultimate-trivia-quiz.json) |
 | The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
@@ -17488,6 +17489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
+| Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
