@@ -7269,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
+| Blood Trains | 130662 | [130662-blood-trains.json](./130662-blood-trains.json) |
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
@@ -10150,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride of the Twilight | 254610 | [254610-bride-of-the-twilight.json](./254610-bride-of-the-twilight.json) |
 | Brides of Dracula | 14348 | [14348-brides-of-dracula.json](./14348-brides-of-dracula.json) |
 | Bridg | 149438 | [149438-bridg.json](./149438-bridg.json) |
+| Bridge | 131267 | [131267-bridge.json](./131267-bridge.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge 2000 | 12408 | [12408-bridge-2000.json](./12408-bridge-2000.json) |
