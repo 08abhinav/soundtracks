@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
 | CardForge | 397837 | [397837-cardforge.json](./397837-cardforge.json) |
 | Cardia | 266114 | [266114-cardia.json](./266114-cardia.json) |
+| Cardiac | 125765 | [125765-cardiac.json](./125765-cardiac.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardiac Unrest | 157427 | [157427-cardiac-unrest.json](./157427-cardiac-unrest.json) |
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
@@ -7351,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
 | Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
+| Cognizance | 126325 | [126325-cognizance.json](./126325-cognizance.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cognizer | 102282 | [102282-cognizer.json](./102282-cognizer.json) |
 | Cogret | 128279 | [128279-cogret.json](./128279-cogret.json) |
@@ -11525,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop Circles | 234688 | [234688-crop-circles.json](./234688-crop-circles.json) |
 | Crop Circles 2 | 234691 | [234691-crop-circles-2.json](./234691-crop-circles-2.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
+| Crop Dusta | 125757 | [125757-crop-dusta.json](./125757-crop-dusta.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
 | Crop Rotation | 241883 | [241883-crop-rotation.json](./241883-crop-rotation.json) |
