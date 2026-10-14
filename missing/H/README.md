@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
 | Haunted Zombie Slaughter | 232986 | [232986-haunted-zombie-slaughter.json](./232986-haunted-zombie-slaughter.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
+| Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
 | Haunted: Village | 374934 | [374934-haunted-village.json](./374934-haunted-village.json) |
@@ -5267,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
+| Hipster Sheep | 114736 | [114736-hipster-sheep.json](./114736-hipster-sheep.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
