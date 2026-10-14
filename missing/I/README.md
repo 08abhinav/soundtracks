@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
 | Its a Pirate-Game! | 176303 | [176303-its-a-pirate-game.json](./176303-its-a-pirate-game.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
+| Its Fun to Break Things | 115510 | [115510-its-fun-to-break-things.json](./115510-its-fun-to-break-things.json) |
 | Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
