@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
 | Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
+| Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
 | Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
