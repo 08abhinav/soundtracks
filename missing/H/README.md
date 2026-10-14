@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry's Burgers | 86431 | [86431-harrys-burgers.json](./86431-harrys-burgers.json) |
 | Harry's Legend | 320965 | [320965-harrys-legend.json](./320965-harrys-legend.json) |
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
+| Harsh | 81994 | [81994-harsh.json](./81994-harsh.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
@@ -6869,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
+| Hoshis Elektronauts | 81957 | [81957-hoshis-elektronauts.json](./81957-hoshis-elektronauts.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
