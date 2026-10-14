@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Nightmare Circus Bike Fighter | 370552 | [370552-babys-nightmare-circus-bike-fighter.json](./370552-babys-nightmare-circus-bike-fighter.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
+| Babycar Driver | 101401 | [101401-babycar-driver.json](./101401-babycar-driver.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
@@ -2698,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
+| Battle Slimes | 101409 | [101409-battle-slimes.json](./101409-battle-slimes.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Snails | 252912 | [252912-battle-snails.json](./252912-battle-snails.json) |
 | Battle Snakes | 190031 | [190031-battle-snakes.json](./190031-battle-snakes.json) |
@@ -5304,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Starlet | 265081 | [265081-bingo-pinball-gameroom-united-starlet.json](./265081-bingo-pinball-gameroom-united-starlet.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Bingo Tropical Haven: Island Beach Fever | 101423 | [101423-bingo-tropical-haven-island-beach-fever.json](./101423-bingo-tropical-haven-island-beach-fever.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
 | Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
 | Bingo VR | 151492 | [151492-bingo-vr.json](./151492-bingo-vr.json) |
@@ -6881,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Attack: Rise of the Blocks | 176732 | [176732-block-attack-rise-of-the-blocks.json](./176732-block-attack-rise-of-the-blocks.json) |
+| Block Balls | 101431 | [101431-block-balls.json](./101431-block-balls.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
