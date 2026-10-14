@@ -407,6 +407,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Ginsei Mahjong | 83473 | [83473-saikyou-ginsei-mahjong.json](./83473-saikyou-ginsei-mahjong.json) |
 | Saikyou Ginsei Shogi | 83461 | [83461-saikyou-ginsei-shogi.json](./83461-saikyou-ginsei-shogi.json) |
 | Saikyou Ginsei Shogi 2 | 83447 | [83447-saikyou-ginsei-shogi-2.json](./83447-saikyou-ginsei-shogi-2.json) |
+| Saikyou Ginsei Shogi 3 | 83444 | [83444-saikyou-ginsei-shogi-3.json](./83444-saikyou-ginsei-shogi-3.json) |
+| Saikyou Ginsei Shogi 4 | 83446 | [83446-saikyou-ginsei-shogi-4.json](./83446-saikyou-ginsei-shogi-4.json) |
+| Saikyou Ginsei Shogi Go | 83435 | [83435-saikyou-ginsei-shogi-go.json](./83435-saikyou-ginsei-shogi-go.json) |
+| Saikyou Ginsei Shogi Go: New Standard | 83436 | [83436-saikyou-ginsei-shogi-go-new-standard.json](./83436-saikyou-ginsei-shogi-go-new-standard.json) |
 | Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
@@ -1153,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | Sangokushi: Shinsen | 218061 | [218061-sangokushi-shinsen.json](./218061-sangokushi-shinsen.json) |
 | Sangokushi: Strategy Edition | 188391 | [188391-sangokushi-strategy-edition.json](./188391-sangokushi-strategy-edition.json) |
+| Sangokutaisen Smash | 83431 | [83431-sangokutaisen-smash.json](./83431-sangokutaisen-smash.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
@@ -3501,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai no Omoshiro Party Game | 408999 | [408999-sekai-no-omoshiro-party-game.json](./408999-sekai-no-omoshiro-party-game.json) |
 | Sekai no Omoshiro Party Game 2 | 409000 | [409000-sekai-no-omoshiro-party-game-2.json](./409000-sekai-no-omoshiro-party-game-2.json) |
+| Sekai Saikyo Ginsei Shogi Roku: Soto no Ryu | 83434 | [83434-sekai-saikyo-ginsei-shogi-roku-soto-no-ryu.json](./83434-sekai-saikyo-ginsei-shogi-roku-soto-no-ryu.json) |
 | Sekai Saikyou Gensei Shogi Nana | 83462 | [83462-sekai-saikyou-gensei-shogi-nana.json](./83462-sekai-saikyou-gensei-shogi-nana.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
@@ -3640,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
 | Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
+| Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
@@ -6127,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
+| Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
@@ -17845,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
+| Stick Empires | 83399 | [83399-stick-empires.json](./83399-stick-empires.json) |
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
 | Stick Fight: Shadow Warrior | 323193 | [323193-stick-fight-shadow-warrior.json](./323193-stick-fight-shadow-warrior.json) |
@@ -19680,6 +19689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
 | Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
+| Sudoku Epic | 83413 | [83413-sudoku-epic.json](./83413-sudoku-epic.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku for Kids | 88625 | [88625-sudoku-for-kids.json](./88625-sudoku-for-kids.json) |
@@ -20470,6 +20480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
+| Super Bishi Bashi Champ | 83419 | [83419-super-bishi-bashi-champ.json](./83419-super-bishi-bashi-champ.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
 | Super Bit Blaster XL | 124132 | [124132-super-bit-blaster-xl.json](./124132-super-bit-blaster-xl.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
