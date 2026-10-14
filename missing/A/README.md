@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Alexander | 120759 | [120759-ancient-battle-alexander.json](./120759-ancient-battle-alexander.json) |
+| Ancient Battle: Hannibal | 106454 | [106454-ancient-battle-hannibal.json](./106454-ancient-battle-hannibal.json) |
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
@@ -8480,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
 | Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
+| Architectural Adventure | 106464 | [106464-architectural-adventure.json](./106464-architectural-adventure.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
