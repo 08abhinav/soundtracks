@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
 | Mafia II: Vegas Pack | 275230 | [275230-mafia-ii-vegas-pack.json](./275230-mafia-ii-vegas-pack.json) |
 | Mafia II: War Hero Pack | 275235 | [275235-mafia-ii-war-hero-pack.json](./275235-mafia-ii-war-hero-pack.json) |
+| Mafia III: Collector's Edition | 75679 | [75679-mafia-iii-collectors-edition.json](./75679-mafia-iii-collectors-edition.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Fear | 260590 | [260590-maze-of-fear.json](./260590-maze-of-fear.json) |
 | Maze of Flott | 266672 | [266672-maze-of-flott.json](./266672-maze-of-flott.json) |
+| Maze of Gaea | 75709 | [75709-maze-of-gaea.json](./75709-maze-of-gaea.json) |
 | Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
 | Maze of Memories | 367303 | [367303-maze-of-memories.json](./367303-maze-of-memories.json) |
@@ -9643,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme Vs Force | 20401 | [20401-mobile-suit-gundam-extreme-vs-force.json](./20401-mobile-suit-gundam-extreme-vs-force.json) |
+| Mobile Suit Gundam: Extreme Vs. | 75698 | [75698-mobile-suit-gundam-extreme-vs.json](./75698-mobile-suit-gundam-extreme-vs.json) |
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
 | Mobile Suit Gundam: Extreme Vs. Full Boost - Premium G Sound Edition | 136810 | [136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json](./136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
@@ -9651,10 +9654,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Federation vs. Zeon DX | 43205 | [43205-mobile-suit-gundam-federation-vs-zeon-dx.json](./43205-mobile-suit-gundam-federation-vs-zeon-dx.json) |
 | Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
+| Mobile Suit Gundam: Gundam vs. Gundam Next | 75696 | [75696-mobile-suit-gundam-gundam-vs-gundam-next.json](./75696-mobile-suit-gundam-gundam-vs-gundam-next.json) |
+| Mobile Suit Gundam: Gundam vs. Gundam Next Plus | 75697 | [75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json](./75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json) |
 | Mobile Suit Gundam: Gundam vs. Zeta Gundam | 3964 | [3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json](./3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans Urd's Hunt | 113627 | [113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json](./113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json) |
 | Mobile Suit Gundam: Journey to Jaburo | 43461 | [43461-mobile-suit-gundam-journey-to-jaburo.json](./43461-mobile-suit-gundam-journey-to-jaburo.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
+| Mobile Suit Gundam: Lost War Chronicles - The Best Version | 75695 | [75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json](./75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
