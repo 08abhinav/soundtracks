@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:56:43.674Z",
-  "total_soundtracks": 1648,
+  "generated_at": "2026-10-14T19:00:46.459Z",
+  "total_soundtracks": 1649,
   "games": [
     {
       "igdb_id": 7522,
@@ -16632,6 +16632,20 @@
           "album_name": "The Midnight Walk (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/137eY5Pe8DpnI9V3CRONM0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3230,
+      "game_name": "The Night of the Rabbit",
+      "game_url": "https://ostdb.net/games/the-night-of-the-rabbit",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737fc9e5958e470e3aadfee468",
+      "albums": [
+        {
+          "album_name": "The Night Of The Rabbit (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4oI9WL5jT90gNx4VfZjccv",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
