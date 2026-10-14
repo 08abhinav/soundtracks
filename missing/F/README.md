@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
 | Fallout 76: Nuclear Winter | 132140 | [132140-fallout-76-nuclear-winter.json](./132140-fallout-76-nuclear-winter.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
+| Fallout 76: Power Armor Edition | 103307 | [103307-fallout-76-power-armor-edition.json](./103307-fallout-76-power-armor-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
 | Fallout 76: S.P.E.C.I.A.L. Edition | 109485 | [109485-fallout-76-s-p-e-c-i-a-l-edition.json](./109485-fallout-76-s-p-e-c-i-a-l-edition.json) |
 | Fallout 76: Season 1 - The Legendary Run | 141569 | [141569-fallout-76-season-1-the-legendary-run.json](./141569-fallout-76-season-1-the-legendary-run.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
+| Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
 | Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
