@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
+| Baby Bee | 114233 | [114233-baby-bee.json](./114233-baby-bee.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Bird Care | 146625 | [146625-baby-bird-care.json](./146625-baby-bird-care.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
@@ -6257,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
+| Blade of Acrimony | 114222 | [114222-blade-of-acrimony.json](./114222-blade-of-acrimony.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -12099,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Breach | 293509 | [293509-byte-breach.json](./293509-byte-breach.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Cats | 206437 | [206437-byte-cats.json](./206437-byte-cats.json) |
+| Byte Chaser | 114216 | [114216-byte-chaser.json](./114216-byte-chaser.json) |
 | Byte Family | 30750 | [30750-byte-family.json](./30750-byte-family.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
