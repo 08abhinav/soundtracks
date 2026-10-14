@@ -4419,12 +4419,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
+| Bestiary Exam | 114749 | [114749-bestiary-exam.json](./114749-bestiary-exam.json) |
 | Bestiary of the Mountains and Seas | 343823 | [343823-bestiary-of-the-mountains-and-seas.json](./343823-bestiary-of-the-mountains-and-seas.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
+| Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
 | Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
+| Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | BioShock 2 Remastered | 34294 | [34294-bioshock-2-remastered.json](./34294-bioshock-2-remastered.json) |
@@ -9767,6 +9770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
+| Brawl Bolts | 114743 | [114743-brawl-bolts.json](./114743-brawl-bolts.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
