@@ -6312,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Fantasy Legend DX | 364394 | [364394-the-final-fantasy-legend-dx.json](./364394-the-final-fantasy-legend-dx.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
+| The Final Frontier | 110097 | [110097-the-final-frontier.json](./110097-the-final-frontier.json) |
 | The Final Frontier | 168428 | [168428-the-final-frontier.json](./168428-the-final-frontier.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
