@@ -1435,8 +1435,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
+| ACA Neo Geo: Aero Fighters 2 | 99495 | [99495-aca-neo-geo-aero-fighters-2.json](./99495-aca-neo-geo-aero-fighters-2.json) |
 | ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
+| ACA Neo Geo: Art of Fighting 2 | 99489 | [99489-aca-neo-geo-art-of-fighting-2.json](./99489-aca-neo-geo-art-of-fighting-2.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
@@ -1444,18 +1446,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
 | ACA Neo Geo: Cyber-Lip | 112912 | [112912-aca-neo-geo-cyber-lip.json](./112912-aca-neo-geo-cyber-lip.json) |
+| ACA Neo Geo: Fatal Fury 2 | 99510 | [99510-aca-neo-geo-fatal-fury-2.json](./99510-aca-neo-geo-fatal-fury-2.json) |
+| ACA Neo Geo: Fatal Fury 3 | 99484 | [99484-aca-neo-geo-fatal-fury-3.json](./99484-aca-neo-geo-fatal-fury-3.json) |
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
 | ACA Neo Geo: Galaxy Fight - Universal Warriors | 99747 | [99747-aca-neo-geo-galaxy-fight-universal-warriors.json](./99747-aca-neo-geo-galaxy-fight-universal-warriors.json) |
+| ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
+| ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
+| ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
+| ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
+| ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
@@ -1463,10 +1472,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
+| ACA Neo Geo: Super Sidekicks | 99493 | [99493-aca-neo-geo-super-sidekicks.json](./99493-aca-neo-geo-super-sidekicks.json) |
 | ACA Neo Geo: Super Sidekicks 3 - The Next Glory | 103563 | [103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json](./103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json) |
+| ACA Neo Geo: The King of Fighters '94 | 99529 | [99529-aca-neo-geo-the-king-of-fighters-94.json](./99529-aca-neo-geo-the-king-of-fighters-94.json) |
 | ACA Neo Geo: The King of Fighters '95 | 99735 | [99735-aca-neo-geo-the-king-of-fighters-95.json](./99735-aca-neo-geo-the-king-of-fighters-95.json) |
+| ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
+| ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
@@ -3852,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
+| Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
@@ -7945,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
+| Arcade Archives: Contra | 99535 | [99535-arcade-archives-contra.json](./99535-arcade-archives-contra.json) |
 | Arcade Archives: Cosmo Gang The Puzzle | 282491 | [282491-arcade-archives-cosmo-gang-the-puzzle.json](./282491-arcade-archives-cosmo-gang-the-puzzle.json) |
 | Arcade Archives: Cosmo Gang the Video | 246874 | [246874-arcade-archives-cosmo-gang-the-video.json](./246874-arcade-archives-cosmo-gang-the-video.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
@@ -7992,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
 | Arcade Archives: Halley's Comet | 147111 | [147111-arcade-archives-halleys-comet.json](./147111-arcade-archives-halleys-comet.json) |
+| Arcade Archives: Haunted Castle | 99487 | [99487-arcade-archives-haunted-castle.json](./99487-arcade-archives-haunted-castle.json) |
 | Arcade Archives: Heroic Episode | 88594 | [88594-arcade-archives-heroic-episode.json](./88594-arcade-archives-heroic-episode.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
@@ -8003,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
+| Arcade Archives: KiKi KaiKai | 99536 | [99536-arcade-archives-kiki-kaikai.json](./99536-arcade-archives-kiki-kaikai.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
@@ -8027,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
+| Arcade Archives: MX5000 | 99537 | [99537-arcade-archives-mx5000.json](./99537-arcade-archives-mx5000.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
 | Arcade Archives: Naughty Boy | 147113 | [147113-arcade-archives-naughty-boy.json](./147113-arcade-archives-naughty-boy.json) |
 | Arcade Archives: Navarone | 243167 | [243167-arcade-archives-navarone.json](./243167-arcade-archives-navarone.json) |
@@ -8116,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Legend of Kage | 99569 | [99569-arcade-archives-the-legend-of-kage.json](./99569-arcade-archives-the-legend-of-kage.json) |
 | Arcade Archives: The Legend Of Valkyrie | 197892 | [197892-arcade-archives-the-legend-of-valkyrie.json](./197892-arcade-archives-the-legend-of-valkyrie.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
+| Arcade Archives: The Ninja Warriors | 99486 | [99486-arcade-archives-the-ninja-warriors.json](./99486-arcade-archives-the-ninja-warriors.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
 | Arcade Archives: The Tin Star | 147102 | [147102-arcade-archives-the-tin-star.json](./147102-arcade-archives-the-tin-star.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
