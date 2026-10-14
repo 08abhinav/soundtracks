@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
+| Wargs | 122795 | [122795-wargs.json](./122795-wargs.json) |
 | Warhall | 182239 | [182239-warhall.json](./182239-warhall.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
 | Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
+| Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
 | Wooden Hearts | 134999 | [134999-wooden-hearts.json](./134999-wooden-hearts.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Labyrinth 3D | 175169 | [175169-wooden-labyrinth-3d.json](./175169-wooden-labyrinth-3d.json) |
