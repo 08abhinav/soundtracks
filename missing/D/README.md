@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
+| Death Run 3D | 102041 | [102041-death-run-3d.json](./102041-death-run-3d.json) |
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
 | Death Scream Land | 139081 | [139081-death-scream-land.json](./139081-death-scream-land.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
+| Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
@@ -6564,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
+| Disco Bear | 102064 | [102064-disco-bear.json](./102064-disco-bear.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Cannon Airlines | 194389 | [194389-disco-cannon-airlines.json](./194389-disco-cannon-airlines.json) |
@@ -11457,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 3: Evolution | 212723 | [212723-duck-life-3-evolution.json](./212723-duck-life-3-evolution.json) |
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
 | Duck Life 4 Classic | 370917 | [370917-duck-life-4-classic.json](./370917-duck-life-4-classic.json) |
+| Duck Life 5: Treasure Hunt | 102038 | [102038-duck-life-5-treasure-hunt.json](./102038-duck-life-5-treasure-hunt.json) |
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life Adventure | 140883 | [140883-duck-life-adventure.json](./140883-duck-life-adventure.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
@@ -12632,6 +12636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
 | Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
+| Dynapuff Jump! | 102030 | [102030-dynapuff-jump.json](./102030-dynapuff-jump.json) |
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
