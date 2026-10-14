@@ -4748,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nouns Crown | 302040 | [302040-nouns-crown.json](./302040-nouns-crown.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
 | Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
+| Nous | 105167 | [105167-nous.json](./105167-nous.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | NOVA 1492 | 126543 | [126543-nova-1492.json](./126543-nova-1492.json) |
