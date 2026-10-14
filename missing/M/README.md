@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Desire: Henshin Ganbo | 126336 | [126336-makeover-desire-henshin-ganbo.json](./126336-makeover-desire-henshin-ganbo.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
+| Maker's Matchup | 100087 | [100087-makers-matchup.json](./100087-makers-matchup.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeruna! Makendo 2: Kimero Yokai Souri | 38265 | [38265-makeruna-makendo-2-kimero-yokai-souri.json](./38265-makeruna-makendo-2-kimero-yokai-souri.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
 | Mars Colony: Frontier | 34643 | [34643-mars-colony-frontier.json](./34643-mars-colony-frontier.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
+| Mars Defender Lite: 3D Asteroids | 100060 | [100060-mars-defender-lite-3d-asteroids.json](./100060-mars-defender-lite-3d-asteroids.json) |
 | Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
 | Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
@@ -7611,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
+| Mika 'Sweeper' Spin | 100106 | [100106-mika-sweeper-spin.json](./100106-mika-sweeper-spin.json) |
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
