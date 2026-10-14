@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X2 | 79811 | [79811-x2.json](./79811-x2.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
+| X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
 | X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
