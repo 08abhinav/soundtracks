@@ -8901,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
+| DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
@@ -10430,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Magic Will | 207272 | [207272-dream-magic-will.json](./207272-dream-magic-will.json) |
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
+| Dream Manor | 109383 | [109383-dream-manor.json](./109383-dream-manor.json) |
 | Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
 | Dream Match Tennis | 69361 | [69361-dream-match-tennis.json](./69361-dream-match-tennis.json) |
 | Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
