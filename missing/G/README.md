@@ -808,7 +808,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
 | Game Chest: Board Games | 100253 | [100253-game-chest-board-games.json](./100253-game-chest-board-games.json) |
+| Game Chest: Card | 91832 | [91832-game-chest-card.json](./91832-game-chest-card.json) |
 | Game Chest: Logic Games | 100252 | [100252-game-chest-logic-games.json](./100252-game-chest-logic-games.json) |
+| Game Chest: Solitaire Edition | 91831 | [91831-game-chest-solitaire-edition.json](./91831-game-chest-solitaire-edition.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game classix | 91593 | [91593-game-classix.json](./91593-game-classix.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
@@ -1732,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Jam | 333732 | [333732-gem-jam.json](./333732-gem-jam.json) |
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
 | Gem Master | 132581 | [132581-gem-master.json](./132581-gem-master.json) |
+| Gem Miner | 91839 | [91839-gem-miner.json](./91839-gem-miner.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Mining | 223944 | [223944-gem-mining.json](./223944-gem-mining.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
@@ -2452,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gherbert Groundhog in Save the Date | 232406 | [232406-gherbert-groundhog-in-save-the-date.json](./232406-gherbert-groundhog-in-save-the-date.json) |
 | Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
+| Ghetto Golf | 91860 | [91860-ghetto-golf.json](./91860-ghetto-golf.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
