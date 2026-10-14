@@ -5832,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
+| Ancient Charm | 130069 | [130069-ancient-charm.json](./130069-ancient-charm.json) |
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Code VR | 59867 | [59867-ancient-code-vr.json](./59867-ancient-code-vr.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
