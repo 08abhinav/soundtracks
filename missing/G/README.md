@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
+| GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
 | GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
+| Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Football League | 416118 | [416118-gridiron-football-league.json](./416118-gridiron-football-league.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
