@@ -2321,6 +2321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
 | March of the Drunken Sailors | 254994 | [254994-march-of-the-drunken-sailors.json](./254994-march-of-the-drunken-sailors.json) |
+| March of the Eagles: British Unit Pack | 119427 | [119427-march-of-the-eagles-british-unit-pack.json](./119427-march-of-the-eagles-british-unit-pack.json) |
+| March of the Eagles: French Unit Pack | 119428 | [119428-march-of-the-eagles-french-unit-pack.json](./119428-march-of-the-eagles-french-unit-pack.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
@@ -3910,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matter | 112900 | [112900-matter.json](./112900-matter.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
+| Matter of the Dreams | 119467 | [119467-matter-of-the-dreams.json](./119467-matter-of-the-dreams.json) |
 | Matterhorn | 306001 | [306001-matterhorn.json](./306001-matterhorn.json) |
 | Matterhorn Mirka | 179540 | [179540-matterhorn-mirka.json](./179540-matterhorn-mirka.json) |
 | Matthew: Last Journey | 152808 | [152808-matthew-last-journey.json](./152808-matthew-last-journey.json) |
@@ -5914,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
 | Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
+| Men in Black: First Assignment | 119418 | [119418-men-in-black-first-assignment.json](./119418-men-in-black-first-assignment.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
