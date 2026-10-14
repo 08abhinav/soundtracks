@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
 | Infinite Origin | 348825 | [348825-infinite-origin.json](./348825-infinite-origin.json) |
+| Infinite Passengers | 88161 | [88161-infinite-passengers.json](./88161-infinite-passengers.json) |
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
 | Infinite Prison | 210531 | [210531-infinite-prison.json](./210531-infinite-prison.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
 | Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
+| Injured by space | 88147 | [88147-injured-by-space.json](./88147-injured-by-space.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
 | Injustice 2: Black Lightning | 323321 | [323321-injustice-2-black-lightning.json](./323321-injustice-2-black-lightning.json) |
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
