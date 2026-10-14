@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
 | Las Vegas Blackjack! | 41544 | [41544-las-vegas-blackjack.json](./41544-las-vegas-blackjack.json) |
+| Las Vegas Casino Party | 131278 | [131278-las-vegas-casino-party.json](./131278-las-vegas-casino-party.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
 | Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
+| Legendary Knight | 130087 | [130087-legendary-knight.json](./130087-legendary-knight.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
@@ -3648,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links Expansion Pack | 85753 | [85753-links-expansion-pack.json](./85753-links-expansion-pack.json) |
 | Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
 | Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
+| Links LS 2000: 10 Course Pack | 131270 | [131270-links-ls-2000-10-course-pack.json](./131270-links-ls-2000-10-course-pack.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
@@ -6030,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
+| Lu Zhou: Oasis | 130066 | [130066-lu-zhou-oasis.json](./130066-lu-zhou-oasis.json) |
 | Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Lua | 210850 | [210850-lua.json](./210850-lua.json) |
