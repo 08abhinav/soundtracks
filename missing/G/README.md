@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
+| Glowing Cat | 112098 | [112098-glowing-cat.json](./112098-glowing-cat.json) |
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
 | Glowmonkey Skateboarding | 234725 | [234725-glowmonkey-skateboarding.json](./234725-glowmonkey-skateboarding.json) |
 | Glowmonkey vs. Meltdown | 234724 | [234724-glowmonkey-vs-meltdown.json](./234724-glowmonkey-vs-meltdown.json) |
@@ -4233,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
+| Golden 8bits | 112205 | [112205-golden-8bits.json](./112205-golden-8bits.json) |
 | Golden Age | 193661 | [193661-golden-age.json](./193661-golden-age.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
