@@ -3276,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
 | Sega Ages 2500 Vol. 16: Virtua Fighter 2 | 43206 | [43206-sega-ages-2500-vol-16-virtua-fighter-2.json](./43206-sega-ages-2500-vol-16-virtua-fighter-2.json) |
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
+| Sega Ages 2500 Vol. 21: SDI & Quartet - Sega System 16 Collection | 131265 | [131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json](./131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
@@ -3667,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Garden | 334863 | [334863-sentimental-garden.json](./334863-sentimental-garden.json) |
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
+| Sentimental Graffiti 2 | 130632 | [130632-sentimental-graffiti-2.json](./130632-sentimental-graffiti-2.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentimental K | 132567 | [132567-sentimental-k.json](./132567-sentimental-k.json) |
 | Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot | 287553 | [287553-shoot.json](./287553-shoot.json) |
+| Shoot 'em up Construction Kit | 131285 | [131285-shoot-em-up-construction-kit.json](./131285-shoot-em-up-construction-kit.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
@@ -7132,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat: Crunch Time | 86936 | [86936-simons-cat-crunch-time.json](./86936-simons-cat-crunch-time.json) |
 | Simon's Cat: Pop Time | 105515 | [105515-simons-cat-pop-time.json](./105515-simons-cat-pop-time.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
+| Simov | 130639 | [130639-simov.json](./130639-simov.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
 | SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
@@ -8606,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
 | Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
+| Slayers for Hire | 130661 | [130661-slayers-for-hire.json](./130661-slayers-for-hire.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
 | Slayers, Inc. | 155364 | [155364-slayers-inc.json](./155364-slayers-inc.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
@@ -9079,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Shots Pinball Collection | 197571 | [197571-slot-shots-pinball-collection.json](./197571-slot-shots-pinball-collection.json) |
 | Slot Shots Pinball: Ultimate Edition | 276969 | [276969-slot-shots-pinball-ultimate-edition.json](./276969-slot-shots-pinball-ultimate-edition.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
+| Slot-Tris | 131257 | [131257-slot-tris.json](./131257-slot-tris.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
 | Slot! Pro 2 Advance: Go Go Juggler & New Tairyou | 49814 | [49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json](./49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json) |
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
@@ -9585,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
+| Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
@@ -14862,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
+| Sport 10 Pack | 131264 | [131264-sport-10-pack.json](./131264-sport-10-pack.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
@@ -16076,6 +16084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation - Echoes from the Past | 46195 | [46195-star-trek-the-next-generation-echoes-from-the-past.json](./46195-star-trek-the-next-generation-echoes-from-the-past.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
+| Star Trek: The Next Generation - Trivia | 131258 | [131258-star-trek-the-next-generation-trivia.json](./131258-star-trek-the-next-generation-trivia.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
 | Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
@@ -18284,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
+| Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
 | Strawberry Shortcake: And Her Berry Best Friends | 23813 | [23813-strawberry-shortcake-and-her-berry-best-friends.json](./23813-strawberry-shortcake-and-her-berry-best-friends.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
@@ -19596,6 +19606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sully | 63552 | [63552-sully.json](./63552-sully.json) |
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
+| Sulphur Nimbus: Hel's Elixir | 130625 | [130625-sulphur-nimbus-hels-elixir.json](./130625-sulphur-nimbus-hels-elixir.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
