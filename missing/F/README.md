@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
+| Family Guy Online | 76456 | [76456-family-guy-online.json](./76456-family-guy-online.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Air Griffin | 255575 | [255575-family-guy-air-griffin.json](./255575-family-guy-air-griffin.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
@@ -8937,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
+| Fun School 3: for 5 to 7 Year Olds | 76470 | [76470-fun-school-3-for-5-to-7-year-olds.json](./76470-fun-school-3-for-5-to-7-year-olds.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun Times at Homer´s | 385268 | [385268-fun-times-at-homer-s.json](./385268-fun-times-at-homer-s.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
