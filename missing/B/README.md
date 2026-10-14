@@ -11920,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
 | Butts: The VR Experience | 33602 | [33602-butts-the-vr-experience.json](./33602-butts-the-vr-experience.json) |
 | Buttsubushi | 43800 | [43800-buttsubushi.json](./43800-buttsubushi.json) |
+| Buubuu Mario | 131953 | [131953-buubuu-mario.json](./131953-buubuu-mario.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
