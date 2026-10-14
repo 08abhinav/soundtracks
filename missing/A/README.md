@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
+| Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
 | Alien | 195029 | [195029-alien.json](./195029-alien.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
