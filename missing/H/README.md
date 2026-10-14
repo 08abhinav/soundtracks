@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
 | Hardboiled | 193701 | [193701-hardboiled.json](./193701-hardboiled.json) |
+| Hardboiled Pinball | 131260 | [131260-hardboiled-pinball.json](./131260-hardboiled-pinball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
 | Hardcoded | 146619 | [146619-hardcoded.json](./146619-hardcoded.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
+| Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Pets | 209914 | [209914-hollywood-pets.json](./209914-hollywood-pets.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
+| Hollywood Poker | 131291 | [131291-hollywood-poker.json](./131291-hollywood-poker.json) |
 | Hollywood Poker Pro | 75232 | [75232-hollywood-poker-pro.json](./75232-hollywood-poker-pro.json) |
 | Hollywood Squares | 198761 | [198761-hollywood-squares.json](./198761-hollywood-squares.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
