@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcoded | 146619 | [146619-hardcoded.json](./146619-hardcoded.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore and Death | 414503 | [414503-hardcore-and-death.json](./414503-hardcore-and-death.json) |
+| Hardcore Bunny Jumper | 118087 | [118087-hardcore-bunny-jumper.json](./118087-hardcore-bunny-jumper.json) |
 | Hardcore Circus | 325495 | [325495-hardcore-circus.json](./325495-hardcore-circus.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
@@ -6116,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
+| Homicide | 118110 | [118110-homicide.json](./118110-homicide.json) |
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicide Squad: Hidden Crimes | 96323 | [96323-homicide-squad-hidden-crimes.json](./96323-homicide-squad-hidden-crimes.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
@@ -6992,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
+| Hot Zone | 118123 | [118123-hot-zone.json](./118123-hot-zone.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
