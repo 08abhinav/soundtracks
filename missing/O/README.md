@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya | 34427 | [34427-osteya.json](./34427-osteya.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
+| Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
