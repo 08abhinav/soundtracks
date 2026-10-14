@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniSweeper | 375573 | [375573-infinisweeper.json](./375573-infinisweeper.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
+| Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
+| Intemporel | 132537 | [132537-intemporel.json](./132537-intemporel.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
 | Intensive Exposure | 23725 | [23725-intensive-exposure.json](./23725-intensive-exposure.json) |
