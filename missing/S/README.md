@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
+| Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
+| Sentinels: High Energy Tower Defense | 79131 | [79131-sentinels-high-energy-tower-defense.json](./79131-sentinels-high-energy-tower-defense.json) |
 | Sentinent Steel | 249921 | [249921-sentinent-steel.json](./249921-sentinent-steel.json) |
 | Sento Survivor: Slip, Grab, and Bathe in Glory! | 390231 | [390231-sento-survivor-slip-grab-and-bathe-in-glory.json](./390231-sento-survivor-slip-grab-and-bathe-in-glory.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
@@ -3915,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
+| Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
@@ -14047,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
+| Speed Limit: Stage 2 | 79144 | [79144-speed-limit-stage-2.json](./79144-speed-limit-stage-2.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
 | Speed Master | 211977 | [211977-speed-master.json](./211977-speed-master.json) |
 | Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
@@ -19542,6 +19546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
+| Subversion | 79125 | [79125-subversion.json](./79125-subversion.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
 | Subvirtual | 323444 | [323444-subvirtual.json](./323444-subvirtual.json) |
