@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
 | Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
+| Random Rooms | 86761 | [86761-random-rooms.json](./86761-random-rooms.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
 | Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Transfer: Legacy Edition | 180141 | [180141-riddle-transfer-legacy-edition.json](./180141-riddle-transfer-legacy-edition.json) |
 | Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
+| RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
 | Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
@@ -5770,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Rideshare | 184920 | [184920-robber-rideshare.json](./184920-robber-rideshare.json) |
 | Robber Sam | 202722 | [202722-robber-sam.json](./202722-robber-sam.json) |
 | Robber's Horror | 126898 | [126898-robbers-horror.json](./126898-robbers-horror.json) |
+| Robbers Runners | 86717 | [86717-robbers-runners.json](./86717-robbers-runners.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Bob: Man of Steal | 35166 | [35166-robbery-bob-man-of-steal.json](./35166-robbery-bob-man-of-steal.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
@@ -7931,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
+| Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 2017 | 31304 | [31304-rugby-union-team-manager-2017.json](./31304-rugby-union-team-manager-2017.json) |
@@ -8502,6 +8506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russia.2028 | 76877 | [76877-russia-2028.json](./76877-russia-2028.json) |
 | Russian Anime | 156034 | [156034-russian-anime.json](./156034-russian-anime.json) |
 | Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
+| Russian AYE Race | 86678 | [86678-russian-aye-race.json](./86678-russian-aye-race.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
