@@ -17873,6 +17873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth | 100675 | [100675-touhou-genso-wanderer-lotus-labyrinth.json](./100675-touhou-genso-wanderer-lotus-labyrinth.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
