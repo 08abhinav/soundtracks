@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score | 33624 | [33624-score.json](./33624-score.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
+| Score a goal 2 (Physical football) | 91305 | [91305-score-a-goal-2-physical-football.json](./91305-score-a-goal-2-physical-football.json) |
 | Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score of a Lifetime | 276744 | [276744-score-of-a-lifetime.json](./276744-score-of-a-lifetime.json) |
@@ -2702,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
 | Sea of Leaves | 128275 | [128275-sea-of-leaves.json](./128275-sea-of-leaves.json) |
 | Sea of Legends | 183803 | [183803-sea-of-legends.json](./183803-sea-of-legends.json) |
+| Sea of Lies: Beneath the Surface | 91240 | [91240-sea-of-lies-beneath-the-surface.json](./91240-sea-of-lies-beneath-the-surface.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
 | Sea of Lies: Mutiny of the Heart | 139729 | [139729-sea-of-lies-mutiny-of-the-heart.json](./139729-sea-of-lies-mutiny-of-the-heart.json) |
@@ -16354,6 +16356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Classics Collection | 53664 | [53664-star-wars-classics-collection.json](./53664-star-wars-classics-collection.json) |
 | Star Wars Collection | 54400 | [54400-star-wars-collection.json](./54400-star-wars-collection.json) |
 | Star Wars Combine | 139075 | [139075-star-wars-combine.json](./139075-star-wars-combine.json) |
+| Star Wars Dice | 91312 | [91312-star-wars-dice.json](./91312-star-wars-dice.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
@@ -19200,6 +19203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
+| Stunt Car Parking and Driving Simulator | 91257 | [91257-stunt-car-parking-and-driving-simulator.json](./91257-stunt-car-parking-and-driving-simulator.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
 | Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
