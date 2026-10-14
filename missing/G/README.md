@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
 | Genso Suikoden Card Stories | 1451 | [1451-genso-suikoden-card-stories.json](./1451-genso-suikoden-card-stories.json) |
+| Genso Suikoden I & II | 81120 | [81120-genso-suikoden-i-and-ii.json](./81120-genso-suikoden-i-and-ii.json) |
 | Genso Suikoden: Tsumugareshi Hyaku-nen no Toki | 1453 | [1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json](./1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json) |
 | Genso Suikogaiden Volume 1: Swordsman of Harmonia | 1455 | [1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json](./1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json) |
 | Genso Suikogaiden Volume 2: Duel at the Crystal Valley | 1457 | [1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json](./1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json) |
@@ -5838,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
+| Great Cause of the Three Kingdoms | 81074 | [81074-great-cause-of-the-three-kingdoms.json](./81074-great-cause-of-the-three-kingdoms.json) |
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
