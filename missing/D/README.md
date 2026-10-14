@@ -11456,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Adventures | 310085 | [310085-duck-adventures.json](./310085-duck-adventures.json) |
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
+| Duck Attack! | 93457 | [93457-duck-attack.json](./93457-duck-attack.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
 | Duck Build | 176329 | [176329-duck-build.json](./176329-duck-build.json) |
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
@@ -12721,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
+| Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
