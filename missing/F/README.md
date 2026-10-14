@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
+| Ferret Scoundrels | 117434 | [117434-ferret-scoundrels.json](./117434-ferret-scoundrels.json) |
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
 | Ferris Wheel and the World's End | 398634 | [398634-ferris-wheel-and-the-worlds-end.json](./398634-ferris-wheel-and-the-worlds-end.json) |
 | Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
@@ -7195,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Nights at Omori | 255560 | [255560-four-nights-at-omori.json](./255560-four-nights-at-omori.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
+| Four Seals | 117469 | [117469-four-seals.json](./117469-four-seals.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
