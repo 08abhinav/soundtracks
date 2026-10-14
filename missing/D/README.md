@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSwitch | 345416 | [345416-darkswitch.json](./345416-darkswitch.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
+| Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Trading Simulator | 357195 | [357195-day-trading-simulator.json](./357195-day-trading-simulator.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
+| Day Zero - Build, Craft, Survive | 119485 | [119485-day-zero-build-craft-survive.json](./119485-day-zero-build-craft-survive.json) |
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Day: 40 | 116915 | [116915-day-40.json](./116915-day-40.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
@@ -2772,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
+| Dear My Friend | 119466 | [119466-dear-my-friend.json](./119466-dear-my-friend.json) |
 | Dear My Friend: Love Like Powdery Snow | 380665 | [380665-dear-my-friend-love-like-powdery-snow.json](./380665-dear-my-friend-love-like-powdery-snow.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
 | Dear Otome | 228354 | [228354-dear-otome.json](./228354-dear-otome.json) |
@@ -8822,6 +8825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
+| DosQ | 119439 | [119439-dosq.json](./119439-dosq.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
 | Dosukoi Densetsu | 397896 | [397896-dosukoi-densetsu.json](./397896-dosukoi-densetsu.json) |
