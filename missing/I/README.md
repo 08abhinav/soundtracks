@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
 | Idol Project: NTR | 169253 | [169253-idol-project-ntr.json](./169253-idol-project-ntr.json) |
 | Idol Queens Production | 168674 | [168674-idol-queens-production.json](./168674-idol-queens-production.json) |
+| Idol Quest VR | 81947 | [81947-idol-quest-vr.json](./81947-idol-quest-vr.json) |
 | Idol Shell | 415207 | [415207-idol-shell.json](./415207-idol-shell.json) |
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
