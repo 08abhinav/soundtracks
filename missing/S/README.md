@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
+| Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Period Chemistry | 181660 | [181660-second-period-chemistry.json](./181660-second-period-chemistry.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
+| Shimmer | 105213 | [105213-shimmer.json](./105213-shimmer.json) |
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
@@ -10031,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Strike: Special Ops | 261423 | [261423-sniper-strike-special-ops.json](./261423-sniper-strike-special-ops.json) |
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Tactical | 35143 | [35143-sniper-tactical.json](./35143-sniper-tactical.json) |
+| Sniper Tanks | 105187 | [105187-sniper-tanks.json](./105187-sniper-tanks.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
@@ -10722,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
+| Solar Fighters | 105185 | [105185-solar-fighters.json](./105185-solar-fighters.json) |
 | Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
@@ -12929,6 +12933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
 | Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
+| Space Hamster in Turmoil | 105221 | [105221-space-hamster-in-turmoil.json](./105221-space-hamster-in-turmoil.json) |
 | Space Harrier | 12857 | [12857-space-harrier.json](./12857-space-harrier.json) |
 | Space Harrier | 263380 | [263380-space-harrier.json](./263380-space-harrier.json) |
 | Space Harrier | 306455 | [306455-space-harrier.json](./306455-space-harrier.json) |
@@ -17697,6 +17702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
 | Stick and Stack | 344541 | [344541-stick-and-stack.json](./344541-stick-and-stack.json) |
+| Stick Arena | 105206 | [105206-stick-arena.json](./105206-stick-arena.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
 | Stick Blender | 313177 | [313177-stick-blender.json](./313177-stick-blender.json) |
@@ -19076,6 +19082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
+| Study of Unusual: Forest of Secrets | 105184 | [105184-study-of-unusual-forest-of-secrets.json](./105184-study-of-unusual-forest-of-secrets.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
 | Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
@@ -22614,6 +22621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
+| Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
 | Surface: The Pantheon - Collector's Edition | 32734 | [32734-surface-the-pantheon-collectors-edition.json](./32734-surface-the-pantheon-collectors-edition.json) |
@@ -23505,6 +23513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Swiss Knife | 126358 | [126358-swiss-knife.json](./126358-swiss-knife.json) |
+| Switch - Black & White | 105208 | [105208-switch-black-and-white.json](./105208-switch-black-and-white.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
