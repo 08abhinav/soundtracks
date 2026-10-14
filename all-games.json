@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:27:46.409Z",
-  "total_soundtracks": 1663,
+  "generated_at": "2026-10-14T21:27:59.189Z",
+  "total_soundtracks": 1664,
   "games": [
     {
       "igdb_id": 7522,
@@ -11801,6 +11801,20 @@
           "spotify_url": "https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1756061492"
+        }
+      ]
+    },
+    {
+      "igdb_id": 107292,
+      "game_name": "Onimusha: Warlords",
+      "game_url": "https://ostdb.net/games/onimusha-warlords",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f7ded1934e2a3d5a6195b16a",
+      "albums": [
+        {
+          "album_name": "Onimusha: Warlords (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Xfhs2fSndWIkTlEFHr8sq",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
