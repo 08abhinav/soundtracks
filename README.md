@@ -1306,6 +1306,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/37/91/0637914d-bbf7-384a-0345-14d477c2e4d1/PA00112601_4_160653_jacket.jpg/600x600bb.jpg" width="60" /> | [Yakuza: Like a Dragon](https://ostdb.net/games/yakuza-like-a-dragon) | **YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) · [Apple Music](https://music.apple.com/us/album/yakuza-like-a-dragon-original-soundtrack/1668127277) · [Album](https://album.link/i/1668127277) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e57daecf9b7b99070ce7663c" width="60" /> | [Yandere Simulator](https://ostdb.net/games/yandere-simulator) | **Yandere Simulator Original Soundtrack 2021, Vol. 1** · [Spotify](https://open.spotify.com/album/5IKaplNL0AHE0SHVstFY4n)<br>**Yandere Simulator Original Soundtrack 2021, Vol. 2** · [Spotify](https://open.spotify.com/album/1s0OGOdt3Nm1ad2cC9ZzIP)<br>**Yandere Simulator Original Soundtrack 2022** · [Spotify](https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/ad/9e/f8ad9efa-9067-9520-dce1-55db47365143/811576033183.png/600x600bb.jpg" width="60" /> | [Yooka-Laylee](https://ostdb.net/games/yooka-laylee) | **Yooka-Laylee (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/yooka-laylee-original-game-soundtrack/1501664719?uo=4) · [Album](https://album.link/i/1501664719) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273441b6c1a9bebf622b15e7581" width="60" /> | [Ys VI: The Ark of Napishtim](https://ostdb.net/games/ys-vi-the-ark-of-napishtim) | **Ys VI - the Ark of Napishtim - Original Soundtrack** · [Spotify](https://open.spotify.com/album/243abdc5kJkLqCupxJzWj1) |
 
 ### Z
 
@@ -1329,4 +1330,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1646 soundtracks · last updated 2026-10-14T18:55:46.337Z_
+_1647 soundtracks · last updated 2026-10-14T18:56:00.280Z_
