@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
 | Samurai Spirits Zero Special (Unfixed) | 75447 | [75447-samurai-spirits-zero-special-unfixed.json](./75447-samurai-spirits-zero-special-unfixed.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
+| Samurai Spirits: Oborozuki Densetsu | 108879 | [108879-samurai-spirits-oborozuki-densetsu.json](./108879-samurai-spirits-oborozuki-densetsu.json) |
 | Samurai Spirits! 2 (Best Collection) | 75448 | [75448-samurai-spirits-2-best-collection.json](./75448-samurai-spirits-2-best-collection.json) |
 | Samurai Standoff | 385921 | [385921-samurai-standoff.json](./385921-samurai-standoff.json) |
 | Samurai Story | 200495 | [200495-samurai-story.json](./200495-samurai-story.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
+| Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
@@ -6180,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
 | Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
+| Short Life | 108798 | [108798-short-life.json](./108798-short-life.json) |
 | Short Maps for Short People | 281356 | [281356-short-maps-for-short-people.json](./281356-short-maps-for-short-people.json) |
 | Short Maps for Short People 2 | 281357 | [281357-short-maps-for-short-people-2.json](./281357-short-maps-for-short-people-2.json) |
 | Short Maps for Short People 3 | 281358 | [281358-short-maps-for-short-people-3.json](./281358-short-maps-for-short-people-3.json) |
@@ -8957,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Knight | 364041 | [364041-slime-knight.json](./364041-slime-knight.json) |
 | Slime Knight | 412203 | [412203-slime-knight.json](./412203-slime-knight.json) |
 | Slime Lab | 418582 | [418582-slime-lab.json](./418582-slime-lab.json) |
+| Slime Laboratory | 108794 | [108794-slime-laboratory.json](./108794-slime-laboratory.json) |
 | Slime Labs | 152791 | [152791-slime-labs.json](./152791-slime-labs.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
@@ -12672,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
+| Space Barnacle | 108889 | [108889-space-barnacle.json](./108889-space-barnacle.json) |
 | Space Base | 302753 | [302753-space-base.json](./302753-space-base.json) |
 | Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
@@ -17189,6 +17194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Camping Simulator | 302074 | [302074-stealth-camping-simulator.json](./302074-stealth-camping-simulator.json) |
 | Stealth Combat | 79366 | [79366-stealth-combat.json](./79366-stealth-combat.json) |
 | Stealth Crossword | 342198 | [342198-stealth-crossword.json](./342198-stealth-crossword.json) |
+| Stealth Fishing | 108793 | [108793-stealth-fishing.json](./108793-stealth-fishing.json) |
 | Stealth Force 2 | 10925 | [10925-stealth-force-2.json](./10925-stealth-force-2.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Granny in the House | 96910 | [96910-stealth-granny-in-the-house.json](./96910-stealth-granny-in-the-house.json) |
