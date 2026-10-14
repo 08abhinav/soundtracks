@@ -4243,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
+| Revenge of Dog | 95946 | [95946-revenge-of-dog.json](./95946-revenge-of-dog.json) |
 | Revenge of Ilcoin | 261420 | [261420-revenge-of-ilcoin.json](./261420-revenge-of-ilcoin.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
+| Rocket Valley Tycoon | 95964 | [95964-rocket-valley-tycoon.json](./95964-rocket-valley-tycoon.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
@@ -6747,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
 | Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
+| Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
