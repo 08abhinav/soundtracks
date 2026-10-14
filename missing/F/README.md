@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favorite Dear | 63532 | [63532-favorite-dear.json](./63532-favorite-dear.json) |
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
+| Favorite Miner | 84079 | [84079-favorite-miner.json](./84079-favorite-miner.json) |
 | Fawe: Enchanted Forest | 193212 | [193212-fawe-enchanted-forest.json](./193212-fawe-enchanted-forest.json) |
 | Fawful Mod Mario Kart 7 | 340981 | [340981-fawful-mod-mario-kart-7.json](./340981-fawful-mod-mario-kart-7.json) |
 | Fawful Mod Mario Kart 8 | 340982 | [340982-fawful-mod-mario-kart-8.json](./340982-fawful-mod-mario-kart-8.json) |
