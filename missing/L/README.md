@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
+| Level-ROM | 116804 | [116804-level-rom.json](./116804-level-rom.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
@@ -4638,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
 | Logistical 2: USA - Nevada | 115076 | [115076-logistical-2-usa-nevada.json](./115076-logistical-2-usa-nevada.json) |
+| Logistical 2: Vampires | 116782 | [116782-logistical-2-vampires.json](./116782-logistical-2-vampires.json) |
 | Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
 | Logistical 3 | 153003 | [153003-logistical-3.json](./153003-logistical-3.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
