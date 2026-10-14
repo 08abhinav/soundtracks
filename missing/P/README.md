@@ -2411,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
 | PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
+| PC Pool Challenges | 93464 | [93464-pc-pool-challenges.json](./93464-pc-pool-challenges.json) |
 | PC Reciclator | 145894 | [145894-pc-reciclator.json](./145894-pc-reciclator.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
+| Pickle Wars | 93466 | [93466-pickle-wars.json](./93466-pickle-wars.json) |
 | Pickle's Book | 137999 | [137999-pickles-book.json](./137999-pickles-book.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
@@ -7049,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocoyo World | 208235 | [208235-pocoyo-world.json](./208235-pocoyo-world.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
+| POD: Back to Hell | 93467 | [93467-pod-back-to-hell.json](./93467-pod-back-to-hell.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
@@ -11182,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psy-O-Blade | 28023 | [28023-psy-o-blade.json](./28023-psy-o-blade.json) |
 | Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
 | Psy-Phi | 66393 | [66393-psy-phi.json](./66393-psy-phi.json) |
+| Psyborg | 93450 | [93450-psyborg.json](./93450-psyborg.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
