@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
 | Fairytale Requiem | 59271 | [59271-fairytale-requiem.json](./59271-fairytale-requiem.json) |
+| Fairytale Solitaire: Red Riding Hood | 120086 | [120086-fairytale-solitaire-red-riding-hood.json](./120086-fairytale-solitaire-red-riding-hood.json) |
 | Fairytale Solitaire: Witch Charms | 130843 | [130843-fairytale-solitaire-witch-charms.json](./130843-fairytale-solitaire-witch-charms.json) |
 | Fairytale Symphony | 330166 | [330166-fairytale-symphony.json](./330166-fairytale-symphony.json) |
 | Fairytale Theatre | 238554 | [238554-fairytale-theatre.json](./238554-fairytale-theatre.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
 | Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
+| Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
@@ -2066,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
+| Fata Deum | 122084 | [122084-fata-deum.json](./122084-fata-deum.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
 | Fatal Abyss | 70614 | [70614-fatal-abyss.json](./70614-fatal-abyss.json) |
 | Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
@@ -2317,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
+| FBI: Paranormal Case | 122102 | [122102-fbi-paranormal-case.json](./122102-fbi-paranormal-case.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
@@ -2352,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
+| Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
@@ -2983,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
 | Fifth World | 272769 | [272769-fifth-world.json](./272769-fifth-world.json) |
+| Fifty Words by Powgi | 123311 | [123311-fifty-words-by-powgi.json](./123311-fifty-words-by-powgi.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
 | Figaro | 364631 | [364631-figaro.json](./364631-figaro.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
@@ -3235,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fimbles: Fimbling Fun! | 307345 | [307345-fimbles-fimbling-fun.json](./307345-fimbles-fimbling-fun.json) |
 | Fimbul Winter | 149891 | [149891-fimbul-winter.json](./149891-fimbul-winter.json) |
 | Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
+| Fin and the Ancient Mystery | 123312 | [123312-fin-and-the-ancient-mystery.json](./123312-fin-and-the-ancient-mystery.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
@@ -4174,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Contact | 55986 | [55986-first-contact.json](./55986-first-contact.json) |
 | First Contact Protocol | 355500 | [355500-first-contact-protocol.json](./355500-first-contact-protocol.json) |
 | First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
+| First Customer | 119484 | [119484-first-customer.json](./119484-first-customer.json) |
 | First Cut | 177279 | [177279-first-cut.json](./177279-first-cut.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First date/Can't relate | 179616 | [179616-first-date-cant-relate.json](./179616-first-date-cant-relate.json) |
@@ -6184,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
+| For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
@@ -6410,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest of Destiny | 298974 | [298974-forest-of-destiny.json](./298974-forest-of-destiny.json) |
+| Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
@@ -7485,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
 | Frankenstein: Story Type Room Escape Adventure | 137428 | [137428-frankenstein-story-type-room-escape-adventure.json](./137428-frankenstein-story-type-room-escape-adventure.json) |
+| Frankenstein: The Dismembered Bride | 122090 | [122090-frankenstein-the-dismembered-bride.json](./122090-frankenstein-the-dismembered-bride.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
 | Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
@@ -8212,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Fire Emergence | 302928 | [302928-from-fire-emergence.json](./302928-from-fire-emergence.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
+| From Head to Toe | 120053 | [120053-from-head-to-toe.json](./120053-from-head-to-toe.json) |
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
@@ -9117,6 +9129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
+| Fury's Sky | 121334 | [121334-furys-sky.json](./121334-furys-sky.json) |
 | Fury3 | 21787 | [21787-fury3.json](./21787-fury3.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
