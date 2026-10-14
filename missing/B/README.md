@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
+| Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -3346,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearnard + What Lies in the Multiverse | 375405 | [375405-bearnard-what-lies-in-the-multiverse.json](./375405-bearnard-what-lies-in-the-multiverse.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
+| Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
@@ -6813,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
+| Blobbins 2048 | 115417 | [115417-blobbins-2048.json](./115417-blobbins-2048.json) |
 | Blobble Wars 2 | 208636 | [208636-blobble-wars-2.json](./208636-blobble-wars-2.json) |
 | Blobbs Remastered | 335810 | [335810-blobbs-remastered.json](./335810-blobbs-remastered.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
@@ -7609,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blub Emporium | 158418 | [158418-blub-emporium.json](./158418-blub-emporium.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
+| BluBoy: The Journey Begins | 115509 | [115509-bluboy-the-journey-begins.json](./115509-bluboy-the-journey-begins.json) |
 | Bludgeon | 119488 | [119488-bludgeon.json](./119488-bludgeon.json) |
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
@@ -8535,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
+| Book of Eos | 115388 | [115388-book-of-eos.json](./115388-book-of-eos.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
@@ -9698,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
+| Brave knight runner | 115496 | [115496-brave-knight-runner.json](./115496-brave-knight-runner.json) |
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
@@ -9733,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
 | Braveland Pirate | 34737 | [34737-braveland-pirate.json](./34737-braveland-pirate.json) |
+| Braveland Trilogy | 115418 | [115418-braveland-trilogy.json](./115418-braveland-trilogy.json) |
 | Braveland Wizard | 8755 | [8755-braveland-wizard.json](./8755-braveland-wizard.json) |
 | Bravely Archive: D's Report | 288149 | [288149-bravely-archive-ds-report.json](./288149-bravely-archive-ds-report.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
@@ -10942,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
+| Bud Blitz | 115521 | [115521-bud-blitz.json](./115521-bud-blitz.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Masters: Battle Edition | 142316 | [142316-bud-masters-battle-edition.json](./142316-bud-masters-battle-edition.json) |
@@ -11341,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
+| Bullynoid | 115504 | [115504-bullynoid.json](./115504-bullynoid.json) |
 | Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
