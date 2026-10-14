@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
 | Helionaut | 136730 | [136730-helionaut.json](./136730-helionaut.json) |
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
+| Heliophobia | 110751 | [110751-heliophobia.json](./110751-heliophobia.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | Helios Equinox | 361642 | [361642-helios-equinox.json](./361642-helios-equinox.json) |
