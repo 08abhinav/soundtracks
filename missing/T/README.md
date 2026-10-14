@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
+| Tales of Eternia Online | 79163 | [79163-tales-of-eternia-online.json](./79163-tales-of-eternia-online.json) |
 | Tales of Eternia: Remastered | 405458 | [405458-tales-of-eternia-remastered.json](./405458-tales-of-eternia-remastered.json) |
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
 | Tales of Fablecraft: Storyteller Collection | 365208 | [365208-tales-of-fablecraft-storyteller-collection.json](./365208-tales-of-fablecraft-storyteller-collection.json) |
@@ -4301,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
 | The Battle of Sol | 36416 | [36416-the-battle-of-sol.json](./36416-the-battle-of-sol.json) |
+| The Battle of YuYu Hakusho: Shitou! Ankoku Bujutsukai! 120% | 79148 | [79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json](./79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
@@ -12843,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
+| The Wit.nes | 79140 | [79140-the-wit-nes.json](./79140-the-wit-nes.json) |
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
@@ -18867,6 +18870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
+| TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
 | Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
@@ -19333,6 +19337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
+| Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
 | Train Simulator: Allgäubahn: Kempten - Lindau & Immenstadt: Oberstdorf Route | 156403 | [156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json](./156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json) |
 | Train Simulator: B&O Kingwood Branch: Tunnelton - Kingwood Route Add-On | 156384 | [156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json](./156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json) |
