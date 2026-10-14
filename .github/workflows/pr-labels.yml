@@ -1,0 +1,112 @@
+name: Label pull requests
+
+# Labels every soundtrack PR by where it came from (bot / web / community),
+# whether it adds or edits a soundtrack, and which streaming links it has.
+# pull_request_target runs with this repository's token, so it also works for
+# PRs from forks; it never checks out or runs PR code, it only reads the JSON.
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize, ready_for_review]
+  workflow_dispatch:
+    inputs:
+      all_open:
+        description: "Relabel every open PR"
+        type: boolean
+        default: true
+
+permissions:
+  pull-requests: write
+  issues: write
+  contents: read
+
+concurrency:
+  group: pr-labels-${{ github.event.pull_request.number || 'all' }}
+  cancel-in-progress: false
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const SOURCE = ["source: bot", "source: web", "source: community"];
+            const KIND = ["new soundtrack", "edit"];
+            const PLATFORM = { spotify_url: "spotify", apple_music_url: "apple music", album_link_url: "album.link" };
+            const MANAGED = [...SOURCE, ...KIND, ...Object.values(PLATFORM)];
+
+            // Approved soundtracks, to tell a correction from a new album.
+            let known = null;
+            async function knownAlbums() {
+              if (known) return known;
+              known = new Set();
+              try {
+                const { data } = await github.rest.repos.getContent({ owner, repo, path: "all-games.json", mediaType: { format: "raw" } });
+                const json = JSON.parse(typeof data === "string" ? data : Buffer.from(data).toString("utf8"));
+                for (const game of json.games ?? []) {
+                  for (const album of game.albums ?? []) {
+                    known.add(`${game.igdb_id}|${String(album.album_name ?? "").trim().toLowerCase()}`);
+                  }
+                }
+              } catch (err) {
+                core.warning(`Could not read all-games.json: ${err.message}`);
+              }
+              return known;
+            }
+
+            function sourceOf(pr) {
+              const branch = pr.head.ref;
+              if (/^(spotify|suggest|auto-found)\//.test(branch) || pr.user.login === "ostdbbot") return "source: bot";
+              if (/^web-(add|edit)-/.test(branch) || pr.user.login === "ostdb-submission-checker[bot]") return "source: web";
+              return "source: community";
+            }
+
+            async function labelsFor(pr) {
+              const labels = new Set([sourceOf(pr)]);
+              const files = await github.paginate(github.rest.pulls.listFiles, { owner, repo, pull_number: pr.number, per_page: 100 });
+              const jsonFiles = files.filter((f) => f.status !== "removed" && /^(submissions|missing)\/.+\.json$/.test(f.filename) && !f.filename.endsWith("TEMPLATE.json"));
+              let isEdit = /^web-edit-/.test(pr.head.ref);
+              for (const file of jsonFiles) {
+                let data;
+                try {
+                  const res = await github.rest.repos.getContent({ owner: pr.head.repo.owner.login, repo: pr.head.repo.name, path: file.filename, ref: pr.head.sha, mediaType: { format: "raw" } });
+                  data = JSON.parse(typeof res.data === "string" ? res.data : Buffer.from(res.data).toString("utf8"));
+                } catch (err) {
+                  core.warning(`#${pr.number}: could not read ${file.filename}: ${err.message}`);
+                  continue;
+                }
+                for (const [field, label] of Object.entries(PLATFORM)) {
+                  if (typeof data[field] === "string" && data[field].trim()) labels.add(label);
+                }
+                if (file.filename.startsWith("submissions/") && data.igdb_id && data.album_name) {
+                  const key = `${data.igdb_id}|${String(data.album_name).trim().toLowerCase()}`;
+                  if ((await knownAlbums()).has(key) || data.edit_target_id) isEdit = true;
+                }
+              }
+              if (jsonFiles.length) labels.add(isEdit ? "edit" : "new soundtrack");
+              return [...labels];
+            }
+
+            async function apply(pr) {
+              const wanted = await labelsFor(pr);
+              const current = pr.labels.map((l) => l.name);
+              const stale = current.filter((name) => MANAGED.includes(name) && !wanted.includes(name));
+              for (const name of stale) {
+                await github.rest.issues.removeLabel({ owner, repo, issue_number: pr.number, name }).catch(() => {});
+              }
+              const missing = wanted.filter((name) => !current.includes(name));
+              if (missing.length) await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels: missing });
+              core.info(`#${pr.number}: ${wanted.join(", ")}`);
+            }
+
+            if (context.payload.pull_request) {
+              const { data: pr } = await github.rest.pulls.get({ owner, repo, pull_number: context.payload.pull_request.number });
+              await apply(pr);
+            } else {
+              const prs = await github.paginate(github.rest.pulls.list, { owner, repo, state: "open", per_page: 100 });
+              for (const pr of prs) {
+                try { await apply(pr); } catch (err) { core.warning(`#${pr.number}: ${err.message}`); }
+              }
+            }
