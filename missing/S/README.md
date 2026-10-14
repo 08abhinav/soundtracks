@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
+| Sanatorium | 82652 | [82652-sanatorium.json](./82652-sanatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
@@ -4868,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
+| Shana's Adventure | 82727 | [82727-shanas-adventure.json](./82727-shanas-adventure.json) |
 | Shanchuchameru | 233952 | [233952-shanchuchameru.json](./233952-shanchuchameru.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
@@ -8727,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Girl | 97989 | [97989-slave-girl.json](./97989-slave-girl.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
+| Slave of a Witch | 82651 | [82651-slave-of-a-witch.json](./82651-slave-of-a-witch.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
 | Slave Princess Finne: If Story 1 | 371048 | [371048-slave-princess-finne-if-story-1.json](./371048-slave-princess-finne-if-story-1.json) |
@@ -18587,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
+| Strato'S Sylph | 82702 | [82702-stratos-sylph.json](./82702-stratos-sylph.json) |
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
 | Stratogun | 333116 | [333116-stratogun.json](./333116-stratogun.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
