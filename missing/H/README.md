@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
+| Harlequin's Nightmare | 108817 | [108817-harlequins-nightmare.json](./108817-harlequins-nightmare.json) |
 | Harlequinade | 406863 | [406863-harlequinade.json](./406863-harlequinade.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
