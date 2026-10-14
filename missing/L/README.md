@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry Ragland's 4x4 Challenge | 93468 | [93468-larry-raglands-4x4-challenge.json](./93468-larry-raglands-4x4-challenge.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry the Unlucky: Part 2 | 164602 | [164602-larry-the-unlucky-part-2.json](./164602-larry-the-unlucky-part-2.json) |
+| Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
 | Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
@@ -1441,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
 | League of Light: Justice | 96182 | [96182-league-of-light-justice.json](./96182-league-of-light-justice.json) |
+| League of Light: Silent Mountain - Collector's Edition | 76482 | [76482-league-of-light-silent-mountain-collectors-edition.json](./76482-league-of-light-silent-mountain-collectors-edition.json) |
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
