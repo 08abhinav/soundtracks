@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird That Drinks Tears | 237447 | [237447-the-bird-that-drinks-tears.json](./237447-the-bird-that-drinks-tears.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
+| The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
@@ -8717,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Island Survival | 68663 | [68663-the-lone-island-survival.json](./68663-the-lone-island-survival.json) |
 | The Lone Keeper | 354518 | [354518-the-lone-keeper.json](./354518-the-lone-keeper.json) |
 | The Lone Ranger | 48183 | [48183-the-lone-ranger.json](./48183-the-lone-ranger.json) |
+| The Lone Survivor | 105818 | [105818-the-lone-survivor.json](./105818-the-lone-survivor.json) |
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
@@ -18095,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
+| Tower Builder | 105804 | [105804-tower-builder.json](./105804-tower-builder.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
 | Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
 | Tower Climb | 125754 | [125754-tower-climb.json](./125754-tower-climb.json) |
@@ -21594,6 +21597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TTT: The Torrential Turnabout | 306621 | [306621-ttt-the-torrential-turnabout.json](./306621-ttt-the-torrential-turnabout.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
+| Tu Dealer the Game | 105823 | [105823-tu-dealer-the-game.json](./105823-tu-dealer-the-game.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
 | Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
