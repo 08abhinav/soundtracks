@@ -10380,6 +10380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
+| Briks | 99505 | [99505-briks.json](./99505-briks.json) |
 | Briks 2 | 89668 | [89668-briks-2.json](./89668-briks-2.json) |
 | Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
