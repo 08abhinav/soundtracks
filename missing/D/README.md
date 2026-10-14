@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | DeepHook | 181350 | [181350-deephook.json](./181350-deephook.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
+| DeepLands | 103225 | [103225-deeplands.json](./103225-deeplands.json) |
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
 | Deeply Dark: Found Footage | 132519 | [132519-deeply-dark-found-footage.json](./132519-deeply-dark-found-footage.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
+| DemonsAreCrazy | 103228 | [103228-demonsarecrazy.json](./103228-demonsarecrazy.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
 | Demonschool: Puzzle Killers | 404883 | [404883-demonschool-puzzle-killers.json](./404883-demonschool-puzzle-killers.json) |
@@ -7094,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
+| DiveReal | 103235 | [103235-divereal.json](./103235-divereal.json) |
 | Divergence | 262279 | [262279-divergence.json](./262279-divergence.json) |
 | Divergence | 276673 | [276673-divergence.json](./276673-divergence.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
@@ -11111,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
+| Drop Not! | 103217 | [103217-drop-not.json](./103217-drop-not.json) |
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
