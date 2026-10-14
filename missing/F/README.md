@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
+| Famicom Mukashibanashi: Yuuyuuki | 98885 | [98885-famicom-mukashibanashi-yuuyuuki.json](./98885-famicom-mukashibanashi-yuuyuuki.json) |
 | Famicom Mukashibanashi: Yuuyuuki - Kouhen | 41273 | [41273-famicom-mukashibanashi-yuuyuuki-kouhen.json](./41273-famicom-mukashibanashi-yuuyuuki-kouhen.json) |
 | Famicom Mukashibanashi: Yuuyuuki - Zenpen | 41274 | [41274-famicom-mukashibanashi-yuuyuuki-zenpen.json](./41274-famicom-mukashibanashi-yuuyuuki-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
@@ -8688,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugger | 56588 | [56588-fugger.json](./56588-fugger.json) |
+| Fugitif: Les Aventures de Jack Bludfield - Part 1 | 98918 | [98918-fugitif-les-aventures-de-jack-bludfield-part-1.json](./98918-fugitif-les-aventures-de-jack-bludfield-part-1.json) |
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
@@ -9338,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
+| Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
 | Future Proof | 100420 | [100420-future-proof.json](./100420-future-proof.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
