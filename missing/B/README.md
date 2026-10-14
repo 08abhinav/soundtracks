@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
 | Baezult | 31846 | [31846-baezult.json](./31846-baezult.json) |
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
+| Baff 2 | 120095 | [120095-baff-2.json](./120095-baff-2.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
 | Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
+| Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Beats | 281956 | [281956-beat-the-beats.json](./281956-beat-the-beats.json) |
@@ -4266,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
+| Bepuzzled Animals Jigsaw Puzzle | 120090 | [120090-bepuzzled-animals-jigsaw-puzzle.json](./120090-bepuzzled-animals-jigsaw-puzzle.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
 | Bepuzzled Jigsaw Puzzle: Nature | 241659 | [241659-bepuzzled-jigsaw-puzzle-nature.json](./241659-bepuzzled-jigsaw-puzzle-nature.json) |
@@ -6827,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
+| Block | 120081 | [120081-block.json](./120081-block.json) |
 | Block | 172653 | [172653-block.json](./172653-block.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
@@ -9272,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
+| Box Labyrinth | 120080 | [120080-box-labyrinth.json](./120080-box-labyrinth.json) |
 | Box Maker | 247396 | [247396-box-maker.json](./247396-box-maker.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
