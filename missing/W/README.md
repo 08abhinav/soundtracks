@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
+| WordWhile | 101413 | [101413-wordwhile.json](./101413-wordwhile.json) |
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
+| World Chef | 101407 | [101407-world-chef.json](./101407-world-chef.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
 | World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
