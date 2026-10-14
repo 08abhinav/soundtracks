@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olderiada | 348813 | [348813-olderiada.json](./348813-olderiada.json) |
 | Oldest Golden Treasure | 381847 | [381847-oldest-golden-treasure.json](./381847-oldest-golden-treasure.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
+| OldGrad | 88141 | [88141-oldgrad.json](./88141-oldgrad.json) |
 | OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmo Newton | 95652 | [95652-osmo-newton.json](./95652-osmo-newton.json) |
 | Osmo Numbers | 95651 | [95651-osmo-numbers.json](./95651-osmo-numbers.json) |
+| Osmo Pizza Co. | 88159 | [88159-osmo-pizza-co.json](./88159-osmo-pizza-co.json) |
 | Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
 | Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
@@ -3137,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto's Escape | 291699 | [291699-ottos-escape.json](./291699-ottos-escape.json) |
 | Otto's Magic Blocks | 208926 | [208926-ottos-magic-blocks.json](./208926-ottos-magic-blocks.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
+| Ottoman Empire: Spectacular Millennium | 88121 | [88121-ottoman-empire-spectacular-millennium.json](./88121-ottoman-empire-spectacular-millennium.json) |
 | Ottomax | 257346 | [257346-ottomax.json](./257346-ottomax.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
