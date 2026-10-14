@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
+| K-Point Ski Jumping | 128905 | [128905-k-point-ski-jumping.json](./128905-k-point-ski-jumping.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
 | K-POP Idol Producer | 228944 | [228944-k-pop-idol-producer.json](./228944-k-pop-idol-producer.json) |
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kicking The Ball Over Mountains Of Stuff | 310398 | [310398-kicking-the-ball-over-mountains-of-stuff.json](./310398-kicking-the-ball-over-mountains-of-stuff.json) |
 | Kickle Cubicle | 40238 | [40238-kickle-cubicle.json](./40238-kickle-cubicle.json) |
 | KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
+| Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
@@ -3508,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kops | 71036 | [71036-kops.json](./71036-kops.json) |
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
+| Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
