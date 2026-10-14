@@ -6660,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
+| Sideral | 119471 | [119471-sideral.json](./119471-sideral.json) |
 | Sidereal | 278930 | [278930-sidereal.json](./278930-sidereal.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
@@ -9701,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
+| Snake EX2 | 119435 | [119435-snake-ex2.json](./119435-snake-ex2.json) |
 | Snake Eyes | 208983 | [208983-snake-eyes.json](./208983-snake-eyes.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Eyes Dungeon | 76940 | [76940-snake-eyes-dungeon.json](./76940-snake-eyes-dungeon.json) |
@@ -15103,6 +15105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
+| Sprint RPG | 119430 | [119430-sprint-rpg.json](./119430-sprint-rpg.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
@@ -17478,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
+| Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
@@ -19790,6 +19794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
+| Summer Sports Games | 119477 | [119477-summer-sports-games.json](./119477-summer-sports-games.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
@@ -23505,6 +23510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
 | Sword Hunter | 174588 | [174588-sword-hunter.json](./174588-sword-hunter.json) |
+| Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
