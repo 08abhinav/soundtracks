@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
+| Basketball Hoop | 106437 | [106437-basketball-hoop.json](./106437-basketball-hoop.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
 | Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
 | Basketball Nightmare | 45667 | [45667-basketball-nightmare.json](./45667-basketball-nightmare.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
+| BeSwitched Magic Match 3 | 106472 | [106472-beswitched-magic-match-3.json](./106472-beswitched-magic-match-3.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
@@ -11317,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
+| Bullet Strike: Sniper Battlegrounds | 106475 | [106475-bullet-strike-sniper-battlegrounds.json](./106475-bullet-strike-sniper-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
 | Bullet Time | 254581 | [254581-bullet-time.json](./254581-bullet-time.json) |
 | Bullet Time Agent | 388999 | [388999-bullet-time-agent.json](./388999-bullet-time-agent.json) |
