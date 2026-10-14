@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
+| Real Hair Salon | 95304 | [95304-real-hair-salon.json](./95304-real-hair-salon.json) |
 | Real Hentai 4 | 330225 | [330225-real-hentai-4.json](./330225-real-hentai-4.json) |
 | Real Hentai 5 | 332497 | [332497-real-hentai-5.json](./332497-real-hentai-5.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
+| Robot Wars Game | 95326 | [95326-robot-wars-game.json](./95326-robot-wars-game.json) |
 | Robot Wars: Arenas of Destruction | 16752 | [16752-robot-wars-arenas-of-destruction.json](./16752-robot-wars-arenas-of-destruction.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
