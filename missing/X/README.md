@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xelan Force | 277340 | [277340-xelan-force.json](./277340-xelan-force.json) |
 | Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
+| Xen the Alien | 113567 | [113567-xen-the-alien.json](./113567-xen-the-alien.json) |
 | Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
 | Xena: Warrior Princess | 3648 | [3648-xena-warrior-princess.json](./3648-xena-warrior-princess.json) |
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
@@ -442,7 +443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
-| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
+| XenoGrove | 113555 | [113555-xenogrove.json](./113555-xenogrove.json) |
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
 | Xenogunner Returns: Rule of Chaos | 316693 | [316693-xenogunner-returns-rule-of-chaos.json](./316693-xenogunner-returns-rule-of-chaos.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
