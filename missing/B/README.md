@@ -12018,6 +12018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
+| Butamaru Pants | 97802 | [97802-butamaru-pants.json](./97802-butamaru-pants.json) |
 | Butano Fighter | 184306 | [184306-butano-fighter.json](./184306-butano-fighter.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butasan | 39131 | [39131-butasan.json](./39131-butasan.json) |
