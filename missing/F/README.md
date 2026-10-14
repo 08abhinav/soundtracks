@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairest | 290390 | [290390-fairest.json](./290390-fairest.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
+| Fairground 2: The Ride Simulation | 112832 | [112832-fairground-2-the-ride-simulation.json](./112832-fairground-2-the-ride-simulation.json) |
 | Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairground Power Polyp Simulator | 188927 | [188927-fairground-power-polyp-simulator.json](./188927-fairground-power-polyp-simulator.json) |
 | Fairies | 64733 | [64733-fairies.json](./64733-fairies.json) |
