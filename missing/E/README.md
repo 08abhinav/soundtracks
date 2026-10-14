@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
+| Elysion | 100062 | [100062-elysion.json](./100062-elysion.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysion: Feeling of Release | 222366 | [222366-elysion-feeling-of-release.json](./222366-elysion-feeling-of-release.json) |
 | Elysium | 266763 | [266763-elysium.json](./266763-elysium.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
+| Evolution - Multiplayer FPS | 100071 | [100071-evolution-multiplayer-fps.json](./100071-evolution-multiplayer-fps.json) |
 | Evolution & Climate Bundle | 238043 | [238043-evolution-and-climate-bundle.json](./238043-evolution-and-climate-bundle.json) |
 | Evolution 2: Far Off Promise | 45858 | [45858-evolution-2-far-off-promise.json](./45858-evolution-2-far-off-promise.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
