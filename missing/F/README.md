@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
+| Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
+| Fight List 2 - Categories Game | 88098 | [88098-fight-list-2-categories-game.json](./88098-fight-list-2-categories-game.json) |
 | Fight Me | 137553 | [137553-fight-me.json](./137553-fight-me.json) |
 | Fight Me | 378308 | [378308-fight-me.json](./378308-fight-me.json) |
 | Fight Me Bro! | 31082 | [31082-fight-me-bro.json](./31082-fight-me-bro.json) |
@@ -5854,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
 | FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
+| Flynalny 2018 | 88131 | [88131-flynalny-2018.json](./88131-flynalny-2018.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
 | Flynn: Son of Crimson | 71595 | [71595-flynn-son-of-crimson.json](./71595-flynn-son-of-crimson.json) |
@@ -7563,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
+| Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
 | Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
 | Frank Thomas Big Hurt Baseball | 365680 | [365680-frank-thomas-big-hurt-baseball.json](./365680-frank-thomas-big-hurt-baseball.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
@@ -7893,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
 | Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
+| Frequent Flyer: A Long Distance Love Story | 88089 | [88089-frequent-flyer-a-long-distance-love-story.json](./88089-frequent-flyer-a-long-distance-love-story.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
@@ -8059,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 2 | 276805 | [276805-friendzoned-2.json](./276805-friendzoned-2.json) |
 | Friendzoned 3 | 276806 | [276806-friendzoned-3.json](./276806-friendzoned-3.json) |
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
+| FriendZoned Archer | 88132 | [88132-friendzoned-archer.json](./88132-friendzoned-archer.json) |
 | Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
