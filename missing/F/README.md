@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
+| Final Star | 113440 | [113440-final-star.json](./113440-final-star.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
@@ -7562,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakland | 216722 | [216722-freakland.json](./216722-freakland.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | FreakOut: Extreme Freeride | 17493 | [17493-freakout-extreme-freeride.json](./17493-freakout-extreme-freeride.json) |
+| Freaks! | 113549 | [113549-freaks.json](./113549-freaks.json) |
 | Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freakshow: Episode 1 | 167912 | [167912-freakshow-episode-1.json](./167912-freakshow-episode-1.json) |
