@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddl Puzzle: Echter Puzzlespass für Unterwegs | 252660 | [252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json](./252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
+| Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
@@ -7820,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domestic Revolt | 267271 | [267271-domestic-revolt.json](./267271-domestic-revolt.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
+| Domin'Ant | 131948 | [131948-dominant.json](./131948-dominant.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominance Chess-like | 311195 | [311195-dominance-chess-like.json](./311195-dominance-chess-like.json) |
@@ -8221,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Bananza: DK Island & Emerald Rush | 366892 | [366892-donkey-kong-bananza-dk-island-and-emerald-rush.json](./366892-donkey-kong-bananza-dk-island-and-emerald-rush.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
+| Donkey Kong Circus | 131898 | [131898-donkey-kong-circus.json](./131898-donkey-kong-circus.json) |
 | Donkey Kong Circus | 305442 | [305442-donkey-kong-circus.json](./305442-donkey-kong-circus.json) |
 | Donkey Kong City | 231436 | [231436-donkey-kong-city.json](./231436-donkey-kong-city.json) |
 | Donkey Kong Classics | 48175 | [48175-donkey-kong-classics.json](./48175-donkey-kong-classics.json) |
@@ -8249,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Game Watch | 172538 | [172538-donkey-kong-game-watch.json](./172538-donkey-kong-game-watch.json) |
 | Donkey Kong GB: Dinky Kong & Dixie Kong | 50039 | [50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json](./50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json) |
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
+| Donkey Kong Hockey | 131899 | [131899-donkey-kong-hockey.json](./131899-donkey-kong-hockey.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
@@ -8278,10 +8282,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
+| Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
+| Donkey Kong: Coconut Crackers | 131903 | [131903-donkey-kong-coconut-crackers.json](./131903-donkey-kong-coconut-crackers.json) |
 | Donkey Kong: Jumpman Returns | 234767 | [234767-donkey-kong-jumpman-returns.json](./234767-donkey-kong-jumpman-returns.json) |
+| Donkey Kong/Donkey Kong Jr./Mario Bros. | 131900 | [131900-donkey-kong-donkey-kong-jr-mario-bros.json](./131900-donkey-kong-donkey-kong-jr-mario-bros.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
@@ -10459,6 +10466,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamescape | 180063 | [180063-dreamescape.json](./180063-dreamescape.json) |
 | DreamEscape | 328960 | [328960-dreamescape.json](./328960-dreamescape.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
+| Dreamfall: The Longest Journey - Game of the Year Edition | 131932 | [131932-dreamfall-the-longest-journey-game-of-the-year-edition.json](./131932-dreamfall-the-longest-journey-game-of-the-year-edition.json) |
+| Dreamfall: The Longest Journey - Limited Edition | 131933 | [131933-dreamfall-the-longest-journey-limited-edition.json](./131933-dreamfall-the-longest-journey-limited-edition.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
