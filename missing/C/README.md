@@ -11458,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
 | Criminal Archives: Symphony of Death - Collector's Edition | 416772 | [416772-criminal-archives-symphony-of-death-collectors-edition.json](./416772-criminal-archives-symphony-of-death-collectors-edition.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
+| Criminal Bundle | 81971 | [81971-criminal-bundle.json](./81971-criminal-bundle.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
 | Criminal Case: Mysteries of the Past | 88547 | [88547-criminal-case-mysteries-of-the-past.json](./88547-criminal-case-mysteries-of-the-past.json) |
 | Criminal Case: Pacific Bay | 96261 | [96261-criminal-case-pacific-bay.json](./96261-criminal-case-pacific-bay.json) |
@@ -12450,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalreach Islands | 190912 | [190912-crystalreach-islands.json](./190912-crystalreach-islands.json) |
 | Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
+| Crystals and Curses | 81987 | [81987-crystals-and-curses.json](./81987-crystals-and-curses.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
