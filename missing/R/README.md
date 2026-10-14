@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
+| Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Splatter | 154239 | [154239-relic-splatter.json](./154239-relic-splatter.json) |
 | Relicborn | 197212 | [197212-relicborn.json](./197212-relicborn.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
+| RelicMerge | 130074 | [130074-relicmerge.json](./130074-relicmerge.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
@@ -6564,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Fighter | 32100 | [32100-rogue-fighter.json](./32100-rogue-fighter.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
+| Rogue Frontiers | 130099 | [130099-rogue-frontiers.json](./130099-rogue-frontiers.json) |
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
@@ -6733,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
+| Roko-Loko into Ratozinger's Castle | 130111 | [130111-roko-loko-into-ratozingers-castle.json](./130111-roko-loko-into-ratozingers-castle.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Roko's Basilisk | 278924 | [278924-rokos-basilisk.json](./278924-rokos-basilisk.json) |
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
