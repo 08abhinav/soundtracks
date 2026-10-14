@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Game | 150432 | [150432-god-game.json](./150432-god-game.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
+| God Hand | 114865 | [114865-god-hand.json](./114865-god-hand.json) |
 | God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
@@ -4026,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
 | Gods & Civilization: Ragnarok | 233638 | [233638-gods-and-civilization-ragnarok.json](./233638-gods-and-civilization-ragnarok.json) |
+| Gods & Glory | 114739 | [114739-gods-and-glory.json](./114739-gods-and-glory.json) |
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
 | Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
@@ -6483,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
+| Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
