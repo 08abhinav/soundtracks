@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Wired | 271697 | [271697-made-in-wired.json](./271697-made-in-wired.json) |
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
+| Made to Order | 103230 | [103230-made-to-order.json](./103230-made-to-order.json) |
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
+| Manny's Week | 103250 | [103250-mannys-week.json](./103250-mannys-week.json) |
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
@@ -7348,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Club L.A. Remix | 42857 | [42857-midnight-club-l-a-remix.json](./42857-midnight-club-l-a-remix.json) |
 | Midnight Club: Los Angeles | 7071 | [7071-midnight-club-los-angeles.json](./7071-midnight-club-los-angeles.json) |
 | Midnight Club: Los Angeles - Complete Edition | 44581 | [44581-midnight-club-los-angeles-complete-edition.json](./44581-midnight-club-los-angeles-complete-edition.json) |
+| Midnight Club: Los Angeles - South Central | 103262 | [103262-midnight-club-los-angeles-south-central.json](./103262-midnight-club-los-angeles-south-central.json) |
 | Midnight Club: Street Racing | 194265 | [194265-midnight-club-street-racing.json](./194265-midnight-club-street-racing.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
 | Midnight Commander | 91963 | [91963-midnight-commander.json](./91963-midnight-commander.json) |
@@ -10112,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Five Elements Survival | 344891 | [344891-monkey-king-five-elements-survival.json](./344891-monkey-king-five-elements-survival.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
+| Monkey King: Master of the Clouds | 103248 | [103248-monkey-king-master-of-the-clouds.json](./103248-monkey-king-master-of-the-clouds.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Kong | 94343 | [94343-monkey-kong.json](./94343-monkey-kong.json) |
 | Monkey Labour | 65435 | [65435-monkey-labour.json](./65435-monkey-labour.json) |
@@ -11243,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Post | 213349 | [213349-morning-post.json](./213349-morning-post.json) |
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
+| Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
