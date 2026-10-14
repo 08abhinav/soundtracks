@@ -6047,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robowork | 138556 | [138556-robowork.json](./138556-robowork.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robox | 66748 | [66748-robox.json](./66748-robox.json) |
+| Robozarro | 112708 | [112708-robozarro.json](./112708-robozarro.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
 | RoboZone | 72335 | [72335-robozone.json](./72335-robozone.json) |
 | RoBros | 43442 | [43442-robros.json](./43442-robros.json) |
