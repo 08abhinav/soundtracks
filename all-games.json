@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:15:56.887Z",
-  "total_soundtracks": 1625,
+  "generated_at": "2026-10-14T08:16:06.187Z",
+  "total_soundtracks": 1626,
   "games": [
     {
       "igdb_id": 7522,
@@ -5597,6 +5597,20 @@
           "spotify_url": "https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1635588885"
+        }
+      ]
+    },
+    {
+      "igdb_id": 11798,
+      "game_name": "Evoland 2",
+      "game_url": "https://ostdb.net/games/evoland-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e82e159ad5bd396e40d9392",
+      "albums": [
+        {
+          "album_name": "Evoland 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4oYc3Uq0TJPBV5ENCOwiE8",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
