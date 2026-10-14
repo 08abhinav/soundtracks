@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
+| Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
 | Jump Force: Character Pack 11 - Meruem | 167771 | [167771-jump-force-character-pack-11-meruem.json](./167771-jump-force-character-pack-11-meruem.json) |
@@ -2370,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
 | Jumpy Haha | 367957 | [367957-jumpy-haha.json](./367957-jumpy-haha.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
+| Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
