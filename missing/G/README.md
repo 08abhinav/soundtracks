@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | GayBlade | 137326 | [137326-gayblade.json](./137326-gayblade.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
+| Gaygarin In deep as's'pace | 109408 | [109408-gaygarin-in-deep-asspace.json](./109408-gaygarin-in-deep-asspace.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Chaos | 10149 | [10149-general-chaos.json](./10149-general-chaos.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
+| General Horse and the Package of Doom | 109430 | [109430-general-horse-and-the-package-of-doom.json](./109430-general-horse-and-the-package-of-doom.json) |
 | General Idler | 346553 | [346553-general-idler.json](./346553-general-idler.json) |
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
 | General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
