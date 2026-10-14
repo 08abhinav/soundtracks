@@ -5133,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Merge 2048 | 231972 | [231972-billiards-merge-2048.json](./231972-billiards-merge-2048.json) |
 | Billiards Night Out | 404452 | [404452-billiards-night-out.json](./404452-billiards-night-out.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
+| Billiards with Pilot Brothers comments | 119438 | [119438-billiards-with-pilot-brothers-comments.json](./119438-billiards-with-pilot-brothers-comments.json) |
 | Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billie's Wheelie | 383571 | [383571-billies-wheelie.json](./383571-billies-wheelie.json) |
@@ -6898,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
+| Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
