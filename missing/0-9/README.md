@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30 Sport Games in 1 | 256202 | [256202-30-sport-games-in-1.json](./256202-30-sport-games-in-1.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
+| 30-in-1 Game Collection | 119442 | [119442-30-in-1-game-collection.json](./119442-30-in-1-game-collection.json) |
 | 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
