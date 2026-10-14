@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
+| Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
+| Kono Hareta Sora no Shita de | 77885 | [77885-kono-hareta-sora-no-shita-de.json](./77885-kono-hareta-sora-no-shita-de.json) |
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Pawn | 355214 | [355214-kono-pawn.json](./355214-kono-pawn.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
@@ -4083,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuro no Danshou: The Literary Fragment | 413081 | [413081-kuro-no-danshou-the-literary-fragment.json](./413081-kuro-no-danshou-the-literary-fragment.json) |
+| Kuro no Kyoushitsu | 77892 | [77892-kuro-no-kyoushitsu.json](./77892-kuro-no-kyoushitsu.json) |
 | Kuro Tactics | 154245 | [154245-kuro-tactics.json](./154245-kuro-tactics.json) |
 | KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
