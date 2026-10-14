@@ -87,7 +87,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports MVP Bundle | 308590 | [308590-ea-sports-mvp-bundle.json](./308590-ea-sports-mvp-bundle.json) |
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
+| EA Sports UFC 2: Deluxe Edition | 89842 | [89842-ea-sports-ufc-2-deluxe-edition.json](./89842-ea-sports-ufc-2-deluxe-edition.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
+| EA Sports UFC 3: Champions Edition | 89837 | [89837-ea-sports-ufc-3-champions-edition.json](./89837-ea-sports-ufc-3-champions-edition.json) |
 | EA Sports UFC 3: Deluxe Edition | 118728 | [118728-ea-sports-ufc-3-deluxe-edition.json](./118728-ea-sports-ufc-3-deluxe-edition.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | EA Sports UFC 5: Ultimate Edition | 308591 | [308591-ea-sports-ufc-5-ultimate-edition.json](./308591-ea-sports-ufc-5-ultimate-edition.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
+| Emoji Solitaire | 89831 | [89831-emoji-solitaire.json](./89831-emoji-solitaire.json) |
 | Emoji Sport | 274539 | [274539-emoji-sport.json](./274539-emoji-sport.json) |
 | Emoji Survival | 294264 | [294264-emoji-survival.json](./294264-emoji-survival.json) |
 | Emoji TD | 368671 | [368671-emoji-td.json](./368671-emoji-td.json) |
