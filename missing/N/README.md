@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
 | Nanatsuiro Drops | 70642 | [70642-nanatsuiro-drops.json](./70642-nanatsuiro-drops.json) |
+| Nancy Drew | 80378 | [80378-nancy-drew.json](./80378-nancy-drew.json) |
 | Nancy Drew Dossier: Resorting to Danger! | 10581 | [10581-nancy-drew-dossier-resorting-to-danger.json](./10581-nancy-drew-dossier-resorting-to-danger.json) |
 | Nancy Drew Triple Threat | 51403 | [51403-nancy-drew-triple-threat.json](./51403-nancy-drew-triple-threat.json) |
 | Nancy Drew Ultimate Dare | 50859 | [50859-nancy-drew-ultimate-dare.json](./50859-nancy-drew-ultimate-dare.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
+| Nightfall | 80403 | [80403-nightfall.json](./80403-nightfall.json) |
 | Nightfall Cafe | 350033 | [350033-nightfall-cafe.json](./350033-nightfall-cafe.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
@@ -4231,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 229636 | [229636-nocturne.json](./229636-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
+| Nocturne | 80411 | [80411-nocturne.json](./80411-nocturne.json) |
 | Nocturne 191 | 186712 | [186712-nocturne-191.json](./186712-nocturne-191.json) |
 | Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
