@@ -8374,11 +8374,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
 | The Legend of Herobrine | 231833 | [231833-the-legend-of-herobrine.json](./231833-the-legend-of-herobrine.json) |
+| The Legend of Heroes I & II: Eiyuu Densetsu | 74268 | [74268-the-legend-of-heroes-i-and-ii-eiyuu-densetsu.json](./74268-the-legend-of-heroes-i-and-ii-eiyuu-densetsu.json) |
 | The Legend of Heroes II: Prophecy of the Moonlight Witch | 10942 | [10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json](./10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json) |
 | The Legend of Heroes III: Shiroki Majo | 105413 | [105413-the-legend-of-heroes-iii-shiroki-majo.json](./105413-the-legend-of-heroes-iii-shiroki-majo.json) |
 | The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
+| The Legend of Heroes: Akatsuki no Kiseki | 74267 | [74267-the-legend-of-heroes-akatsuki-no-kiseki.json](./74267-the-legend-of-heroes-akatsuki-no-kiseki.json) |
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Hajimari no Kiseki - Platinum Master Box | 136782 | [136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json](./136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json) |
@@ -9022,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost We Lost | 116910 | [116910-the-lost-we-lost.json](./116910-the-lost-we-lost.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
 | The Lost Wild | 182290 | [182290-the-lost-wild.json](./182290-the-lost-wild.json) |
+| The Lost Wizard | 74240 | [74240-the-lost-wizard.json](./74240-the-lost-wizard.json) |
 | The Lost World | 246345 | [246345-the-lost-world.json](./246345-the-lost-world.json) |
 | The Lost World: Jurassic Park | 132135 | [132135-the-lost-world-jurassic-park.json](./132135-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
@@ -9245,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
+| The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Meridian Shard | 55963 | [55963-the-meridian-shard.json](./55963-the-meridian-shard.json) |
@@ -9288,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
 | The Mill: Nine Men's Morris | 351062 | [351062-the-mill-nine-mens-morris.json](./351062-the-mill-nine-mens-morris.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
+| The Mimic | 74254 | [74254-the-mimic.json](./74254-the-mimic.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
@@ -10434,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
+| The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
@@ -13836,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
+| Through Blocks | 74213 | [74213-through-blocks.json](./74213-through-blocks.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
 | Through His Eyes | 348188 | [348188-through-his-eyes.json](./348188-through-his-eyes.json) |
@@ -15695,6 +15702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timeless: The Forgotten Town - Collector's Edition | 30066 | [30066-timeless-the-forgotten-town-collectors-edition.json](./30066-timeless-the-forgotten-town-collectors-edition.json) |
+| Timeless: The Lost Castle | 74248 | [74248-timeless-the-lost-castle.json](./74248-timeless-the-lost-castle.json) |
 | Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
@@ -20711,6 +20719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
+| Trespassers | 74249 | [74249-trespassers.json](./74249-trespassers.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tret | 314932 | [314932-tret.json](./314932-tret.json) |
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
@@ -22327,6 +22336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
+| Twin Series Vol. 4: Ham Ham Monster EX + Fantasy Puzzle Hamster Monogatari Mahou no Meikyuu 1.2.3 | 74274 | [74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json](./74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json) |
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Twin Shooter - Invaders | 95333 | [95333-twin-shooter-invaders.json](./95333-twin-shooter-invaders.json) |
 | Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
