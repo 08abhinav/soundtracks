@@ -3429,7 +3429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
-| Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
