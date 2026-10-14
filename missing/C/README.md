@@ -416,8 +416,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
+| Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
 | Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
+| Call of Duty: Black Ops 4 - Specialist Edition | 102069 | [102069-call-of-duty-black-ops-4-specialist-edition.json](./102069-call-of-duty-black-ops-4-specialist-edition.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
 | Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
 | Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
@@ -452,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Ghosts - Invasion | 20870 | [20870-call-of-duty-ghosts-invasion.json](./20870-call-of-duty-ghosts-invasion.json) |
 | Call of Duty: Ghosts - Nemesis | 20872 | [20872-call-of-duty-ghosts-nemesis.json](./20872-call-of-duty-ghosts-nemesis.json) |
 | Call of Duty: Ghosts - Onslaught | 20935 | [20935-call-of-duty-ghosts-onslaught.json](./20935-call-of-duty-ghosts-onslaught.json) |
+| Call of Duty: Ghosts - Prestige Edition | 102078 | [102078-call-of-duty-ghosts-prestige-edition.json](./102078-call-of-duty-ghosts-prestige-edition.json) |
 | Call of Duty: Global Operations | 196597 | [196597-call-of-duty-global-operations.json](./196597-call-of-duty-global-operations.json) |
 | Call of Duty: Heroes | 60777 | [60777-call-of-duty-heroes.json](./60777-call-of-duty-heroes.json) |
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
@@ -1425,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
+| Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
@@ -12879,6 +12883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
+| Curio Quest | 102027 | [102027-curio-quest.json](./102027-curio-quest.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
 | Curiosity | 171329 | [171329-curiosity.json](./171329-curiosity.json) |
