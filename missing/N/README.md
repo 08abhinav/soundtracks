@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
+| Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
 | Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Step | 364651 | [364651-ninja-step.json](./364651-ninja-step.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Strike | 11189 | [11189-ninja-strike.json](./11189-ninja-strike.json) |
+| Ninja Strike: Dangerous Dash | 85312 | [85312-ninja-strike-dangerous-dash.json](./85312-ninja-strike-dangerous-dash.json) |
 | Ninja Striker! | 96854 | [96854-ninja-striker.json](./96854-ninja-striker.json) |
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
@@ -3653,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
 | Nintendo DS Browser | 297580 | [297580-nintendo-ds-browser.json](./297580-nintendo-ds-browser.json) |
+| Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
@@ -4079,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Ark | 48192 | [48192-noahs-ark.json](./48192-noahs-ark.json) |
 | Noah's Ark Animal Adventures | 213377 | [213377-noahs-ark-animal-adventures.json](./213377-noahs-ark-animal-adventures.json) |
 | Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
+| Noah's Cradle | 85313 | [85313-noahs-cradle.json](./85313-noahs-cradle.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
@@ -4196,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
 | Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
+| Noctemis | 85314 | [85314-noctemis.json](./85314-noctemis.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
@@ -4844,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
+| Now I Know My ABCs | 85315 | [85315-now-i-know-my-abcs.json](./85315-now-i-know-my-abcs.json) |
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
 | Now Man Flies | 75810 | [75810-now-man-flies.json](./75810-now-man-flies.json) |
