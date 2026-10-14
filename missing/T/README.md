@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Pirates | 72702 | [72702-tales-of-pirates.json](./72702-tales-of-pirates.json) |
 | Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
 | Tales of Popolon | 360137 | [360137-tales-of-popolon.json](./360137-tales-of-popolon.json) |
+| Tales of Radiance | 122045 | [122045-tales-of-radiance.json](./122045-tales-of-radiance.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
+| Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
 | The Caponians | 395482 | [395482-the-caponians.json](./395482-the-caponians.json) |
 | The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
+| The Captain is Dead | 121386 | [121386-the-captain-is-dead.json](./121386-the-captain-is-dead.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
@@ -6399,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
 | The Flower Collectors | 131930 | [131930-the-flower-collectors.json](./131930-the-flower-collectors.json) |
 | The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
+| The Flower on Christmas Eve | 122052 | [122052-the-flower-on-christmas-eve.json](./122052-the-flower-on-christmas-eve.json) |
 | The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
@@ -8916,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
+| The Machine That Breathes | 121341 | [121341-the-machine-that-breathes.json](./121341-the-machine-that-breathes.json) |
 | The Machine's Garden | 152045 | [152045-the-machines-garden.json](./152045-the-machines-garden.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
@@ -8992,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
+| The Man with the Ivory Cane | 121339 | [121339-the-man-with-the-ivory-cane.json](./121339-the-man-with-the-ivory-cane.json) |
 | The Man You See | 378536 | [378536-the-man-you-see.json](./378536-the-man-you-see.json) |
 | The Man, the Alien, and the AI | 231806 | [231806-the-man-the-alien-and-the-ai.json](./231806-the-man-the-alien-and-the-ai.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
@@ -9957,6 +9963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
 | The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
 | The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
+| The Portal Dimension | 121323 | [121323-the-portal-dimension.json](./121323-the-portal-dimension.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
@@ -17804,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
+| Touhou Multi Scroll Shooting | 121337 | [121337-touhou-multi-scroll-shooting.json](./121337-touhou-multi-scroll-shooting.json) |
 | Touhou Multi Scroll Shooting 2 | 188965 | [188965-touhou-multi-scroll-shooting-2.json](./188965-touhou-multi-scroll-shooting-2.json) |
 | TouHou Music Recording | 188937 | [188937-touhou-music-recording.json](./188937-touhou-music-recording.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
@@ -18083,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Spirit | 203670 | [203670-tower-of-spirit.json](./203670-tower-of-spirit.json) |
 | Tower of Square | 399692 | [399692-tower-of-square.json](./399692-tower-of-square.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
+| Tower of the Alchemist | 121332 | [121332-tower-of-the-alchemist.json](./121332-tower-of-the-alchemist.json) |
 | Tower of the Ancients | 206753 | [206753-tower-of-the-ancients.json](./206753-tower-of-the-ancients.json) |
 | Tower of the Blood Lord | 135837 | [135837-tower-of-the-blood-lord.json](./135837-tower-of-the-blood-lord.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
@@ -19844,6 +19853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
+| Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
