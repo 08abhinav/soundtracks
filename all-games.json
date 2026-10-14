@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:26:01.043Z",
-  "total_soundtracks": 1655,
+  "generated_at": "2026-10-14T21:26:15.435Z",
+  "total_soundtracks": 1656,
   "games": [
     {
       "igdb_id": 7522,
@@ -4189,6 +4189,20 @@
           "spotify_url": "https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb",
           "apple_music_url": "https://music.apple.com/us/album/dear-esther-original-game-soundtrack/1062367900",
           "album_link_url": "https://album.link/i/1062367900"
+        }
+      ]
+    },
+    {
+      "igdb_id": 126835,
+      "game_name": "Death and Taxes",
+      "game_url": "https://ostdb.net/games/death-and-taxes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dba299b8f0f47c3e85ab424b",
+      "albums": [
+        {
+          "album_name": "Death and Taxes (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5wIUCGPUOR4m7QmbF3XP4v",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
