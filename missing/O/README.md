@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Paladin Melchior Y | 184805 | [184805-orbital-paladin-melchior-y.json](./184805-orbital-paladin-melchior-y.json) |
 | Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
 | Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
+| Orbital Shipyards | 123945 | [123945-orbital-shipyards.json](./123945-orbital-shipyards.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
