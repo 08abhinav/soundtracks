@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Drift Multiplayer 2 | 265586 | [265586-real-drift-multiplayer-2.json](./265586-real-drift-multiplayer-2.json) |
+| Real Drift Racing | 119444 | [119444-real-drift-racing.json](./119444-real-drift-racing.json) |
 | Real Driver Legend of the City | 216133 | [216133-real-driver-legend-of-the-city.json](./216133-real-driver-legend-of-the-city.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
+| Real Man Got 100 | 119468 | [119468-real-man-got-100.json](./119468-real-man-got-100.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Monster Truck Parking | 243068 | [243068-real-monster-truck-parking.json](./243068-real-monster-truck-parking.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
