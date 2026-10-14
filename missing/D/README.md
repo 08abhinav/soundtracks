@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data mining 0 | 116944 | [116944-data-mining-0.json](./116944-data-mining-0.json) |
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
+| Data mining 4 | 113563 | [113563-data-mining-4.json](./113563-data-mining-4.json) |
 | Data mining 5 | 114313 | [114313-data-mining-5.json](./114313-data-mining-5.json) |
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
 | Data Mining 8 | 155344 | [155344-data-mining-8.json](./155344-data-mining-8.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
+| Dragon Eye Online | 113566 | [113566-dragon-eye-online.json](./113566-dragon-eye-online.json) |
 | Dragon Fang Z | 175312 | [175312-dragon-fang-z.json](./175312-dragon-fang-z.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: Friendship's Labyrinth | 171446 | [171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json](./171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
