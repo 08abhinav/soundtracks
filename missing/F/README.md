@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
 | Fantasy Manager: The Computer Game | 73997 | [73997-fantasy-manager-the-computer-game.json](./73997-fantasy-manager-the-computer-game.json) |
+| Fantasy Maze | 105802 | [105802-fantasy-maze.json](./105802-fantasy-maze.json) |
 | Fantasy Memory: Sexy Mermaids | 286464 | [286464-fantasy-memory-sexy-mermaids.json](./286464-fantasy-memory-sexy-mermaids.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
 | Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
 | Farm Shop: Time Management Game | 235295 | [235295-farm-shop-time-management-game.json](./235295-farm-shop-time-management-game.json) |
+| Farm Simulator: Hay Tycoon | 105811 | [105811-farm-simulator-hay-tycoon.json](./105811-farm-simulator-hay-tycoon.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
 | Farm Tiles | 101772 | [101772-farm-tiles.json](./101772-farm-tiles.json) |
@@ -3721,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
+| Find the Thermal Core Trainer | 105809 | [105809-find-the-thermal-core-trainer.json](./105809-find-the-thermal-core-trainer.json) |
 | Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
 | Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
@@ -8544,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine Simulator | 72639 | [72639-fruit-machine-simulator.json](./72639-fruit-machine-simulator.json) |
 | Fruit Machine Simulator 2 | 72607 | [72607-fruit-machine-simulator-2.json](./72607-fruit-machine-simulator-2.json) |
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
+| Fruit Master | 105796 | [105796-fruit-master.json](./105796-fruit-master.json) |
 | Fruit Master | 105852 | [105852-fruit-master.json](./105852-fruit-master.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
