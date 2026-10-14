@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
+| LeapII | 103955 | [103955-leapii.json](./103955-leapii.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
 | Leapo Faith | 321568 | [321568-leapo-faith.json](./321568-leapo-faith.json) |
 | Leapoid | 123493 | [123493-leapoid.json](./123493-leapoid.json) |
