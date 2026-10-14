@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
+| Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -12686,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
+| Cubriko | 104555 | [104555-cubriko.json](./104555-cubriko.json) |
 | Cubs Story: | 368630 | [368630-cubs-story.json](./368630-cubs-story.json) |
 | CubScouting: OnTarget | 65759 | [65759-cubscouting-ontarget.json](./65759-cubscouting-ontarget.json) |
 | CuBuGo | 175130 | [175130-cubugo.json](./175130-cubugo.json) |
