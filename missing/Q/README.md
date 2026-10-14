@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
 | QField | 171989 | [171989-qfield.json](./171989-qfield.json) |
+| Qi Qiang | 126305 | [126305-qi-qiang.json](./126305-qi-qiang.json) |
 | Qi Shen Nong Gui | 277960 | [277960-qi-shen-nong-gui.json](./277960-qi-shen-nong-gui.json) |
 | Qian-Shan Village | 119626 | [119626-qian-shan-village.json](./119626-qian-shan-village.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
+| Quadrapassel | 122774 | [122774-quadrapassel.json](./122774-quadrapassel.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
 | Quadrata | 208109 | [208109-quadrata.json](./208109-quadrata.json) |
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
