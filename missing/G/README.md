@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemaboy Zero X | 274964 | [274964-gemaboy-zero-x.json](./274964-gemaboy-zero-x.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
+| Gematombe | 101445 | [101445-gematombe.json](./101445-gematombe.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Jukebox | 357189 | [357189-ghost-jukebox.json](./357189-ghost-jukebox.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
+| Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
