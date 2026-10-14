@@ -590,7 +590,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
+| Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
+| Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kring | 216755 | [216755-kring.json](./216755-kring.json) |
 | Krinkle Krusher | 26496 | [26496-krinkle-krusher.json](./26496-krinkle-krusher.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
+| Krishna Legends | 130665 | [130665-krishna-legends.json](./130665-krishna-legends.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | Krispee Street | 187786 | [187786-krispee-street.json](./187786-krispee-street.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
