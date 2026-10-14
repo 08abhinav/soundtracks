@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
+| Lonely Wolf Treat | 95919 | [95919-lonely-wolf-treat.json](./95919-lonely-wolf-treat.json) |
 | Lonely Yuri | 63652 | [63652-lonely-yuri.json](./63652-lonely-yuri.json) |
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
 | Lonepath | 121462 | [121462-lonepath.json](./121462-lonepath.json) |
