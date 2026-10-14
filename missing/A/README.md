@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Quiet Air | 229561 | [229561-a-quiet-air.json](./229561-a-quiet-air.json) |
+| A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
 | A Ragdoll Rage Game | 364048 | [364048-a-ragdoll-rage-game.json](./364048-a-ragdoll-rage-game.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
@@ -4140,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland | 50016 | [50016-alice-in-wonderland.json](./50016-alice-in-wonderland.json) |
+| Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
 | Alice In Wonderland: A New Champion | 62811 | [62811-alice-in-wonderland-a-new-champion.json](./62811-alice-in-wonderland-a-new-champion.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
