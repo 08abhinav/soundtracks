@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Arena | 214383 | [214383-ragnarok-arena.json](./214383-ragnarok-arena.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
+| Ragnarok Battle Offline: Extra Scenario 3 | 126301 | [126301-ragnarok-battle-offline-extra-scenario-3.json](./126301-ragnarok-battle-offline-extra-scenario-3.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Chess | 151035 | [151035-ragnarok-chess.json](./151035-ragnarok-chess.json) |
 | Ragnarok Console Project | 403762 | [403762-ragnarok-console-project.json](./403762-ragnarok-console-project.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
+| Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
@@ -1331,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
+| Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
@@ -2354,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
+| Record Life | 126307 | [126307-record-life.json](./126307-record-life.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
 | Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
@@ -4170,6 +4174,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveil | 90409 | [90409-reveil.json](./90409-reveil.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revel | 173010 | [173010-revel.json](./173010-revel.json) |
+| Revelation | 126319 | [126319-revelation.json](./126319-revelation.json) |
+| Revelation | 126320 | [126320-revelation.json](./126320-revelation.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation M | 280873 | [280873-revelation-m.json](./280873-revelation-m.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -5344,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
 | Risky Wings: 'Dizzy Kitten' Character | 170782 | [170782-risky-wings-dizzy-kitten-character.json](./170782-risky-wings-dizzy-kitten-character.json) |
+| Risnuch | 126932 | [126932-risnuch.json](./126932-risnuch.json) |
 | Risorgimento Represso | 300506 | [300506-risorgimento-represso.json](./300506-risorgimento-represso.json) |
 | Ristar | 7431 | [7431-ristar.json](./7431-ristar.json) |
 | Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
@@ -5687,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robber Rideshare | 184920 | [184920-robber-rideshare.json](./184920-robber-rideshare.json) |
 | Robber Sam | 202722 | [202722-robber-sam.json](./202722-robber-sam.json) |
+| Robber's Horror | 126898 | [126898-robbers-horror.json](./126898-robbers-horror.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Bob: Man of Steal | 35166 | [35166-robbery-bob-man-of-steal.json](./35166-robbery-bob-man-of-steal.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
@@ -6463,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
+| Rocky Planet | 127652 | [127652-rocky-planet.json](./127652-rocky-planet.json) |
 | Rocky Racers | 130834 | [130834-rocky-racers.json](./130834-rocky-racers.json) |
 | Rocky Rhodes and the Cracked Case | 185406 | [185406-rocky-rhodes-and-the-cracked-case.json](./185406-rocky-rhodes-and-the-cracked-case.json) |
 | Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
@@ -6947,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roma VR: Domus | 191037 | [191037-roma-vr-domus.json](./191037-roma-vr-domus.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
+| Roman Adventures - Britons. Season 2 | 126914 | [126914-roman-adventures-britons-season-2.json](./126914-roman-adventures-britons-season-2.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
 | Roman Empire Farming | 300958 | [300958-roman-empire-farming.json](./300958-roman-empire-farming.json) |
@@ -8499,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
 | Ruth's Journey | 133861 | [133861-ruths-journey.json](./133861-ruths-journey.json) |
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
+| Ruthless Conquest | 126304 | [126304-ruthless-conquest.json](./126304-ruthless-conquest.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
