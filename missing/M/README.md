@@ -4286,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
+| Maze Walker | 81977 | [81977-maze-walker.json](./81977-maze-walker.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
 | Maze with Cube | 146775 | [146775-maze-with-cube.json](./146775-maze-with-cube.json) |
 | Maze Workout: Lost Urban Exit Game - Trials 1 | 167930 | [167930-maze-workout-lost-urban-exit-game-trials-1.json](./167930-maze-workout-lost-urban-exit-game-trials-1.json) |
@@ -7521,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
+| Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
@@ -7599,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
+| Mighty Gemstones | 81982 | [81982-mighty-gemstones.json](./81982-mighty-gemstones.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
@@ -12033,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
 | Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
+| Mountain Troll | 81989 | [81989-mountain-troll.json](./81989-mountain-troll.json) |
 | Mountain's Memory | 341450 | [341450-mountains-memory.json](./341450-mountains-memory.json) |
 | Mountain's Secret | 345440 | [345440-mountains-secret.json](./345440-mountains-secret.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
