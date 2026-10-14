@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bird Care | 146625 | [146625-baby-bird-care.json](./146625-baby-bird-care.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Blocks: Swipe & Tap Letters, Spell Words Fast | 232472 | [232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json](./232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json) |
+| Baby Blues | 76467 | [76467-baby-blues.json](./76467-baby-blues.json) |
 | Baby Blues Nightmares: Toddler Horror Game | 291377 | [291377-baby-blues-nightmares-toddler-horror-game.json](./291377-baby-blues-nightmares-toddler-horror-game.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
 | Baby Bug | 14279 | [14279-baby-bug.json](./14279-baby-bug.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob PicRoss: The Joy of Painting 2 | 185392 | [185392-bob-picross-the-joy-of-painting-2.json](./185392-bob-picross-the-joy-of-painting-2.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
+| Bob Saget Killer 2000 | 76459 | [76459-bob-saget-killer-2000.json](./76459-bob-saget-killer-2000.json) |
 | Bob Saves the Princess | 373726 | [373726-bob-saves-the-princess.json](./373726-bob-saves-the-princess.json) |
 | Bob Shop | 246549 | [246549-bob-shop.json](./246549-bob-shop.json) |
 | Bob Smith and the Unsolved Case of Mystery | 318475 | [318475-bob-smith-and-the-unsolved-case-of-mystery.json](./318475-bob-smith-and-the-unsolved-case-of-mystery.json) |
@@ -9025,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
 | Botanica | 281961 | [281961-botanica.json](./281961-botanica.json) |
 | Botanica: Earthbound | 59824 | [59824-botanica-earthbound.json](./59824-botanica-earthbound.json) |
+| Botanica: Earthbound - Collector's Edition | 76480 | [76480-botanica-earthbound-collectors-edition.json](./76480-botanica-earthbound-collectors-edition.json) |
 | Botanica: Into the Unknown | 140287 | [140287-botanica-into-the-unknown.json](./140287-botanica-into-the-unknown.json) |
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
