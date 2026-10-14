@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
 | Famista 4 | 218393 | [218393-famista-4.json](./218393-famista-4.json) |
+| Famista 64 | 80390 | [80390-famista-64.json](./80390-famista-64.json) |
 | Famista Advance | 49580 | [49580-famista-advance.json](./49580-famista-advance.json) |
 | Famista Dream Match | 60926 | [60926-famista-dream-match.json](./60926-famista-dream-match.json) |
 | Famista Wireless | 218394 | [218394-famista-wireless.json](./218394-famista-wireless.json) |
@@ -7315,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fowl Words: Farm Fresh Goodness | 73990 | [73990-fowl-words-farm-fresh-goodness.json](./73990-fowl-words-farm-fresh-goodness.json) |
 | Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
+| Fowlplay | 80429 | [80429-fowlplay.json](./80429-fowlplay.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
