@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Guns | 190444 | [190444-fallen-guns.json](./190444-fallen-guns.json) |
 | Fallen Haven | 24072 | [24072-fallen-haven.json](./24072-fallen-haven.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
+| Fallen Hearts | 128262 | [128262-fallen-hearts.json](./128262-fallen-hearts.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Heroes: Uro's Tale | 22129 | [22129-fallen-heroes-uros-tale.json](./22129-fallen-heroes-uros-tale.json) |
 | Fallen King | 294038 | [294038-fallen-king.json](./294038-fallen-king.json) |
@@ -4047,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
+| Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
@@ -5375,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodland | 214497 | [214497-floodland.json](./214497-floodland.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | FloodSim | 172689 | [172689-floodsim.json](./172689-floodsim.json) |
+| Floody | 128931 | [128931-floody.json](./128931-floody.json) |
 | FloofCorp. | 349478 | [349478-floofcorp.json](./349478-floofcorp.json) |
 | Flooftopia | 287775 | [287775-flooftopia.json](./287775-flooftopia.json) |
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
@@ -8876,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
+| Funny AntiVirus TD | 128293 | [128293-funny-antivirus-td.json](./128293-funny-antivirus-td.json) |
 | Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
