@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Flash 3 | 234154 | [234154-unreal-flash-3.json](./234154-unreal-flash-3.json) |
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal Heroes | 31680 | [31680-unreal-heroes.json](./31680-unreal-heroes.json) |
+| Unreal II: eXpanded MultiPlayer | 100089 | [100089-unreal-ii-expanded-multiplayer.json](./100089-unreal-ii-expanded-multiplayer.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Island | 294971 | [294971-unreal-island.json](./294971-unreal-island.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
 | Unrivaled Heroes | 278933 | [278933-unrivaled-heroes.json](./278933-unrivaled-heroes.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
+| Unroll Me | 100083 | [100083-unroll-me.json](./100083-unroll-me.json) |
 | Unromantic Demon Queen | 303306 | [303306-unromantic-demon-queen.json](./303306-unromantic-demon-queen.json) |
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
