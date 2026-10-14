@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
+| The Adventures of Batman & Robin: Activity Centre | 127639 | [127639-the-adventures-of-batman-and-robin-activity-centre.json](./127639-the-adventures-of-batman-and-robin-activity-centre.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz - 07: Killer Croc | 360486 | [360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json](./360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
@@ -18238,6 +18239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
+| Town of Passion | 127633 | [127633-town-of-passion.json](./127633-town-of-passion.json) |
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Salem 2 | 247531 | [247531-town-of-salem-2.json](./247531-town-of-salem-2.json) |
 | Town of Salem 2: Mafia Pack | 370314 | [370314-town-of-salem-2-mafia-pack.json](./370314-town-of-salem-2-mafia-pack.json) |
@@ -22281,6 +22283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
 | Typhon: Bot vs. Bot | 255134 | [255134-typhon-bot-vs-bot.json](./255134-typhon-bot-vs-bot.json) |
 | Typhoon Force: Storm Fighter | 176991 | [176991-typhoon-force-storm-fighter.json](./176991-typhoon-force-storm-fighter.json) |
+| Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
