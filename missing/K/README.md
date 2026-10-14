@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
+| K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
 | Kolo | 169771 | [169771-kolo.json](./169771-kolo.json) |
 | Kolo Terorita | 223054 | [223054-kolo-terorita.json](./223054-kolo-terorita.json) |
+| Kolobok | 76447 | [76447-kolobok.json](./76447-kolobok.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
 | Kolobok: The Return | 169841 | [169841-kolobok-the-return.json](./169841-kolobok-the-return.json) |
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
