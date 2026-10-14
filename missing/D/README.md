@@ -4208,7 +4208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
-| Demon's Souls | 134606 | [134606-demons-souls.json](./134606-demons-souls.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
