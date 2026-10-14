@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
+| Interworlds | 74220 | [74220-interworlds.json](./74220-interworlds.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
 | Interwoven | 204970 | [204970-interwoven.json](./204970-interwoven.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
