@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Rescue | 147235 | [147235-intergalactic-rescue.json](./147235-intergalactic-rescue.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
+| Intergalactic traveler: The Omega Sector | 76445 | [76445-intergalactic-traveler-the-omega-sector.json](./76445-intergalactic-traveler-the-omega-sector.json) |
 | Intergalactic Zoo | 102278 | [102278-intergalactic-zoo.json](./102278-intergalactic-zoo.json) |
 | Intergalactic: The Heretic Prophet | 325611 | [325611-intergalactic-the-heretic-prophet.json](./325611-intergalactic-the-heretic-prophet.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
