@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneiro(Phobia/Phrenia) | 327159 | [327159-oneiro-phobia-phrenia.json](./327159-oneiro-phobia-phrenia.json) |
 | Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
+| Oneironaut | 118108 | [118108-oneironaut.json](./118108-oneironaut.json) |
 | Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
 | Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orrstead | 191513 | [191513-orrstead.json](./191513-orrstead.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Orthanc | 146634 | [146634-orthanc.json](./146634-orthanc.json) |
+| Ortharion Project | 122065 | [122065-ortharion-project.json](./122065-ortharion-project.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
 | Ortheo | 250510 | [250510-ortheo.json](./250510-ortheo.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
+| Overlord | 121368 | [121368-overlord.json](./121368-overlord.json) |
 | Overlord | 154250 | [154250-overlord.json](./154250-overlord.json) |
 | Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
