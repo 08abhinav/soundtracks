@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Les Gardiens | 167643 | [167643-wakfu-les-gardiens.json](./167643-wakfu-les-gardiens.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Wakfu: The Brotherhood | 109554 | [109554-wakfu-the-brotherhood.json](./109554-wakfu-the-brotherhood.json) |
+| Waking | 103293 | [103293-waking.json](./103293-waking.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Knightmare | 220279 | [220279-waking-knightmare.json](./220279-waking-knightmare.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
+| Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
 | Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
 | Warframe: Veilbreaker | 216199 | [216199-warframe-veilbreaker.json](./216199-warframe-veilbreaker.json) |
@@ -5527,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
+| World of Tanks: Mercenaries | 103239 | [103239-world-of-tanks-mercenaries.json](./103239-world-of-tanks-mercenaries.json) |
 | World of Tanks: Mercenaries - Valor Edition | 118705 | [118705-world-of-tanks-mercenaries-valor-edition.json](./118705-world-of-tanks-mercenaries-valor-edition.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Ambush From Afar | 332073 | [332073-world-of-tanks-modern-armor-ambush-from-afar.json](./332073-world-of-tanks-modern-armor-ambush-from-afar.json) |
