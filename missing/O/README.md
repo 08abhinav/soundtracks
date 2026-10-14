@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | Onegai My Melody: My Melody Adventure | 315563 | [315563-onegai-my-melody-my-melody-adventure.json](./315563-onegai-my-melody-my-melody-adventure.json) |
+| Onegai My Melody: Yume no Kuni no Daibouken | 97812 | [97812-onegai-my-melody-yume-no-kuni-no-daibouken.json](./97812-onegai-my-melody-yume-no-kuni-no-daibouken.json) |
 | Onegai Teacher | 126296 | [126296-onegai-teacher.json](./126296-onegai-teacher.json) |
 | Onegai Twin(s) | 98037 | [98037-onegai-twin-s.json](./98037-onegai-twin-s.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | oOo: Ascension | 103214 | [103214-ooo-ascension.json](./103214-ooo-ascension.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
+| Oooku | 97792 | [97792-oooku.json](./97792-oooku.json) |
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
@@ -2724,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
+| Ore to Imouto no Kankei | 97766 | [97766-ore-to-imouto-no-kankei.json](./97766-ore-to-imouto-no-kankei.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore-sama Kingdom: Ikemen Kareshi wo Get Shiyo! Moe Kyun School Days | 141587 | [141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json](./141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json) |
@@ -2934,10 +2937,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 97962 | [97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
 | Oshare Princess DS: Oshare ni Koi Shite 2 | 123371 | [123371-oshare-princess-ds-oshare-ni-koi-shite-2.json](./123371-oshare-princess-ds-oshare-ni-koi-shite-2.json) |
 | Oshare Princess DS: Oshare ni Koishite! 2 Plus | 214430 | [214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json](./214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json) |
+| Oshi Dorei no Tane | 97783 | [97783-oshi-dorei-no-tane.json](./97783-oshi-dorei-no-tane.json) |
 | Oshi no Ko Match Star | 331864 | [331864-oshi-no-ko-match-star.json](./331864-oshi-no-ko-match-star.json) |
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshidashi Zintrick | 282519 | [282519-oshidashi-zintrick.json](./282519-oshidashi-zintrick.json) |
+| Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
