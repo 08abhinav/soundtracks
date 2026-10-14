@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
+| Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopBound | 137891 | [137891-hopbound.json](./137891-hopbound.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
+| Hope | 110096 | [110096-hope.json](./110096-hope.json) |
 | Hope | 171980 | [171980-hope.json](./171980-hope.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
 | Hope | 377194 | [377194-hope.json](./377194-hope.json) |
