@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Simple Survey | 176752 | [176752-a-simple-survey.json](./176752-a-simple-survey.json) |
+| A Siren's Call | 132562 | [132562-a-sirens-call.json](./132562-a-sirens-call.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexia | 260863 | [260863-alexia.json](./260863-alexia.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
+| Alexis Almighty: Daughter of Hercules | 132553 | [132553-alexis-almighty-daughter-of-hercules.json](./132553-alexis-almighty-daughter-of-hercules.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
 | Alexus 2040 | 415242 | [415242-alexus-2040.json](./415242-alexus-2040.json) |
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
@@ -4384,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
+| Aliens Love Beefs | 132529 | [132529-aliens-love-beefs.json](./132529-aliens-love-beefs.json) |
 | Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
@@ -7581,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
+| Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
@@ -8493,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
+| Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Happy | 338154 | [338154-are-you-happy.json](./338154-are-you-happy.json) |
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
