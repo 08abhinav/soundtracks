@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
+| Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
+| Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
 | Jägermörder 1: Chemical Lab | 310622 | [310622-jagermorder-1-chemical-lab.json](./310622-jagermorder-1-chemical-lab.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
