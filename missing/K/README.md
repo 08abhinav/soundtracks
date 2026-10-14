@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
+| Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
 | Kingslayers | 334935 | [334935-kingslayers.json](./334935-kingslayers.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kiritan Thruster | 351761 | [351761-kiritan-thruster.json](./351761-kiritan-thruster.json) |
+| Kiritan vs. Kanitan: Zunda-mochi Defense! | 114869 | [114869-kiritan-vs-kanitan-zunda-mochi-defense.json](./114869-kiritan-vs-kanitan-zunda-mochi-defense.json) |
 | Kirka Drive | 222474 | [222474-kirka-drive.json](./222474-kirka-drive.json) |
 | Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
