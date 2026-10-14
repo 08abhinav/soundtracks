@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogostick | 144741 | [144741-pogostick.json](./144741-pogostick.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
+| Pogyo | 115411 | [115411-pogyo.json](./115411-pogyo.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Pohmielisko | 372114 | [372114-pohmielisko.json](./372114-pohmielisko.json) |
 | Pòhuài Xiàoyìng | 157930 | [157930-pohuai-xiaoying.json](./157930-pohuai-xiaoying.json) |
@@ -10301,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
 | Project Castlevania Z | 337172 | [337172-project-castlevania-z.json](./337172-project-castlevania-z.json) |
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
+| Project Centauri | 115494 | [115494-project-centauri.json](./115494-project-centauri.json) |
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
@@ -11397,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
 | Pump It Up Rise | 345431 | [345431-pump-it-up-rise.json](./345431-pump-it-up-rise.json) |
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
+| Pump It Up XX: 20th Anniversary Edition | 115410 | [115410-pump-it-up-xx-20th-anniversary-edition.json](./115410-pump-it-up-xx-20th-anniversary-edition.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
@@ -12258,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlewood Quests Premium | 194899 | [194899-puzzlewood-quests-premium.json](./194899-puzzlewood-quests-premium.json) |
 | Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
+| Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
 | Puzzling Places: A Painter's Dream | 379661 | [379661-puzzling-places-a-painters-dream.json](./379661-puzzling-places-a-painters-dream.json) |
