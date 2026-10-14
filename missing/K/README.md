@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
+| King of Opera | 89812 | [89812-king-of-opera.json](./89812-king-of-opera.json) |
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Do Not Fall | 394484 | [394484-kings-do-not-fall.json](./394484-kings-do-not-fall.json) |
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
+| Kings in the Corners | 89852 | [89852-kings-in-the-corners.json](./89852-kings-in-the-corners.json) |
 | Kings Odyssey: Dwarves Tale | 287170 | [287170-kings-odyssey-dwarves-tale.json](./287170-kings-odyssey-dwarves-tale.json) |
 | Kings Odyssey: Rise of The Necromancer | 287172 | [287172-kings-odyssey-rise-of-the-necromancer.json](./287172-kings-odyssey-rise-of-the-necromancer.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
