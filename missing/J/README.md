@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
 | Just Arms | 129656 | [129656-just-arms.json](./129656-just-arms.json) |
 | Just Bat: VR Cricket | 31362 | [31362-just-bat-vr-cricket.json](./31362-just-bat-vr-cricket.json) |
+| Just Beat Em Up : World of Fury | 108326 | [108326-just-beat-em-up-world-of-fury.json](./108326-just-beat-em-up-world-of-fury.json) |
 | Just Because of Beauty | 279082 | [279082-just-because-of-beauty.json](./279082-just-because-of-beauty.json) |
 | Just Beneath the Skin 2D | 29228 | [29228-just-beneath-the-skin-2d.json](./29228-just-beneath-the-skin-2d.json) |
 | Just Black Jack | 124025 | [124025-just-black-jack.json](./124025-just-black-jack.json) |
