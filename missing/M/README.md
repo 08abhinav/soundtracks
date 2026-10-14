@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
+| Mamono Musume no Sodatekata: Lamia & Harpy | 77870 | [77870-mamono-musume-no-sodatekata-lamia-and-harpy.json](./77870-mamono-musume-no-sodatekata-lamia-and-harpy.json) |
 | Mamono Musume no Yakata Suiseikan Igyouroku: Ningyo no Sho | 77618 | [77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json](./77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json) |
 | Mamono Musume to no Seikatsu: Alraune no Baai | 77603 | [77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json](./77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json) |
 | Mamono Musume to no Seikatsu: Lamia no Baai | 77601 | [77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json](./77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json) |
@@ -6874,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
+| Mezase! Monmusu Idol | 77847 | [77847-mezase-monmusu-idol.json](./77847-mezase-monmusu-idol.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
 | Mezase! Shoujo Mangaka! Chao Manga School | 130715 | [130715-mezase-shoujo-mangaka-chao-manga-school.json](./130715-mezase-shoujo-mangaka-chao-manga-school.json) |
 | Mezase! Top Pro Green ni Kakeru Yume | 48775 | [48775-mezase-top-pro-green-ni-kakeru-yume.json](./48775-mezase-top-pro-green-ni-kakeru-yume.json) |
@@ -11849,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross Racing | 238392 | [238392-motocross-racing.json](./238392-motocross-racing.json) |
+| Motocross Stunt Racer | 77882 | [77882-motocross-stunt-racer.json](./77882-motocross-stunt-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
