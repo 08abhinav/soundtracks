@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
+| Jack and Sara: Educational game | 96646 | [96646-jack-and-sara-educational-game.json](./96646-jack-and-sara-educational-game.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
