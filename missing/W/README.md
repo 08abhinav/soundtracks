@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
 | Warfare Area 2 | 220810 | [220810-warfare-area-2.json](./220810-warfare-area-2.json) |
+| Warfare Chess 2 | 97265 | [97265-warfare-chess-2.json](./97265-warfare-chess-2.json) |
 | Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
