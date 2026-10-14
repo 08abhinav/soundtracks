@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
 | Lethal RPG: War | 101991 | [101991-lethal-rpg-war.json](./101991-lethal-rpg-war.json) |
+| Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listed | 361868 | [361868-listed.json](./361868-listed.json) |
 | Listen | 151582 | [151582-listen.json](./151582-listen.json) |
 | Listen | 265581 | [265581-listen.json](./265581-listen.json) |
+| Listen Close Articulation | 101420 | [101420-listen-close-articulation.json](./101420-listen-close-articulation.json) |
 | Listen Me | 227931 | [227931-listen-me.json](./227931-listen-me.json) |
 | Listen to My Heart | 370340 | [370340-listen-to-my-heart.json](./370340-listen-to-my-heart.json) |
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
