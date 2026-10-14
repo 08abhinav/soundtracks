@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheogsh 2 | 274117 | [274117-cheogsh-2.json](./274117-cheogsh-2.json) |
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
+| Cheongsam | 110202 | [110202-cheongsam.json](./110202-cheongsam.json) |
 | Cheonnyeon | 361306 | [361306-cheonnyeon.json](./361306-cheonnyeon.json) |
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
@@ -7034,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
 | Clumsy Shumsy | 66958 | [66958-clumsy-shumsy.json](./66958-clumsy-shumsy.json) |
+| Clumzee | 110219 | [110219-clumzee.json](./110219-clumzee.json) |
 | Cluppets | 224557 | [224557-cluppets.json](./224557-cluppets.json) |
 | Cluster | 182549 | [182549-cluster.json](./182549-cluster.json) |
 | Cluster | 304315 | [304315-cluster.json](./304315-cluster.json) |
@@ -7351,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
 | Coffee Talk: Tokyo | 314928 | [314928-coffee-talk-tokyo.json](./314928-coffee-talk-tokyo.json) |
+| Coffee Trainer VR | 110095 | [110095-coffee-trainer-vr.json](./110095-coffee-trainer-vr.json) |
 | Coffee Tycoon | 73561 | [73561-coffee-tycoon.json](./73561-coffee-tycoon.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
@@ -7464,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Bed on Route | 206454 | [206454-cold-bed-on-route.json](./206454-cold-bed-on-route.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Blooded | 338875 | [338875-cold-blooded.json](./338875-cold-blooded.json) |
+| Cold Blooded Cube | 110111 | [110111-cold-blooded-cube.json](./110111-cold-blooded-cube.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
