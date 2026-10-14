@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:16:06.187Z",
-  "total_soundtracks": 1626,
+  "generated_at": "2026-10-14T08:16:14.316Z",
+  "total_soundtracks": 1627,
   "games": [
     {
       "igdb_id": 7522,
@@ -10874,6 +10874,20 @@
           "album_name": "Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 43165,
+      "game_name": "My Time at Portia",
+      "game_url": "https://ostdb.net/games/my-time-at-portia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734dfdfc9ce8c2674deea8d27b",
+      "albums": [
+        {
+          "album_name": "My Time at Portia (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7qAGiWdfuT9l0PR0YfX9PF",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
