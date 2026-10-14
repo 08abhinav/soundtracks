@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
+| Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
@@ -6141,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
