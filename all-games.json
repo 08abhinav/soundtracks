@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:51:29.334Z",
-  "total_soundtracks": 1642,
+  "generated_at": "2026-10-14T18:51:43.206Z",
+  "total_soundtracks": 1643,
   "games": [
     {
       "igdb_id": 7522,
@@ -17270,6 +17270,20 @@
           "album_name": "Tomb Raider (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7219,
+      "game_name": "Tony Hawk's American Wasteland",
+      "game_url": "https://ostdb.net/games/tony-hawks-american-wasteland",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362316bb9e82077056586e6a0",
+      "albums": [
+        {
+          "album_name": "Tony Hawk's American Wasteland Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
