@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhantomZone SemiDeus | 349973 | [349973-phantomzone-semideus.json](./349973-phantomzone-semideus.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharabis | 342121 | [342121-pharabis.json](./342121-pharabis.json) |
+| Pharao Reloaded | 132524 | [132524-pharao-reloaded.json](./132524-pharao-reloaded.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
 | Pharaoh ISO | 209969 | [209969-pharaoh-iso.json](./209969-pharaoh-iso.json) |
 | Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipyakas | 216396 | [216396-pipyakas.json](./216396-pipyakas.json) |
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
+| PiraCrash! | 132517 | [132517-piracrash.json](./132517-piracrash.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
@@ -6242,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
 | Plant Nursery Simulator | 332575 | [332575-plant-nursery-simulator.json](./332575-plant-nursery-simulator.json) |
 | Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
+| Plant Revenge | 132521 | [132521-plant-revenge.json](./132521-plant-revenge.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
@@ -6586,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Fuck Me My Sexy Neighbor | 385321 | [385321-please-fuck-me-my-sexy-neighbor.json](./385321-please-fuck-me-my-sexy-neighbor.json) |
 | Please Help Me! I'm Stuck In Esoteric Prime Number Hell! | 339869 | [339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json](./339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json) |
+| Please Hold Me | 132556 | [132556-please-hold-me.json](./132556-please-hold-me.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
