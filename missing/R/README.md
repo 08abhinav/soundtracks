@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
+| Rawr-Off | 125088 | [125088-rawr-off.json](./125088-rawr-off.json) |
 | RAWR: Little Hungry Dragon | 319860 | [319860-rawr-little-hungry-dragon.json](./319860-rawr-little-hungry-dragon.json) |
 | Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
+| Reviser | 125103 | [125103-reviser.json](./125103-reviser.json) |
 | Revita | 139672 | [139672-revita.json](./139672-revita.json) |
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
@@ -7071,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romestead | 336150 | [336150-romestead.json](./336150-romestead.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
+| Romguns | 125089 | [125089-romguns.json](./125089-romguns.json) |
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
