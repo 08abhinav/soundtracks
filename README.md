@@ -578,6 +578,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/ae/fc/f1aefc4e-8efb-d042-2070-2722f111cd29/cover.jpg/600x600bb.jpg" width="60" /> | [Hotline Miami 2: Wrong Number](https://ostdb.net/games/hotline-miami-2-wrong-number) | **Hotline Miami 2** · [Spotify](https://music.apple.com/us/album/hotline-miami-2/1217893568?uo=4) · [Album](https://album.link/i/1217893568) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/c5/13/17c51338-6c32-a28f-ca41-89407263b8f2/3663729168733_cover.jpg/600x600bb.jpg" width="60" /> | [Humankind](https://ostdb.net/games/humankind) | **HUMANKIND (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/humankind-original-game-soundtrack/1578911803?uo=4) · [Album](https://album.link/i/1578911803) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352f152eeed23833bd26b1e9b" width="60" /> | [Hunt: Showdown 1896](https://ostdb.net/games/hunt-showdown-1896) | **Hunt: Showdown (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3T5icm0oPKHn4ykCIRxLsi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c3267435aa1a76175" width="60" /> | [Huntdown](https://ostdb.net/games/huntdown) | **Huntdown (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6JKUWcHBIwztCFBbYL2Zqi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730eacc52ccf167bddfb239188" width="60" /> | [Hyper Light Drifter](https://ostdb.net/games/hyper-light-drifter) | **Hyper Light Drifter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5v5mSuw9o5DIHbA2qwFOUt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd1ac2c7bf19ab1998c6c78" width="60" /> | [Hytale](https://ostdb.net/games/hytale) | **Hytale (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/4P3GyB2Qg9TR9u2tnnX374)<br>**Hytale (Original Soundtrack), Vol. 2** · [Spotify](https://open.spotify.com/album/6AdguZ0Z6xlHbqsXq6SNdc) |
 
@@ -1342,4 +1343,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1659 soundtracks · last updated 2026-10-14T21:26:53.752Z_
+_1660 soundtracks · last updated 2026-10-14T21:27:04.891Z_
