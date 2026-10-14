@@ -9349,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prelude Dark Pain | 301494 | [301494-prelude-dark-pain.json](./301494-prelude-dark-pain.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
+| Prelude: Psychological Horror Game | 84135 | [84135-prelude-psychological-horror-game.json](./84135-prelude-psychological-horror-game.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
@@ -10346,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project A-ko | 260109 | [260109-project-a-ko.json](./260109-project-a-ko.json) |
 | Project A-ko 2 | 260110 | [260110-project-a-ko-2.json](./260110-project-a-ko-2.json) |
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
+| Project Abel | 84122 | [84122-project-abel.json](./84122-project-abel.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
