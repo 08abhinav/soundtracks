@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
+| Magic Triangles | 105737 | [105737-magic-triangles.json](./105737-magic-triangles.json) |
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
@@ -3937,6 +3938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
+| Maui Wowie Cart | 105742 | [105742-maui-wowie-cart.json](./105742-maui-wowie-cart.json) |
+| Maui Wowie Smash Up | 105743 | [105743-maui-wowie-smash-up.json](./105743-maui-wowie-smash-up.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Mauri Mursu's Hangover | 224609 | [224609-mauri-mursus-hangover.json](./224609-mauri-mursus-hangover.json) |
@@ -4267,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
+| Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
@@ -4649,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
+| Medal of Valor 4 | 105803 | [105803-medal-of-valor-4.json](./105803-medal-of-valor-4.json) |
 | Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
 | Medal Winners 24 | 293554 | [293554-medal-winners-24.json](./293554-medal-winners-24.json) |
 | Medals of War | 71024 | [71024-medals-of-war.json](./71024-medals-of-war.json) |
