@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Heroes: Rise of the Black Alliance | 274559 | [274559-galactic-heroes-rise-of-the-black-alliance.json](./274559-galactic-heroes-rise-of-the-black-alliance.json) |
+| Galactic Incoming | 111534 | [111534-galactic-incoming.json](./111534-galactic-incoming.json) |
 | Galactic Inferno | 336695 | [336695-galactic-inferno.json](./336695-galactic-inferno.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
@@ -6177,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales 8: The Final Suspect | 140299 | [140299-grim-tales-8-the-final-suspect.json](./140299-grim-tales-8-the-final-suspect.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
+| Grim Tales: Bloody Mary - Collector's Edition | 111510 | [111510-grim-tales-bloody-mary-collectors-edition.json](./111510-grim-tales-bloody-mary-collectors-edition.json) |
 | Grim Tales: Color of Fright | 83152 | [83152-grim-tales-color-of-fright.json](./83152-grim-tales-color-of-fright.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
