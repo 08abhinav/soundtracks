@@ -5024,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Mayhem | 312143 | [312143-exo-mayhem.json](./312143-exo-mayhem.json) |
 | Exo One: Prologue | 139131 | [139131-exo-one-prologue.json](./139131-exo-one-prologue.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
+| Exo Racing | 112827 | [112827-exo-racing.json](./112827-exo-racing.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
 | Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
