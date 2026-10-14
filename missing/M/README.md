@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
+| Match it - My Favorite Animal | 110194 | [110194-match-it-my-favorite-animal.json](./110194-match-it-my-favorite-animal.json) |
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
 | Match it Up | 246350 | [246350-match-it-up.json](./246350-match-it-up.json) |
@@ -10276,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
+| Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
@@ -11459,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
+| Morty the Matador | 110212 | [110212-morty-the-matador.json](./110212-morty-the-matador.json) |
 | Morvus | 407997 | [407997-morvus.json](./407997-morvus.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
@@ -12157,11 +12160,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bullet | 130292 | [130292-mr-bullet.json](./130292-mr-bullet.json) |
 | Mr Bullet 3D | 217769 | [217769-mr-bullet-3d.json](./217769-mr-bullet-3d.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
+| Mr Catt | 110215 | [110215-mr-catt.json](./110215-mr-catt.json) |
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Constructor | 54226 | [54226-mr-constructor.json](./54226-mr-constructor.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
+| Mr Future Ninja! | 110213 | [110213-mr-future-ninja.json](./110213-mr-future-ninja.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
 | Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
@@ -12389,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
+| Mrs Kim | 110214 | [110214-mrs-kim.json](./110214-mrs-kim.json) |
 | Mrs. Dynamite | 285138 | [285138-mrs-dynamite.json](./285138-mrs-dynamite.json) |
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
@@ -12498,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
+| Muerte's Arena | 110099 | [110099-muertes-arena.json](./110099-muertes-arena.json) |
 | Muffin Fight | 153747 | [153747-muffin-fight.json](./153747-muffin-fight.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
