@@ -4222,11 +4222,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
+| Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
+| Noël: La Neige | 107619 | [107619-noel-la-neige.json](./107619-noel-la-neige.json) |
+| Noel: Not Digital | 107620 | [107620-noel-not-digital.json](./107620-noel-not-digital.json) |
 | NoEL: Nothing on Elysion Line | 237253 | [237253-noel-nothing-on-elysion-line.json](./237253-noel-nothing-on-elysion-line.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
@@ -4719,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
 | Notice Me Senpai | 403753 | [403753-notice-me-senpai.json](./403753-notice-me-senpai.json) |
 | Notice Period | 177785 | [177785-notice-period.json](./177785-notice-period.json) |
+| Notified | 107728 | [107728-notified.json](./107728-notified.json) |
 | Notmads | 211700 | [211700-notmads.json](./211700-notmads.json) |
 | Notmycar | 85834 | [85834-notmycar.json](./85834-notmycar.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
