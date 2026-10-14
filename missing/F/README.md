@@ -4874,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
+| Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flames & Fortune | 396752 | [396752-flames-and-fortune.json](./396752-flames-and-fortune.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
@@ -7797,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
+| Freehand Solitaire | 90497 | [90497-freehand-solitaire.json](./90497-freehand-solitaire.json) |
 | FreeHolder | 32937 | [32937-freeholder.json](./32937-freeholder.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
@@ -8394,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
+| Front Wars: World War II | 90521 | [90521-front-wars-world-war-ii.json](./90521-front-wars-world-war-ii.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
 | Fronteeland | 366347 | [366347-fronteeland.json](./366347-fronteeland.json) |
