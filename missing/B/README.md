@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Balls | 80793 | [80793-battle-balls.json](./80793-battle-balls.json) |
+| Battle Bandits | 130100 | [130100-battle-bandits.json](./130100-battle-bandits.json) |
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
+| Battle for Iwo Jima | 130070 | [130070-battle-for-iwo-jima.json](./130070-battle-for-iwo-jima.json) |
 | Battle For Landriel | 107788 | [107788-battle-for-landriel.json](./107788-battle-for-landriel.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
@@ -3559,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
+| Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
@@ -6481,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
+| Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
@@ -7248,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Pressure | 140937 | [140937-blood-pressure.json](./140937-blood-pressure.json) |
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
+| Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
@@ -11549,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burgie's Cozy Kitchen | 322086 | [322086-burgies-cozy-kitchen.json](./322086-burgies-cozy-kitchen.json) |
 | Burglar | 179428 | [179428-burglar.json](./179428-burglar.json) |
+| Burglar Girl | 130065 | [130065-burglar-girl.json](./130065-burglar-girl.json) |
 | Burglar Hunt | 310541 | [310541-burglar-hunt.json](./310541-burglar-hunt.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
