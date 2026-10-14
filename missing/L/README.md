@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Ape | 165776 | [165776-legend-of-the-ape.json](./165776-legend-of-the-ape.json) |
+| Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Unicorn Girl | 62567 | [62567-legend-of-the-unicorn-girl.json](./62567-legend-of-the-unicorn-girl.json) |
 | Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
+| Legend of the Wizard King | 114219 | [114219-legend-of-the-wizard-king.json](./114219-legend-of-the-wizard-king.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
 | Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
@@ -6075,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
+| Lu Yan Gui Hang: Swallow Homing | 114210 | [114210-lu-yan-gui-hang-swallow-homing.json](./114210-lu-yan-gui-hang-swallow-homing.json) |
 | Lu Zhou: Oasis | 130066 | [130066-lu-zhou-oasis.json](./130066-lu-zhou-oasis.json) |
 | Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
