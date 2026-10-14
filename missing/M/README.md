@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Mustache | 152789 | [152789-mad-mustache.json](./152789-mad-mustache.json) |
 | Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
+| Mad News | 79752 | [79752-mad-news.json](./79752-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
 | Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
@@ -4605,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCommander | 19193 | [19193-mechcommander.json](./19193-mechcommander.json) |
+| MechCommander Gold | 79767 | [79767-mechcommander-gold.json](./79767-mechcommander-gold.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
@@ -4720,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
+| Medarot G: Kuwagata Version | 79757 | [79757-medarot-g-kuwagata-version.json](./79757-medarot-g-kuwagata-version.json) |
 | Medarot Girls Mission Kuwagata Ver. | 222459 | [222459-medarot-girls-mission-kuwagata-ver.json](./222459-medarot-girls-mission-kuwagata-ver.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
@@ -5994,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
 | Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
+| Men in Black II: Crossfire | 79736 | [79736-men-in-black-ii-crossfire.json](./79736-men-in-black-ii-crossfire.json) |
 | Men in Black: First Assignment | 119418 | [119418-men-in-black-first-assignment.json](./119418-men-in-black-first-assignment.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
@@ -10850,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
+| Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
 | Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
