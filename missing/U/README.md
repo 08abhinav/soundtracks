@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arcade Games | 49262 | [49262-ultimate-arcade-games.json](./49262-ultimate-arcade-games.json) |
 | Ultimate Arena | 33667 | [33667-ultimate-arena.json](./33667-ultimate-arena.json) |
 | Ultimate Arena | 51456 | [51456-ultimate-arena.json](./51456-ultimate-arena.json) |
+| Ultimate Arena FPS | 124534 | [124534-ultimate-arena-fps.json](./124534-ultimate-arena-fps.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
 | Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
