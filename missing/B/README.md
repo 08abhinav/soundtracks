@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
+| Back Wars | 105726 | [105726-back-wars.json](./105726-back-wars.json) |
 | Backbeat | 356606 | [356606-backbeat.json](./356606-backbeat.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
@@ -1193,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
 | Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
+| Ballz Drop | 105721 | [105721-ballz-drop.json](./105721-ballz-drop.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
 | BallZ DX | 316189 | [316189-ballz-dx.json](./316189-ballz-dx.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Racing: Moto 2018 | 107102 | [107102-bike-racing-moto-2018.json](./107102-bike-racing-moto-2018.json) |
 | Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
+| Bike Rider 2018 | 105723 | [105723-bike-rider-2018.json](./105723-bike-rider-2018.json) |
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
 | Bike Rivals | 256188 | [256188-bike-rivals.json](./256188-bike-rivals.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
@@ -7575,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
+| Bloop Go! | 105799 | [105799-bloop-go.json](./105799-bloop-go.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Blooper's Revenge DX | 321671 | [321671-bloopers-revenge-dx.json](./321671-bloopers-revenge-dx.json) |
 | Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
@@ -9633,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish | 16289 | [16289-brandish.json](./16289-brandish.json) |
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
+| Brandish 4: Nemureru Kami no Tou | 105741 | [105741-brandish-4-nemureru-kami-no-tou.json](./105741-brandish-4-nemureru-kami-no-tou.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
 | Brane: Prototype | 104586 | [104586-brane-prototype.json](./104586-brane-prototype.json) |
