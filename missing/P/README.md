@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Pengo | 282071 | [282071-pengo.json](./282071-pengo.json) |
+| Pengo! | 91857 | [91857-pengo.json](./91857-pengo.json) |
 | Pengon | 79230 | [79230-pengon.json](./79230-pengon.json) |
 | PengoRoyale | 193274 | [193274-pengoroyale.json](./193274-pengoroyale.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
@@ -6094,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
+| Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
