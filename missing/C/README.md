@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle Story | 79809 | [79809-castle-story.json](./79809-castle-story.json) |
+| Castle Strike | 92914 | [92914-castle-strike.json](./92914-castle-strike.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
@@ -5640,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
+| Chutes and Ladders | 92928 | [92928-chutes-and-ladders.json](./92928-chutes-and-ladders.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
@@ -6835,6 +6837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk | 94332 | [94332-clonk.json](./94332-clonk.json) |
 | Clonk 2: Debakel | 94534 | [94534-clonk-2-debakel.json](./94534-clonk-2-debakel.json) |
 | Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
+| Clonk 4 | 92916 | [92916-clonk-4.json](./92916-clonk-4.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
@@ -10980,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
 | Crazy Flying Squirrel | 59248 | [59248-crazy-flying-squirrel.json](./59248-crazy-flying-squirrel.json) |
 | Crazy Foods | 152640 | [152640-crazy-foods.json](./152640-crazy-foods.json) |
+| Crazy Foota | 92936 | [92936-crazy-foota.json](./92936-crazy-foota.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
@@ -13101,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
+| Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
