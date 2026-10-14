@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:35:47.823Z",
-  "total_soundtracks": 1611,
+  "generated_at": "2026-10-14T04:36:02.037Z",
+  "total_soundtracks": 1612,
   "games": [
     {
       "igdb_id": 7522,
@@ -14131,6 +14131,20 @@
           "spotify_url": "https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1841096732"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1565,
+      "game_name": "SoulCalibur II",
+      "game_url": "https://ostdb.net/games/soulcalibur-ii",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/71/cf/5f71cfb4-79b8-c2f0-49cf-cc5140b0127f/PA00175364_0_212141_jacket.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N",
+          "apple_music_url": "https://music.apple.com/us/album/soulcalibur-original-soundtrack/1791656213",
+          "album_link_url": "https://album.link/i/1791656213"
         }
       ]
     },
