@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
+| Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
 | Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
@@ -5274,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
 | Lost Curse | 356701 | [356701-lost-curse.json](./356701-lost-curse.json) |
+| Lost Daughter | 120070 | [120070-lost-daughter.json](./120070-lost-daughter.json) |
 | Lost Day | 236739 | [236739-lost-day.json](./236739-lost-day.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
