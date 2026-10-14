@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
+| Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
+| Carrier Landing HD | 103940 | [103940-carrier-landing-hd.json](./103940-carrier-landing-hd.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
 | Carrier Landings Pro | 87601 | [87601-carrier-landings-pro.json](./87601-carrier-landings-pro.json) |
 | Carrier Snake | 87609 | [87609-carrier-snake.json](./87609-carrier-snake.json) |
@@ -4361,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
+| Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
@@ -5744,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
+| Circle Up | 103973 | [103973-circle-up.json](./103973-circle-up.json) |
 | Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
 | Circle With a Gun | 393543 | [393543-circle-with-a-gun.json](./393543-circle-with-a-gun.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
@@ -6672,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate State | 208671 | [208671-climate-state.json](./208671-climate-state.json) |
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
+| Climb | 103965 | [103965-climb.json](./103965-climb.json) |
 | Climb | 182760 | [182760-climb.json](./182760-climb.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
@@ -9297,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Cats | 103976 | [103976-cookie-cats.json](./103976-cookie-cats.json) |
+| Cookie Cats Blast | 103945 | [103945-cookie-cats-blast.json](./103945-cookie-cats-blast.json) |
 | Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
