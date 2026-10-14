@@ -6840,7 +6840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: The Princess and The Frog | 36227 | [36227-disney-princess-the-princess-and-the-frog.json](./36227-disney-princess-the-princess-and-the-frog.json) |
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
-| Disney Speedstorm | 191402 | [191402-disney-speedstorm.json](./191402-disney-speedstorm.json) |
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
 | Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
 | Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
