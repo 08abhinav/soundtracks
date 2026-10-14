@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxis Wars | 36517 | [36517-galaxis-wars.json](./36517-galaxis-wars.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | Galaxity: Terminal 21 VR | 191132 | [191132-galaxity-terminal-21-vr.json](./191132-galaxity-terminal-21-vr.json) |
+| Galaxium | 123908 | [123908-galaxium.json](./123908-galaxium.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | GalaxSeed | 97714 | [97714-galaxseed.json](./97714-galaxseed.json) |
@@ -1632,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geeks vs Gangsters | 54903 | [54903-geeks-vs-gangsters.json](./54903-geeks-vs-gangsters.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
+| Geese vs. Cthulhu | 123915 | [123915-geese-vs-cthulhu.json](./123915-geese-vs-cthulhu.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
@@ -4427,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golf+ | 186012 | [186012-golf.json](./186012-golf.json) |
+| Golf98 | 123885 | [123885-golf98.json](./123885-golf98.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
@@ -6030,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
+| Gridcannon Evolution | 123946 | [123946-gridcannon-evolution.json](./123946-gridcannon-evolution.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Gridd: Retroenhanced | 30583 | [30583-gridd-retroenhanced.json](./30583-gridd-retroenhanced.json) |
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
