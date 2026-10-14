@@ -7924,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
+| Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
 | Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
 | Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
@@ -9333,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Cats | 103976 | [103976-cookie-cats.json](./103976-cookie-cats.json) |
 | Cookie Cats Blast | 103945 | [103945-cookie-cats-blast.json](./103945-cookie-cats-blast.json) |
+| Cookie Cats Pop | 95331 | [95331-cookie-cats-pop.json](./95331-cookie-cats-pop.json) |
 | Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
@@ -10519,6 +10521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Lands | 289776 | [289776-craft-lands.json](./289776-craft-lands.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
+| Craft Run - 3D Endless Mine Runner Game | 95302 | [95302-craft-run-3d-endless-mine-runner-game.json](./95302-craft-run-3d-endless-mine-runner-game.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
 | Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
 | Craft Skyland World City | 188329 | [188329-craft-skyland-world-city.json](./188329-craft-skyland-world-city.json) |
@@ -11657,6 +11660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Crops! | 292960 | [292960-crops.json](./292960-crops.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
+| Croquet | 95342 | [95342-croquet.json](./95342-croquet.json) |
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
