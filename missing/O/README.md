@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
+| Orbu | 101456 | [101456-orbu.json](./101456-orbu.json) |
 | OrbusVR: Reborn | 193679 | [193679-orbusvr-reborn.json](./193679-orbusvr-reborn.json) |
 | OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
