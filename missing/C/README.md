@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Fred Evil Pet | 272860 | [272860-cat-fred-evil-pet.json](./272860-cat-fred-evil-pet.json) |
 | Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
+| Cat Fu Mi | 109388 | [109388-cat-fu-mi.json](./109388-cat-fu-mi.json) |
 | Cat Fusion Quest | 312759 | [312759-cat-fusion-quest.json](./312759-cat-fusion-quest.json) |
 | Cat Game | 243081 | [243081-cat-game.json](./243081-cat-game.json) |
 | Cat Game | 282580 | [282580-cat-game.json](./282580-cat-game.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Quest | 127874 | [127874-cave-quest.json](./127874-cave-quest.json) |
 | Cave Quest 2 | 157484 | [157484-cave-quest-2.json](./157484-cave-quest-2.json) |
 | Cave Quest 3 | 217275 | [217275-cave-quest-3.json](./217275-cave-quest-3.json) |
+| Cave Racer | 109398 | [109398-cave-racer.json](./109398-cave-racer.json) |
 | Cave Raider | 235797 | [235797-cave-raider.json](./235797-cave-raider.json) |
 | Cave Ranger | 239619 | [239619-cave-ranger.json](./239619-cave-ranger.json) |
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Game | 151295 | [151295-color-game.json](./151295-color-game.json) |
+| Color Guardian | 109407 | [109407-color-guardian.json](./109407-color-guardian.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
@@ -12568,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
+| Cubeverse | 109397 | [109397-cubeverse.json](./109397-cubeverse.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
