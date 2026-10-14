@@ -5224,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranth | 239560 | [239560-amaranth.json](./239560-amaranth.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
 | Amaranthine | 33200 | [33200-amaranthine.json](./33200-amaranthine.json) |
+| Amaranthine Voyage: Legacy of the Guardians | 98344 | [98344-amaranthine-voyage-legacy-of-the-guardians.json](./98344-amaranthine-voyage-legacy-of-the-guardians.json) |
 | Amaranthine Voyage: Legacy of the Guardians - Collector's Edition | 416874 | [416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json](./416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json) |
 | Amaranthine Voyage: The Living Mountain | 58027 | [58027-amaranthine-voyage-the-living-mountain.json](./58027-amaranthine-voyage-the-living-mountain.json) |
 | Amaranthine Voyage: The Obsidian Book | 58028 | [58028-amaranthine-voyage-the-obsidian-book.json](./58028-amaranthine-voyage-the-obsidian-book.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
+| Apocalypse Zombie Race | 98367 | [98367-apocalypse-zombie-race.json](./98367-apocalypse-zombie-race.json) |
 | Apocalypse: Desire Next | 5487 | [5487-apocalypse-desire-next.json](./5487-apocalypse-desire-next.json) |
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
@@ -9541,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
+| As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
 | As Long As It's Not Illegal: Act II | 254367 | [254367-as-long-as-its-not-illegal-act-ii.json](./254367-as-long-as-its-not-illegal-act-ii.json) |
 | As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
