@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
 | NeoCore: Dark Depths | 140877 | [140877-neocore-dark-depths.json](./140877-neocore-dark-depths.json) |
 | Neocron | 19706 | [19706-neocron.json](./19706-neocron.json) |
+| Neocron 2: Beyond Dome of York | 79753 | [79753-neocron-2-beyond-dome-of-york.json](./79753-neocron-2-beyond-dome-of-york.json) |
 | NeoCube | 148418 | [148418-neocube.json](./148418-neocube.json) |
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
