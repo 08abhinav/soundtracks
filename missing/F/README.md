@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
+| Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
