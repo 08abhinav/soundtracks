@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
+| Way | 98872 | [98872-way.json](./98872-way.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Back Home | 128899 | [128899-way-back-home.json](./128899-way-back-home.json) |
 | Way Back Witness | 152688 | [152688-way-back-witness.json](./152688-way-back-witness.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
+| Wooden Block Puzzle Games | 98899 | [98899-wooden-block-puzzle-games.json](./98899-wooden-block-puzzle-games.json) |
 | Wooden Hearts | 134999 | [134999-wooden-hearts.json](./134999-wooden-hearts.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Labyrinth 3D | 175169 | [175169-wooden-labyrinth-3d.json](./175169-wooden-labyrinth-3d.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
 | World At War: Normandy | 333743 | [333743-world-at-war-normandy.json](./333743-world-at-war-normandy.json) |
 | World at War: Operation Somalia | 10915 | [10915-world-at-war-operation-somalia.json](./10915-world-at-war-operation-somalia.json) |
+| World at War: Stalingrad | 98910 | [98910-world-at-war-stalingrad.json](./98910-world-at-war-stalingrad.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Basketball Manager 2 | 44284 | [44284-world-basketball-manager-2.json](./44284-world-basketball-manager-2.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
