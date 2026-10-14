@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
+| Kernel Panic | 110886 | [110886-kernel-panic.json](./110886-kernel-panic.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
 | Kero Blaster | 10255 | [10255-kero-blaster.json](./10255-kero-blaster.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
@@ -3380,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
 | Kolibri | 19733 | [19733-kolibri.json](./19733-kolibri.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
+| Koliseum Soccer VR | 110754 | [110754-koliseum-soccer-vr.json](./110754-koliseum-soccer-vr.json) |
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Kollectomaniac | 332635 | [332635-kollectomaniac.json](./332635-kollectomaniac.json) |
 | Kollidoskop! | 96857 | [96857-kollidoskop.json](./96857-kollidoskop.json) |
