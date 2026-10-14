@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight for Marseille | 109522 | [109522-fight-for-marseille.json](./109522-fight-for-marseille.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
+| Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
@@ -4435,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing and Girls | 242979 | [242979-fishing-and-girls.json](./242979-fishing-and-girls.json) |
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
+| Fishing Break | 79746 | [79746-fishing-break.json](./79746-fishing-break.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
@@ -4564,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fissure | 201624 | [201624-fissure.json](./201624-fissure.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
+| Fist | 79787 | [79787-fist.json](./79787-fist.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
@@ -7362,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
+| Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxxel Quest | 339297 | [339297-foxxel-quest.json](./339297-foxxel-quest.json) |
