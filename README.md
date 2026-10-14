@@ -342,6 +342,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309a3e50195d7c228cb3943f0" width="60" /> | [Doom 64](https://ostdb.net/games/doom-64) | **Doom 64 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5ImPkCzQ2vxAuKREaY1L90) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273122245215d7079438b9bcd58" width="60" /> | [Doom II](https://ostdb.net/games/doom-ii) | **DOOM II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Er7LtKFNT2lpkkoN1M51c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac7c2271aebc053e1bf27a18" width="60" /> | [Doom: The Dark Ages](https://ostdb.net/games/doom-the-dark-ages) | **DOOM: The Dark Ages (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0uDPC7mKXQst5oZhvDD8QM) · [Apple Music](https://music.apple.com/us/album/doom-the-dark-ages-original-game-soundtrack/1884641346) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/f0/6d/adf06da1-b288-94da-5163-6b7b6e50d9ae/artwork.jpg/600x600bb.jpg" width="60" /> | [Dosa Divas](https://ostdb.net/games/dosa-divas) | **Dosa Divas (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dosa-divas-original-video-game-soundtrack/1890991981?uo=4) · [Album](https://album.link/i/1890991981) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a1de04c51a595e81f943f28" width="60" /> | [Dota 2](https://ostdb.net/games/dota-2) | **The Dota 2 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/6fpvsv041NQCRMpxAvwgLI) |
@@ -1320,4 +1321,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1637 soundtracks · last updated 2026-10-14T18:36:01.574Z_
+_1638 soundtracks · last updated 2026-10-14T18:40:46.126Z_
