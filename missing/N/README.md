@@ -119,6 +119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Chao! | 210297 | [210297-nakayoshi-chao.json](./210297-nakayoshi-chao.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
+| Nakayoshi Pet Series 3: Kawaii Koinu | 130615 | [130615-nakayoshi-pet-series-3-kawaii-koinu.json](./130615-nakayoshi-pet-series-3-kawaii-koinu.json) |
+| Nakayoshi Pet Series 4: Kawaii Koneko | 130614 | [130614-nakayoshi-pet-series-4-kawaii-koneko.json](./130614-nakayoshi-pet-series-4-kawaii-koneko.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
