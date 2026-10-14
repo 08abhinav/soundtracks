@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengoku Yoitoko | 202692 | [202692-tengoku-yoitoko.json](./202692-tengoku-yoitoko.json) |
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
+| Tengutana | 74991 | [74991-tengutana.json](./74991-tengutana.json) |
 | Tenhou | 86199 | [86199-tenhou.json](./86199-tenhou.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tenioha! Girls Can Be Pervy Too! | 145379 | [145379-tenioha-girls-can-be-pervy-too.json](./145379-tenioha-girls-can-be-pervy-too.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
+| Terrorist Elimination | 74949 | [74949-terrorist-elimination.json](./74949-terrorist-elimination.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown 2: US Navy Seals | 46443 | [46443-terrorist-takedown-2-us-navy-seals.json](./46443-terrorist-takedown-2-us-navy-seals.json) |
 | Terrorist Takedown 3 | 27616 | [27616-terrorist-takedown-3.json](./27616-terrorist-takedown-3.json) |
@@ -7268,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Legions - Titandeath | 203298 | [203298-the-horus-heresy-legions-titandeath.json](./203298-the-horus-heresy-legions-titandeath.json) |
 | The Hospital | 231534 | [231534-the-hospital.json](./231534-the-hospital.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
+| The Hospital: Allison's Diary | 74923 | [74923-the-hospital-allisons-diary.json](./74923-the-hospital-allisons-diary.json) |
 | The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
@@ -10495,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
 | The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
+| The Revolt: Awakening | 74932 | [74932-the-revolt-awakening.json](./74932-the-revolt-awakening.json) |
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewind Hero Returns | 404992 | [404992-the-rewind-hero-returns.json](./404992-the-rewind-hero-returns.json) |
@@ -15738,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
+| TimeTravelers | 74925 | [74925-timetravelers.json](./74925-timetravelers.json) |
 | TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
@@ -20446,6 +20451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to Thailand | 293161 | [293161-travel-to-thailand.json](./293161-travel-to-thailand.json) |
 | Travel to USA | 337596 | [337596-travel-to-usa.json](./337596-travel-to-usa.json) |
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
+| Travel VR | 74924 | [74924-travel-vr.json](./74924-travel-vr.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
@@ -21574,6 +21580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth of Falchion | 95203 | [95203-truth-of-falchion.json](./95203-truth-of-falchion.json) |
 | Truth or Dare | 91133 | [91133-truth-or-dare.json](./91133-truth-or-dare.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
+| Truth or Dare? | 74918 | [74918-truth-or-dare.json](./74918-truth-or-dare.json) |
 | Truth or Dare? Fun Party Games | 106945 | [106945-truth-or-dare-fun-party-games.json](./106945-truth-or-dare-fun-party-games.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
@@ -22144,6 +22151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Odyssey | 34157 | [34157-turtle-odyssey.json](./34157-turtle-odyssey.json) |
+| Turtle Quest | 74915 | [74915-turtle-quest.json](./74915-turtle-quest.json) |
 | Turtle Racer | 367755 | [367755-turtle-racer.json](./367755-turtle-racer.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle Riders: Adventure Begins | 333796 | [333796-turtle-riders-adventure-begins.json](./333796-turtle-riders-adventure-begins.json) |
