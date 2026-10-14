@@ -6117,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
+| City Zombie Hunter | 108224 | [108224-city-zombie-hunter.json](./108224-city-zombie-hunter.json) |
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
 | City Zombies | 116909 | [116909-city-zombies.json](./116909-city-zombies.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
+| Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
 | Combat Arms: the Classic | 135798 | [135798-combat-arms-the-classic.json](./135798-combat-arms-the-classic.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
@@ -11490,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Critical Strike Modern: SWAT Shooter Ops | 370566 | [370566-critical-strike-modern-swat-shooter-ops.json](./370566-critical-strike-modern-swat-shooter-ops.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
+| Critical Strike: Dead or Survival | 108218 | [108218-critical-strike-dead-or-survival.json](./108218-critical-strike-dead-or-survival.json) |
 | Critical Upload | 298442 | [298442-critical-upload.json](./298442-critical-upload.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
@@ -12494,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mind | 346750 | [346750-cube-mind.json](./346750-cube-mind.json) |
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
+| Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
@@ -13136,6 +13140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute & Cozy Farm 5-in-1 | 399816 | [399816-cute-and-cozy-farm-5-in-1.json](./399816-cute-and-cozy-farm-5-in-1.json) |
 | Cute & Cozy Relax 5‑in‑1 | 410841 | [410841-cute-and-cozy-relax-5-in-1.json](./410841-cute-and-cozy-relax-5-in-1.json) |
 | Cute & Dead | 408863 | [408863-cute-and-dead.json](./408863-cute-and-dead.json) |
+| Cute & Tiny Holidays - Summer Family Travel | 108242 | [108242-cute-and-tiny-holidays-summer-family-travel.json](./108242-cute-and-tiny-holidays-summer-family-travel.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
 | Cute and Creepy | 241412 | [241412-cute-and-creepy.json](./241412-cute-and-creepy.json) |
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
