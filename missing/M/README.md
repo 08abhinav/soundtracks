@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Parkour | 156900 | [156900-marble-parkour.json](./156900-marble-parkour.json) |
 | Marble Parkour 2: Roll and Roll | 163186 | [163186-marble-parkour-2-roll-and-roll.json](./163186-marble-parkour-2-roll-and-roll.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
+| Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
@@ -9010,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
+| Missile Defender | 114137 | [114137-missile-defender.json](./114137-missile-defender.json) |
 | Missile Defender | 68915 | [68915-missile-defender.json](./68915-missile-defender.json) |
 | Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
 | Missile Dude | 107096 | [107096-missile-dude.json](./107096-missile-dude.json) |
@@ -11211,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph King | 190911 | [190911-morph-king.json](./190911-morph-king.json) |
+| Morph Pong | 114240 | [114240-morph-pong.json](./114240-morph-pong.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
 | Morphatrons Arachnid | 198826 | [198826-morphatrons-arachnid.json](./198826-morphatrons-arachnid.json) |
@@ -12681,6 +12684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
+| Murasaki Tsurugi | 114128 | [114128-murasaki-tsurugi.json](./114128-murasaki-tsurugi.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
 | Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
 | Murazu | 81660 | [81660-murazu.json](./81660-murazu.json) |
@@ -13375,6 +13379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
+| My Exotic Farm 2018 | 114132 | [114132-my-exotic-farm-2018.json](./114132-my-exotic-farm-2018.json) |
 | My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
 | My Extraordinary Girlfriend | 238097 | [238097-my-extraordinary-girlfriend.json](./238097-my-extraordinary-girlfriend.json) |
 | My Eyes | 155683 | [155683-my-eyes.json](./155683-my-eyes.json) |
@@ -14509,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth II: Worlds | 210108 | [210108-myth-ii-worlds.json](./210108-myth-ii-worlds.json) |
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
+| Myth of Ambition | 114139 | [114139-myth-of-ambition.json](./114139-myth-of-ambition.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
 | Myth of Empires: Dongzhou Map | 297155 | [297155-myth-of-empires-dongzhou-map.json](./297155-myth-of-empires-dongzhou-map.json) |
 | Myth of Empires: Hellenic Civilization Pack | 322729 | [322729-myth-of-empires-hellenic-civilization-pack.json](./322729-myth-of-empires-hellenic-civilization-pack.json) |
@@ -14562,6 +14568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
+| Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
