@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
+| Infernales: Circles of Hell | 89079 | [89079-infernales-circles-of-hell.json](./89079-infernales-circles-of-hell.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernax: Deux or Die | 248094 | [248094-infernax-deux-or-die.json](./248094-infernax-deux-or-die.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
@@ -2640,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity Ball | 213575 | [213575-infinity-ball.json](./213575-infinity-ball.json) |
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
+| Infinity Beats - Endless Rhythm Game | 89026 | [89026-infinity-beats-endless-rhythm-game.json](./89026-infinity-beats-endless-rhythm-game.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
 | Infinity Blade | 10029 | [10029-infinity-blade.json](./10029-infinity-blade.json) |
 | Infinity Blade FX | 356605 | [356605-infinity-blade-fx.json](./356605-infinity-blade-fx.json) |
