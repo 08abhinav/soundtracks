@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Leo-kun White Day Kikaku | 376686 | [376686-leo-kun-white-day-kikaku.json](./376686-leo-kun-white-day-kikaku.json) |
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
+| #RaceDieRun | 122792 | [122792-racedierun.json](./122792-racedierun.json) |
 | #SelfCare | 106771 | [106771-selfcare.json](./106771-selfcare.json) |
 | #SelfieTennis | 34683 | [34683-selfietennis.json](./34683-selfietennis.json) |
 | #SinucaAttack | 143494 | [143494-sinucaattack.json](./143494-sinucaattack.json) |
