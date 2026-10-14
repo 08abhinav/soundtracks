@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Landor | 143450 | [143450-tales-of-landor.json](./143450-tales-of-landor.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
+| Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
@@ -18748,7 +18749,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradesman: Deal to Dealer | 265545 | [265545-tradesman-deal-to-dealer.json](./265545-tradesman-deal-to-dealer.json) |
 | Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
+| Tradewinds 2 | 90469 | [90469-tradewinds-2.json](./90469-tradewinds-2.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
+| Tradewinds Caravans + Odyssey Pack | 90467 | [90467-tradewinds-caravans-odyssey-pack.json](./90467-tradewinds-caravans-odyssey-pack.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Tradie Tapper | 351569 | [351569-tradie-tapper.json](./351569-tradie-tapper.json) |
@@ -19307,6 +19310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Colton & Northern Route Add-On | 156378 | [156378-train-simulator-colton-and-northern-route-add-on.json](./156378-train-simulator-colton-and-northern-route-add-on.json) |
 | Train Simulator: Doncaster Works Route Add-On | 156407 | [156407-train-simulator-doncaster-works-route-add-on.json](./156407-train-simulator-doncaster-works-route-add-on.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
+| Train Simulator: East Coast Main Line London-Peterborough Route Add-On | 90494 | [90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json](./90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json) |
 | Train Simulator: East Coast Main Line Modern: York - Peterborough Route Add-On | 156398 | [156398-train-simulator-east-coast-main-line-modern-york-peterborough-route-add-on.json](./156398-train-simulator-east-coast-main-line-modern-york-peterborough-route-add-on.json) |
 | Train Simulator: East Coast Main Line Route Add-On | 156409 | [156409-train-simulator-east-coast-main-line-route-add-on.json](./156409-train-simulator-east-coast-main-line-route-add-on.json) |
 | Train Simulator: East Midlands Coal: Sherwood - High Marnham Route Add-On | 156373 | [156373-train-simulator-east-midlands-coal-sherwood-high-marnham-route-add-on.json](./156373-train-simulator-east-midlands-coal-sherwood-high-marnham-route-add-on.json) |
@@ -19393,6 +19397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Weardale & Teesdale Network Route Add-On | 156336 | [156336-train-simulator-weardale-and-teesdale-network-route-add-on.json](./156336-train-simulator-weardale-and-teesdale-network-route-add-on.json) |
 | Train Simulator: West Coast Main Line North Route Add-On | 156389 | [156389-train-simulator-west-coast-main-line-north-route-add-on.json](./156389-train-simulator-west-coast-main-line-north-route-add-on.json) |
 | Train Simulator: West Highland Line Extension Route Add-On | 156359 | [156359-train-simulator-west-highland-line-extension-route-add-on.json](./156359-train-simulator-west-highland-line-extension-route-add-on.json) |
+| Train Simulator: West Somerset Railway Route Add-On | 90493 | [90493-train-simulator-west-somerset-railway-route-add-on.json](./90493-train-simulator-west-somerset-railway-route-add-on.json) |
 | Train Simulator: Western Lines of Scotland Route Add-On | 156360 | [156360-train-simulator-western-lines-of-scotland-route-add-on.json](./156360-train-simulator-western-lines-of-scotland-route-add-on.json) |
 | Train Simulator: Western Pacific GP20 High Nose Loco | 211898 | [211898-train-simulator-western-pacific-gp20-high-nose-loco.json](./211898-train-simulator-western-pacific-gp20-high-nose-loco.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
