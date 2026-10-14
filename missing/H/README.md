@@ -8353,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
 | Hyper's Quest: Mystic Warp | 316968 | [316968-hypers-quest-mystic-warp.json](./316968-hypers-quest-mystic-warp.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
+| Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
