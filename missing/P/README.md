@@ -6997,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pusher | 293003 | [293003-pocket-pusher.json](./293003-pocket-pusher.json) |
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
 | Pocket Pusher: The Warehouse | 298273 | [298273-pocket-pusher-the-warehouse.json](./298273-pocket-pusher-the-warehouse.json) |
+| Pocket Puyo Puyo Sun | 86739 | [86739-pocket-puyo-puyo-sun.json](./86739-pocket-puyo-puyo-sun.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Puyo Puyo~n | 249125 | [249125-pocket-puyo-puyo-n.json](./249125-pocket-puyo-puyo-n.json) |
 | Pocket Puzzle | 249935 | [249935-pocket-puzzle.json](./249935-pocket-puzzle.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
 | Prism | 391823 | [391823-prism.json](./391823-prism.json) |
+| Prism | 86655 | [86655-prism.json](./86655-prism.json) |
 | Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
@@ -10773,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
+| Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
 | Project Vic 2 | 295339 | [295339-project-vic-2.json](./295339-project-vic-2.json) |
 | Project Viper | 319154 | [319154-project-viper.json](./319154-project-viper.json) |
@@ -11968,6 +11971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
+| Puyo Pop | 86662 | [86662-puyo-pop.json](./86662-puyo-pop.json) |
 | Puyo Pop Fever | 248503 | [248503-puyo-pop-fever.json](./248503-puyo-pop-fever.json) |
 | Puyo Pop Fever | 248504 | [248504-puyo-pop-fever.json](./248504-puyo-pop-fever.json) |
 | Puyo Pop Fever DX | 251499 | [251499-puyo-pop-fever-dx.json](./251499-puyo-pop-fever-dx.json) |
@@ -11996,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
 | Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
+| Puyo Puyo!! 20th Anniversary: Mini Version | 86736 | [86736-puyo-puyo-20th-anniversary-mini-version.json](./86736-puyo-puyo-20th-anniversary-mini-version.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
