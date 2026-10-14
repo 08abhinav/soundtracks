@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
 | Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
+| Rabbit: Jigsaw Puzzles | 96613 | [96613-rabbit-jigsaw-puzzles.json](./96613-rabbit-jigsaw-puzzles.json) |
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
 | Raid Healing | 216941 | [216941-raid-healing.json](./216941-raid-healing.json) |
+| Raid HQ | 96607 | [96607-raid-hq.json](./96607-raid-hq.json) |
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
@@ -2758,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
+| Redemption Cemetery: At Death's Door Hidden | 96603 | [96603-redemption-cemetery-at-deaths-door-hidden.json](./96603-redemption-cemetery-at-deaths-door-hidden.json) |
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
@@ -7398,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosetta | 228013 | [228013-rosetta.json](./228013-rosetta.json) |
 | Rosetta | 249110 | [249110-rosetta.json](./249110-rosetta.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
+| Rosette and Words | 96634 | [96634-rosette-and-words.json](./96634-rosette-and-words.json) |
 | Rosewater | 128935 | [128935-rosewater.json](./128935-rosewater.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
