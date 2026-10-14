@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
+| Ganbare Goemon: Kira-kira Douchuu - Boku ga Dancer ni Natta Wake | 77854 | [77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json](./77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json) |
 | Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
@@ -7187,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
+| Gun Smoke | 77862 | [77862-gun-smoke.json](./77862-gun-smoke.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Soul:Zombie Wars | 105776 | [105776-gun-soul-zombie-wars.json](./105776-gun-soul-zombie-wars.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
@@ -7611,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GX Monsters | 257005 | [257005-gx-monsters.json](./257005-gx-monsters.json) |
 | GX Sudoku | 272200 | [272200-gx-sudoku.json](./272200-gx-sudoku.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
+| Gyakujoku Hiai: Mistress | 77856 | [77856-gyakujoku-hiai-mistress.json](./77856-gyakujoku-hiai-mistress.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
