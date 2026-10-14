@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
 | Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
+| Santa's Christmas Solitaire 2 | 127688 | [127688-santas-christmas-solitaire-2.json](./127688-santas-christmas-solitaire-2.json) |
 | Santa's Christmas Solitaire 3 | 337283 | [337283-santas-christmas-solitaire-3.json](./337283-santas-christmas-solitaire-3.json) |
 | Santa's Christmas Story 2 The Frozen Gift War | 376762 | [376762-santas-christmas-story-2-the-frozen-gift-war.json](./376762-santas-christmas-story-2-the-frozen-gift-war.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed of the Dead: Sweet Home | 153900 | [153900-seed-of-the-dead-sweet-home.json](./153900-seed-of-the-dead-sweet-home.json) |
+| Seed Pioneers | 127648 | [127648-seed-pioneers.json](./127648-seed-pioneers.json) |
 | Seed World | 224530 | [224530-seed-world.json](./224530-seed-world.json) |
 | Seed. | 182906 | [182906-seed.json](./182906-seed.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeShifter | 32217 | [32217-shapeshifter.json](./32217-shapeshifter.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
+| Shapeshooter | 126942 | [126942-shapeshooter.json](./126942-shapeshooter.json) |
 | ShapeSim | 106492 | [106492-shapesim.json](./106492-shapesim.json) |
 | Shapestorm | 90190 | [90190-shapestorm.json](./90190-shapestorm.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
@@ -6145,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
 | Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
+| Short Scary Stories | 126892 | [126892-short-scary-stories.json](./126892-short-scary-stories.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Staffed | 240691 | [240691-short-staffed.json](./240691-short-staffed.json) |
@@ -6945,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silhoun | 323421 | [323421-silhoun.json](./323421-silhoun.json) |
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
+| Silicomrades | 126890 | [126890-silicomrades.json](./126890-silicomrades.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
 | Silicon Dreams | 15366 | [15366-silicon-dreams.json](./15366-silicon-dreams.json) |
@@ -7049,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverlicious | 9748 | [9748-silverlicious.json](./9748-silverlicious.json) |
+| Silvern Castle: The Lost Crystal Orb | 127635 | [127635-silvern-castle-the-lost-crystal-orb.json](./127635-silvern-castle-the-lost-crystal-orb.json) |
 | Silvern Moonrise | 391761 | [391761-silvern-moonrise.json](./391761-silvern-moonrise.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
@@ -8599,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
+| Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
@@ -18293,6 +18300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
 | Stratogun | 333116 | [333116-stratogun.json](./333116-stratogun.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
+| Stratoscape | 126944 | [126944-stratoscape.json](./126944-stratoscape.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratosphere: Conquest of the Skies | 25879 | [25879-stratosphere-conquest-of-the-skies.json](./25879-stratosphere-conquest-of-the-skies.json) |
