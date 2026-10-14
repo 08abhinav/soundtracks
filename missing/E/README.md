@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
 | Eipc Free Tetris | 68877 | [68877-eipc-free-tetris.json](./68877-eipc-free-tetris.json) |
 | Eira | 188418 | [188418-eira.json](./188418-eira.json) |
+| Eira: Echoes of Adventure | 132527 | [132527-eira-echoes-of-adventure.json](./132527-eira-echoes-of-adventure.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements: Epic Heroes | 34257 | [34257-elements-epic-heroes.json](./34257-elements-epic-heroes.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
+| EleMetals: Death Metal Death Match! | 132515 | [132515-elemetals-death-metal-death-match.json](./132515-elemetals-death-metal-death-match.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
