@@ -9485,6 +9485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12155,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader of Stories: Chapter II | 388275 | [388275-the-trader-of-stories-chapter-ii.json](./388275-the-trader-of-stories-chapter-ii.json) |
 | The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
+| The Tragic Tale of Bark Scruffalo | 97226 | [97226-the-tragic-tale-of-bark-scruffalo.json](./97226-the-tragic-tale-of-bark-scruffalo.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
 | The Trail: Reign of Apocalypse | 335226 | [335226-the-trail-reign-of-apocalypse.json](./335226-the-trail-reign-of-apocalypse.json) |
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
@@ -21036,6 +21038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
+| Trivia Vault: Art Trivia | 97241 | [97241-trivia-vault-art-trivia.json](./97241-trivia-vault-art-trivia.json) |
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
