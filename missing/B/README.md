@@ -4740,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bianka Lovesick | 363025 | [363025-bianka-lovesick.json](./363025-bianka-lovesick.json) |
 | Bias | 211452 | [211452-bias.json](./211452-bias.json) |
 | Bias Quartet | 376672 | [376672-bias-quartet.json](./376672-bias-quartet.json) |
+| Biathlon 2002 | 92911 | [92911-biathlon-2002.json](./92911-biathlon-2002.json) |
 | Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
@@ -6045,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
 | Black Pellet | 377784 | [377784-black-pellet.json](./377784-black-pellet.json) |
+| Black Penguin | 92958 | [92958-black-penguin.json](./92958-black-penguin.json) |
 | Black Pieces Move First | 360695 | [360695-black-pieces-move-first.json](./360695-black-pieces-move-first.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky Bill's Ghost Cave | 306723 | [306723-blinky-bills-ghost-cave.json](./306723-blinky-bills-ghost-cave.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
+| Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
@@ -8522,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
+| Bonka | 92944 | [92944-bonka.json](./92944-bonka.json) |
 | BonkCity | 407296 | [407296-bonkcity.json](./407296-bonkcity.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
@@ -11514,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
 | Bunderkin: The Ocular Eclipse | 406671 | [406671-bunderkin-the-ocular-eclipse.json](./406671-bunderkin-the-ocular-eclipse.json) |
+| Bundesliga 99 | 92947 | [92947-bundesliga-99.json](./92947-bundesliga-99.json) |
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
