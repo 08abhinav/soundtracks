@@ -5666,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Cup 2022 | 221691 | [221691-world-soccer-cup-2022.json](./221691-world-soccer-cup-2022.json) |
 | World Soccer Finals | 38560 | [38560-world-soccer-finals.json](./38560-world-soccer-finals.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
+| World Soccer King | 102698 | [102698-world-soccer-king.json](./102698-world-soccer-king.json) |
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
