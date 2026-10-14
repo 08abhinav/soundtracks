@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navcom 6: The Persian Gulf Defense | 65569 | [65569-navcom-6-the-persian-gulf-defense.json](./65569-navcom-6-the-persian-gulf-defense.json) |
 | Navicula Meatus | 319727 | [319727-navicula-meatus.json](./319727-navicula-meatus.json) |
 | Navigating the Labyrinth | 274549 | [274549-navigating-the-labyrinth.json](./274549-navigating-the-labyrinth.json) |
+| Navigatris | 94666 | [94666-navigatris.json](./94666-navigatris.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
 | Navinosuke: The Yo-kai Buster | 349430 | [349430-navinosuke-the-yo-kai-buster.json](./349430-navinosuke-the-yo-kai-buster.json) |
 | Navit | 380446 | [380446-navit.json](./380446-navit.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
+| Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | Netherspace | 190942 | [190942-netherspace.json](./190942-netherspace.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
+| Neutron Zapper | 94630 | [94630-neutron-zapper.json](./94630-neutron-zapper.json) |
 | Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
 | Nev vs. Bouncer Boy | 240152 | [240152-nev-vs-bouncer-boy.json](./240152-nev-vs-bouncer-boy.json) |
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
@@ -5036,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
+| Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
