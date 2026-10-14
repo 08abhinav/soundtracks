@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Sun | 311691 | [311691-scary-sun.json](./311691-scary-sun.json) |
 | Scary Tales | 13033 | [13033-scary-tales.json](./13033-scary-tales.json) |
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
+| Scary Tales Vol. 1 | 125148 | [125148-scary-tales-vol-1.json](./125148-scary-tales-vol-1.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
 | Scary Teacher 3D | 104228 | [104228-scary-teacher-3d.json](./104228-scary-teacher-3d.json) |
 | Scary Together | 350465 | [350465-scary-together.json](./350465-scary-together.json) |
@@ -5394,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
+| Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiisshou | 240302 | [240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json](./240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
@@ -12535,6 +12537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
+| Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
@@ -14832,6 +14835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
+| Spooky Night 2 | 125104 | [125104-spooky-night-2.json](./125104-spooky-night-2.json) |
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
 | Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
@@ -15393,6 +15397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
+| Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squidoku | 181075 | [181075-squidoku.json](./181075-squidoku.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
@@ -16110,6 +16115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
+| Star Trek: The Mobile Game | 125127 | [125127-star-trek-the-mobile-game.json](./125127-star-trek-the-mobile-game.json) |
 | Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
@@ -23552,6 +23558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordmancy | 373562 | [373562-swordmancy.json](./373562-swordmancy.json) |
 | Swordplay: Karakuri - Strange Tale | 266801 | [266801-swordplay-karakuri-strange-tale.json](./266801-swordplay-karakuri-strange-tale.json) |
 | SwordQuest: AirWorld | 67334 | [67334-swordquest-airworld.json](./67334-swordquest-airworld.json) |
+| Swordrite | 125106 | [125106-swordrite.json](./125106-swordrite.json) |
 | Swords | 91396 | [91396-swords.json](./91396-swords.json) |
 | Swords & Adventures | 215703 | [215703-swords-and-adventures.json](./215703-swords-and-adventures.json) |
 | Swords & Bones | 144026 | [144026-swords-and-bones.json](./144026-swords-and-bones.json) |
