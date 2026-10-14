@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number One Kill The Next Generation | 313844 | [313844-number-one-kill-the-next-generation.json](./313844-number-one-kill-the-next-generation.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
+| Number Place 10000 | 114130 | [114130-number-place-10000.json](./114130-number-place-10000.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
