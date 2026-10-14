@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
+| Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogiKing: Level2 | 294048 | [294048-logiking-level2.json](./294048-logiking-level2.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
+| Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
