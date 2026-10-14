@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Games Tycoon 2 | 142661 | [142661-mad-games-tycoon-2.json](./142661-mad-games-tycoon-2.json) |
+| Mad Gardener: Zombie Massacre | 81129 | [81129-mad-gardener-zombie-massacre.json](./81129-mad-gardener-zombie-massacre.json) |
 | Mad Geometry | 226168 | [226168-mad-geometry.json](./226168-mad-geometry.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
+| Magic Tower | 81118 | [81118-magic-tower.json](./81118-magic-tower.json) |
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
@@ -8022,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
+| Mind Sweeper VR | 81076 | [81076-mind-sweeper-vr.json](./81076-mind-sweeper-vr.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
 | Mind Symphony | 194342 | [194342-mind-symphony.json](./194342-mind-symphony.json) |
 | Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
@@ -10149,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitor State | 374440 | [374440-monitor-state.json](./374440-monitor-state.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
+| Monjarmageddon | 81109 | [81109-monjarmageddon.json](./81109-monjarmageddon.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
