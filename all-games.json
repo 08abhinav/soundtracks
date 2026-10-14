@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:11:11.060Z",
-  "total_soundtracks": 1617,
+  "generated_at": "2026-10-14T07:15:56.415Z",
+  "total_soundtracks": 1618,
   "games": [
     {
       "igdb_id": 7522,
@@ -11418,6 +11418,20 @@
           "album_name": "Okami Original Soundtrack Vol. 5",
           "spotify_url": "https://open.spotify.com/album/5Gp8LYcaOfsCZFzaXfM3MH",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111661,
+      "game_name": "Omno",
+      "game_url": "https://ostdb.net/games/omno",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27328529dd9934b39f462e30542",
+      "albums": [
+        {
+          "album_name": "Omno (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67B8xQqA3K2I98vqhYQdzA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
