@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
+| 1010 | 76492 | [76492-1010.json](./76492-1010.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010! | 239119 | [239119-1010.json](./239119-1010.json) |
 | 10101: "Will" the Starship | 127739 | [127739-10101-will-the-starship.json](./127739-10101-will-the-starship.json) |
@@ -860,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
 | 1944: The Loop Master | 6079 | [6079-1944-the-loop-master.json](./6079-1944-the-loop-master.json) |
+| 1945 Air Strike | 76464 | [76464-1945-air-strike.json](./76464-1945-air-strike.json) |
 | 1945 Air Strike Classic | 88622 | [88622-1945-air-strike-classic.json](./88622-1945-air-strike-classic.json) |
 | 1948 Dawn of Future | 256213 | [256213-1948-dawn-of-future.json](./256213-1948-dawn-of-future.json) |
 | 195 Hours in the Cold | 216296 | [216296-195-hours-in-the-cold.json](./216296-195-hours-in-the-cold.json) |
