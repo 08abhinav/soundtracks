@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
 | Zeppelin: Escape Room | 190085 | [190085-zeppelin-escape-room.json](./190085-zeppelin-escape-room.json) |
+| ZerA Imperan Intrigue | 97246 | [97246-zera-imperan-intrigue.json](./97246-zera-imperan-intrigue.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
 | Zeramida | 274018 | [274018-zeramida.json](./274018-zeramida.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
