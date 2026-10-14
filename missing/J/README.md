@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journalism Class: Part 2 | 107708 | [107708-journalism-class-part-2.json](./107708-journalism-class-part-2.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
+| Journey 2050 | 89801 | [89801-journey-2050.json](./89801-journey-2050.json) |
 | Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
 | Journey Beyond the Edge of the World | 261717 | [261717-journey-beyond-the-edge-of-the-world.json](./261717-journey-beyond-the-edge-of-the-world.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Monster Truck DLC | 288995 | [288995-just-cause-2-monster-truck-dlc.json](./288995-just-cause-2-monster-truck-dlc.json) |
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
+| Just Cause 3: Day One Edition | 89844 | [89844-just-cause-3-day-one-edition.json](./89844-just-cause-3-day-one-edition.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
 | Just Cause 3: Multiplayer Mod | 153016 | [153016-just-cause-3-multiplayer-mod.json](./153016-just-cause-3-multiplayer-mod.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
