@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Farmer | 9315 | [9315-youda-farmer.json](./9315-youda-farmer.json) |
 | Youda Farmer 2 | 9314 | [9314-youda-farmer-2.json](./9314-youda-farmer-2.json) |
 | Youda Farmer 3: Seasons | 9313 | [9313-youda-farmer-3-seasons.json](./9313-youda-farmer-3-seasons.json) |
+| Youda Fisherman | 107050 | [107050-youda-fisherman.json](./107050-youda-fisherman.json) |
 | Youda Jewel Shop | 9312 | [9312-youda-jewel-shop.json](./9312-youda-jewel-shop.json) |
 | Youda Legend Amsterdam | 52783 | [52783-youda-legend-amsterdam.json](./52783-youda-legend-amsterdam.json) |
 | Youda Legend: The Curse of the Amsterdam Diamond | 52103 | [52103-youda-legend-the-curse-of-the-amsterdam-diamond.json](./52103-youda-legend-the-curse-of-the-amsterdam-diamond.json) |
