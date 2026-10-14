@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack and Slay | 245289 | [245289-rack-and-slay.json](./245289-rack-and-slay.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | Rack N Ruin | 12216 | [12216-rack-n-ruin.json](./12216-rack-n-ruin.json) |
+| Rack-Up | 110189 | [110189-rack-up.json](./110189-rack-up.json) |
 | Racket Attack | 48214 | [48214-racket-attack.json](./48214-racket-attack.json) |
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
 | Racket Fury: Table Tennis VR | 28303 | [28303-racket-fury-table-tennis-vr.json](./28303-racket-fury-table-tennis-vr.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAM Downloader | 384225 | [384225-ram-downloader.json](./384225-ram-downloader.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
 | Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
+| RAM Pressure | 110109 | [110109-ram-pressure.json](./110109-ram-pressure.json) |
 | Ram Ranch | 313759 | [313759-ram-ranch.json](./313759-ram-ranch.json) |
 | Ram Setu: The Run | 232395 | [232395-ram-setu-the-run.json](./232395-ram-setu-the-run.json) |
 | Ram Simulator | 370569 | [370569-ram-simulator.json](./370569-ram-simulator.json) |
@@ -1809,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach the Beat | 297900 | [297900-reach-the-beat.json](./297900-reach-the-beat.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
+| Reach the Sky | 110188 | [110188-reach-the-sky.json](./110188-reach-the-sky.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
@@ -2485,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bow | 118122 | [118122-red-bow.json](./118122-red-bow.json) |
 | Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
 | Red Brick Hotel | 163401 | [163401-red-brick-hotel.json](./163401-red-brick-hotel.json) |
+| Red Bull Air Race - The Game | 110187 | [110187-red-bull-air-race-the-game.json](./110187-red-bull-air-race-the-game.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull Crashed Ice Kinect | 20237 | [20237-red-bull-crashed-ice-kinect.json](./20237-red-bull-crashed-ice-kinect.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
