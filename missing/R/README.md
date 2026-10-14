@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
+| Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
 | Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
+| Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
@@ -5348,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
+| Rising Robots | 90502 | [90502-rising-robots.json](./90502-rising-robots.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
