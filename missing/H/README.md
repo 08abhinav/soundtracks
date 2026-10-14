@@ -6545,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
+| Horizon | 102699 | [102699-horizon.json](./102699-horizon.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
