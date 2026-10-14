@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
 | Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
 | Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
+| Hellbound: Survival Mode | 86764 | [86764-hellbound-survival-mode.json](./86764-hellbound-survival-mode.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
