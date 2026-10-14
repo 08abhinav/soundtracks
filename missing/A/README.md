@@ -7352,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
+| Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
@@ -10804,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
+| AtariAge Holiday Greetings 2007: Stella's Stocking | 76458 | [76458-atariage-holiday-greetings-2007-stellas-stocking.json](./76458-atariage-holiday-greetings-2007-stellas-stocking.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | Ataxx | 14480 | [14480-ataxx.json](./14480-ataxx.json) |
