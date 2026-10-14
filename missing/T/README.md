@@ -6806,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The God Paradox | 59793 | [59793-the-god-paradox.json](./59793-the-god-paradox.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
+| The God's Paradise | 82650 | [82650-the-gods-paradise.json](./82650-the-gods-paradise.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
+| The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
 | The Midnighters | 376659 | [376659-the-midnighters.json](./376659-the-midnighters.json) |
+| The Midsummer Night's Sabbat | 82656 | [82656-the-midsummer-nights-sabbat.json](./82656-the-midsummer-nights-sabbat.json) |
 | The Mightiest Sword is Mine! | 359926 | [359926-the-mightiest-sword-is-mine.json](./359926-the-mightiest-sword-is-mine.json) |
 | The Mighty Claw | 249810 | [249810-the-mighty-claw.json](./249810-the-mighty-claw.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
@@ -9656,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Novelist | 10733 | [10733-the-novelist.json](./10733-the-novelist.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
+| The NTR Pregnancy Hunting Adventure of Karen: Whose Seed Will Wife Get Pregnant Of | 82734 | [82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json](./82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
 | The Nullspace | 312316 | [312316-the-nullspace.json](./312316-the-nullspace.json) |
@@ -11775,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
 | The Tension | 110764 | [110764-the-tension.json](./110764-the-tension.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
+| The Tentacularly Adorned Royal Knightess | 82730 | [82730-the-tentacularly-adorned-royal-knightess.json](./82730-the-tentacularly-adorned-royal-knightess.json) |
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
@@ -15399,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
 | Tiltspace | 167673 | [167673-tiltspace.json](./167673-tiltspace.json) |
+| Tilvaryu Recollections | 82684 | [82684-tilvaryu-recollections.json](./82684-tilvaryu-recollections.json) |
 | Tim & Bear at the Airport | 127323 | [127323-tim-and-bear-at-the-airport.json](./127323-tim-and-bear-at-the-airport.json) |
 | Tim 7: Au Secours De Clara | 321348 | [321348-tim-7-au-secours-de-clara.json](./321348-tim-7-au-secours-de-clara.json) |
 | Tim 7: Concours Pour New York | 321371 | [321371-tim-7-concours-pour-new-york.json](./321371-tim-7-concours-pour-new-york.json) |
