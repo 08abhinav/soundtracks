@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Tree | 199967 | [199967-eternal-tree.json](./199967-eternal-tree.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
+| Eternal Twilight | 124524 | [124524-eternal-twilight.json](./124524-eternal-twilight.json) |
 | Eternal Twilight | 384287 | [384287-eternal-twilight.json](./384287-eternal-twilight.json) |
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
@@ -4940,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
+| Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
 | Exit From: Director's Cut | 252014 | [252014-exit-from-directors-cut.json](./252014-exit-from-directors-cut.json) |
 | Exit Kun | 285666 | [285666-exit-kun.json](./285666-exit-kun.json) |
