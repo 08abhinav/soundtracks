@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemetal | 149398 | [149398-battlemetal.json](./149398-battlemetal.json) |
 | Battleminer | 77772 | [77772-battleminer.json](./77772-battleminer.json) |
 | Battleminer Giants | 322116 | [322116-battleminer-giants.json](./322116-battleminer-giants.json) |
+| Battleminerz | 79799 | [79799-battleminerz.json](./79799-battleminerz.json) |
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
@@ -3503,7 +3504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bricks | 243605 | [243605-beat-bricks.json](./243605-beat-bricks.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
-| Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
 | Beat Defender | 154806 | [154806-beat-defender.json](./154806-beat-defender.json) |
@@ -9148,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Journey | 242977 | [242977-bounce-journey.json](./242977-bounce-journey.json) |
 | Bounce Knight | 127694 | [127694-bounce-knight.json](./127694-bounce-knight.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
+| Bounce Man | 79803 | [79803-bounce-man.json](./79803-bounce-man.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
 | Bounce on Back | 262895 | [262895-bounce-on-back.json](./262895-bounce-on-back.json) |
