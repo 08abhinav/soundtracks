@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
 | Mahjong Unlimited | 88641 | [88641-mahjong-unlimited.json](./88641-mahjong-unlimited.json) |
+| Mahjong Unlimited | 89091 | [89091-mahjong-unlimited.json](./89091-mahjong-unlimited.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
@@ -1856,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
+| Mama Hawk | 89024 | [89024-mama-hawk.json](./89024-mama-hawk.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
@@ -3885,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathemagician | 245448 | [245448-mathemagician.json](./245448-mathemagician.json) |
 | Mathemagics, An Interactive Learning Cube | 37123 | [37123-mathemagics-an-interactive-learning-cube.json](./37123-mathemagics-an-interactive-learning-cube.json) |
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
+| Mathematical Run - Learn math by playing | 89043 | [89043-mathematical-run-learn-math-by-playing.json](./89043-mathematical-run-learn-math-by-playing.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
@@ -13345,6 +13348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
+| My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
@@ -14428,6 +14432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Lucy Green: The Devil's Diaries | 153158 | [153158-mystery-of-lucy-green-the-devils-diaries.json](./153158-mystery-of-lucy-green-the-devils-diaries.json) |
+| Mystery of Melody Memorial | 89078 | [89078-mystery-of-melody-memorial.json](./89078-mystery-of-melody-memorial.json) |
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
@@ -14752,6 +14757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythwrecked: Ambrosia Island | 223097 | [223097-mythwrecked-ambrosia-island.json](./223097-mythwrecked-ambrosia-island.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
+| MyTP 2.5: Ski, Freeski and Snowboard | 89092 | [89092-mytp-2-5-ski-freeski-and-snowboard.json](./89092-mytp-2-5-ski-freeski-and-snowboard.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
 | MyTP Snowboarding 3 | 235115 | [235115-mytp-snowboarding-3.json](./235115-mytp-snowboarding-3.json) |
