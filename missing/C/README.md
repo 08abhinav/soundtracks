@@ -13013,6 +13013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
+| Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
