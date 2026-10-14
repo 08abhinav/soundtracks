@@ -4616,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
+| Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
 | Rhythmkill | 361064 | [361064-rhythmkill.json](./361064-rhythmkill.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
@@ -5156,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
 | Rios de Lluvia | 335973 | [335973-rios-de-lluvia.json](./335973-rios-de-lluvia.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
+| Riot | 74278 | [74278-riot.json](./74278-riot.json) |
 | Riot Act | 185998 | [185998-riot-act.json](./185998-riot-act.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
@@ -8223,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
+| Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
