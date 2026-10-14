@@ -3959,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
+| Little Gold Miner | 88139 | [88139-little-gold-miner.json](./88139-little-gold-miner.json) |
 | Little Goody Two Shoes | 137243 | [137243-little-goody-two-shoes.json](./137243-little-goody-two-shoes.json) |
 | Little Goody Two Shoes: Deluxe Edition | 280737 | [280737-little-goody-two-shoes-deluxe-edition.json](./280737-little-goody-two-shoes-deluxe-edition.json) |
 | Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
+| Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ruins | 142596 | [142596-lost-ruins.json](./142596-lost-ruins.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
+| Lost Satellite | 88115 | [88115-lost-satellite.json](./88115-lost-satellite.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
 | Lost Sea | 19708 | [19708-lost-sea.json](./19708-lost-sea.json) |
 | Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
