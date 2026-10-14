@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Fever | 276658 | [276658-gacha-fever.json](./276658-gacha-fever.json) |
 | Gacha Life | 125828 | [125828-gacha-life.json](./125828-gacha-life.json) |
 | Gacha Life 2 | 307274 | [307274-gacha-life-2.json](./307274-gacha-life-2.json) |
+| Gacha Memories | 102680 | [102680-gacha-memories.json](./102680-gacha-memories.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 2 | 389026 | [389026-galaxy-on-fire-2.json](./389026-galaxy-on-fire-2.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
 | Galaxy on Fire 2: Supernova | 402965 | [402965-galaxy-on-fire-2-supernova.json](./402965-galaxy-on-fire-2-supernova.json) |
+| Galaxy on Fire 3 | 102684 | [102684-galaxy-on-fire-3.json](./102684-galaxy-on-fire-3.json) |
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
@@ -3134,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
+| Gladiabears: Strength and Honour | 102679 | [102679-gladiabears-strength-and-honour.json](./102679-gladiabears-strength-and-honour.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
@@ -4529,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
+| Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomorrah | 238351 | [238351-gomorrah.json](./238351-gomorrah.json) |
 | Gomorrah | 273546 | [273546-gomorrah.json](./273546-gomorrah.json) |
@@ -5274,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Strategy | 110940 | [110940-grand-strategy.json](./110940-grand-strategy.json) |
+| Grand Street Vegas Mafia Crime: Fight to Survive | 102669 | [102669-grand-street-vegas-mafia-crime-fight-to-survive.json](./102669-grand-street-vegas-mafia-crime-fight-to-survive.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
