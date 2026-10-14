@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Peanuts: It's the Big Game, Charlie Brown! | 71226 | [71226-peanuts-its-the-big-game-charlie-brown.json](./71226-peanuts-its-the-big-game-charlie-brown.json) |
+| Peanuts: Snoopy's Town Tale | 96604 | [96604-peanuts-snoopys-town-tale.json](./96604-peanuts-snoopys-town-tale.json) |
 | Peanuts: Yearn 2 Learn | 45890 | [45890-peanuts-yearn-2-learn.json](./45890-peanuts-yearn-2-learn.json) |
 | Pear Potion | 142726 | [142726-pear-potion.json](./142726-pear-potion.json) |
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
@@ -5300,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Become Human: The Hostage | 411552 | [411552-pixel-become-human-the-hostage.json](./411552-pixel-become-human-the-hostage.json) |
+| Pixel Beef Battle | 96619 | [96619-pixel-beef-battle.json](./96619-pixel-beef-battle.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
