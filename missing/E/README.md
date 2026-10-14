@@ -2738,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
+| Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
