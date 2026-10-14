@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left: Extra Tidy Bundle | 312836 | [312836-a-little-to-the-left-extra-tidy-bundle.json](./312836-a-little-to-the-left-extra-tidy-bundle.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
+| A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
+| Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
+| Ancient Abyss | 107024 | [107024-ancient-abyss.json](./107024-ancient-abyss.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
@@ -6039,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
+| Android Best Retro Lode Runner | 107043 | [107043-android-best-retro-lode-runner.json](./107043-android-best-retro-lode-runner.json) |
 | Android Helipad | 123465 | [123465-android-helipad.json](./123465-android-helipad.json) |
 | Android Hunter A | 23852 | [23852-android-hunter-a.json](./23852-android-hunter-a.json) |
 | Android John | 32276 | [32276-android-john.json](./32276-android-john.json) |
@@ -8686,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Survivors | 289796 | [289796-arena-survivors.json](./289796-arena-survivors.json) |
 | Arena Tails | 275530 | [275530-arena-tails.json](./275530-arena-tails.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
+| Arena Trainer | 107036 | [107036-arena-trainer.json](./107036-arena-trainer.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
@@ -8998,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Forces Corp. | 50488 | [50488-armed-forces-corp.json](./50488-armed-forces-corp.json) |
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
 | Armed Frame | 363814 | [363814-armed-frame.json](./363814-armed-frame.json) |
+| Armed Heist | 107016 | [107016-armed-heist.json](./107016-armed-heist.json) |
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
 | Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
