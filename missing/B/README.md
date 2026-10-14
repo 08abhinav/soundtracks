@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloo's Mall | 261730 | [261730-balloos-mall.json](./261730-balloos-mall.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
+| Balloon | 84094 | [84094-balloon.json](./84094-balloon.json) |
 | Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
 | Balloon Bash | 413495 | [413495-balloon-bash.json](./413495-balloon-bash.json) |
 | Balloon Blowout | 30742 | [30742-balloon-blowout.json](./30742-balloon-blowout.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarossa | 252021 | [252021-barbarossa.json](./252021-barbarossa.json) |
 | Barbarossa | 44448 | [44448-barbarossa.json](./44448-barbarossa.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
+| Barbarossa! Susume? Aka-gun Shoujo Ryodan | 84097 | [84097-barbarossa-susume-aka-gun-shoujo-ryodan.json](./84097-barbarossa-susume-aka-gun-shoujo-ryodan.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Family Secrets | 277263 | [277263-barbarous-family-secrets.json](./277263-barbarous-family-secrets.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
@@ -8454,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell | 6810 | [6810-bombshell.json](./6810-bombshell.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
