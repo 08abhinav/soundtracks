@@ -2711,9 +2711,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Deluxe Edition | 291677 | [291677-sea-of-thieves-2024-deluxe-edition.json](./291677-sea-of-thieves-2024-deluxe-edition.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
+| Sea of Thieves: Cursed Sails | 103284 | [103284-sea-of-thieves-cursed-sails.json](./103284-sea-of-thieves-cursed-sails.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
 | Sea of Thieves: Festival of the Damned | 129487 | [129487-sea-of-thieves-festival-of-the-damned.json](./129487-sea-of-thieves-festival-of-the-damned.json) |
+| Sea of Thieves: Forsaken Shores | 103285 | [103285-sea-of-thieves-forsaken-shores.json](./103285-sea-of-thieves-forsaken-shores.json) |
 | Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
@@ -3481,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekimori Gami: Saien | 300959 | [300959-sekimori-gami-saien.json](./300959-sekimori-gami-saien.json) |
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
+| Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
@@ -9227,6 +9230,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
+| Sluggish Morss | 103223 | [103223-sluggish-morss.json](./103223-sluggish-morss.json) |
+| Sluggish Morss: A Delicate Time in History | 103237 | [103237-sluggish-morss-a-delicate-time-in-history.json](./103237-sluggish-morss-a-delicate-time-in-history.json) |
+| Sluggish Morss: Ad Infinitum | 103236 | [103236-sluggish-morss-ad-infinitum.json](./103236-sluggish-morss-ad-infinitum.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
@@ -12387,6 +12393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
 | SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
+| SoulCalibur VI: Deluxe Edition | 103299 | [103299-soulcalibur-vi-deluxe-edition.json](./103299-soulcalibur-vi-deluxe-edition.json) |
 | SoulCalibur VI: Haohmaru | 168726 | [168726-soulcalibur-vi-haohmaru.json](./168726-soulcalibur-vi-haohmaru.json) |
 | SoulCalibur VI: Hilde | 168725 | [168725-soulcalibur-vi-hilde.json](./168725-soulcalibur-vi-hilde.json) |
 | SoulCalibur VI: Hwang | 168728 | [168728-soulcalibur-vi-hwang.json](./168728-soulcalibur-vi-hwang.json) |
