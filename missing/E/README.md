@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En Route 66 | 221216 | [221216-en-route-66.json](./221216-en-route-66.json) |
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
+| En Tactico | 96631 | [96631-en-tactico.json](./96631-en-tactico.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
