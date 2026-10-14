@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
 | Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
+| Voyage Century | 92395 | [92395-voyage-century.json](./92395-voyage-century.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
