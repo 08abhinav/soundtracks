@@ -11372,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsoids | 13024 | [13024-pulsoids.json](./13024-pulsoids.json) |
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
+| Pulsor | 117438 | [117438-pulsor.json](./117438-pulsor.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
