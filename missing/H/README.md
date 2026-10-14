@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
 | Happy Geography Fun | 129652 | [129652-happy-geography-fun.json](./129652-happy-geography-fun.json) |
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
+| Happy Glass | 108236 | [108236-happy-glass.json](./108236-happy-glass.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
 | Happy Hacker | 78244 | [78244-happy-hacker.json](./78244-happy-hacker.json) |
 | Happy Halloween | 158604 | [158604-happy-halloween.json](./158604-happy-halloween.json) |
