@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T12:49:38.436Z",
-  "total_missing": 210746,
+  "generated_at": "2026-10-14T13:04:38.604Z",
+  "total_missing": 210796,
   "games": [
     {
       "igdb_id": 191680,
@@ -18112,6 +18112,11 @@
       "file": "missing/A/6467-ac-dc-live-rock-band-track-pack.json"
     },
     {
+      "igdb_id": 99495,
+      "game_name": "ACA Neo Geo: Aero Fighters 2",
+      "file": "missing/A/99495-aca-neo-geo-aero-fighters-2.json"
+    },
+    {
       "igdb_id": 118215,
       "game_name": "ACA Neo Geo: Aggressors of Dark Kombat",
       "file": "missing/A/118215-aca-neo-geo-aggressors-of-dark-kombat.json"
@@ -18120,6 +18125,11 @@
       "igdb_id": 99746,
       "game_name": "ACA Neo Geo: Art of Fighting",
       "file": "missing/A/99746-aca-neo-geo-art-of-fighting.json"
+    },
+    {
+      "igdb_id": 99489,
+      "game_name": "ACA Neo Geo: Art of Fighting 2",
+      "file": "missing/A/99489-aca-neo-geo-art-of-fighting-2.json"
     },
     {
       "igdb_id": 118916,
@@ -18157,6 +18167,16 @@
       "file": "missing/A/112912-aca-neo-geo-cyber-lip.json"
     },
     {
+      "igdb_id": 99510,
+      "game_name": "ACA Neo Geo: Fatal Fury 2",
+      "file": "missing/A/99510-aca-neo-geo-fatal-fury-2.json"
+    },
+    {
+      "igdb_id": 99484,
+      "game_name": "ACA Neo Geo: Fatal Fury 3",
+      "file": "missing/A/99484-aca-neo-geo-fatal-fury-3.json"
+    },
+    {
       "igdb_id": 99742,
       "game_name": "ACA Neo Geo: Fatal Fury Special",
       "file": "missing/A/99742-aca-neo-geo-fatal-fury-special.json"
@@ -18167,6 +18187,11 @@
       "file": "missing/A/99747-aca-neo-geo-galaxy-fight-universal-warriors.json"
     },
     {
+      "igdb_id": 99492,
+      "game_name": "ACA Neo Geo: King of the Monsters",
+      "file": "missing/A/99492-aca-neo-geo-king-of-the-monsters.json"
+    },
+    {
       "igdb_id": 113906,
       "game_name": "ACA Neo Geo: Kizuna Encounter",
       "file": "missing/A/113906-aca-neo-geo-kizuna-encounter.json"
@@ -18175,6 +18200,16 @@
       "igdb_id": 99748,
       "game_name": "ACA Neo Geo: Last Resort",
       "file": "missing/A/99748-aca-neo-geo-last-resort.json"
+    },
+    {
+      "igdb_id": 99509,
+      "game_name": "ACA Neo Geo: Magical Drop II",
+      "file": "missing/A/99509-aca-neo-geo-magical-drop-ii.json"
+    },
+    {
+      "igdb_id": 99481,
+      "game_name": "ACA Neo Geo: Metal Slug X",
+      "file": "missing/A/99481-aca-neo-geo-metal-slug-x.json"
     },
     {
       "igdb_id": 28409,
@@ -18197,6 +18232,11 @@
       "file": "missing/A/82392-aca-neo-geo-power-spikes-ii.json"
     },
     {
+      "igdb_id": 99511,
+      "game_name": "ACA Neo Geo: Pulstar",
+      "file": "missing/A/99511-aca-neo-geo-pulstar.json"
+    },
+    {
       "igdb_id": 113438,
       "game_name": "ACA Neo Geo: Puzzle Bobble",
       "file": "missing/A/113438-aca-neo-geo-puzzle-bobble.json"
@@ -18215,6 +18255,11 @@
       "igdb_id": 103942,
       "game_name": "ACA Neo Geo: Riding Hero",
       "file": "missing/A/103942-aca-neo-geo-riding-hero.json"
+    },
+    {
+      "igdb_id": 99483,
+      "game_name": "ACA Neo Geo: Robo Army",
+      "file": "missing/A/99483-aca-neo-geo-robo-army.json"
     },
     {
       "igdb_id": 117520,
@@ -18252,14 +18297,29 @@
       "file": "missing/A/85561-aca-neo-geo-super-baseball-2020.json"
     },
     {
+      "igdb_id": 99493,
+      "game_name": "ACA Neo Geo: Super Sidekicks",
+      "file": "missing/A/99493-aca-neo-geo-super-sidekicks.json"
+    },
+    {
       "igdb_id": 103563,
       "game_name": "ACA Neo Geo: Super Sidekicks 3 - The Next Glory",
       "file": "missing/A/103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json"
     },
     {
+      "igdb_id": 99529,
+      "game_name": "ACA Neo Geo: The King of Fighters '94",
+      "file": "missing/A/99529-aca-neo-geo-the-king-of-fighters-94.json"
+    },
+    {
       "igdb_id": 99735,
       "game_name": "ACA Neo Geo: The King of Fighters '95",
       "file": "missing/A/99735-aca-neo-geo-the-king-of-fighters-95.json"
+    },
+    {
+      "igdb_id": 99496,
+      "game_name": "ACA Neo Geo: The King of Fighters '96",
+      "file": "missing/A/99496-aca-neo-geo-the-king-of-fighters-96.json"
     },
     {
       "igdb_id": 88907,
@@ -18270,6 +18330,11 @@
       "igdb_id": 115445,
       "game_name": "ACA Neo Geo: The King of Fighters 2003",
       "file": "missing/A/115445-aca-neo-geo-the-king-of-fighters-2003.json"
+    },
+    {
+      "igdb_id": 99507,
+      "game_name": "ACA Neo Geo: The Last Blade",
+      "file": "missing/A/99507-aca-neo-geo-the-last-blade.json"
     },
     {
       "igdb_id": 90517,
@@ -30205,6 +30270,11 @@
       "igdb_id": 255084,
       "game_name": "Albatroz",
       "file": "missing/A/255084-albatroz.json"
+    },
+    {
+      "igdb_id": 99482,
+      "game_name": "Albedo and Cast of the Seven Godsends",
+      "file": "missing/A/99482-albedo-and-cast-of-the-seven-godsends.json"
     },
     {
       "igdb_id": 118222,
@@ -50712,6 +50782,11 @@
       "file": "missing/A/68356-arcade-archives-clu-clu-land.json"
     },
     {
+      "igdb_id": 99535,
+      "game_name": "Arcade Archives: Contra",
+      "file": "missing/A/99535-arcade-archives-contra.json"
+    },
+    {
       "igdb_id": 282491,
       "game_name": "Arcade Archives: Cosmo Gang The Puzzle",
       "file": "missing/A/282491-arcade-archives-cosmo-gang-the-puzzle.json"
@@ -50947,6 +51022,11 @@
       "file": "missing/A/147111-arcade-archives-halleys-comet.json"
     },
     {
+      "igdb_id": 99487,
+      "game_name": "Arcade Archives: Haunted Castle",
+      "file": "missing/A/99487-arcade-archives-haunted-castle.json"
+    },
+    {
       "igdb_id": 88594,
       "game_name": "Arcade Archives: Heroic Episode",
       "file": "missing/A/88594-arcade-archives-heroic-episode.json"
@@ -51000,6 +51080,11 @@
       "igdb_id": 99544,
       "game_name": "Arcade Archives: Kid's Horehore Daisakusen",
       "file": "missing/A/99544-arcade-archives-kids-horehore-daisakusen.json"
+    },
+    {
+      "igdb_id": 99536,
+      "game_name": "Arcade Archives: KiKi KaiKai",
+      "file": "missing/A/99536-arcade-archives-kiki-kaikai.json"
     },
     {
       "igdb_id": 257326,
@@ -51120,6 +51205,11 @@
       "igdb_id": 121427,
       "game_name": "Arcade Archives: Mutant Night",
       "file": "missing/A/121427-arcade-archives-mutant-night.json"
+    },
+    {
+      "igdb_id": 99537,
+      "game_name": "Arcade Archives: MX5000",
+      "file": "missing/A/99537-arcade-archives-mx5000.json"
     },
     {
       "igdb_id": 282155,
@@ -51565,6 +51655,11 @@
       "igdb_id": 314869,
       "game_name": "Arcade Archives: The Ninja Kids",
       "file": "missing/A/314869-arcade-archives-the-ninja-kids.json"
+    },
+    {
+      "igdb_id": 99486,
+      "game_name": "Arcade Archives: The Ninja Warriors",
+      "file": "missing/A/99486-arcade-archives-the-ninja-warriors.json"
     },
     {
       "igdb_id": 218552,
@@ -122655,6 +122750,11 @@
       "igdb_id": 269678,
       "game_name": "Brigitte: Ernaehrungs Coach",
       "file": "missing/B/269678-brigitte-ernaehrungs-coach.json"
+    },
+    {
+      "igdb_id": 99505,
+      "game_name": "Briks",
+      "file": "missing/B/99505-briks.json"
     },
     {
       "igdb_id": 89668,
@@ -207437,6 +207537,11 @@
       "file": "missing/D/20018-darknet.json"
     },
     {
+      "igdb_id": 99512,
+      "game_name": "Darknet",
+      "file": "missing/D/99512-darknet.json"
+    },
+    {
       "igdb_id": 373124,
       "game_name": "Darko",
       "file": "missing/D/373124-darko.json"
@@ -251482,6 +251587,11 @@
       "file": "missing/D/187849-drawer.json"
     },
     {
+      "igdb_id": 99494,
+      "game_name": "DrawFighters",
+      "file": "missing/D/99494-drawfighters.json"
+    },
+    {
       "igdb_id": 158605,
       "game_name": "Drawgaem",
       "file": "missing/D/158605-drawgaem.json"
@@ -263690,6 +263800,11 @@
       "igdb_id": 44537,
       "game_name": "Dynasty Warriors: God Seekers",
       "file": "missing/D/44537-dynasty-warriors-god-seekers.json"
+    },
+    {
+      "igdb_id": 99517,
+      "game_name": "Dynasty Warriors: Godseekers with Bonus",
+      "file": "missing/D/99517-dynasty-warriors-godseekers-with-bonus.json"
     },
     {
       "igdb_id": 6977,
@@ -320382,6 +320497,11 @@
       "file": "missing/F/96920-flying-arrow.json"
     },
     {
+      "igdb_id": 99519,
+      "game_name": "Flying Bunny",
+      "file": "missing/F/99519-flying-bunny.json"
+    },
+    {
       "igdb_id": 379123,
       "game_name": "Flying Candy",
       "file": "missing/F/379123-flying-candy.json"
@@ -343107,6 +343227,11 @@
       "file": "missing/G/309946-game-of-squares.json"
     },
     {
+      "igdb_id": 99518,
+      "game_name": "Game of Stones",
+      "file": "missing/G/99518-game-of-stones.json"
+    },
+    {
       "igdb_id": 106526,
       "game_name": "Game of Sultans",
       "file": "missing/G/106526-game-of-sultans.json"
@@ -363450,6 +363575,11 @@
       "igdb_id": 323376,
       "game_name": "Gothwane Towers",
       "file": "missing/G/323376-gothwane-towers.json"
+    },
+    {
+      "igdb_id": 99502,
+      "game_name": "GOTO Bridge 18",
+      "file": "missing/G/99502-goto-bridge-18.json"
     },
     {
       "igdb_id": 387357,
@@ -384682,6 +384812,11 @@
       "file": "missing/H/118454-hasbro-family-fun-pack-conquest-edition.json"
     },
     {
+      "igdb_id": 99528,
+      "game_name": "Hasbro Family Fun Pack Super Edition",
+      "file": "missing/H/99528-hasbro-family-fun-pack-super-edition.json"
+    },
+    {
       "igdb_id": 50606,
       "game_name": "Hasbro Family Game Night 2",
       "file": "missing/H/50606-hasbro-family-game-night-2.json"
@@ -385855,6 +385990,11 @@
       "igdb_id": 317360,
       "game_name": "Haunted Starbase",
       "file": "missing/H/317360-haunted-starbase.json"
+    },
+    {
+      "igdb_id": 99503,
+      "game_name": "Haunted Theme Park Hidden Object",
+      "file": "missing/H/99503-haunted-theme-park-hidden-object.json"
     },
     {
       "igdb_id": 140032,
@@ -396375,6 +396515,11 @@
       "igdb_id": 60196,
       "game_name": "HeroBound: Spirit Champion",
       "file": "missing/H/60196-herobound-spirit-champion.json"
+    },
+    {
+      "igdb_id": 99516,
+      "game_name": "HeroCade",
+      "file": "missing/H/99516-herocade.json"
     },
     {
       "igdb_id": 64098,
@@ -408315,6 +408460,11 @@
       "igdb_id": 42053,
       "game_name": "Honoo no Toukyuuji: Dodge Danpei",
       "file": "missing/H/42053-honoo-no-toukyuuji-dodge-danpei.json"
+    },
+    {
+      "igdb_id": 99530,
+      "game_name": "Honor and Duty: Arcade Edition",
+      "file": "missing/H/99530-honor-and-duty-arcade-edition.json"
     },
     {
       "igdb_id": 303565,
@@ -433725,6 +433875,11 @@
       "igdb_id": 403134,
       "game_name": "Inner Growth",
       "file": "missing/I/403134-inner-growth.json"
+    },
+    {
+      "igdb_id": 99539,
+      "game_name": "Inner Kung Fu Game",
+      "file": "missing/I/99539-inner-kung-fu-game.json"
     },
     {
       "igdb_id": 185081,
@@ -472442,6 +472597,11 @@
       "file": "missing/K/303217-knoblins.json"
     },
     {
+      "igdb_id": 99533,
+      "game_name": "Knobswitch",
+      "file": "missing/K/99533-knobswitch.json"
+    },
+    {
       "igdb_id": 114201,
       "game_name": "Knock 'Em Down! Bowling",
       "file": "missing/K/114201-knock-em-down-bowling.json"
@@ -491092,6 +491252,11 @@
       "file": "missing/L/169790-letter-match-spell-n-score-crosswords.json"
     },
     {
+      "igdb_id": 99525,
+      "game_name": "Letter Quest Remastered/Three Fourths Home Bundle",
+      "file": "missing/L/99525-letter-quest-remastered-three-fourths-home-bundle.json"
+    },
+    {
       "igdb_id": 17942,
       "game_name": "Letter Quest: Grimm's Journey",
       "file": "missing/L/17942-letter-quest-grimms-journey.json"
@@ -492305,6 +492470,11 @@
       "igdb_id": 392814,
       "game_name": "Lickspittles",
       "file": "missing/L/392814-lickspittles.json"
+    },
+    {
+      "igdb_id": 99485,
+      "game_name": "Licky the Lucky Lizard Lives Again",
+      "file": "missing/L/99485-licky-the-lucky-lizard-lives-again.json"
     },
     {
       "igdb_id": 291468,
@@ -517787,6 +517957,11 @@
       "file": "missing/M/235665-magnet-jack.json"
     },
     {
+      "igdb_id": 99520,
+      "game_name": "Magnet Knights",
+      "file": "missing/M/99520-magnet-knights.json"
+    },
+    {
       "igdb_id": 262580,
       "game_name": "Magnet Mania 3D",
       "file": "missing/M/262580-magnet-mania-3d.json"
@@ -534720,6 +534895,11 @@
       "igdb_id": 311065,
       "game_name": "Mechenosets",
       "file": "missing/M/311065-mechenosets.json"
+    },
+    {
+      "igdb_id": 99497,
+      "game_name": "Mechinus",
+      "file": "missing/M/99497-mechinus.json"
     },
     {
       "igdb_id": 293653,
@@ -585477,6 +585657,11 @@
       "file": "missing/N/19316-n-o-v-a-near-orbit-vanguard-alliance.json"
     },
     {
+      "igdb_id": 99490,
+      "game_name": "N.U.T.Z.",
+      "file": "missing/N/99490-n-u-t-z.json"
+    },
+    {
       "igdb_id": 418519,
       "game_name": "N.Ukeme",
       "file": "missing/N/418519-n-ukeme.json"
@@ -590635,6 +590820,11 @@
       "igdb_id": 120181,
       "game_name": "Nebula Online",
       "file": "missing/N/120181-nebula-online.json"
+    },
+    {
+      "igdb_id": 99527,
+      "game_name": "Nebula Realms",
+      "file": "missing/N/99527-nebula-realms.json"
     },
     {
       "igdb_id": 383039,
@@ -661787,6 +661977,11 @@
       "file": "missing/P/84309-planeshift.json"
     },
     {
+      "igdb_id": 99523,
+      "game_name": "Planet 2000",
+      "file": "missing/P/99523-planet-2000.json"
+    },
+    {
       "igdb_id": 195613,
       "game_name": "Planet After Us",
       "file": "missing/P/195613-planet-after-us.json"
@@ -665430,6 +665625,11 @@
       "igdb_id": 176974,
       "game_name": "Pluto's Tears",
       "file": "missing/P/176974-plutos-tears.json"
+    },
+    {
+      "igdb_id": 99514,
+      "game_name": "Plutobi: The Dwarf Planet Tales",
+      "file": "missing/P/99514-plutobi-the-dwarf-planet-tales.json"
     },
     {
       "igdb_id": 269468,
@@ -717007,6 +717207,11 @@
       "file": "missing/R/322044-resident-evil-seamless-hd-project.json"
     },
     {
+      "igdb_id": 99513,
+      "game_name": "Resident Evil: Super Bundle",
+      "file": "missing/R/99513-resident-evil-super-bundle.json"
+    },
+    {
       "igdb_id": 352832,
       "game_name": "Resident Evil: Survival Unit",
       "file": "missing/R/352832-resident-evil-survival-unit.json"
@@ -717025,6 +717230,11 @@
       "igdb_id": 976,
       "game_name": "Resident Evil: The Mercenaries 3D",
       "file": "missing/R/976-resident-evil-the-mercenaries-3d.json"
+    },
+    {
+      "igdb_id": 99534,
+      "game_name": "Resident Evil: Triple Pack",
+      "file": "missing/R/99534-resident-evil-triple-pack.json"
     },
     {
       "igdb_id": 225578,
@@ -728510,6 +728720,11 @@
       "igdb_id": 43429,
       "game_name": "RoboTraps",
       "file": "missing/R/43429-robotraps.json"
+    },
+    {
+      "igdb_id": 99491,
+      "game_name": "RobotRiot: Hyper Edition",
+      "file": "missing/R/99491-robotriot-hyper-edition.json"
     },
     {
       "igdb_id": 3592,
@@ -784002,6 +784217,16 @@
       "file": "missing/S/83929-skylight.json"
     },
     {
+      "igdb_id": 99506,
+      "game_name": "Skylight Freerange",
+      "file": "missing/S/99506-skylight-freerange.json"
+    },
+    {
+      "igdb_id": 99522,
+      "game_name": "Skylight Freerange 2: Gachduine",
+      "file": "missing/S/99522-skylight-freerange-2-gachduine.json"
+    },
+    {
       "igdb_id": 248058,
       "game_name": "Skyline Blade",
       "file": "missing/S/248058-skyline-blade.json"
@@ -815632,6 +815857,11 @@
       "file": "missing/S/400899-split-happens.json"
     },
     {
+      "igdb_id": 99498,
+      "game_name": "Split Masters",
+      "file": "missing/S/99498-split-masters.json"
+    },
+    {
       "igdb_id": 123963,
       "game_name": "Split or Steal",
       "file": "missing/S/123963-split-or-steal.json"
@@ -833230,6 +833460,11 @@
       "igdb_id": 389969,
       "game_name": "Stranded With You",
       "file": "missing/S/389969-stranded-with-you.json"
+    },
+    {
+      "igdb_id": 99532,
+      "game_name": "Stranded: A Mars Adventure",
+      "file": "missing/S/99532-stranded-a-mars-adventure.json"
     },
     {
       "igdb_id": 275619,
@@ -873212,6 +873447,11 @@
       "file": "missing/T/82411-team17-indie-collection.json"
     },
     {
+      "igdb_id": 99526,
+      "game_name": "Team17 Indie Heroes",
+      "file": "missing/T/99526-team17-indie-heroes.json"
+    },
+    {
       "igdb_id": 154815,
       "game_name": "Teamball.io",
       "file": "missing/T/154815-teamball-io.json"
@@ -885235,6 +885475,11 @@
       "igdb_id": 404356,
       "game_name": "The Book of Prosperity",
       "file": "missing/T/404356-the-book-of-prosperity.json"
+    },
+    {
+      "igdb_id": 99488,
+      "game_name": "The Book of Regrets",
+      "file": "missing/T/99488-the-book-of-regrets.json"
     },
     {
       "igdb_id": 273287,
@@ -930625,6 +930870,11 @@
       "igdb_id": 213581,
       "game_name": "Three Fourths Home: Extended Edition - Deluxe",
       "file": "missing/T/213581-three-fourths-home-extended-edition-deluxe.json"
+    },
+    {
+      "igdb_id": 99524,
+      "game_name": "Three Fourths Home/Paranautical Activity Bundle",
+      "file": "missing/T/99524-three-fourths-home-paranautical-activity-bundle.json"
     },
     {
       "igdb_id": 178427,
