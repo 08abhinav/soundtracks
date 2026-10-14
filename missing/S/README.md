@@ -8272,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
+| Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
@@ -14123,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRunners: Youtuber Pack 2 | 202202 | [202202-speedrunners-youtuber-pack-2.json](./202202-speedrunners-youtuber-pack-2.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
 | Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
+| SpeedStrip | 80398 | [80398-speedstrip.json](./80398-speedstrip.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
 | Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
@@ -16307,6 +16309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 131474 | [131474-star-trek.json](./131474-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
+| Star Trek | 80425 | [80425-star-trek.json](./80425-star-trek.json) |
 | Star Trek - Armada | 18902 | [18902-star-trek-armada.json](./18902-star-trek-armada.json) |
 | Star Trek Adversaries | 95638 | [95638-star-trek-adversaries.json](./95638-star-trek-adversaries.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
