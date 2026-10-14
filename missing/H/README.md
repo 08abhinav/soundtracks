@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heileen 2: The Hands Of Fate | 17507 | [17507-heileen-2-the-hands-of-fate.json](./17507-heileen-2-the-hands-of-fate.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
 | Heileen: Sail Away | 50442 | [50442-heileen-sail-away.json](./50442-heileen-sail-away.json) |
+| Heiligenstadt no Uta | 131908 | [131908-heiligenstadt-no-uta.json](./131908-heiligenstadt-no-uta.json) |
 | Heim | 131959 | [131959-heim.json](./131959-heim.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
@@ -5158,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himegoto | 281943 | [281943-himegoto.json](./281943-himegoto.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
+| Himehibi: Princess Days | 131911 | [131911-himehibi-princess-days.json](./131911-himehibi-princess-days.json) |
 | Himehibi: Princess Days | 218382 | [218382-himehibi-princess-days.json](./218382-himehibi-princess-days.json) |
 | Himehibi: Princess Days Portable | 218381 | [218381-himehibi-princess-days-portable.json](./218381-himehibi-princess-days-portable.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
