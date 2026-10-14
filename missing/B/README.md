@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
+| BBB: Vestal (Visual Novel Vol. 1) | 118130 | [118130-bbb-vestal-visual-novel-vol-1.json](./118130-bbb-vestal-visual-novel-vol-1.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
 | Beasts Shall Rise | 118138 | [118138-beasts-shall-rise.json](./118138-beasts-shall-rise.json) |
 | Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
+| Beasty Karts | 118132 | [118132-beasty-karts.json](./118132-beasty-karts.json) |
 | Beat 'Em & Eat 'Em | 11139 | [11139-beat-em-and-eat-em.json](./11139-beat-em-and-eat-em.json) |
 | Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
