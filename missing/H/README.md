@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Chronicles: Poisoned Truth - Collector's Edition | 285535 | [285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json](./285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json) |
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
+| Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
@@ -8241,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
+| Hyper Streak | 106947 | [106947-hyper-streak.json](./106947-hyper-streak.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
 | Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
