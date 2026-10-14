@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
+| BentoBot | 102084 | [102084-bentobot.json](./102084-bentobot.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
 | Bepuzzled Animals Jigsaw Puzzle | 120090 | [120090-bepuzzled-animals-jigsaw-puzzle.json](./120090-bepuzzled-animals-jigsaw-puzzle.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
@@ -4836,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bass Fishing | 43880 | [43880-big-bass-fishing.json](./43880-big-bass-fishing.json) |
 | Big Bass World Championship | 20135 | [20135-big-bass-world-championship.json](./20135-big-bass-world-championship.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
+| Big Bear: Salmon Hunter | 102074 | [102074-big-bear-salmon-hunter.json](./102074-big-bear-salmon-hunter.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Beautiful Van Derby Racing | 366095 | [366095-big-beautiful-van-derby-racing.json](./366095-big-beautiful-van-derby-racing.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
@@ -7981,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Carrot Forever | 51083 | [51083-bobby-carrot-forever.json](./51083-bobby-carrot-forever.json) |
 | Bobby Charlton Soccer | 15681 | [15681-bobby-charlton-soccer.json](./15681-bobby-charlton-soccer.json) |
+| Bobby Da Arrow | 102043 | [102043-bobby-da-arrow.json](./102043-bobby-da-arrow.json) |
 | Bobby Fischer Teaches Chess | 73237 | [73237-bobby-fischer-teaches-chess.json](./73237-bobby-fischer-teaches-chess.json) |
 | Bobby goes Home | 67661 | [67661-bobby-goes-home.json](./67661-bobby-goes-home.json) |
 | Bobby is Going Home | 11140 | [11140-bobby-is-going-home.json](./11140-bobby-is-going-home.json) |
@@ -8814,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | Borderline: Life On The Line | 344903 | [344903-borderline-life-on-the-line.json](./344903-borderline-life-on-the-line.json) |
+| Borders | 102063 | [102063-borders.json](./102063-borders.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Borderwatch: Dark Armada | 244686 | [244686-borderwatch-dark-armada.json](./244686-borderwatch-dark-armada.json) |
@@ -9408,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Legend | 277320 | [277320-boxing-legend.json](./277320-boxing-legend.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
+| Boxing Live 2014 | 102051 | [102051-boxing-live-2014.json](./102051-boxing-live-2014.json) |
 | Boxing Pun | 183843 | [183843-boxing-pun.json](./183843-boxing-pun.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
@@ -11579,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | Bunnymare: Circus Escape | 120234 | [120234-bunnymare-circus-escape.json](./120234-bunnymare-circus-escape.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
+| BunnyRace Duracell | 102070 | [102070-bunnyrace-duracell.json](./102070-bunnyrace-duracell.json) |
 | Bunnyrama | 30136 | [30136-bunnyrama.json](./30136-bunnyrama.json) |
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
