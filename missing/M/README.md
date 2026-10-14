@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
+| Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
@@ -7381,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Raiders | 19743 | [19743-midnight-raiders.json](./19743-midnight-raiders.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
+| Midnight Remastered | 117443 | [117443-midnight-remastered.json](./117443-midnight-remastered.json) |
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
@@ -10018,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
 | Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
+| Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
@@ -10278,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
+| Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
@@ -14293,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Curse of the Black Water | 140235 | [140235-mystery-of-the-ancients-curse-of-the-black-water.json](./140235-mystery-of-the-ancients-curse-of-the-black-water.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
+| Mystery of the Ancients: Deadly Cold - Collector's Edition | 117464 | [117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json](./117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians | 140237 | [140237-mystery-of-the-ancients-three-guardians.json](./140237-mystery-of-the-ancients-three-guardians.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
