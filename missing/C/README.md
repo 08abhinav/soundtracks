@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
+| Case #9 | 74236 | [74236-case-9.json](./74236-case-9.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Love Boxes | 199459 | [199459-cats-love-boxes.json](./199459-cats-love-boxes.json) |
 | Cats Love Heat | 185490 | [185490-cats-love-heat.json](./185490-cats-love-heat.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
+| Cats Make You Smarter! | 74227 | [74227-cats-make-you-smarter.json](./74227-cats-make-you-smarter.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
@@ -8250,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
+| Combat Instinct | 74232 | [74232-combat-instinct.json](./74232-combat-instinct.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Kart | 265522 | [265522-combat-kart.json](./265522-combat-kart.json) |
@@ -10113,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
+| Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
 | Cotton 16Bit Tribute | 212332 | [212332-cotton-16bit-tribute.json](./212332-cotton-16bit-tribute.json) |
 | Cotton 16Bit Tribute: Special Pack - Limited Edition | 212321 | [212321-cotton-16bit-tribute-special-pack-limited-edition.json](./212321-cotton-16bit-tribute-special-pack-limited-edition.json) |
@@ -12643,6 +12647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
+| Cube Racer | 74217 | [74217-cube-racer.json](./74217-cube-racer.json) |
 | Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
