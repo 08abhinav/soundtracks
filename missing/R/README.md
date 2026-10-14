@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Free Europa | 193271 | [193271-radio-free-europa.json](./193271-radio-free-europa.json) |
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
+| Radio Hammer Station | 74966 | [74966-radio-hammer-station.json](./74966-radio-hammer-station.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
 | Radio Rayless | 324348 | [324348-radio-rayless.json](./324348-radio-rayless.json) |
