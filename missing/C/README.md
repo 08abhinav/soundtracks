@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
 | Castle Wolfenstein | 2727 | [2727-castle-wolfenstein.json](./2727-castle-wolfenstein.json) |
 | Castle Wonders: A Castle Tale | 156567 | [156567-castle-wonders-a-castle-tale.json](./156567-castle-wonders-a-castle-tale.json) |
+| Castle Woodwarf | 95952 | [95952-castle-woodwarf.json](./95952-castle-woodwarf.json) |
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Heroes | 299394 | [299394-cat-heroes.json](./299394-cat-heroes.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
+| Cat in Japan | 95987 | [95987-cat-in-japan.json](./95987-cat-in-japan.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
@@ -6654,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Cats: RPG Idle Heroes | 193710 | [193710-clicker-cats-rpg-idle-heroes.json](./193710-clicker-cats-rpg-idle-heroes.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
+| Clicker Fred | 95965 | [95965-clicker-fred.json](./95965-clicker-fred.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
