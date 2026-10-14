@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insectomania | 362737 | [362737-insectomania.json](./362737-insectomania.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
+| Insects | 112800 | [112800-insects.json](./112800-insects.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
