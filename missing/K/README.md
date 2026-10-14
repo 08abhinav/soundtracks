@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Move | 339229 | [339229-knight-move.json](./339229-knight-move.json) |
 | Knight Move | 41270 | [41270-knight-move.json](./41270-knight-move.json) |
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
+| Knight of Flame Lily Akos 2 | 82655 | [82655-knight-of-flame-lily-akos-2.json](./82655-knight-of-flame-lily-akos-2.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
 | Knight Of The Earthends | 319835 | [319835-knight-of-the-earthends.json](./319835-knight-of-the-earthends.json) |
@@ -3024,6 +3025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
+| Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
+| Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
@@ -3294,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koe de Asobou! HeartCatch PreCure! | 123342 | [123342-koe-de-asobou-heartcatch-precure.json](./123342-koe-de-asobou-heartcatch-precure.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
+| Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
