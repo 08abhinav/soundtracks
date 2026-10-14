@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
 | Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
+| Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
@@ -9060,6 +9061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerHits Sports | 85745 | [85745-powerhits-sports.json](./85745-powerhits-sports.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
+| Powerless | 111560 | [111560-powerless.json](./111560-powerless.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
 | Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
