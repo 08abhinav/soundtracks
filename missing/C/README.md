@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
+| Cat-o-Combo!! | 117431 | [117431-cat-o-combo.json](./117431-cat-o-combo.json) |
 | Cat-Ptured | 336159 | [336159-cat-ptured.json](./336159-cat-ptured.json) |
 | Cat-up! | 395769 | [395769-cat-up.json](./395769-cat-up.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
 | Cheech and Chong Bud Farm | 220176 | [220176-cheech-and-chong-bud-farm.json](./220176-cheech-and-chong-bud-farm.json) |
+| Cheeky Beetle and the Unlikely Heroes | 117430 | [117430-cheeky-beetle-and-the-unlikely-heroes.json](./117430-cheeky-beetle-and-the-unlikely-heroes.json) |
 | Cheeky Chickens | 180029 | [180029-cheeky-chickens.json](./180029-cheeky-chickens.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
@@ -5470,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
 | Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
 | ChronoQuest VR | 412200 | [412200-chronoquest-vr.json](./412200-chronoquest-vr.json) |
+| Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
@@ -8120,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
+| Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
@@ -9346,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
+| Cooking Trip | 117452 | [117452-cooking-trip.json](./117452-cooking-trip.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
 | Cooking Trip: Collector's Edition | 273341 | [273341-cooking-trip-collectors-edition.json](./273341-cooking-trip-collectors-edition.json) |
 | Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
