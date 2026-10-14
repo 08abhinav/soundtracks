@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
+| Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
