@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
+| NASCAR Craftsman Truck Series Racing | 77900 | [77900-nascar-craftsman-truck-series-racing.json](./77900-nascar-craftsman-truck-series-racing.json) |
 | NASCAR Grand National Series: Expansion Pack | 131299 | [131299-nascar-grand-national-series-expansion-pack.json](./131299-nascar-grand-national-series-expansion-pack.json) |
 | NASCAR Heat | 292795 | [292795-nascar-heat.json](./292795-nascar-heat.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
+| Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
@@ -4297,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nogibator | 76934 | [76934-nogibator.json](./76934-nogibator.json) |
 | Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
+| Nogizaka46 Rhythm Festival | 77846 | [77846-nogizaka46-rhythm-festival.json](./77846-nogizaka46-rhythm-festival.json) |
 | Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
