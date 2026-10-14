@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadd Warp | 314572 | [314572-gadd-warp.json](./314572-gadd-warp.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
+| Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
