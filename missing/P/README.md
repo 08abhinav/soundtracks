@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
+| Pixelated Jigsaw | 91309 | [91309-pixelated-jigsaw.json](./91309-pixelated-jigsaw.json) |
 | Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
 | Planet IX | 348417 | [348417-planet-ix.json](./348417-planet-ix.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
+| Planet Jump | 91324 | [91324-planet-jump.json](./91324-planet-jump.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
@@ -9321,6 +9323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
+| Premier Manager 2010 | 91301 | [91301-premier-manager-2010.json](./91301-premier-manager-2010.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
 | Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
@@ -12042,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Bebop | 104230 | [104230-puzzle-bebop.json](./104230-puzzle-bebop.json) |
 | Puzzle Blast | 92943 | [92943-puzzle-blast.json](./92943-puzzle-blast.json) |
+| Puzzle Block - Glow Block Game | 91289 | [91289-puzzle-block-glow-block-game.json](./91289-puzzle-block-glow-block-game.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
