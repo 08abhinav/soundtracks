@@ -9428,7 +9428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -10621,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrolling Enigma | 288685 | [288685-the-scrolling-enigma.json](./288685-the-scrolling-enigma.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
+| The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
@@ -10666,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Darkwoods | 236942 | [236942-the-secret-of-darkwoods.json](./236942-the-secret-of-darkwoods.json) |
 | The Secret of Donkey Island | 254469 | [254469-the-secret-of-donkey-island.json](./254469-the-secret-of-donkey-island.json) |
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
+| The Secret of Gillwood | 116095 | [116095-the-secret-of-gillwood.json](./116095-the-secret-of-gillwood.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Hutton Grammar School | 126899 | [126899-the-secret-of-hutton-grammar-school.json](./126899-the-secret-of-hutton-grammar-school.json) |
 | The Secret of Little Hodcome | 232554 | [232554-the-secret-of-little-hodcome.json](./232554-the-secret-of-little-hodcome.json) |
