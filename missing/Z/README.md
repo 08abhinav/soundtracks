@@ -519,6 +519,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
 | Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
+| Zentia | 91854 | [91854-zentia.json](./91854-zentia.json) |
+| Zentomino | 91882 | [91882-zentomino.json](./91882-zentomino.json) |
 | Zentore: Muscle Your Brain | 371596 | [371596-zentore-muscle-your-brain.json](./371596-zentore-muscle-your-brain.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
