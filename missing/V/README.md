@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacant Planet | 195475 | [195475-vacant-planet.json](./195475-vacant-planet.json) |
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
 | Vacant's Mine | 289918 | [289918-vacants-mine.json](./289918-vacants-mine.json) |
+| Vacation Adventures: Cruise Director | 114853 | [114853-vacation-adventures-cruise-director.json](./114853-vacation-adventures-cruise-director.json) |
 | Vacation Adventures: Cruise Director 3 | 193219 | [193219-vacation-adventures-cruise-director-3.json](./193219-vacation-adventures-cruise-director-3.json) |
 | Vacation Adventures: Cruise Director 4 | 193220 | [193220-vacation-adventures-cruise-director-4.json](./193220-vacation-adventures-cruise-director-4.json) |
 | Vacation Adventures: Cruise Director 5 | 180009 | [180009-vacation-adventures-cruise-director-5.json](./180009-vacation-adventures-cruise-director-5.json) |
