@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
+| GolemRush | 105219 | [105219-golemrush.json](./105219-golemrush.json) |
 | Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
 | Golf | 131432 | [131432-golf.json](./131432-golf.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
@@ -6071,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Gladiators | 343310 | [343310-grid-gladiators.json](./343310-grid-gladiators.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
+| Grid Gunner | 105179 | [105179-grid-gunner.json](./105179-grid-gunner.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
