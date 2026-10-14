@@ -10986,6 +10986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
+| Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
@@ -12553,6 +12554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubia | 139711 | [139711-cubia.json](./139711-cubia.json) |
+| Cubians : Combine | 114243 | [114243-cubians-combine.json](./114243-cubians-combine.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic | 68581 | [68581-cubic.json](./68581-cubic.json) |
 | Cubic 2 3 4 Player Games | 331902 | [331902-cubic-2-3-4-player-games.json](./331902-cubic-2-3-4-player-games.json) |
