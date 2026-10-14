@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
 | Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
 | Garfield | 234571 | [234571-garfield.json](./234571-garfield.json) |
+| Garfield | 95360 | [95360-garfield.json](./95360-garfield.json) |
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
 | Geniu$: The Tech Tycoon Game | 9925 | [9925-geniu-the-tech-tycoon-game.json](./9925-geniu-the-tech-tycoon-game.json) |
+| Genius - Tricky Riddles | 95309 | [95309-genius-tricky-riddles.json](./95309-genius-tricky-riddles.json) |
 | Genius At Work! | 153504 | [153504-genius-at-work.json](./153504-genius-at-work.json) |
 | Genius Calculator | 90265 | [90265-genius-calculator.json](./90265-genius-calculator.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
