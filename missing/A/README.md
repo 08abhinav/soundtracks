@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
 | Abyss Knights | 350375 | [350375-abyss-knights.json](./350375-abyss-knights.json) |
 | Abyss Looters | 312663 | [312663-abyss-looters.json](./312663-abyss-looters.json) |
+| Abyss Manager | 116089 | [116089-abyss-manager.json](./116089-abyss-manager.json) |
 | Abyss Manager Idle | 271667 | [271667-abyss-manager-idle.json](./271667-abyss-manager-idle.json) |
 | Abyss Memory Fallen Angel and the Path of Magic | 192081 | [192081-abyss-memory-fallen-angel-and-the-path-of-magic.json](./192081-abyss-memory-fallen-angel-and-the-path-of-magic.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
@@ -2309,7 +2310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -3597,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
+| Akabeth Tactics | 116175 | [116175-akabeth-tactics.json](./116175-akabeth-tactics.json) |
 | Akabos | 330685 | [330685-akabos.json](./330685-akabos.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
@@ -3637,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akashicforce | 116199 | [116199-akashicforce.json](./116199-akashicforce.json) |
 | Akashicverse: Pandemonic Nightmare | 152210 | [152210-akashicverse-pandemonic-nightmare.json](./152210-akashicverse-pandemonic-nightmare.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
 | Akatsuki Blitzkampf | 80207 | [80207-akatsuki-blitzkampf.json](./80207-akatsuki-blitzkampf.json) |
@@ -3720,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
+| Akolyta | 116211 | [116211-akolyta.json](./116211-akolyta.json) |
 | Akpala | 266122 | [266122-akpala.json](./266122-akpala.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
@@ -5215,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
+| Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amaze!: Level Pack 1 | 246871 | [246871-amaze-level-pack-1.json](./246871-amaze-level-pack-1.json) |
