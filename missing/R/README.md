@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
+| Reader Rabbit 2nd Grade | 89085 | [89085-reader-rabbit-2nd-grade.json](./89085-reader-rabbit-2nd-grade.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
+| Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
