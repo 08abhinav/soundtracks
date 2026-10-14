@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
+| Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
 | Scotch Broom | 118448 | [118448-scotch-broom.json](./118448-scotch-broom.json) |
 | Scotland Yard | 197725 | [197725-scotland-yard.json](./197725-scotland-yard.json) |
@@ -6457,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shu's Misfortune | 157396 | [157396-shus-misfortune.json](./157396-shus-misfortune.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
+| Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
 | Shuffle Board | 74726 | [74726-shuffle-board.json](./74726-shuffle-board.json) |
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
@@ -12809,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
+| Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
@@ -13437,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
 | Space War | 171888 | [171888-space-war.json](./171888-space-war.json) |
+| Space War - Retro Shooter | 96596 | [96596-space-war-retro-shooter.json](./96596-space-war-retro-shooter.json) |
 | Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
@@ -19167,6 +19171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stump Simulator 2 | 369909 | [369909-stump-simulator-2.json](./369909-stump-simulator-2.json) |
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
+| Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
@@ -22738,6 +22743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
 | Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
+| Surprise Eggs | 96609 | [96609-surprise-eggs.json](./96609-surprise-eggs.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
@@ -23324,6 +23330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
+| Sweet Candy Maker Games | 96608 | [96608-sweet-candy-maker-games.json](./96608-sweet-candy-maker-games.json) |
 | Sweet Cards | 323239 | [323239-sweet-cards.json](./323239-sweet-cards.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
 | Sweet Casino 2 | 385251 | [385251-sweet-casino-2.json](./385251-sweet-casino-2.json) |
@@ -24126,6 +24133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
 | SynthFight | 247999 | [247999-synthfight.json](./247999-synthfight.json) |
 | Synthopolis | 348798 | [348798-synthopolis.json](./348798-synthopolis.json) |
+| Synthrally | 96659 | [96659-synthrally.json](./96659-synthrally.json) |
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
 | Synthrun | 114875 | [114875-synthrun.json](./114875-synthrun.json) |
