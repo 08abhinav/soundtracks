@@ -7715,6 +7715,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
 | Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
+| Aqua Kitty: Milk Mine Defender DX | 90501 | [90501-aqua-kitty-milk-mine-defender-dx.json](./90501-aqua-kitty-milk-mine-defender-dx.json) |
+| Aqua Lungers | 90531 | [90531-aqua-lungers.json](./90531-aqua-lungers.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
@@ -9809,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Riddles 2 | 88599 | [88599-asian-riddles-2.json](./88599-asian-riddles-2.json) |
+| Asian Riddles 4 | 90512 | [90512-asian-riddles-4.json](./90512-asian-riddles-4.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
 | Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
@@ -11011,6 +11014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
 | Atonia: Netorare Annals | 332612 | [332612-atonia-netorare-annals.json](./332612-atonia-netorare-annals.json) |
 | AtooB | 304629 | [304629-atoob.json](./304629-atoob.json) |
+| Atooms to Moolecules | 90485 | [90485-atooms-to-moolecules.json](./90485-atooms-to-moolecules.json) |
 | Atop the Witch's Tower | 225714 | [225714-atop-the-witchs-tower.json](./225714-atop-the-witchs-tower.json) |
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
@@ -11902,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayakashibito: Genyou Ibunroku Portable | 257853 | [257853-ayakashibito-genyou-ibunroku-portable.json](./257853-ayakashibito-genyou-ibunroku-portable.json) |
+| Ayakashigami | 90495 | [90495-ayakashigami.json](./90495-ayakashigami.json) |
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
