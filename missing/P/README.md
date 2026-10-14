@@ -9401,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preppie! | 22766 | [22766-preppie.json](./22766-preppie.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
+| Prequel | 77897 | [77897-prequel.json](./77897-prequel.json) |
 | Prerolled | 378560 | [378560-prerolled.json](./378560-prerolled.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
