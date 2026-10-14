@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
+| Garage | 108875 | [108875-garage.json](./108875-garage.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
+| Garfield: Survival of the Fattest | 108796 | [108796-garfield-survival-of-the-fattest.json](./108796-garfield-survival-of-the-fattest.json) |
 | Garfield: The Lost Levels | 234570 | [234570-garfield-the-lost-levels.json](./234570-garfield-the-lost-levels.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl & Gem Magic | 367022 | [367022-girl-and-gem-magic.json](./367022-girl-and-gem-magic.json) |
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
+| Girl Actions | 108815 | [108815-girl-actions.json](./108815-girl-actions.json) |
 | Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
 | Girl Agent | 157429 | [157429-girl-agent.json](./157429-girl-agent.json) |
 | Girl Amazon Survival | 35159 | [35159-girl-amazon-survival.json](./35159-girl-amazon-survival.json) |
