@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uhilant | 337294 | [337294-uhilant.json](./337294-uhilant.json) |
 | UIM | 261711 | [261711-uim.json](./261711-uim.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
+| Uizuno Blade | 76485 | [76485-uizuno-blade.json](./76485-uizuno-blade.json) |
 | Uizuno Blade VR | 83158 | [83158-uizuno-blade-vr.json](./83158-uizuno-blade-vr.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
