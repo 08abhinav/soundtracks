@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
+| Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Sparring VR | 41951 | [41951-fight-sparring-vr.json](./41951-fight-sparring-vr.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
+| Fight the Horror | 107722 | [107722-fight-the-horror.json](./107722-fight-the-horror.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
 | Fight the Skeleton Mage from the Crypt!! | 320870 | [320870-fight-the-skeleton-mage-from-the-crypt.json](./320870-fight-the-skeleton-mage-from-the-crypt.json) |
 | Fight till the End! | 289440 | [289440-fight-till-the-end.json](./289440-fight-till-the-end.json) |
@@ -7122,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Racing Heroes Car Pack | 361776 | [361776-forza-motorsport-racing-heroes-car-pack.json](./361776-forza-motorsport-racing-heroes-car-pack.json) |
 | Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
+| ForzeBreak | 107705 | [107705-forzebreak.json](./107705-forzebreak.json) |
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Diggers VR | 265525 | [265525-fossil-diggers-vr.json](./265525-fossil-diggers-vr.json) |
