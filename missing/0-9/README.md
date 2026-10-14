@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
+| 7-minute HOP | 111509 | [111509-7-minute-hop.json](./111509-7-minute-hop.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
