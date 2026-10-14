@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Old Earth | 35054 | [35054-last-days-of-old-earth.json](./35054-last-days-of-old-earth.json) |
+| Last Days of Snow | 95363 | [95363-last-days-of-snow.json](./95363-last-days-of-snow.json) |
 | Last Days of Spring 2 | 30682 | [30682-last-days-of-spring-2.json](./30682-last-days-of-spring-2.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
