@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
+| Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
 | Mage Hunters | 153315 | [153315-mage-hunters.json](./153315-mage-hunters.json) |
@@ -8539,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
 | Mini-4 Boy | 228620 | [228620-mini-4-boy.json](./228620-mini-4-boy.json) |
 | Mini-4 Boy II | 228621 | [228621-mini-4-boy-ii.json](./228621-mini-4-boy-ii.json) |
+| Mini-Dead | 97242 | [97242-mini-dead.json](./97242-mini-dead.json) |
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Map | 419200 | [419200-mini-map.json](./419200-mini-map.json) |
@@ -13891,6 +13893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Poodle's Diary | 310152 | [310152-my-poodles-diary.json](./310152-my-poodles-diary.json) |
 | My Potion Shop | 178910 | [178910-my-potion-shop.json](./178910-my-potion-shop.json) |
 | My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
+| My Pretend Fairytale Land - Kids Royal Family Game | 97219 | [97219-my-pretend-fairytale-land-kids-royal-family-game.json](./97219-my-pretend-fairytale-land-kids-royal-family-game.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
 | My Pretend New York City - Big Apple Friends | 102667 | [102667-my-pretend-new-york-city-big-apple-friends.json](./102667-my-pretend-new-york-city-big-apple-friends.json) |
@@ -14353,6 +14356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
+| Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
