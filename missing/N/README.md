@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
+| Nebulas Lasso | 116898 | [116898-nebulas-lasso.json](./116898-nebulas-lasso.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
+| Neon Cat Tickler | 116792 | [116792-neon-cat-tickler.json](./116792-neon-cat-tickler.json) |
 | Neon Chaku | 413500 | [413500-neon-chaku.json](./413500-neon-chaku.json) |
 | Neon Chrome | 18954 | [18954-neon-chrome.json](./18954-neon-chrome.json) |
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
