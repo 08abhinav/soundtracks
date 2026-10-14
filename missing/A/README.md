@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
 | Ace of Arenas | 59820 | [59820-ace-of-arenas.json](./59820-ace-of-arenas.json) |
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
+| Ace of Hearts | 98902 | [98902-ace-of-hearts.json](./98902-ace-of-hearts.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Squad | 100260 | [100260-alpha-squad.json](./100260-alpha-squad.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
+| Alpha Storm | 98913 | [98913-alpha-storm.json](./98913-alpha-storm.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
 | Alpha Version.0 | 35483 | [35483-alpha-version-0.json](./35483-alpha-version-0.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
@@ -11877,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayumi: Enhanced Edition | 32192 | [32192-ayumi-enhanced-edition.json](./32192-ayumi-enhanced-edition.json) |
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
+| AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
