@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
 | Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
+| Dead Detective vs Nine Deaths Cat | 95953 | [95953-dead-detective-vs-nine-deaths-cat.json](./95953-dead-detective-vs-nine-deaths-cat.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decision Point | 373148 | [373148-decision-point.json](./373148-decision-point.json) |
+| Decision: Medieval | 95933 | [95933-decision-medieval.json](./95933-decision-medieval.json) |
 | Decision: Red Daze | 152780 | [152780-decision-red-daze.json](./152780-decision-red-daze.json) |
 | Decisions | 114879 | [114879-decisions.json](./114879-decisions.json) |
 | Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
@@ -10082,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
+| DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
 | DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
@@ -11132,6 +11135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop by Hippo Cooperation | 107020 | [107020-drop-by-hippo-cooperation.json](./107020-drop-by-hippo-cooperation.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
+| Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
