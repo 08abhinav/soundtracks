@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
+| Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
+| Defender 3D | 110744 | [110744-defender-3d.json](./110744-defender-3d.json) |
 | Defender Chronicles | 19200 | [19200-defender-chronicles.json](./19200-defender-chronicles.json) |
 | Defender Chronicles: Legend of the Desert King | 65856 | [65856-defender-chronicles-legend-of-the-desert-king.json](./65856-defender-chronicles-legend-of-the-desert-king.json) |
 | Defender FX | 298952 | [298952-defender-fx.json](./298952-defender-fx.json) |
@@ -4073,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
+| Demolition Derby | 110847 | [110847-demolition-derby.json](./110847-demolition-derby.json) |
 | Demolition Derby 3 | 184283 | [184283-demolition-derby-3.json](./184283-demolition-derby-3.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
@@ -8825,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
+| Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
