@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthion | 92848 | [92848-labyrinthion.json](./92848-labyrinthion.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
 | Labyrinths of Atlantis | 93788 | [93788-labyrinths-of-atlantis.json](./93788-labyrinths-of-atlantis.json) |
+| Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
@@ -4632,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Master Detective 3 | 255006 | [255006-logic-master-detective-3.json](./255006-logic-master-detective-3.json) |
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
 | Logic Path | 392451 | [392451-logic-path.json](./392451-logic-path.json) |
+| Logic Path ! | 102693 | [102693-logic-path.json](./102693-logic-path.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
 | Logic Pic: All DLCs Pack | 212683 | [212683-logic-pic-all-dlcs-pack.json](./212683-logic-pic-all-dlcs-pack.json) |
 | Logic Pic: Complete Bundle | 214001 | [214001-logic-pic-complete-bundle.json](./214001-logic-pic-complete-bundle.json) |
