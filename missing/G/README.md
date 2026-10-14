@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
+| Gizmondo Motocross 2005 | 79756 | [79756-gizmondo-motocross-2005.json](./79756-gizmondo-motocross-2005.json) |
 | Gizmos: Jungle Adventures | 294399 | [294399-gizmos-jungle-adventures.json](./294399-gizmos-jungle-adventures.json) |
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
@@ -7526,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guranbo | 49596 | [49596-guranbo.json](./49596-guranbo.json) |
 | GuraQuest | 363320 | [363320-guraquest.json](./363320-guraquest.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
+| Guren | 79784 | [79784-guren.json](./79784-guren.json) |
 | Gurgosus Wunderbar | 124718 | [124718-gurgosus-wunderbar.json](./124718-gurgosus-wunderbar.json) |
 | Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
