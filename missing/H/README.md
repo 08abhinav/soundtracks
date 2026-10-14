@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
+| Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Music | 91091 | [91091-happy-music.json](./91091-happy-music.json) |
 | Happy My Sweets | 70675 | [70675-happy-my-sweets.json](./70675-happy-my-sweets.json) |
+| Happy Neighbors | 74922 | [74922-happy-neighbors.json](./74922-happy-neighbors.json) |
 | Happy New Hentai | 367059 | [367059-happy-new-hentai.json](./367059-happy-new-hentai.json) |
 | Happy New Song | 178959 | [178959-happy-new-song.json](./178959-happy-new-song.json) |
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
@@ -4938,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
+| Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
