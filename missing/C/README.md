@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
+| C64 & Amiga Classix Remakes Sixpack 2 | 84129 | [84129-c64-and-amiga-classix-remakes-sixpack-2.json](./84129-c64-and-amiga-classix-remakes-sixpack-2.json) |
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | C64 Classix | 93219 | [93219-c64-classix.json](./93219-c64-classix.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cactus Cowboy: Plants at War | 199490 | [199490-cactus-cowboy-plants-at-war.json](./199490-cactus-cowboy-plants-at-war.json) |
+| Cactus Jumper | 84089 | [84089-cactus-jumper.json](./84089-cactus-jumper.json) |
 | Cactus League Professional Basketball 7 | 23778 | [23778-cactus-league-professional-basketball-7.json](./23778-cactus-league-professional-basketball-7.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
+| Casual Spider Solitaire | 84134 | [84134-casual-spider-solitaire.json](./84134-casual-spider-solitaire.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
@@ -7088,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
 | Clumsy Cannon | 284825 | [284825-clumsy-cannon.json](./284825-clumsy-cannon.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
+| Clumsy Chef | 84078 | [84078-clumsy-chef.json](./84078-clumsy-chef.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
@@ -8876,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 166640 | [166640-connect.json](./166640-connect.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect | 350064 | [350064-connect.json](./350064-connect.json) |
+| connect - Virtual Home | 84140 | [84140-connect-virtual-home.json](./84140-connect-virtual-home.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
@@ -12733,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
+| Cubicorner | 84096 | [84096-cubicorner.json](./84096-cubicorner.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
@@ -13293,6 +13299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
+| Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
 | Cute Hentai Waifu: Numbers | 255279 | [255279-cute-hentai-waifu-numbers.json](./255279-cute-hentai-waifu-numbers.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
 | Cute Honey 2 | 156985 | [156985-cute-honey-2.json](./156985-cute-honey-2.json) |
@@ -13680,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
+| Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
