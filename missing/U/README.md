@@ -252,7 +252,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
+| Ultima VII: The Complete Edition | 102055 | [102055-ultima-vii-the-complete-edition.json](./102055-ultima-vii-the-complete-edition.json) |
 | Ultima VII: The Forge of Virtue | 71218 | [71218-ultima-vii-the-forge-of-virtue.json](./71218-ultima-vii-the-forge-of-virtue.json) |
+| Ultima VIII: Gold Edition | 102056 | [102056-ultima-viii-gold-edition.json](./102056-ultima-viii-gold-edition.json) |
 | Ultima VIII: Pagan | 2520 | [2520-ultima-viii-pagan.json](./2520-ultima-viii-pagan.json) |
 | Ultima Worlds Online: Origin | 72756 | [72756-ultima-worlds-online-origin.json](./72756-ultima-worlds-online-origin.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
