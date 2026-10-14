@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfolded: Camellia Tales | 146049 | [146049-unfolded-camellia-tales.json](./146049-unfolded-camellia-tales.json) |
 | Unfolding Engine: Paint a Game | 112822 | [112822-unfolding-engine-paint-a-game.json](./112822-unfolding-engine-paint-a-game.json) |
 | Unforgettable | 349986 | [349986-unforgettable.json](./349986-unforgettable.json) |
+| Unforgettable Paradise | 107049 | [107049-unforgettable-paradise.json](./107049-unforgettable-paradise.json) |
 | Unforgettable You | 147231 | [147231-unforgettable-you.json](./147231-unforgettable-you.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
