@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie's Retreat | 127634 | [127634-zombies-retreat.json](./127634-zombies-retreat.json) |
 | ZombieBoy | 137337 | [137337-zombieboy.json](./137337-zombieboy.json) |
 | ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
+| Zombiecraftt!!1 Sampler | 94160 | [94160-zombiecraftt-1-sampler.json](./94160-zombiecraftt-1-sampler.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
