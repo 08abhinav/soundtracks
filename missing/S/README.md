@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
+| Science Show VR: The Abyss | 128265 | [128265-science-show-vr-the-abyss.json](./128265-science-show-vr-the-abyss.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Science Skaters | 375423 | [375423-science-skaters.json](./375423-science-skaters.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Dreams Survivors | 335402 | [335402-sea-of-dreams-survivors.json](./335402-sea-of-dreams-survivors.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
+| Sea of Leaves | 128275 | [128275-sea-of-leaves.json](./128275-sea-of-leaves.json) |
 | Sea of Legends | 183803 | [183803-sea-of-legends.json](./183803-sea-of-legends.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
 | Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
+| Sector Assault | 128938 | [128938-sector-assault.json](./128938-sector-assault.json) |
 | Sector Beam | 327438 | [327438-sector-beam.json](./327438-sector-beam.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
@@ -4924,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardfall: FitQuest VR | 296226 | [296226-shardfall-fitquest-vr.json](./296226-shardfall-fitquest-vr.json) |
+| Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
@@ -8551,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
 | Slaughter 2: Prison Assault | 102856 | [102856-slaughter-2-prison-assault.json](./102856-slaughter-2-prison-assault.json) |
+| Slaughter 3: The Rebels | 128942 | [128942-slaughter-3-the-rebels.json](./128942-slaughter-3-the-rebels.json) |
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
@@ -8832,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle | 202007 | [202007-sliding-puzzle.json](./202007-sliding-puzzle.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
+| Sliding Puzzle Collection | 128278 | [128278-sliding-puzzle-collection.json](./128278-sliding-puzzle-collection.json) |
 | Sliding Puzzle Deluxe: The Classic | 226356 | [226356-sliding-puzzle-deluxe-the-classic.json](./226356-sliding-puzzle-deluxe-the-classic.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
@@ -10441,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
+| Sockventure | 128924 | [128924-sockventure.json](./128924-sockventure.json) |
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
@@ -11934,6 +11941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
+| Soona | 128923 | [128923-soona.json](./128923-soona.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
 | Soot | 198500 | [198500-soot.json](./198500-soot.json) |
@@ -13410,6 +13418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
 | Spacepowers | 86396 | [86396-spacepowers.json](./86396-spacepowers.json) |
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
+| Spacer Project | 128260 | [128260-spacer-project.json](./128260-spacer-project.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
@@ -14818,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
+| Spooky Spins: Remastered - Steam Edition | 128257 | [128257-spooky-spins-remastered-steam-edition.json](./128257-spooky-spins-remastered-steam-edition.json) |
 | Spooky Spirit Shooting Gallery | 227613 | [227613-spooky-spirit-shooting-gallery.json](./227613-spooky-spirit-shooting-gallery.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Starlets | 120692 | [120692-spooky-starlets.json](./120692-spooky-starlets.json) |
@@ -18667,6 +18677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
+| StressOut | 128926 | [128926-stressout.json](./128926-stressout.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Armstrong: The Breakout | 256871 | [256871-stretch-armstrong-the-breakout.json](./256871-stretch-armstrong-the-breakout.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
@@ -18782,6 +18793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Theory 2 | 101740 | [101740-string-theory-2.json](./101740-string-theory-2.json) |
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
+| Strings | 128297 | [128297-strings.json](./128297-strings.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
@@ -19131,6 +19143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: Hidden Depths | 141373 | [141373-submerged-hidden-depths.json](./141373-submerged-hidden-depths.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
+| Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
 | Submersed 2: The Hive | 290476 | [290476-submersed-2-the-hive.json](./290476-submersed-2-the-hive.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
@@ -22238,6 +22251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
+| Supermarket Simulator | 128917 | [128917-supermarket-simulator.json](./128917-supermarket-simulator.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
@@ -23264,6 +23278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing dungeon | 161326 | [161326-swing-dungeon.json](./161326-swing-dungeon.json) |
+| Swing Dunk | 128908 | [128908-swing-dunk.json](./128908-swing-dunk.json) |
 | Swing Fall | 246483 | [246483-swing-fall.json](./246483-swing-fall.json) |
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Fling | 317427 | [317427-swing-fling.json](./317427-swing-fling.json) |
