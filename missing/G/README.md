@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Spotlight Stories: Back to the Moon | 101384 | [101384-google-spotlight-stories-back-to-the-moon.json](./101384-google-spotlight-stories-back-to-the-moon.json) |
 | Google Spotlight Stories: On Ice | 103200 | [103200-google-spotlight-stories-on-ice.json](./103200-google-spotlight-stories-on-ice.json) |
 | Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
+| Google Spotlight Stories: Piggy | 103265 | [103265-google-spotlight-stories-piggy.json](./103265-google-spotlight-stories-piggy.json) |
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
@@ -7524,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball - Golden Pin Bowling | 88627 | [88627-gutterball-golden-pin-bowling.json](./88627-gutterball-golden-pin-bowling.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
+| Gutterball: Golden Pin Bowling HD | 103149 | [103149-gutterball-golden-pin-bowling-hd.json](./103149-gutterball-golden-pin-bowling-hd.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
 | Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
