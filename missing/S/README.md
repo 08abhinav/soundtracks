@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
+| Sengoku Asuka Zero | 104532 | [104532-sengoku-asuka-zero.json](./104532-sengoku-asuka-zero.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
@@ -9099,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip & Skid | 275082 | [275082-slip-and-skid.json](./275082-slip-and-skid.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
+| SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
@@ -9786,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
+| Snake World! | 104510 | [104510-snake-world.json](./104510-snake-world.json) |
 | Snake Xenzia | 133868 | [133868-snake-xenzia.json](./133868-snake-xenzia.json) |
 | Snake Xenzia | 133872 | [133872-snake-xenzia.json](./133872-snake-xenzia.json) |
 | Snake-A-Roid | 377840 | [377840-snake-a-roid.json](./377840-snake-a-roid.json) |
