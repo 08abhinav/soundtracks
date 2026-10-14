@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can Can Bunny Extra DX | 78570 | [78570-can-can-bunny-extra-dx.json](./78570-can-can-bunny-extra-dx.json) |
 | Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
 | Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
 | Can Can Bunny Superior | 108893 | [108893-can-can-bunny-superior.json](./108893-can-can-bunny-superior.json) |
