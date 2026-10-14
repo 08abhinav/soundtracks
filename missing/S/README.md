@@ -10305,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
+| Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
 | Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
@@ -14697,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Slider | 228616 | [228616-spirit-slider.json](./228616-spirit-slider.json) |
+| Spirit Solitaire | 90511 | [90511-spirit-solitaire.json](./90511-spirit-solitaire.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
@@ -15110,6 +15112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
+| Sports Car Test Driver: Monaco Trials | 90539 | [90539-sports-car-test-driver-monaco-trials.json](./90539-sports-car-test-driver-monaco-trials.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Card Shop Simulator | 389101 | [389101-sports-card-shop-simulator.json](./389101-sports-card-shop-simulator.json) |
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
@@ -20136,6 +20139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
+| Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
