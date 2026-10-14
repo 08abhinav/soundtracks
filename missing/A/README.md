@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
+| Aces Slots Riches of Olympus | 95321 | [95321-aces-slots-riches-of-olympus.json](./95321-aces-slots-riches-of-olympus.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
 | Aces Up: Easthaven Solitaire | 106745 | [106745-aces-up-easthaven-solitaire.json](./106745-aces-up-easthaven-solitaire.json) |
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
@@ -8474,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
+| Archer 2 | 95313 | [95313-archer-2.json](./95313-archer-2.json) |
 | Archer 3D: Bow Shooting Range | 295686 | [295686-archer-3d-bow-shooting-range.json](./295686-archer-3d-bow-shooting-range.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Defenders | 231982 | [231982-archer-defenders.json](./231982-archer-defenders.json) |
