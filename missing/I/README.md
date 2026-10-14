@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
+| Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
 | Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
@@ -3056,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectomania | 362737 | [362737-insectomania.json](./362737-insectomania.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
+| Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
