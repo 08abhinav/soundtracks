@@ -7590,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
 | Gym Class VR | 143458 | [143458-gym-class-vr.json](./143458-gym-class-vr.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
+| Gym Empire | 97267 | [97267-gym-empire.json](./97267-gym-empire.json) |
 | Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
@@ -7598,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
+| Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
