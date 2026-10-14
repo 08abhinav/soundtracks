@@ -3824,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krishna Legends | 130665 | [130665-krishna-legends.json](./130665-krishna-legends.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | Krispee Street | 187786 | [187786-krispee-street.json](./187786-krispee-street.json) |
+| Kriss Kross by Powgi | 91256 | [91256-kriss-kross-by-powgi.json](./91256-kriss-kross-by-powgi.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
