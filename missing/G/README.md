@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
+| Gamer Life | 127636 | [127636-gamer-life.json](./127636-gamer-life.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
 | Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
 | Gangsta Sniper | 112123 | [112123-gangsta-sniper.json](./112123-gangsta-sniper.json) |
+| Gangsta Sniper 3: Final Parody | 126903 | [126903-gangsta-sniper-3-final-parody.json](./126903-gangsta-sniper-3-final-parody.json) |
 | Gangsta Style | 369731 | [369731-gangsta-style.json](./369731-gangsta-style.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangsta Woman | 120860 | [120860-gangsta-woman.json](./120860-gangsta-woman.json) |
@@ -5773,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
 | Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
+| Gred | 126943 | [126943-gred.json](./126943-gred.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
@@ -6157,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
+| Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
@@ -7190,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
+| Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
@@ -7232,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
 | Gunpowder | 35117 | [35117-gunpowder.json](./35117-gunpowder.json) |
 | Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
+| Gunpowder on the Teeth 2 | 127670 | [127670-gunpowder-on-the-teeth-2.json](./127670-gunpowder-on-the-teeth-2.json) |
 | Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
 | Gunpowder Punk | 237299 | [237299-gunpowder-punk.json](./237299-gunpowder-punk.json) |
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
