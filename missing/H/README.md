@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humanolve: A Human Evolution Card Saga | 303562 | [303562-humanolve-a-human-evolution-card-saga.json](./303562-humanolve-a-human-evolution-card-saga.json) |
 | Humans & Vampires | 261708 | [261708-humans-and-vampires.json](./261708-humans-and-vampires.json) |
+| Humans 1 and 2 | 92922 | [92922-humans-1-and-2.json](./92922-humans-1-and-2.json) |
 | Humans 101 | 121405 | [121405-humans-101.json](./121405-humans-101.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
