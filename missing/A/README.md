@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step Forward | 190922 | [190922-a-step-forward.json](./190922-a-step-forward.json) |
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
+| A Stickman Reality | 110089 | [110089-a-stickman-reality.json](./110089-a-stickman-reality.json) |
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
@@ -9567,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgaldh: The Distortion Testament | 70042 | [70042-asgaldh-the-distortion-testament.json](./70042-asgaldh-the-distortion-testament.json) |
 | Asgard | 187282 | [187282-asgard.json](./187282-asgard.json) |
+| Asgard Rift: Battle Arena | 110210 | [110210-asgard-rift-battle-arena.json](./110210-asgard-rift-battle-arena.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asgard’s Wrath II | 251569 | [251569-asgard-s-wrath-ii.json](./251569-asgard-s-wrath-ii.json) |
