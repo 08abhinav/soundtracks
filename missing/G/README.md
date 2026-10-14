@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Blitz | 22560 | [22560-galactic-blitz.json](./22560-galactic-blitz.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Breakout | 276264 | [276264-galactic-breakout.json](./276264-galactic-breakout.json) |
+| Galactic Campaign | 116878 | [116878-galactic-campaign.json](./116878-galactic-campaign.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
 | Galaxy Mania | 309029 | [309029-galaxy-mania.json](./309029-galaxy-mania.json) |
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
+| Galaxy Monster | 116890 | [116890-galaxy-monster.json](./116890-galaxy-monster.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Drones | 54495 | [54495-galaxy-of-drones.json](./54495-galaxy-of-drones.json) |
 | Galaxy of Games Platinum Edition | 205916 | [205916-galaxy-of-games-platinum-edition.json](./205916-galaxy-of-games-platinum-edition.json) |
@@ -823,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game Doraemon: Nobita to Kiseki no Shima | 62554 | [62554-game-doraemon-nobita-to-kiseki-no-shima.json](./62554-game-doraemon-nobita-to-kiseki-no-shima.json) |
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
+| Game e-Ninja Neptunia | 116803 | [116803-game-e-ninja-neptunia.json](./116803-game-e-ninja-neptunia.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
