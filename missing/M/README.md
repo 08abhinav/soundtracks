@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiGhostDeadline | 146630 | [146630-magighostdeadline.json](./146630-magighostdeadline.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
 | Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
+| Magikiras | 88127 | [88127-magikiras.json](./88127-magikiras.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
 | Magimon Adventures | 243095 | [243095-magimon-adventures.json](./243095-magimon-adventures.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
@@ -13728,6 +13729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
+| My Koi | 88110 | [88110-my-koi.json](./88110-my-koi.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
