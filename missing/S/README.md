@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
+| Scenery Collection: Set B | 85978 | [85978-scenery-collection-set-b.json](./85978-scenery-collection-set-b.json) |
 | Scenery Disk 1 | 100076 | [100076-scenery-disk-1.json](./100076-scenery-disk-1.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
 | Scooby-Doo | 198881 | [198881-scooby-doo.json](./198881-scooby-doo.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
+| Scooby-Doo | 85996 | [85996-scooby-doo.json](./85996-scooby-doo.json) |
 | Scooby-Doo 2: Monsters Unleashed | 27602 | [27602-scooby-doo-2-monsters-unleashed.json](./27602-scooby-doo-2-monsters-unleashed.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and a Mummy, Too! | 242031 | [242031-scooby-doo-and-a-mummy-too.json](./242031-scooby-doo-and-a-mummy-too.json) |
@@ -8656,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Quest! | 171982 | [171982-slash-quest.json](./171982-slash-quest.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
+| Slash'EM | 85960 | [85960-slashem.json](./85960-slashem.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slash/Dots. | 55653 | [55653-slash-dots.json](./55653-slash-dots.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
@@ -14895,6 +14898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
+| Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
@@ -16565,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
+| Starball | 85988 | [85988-starball.json](./85988-starball.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
@@ -23194,6 +23199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
+| Sven Osterpaket | 85982 | [85982-sven-osterpaket.json](./85982-sven-osterpaket.json) |
 | Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
