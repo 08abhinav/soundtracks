@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
 | Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
+| Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
 | Math Blazer | 92643 | [92643-math-blazer.json](./92643-math-blazer.json) |
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memrrtiks, Suashem | 358789 | [358789-memrrtiks-suashem.json](./358789-memrrtiks-suashem.json) |
 | Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
+| Men Busters | 129469 | [129469-men-busters.json](./129469-men-busters.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men In Black | 342604 | [342604-men-in-black.json](./342604-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
@@ -8045,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
+| Minecraft: China Edition | 129496 | [129496-minecraft-china-edition.json](./129496-minecraft-china-edition.json) |
 | Minecraft: Chinese Mythology Mash-up | 234679 | [234679-minecraft-chinese-mythology-mash-up.json](./234679-minecraft-chinese-mythology-mash-up.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
@@ -8097,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Operation Aorta | 324882 | [324882-minecraft-operation-aorta.json](./324882-minecraft-operation-aorta.json) |
 | Minecraft: Owls Add-On | 370764 | [370764-minecraft-owls-add-on.json](./370764-minecraft-owls-add-on.json) |
 | Minecraft: Phantom Frames | 324890 | [324890-minecraft-phantom-frames.json](./324890-minecraft-phantom-frames.json) |
+| Minecraft: Pi Edition | 129495 | [129495-minecraft-pi-edition.json](./129495-minecraft-pi-edition.json) |
 | Minecraft: Pirates of the Caribbean Mash-up | 235328 | [235328-minecraft-pirates-of-the-caribbean-mash-up.json](./235328-minecraft-pirates-of-the-caribbean-mash-up.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
 | Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
@@ -8341,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Master | 67656 | [67656-mini-golf-master.json](./67656-mini-golf-master.json) |
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
+| Mini Golf Mayhem | 129500 | [129500-mini-golf-mayhem.json](./129500-mini-golf-mayhem.json) |
 | Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
 | Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
@@ -12469,6 +12474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
+| Muldulamulom | 129502 | [129502-muldulamulom.json](./129502-muldulamulom.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
@@ -13110,6 +13116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
+| My Amazing Human Body | 129506 | [129506-my-amazing-human-body.json](./129506-my-amazing-human-body.json) |
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
 | My Amusement Park | 230438 | [230438-my-amusement-park.json](./230438-my-amusement-park.json) |
 | My Amusement Park | 47929 | [47929-my-amusement-park.json](./47929-my-amusement-park.json) |
