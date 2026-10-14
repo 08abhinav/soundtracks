@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
@@ -3113,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
+| DeathTolls Experience | 96660 | [96660-deathtolls-experience.json](./96660-deathtolls-experience.json) |
 | Deathtouch | 356559 | [356559-deathtouch.json](./356559-deathtouch.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
@@ -8503,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
 | Doodle Jump 2 | 186583 | [186583-doodle-jump-2.json](./186583-doodle-jump-2.json) |
 | Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
+| Doodle Jump Easter Special | 96605 | [96605-doodle-jump-easter-special.json](./96605-doodle-jump-easter-special.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
@@ -8872,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
+| Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
@@ -8929,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
+| Dot. | 96618 | [96618-dot.json](./96618-dot.json) |
 | Dot's Home | 172440 | [172440-dots-home.json](./172440-dots-home.json) |
 | Dota | 233022 | [233022-dota.json](./233022-dota.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
@@ -12282,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
 | Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
+| Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
