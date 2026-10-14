@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
+| Rem Survival | 102077 | [102077-rem-survival.json](./102077-rem-survival.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
+| Resident Evil 7: Biohazard - Cloud | 102075 | [102075-resident-evil-7-biohazard-cloud.json](./102075-resident-evil-7-biohazard-cloud.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
 | Resident Evil 7: Biohazard - Steelbook Edition | 41857 | [41857-resident-evil-7-biohazard-steelbook-edition.json](./41857-resident-evil-7-biohazard-steelbook-edition.json) |
@@ -6643,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
 | Rogue Knight: Infested Lands | 193684 | [193684-rogue-knight-infested-lands.json](./193684-rogue-knight-infested-lands.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
+| Rogue Legend: Tame the Wild | 102048 | [102048-rogue-legend-tame-the-wild.json](./102048-rogue-legend-tame-the-wild.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
@@ -7512,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roundball: 2 on 2 Challenge | 48203 | [48203-roundball-2-on-2-challenge.json](./48203-roundball-2-on-2-challenge.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
+| Rounded Strategy | 102042 | [102042-rounded-strategy.json](./102042-rounded-strategy.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
 | Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
