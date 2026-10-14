@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
+| Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
+| Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
@@ -7146,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
 | CMD 2048 | 107791 | [107791-cmd-2048.json](./107791-cmd-2048.json) |
 | Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
+| CMT Presents: Karaoke Revolution Country | 81142 | [81142-cmt-presents-karaoke-revolution-country.json](./81142-cmt-presents-karaoke-revolution-country.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
@@ -10025,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
+| Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
@@ -12707,6 +12711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubia | 139711 | [139711-cubia.json](./139711-cubia.json) |
 | Cubians : Combine | 114243 | [114243-cubians-combine.json](./114243-cubians-combine.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
+| Cubians: Rescue Princess | 81140 | [81140-cubians-rescue-princess.json](./81140-cubians-rescue-princess.json) |
 | Cubic | 68581 | [68581-cubic.json](./68581-cubic.json) |
 | Cubic 2 3 4 Player Games | 331902 | [331902-cubic-2-3-4-player-games.json](./331902-cubic-2-3-4-player-games.json) |
 | Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
