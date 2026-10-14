@@ -3281,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
+| Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
