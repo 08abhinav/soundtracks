@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
+| (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Seconds or Less | 59652 | [59652-10-seconds-or-less.json](./59652-10-seconds-or-less.json) |
 | 10 Sectors | 260793 | [260793-10-sectors.json](./260793-10-sectors.json) |
 | 10 Solo | 175258 | [175258-10-solo.json](./175258-10-solo.json) |
+| 10 Spiele-Hits Vol. 1 | 131290 | [131290-10-spiele-hits-vol-1.json](./131290-10-spiele-hits-vol-1.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10 Things You Can Be | 379985 | [379985-10-things-you-can-be.json](./379985-10-things-you-can-be.json) |
 | 10 Ways From Sunday | 165500 | [165500-10-ways-from-sunday.json](./165500-10-ways-from-sunday.json) |
@@ -1337,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 307 Racing | 367763 | [367763-307-racing.json](./367763-307-racing.json) |
 | 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
+| 30km survival zone: Chernobyl | 131272 | [131272-30km-survival-zone-chernobyl.json](./131272-30km-survival-zone-chernobyl.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
@@ -1750,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
+| 5 Plus One: Pack 4 | 131287 | [131287-5-plus-one-pack-4.json](./131287-5-plus-one-pack-4.json) |
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
