@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
+| VireFit | 116171 | [116171-virefit.json](./116171-virefit.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgo and the Sparklings Game | 249662 | [249662-virgo-and-the-sparklings-game.json](./249662-virgo-and-the-sparklings-game.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
