@@ -4895,7 +4895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinPin BallBall | 111605 | [111605-pinpin-ballball.json](./111605-pinpin-ballball.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
-| Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
 | Pinta's Quest | 227748 | [227748-pintas-quest.json](./227748-pintas-quest.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
