@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
 | CD-Man | 215186 | [215186-cd-man.json](./215186-cd-man.json) |
+| CD-Man Version 2.0 | 98917 | [98917-cd-man-version-2-0.json](./98917-cd-man-version-2-0.json) |
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
@@ -7851,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
+| Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
@@ -11084,6 +11086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
+| Crazy Test! | 98880 | [98880-crazy-test.json](./98880-crazy-test.json) |
 | Crazy Tetris | 94934 | [94934-crazy-tetris.json](./94934-crazy-tetris.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Toad | 379703 | [379703-crazy-toad.json](./379703-crazy-toad.json) |
