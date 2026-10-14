@@ -8378,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
+| Pop'n Emojis | 107039 | [107039-popn-emojis.json](./107039-popn-emojis.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
@@ -9801,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape Simulator | 392868 | [392868-prison-escape-simulator.json](./392868-prison-escape-simulator.json) |
 | Prison Escape Simulator 2026 | 411738 | [411738-prison-escape-simulator-2026.json](./411738-prison-escape-simulator-2026.json) |
 | Prison Escape Simulator: Breakout Master | 311056 | [311056-prison-escape-simulator-breakout-master.json](./311056-prison-escape-simulator-breakout-master.json) |
+| Prison Escapists | 107045 | [107045-prison-escapists.json](./107045-prison-escapists.json) |
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
@@ -12042,6 +12044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Detective | 209370 | [209370-puzzle-detective.json](./209370-puzzle-detective.json) |
+| Puzzle Dozer | 107051 | [107051-puzzle-dozer.json](./107051-puzzle-dozer.json) |
 | Puzzle Drop Carnival | 310616 | [310616-puzzle-drop-carnival.json](./310616-puzzle-drop-carnival.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Dungeon!!: Earthmage Erin | 308334 | [308334-puzzle-dungeon-earthmage-erin.json](./308334-puzzle-dungeon-earthmage-erin.json) |
@@ -12284,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
+| PuzzleTiles | 106953 | [106953-puzzletiles.json](./106953-puzzletiles.json) |
 | Puzzletown Mysteries | 338343 | [338343-puzzletown-mysteries.json](./338343-puzzletown-mysteries.json) |
 | Puzzletronics | 165592 | [165592-puzzletronics.json](./165592-puzzletronics.json) |
 | Puzzletronics Analog Eletronics | 163536 | [163536-puzzletronics-analog-eletronics.json](./163536-puzzletronics-analog-eletronics.json) |
