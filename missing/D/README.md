@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
+| Delicious: Emily's Tea Garden | 102692 | [102692-delicious-emilys-tea-garden.json](./102692-delicious-emilys-tea-garden.json) |
 | Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
@@ -4929,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Gunners | 175673 | [175673-destroy-gunners.json](./175673-destroy-gunners.json) |
 | Destroy It | 156877 | [156877-destroy-it.json](./156877-destroy-it.json) |
 | Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
+| Destroy Neighbor House | 102668 | [102668-destroy-neighbor-house.json](./102668-destroy-neighbor-house.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
@@ -10355,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream City Apocalypse | 381945 | [381945-dream-city-apocalypse.json](./381945-dream-city-apocalypse.json) |
 | Dream City Fugitive | 381947 | [381947-dream-city-fugitive.json](./381947-dream-city-fugitive.json) |
 | Dream City Life | 140303 | [140303-dream-city-life.json](./140303-dream-city-life.json) |
+| Dream City Life: Urban Survival Edition | 102688 | [102688-dream-city-life-urban-survival-edition.json](./102688-dream-city-life-urban-survival-edition.json) |
 | Dream City Office | 381942 | [381942-dream-city-office.json](./381942-dream-city-office.json) |
 | Dream City Profitist | 381943 | [381943-dream-city-profitist.json](./381943-dream-city-profitist.json) |
 | Dream City Psyche | 381948 | [381948-dream-city-psyche.json](./381948-dream-city-psyche.json) |
