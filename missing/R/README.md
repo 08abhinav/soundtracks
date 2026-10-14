@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race to Mars | 16737 | [16737-race-to-mars.json](./16737-race-to-mars.json) |
 | Race to Sanity | 150746 | [150746-race-to-sanity.json](./150746-race-to-sanity.json) |
+| Race to the Line | 85362 | [85362-race-to-the-line.json](./85362-race-to-the-line.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race With Ryan | 122042 | [122042-race-with-ryan.json](./122042-race-with-ryan.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
+| Radiant Flux: Hyperfractal | 85361 | [85361-radiant-flux-hyperfractal.json](./85361-radiant-flux-hyperfractal.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
 | Radiant Melodia | 86582 | [86582-radiant-melodia.json](./86582-radiant-melodia.json) |
@@ -1006,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
+| Rakoo & Friends | 85360 | [85360-rakoo-and-friends.json](./85360-rakoo-and-friends.json) |
 | Rakoo's Adventure | 25164 | [25164-rakoos-adventure.json](./25164-rakoos-adventure.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
@@ -2011,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
+| Real Steel Mobile | 84110 | [84110-real-steel-mobile.json](./84110-real-steel-mobile.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
@@ -5307,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Triad | 2381 | [2381-rise-of-the-triad.json](./2381-rise-of-the-triad.json) |
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
+| Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
@@ -6411,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
+| Rockman Complete Works: Rockman | 84124 | [84124-rockman-complete-works-rockman.json](./84124-rockman-complete-works-rockman.json) |
 | Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
