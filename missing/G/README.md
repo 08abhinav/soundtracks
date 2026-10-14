@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
+| Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
@@ -5116,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
+| Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
