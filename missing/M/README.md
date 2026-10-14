@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
 | Metits Magic 3: The Revenge of Luli | 341453 | [341453-metits-magic-3-the-revenge-of-luli.json](./341453-metits-magic-3-the-revenge-of-luli.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
+| Metrail | 125108 | [125108-metrail.json](./125108-metrail.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
