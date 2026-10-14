@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 19448 | [19448-echo.json](./19448-echo.json) |
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
+| Echo | 84104 | [84104-echo.json](./84104-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
 | EVE Aether Wars - Tech Demo | 126344 | [126344-eve-aether-wars-tech-demo.json](./126344-eve-aether-wars-tech-demo.json) |
+| EVE burst error | 84143 | [84143-eve-burst-error.json](./84143-eve-burst-error.json) |
 | Eve Burst Error Plus | 73525 | [73525-eve-burst-error-plus.json](./73525-eve-burst-error-plus.json) |
 | Eve Frontier | 323164 | [323164-eve-frontier.json](./323164-eve-frontier.json) |
 | EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
