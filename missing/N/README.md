@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northend Tower Defense | 159733 | [159733-northend-tower-defense.json](./159733-northend-tower-defense.json) |
+| Northern Battle | 124546 | [124546-northern-battle.json](./124546-northern-battle.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
