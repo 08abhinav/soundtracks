@@ -6674,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
 | Lured | 245753 | [245753-lured.json](./245753-lured.json) |
+| Lurk | 89821 | [89821-lurk.json](./89821-lurk.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
