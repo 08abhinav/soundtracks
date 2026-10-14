@@ -7282,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
+| Codename Ghost Hunt | 107716 | [107716-codename-ghost-hunt.json](./107716-codename-ghost-hunt.json) |
 | Codename Jin Yiwei | 247379 | [247379-codename-jin-yiwei.json](./247379-codename-jin-yiwei.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
@@ -12352,6 +12353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS-VR | 371401 | [371401-cs-vr.json](./371401-cs-vr.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
+| CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Dark Motives | 7632 | [7632-csi-dark-motives.json](./7632-csi-dark-motives.json) |
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
@@ -13505,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
+| CyberRebeat -The Fifth Domain of Warfare- | 107714 | [107714-cyberrebeat-the-fifth-domain-of-warfare.json](./107714-cyberrebeat-the-fifth-domain-of-warfare.json) |
 | CyberRhapsody | 345000 | [345000-cyberrhapsody.json](./345000-cyberrhapsody.json) |
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
@@ -13580,6 +13583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybrix | 261213 | [261213-cybrix.json](./261213-cybrix.json) |
 | Cybrlich and the Death Cult of Labor | 327800 | [327800-cybrlich-and-the-death-cult-of-labor.json](./327800-cybrlich-and-the-death-cult-of-labor.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
+| Cybrus | 107610 | [107610-cybrus.json](./107610-cybrus.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
