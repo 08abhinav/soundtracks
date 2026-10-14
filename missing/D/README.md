@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
+| Dangerous Games: Illusionist - Collector's Edition | 81078 | [81078-dangerous-games-illusionist-collectors-edition.json](./81078-dangerous-games-illusionist-collectors-edition.json) |
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Canvas: A Murder Exposed | 139757 | [139757-dark-canvas-a-murder-exposed.json](./139757-dark-canvas-a-murder-exposed.json) |
 | Dark Canvas: A Murder Exposed - Collector's Edition | 95240 | [95240-dark-canvas-a-murder-exposed-collectors-edition.json](./95240-dark-canvas-a-murder-exposed-collectors-edition.json) |
 | Dark Canvas: Blood and Stone | 139758 | [139758-dark-canvas-blood-and-stone.json](./139758-dark-canvas-blood-and-stone.json) |
+| Dark Canvas: Blood and Stone - Collector's Edition | 81077 | [81077-dark-canvas-blood-and-stone-collectors-edition.json](./81077-dark-canvas-blood-and-stone-collectors-edition.json) |
 | Dark Card | 297557 | [297557-dark-card.json](./297557-dark-card.json) |
 | Dark Cards | 149492 | [149492-dark-cards.json](./149492-dark-cards.json) |
 | Dark Cases: The Blood Ruby | 139759 | [139759-dark-cases-the-blood-ruby.json](./139759-dark-cases-the-blood-ruby.json) |
@@ -1132,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
+| Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
@@ -1285,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
+| Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
@@ -3222,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
+| Deck Casters | 81111 | [81111-deck-casters.json](./81111-deck-casters.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
 | Deck Dash | 311725 | [311725-deck-dash.json](./311725-deck-dash.json) |
@@ -7998,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
+| Domino | 81081 | [81081-domino.json](./81081-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
 | Domino Craft VR | 30071 | [30071-domino-craft-vr.json](./30071-domino-craft-vr.json) |
