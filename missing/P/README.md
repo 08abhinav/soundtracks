@@ -9354,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
+| Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
@@ -11269,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Harrier | 327465 | [327465-psycho-harrier.json](./327465-psycho-harrier.json) |
+| Psycho Hopper | 83405 | [83405-psycho-hopper.json](./83405-psycho-hopper.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
 | Psycho Killer | 74033 | [74033-psycho-killer.json](./74033-psycho-killer.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
@@ -12297,8 +12299,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
 | Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
 | Puzzle Series Vol. 1: Sudoku | 268387 | [268387-puzzle-series-vol-1-sudoku.json](./268387-puzzle-series-vol-1-sudoku.json) |
+| Puzzle Series Vol. 10: Hitori ni Shite Kure | 83410 | [83410-puzzle-series-vol-10-hitori-ni-shite-kure.json](./83410-puzzle-series-vol-10-hitori-ni-shite-kure.json) |
+| Puzzle Series Vol. 11: Nurikabe | 83412 | [83412-puzzle-series-vol-11-nurikabe.json](./83412-puzzle-series-vol-11-nurikabe.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
+| Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
+| Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
