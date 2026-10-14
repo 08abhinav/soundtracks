@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
+| Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
 | Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
+| Block Fall Simulator 2019 | 123887 | [123887-block-fall-simulator-2019.json](./123887-block-fall-simulator-2019.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
 | Block Flying | 247077 | [247077-block-flying.json](./247077-block-flying.json) |
@@ -9161,6 +9163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
 | Bow Hunter | 374761 | [374761-bow-hunter.json](./374761-bow-hunter.json) |
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
+| Bow Man | 123922 | [123922-bow-man.json](./123922-bow-man.json) |
 | Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
