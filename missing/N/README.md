@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
+| Never Stop | 102053 | [102053-never-stop.json](./102053-never-stop.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
