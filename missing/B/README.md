@@ -6502,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle - Character Pack Vol. 7: Heart/NaotoKurogane/Teddie/Seth | 165995 | [165995-blazblue-cross-tag-battle-character-pack-vol-7-heart-naotokurogane-teddie-seth.json](./165995-blazblue-cross-tag-battle-character-pack-vol-7-heart-naotokurogane-teddie-seth.json) |
 | BlazBlue: Cross Tag Battle - Character: Blake | 165999 | [165999-blazblue-cross-tag-battle-character-blake.json](./165999-blazblue-cross-tag-battle-character-blake.json) |
 | BlazBlue: Cross Tag Battle - Character: Yang | 165998 | [165998-blazblue-cross-tag-battle-character-yang.json](./165998-blazblue-cross-tag-battle-character-yang.json) |
+| BlazBlue: Cross Tag Battle - Deluxe Edition | 118680 | [118680-blazblue-cross-tag-battle-deluxe-edition.json](./118680-blazblue-cross-tag-battle-deluxe-edition.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
@@ -9338,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
 | Boxhead: Immortal | 291083 | [291083-boxhead-immortal.json](./291083-boxhead-immortal.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
+| Boxing | 118720 | [118720-boxing.json](./118720-boxing.json) |
 | Boxing | 145238 | [145238-boxing.json](./145238-boxing.json) |
 | Boxing | 230841 | [230841-boxing.json](./230841-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
