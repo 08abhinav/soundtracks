@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
 | Ice Cream Disaster | 208007 | [208007-ice-cream-disaster.json](./208007-ice-cream-disaster.json) |
 | Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
+| Ice Cream Factory | 86755 | [86755-ice-cream-factory.json](./86755-ice-cream-factory.json) |
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
