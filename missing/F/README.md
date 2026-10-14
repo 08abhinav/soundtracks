@@ -6468,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
+| Forests Are For Trees | 107021 | [107021-forests-are-for-trees.json](./107021-forests-are-for-trees.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
