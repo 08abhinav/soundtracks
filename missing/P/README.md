@@ -4092,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
 | Picross Beach Paradise | 149361 | [149361-picross-beach-paradise.json](./149361-picross-beach-paradise.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
+| Picross Beach Season 2 | 90496 | [90496-picross-beach-season-2.json](./90496-picross-beach-season-2.json) |
 | Picross Bonbon Nonograms | 105156 | [105156-picross-bonbon-nonograms.json](./105156-picross-bonbon-nonograms.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
