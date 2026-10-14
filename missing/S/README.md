@@ -3349,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
+| Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1 | 43454 | [43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json](./43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
+| Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
@@ -10746,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
+| SojournVR | 74259 | [74259-sojournvr.json](./74259-sojournvr.json) |
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
@@ -12268,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
+| Sore | 74211 | [74211-sore.json](./74211-sore.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
 | Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
@@ -13081,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
+| Space Geekz: The Crunchy Flakes Conspiracy | 74258 | [74258-space-geekz-the-crunchy-flakes-conspiracy.json](./74258-space-geekz-the-crunchy-flakes-conspiracy.json) |
 | Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
 | Space Girl Salon | 101001 | [101001-space-girl-salon.json](./101001-space-girl-salon.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
@@ -14902,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
+| Splat the Blob | 74214 | [74214-splat-the-blob.json](./74214-splat-the-blob.json) |
 | Splat! | 178344 | [178344-splat.json](./178344-splat.json) |
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
@@ -17317,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
 | Station Haven 3 | 331942 | [331942-station-haven-3.json](./331942-station-haven-3.json) |
 | Station Inc | 310502 | [310502-station-inc.json](./310502-station-inc.json) |
+| Station Manager | 74280 | [74280-station-manager.json](./74280-station-manager.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Master RPG | 363319 | [363319-station-master-rpg.json](./363319-station-master-rpg.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
@@ -18222,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
+| Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
@@ -18477,6 +18485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
+| StrainZ-1: Elimination | 74246 | [74246-strainz-1-elimination.json](./74246-strainz-1-elimination.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
 | Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
@@ -19226,6 +19235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold 2 | 9460 | [9460-stronghold-2.json](./9460-stronghold-2.json) |
+| Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
@@ -24197,6 +24207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
 | Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
+| Syndrome VR | 74263 | [74263-syndrome-vr.json](./74263-syndrome-vr.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
