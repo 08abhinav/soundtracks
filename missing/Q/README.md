@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
+| Quizzummah | 104559 | [104559-quizzummah.json](./104559-quizzummah.json) |
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Qumino | 381924 | [381924-qumino.json](./381924-qumino.json) |
