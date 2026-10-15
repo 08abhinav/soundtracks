@@ -2459,10 +2459,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
+| Kinnikuman Muscle Grand Prix Max 2: Tokumori | 65999 | [65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
 | Kinnikuman Nisei: Choujin Seisenshi | 37366 | [37366-kinnikuman-nisei-choujin-seisenshi.json](./37366-kinnikuman-nisei-choujin-seisenshi.json) |
 | Kinnikuman Nisei: Dream Tag Match | 37365 | [37365-kinnikuman-nisei-dream-tag-match.json](./37365-kinnikuman-nisei-dream-tag-match.json) |
 | Kinnikuman: Colosseum Deathmatch | 71803 | [71803-kinnikuman-colosseum-deathmatch.json](./71803-kinnikuman-colosseum-deathmatch.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
+| Kinnikuman: Muscle Generations | 65998 | [65998-kinnikuman-muscle-generations.json](./65998-kinnikuman-muscle-generations.json) |
 | Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
