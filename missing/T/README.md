@@ -21234,7 +21234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
-| Tribes of Midgard | 120619 | [120619-tribes-of-midgard.json](./120619-tribes-of-midgard.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Ascend | 9506 | [9506-tribes-ascend.json](./9506-tribes-ascend.json) |
