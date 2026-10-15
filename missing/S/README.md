@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
+| Sable Maze: Norwich Caves | 22111 | [22111-sable-maze-norwich-caves.json](./22111-sable-maze-norwich-caves.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
 | Sable Maze: Sinister Knowledge | 187921 | [187921-sable-maze-sinister-knowledge.json](./187921-sable-maze-sinister-knowledge.json) |
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
+| Save the Titanic | 22106 | [22106-save-the-titanic.json](./22106-save-the-titanic.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
 | Save the Universe, Please! | 32129 | [32129-save-the-universe-please.json](./32129-save-the-universe-please.json) |
 | Save the Vampire | 212508 | [212508-save-the-vampire.json](./212508-save-the-vampire.json) |
@@ -2784,9 +2786,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Beneath the Surface | 91240 | [91240-sea-of-lies-beneath-the-surface.json](./91240-sea-of-lies-beneath-the-surface.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
+| Sea of Lies: Leviathan Reef | 22109 | [22109-sea-of-lies-leviathan-reef.json](./22109-sea-of-lies-leviathan-reef.json) |
 | Sea of Lies: Mutiny of the Heart | 139729 | [139729-sea-of-lies-mutiny-of-the-heart.json](./139729-sea-of-lies-mutiny-of-the-heart.json) |
 | Sea of Lies: Mutiny of the Heart - Collector's Edition | 30678 | [30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json](./30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json) |
 | Sea of Lies: Nemesis | 139730 | [139730-sea-of-lies-nemesis.json](./139730-sea-of-lies-nemesis.json) |
+| Sea of Lies: Nemesis - Collector's Edition | 22081 | [22081-sea-of-lies-nemesis-collectors-edition.json](./22081-sea-of-lies-nemesis-collectors-edition.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
@@ -8077,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
 | Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
+| Sixth Sense Investigations | 22026 | [22026-sixth-sense-investigations.json](./22026-sixth-sense-investigations.json) |
 | Sixth Sun | 297365 | [297365-sixth-sun.json](./297365-sixth-sun.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
@@ -20041,6 +20046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
