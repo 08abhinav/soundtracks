@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
+| Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
 | Katamari Forever | 6459 | [6459-katamari-forever.json](./6459-katamari-forever.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
 | Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
 | Katawa Crash | 251077 | [251077-katawa-crash.json](./251077-katawa-crash.json) |
 | Katawa Shoujo | 310603 | [310603-katawa-shoujo.json](./310603-katawa-shoujo.json) |
+| Katawa Shoujo | 9648 | [9648-katawa-shoujo.json](./9648-katawa-shoujo.json) |
 | KatchFoundry | 397209 | [397209-katchfoundry.json](./397209-katchfoundry.json) |
 | Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
@@ -1249,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
+| Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Kenyuu Densetsu Yaiba | 282499 | [282499-kenyuu-densetsu-yaiba.json](./282499-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
@@ -1873,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
+| Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
