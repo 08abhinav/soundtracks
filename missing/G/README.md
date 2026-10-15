@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Todo Ryuunosuke Tantei Nikki vol.1 - Kohakuiro no Igon: Seiyou Karuta Renzoku Satsujin Jiken | 251475 | [251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json](./251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
+| G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galax.io | 125916 | [125916-galax-io.json](./125916-galax-io.json) |
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
+| Galaxi Barkonid | 66561 | [66561-galaxi-barkonid.json](./66561-galaxi-barkonid.json) |
 | Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
@@ -6592,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
+| Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
 | Ground-Unbound | 175793 | [175793-ground-unbound.json](./175793-ground-unbound.json) |
@@ -7271,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
+| Gundam Battle Chronicle | 66596 | [66596-gundam-battle-chronicle.json](./66596-gundam-battle-chronicle.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
 | Gundam Battle Universe | 72752 | [72752-gundam-battle-universe.json](./72752-gundam-battle-universe.json) |
