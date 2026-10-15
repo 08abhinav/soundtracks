@@ -5094,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
+| FlatFatCat | 54333 | [54333-flatfatcat.json](./54333-flatfatcat.json) |
 | Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flatland: Fallen Angle | 5609 | [5609-flatland-fallen-angle.json](./5609-flatland-fallen-angle.json) |
