@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
+| Radical Radial | 40088 | [40088-radical-radial.json](./40088-radical-radial.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
+| Regulus | 40071 | [40071-regulus.json](./40071-regulus.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
 | Rehab Friday: With Henry Huxley | 366625 | [366625-rehab-friday-with-henry-huxley.json](./366625-rehab-friday-with-henry-huxley.json) |
@@ -4198,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
+| Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Ninja | 49858 | [49858-return-of-the-ninja.json](./49858-return-of-the-ninja.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
@@ -7069,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
+| RollerGames | 40076 | [40076-rollergames.json](./40076-rollergames.json) |
 | Rollerpede | 108809 | [108809-rollerpede.json](./108809-rollerpede.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
@@ -7284,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
+| Rompers | 40070 | [40070-rompers.json](./40070-rompers.json) |
 | Romut | 415471 | [415471-romut.json](./415471-romut.json) |
 | Romy & Max and the Hidden Rainforest | 410838 | [410838-romy-and-max-and-the-hidden-rainforest.json](./410838-romy-and-max-and-the-hidden-rainforest.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
