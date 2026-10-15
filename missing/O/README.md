@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
+| Oberon | 50359 | [50359-oberon.json](./50359-oberon.json) |
 | Oberon's Wake | 394798 | [394798-oberons-wake.json](./394798-oberons-wake.json) |
 | Oberty | 259042 | [259042-oberty.json](./259042-oberty.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
