@@ -2379,6 +2379,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Odyssey 3D CD-ROM | 206093 | [206093-adventures-in-odyssey-3d-cd-rom.json](./206093-adventures-in-odyssey-3d-cd-rom.json) |
+| Adventures in Odyssey and the Great Escape | 66067 | [66067-adventures-in-odyssey-and-the-great-escape.json](./66067-adventures-in-odyssey-and-the-great-escape.json) |
+| Adventures in Odyssey! Answer That! | 66070 | [66070-adventures-in-odyssey-answer-that.json](./66070-adventures-in-odyssey-answer-that.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
@@ -2667,6 +2669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
+| AFL Premiership Coach 2010 | 66019 | [66019-afl-premiership-coach-2010.json](./66019-afl-premiership-coach-2010.json) |
+| AFL Premiership Coach 2011 | 66018 | [66018-afl-premiership-coach-2011.json](./66018-afl-premiership-coach-2011.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of God | 390697 | [390697-afraid-of-god.json](./390697-afraid-of-god.json) |
@@ -7795,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
+| Aqua Adventure: Blue Lilty | 65996 | [65996-aqua-adventure-blue-lilty.json](./65996-aqua-adventure-blue-lilty.json) |
 | Aqua Aqua | 43549 | [43549-aqua-aqua.json](./43549-aqua-aqua.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
 | Aqua Energizer | 197666 | [197666-aqua-energizer.json](./197666-aqua-energizer.json) |
@@ -8006,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc | 182772 | [182772-arc.json](./182772-arc.json) |
 | Arc Apellago | 158411 | [158411-arc-apellago.json](./158411-arc-apellago.json) |
 | Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
+| Arc Arena: Monster Tournament | 66015 | [66015-arc-arena-monster-tournament.json](./66015-arc-arena-monster-tournament.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Doors | 281344 | [281344-arc-doors.json](./281344-arc-doors.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
@@ -11672,6 +11678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
+| Avatar Adventurers Online | 66017 | [66017-avatar-adventurers-online.json](./66017-avatar-adventurers-online.json) |
 | Avatar Alarm Clock | 92428 | [92428-avatar-alarm-clock.json](./92428-avatar-alarm-clock.json) |
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
