@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can you escape prison: Portal PRO | 99703 | [99703-can-you-escape-prison-portal-pro.json](./99703-can-you-escape-prison-portal-pro.json) |
 | Can you escape Switzerland | 220050 | [220050-can-you-escape-switzerland.json](./220050-can-you-escape-switzerland.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
+| Can You Escape: Adventure | 70887 | [70887-can-you-escape-adventure.json](./70887-can-you-escape-adventure.json) |
 | Can You Escape: Deluxe | 181614 | [181614-can-you-escape-deluxe.json](./181614-can-you-escape-deluxe.json) |
 | Can You Escape: Island | 181650 | [181650-can-you-escape-island.json](./181650-can-you-escape-island.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
@@ -3629,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
+| Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
@@ -7435,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
+| Coffee Mahjong | 70886 | [70886-coffee-mahjong.json](./70886-coffee-mahjong.json) |
 | Coffee Maker | 178886 | [178886-coffee-maker.json](./178886-coffee-maker.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
@@ -7609,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
+| Cold Storage | 70857 | [70857-cold-storage.json](./70857-cold-storage.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
 | Cold Verdict | 188943 | [188943-cold-verdict.json](./188943-cold-verdict.json) |
@@ -12597,6 +12601,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
+| Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
+| Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
 | Cube Color | 75658 | [75658-cube-color.json](./75658-cube-color.json) |
@@ -12809,6 +12815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubiscape 2: First Expansion Pack | 169308 | [169308-cubiscape-2-first-expansion-pack.json](./169308-cubiscape-2-first-expansion-pack.json) |
 | Cubism | 95591 | [95591-cubism.json](./95591-cubism.json) |
+| Cubistry | 70882 | [70882-cubistry.json](./70882-cubistry.json) |
 | Cubistry Collection Vol. 1 | 33364 | [33364-cubistry-collection-vol-1.json](./33364-cubistry-collection-vol-1.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
