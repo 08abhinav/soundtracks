@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | Heavenworld | 133107 | [133107-heavenworld.json](./133107-heavenworld.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
+| Heavy Armor Brigade | 47881 | [47881-heavy-armor-brigade.json](./47881-heavy-armor-brigade.json) |
 | Heavy Armored Assassin | 241287 | [241287-heavy-armored-assassin.json](./241287-heavy-armored-assassin.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
 | Heavy Barrel | 198760 | [198760-heavy-barrel.json](./198760-heavy-barrel.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
+| Hello Kitty Daily | 47853 | [47853-hello-kitty-daily.json](./47853-hello-kitty-daily.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
 | Hello Kitty Dream Village | 172536 | [172536-hello-kitty-dream-village.json](./172536-hello-kitty-dream-village.json) |
@@ -8232,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Gaery! | 338679 | [338679-hurry-gaery.json](./338679-hurry-gaery.json) |
 | Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
+| Hurry Up Hedgehog! | 47855 | [47855-hurry-up-hedgehog.json](./47855-hurry-up-hedgehog.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
