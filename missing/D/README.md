@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
 | Dawn of Discovery | 662 | [662-dawn-of-discovery.json](./662-dawn-of-discovery.json) |
 | Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
+| Dawn of Discovery: Venice | 8227 | [8227-dawn-of-discovery-venice.json](./8227-dawn-of-discovery-venice.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Grid: DLC Bundle | 227415 | [227415-defense-grid-dlc-bundle.json](./227415-defense-grid-dlc-bundle.json) |
+| Defense Grid: The Awakening | 8190 | [8190-defense-grid-the-awakening.json](./8190-defense-grid-the-awakening.json) |
 | Defense Grid: The Awakening - Containment | 164417 | [164417-defense-grid-the-awakening-containment.json](./164417-defense-grid-the-awakening-containment.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 1 | 164415 | [164415-defense-grid-the-awakening-resurgence-map-pack-1.json](./164415-defense-grid-the-awakening-resurgence-map-pack-1.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 2 | 164414 | [164414-defense-grid-the-awakening-resurgence-map-pack-2.json](./164414-defense-grid-the-awakening-resurgence-map-pack-2.json) |
@@ -5320,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Human Revolution - Augmented Edition | 47412 | [47412-deus-ex-human-revolution-augmented-edition.json](./47412-deus-ex-human-revolution-augmented-edition.json) |
 | Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
+| Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
@@ -12012,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D | 262573 | [262573-duke-nukem-3d.json](./262573-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262575 | [262575-duke-nukem-3d.json](./262575-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
+| Duke Nukem 3D: 20th Anniversary World Tour | 23596 | [23596-duke-nukem-3d-20th-anniversary-world-tour.json](./23596-duke-nukem-3d-20th-anniversary-world-tour.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
