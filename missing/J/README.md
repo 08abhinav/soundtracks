@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | January | 124545 | [124545-january.json](./124545-january.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
+| Janyuuki Goku Randa | 44409 | [44409-janyuuki-goku-randa.json](./44409-janyuuki-goku-randa.json) |
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
