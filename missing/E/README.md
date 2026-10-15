@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
+| Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
+| Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
@@ -3380,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 305450 | [305450-escape.json](./305450-escape.json) |
 | Escape | 305451 | [305451-escape.json](./305451-escape.json) |
+| Escape | 35380 | [35380-escape.json](./35380-escape.json) |
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
 | Escape | 380754 | [380754-escape.json](./380754-escape.json) |
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
