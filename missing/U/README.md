@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
+| Ugoku E Ver. 2.0: Aryol | 44427 | [44427-ugoku-e-ver-2-0-aryol.json](./44427-ugoku-e-ver-2-0-aryol.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
 | Uh Oh Bartender | 122297 | [122297-uh-oh-bartender.json](./122297-uh-oh-bartender.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
 | Ultra Auto Gotchimon | 285931 | [285931-ultra-auto-gotchimon.json](./285931-ultra-auto-gotchimon.json) |
 | Ultra Baken | 92661 | [92661-ultra-baken.json](./92661-ultra-baken.json) |
+| Ultra Baseball Jitsumei-ban | 44429 | [44429-ultra-baseball-jitsumei-ban.json](./44429-ultra-baseball-jitsumei-ban.json) |
 | Ultra Baseball Jitsumei-ban 2 | 38235 | [38235-ultra-baseball-jitsumei-ban-2.json](./38235-ultra-baseball-jitsumei-ban-2.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
@@ -622,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
+| Ultra Seven | 44428 | [44428-ultra-seven.json](./44428-ultra-seven.json) |
 | Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
 | Ultra Space Battle Brawl | 97964 | [97964-ultra-space-battle-brawl.json](./97964-ultra-space-battle-brawl.json) |
 | Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
