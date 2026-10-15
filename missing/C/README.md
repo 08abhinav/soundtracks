@@ -3741,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championsheep Rally | 52499 | [52499-championsheep-rally.json](./52499-championsheep-rally.json) |
+| Championship Baseball | 44396 | [44396-championship-baseball.json](./44396-championship-baseball.json) |
 | Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
@@ -4993,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chisel 2 | 326733 | [326733-chisel-2.json](./326733-chisel-2.json) |
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
+| Chisholm Trail | 44395 | [44395-chisholm-trail.json](./44395-chisholm-trail.json) |
 | Chit Chat Party! | 420680 | [420680-chit-chat-party.json](./420680-chit-chat-party.json) |
 | Chital's Mini Adventure | 265076 | [265076-chitals-mini-adventure.json](./265076-chitals-mini-adventure.json) |
 | Chitei Chousasen ni Hibiku Kodoku | 376678 | [376678-chitei-chousasen-ni-hibiku-kodoku.json](./376678-chitei-chousasen-ni-hibiku-kodoku.json) |
