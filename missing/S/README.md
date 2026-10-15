@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section Z | 206629 | [206629-section-z.json](./206629-section-z.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
+| Sector | 35347 | [35347-sector.json](./35347-sector.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 177 | 75200 | [75200-sector-177.json](./75200-sector-177.json) |
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
+| Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shoestrings Story | 345090 | [345090-shoestrings-story.json](./345090-shoestrings-story.json) |
+| Shofer Race Driver | 35319 | [35319-shofer-race-driver.json](./35319-shofer-race-driver.json) |
 | Shoganai | 154428 | [154428-shoganai.json](./154428-shoganai.json) |
 | Shogi | 206024 | [206024-shogi.json](./206024-shogi.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
@@ -8691,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
 | Skyfish II: Eat Your Peas | 79367 | [79367-skyfish-ii-eat-your-peas.json](./79367-skyfish-ii-eat-your-peas.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
+| Skyflower | 35411 | [35411-skyflower.json](./35411-skyflower.json) |
 | SkyFly | 275515 | [275515-skyfly.json](./275515-skyfly.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
@@ -15224,6 +15228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
+| Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
@@ -15675,6 +15680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
+| Spy Bugs | 35345 | [35345-spy-bugs.json](./35345-spy-bugs.json) |
 | Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
 | Spy Carnival | 406936 | [406936-spy-carnival.json](./406936-spy-carnival.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
@@ -16232,6 +16238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
 | Star Attack | 287560 | [287560-star-attack.json](./287560-star-attack.json) |
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
+| Star Balls | 35370 | [35370-star-balls.json](./35370-star-balls.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
@@ -17507,6 +17514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
+| StartBolita | 35421 | [35421-startbolita.json](./35421-startbolita.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
@@ -18555,6 +18563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
+| Stoorm: Yellow Edition | 35368 | [35368-stoorm-yellow-edition.json](./35368-stoorm-yellow-edition.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
@@ -22564,6 +22573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
+| Super Snow Fight | 35384 | [35384-super-snow-fight.json](./35384-super-snow-fight.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
 | Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
