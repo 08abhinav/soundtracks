@@ -6706,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game | 191567 | [191567-the-game.json](./191567-the-game.json) |
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
+| The Game 15 Vol 2 | 54954 | [54954-the-game-15-vol-2.json](./54954-the-game-15-vol-2.json) |
 | The Game About People | 187839 | [187839-the-game-about-people.json](./187839-the-game-about-people.json) |
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
 | The Game for Free | 374420 | [374420-the-game-for-free.json](./374420-the-game-for-free.json) |
@@ -7481,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
 | The Idolmaster: Shiny TV | 62077 | [62077-the-idolmaster-shiny-tv.json](./62077-the-idolmaster-shiny-tv.json) |
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
+| The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
@@ -9080,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
+| The Lost Town: The Jungle | 55005 | [55005-the-lost-town-the-jungle.json](./55005-the-lost-town-the-jungle.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
@@ -10259,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
+| The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
@@ -10427,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
+| The Rainbow Machine | 54972 | [54972-the-rainbow-machine.json](./54972-the-rainbow-machine.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
 | The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
@@ -12431,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Turrican Collection | 394895 | [394895-the-turrican-collection.json](./394895-the-turrican-collection.json) |
 | The Tuttles: Madcap Misadventures | 62156 | [62156-the-tuttles-madcap-misadventures.json](./62156-the-tuttles-madcap-misadventures.json) |
+| The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
 | The Twilight of Infinity: Episode 4 - Therefore I Am | 215724 | [215724-the-twilight-of-infinity-episode-4-therefore-i-am.json](./215724-the-twilight-of-infinity-episode-4-therefore-i-am.json) |
@@ -13134,6 +13140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
+| The X Animal | 54997 | [54997-the-x-animal.json](./54997-the-x-animal.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
@@ -20551,6 +20558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
 | Trauma | 191124 | [191124-trauma.json](./191124-trauma.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
+| Trauma | 55014 | [55014-trauma.json](./55014-trauma.json) |
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
 | Trauma Center: New Blood | 1525 | [1525-trauma-center-new-blood.json](./1525-trauma-center-new-blood.json) |
 | Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
@@ -21342,6 +21350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Art Trivia | 97241 | [97241-trivia-vault-art-trivia.json](./97241-trivia-vault-art-trivia.json) |
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
+| Trivia Vault: Classic Rock Trivia 2 | 54890 | [54890-trivia-vault-classic-rock-trivia-2.json](./54890-trivia-vault-classic-rock-trivia-2.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
