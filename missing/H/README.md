@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
+| Halloweenistry 2 | 55776 | [55776-halloweenistry-2.json](./55776-halloweenistry-2.json) |
 | Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
 | Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
 | His Chuunibyou Cannot Be Cured! | 65823 | [65823-his-chuunibyou-cannot-be-cured.json](./65823-his-chuunibyou-cannot-be-cured.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
+| His Majesty's Ship Impetuous | 55833 | [55833-his-majestys-ship-impetuous.json](./55833-his-majestys-ship-impetuous.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | His World | 391118 | [391118-his-world.json](./391118-his-world.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
