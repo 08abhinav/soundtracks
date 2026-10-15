@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Princess: Online Deluxe | 168167 | [168167-vanguard-princess-online-deluxe.json](./168167-vanguard-princess-online-deluxe.json) |
 | Vanguard Run | 57345 | [57345-vanguard-run.json](./57345-vanguard-run.json) |
 | Vanguard Tides | 405596 | [405596-vanguard-tides.json](./405596-vanguard-tides.json) |
+| Vanguard V | 38798 | [38798-vanguard-v.json](./38798-vanguard-v.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectorMan Classic | 104547 | [104547-vectorman-classic.json](./104547-vectorman-classic.json) |
 | Vectoroids | 252611 | [252611-vectoroids.json](./252611-vectoroids.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
+| VectorWave | 38804 | [38804-vectorwave.json](./38804-vectorwave.json) |
 | Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
 | Vectrexagon | 46518 | [46518-vectrexagon.json](./46518-vectrexagon.json) |
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
@@ -2739,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR RV | 99077 | [99077-vr-rv.json](./99077-vr-rv.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Sand | 115150 | [115150-vr-sand.json](./115150-vr-sand.json) |
+| VR Scape | 38790 | [38790-vr-scape.json](./38790-vr-scape.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
 | VR Shogi Mates | 309572 | [309572-vr-shogi-mates.json](./309572-vr-shogi-mates.json) |
