@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked | 216827 | [216827-wicked.json](./216827-wicked.json) |
+| Wicked 18 | 38826 | [38826-wicked-18.json](./38826-wicked-18.json) |
 | Wicked Angels | 282208 | [282208-wicked-angels.json](./282208-wicked-angels.json) |
 | Wicked Be The Ways of Men | 273551 | [273551-wicked-be-the-ways-of-men.json](./273551-wicked-be-the-ways-of-men.json) |
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
@@ -5475,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup '98 France: Road to Win | 271931 | [271931-world-cup-98-france-road-to-win.json](./271931-world-cup-98-france-road-to-win.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
+| World Cup Golf: Hyatt Dorado Beach | 38825 | [38825-world-cup-golf-hyatt-dorado-beach.json](./38825-world-cup-golf-hyatt-dorado-beach.json) |
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
