@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
+| Jimi-Kare: My Quiet Boyfriend | 54982 | [54982-jimi-kare-my-quiet-boyfriend.json](./54982-jimi-kare-my-quiet-boyfriend.json) |
 | Jiminy's Morning Adventure | 293712 | [293712-jiminys-morning-adventure.json](./293712-jiminys-morning-adventure.json) |
 | Jimmie Johnson's Anything with an Engine | 7023 | [7023-jimmie-johnsons-anything-with-an-engine.json](./7023-jimmie-johnsons-anything-with-an-engine.json) |
 | Jimmu | 128286 | [128286-jimmu.json](./128286-jimmu.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
+| Jumpsters | 54995 | [54995-jumpsters.json](./54995-jumpsters.json) |
 | JumpStream | 107374 | [107374-jumpstream.json](./107374-jumpstream.json) |
 | Jumputi Heroes | 86425 | [86425-jumputi-heroes.json](./86425-jumputi-heroes.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
