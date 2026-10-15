@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy Inc | 87066 | [87066-farm-frenzy-inc.json](./87066-farm-frenzy-inc.json) |
+| Farm Frenzy Madness | 53033 | [53033-farm-frenzy-madness.json](./53033-farm-frenzy-madness.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Crazy Bear Island | 90893 | [90893-farm-frenzy-crazy-bear-island.json](./90893-farm-frenzy-crazy-bear-island.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
+| Find You | 53137 | [53137-find-you.json](./53137-find-you.json) |
 | Find Your Friends | 374948 | [374948-find-your-friends.json](./374948-find-your-friends.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
@@ -4328,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps with the Mr. Men | 97797 | [97797-first-steps-with-the-mr-men.json](./97797-first-steps-with-the-mr-men.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
+| First Strike: Final Hour - Deluxe Edition | 53039 | [53039-first-strike-final-hour-deluxe-edition.json](./53039-first-strike-final-hour-deluxe-edition.json) |
 | First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
 | First Summoner | 193831 | [193831-first-summoner.json](./193831-first-summoner.json) |
 | First Telegram War | 334795 | [334795-first-telegram-war.json](./334795-first-telegram-war.json) |
@@ -6007,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
+| Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
@@ -6027,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
+| Foley's Escape | 53037 | [53037-foleys-escape.json](./53037-foleys-escape.json) |
 | Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
 | Folia: The King's Revelry | 236750 | [236750-folia-the-kings-revelry.json](./236750-folia-the-kings-revelry.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
@@ -6358,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
 | For Honor: Complete Edition | 118695 | [118695-for-honor-complete-edition.json](./118695-for-honor-complete-edition.json) |
+| For Honor: Deluxe Edition | 53036 | [53036-for-honor-deluxe-edition.json](./53036-for-honor-deluxe-edition.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
