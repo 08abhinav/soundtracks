@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
+| Marvin Strikes Back! | 49854 | [49854-marvin-strikes-back.json](./49854-marvin-strikes-back.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
@@ -5662,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
 | Meine Tierklinik | 78533 | [78533-meine-tierklinik.json](./78533-meine-tierklinik.json) |
+| Meine Tierklinik in Afrika | 49758 | [49758-meine-tierklinik-in-afrika.json](./49758-meine-tierklinik-in-afrika.json) |
 | Meine Tierpension | 179201 | [179201-meine-tierpension.json](./179201-meine-tierpension.json) |
 | Meine Tierschule | 94395 | [94395-meine-tierschule.json](./94395-meine-tierschule.json) |
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
