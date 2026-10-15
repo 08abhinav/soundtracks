@@ -5319,7 +5319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
-| Granblue Fantasy: Versus | 113378 | [113378-granblue-fantasy-versus.json](./113378-granblue-fantasy-versus.json) |
 | Granblue Fantasy: Versus - Legendary Edition | 185989 | [185989-granblue-fantasy-versus-legendary-edition.json](./185989-granblue-fantasy-versus-legendary-edition.json) |
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
