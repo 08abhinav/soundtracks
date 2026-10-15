@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
 | Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
+| Happy Street | 63750 | [63750-happy-street.json](./63750-happy-street.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
 | Heroic Musical Chairs | 397371 | [397371-heroic-musical-chairs.json](./397371-heroic-musical-chairs.json) |
 | Heroic Pirates | 190042 | [190042-heroic-pirates.json](./190042-heroic-pirates.json) |
+| Heroic Quest | 63747 | [63747-heroic-quest.json](./63747-heroic-quest.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
+| Hilton Ultimate Team Play | 63757 | [63757-hilton-ultimate-team-play.json](./63757-hilton-ultimate-team-play.json) |
 | Him | 171979 | [171979-him.json](./171979-him.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
