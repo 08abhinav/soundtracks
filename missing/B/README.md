@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
+| Battle Racers | 38161 | [38161-battle-racers.json](./38161-battle-racers.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
+| Battle Submarine | 38185 | [38185-battle-submarine.json](./38185-battle-submarine.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
 | Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
@@ -5085,6 +5087,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Hunt: Paint Town Black Red | 107009 | [107009-big-hunt-paint-town-black-red.json](./107009-big-hunt-paint-town-black-red.json) |
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
+| Big Ichigeki! Pachi-Slot Daikouryaku | 38158 | [38158-big-ichigeki-pachi-slot-daikouryaku.json](./38158-big-ichigeki-pachi-slot-daikouryaku.json) |
+| Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection | 38157 | [38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json](./38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
 | Big Kahuna Party | 51085 | [51085-big-kahuna-party.json](./51085-big-kahuna-party.json) |
@@ -11030,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-4-wa | 178064 | [178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json](./178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json) |
 | BS Zelda Restoration Map 1 | 322562 | [322562-bs-zelda-restoration-map-1.json](./322562-bs-zelda-restoration-map-1.json) |
 | BS Zelda Restoration Map 2 | 322561 | [322561-bs-zelda-restoration-map-2.json](./322561-bs-zelda-restoration-map-2.json) |
+| BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari | 38156 | [38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json](./38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
