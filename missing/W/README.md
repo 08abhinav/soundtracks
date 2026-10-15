@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
 | Warriors: Abyss - Dynasty Warriors Classic Costume Set | 379118 | [379118-warriors-abyss-dynasty-warriors-classic-costume-set.json](./379118-warriors-abyss-dynasty-warriors-classic-costume-set.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
+| Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
 | Wars Across the World: Berlin 1945 | 159634 | [159634-wars-across-the-world-berlin-1945.json](./159634-wars-across-the-world-berlin-1945.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy | 11214 | [11214-world-of-final-fantasy.json](./11214-world-of-final-fantasy.json) |
+| World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
