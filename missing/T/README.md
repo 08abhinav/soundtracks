@@ -20847,6 +20847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 142389 | [142389-treasure-island.json](./142389-treasure-island.json) |
 | Treasure Island | 194283 | [194283-treasure-island.json](./194283-treasure-island.json) |
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
+| Treasure Island | 44397 | [44397-treasure-island.json](./44397-treasure-island.json) |
 | Treasure Island | 52523 | [52523-treasure-island.json](./52523-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
