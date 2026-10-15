@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
+| 1 Vs 1 | 28641 | [28641-1-vs-1.json](./28641-1-vs-1.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
 | 1 vs. 100 | 220070 | [220070-1-vs-100.json](./220070-1-vs-100.json) |
 | 1 vs. 100 | 74406 | [74406-1-vs-100.json](./74406-1-vs-100.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
+| 1914: Prelude to Chaos | 28642 | [28642-1914-prelude-to-chaos.json](./28642-1914-prelude-to-chaos.json) |
 | 1916: Der Unbekannte Krieg | 92397 | [92397-1916-der-unbekannte-krieg.json](./92397-1916-der-unbekannte-krieg.json) |
 | 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
