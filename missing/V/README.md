@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | ViColumn | 78316 | [78316-vicolumn.json](./78316-vicolumn.json) |
 | Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
+| Victim Cache: The RPG | 54973 | [54973-victim-cache-the-rpg.json](./54973-victim-cache-the-rpg.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
@@ -2170,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
 | Voice Commander, a Microsoft Garage project | 82404 | [82404-voice-commander-a-microsoft-garage-project.json](./82404-voice-commander-a-microsoft-garage-project.json) |
+| Voice Fantasia: Ushinawareta Voice Power | 54950 | [54950-voice-fantasia-ushinawareta-voice-power.json](./54950-voice-fantasia-ushinawareta-voice-power.json) |
 | Voice from Beyond | 197208 | [197208-voice-from-beyond.json](./197208-voice-from-beyond.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
