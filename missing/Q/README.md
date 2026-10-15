@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
 | Quadrax | 69907 | [69907-quadrax.json](./69907-quadrax.json) |
 | Quadrax III | 69590 | [69590-quadrax-iii.json](./69590-quadrax-iii.json) |
+| Quadrel | 15351 | [15351-quadrel.json](./15351-quadrel.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadricolor: Ultra Sentai Color Ranger | 292221 | [292221-quadricolor-ultra-sentai-color-ranger.json](./292221-quadricolor-ultra-sentai-color-ranger.json) |
 | Quadrilactic | 184400 | [184400-quadrilactic.json](./184400-quadrilactic.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
+| Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
@@ -761,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
+| Quink | 15353 | [15353-quink.json](./15353-quink.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
