@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
+| Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
 | Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
@@ -6968,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
 | Michael English Daibouken | 41292 | [41292-michael-english-daibouken.json](./41292-michael-english-daibouken.json) |
+| Michael Gower's Zombie Hill | 70855 | [70855-michael-gowers-zombie-hill.json](./70855-michael-gowers-zombie-hill.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
@@ -13889,6 +13891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
 | My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
+| My Little Pony: Puzzle Party | 70864 | [70864-my-little-pony-puzzle-party.json](./70864-my-little-pony-puzzle-party.json) |
 | My Little Pony: Rainbow Runners | 138460 | [138460-my-little-pony-rainbow-runners.json](./138460-my-little-pony-rainbow-runners.json) |
 | My Little Pony: Story Creator | 138463 | [138463-my-little-pony-story-creator.json](./138463-my-little-pony-story-creator.json) |
 | My Little Pony: The Movie | 138465 | [138465-my-little-pony-the-movie.json](./138465-my-little-pony-the-movie.json) |
