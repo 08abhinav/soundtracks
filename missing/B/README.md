@@ -6810,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Remastered | 291874 | [291874-bleak-remastered.json](./291874-bleak-remastered.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleak Winter | 259043 | [259043-bleak-winter.json](./259043-bleak-winter.json) |
+| Bleak: Welcome to Glimmer | 35419 | [35419-bleak-welcome-to-glimmer.json](./35419-bleak-welcome-to-glimmer.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
 | Bleakshore | 133317 | [133317-bleakshore.json](./133317-bleakshore.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Force | 236390 | [236390-breakout-force.json](./236390-breakout-force.json) |
 | Breakout Hero | 181259 | [181259-breakout-hero.json](./181259-breakout-hero.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
+| Breakout Invaders | 35341 | [35341-breakout-invaders.json](./35341-breakout-invaders.json) |
 | Breakout Money | 108624 | [108624-breakout-money.json](./108624-breakout-money.json) |
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout Poetry | 135611 | [135611-breakout-poetry.json](./135611-breakout-poetry.json) |
@@ -11786,6 +11788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Builder & Construction Simulator | 328562 | [328562-bunker-builder-and-construction-simulator.json](./328562-bunker-builder-and-construction-simulator.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Buster | 110203 | [110203-bunker-buster.json](./110203-bunker-buster.json) |
+| Bunker Constructor | 35379 | [35379-bunker-constructor.json](./35379-bunker-constructor.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
