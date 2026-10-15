@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen with a Pen | 260252 | [260252-zen-with-a-pen.json](./260252-zen-with-a-pen.json) |
 | Zen World | 145403 | [145403-zen-world.json](./145403-zen-world.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
+| Zen-Nihon GT Senshuken | 44411 | [44411-zen-nihon-gt-senshuken.json](./44411-zen-nihon-gt-senshuken.json) |
 | Zen-Nippon GT Senshuken MAX Rev. | 381784 | [381784-zen-nippon-gt-senshuken-max-rev.json](./381784-zen-nippon-gt-senshuken-max-rev.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen-Nippon Pro Wrestling | 61503 | [61503-zen-nippon-pro-wrestling.json](./61503-zen-nippon-pro-wrestling.json) |
