@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai | 179958 | [179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json](./179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai | 179959 | [179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json](./179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json) |
+| Bakushou Yoshimoto ShinkiGeki | 37579 | [37579-bakushou-yoshimoto-shinkigeki.json](./37579-bakushou-yoshimoto-shinkigeki.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Kotowari to Meikyuu no Shoujo | 128419 | [128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json](./128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json) |
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
+| Bishoujo Senshi Sailor Moon | 37636 | [37636-bishoujo-senshi-sailor-moon.json](./37636-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon R | 309013 | [309013-bishoujo-senshi-sailor-moon-r.json](./309013-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
@@ -8710,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
+| Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
