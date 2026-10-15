@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
 | Pacmario | 284435 | [284435-pacmario.json](./284435-pacmario.json) |
+| PacMax Classics | 60446 | [60446-pacmax-classics.json](./60446-pacmax-classics.json) |
 | Paco | 149422 | [149422-paco.json](./149422-paco.json) |
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
 | Paranormal Psychosis | 19725 | [19725-paranormal-psychosis.json](./19725-paranormal-psychosis.json) |
+| Paranormal Pursuit: The Gifted One | 60445 | [60445-paranormal-pursuit-the-gifted-one.json](./60445-paranormal-pursuit-the-gifted-one.json) |
 | Paranormal Pursuit: The Gifted One - Collector's Edition | 30041 | [30041-paranormal-pursuit-the-gifted-one-collectors-edition.json](./30041-paranormal-pursuit-the-gifted-one-collectors-edition.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Research Society | 391870 | [391870-paranormal-research-society.json](./391870-paranormal-research-society.json) |
