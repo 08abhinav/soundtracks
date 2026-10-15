@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
+| Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
 | Ooer | 137342 | [137342-ooer.json](./137342-ooer.json) |
@@ -2522,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
+| Or | 29613 | [29613-or.json](./29613-or.json) |
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
 | Oracle 5000 | 360715 | [360715-oracle-5000.json](./360715-oracle-5000.json) |
@@ -3128,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
 | Otherworld: Omens of Summer | 63772 | [63772-otherworld-omens-of-summer.json](./63772-otherworld-omens-of-summer.json) |
+| Otherworld: Omens of Summer - Collector's Edition | 29617 | [29617-otherworld-omens-of-summer-collectors-edition.json](./29617-otherworld-omens-of-summer-collectors-edition.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworld: Spring of Shadows | 63771 | [63771-otherworld-spring-of-shadows.json](./63771-otherworld-spring-of-shadows.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
