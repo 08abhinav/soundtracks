@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Inc. | 224063 | [224063-earth-inc.json](./224063-earth-inc.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Invasion 99 | 354641 | [354641-earth-invasion-99.json](./354641-earth-invasion-99.json) |
+| Earth is a 3D Planet | 50374 | [50374-earth-is-a-3d-planet.json](./50374-earth-is-a-3d-planet.json) |
 | Earth is too small for me | 192266 | [192266-earth-is-too-small-for-me.json](./192266-earth-is-too-small-for-me.json) |
 | Earth Liberation | 30301 | [30301-earth-liberation.json](./30301-earth-liberation.json) |
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
@@ -5466,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Peg Solitaire | 149375 | [149375-extreme-peg-solitaire.json](./149375-extreme-peg-solitaire.json) |
+| Extreme Pinball | 50462 | [50462-extreme-pinball.json](./50462-extreme-pinball.json) |
 | Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
