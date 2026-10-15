@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House for Alesa 2 | 303036 | [303036-a-house-for-alesa-2.json](./303036-a-house-for-alesa-2.json) |
 | A House for Alesa 3 | 303314 | [303314-a-house-for-alesa-3.json](./303314-a-house-for-alesa-3.json) |
 | A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
+| A House in California | 60457 | [60457-a-house-in-california.json](./60457-a-house-in-california.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborn | 114234 | [114234-airborn.json](./114234-airborn.json) |
+| Airborn: Piño's Journey | 60474 | [60474-airborn-pinos-journey.json](./60474-airborn-pinos-journey.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
@@ -5722,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
 | Amiha's Nightmare Castle | 212756 | [212756-amihas-nightmare-castle.json](./212756-amihas-nightmare-castle.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
+| Amiibo Tap: Nintendo's Greatest Bits | 60431 | [60431-amiibo-tap-nintendos-greatest-bits.json](./60431-amiibo-tap-nintendos-greatest-bits.json) |
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
@@ -6212,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
+| Anekouji Naoko to Gin'iro no Shinigami | 60476 | [60476-anekouji-naoko-to-giniro-no-shinigami.json](./60476-anekouji-naoko-to-giniro-no-shinigami.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
