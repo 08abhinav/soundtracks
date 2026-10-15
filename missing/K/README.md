@@ -3980,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudzu | 284593 | [284593-kudzu.json](./284593-kudzu.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
+| Kugeln.io | 56376 | [56376-kugeln-io.json](./56376-kugeln-io.json) |
 | Kugle | 276290 | [276290-kugle.json](./276290-kugle.json) |
 | Kuguru | 159653 | [159653-kuguru.json](./159653-kuguru.json) |
 | Kuiper Belt Plaza | 183992 | [183992-kuiper-belt-plaza.json](./183992-kuiper-belt-plaza.json) |
