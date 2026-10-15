@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
 | Rhythm Dash | 178888 | [178888-rhythm-dash.json](./178888-rhythm-dash.json) |
+| Rhythm de Cooking: Sweets Party e Youkoso | 72547 | [72547-rhythm-de-cooking-sweets-party-e-youkoso.json](./72547-rhythm-de-cooking-sweets-party-e-youkoso.json) |
 | Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
