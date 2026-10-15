@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
+| The Black Cauldron | 11963 | [11963-the-black-cauldron.json](./11963-the-black-cauldron.json) |
 | The Black Death | 34155 | [34155-the-black-death.json](./34155-the-black-death.json) |
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
@@ -4614,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bloodline | 123930 | [123930-the-bloodline.json](./123930-the-bloodline.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Bloom Between | 364370 | [364370-the-bloom-between.json](./364370-the-bloom-between.json) |
+| The Blue & the Gray | 11969 | [11969-the-blue-and-the-gray.json](./11969-the-blue-and-the-gray.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
@@ -5467,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cycle: Frontier | 174521 | [174521-the-cycle-frontier.json](./174521-the-cycle-frontier.json) |
 | The Cycle: Frontier - Breakthrough | 243632 | [243632-the-cycle-frontier-breakthrough.json](./243632-the-cycle-frontier-breakthrough.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
+| The Cycles: International Grand Prix Racing | 12026 | [12026-the-cycles-international-grand-prix-racing.json](./12026-the-cycles-international-grand-prix-racing.json) |
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
