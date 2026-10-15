@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
+| The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
@@ -11127,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
 | The Shadow | 323990 | [323990-the-shadow.json](./323990-the-shadow.json) |
+| The Shadow | 42465 | [42465-the-shadow.json](./42465-the-shadow.json) |
 | The Shadow Archer: Famous Stickman Series | 105524 | [105524-the-shadow-archer-famous-stickman-series.json](./105524-the-shadow-archer-famous-stickman-series.json) |
 | The Shadow Architect | 390193 | [390193-the-shadow-architect.json](./390193-the-shadow-architect.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
@@ -11699,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Spoon of Doom | 154432 | [154432-the-spoon-of-doom.json](./154432-the-spoon-of-doom.json) |
 | The Spoons | 71013 | [71013-the-spoons.json](./71013-the-spoons.json) |
+| The Sporting News Baseball | 42443 | [42443-the-sporting-news-baseball.json](./42443-the-sporting-news-baseball.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Spotter: Dig or Die | 391190 | [391190-the-spotter-dig-or-die.json](./391190-the-spotter-dig-or-die.json) |
@@ -15840,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Sensitive Investigation | 345572 | [345572-time-sensitive-investigation.json](./345572-time-sensitive-investigation.json) |
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Skip | 96615 | [96615-time-skip.json](./96615-time-skip.json) |
+| Time Slip | 42442 | [42442-time-slip.json](./42442-time-slip.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
 | Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
 | Time Soul | 321630 | [321630-time-soul.json](./321630-time-soul.json) |
@@ -15913,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timebound | 321635 | [321635-timebound.json](./321635-timebound.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
+| Timecop | 42441 | [42441-timecop.json](./42441-timecop.json) |
 | Timecues | 56915 | [56915-timecues.json](./56915-timecues.json) |
 | TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
 | TimeFish | 319320 | [319320-timefish.json](./319320-timefish.json) |
@@ -16488,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | TKO | 78914 | [78914-tko.json](./78914-tko.json) |
+| TKO Super Championship Boxing | 42440 | [42440-tko-super-championship-boxing.json](./42440-tko-super-championship-boxing.json) |
 | Tlatoani | 319114 | [319114-tlatoani.json](./319114-tlatoani.json) |
 | TLC Game BR | 292449 | [292449-tlc-game-br.json](./292449-tlc-game-br.json) |
 | Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
@@ -17350,6 +17356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
+| Tommy Moe's Winter Extreme: Skiing & Snowboarding | 42429 | [42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json](./42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
@@ -22365,6 +22372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
+| Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
