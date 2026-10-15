@@ -8122,6 +8122,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Happy Ocean | 200678 | [200678-arc-style-happy-ocean.json](./200678-arc-style-happy-ocean.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
+| Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
+| Arc the Lad: Kijin Fukkatsu | 26373 | [26373-arc-the-lad-kijin-fukkatsu.json](./26373-arc-the-lad-kijin-fukkatsu.json) |
 | Arc the Lad: Monster Game with Casino Game | 44731 | [44731-arc-the-lad-monster-game-with-casino-game.json](./44731-arc-the-lad-monster-game-with-casino-game.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
