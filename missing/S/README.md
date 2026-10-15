@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
 | Seal Save: Royal Decree | 419124 | [419124-seal-save-royal-decree.json](./419124-seal-save-royal-decree.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
+| SEAL Team 12 | 17602 | [17602-seal-team-12.json](./17602-seal-team-12.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
 | Sealand Survivor | 336504 | [336504-sealand-survivor.json](./336504-sealand-survivor.json) |
@@ -6965,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Darkwood | 139162 | [139162-siege-of-darkwood.json](./139162-siege-of-darkwood.json) |
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
 | Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
+| Siege of Inaolia | 17603 | [17603-siege-of-inaolia.json](./17603-siege-of-inaolia.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
@@ -13667,6 +13669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Runner | 102257 | [102257-space-runner.json](./102257-space-runner.json) |
+| Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
@@ -14694,6 +14697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
+| Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
@@ -15075,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Riding Free: Ride Along Adventure | 256866 | [256866-spirit-riding-free-ride-along-adventure.json](./256866-spirit-riding-free-ride-along-adventure.json) |
 | Spirit Roots | 96858 | [96858-spirit-roots.json](./96858-spirit-roots.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
+| Spirit Run: Fire vs. Ice | 17584 | [17584-spirit-run-fire-vs-ice.json](./17584-spirit-run-fire-vs-ice.json) |
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Slider | 228616 | [228616-spirit-slider.json](./228616-spirit-slider.json) |
@@ -16604,6 +16609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
+| Star Saviors | 17661 | [17661-star-saviors.json](./17661-star-saviors.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
 | Star Scout | 70399 | [70399-star-scout.json](./70399-star-scout.json) |
@@ -21572,6 +21578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
+| Super Lemonade Factory | 17540 | [17540-super-lemonade-factory.json](./17540-super-lemonade-factory.json) |
 | Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
