@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Frequency | 304111 | [304111-low-frequency.json](./304111-low-frequency.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
+| Low Grav Racer 2 | 63192 | [63192-low-grav-racer-2.json](./63192-low-grav-racer-2.json) |
 | Low Light Combat | 158954 | [158954-low-light-combat.json](./158954-low-light-combat.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
