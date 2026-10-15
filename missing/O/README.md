@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offshore Tycoon | 50740 | [50740-offshore-tycoon.json](./50740-offshore-tycoon.json) |
 | Offside | 127802 | [127802-offside.json](./127802-offside.json) |
 | Offsuit Pair | 354938 | [354938-offsuit-pair.json](./354938-offsuit-pair.json) |
+| Offworld Trading Company - Jupiter's Forge | 51865 | [51865-offworld-trading-company-jupiters-forge.json](./51865-offworld-trading-company-jupiters-forge.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okekenuki | 280420 | [280420-okekenuki.json](./280420-okekenuki.json) |
 | Okhlos: Omega | 34521 | [34521-okhlos-omega.json](./34521-okhlos-omega.json) |
+| Okhlos: Omega - Olympus Edition | 51864 | [51864-okhlos-omega-olympus-edition.json](./51864-okhlos-omega-olympus-edition.json) |
 | Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
@@ -1171,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
+| Omerta: City of Gangsters Gold Edition | 51863 | [51863-omerta-city-of-gangsters-gold-edition.json](./51863-omerta-city-of-gangsters-gold-edition.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
 | Omexyan | 418737 | [418737-omexyan.json](./418737-omexyan.json) |
 | OMFG: One Million Fatal Guns | 145435 | [145435-omfg-one-million-fatal-guns.json](./145435-omfg-one-million-fatal-guns.json) |
@@ -1218,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
+| OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
@@ -2722,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
+| Order of the Thorne: The King's Challenge | 51860 | [51860-order-of-the-thorne-the-kings-challenge.json](./51860-order-of-the-thorne-the-kings-challenge.json) |
 | Order of War: Challenge | 66900 | [66900-order-of-war-challenge.json](./66900-order-of-war-challenge.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
@@ -2931,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
+| Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
@@ -3974,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
+| Owlboy: Collector's Edition | 51858 | [51858-owlboy-collectors-edition.json](./51858-owlboy-collectors-edition.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
 | Owlen and the Whispering Woods | 396433 | [396433-owlen-and-the-whispering-woods.json](./396433-owlen-and-the-whispering-woods.json) |
