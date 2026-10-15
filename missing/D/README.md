@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
 | Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
+| Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
@@ -4570,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
+| Derby Musou | 61544 | [61544-derby-musou.json](./61544-derby-musou.json) |
 | Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
 | Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
 | Derby Owners Club 2000 | 68117 | [68117-derby-owners-club-2000.json](./68117-derby-owners-club-2000.json) |
@@ -6677,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
+| Disco Zoo | 61514 | [61514-disco-zoo.json](./61514-disco-zoo.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
 | Discolight | 85084 | [85084-discolight.json](./85084-discolight.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
@@ -9446,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
+| Dr. Slump: Arale-chan | 61519 | [61519-dr-slump-arale-chan.json](./61519-dr-slump-arale-chan.json) |
 | Dr. Smart Space Adventure: In the Space | 241413 | [241413-dr-smart-space-adventure-in-the-space.json](./241413-dr-smart-space-adventure-in-the-space.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
@@ -9939,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
+| Dragon Poker | 61506 | [61506-dragon-poker.json](./61506-dragon-poker.json) |
 | Dragon Pow! | 372822 | [372822-dragon-pow.json](./372822-dragon-pow.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
