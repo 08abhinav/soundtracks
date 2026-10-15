@@ -5101,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroying the Asteroids: Along With Unfair Hurdles | 195967 | [195967-destroying-the-asteroids-along-with-unfair-hurdles.json](./195967-destroying-the-asteroids-along-with-unfair-hurdles.json) |
 | Destrucktors: Warfare Showdown | 114134 | [114134-destrucktors-warfare-showdown.json](./114134-destrucktors-warfare-showdown.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
+| Destructamundo | 17842 | [17842-destructamundo.json](./17842-destructamundo.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
@@ -12290,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
 | Dungeon Lords: Steam Edition | 90564 | [90564-dungeon-lords-steam-edition.json](./90564-dungeon-lords-steam-edition.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
+| Dungeon Lurk II - Leona | 17834 | [17834-dungeon-lurk-ii-leona.json](./17834-dungeon-lurk-ii-leona.json) |
 | Dungeon Lurker | 403803 | [403803-dungeon-lurker.json](./403803-dungeon-lurker.json) |
 | Dungeon Madness | 312647 | [312647-dungeon-madness.json](./312647-dungeon-madness.json) |
 | Dungeon Mage | 244654 | [244654-dungeon-mage.json](./244654-dungeon-mage.json) |
