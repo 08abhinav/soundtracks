@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
+| Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
 | Bara to Tsubaki to Fata Morgana | 284844 | [284844-bara-to-tsubaki-to-fata-morgana.json](./284844-bara-to-tsubaki-to-fata-morgana.json) |
 | Baraban: Master of Bargain | 367490 | [367490-baraban-master-of-bargain.json](./367490-baraban-master-of-bargain.json) |
+| BaraBariBall | 64316 | [64316-barabariball.json](./64316-barabariball.json) |
 | Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baradroid: A Gay Visual Novel | 211088 | [211088-baradroid-a-gay-visual-novel.json](./211088-baradroid-a-gay-visual-novel.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
 | Big Golden Rock | 408713 | [408713-big-golden-rock.json](./408713-big-golden-rock.json) |
+| Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
@@ -5190,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Charging Card GB | 228492 | [228492-bikkuriman-2000-charging-card-gb.json](./228492-bikkuriman-2000-charging-card-gb.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
+| Bikkuriman Daijikai | 64287 | [64287-bikkuriman-daijikai.json](./64287-bikkuriman-daijikai.json) |
 | Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
@@ -8443,6 +8447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
+| Bomberman Collection | 64337 | [64337-bomberman-collection.json](./64337-bomberman-collection.json) |
+| Bomberman Collection Vol. 2 | 64336 | [64336-bomberman-collection-vol-2.json](./64336-bomberman-collection-vol-2.json) |
 | Bomberman Cx | 134531 | [134531-bomberman-cx.json](./134531-bomberman-cx.json) |
 | Bomberman Fantasy Race | 22773 | [22773-bomberman-fantasy-race.json](./22773-bomberman-fantasy-race.json) |
 | Bomberman for Gree | 198192 | [198192-bomberman-for-gree.json](./198192-bomberman-for-gree.json) |
@@ -10741,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
+| Brothers in Arms 2: Global Front | 64301 | [64301-brothers-in-arms-2-global-front.json](./64301-brothers-in-arms-2-global-front.json) |
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
@@ -11016,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
+| Bubble Memories: The Story of Bubble Bobble III | 64310 | [64310-bubble-memories-the-story-of-bubble-bobble-iii.json](./64310-bubble-memories-the-story-of-bubble-bobble-iii.json) |
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
@@ -12100,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust A Groove 2 | 4139 | [4139-bust-a-groove-2.json](./4139-bust-a-groove-2.json) |
+| Bust a Move Online | 64298 | [64298-bust-a-move-online.json](./64298-bust-a-move-online.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
