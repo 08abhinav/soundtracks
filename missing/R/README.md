@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing angle | 123469 | [123469-racing-angle.json](./123469-racing-angle.json) |
+| Racing Apex | 58661 | [58661-racing-apex.json](./58661-racing-apex.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
+| Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
 | Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
@@ -6410,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketCup | 311074 | [311074-rocketcup.json](./311074-rocketcup.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketeer | 318154 | [318154-rocketeer.json](./318154-rocketeer.json) |
+| Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
@@ -8120,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
+| Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
