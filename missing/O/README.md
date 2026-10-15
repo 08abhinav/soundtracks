@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochaken no Heya DS 3 | 123369 | [123369-ochaken-no-heya-ds-3.json](./123369-ochaken-no-heya-ds-3.json) |
 | Ochaken no Heya DS 4 | 123370 | [123370-ochaken-no-heya-ds-4.json](./123370-ochaken-no-heya-ds-4.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
+| Ochakumi + | 71433 | [71433-ochakumi.json](./71433-ochakumi.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Solutions | 281466 | [281466-origami-solutions.json](./281466-origami-solutions.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
+| Origamo | 71395 | [71395-origamo.json](./71395-origamo.json) |
 | Origens: Story Mode 2 | 375449 | [375449-origens-story-mode-2.json](./375449-origens-story-mode-2.json) |
 | Origens: Story Mode Remastered | 318159 | [318159-origens-story-mode-remastered.json](./318159-origens-story-mode-remastered.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
