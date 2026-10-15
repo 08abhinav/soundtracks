@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Beast | 200151 | [200151-altered-beast.json](./200151-altered-beast.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
+| Altered Beast: Guardian of the Realms | 49193 | [49193-altered-beast-guardian-of-the-realms.json](./49193-altered-beast-guardian-of-the-realms.json) |
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo | 178545 | [178545-alterego.json](./178545-alterego.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
