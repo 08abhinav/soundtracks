@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
+| Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Heyday | 175670 | [175670-glory-heyday.json](./175670-glory-heyday.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
+| Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
 | GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
 | Gooboo | 371616 | [371616-gooboo.json](./371616-gooboo.json) |
 | Goobs | 354042 | [354042-goobs.json](./354042-goobs.json) |
@@ -5591,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
+| Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
@@ -5643,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
+| Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
@@ -6884,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
+| Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
 | Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
