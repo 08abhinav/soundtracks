@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
 | Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
+| Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Desert City | 177271 | [177271-operation-desert-city.json](./177271-operation-desert-city.json) |
+| Operation: Desert Storm | 8712 | [8712-operation-desert-storm.json](./8712-operation-desert-storm.json) |
 | Operation: Eronta | 236210 | [236210-operation-eronta.json](./236210-operation-eronta.json) |
 | Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
@@ -2968,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
 | Ortheo's Interdimensional Jam Session | 245992 | [245992-ortheos-interdimensional-jam-session.json](./245992-ortheos-interdimensional-jam-session.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
+| Ortho Robot | 8728 | [8728-ortho-robot.json](./8728-ortho-robot.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
 | Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
 | Ortolan | 126499 | [126499-ortolan.json](./126499-ortolan.json) |
