@@ -6240,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Angels 2: Top Eventer | 228615 | [228615-wrestle-angels-2-top-eventer.json](./228615-wrestle-angels-2-top-eventer.json) |
 | Wrestle Angels 3 | 228617 | [228617-wrestle-angels-3.json](./228617-wrestle-angels-3.json) |
 | Wrestle Angels Special: Mou Hitori no Top Eventer | 228623 | [228623-wrestle-angels-special-mou-hitori-no-top-eventer.json](./228623-wrestle-angels-special-mou-hitori-no-top-eventer.json) |
+| Wrestle Angels: Double Impact | 37625 | [37625-wrestle-angels-double-impact.json](./37625-wrestle-angels-double-impact.json) |
 | Wrestle Angels: Survivor | 69146 | [69146-wrestle-angels-survivor.json](./69146-wrestle-angels-survivor.json) |
 | Wrestle Angels: Survivor 2 | 69147 | [69147-wrestle-angels-survivor-2.json](./69147-wrestle-angels-survivor-2.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
@@ -6259,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
