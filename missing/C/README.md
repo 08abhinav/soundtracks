@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
+| Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
