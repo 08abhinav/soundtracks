@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea King Hunter | 129514 | [129514-sea-king-hunter.json](./129514-sea-king-hunter.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
+| Sea Legends | 69733 | [69733-sea-legends.json](./69733-sea-legends.json) |
 | Sea Legends: Phantasmal Light | 59905 | [59905-sea-legends-phantasmal-light.json](./59905-sea-legends-phantasmal-light.json) |
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
@@ -5653,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
+| Shine | 69775 | [69775-shine.json](./69775-shine.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
@@ -10787,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
+| Soko-Sex | 69778 | [69778-soko-sex.json](./69778-soko-sex.json) |
 | Soko64 | 290660 | [290660-soko64.json](./290660-soko64.json) |
 | Sokobalien | 211129 | [211129-sokobalien.json](./211129-sokobalien.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
@@ -16416,6 +16419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
+| Star Trek: ConQuest Online | 69780 | [69780-star-trek-conquest-online.json](./69780-star-trek-conquest-online.json) |
 | Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
@@ -19448,6 +19452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styrateg | 125182 | [125182-styrateg.json](./125182-styrateg.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
 | Styrlitz | 93473 | [93473-styrlitz.json](./93473-styrlitz.json) |
+| Styrlitz 2: Tango in Pampas | 69744 | [69744-styrlitz-2-tango-in-pampas.json](./69744-styrlitz-2-tango-in-pampas.json) |
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
