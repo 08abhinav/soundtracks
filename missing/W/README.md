@@ -5891,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
+| Worlds Best Freaking Card Game | 65416 | [65416-worlds-best-freaking-card-game.json](./65416-worlds-best-freaking-card-game.json) |
 | Worlds Collide | 113017 | [113017-worlds-collide.json](./113017-worlds-collide.json) |
 | Worlds Explorers | 398332 | [398332-worlds-explorers.json](./398332-worlds-explorers.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
