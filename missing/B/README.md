@@ -8237,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
+| Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | Bodycam | 248994 | [248994-bodycam.json](./248994-bodycam.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
@@ -11642,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
+| Bullfight | 40059 | [40059-bullfight.json](./40059-bullfight.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
