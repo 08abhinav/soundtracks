@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
+| Heartlight | 57585 | [57585-heartlight.json](./57585-heartlight.json) |
 | Heartlight PC | 408254 | [408254-heartlight-pc.json](./408254-heartlight-pc.json) |
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
 | HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
+| Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 246935 | [246935-hello-kitty-world.json](./246935-hello-kitty-world.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
+| Hero's Puzzle Path | 57572 | [57572-heros-puzzle-path.json](./57572-heros-puzzle-path.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
@@ -4966,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
+| Hide and Seek | 57570 | [57570-hide-and-seek.json](./57570-hide-and-seek.json) |
 | Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
