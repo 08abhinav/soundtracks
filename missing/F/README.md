@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fracture | 147649 | [147649-fatal-fracture.json](./147649-fatal-fracture.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
+| Fatal Frame II: Crimson Butterfly | 5105 | [5105-fatal-frame-ii-crimson-butterfly.json](./5105-fatal-frame-ii-crimson-butterfly.json) |
 | Fatal Frame II: Crimson Butterfly - Director's Cut | 24161 | [24161-fatal-frame-ii-crimson-butterfly-directors-cut.json](./24161-fatal-frame-ii-crimson-butterfly-directors-cut.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Edition | 387683 | [387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json](./387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json) |
