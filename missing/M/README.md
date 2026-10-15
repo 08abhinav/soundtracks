@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
+| Maximum Speed | 39438 | [39438-maximum-speed.json](./39438-maximum-speed.json) |
 | Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Sports Silver Collection | 406071 | [406071-maximum-sports-silver-collection.json](./406071-maximum-sports-silver-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
