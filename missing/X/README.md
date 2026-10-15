@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
 | XDM | 350468 | [350468-xdm.json](./350468-xdm.json) |
+| XDR: X-Dazedly-Ray | 59760 | [59760-xdr-x-dazedly-ray.json](./59760-xdr-x-dazedly-ray.json) |
 | xDx Ball Shooter | 186050 | [186050-xdx-ball-shooter.json](./186050-xdx-ball-shooter.json) |
 | Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
 | Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
