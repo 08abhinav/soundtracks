@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
+| Quadralien | 12727 | [12727-quadralien.json](./12727-quadralien.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadrapassel | 122774 | [122774-quadrapassel.json](./122774-quadrapassel.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
