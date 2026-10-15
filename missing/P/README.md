@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
+| Paradise Heights | 57596 | [57596-paradise-heights.json](./57596-paradise-heights.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
@@ -6786,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
+| Please Bang My Wife | 57550 | [57550-please-bang-my-wife.json](./57550-please-bang-my-wife.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
@@ -11373,6 +11375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psy-Phi | 66393 | [66393-psy-phi.json](./66393-psy-phi.json) |
 | Psyborg | 93450 | [93450-psyborg.json](./93450-psyborg.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
+| Psycard | 57554 | [57554-psycard.json](./57554-psycard.json) |
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
