@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Football Fan Party | 268130 | [268130-fantastic-football-fan-party.json](./268130-fantastic-football-fan-party.json) |
 | Fantastic Fortune 2: Triple Star | 220580 | [220580-fantastic-fortune-2-triple-star.json](./220580-fantastic-fortune-2-triple-star.json) |
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
+| Fantastic Fossils II | 73161 | [73161-fantastic-fossils-ii.json](./73161-fantastic-fossils-ii.json) |
 | Fantastic Four | 136849 | [136849-fantastic-four.json](./136849-fantastic-four.json) |
 | Fantastic Four | 220090 | [220090-fantastic-four.json](./220090-fantastic-four.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Darkness | 159103 | [159103-fire-and-darkness.json](./159103-fire-and-darkness.json) |
 | Fire and Dungeon | 154398 | [154398-fire-and-dungeon.json](./154398-fire-and-dungeon.json) |
 | Fire and Forget | 46735 | [46735-fire-and-forget.json](./46735-fire-and-forget.json) |
+| Fire and Forget 2: The Death Convoy | 73184 | [73184-fire-and-forget-2-the-death-convoy.json](./73184-fire-and-forget-2-the-death-convoy.json) |
 | Fire and Maneuver: Expansion - Boshin War | 246828 | [246828-fire-and-maneuver-expansion-boshin-war.json](./246828-fire-and-maneuver-expansion-boshin-war.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
@@ -5846,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
+| Flying Leo | 73174 | [73174-flying-leo.json](./73174-flying-leo.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Mustaches | 260201 | [260201-flying-mustaches.json](./260201-flying-mustaches.json) |
 | Flying Neko Delivery | 202136 | [202136-flying-neko-delivery.json](./202136-flying-neko-delivery.json) |
@@ -7805,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
+| Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
@@ -7931,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
 | Frequent Flyer: A Long Distance Love Story | 88089 | [88089-frequent-flyer-a-long-distance-love-story.json](./88089-frequent-flyer-a-long-distance-love-story.json) |
+| Frequon Invaders | 73186 | [73186-frequon-invaders.json](./73186-frequon-invaders.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
