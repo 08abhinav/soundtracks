@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
 | YuYu Hakusho Gaiden | 45606 | [45606-yuyu-hakusho-gaiden.json](./45606-yuyu-hakusho-gaiden.json) |
 | YuYu Hakusho II: Gekitou! Nanakyou no Tatakai | 46552 | [46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json](./46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json) |
+| YuYu Hakusho Yamishoubu!! Ankoku Bujutsu Kai | 37629 | [37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json](./37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json) |
 | YuYu Hakusho: Ankoku Bujutsukai-hen | 186653 | [186653-yuyu-hakusho-ankoku-bujutsukai-hen.json](./186653-yuyu-hakusho-ankoku-bujutsukai-hen.json) |
 | YuYu Hakusho: Bakutou Ankoku Bujutsu Kai | 48517 | [48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json](./48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json) |
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
