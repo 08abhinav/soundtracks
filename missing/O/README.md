@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon a Time There was a Twin-Tailed Sister Princess Who Was Very Unfriendly. | 272738 | [272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json](./272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json) |
+| Once Upon A Time: Little Red Riding Hood | 57574 | [57574-once-upon-a-time-little-red-riding-hood.json](./57574-once-upon-a-time-little-red-riding-hood.json) |
 | Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
 | Once Upon an All Hallow's Eve | 29718 | [29718-once-upon-an-all-hallows-eve.json](./29718-once-upon-an-all-hallows-eve.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opportunity: A Sugar Baby Story | 157069 | [157069-opportunity-a-sugar-baby-story.json](./157069-opportunity-a-sugar-baby-story.json) |
 | Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
+| Oppositely Opal | 58699 | [58699-oppositely-opal.json](./58699-oppositely-opal.json) |
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposoddo | 184384 | [184384-opposoddo.json](./184384-opposoddo.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
