@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
+| Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
@@ -6013,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
+| City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Driving Simulator | 147606 | [147606-city-bus-driving-simulator.json](./147606-city-bus-driving-simulator.json) |
@@ -8332,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
+| Combination Pro Soccer | 64877 | [64877-combination-pro-soccer.json](./64877-combination-pro-soccer.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
@@ -8859,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Killings | 340987 | [340987-confidential-killings.json](./340987-confidential-killings.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
+| Confidential Money: 300 Nichi de 3000 Man Dollar Kasegu Houhou | 64872 | [64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json](./64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json) |
 | Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
@@ -10953,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrayonCore | 324990 | [324990-crayoncore.json](./324990-crayoncore.json) |
 | Crayons | 159297 | [159297-crayons.json](./159297-crayons.json) |
 | Crayta | 133937 | [133937-crayta.json](./133937-crayta.json) |
+| Craz'D | 64870 | [64870-crazd.json](./64870-crazd.json) |
 | Craz'D: 13th Anniversary Edition | 313296 | [313296-crazd-13th-anniversary-edition.json](./313296-crazd-13th-anniversary-edition.json) |
 | Crazee Rider | 349898 | [349898-crazee-rider.json](./349898-crazee-rider.json) |
 | Crazi Lift | 190429 | [190429-crazi-lift.json](./190429-crazi-lift.json) |
@@ -11163,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
+| Crazy Quiz | 64845 | [64845-crazy-quiz.json](./64845-crazy-quiz.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
@@ -13262,6 +13268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
+| Custom Drive | 64873 | [64873-custom-drive.json](./64873-custom-drive.json) |
 | Custom Goban | 236181 | [236181-custom-goban.json](./236181-custom-goban.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
