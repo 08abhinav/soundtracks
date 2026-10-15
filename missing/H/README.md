@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Augusta | 37909 | [37909-harukanaru-augusta.json](./37909-harukanaru-augusta.json) |
 | Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
 | Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
+| Harukanaru Toki no Naka de | 49749 | [49749-harukanaru-toki-no-naka-de.json](./49749-harukanaru-toki-no-naka-de.json) |
 | Harukanaru Toki no Naka de 2 | 70658 | [70658-harukanaru-toki-no-naka-de-2.json](./70658-harukanaru-toki-no-naka-de-2.json) |
 | Harukanaru Toki no Naka de 3 | 70657 | [70657-harukanaru-toki-no-naka-de-3.json](./70657-harukanaru-toki-no-naka-de-3.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
