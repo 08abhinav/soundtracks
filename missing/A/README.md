@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
+| Aima Online | 62101 | [62101-aima-online.json](./62101-aima-online.json) |
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
 | Aivx Push | 372791 | [372791-aivx-push.json](./372791-aivx-push.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
+| Aiyoku no Eustia: Angel's Blessing | 62075 | [62075-aiyoku-no-eustia-angels-blessing.json](./62075-aiyoku-no-eustia-angels-blessing.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
@@ -10622,6 +10624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroball | 109211 | [109211-astroball.json](./109211-astroball.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
+| Astrobase Command | 62106 | [62106-astrobase-command.json](./62106-astrobase-command.json) |
 | Astrobatics | 270640 | [270640-astrobatics.json](./270640-astrobatics.json) |
 | Astrobattle | 178967 | [178967-astrobattle.json](./178967-astrobattle.json) |
 | AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
@@ -11748,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
+| Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
