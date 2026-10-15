@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
+| Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee: Classic Edition | 134394 | [134394-bee-classic-edition.json](./134394-bee-classic-edition.json) |
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | Beebmunch | 15666 | [15666-beebmunch.json](./15666-beebmunch.json) |
+| Beebo Deluxe | 25536 | [25536-beebo-deluxe.json](./25536-beebo-deluxe.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beebtote | 15667 | [15667-beebtote.json](./15667-beebtote.json) |
 | Beebtrek | 15668 | [15668-beebtrek.json](./15668-beebtrek.json) |
@@ -7921,6 +7923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
+| Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
@@ -8753,6 +8756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
+| Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
