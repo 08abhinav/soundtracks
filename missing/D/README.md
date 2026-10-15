@@ -3367,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
+| Decromancer | 35323 | [35323-decromancer.json](./35323-decromancer.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
 | Decrypto Project | 338686 | [338686-decrypto-project.json](./338686-decrypto-project.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
+| Diamond Deeps | 35322 | [35322-diamond-deeps.json](./35322-diamond-deeps.json) |
 | Diamond Detective | 307847 | [307847-diamond-detective.json](./307847-diamond-detective.json) |
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
@@ -10861,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfall: The Longest Journey - Limited Edition | 131933 | [131933-dreamfall-the-longest-journey-limited-edition.json](./131933-dreamfall-the-longest-journey-limited-edition.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
+| Dreamflight VR | 35399 | [35399-dreamflight-vr.json](./35399-dreamflight-vr.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
