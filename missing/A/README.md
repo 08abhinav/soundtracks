@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Spanner-X: Endless Fire | 268388 | [268388-advanced-spanner-x-endless-fire.json](./268388-advanced-spanner-x-endless-fire.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
+| Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Evolution Plus Season Pack 2018 | 118683 | [118683-afl-evolution-plus-season-pack-2018.json](./118683-afl-evolution-plus-season-pack-2018.json) |
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
+| AFL Live 2 | 6907 | [6907-afl-live-2.json](./6907-afl-live-2.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
 | AFL Premiership Coach 2010 | 66019 | [66019-afl-premiership-coach-2010.json](./66019-afl-premiership-coach-2010.json) |
@@ -3281,7 +3283,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
+| AI War: Children of Neinzul | 8886 | [8886-ai-war-children-of-neinzul.json](./8886-ai-war-children-of-neinzul.json) |
+| AI War: Destroyer of Worlds | 8890 | [8890-ai-war-destroyer-of-worlds.json](./8890-ai-war-destroyer-of-worlds.json) |
 | AI War: Fleet Command | 7720 | [7720-ai-war-fleet-command.json](./7720-ai-war-fleet-command.json) |
+| AI War: Light of the Spire | 8887 | [8887-ai-war-light-of-the-spire.json](./8887-ai-war-light-of-the-spire.json) |
+| AI War: The Zenith Remnant | 8885 | [8885-ai-war-the-zenith-remnant.json](./8885-ai-war-the-zenith-remnant.json) |
+| AI War: Vengeance of the Machine | 8889 | [8889-ai-war-vengeance-of-the-machine.json](./8889-ai-war-vengeance-of-the-machine.json) |
 | AI Wars: The Awakening | 71500 | [71500-ai-wars-the-awakening.json](./71500-ai-wars-the-awakening.json) |
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
 | Ai Yu Ming De Bi Duan | 151021 | [151021-ai-yu-ming-de-bi-duan.json](./151021-ai-yu-ming-de-bi-duan.json) |
@@ -4887,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-In-One Summer Sports VR | 257268 | [257268-all-in-one-summer-sports-vr.json](./257268-all-in-one-summer-sports-vr.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
+| All-Pro Basketball | 8909 | [8909-all-pro-basketball.json](./8909-all-pro-basketball.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Air Hockey | 84743 | [84743-all-star-air-hockey.json](./84743-all-star-air-hockey.json) |
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
@@ -9011,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
+| Arena of Fate | 6877 | [6877-arena-of-fate.json](./6877-arena-of-fate.json) |
 | Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
 | Arena of Octos | 192112 | [192112-arena-of-octos.json](./192112-arena-of-octos.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
@@ -10306,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
+| Assault | 6881 | [6881-assault.json](./6881-assault.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
