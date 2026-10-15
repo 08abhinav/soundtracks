@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action Man: Raid on Island X | 72539 | [72539-action-man-raid-on-island-x.json](./72539-action-man-raid-on-island-x.json) |
+| Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
