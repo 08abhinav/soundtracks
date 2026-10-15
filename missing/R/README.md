@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
+| Resident Evil 5 Remastered | 23215 | [23215-resident-evil-5-remastered.json](./23215-resident-evil-5-remastered.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
 | Resident Evil 5: Desperate Escape | 21654 | [21654-resident-evil-5-desperate-escape.json](./21654-resident-evil-5-desperate-escape.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Mythos | 23618 | [23618-rise-of-mythos.json](./23618-rise-of-mythos.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
+| Rise of Nations: Rise of Legends | 18797 | [18797-rise-of-nations-rise-of-legends.json](./18797-rise-of-nations-rise-of-legends.json) |
 | Rise of Nations: Thrones & Patriots | 849 | [849-rise-of-nations-thrones-and-patriots.json](./849-rise-of-nations-thrones-and-patriots.json) |
 | Rise of Nightmares | 20159 | [20159-rise-of-nightmares.json](./20159-rise-of-nightmares.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
@@ -6458,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight | 10782 | [10782-rocket-knight.json](./10782-rocket-knight.json) |
+| Rocket Knight Adventures | 9766 | [9766-rocket-knight-adventures.json](./9766-rocket-knight-adventures.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
 | Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
 | Rocket League Sideswipe: Season 5 | 223084 | [223084-rocket-league-sideswipe-season-5.json](./223084-rocket-league-sideswipe-season-5.json) |
