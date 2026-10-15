@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
+| NBA Fastbreak '98 | 43780 | [43780-nba-fastbreak-98.json](./43780-nba-fastbreak-98.json) |
 | NBA Give 'n Go | 42482 | [42482-nba-give-n-go.json](./42482-nba-give-n-go.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
+| NFL GameDay 2001 | 43763 | [43763-nfl-gameday-2001.json](./43763-nfl-gameday-2001.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
 | NFL GameDay 98 | 45216 | [45216-nfl-gameday-98.json](./45216-nfl-gameday-98.json) |
 | NFL GameDay 99 | 45218 | [45218-nfl-gameday-99.json](./45218-nfl-gameday-99.json) |
@@ -2663,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Powerplay '96 | 45122 | [45122-nhl-powerplay-96.json](./45122-nhl-powerplay-96.json) |
+| NHL Powerplay '98 | 43761 | [43761-nhl-powerplay-98.json](./43761-nhl-powerplay-98.json) |
 | NHL Rivals 2004 | 45126 | [45126-nhl-rivals-2004.json](./45126-nhl-rivals-2004.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
