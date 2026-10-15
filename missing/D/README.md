@@ -6990,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Cinderella's Magic Wishes | 79552 | [79552-disney-princess-cinderellas-magic-wishes.json](./79552-disney-princess-cinderellas-magic-wishes.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
+| Disney Princess: Enchanting Storybooks | 5187 | [5187-disney-princess-enchanting-storybooks.json](./5187-disney-princess-enchanting-storybooks.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
 | Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Story Book | 290322 | [290322-disney-story-book.json](./290322-disney-story-book.json) |
 | Disney Superbia | 243801 | [243801-disney-superbia.json](./243801-disney-superbia.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
+| Disney Think Fast: The Ultimate Trivia Showdown | 5218 | [5218-disney-think-fast-the-ultimate-trivia-showdown.json](./5218-disney-think-fast-the-ultimate-trivia-showdown.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
 | Disney Tsum Tsum Festival | 115332 | [115332-disney-tsum-tsum-festival.json](./115332-disney-tsum-tsum-festival.json) |
 | Disney Tsum Tsum Land | 125808 | [125808-disney-tsum-tsum-land.json](./125808-disney-tsum-tsum-land.json) |
