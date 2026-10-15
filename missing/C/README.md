@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
+| Charlie Blasts Territory | 10665 | [10665-charlie-blasts-territory.json](./10665-charlie-blasts-territory.json) |
 | Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
