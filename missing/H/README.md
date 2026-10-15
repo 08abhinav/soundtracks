@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
+| Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
 | Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
@@ -8273,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
 | Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
+| Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
 | Hyakuretsuken: Hokuto no Ken Gekiuchi 3 | 64183 | [64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json](./64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json) |
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
