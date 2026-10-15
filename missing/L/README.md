@@ -6079,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Warriors | 286448 | [286448-lovely-warriors.json](./286448-lovely-warriors.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
+| LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
