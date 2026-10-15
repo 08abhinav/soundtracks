@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:20:41.019Z",
-  "total_missing": 216611,
+  "generated_at": "2026-10-15T19:39:21.624Z",
+  "total_missing": 216604,
   "games": [
     {
       "igdb_id": 191680,
@@ -47000,11 +47000,6 @@
       "igdb_id": 384863,
       "game_name": "Anomaly 404",
       "file": "missing/A/384863-anomaly-404.json"
-    },
-    {
-      "igdb_id": 249084,
-      "game_name": "Anomaly Agent",
-      "file": "missing/A/249084-anomaly-agent.json"
     },
     {
       "igdb_id": 389123,
@@ -184680,11 +184675,6 @@
       "igdb_id": 192781,
       "game_name": "Coral Drive",
       "file": "missing/C/192781-coral-drive.json"
-    },
-    {
-      "igdb_id": 143061,
-      "game_name": "Coral Island",
-      "file": "missing/C/143061-coral-island.json"
     },
     {
       "igdb_id": 347857,
@@ -416547,11 +416537,6 @@
       "file": "missing/H/125386-hogwash.json"
     },
     {
-      "igdb_id": 10088,
-      "game_name": "Hohokum",
-      "file": "missing/H/10088-hohokum.json"
-    },
-    {
       "igdb_id": 79765,
       "game_name": "Hoi",
       "file": "missing/H/79765-hoi.json"
@@ -497697,11 +497682,6 @@
       "file": "missing/L/405024-layers-of-bust.json"
     },
     {
-      "igdb_id": 204363,
-      "game_name": "Layers of Fear",
-      "file": "missing/L/204363-layers-of-fear.json"
-    },
-    {
       "igdb_id": 239164,
       "game_name": "Layers of Fear 2",
       "file": "missing/L/239164-layers-of-fear-2.json"
@@ -519040,11 +519020,6 @@
       "igdb_id": 416689,
       "game_name": "Lost in Paradise",
       "file": "missing/L/416689-lost-in-paradise.json"
-    },
-    {
-      "igdb_id": 150462,
-      "game_name": "Lost in Play",
-      "file": "missing/L/150462-lost-in-play.json"
     },
     {
       "igdb_id": 291445,
@@ -604982,11 +604957,6 @@
       "file": "missing/N/23759-natural-selection.json"
     },
     {
-      "igdb_id": 1335,
-      "game_name": "Natural Selection 2",
-      "file": "missing/N/1335-natural-selection-2.json"
-    },
-    {
       "igdb_id": 93808,
       "game_name": "Natural Selection 2 - Deluxe DLC",
       "file": "missing/N/93808-natural-selection-2-deluxe-dlc.json"
@@ -609570,11 +609540,6 @@
       "igdb_id": 357308,
       "game_name": "Neo: The Rainbow Sorcerer",
       "file": "missing/N/357308-neo-the-rainbow-sorcerer.json"
-    },
-    {
-      "igdb_id": 141192,
-      "game_name": "NEO: The World Ends with You",
-      "file": "missing/N/141192-neo-the-world-ends-with-you.json"
     },
     {
       "igdb_id": 362436,
