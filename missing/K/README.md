@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kengo: Master of Bushido | 1420 | [1420-kengo-master-of-bushido.json](./1420-kengo-master-of-bushido.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
+| Kenju | 39440 | [39440-kenju.json](./39440-kenju.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
+| Knights of Valour: The Seven Spirits | 39439 | [39439-knights-of-valour-the-seven-spirits.json](./39439-knights-of-valour-the-seven-spirits.json) |
 | Knights of Xentar | 2518 | [2518-knights-of-xentar.json](./2518-knights-of-xentar.json) |
 | Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
 | Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
