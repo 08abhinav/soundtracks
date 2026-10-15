@@ -7792,8 +7792,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
+| Appli Archives: IDAC Escape Game Pack 1 | 56410 | [56410-appli-archives-idac-escape-game-pack-1.json](./56410-appli-archives-idac-escape-game-pack-1.json) |
+| Appli Archives: Jaleco Argus & Field Combat | 56414 | [56414-appli-archives-jaleco-argus-and-field-combat.json](./56414-appli-archives-jaleco-argus-and-field-combat.json) |
+| Appli Archives: Jaleco City Connection | 56412 | [56412-appli-archives-jaleco-city-connection.json](./56412-appli-archives-jaleco-city-connection.json) |
 | Appli Archives: Jaleco Formation Z & Bases Loaded | 83241 | [83241-appli-archives-jaleco-formation-z-and-bases-loaded.json](./83241-appli-archives-jaleco-formation-z-and-bases-loaded.json) |
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
+| Appli Archives: Nikoli Slitherlink | 56413 | [56413-appli-archives-nikoli-slitherlink.json](./56413-appli-archives-nikoli-slitherlink.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
