@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Horror | 322781 | [322781-halloween-horror.json](./322781-halloween-horror.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
 | Halloween is Crazy as Hell | 172026 | [172026-halloween-is-crazy-as-hell.json](./172026-halloween-is-crazy-as-hell.json) |
+| Halloween Jewels | 24776 | [24776-halloween-jewels.json](./24776-halloween-jewels.json) |
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
@@ -593,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
 | Halo 4: Limited Edition | 45148 | [45148-halo-4-limited-edition.json](./45148-halo-4-limited-edition.json) |
 | Halo 4: Majestic Map Pack | 75415 | [75415-halo-4-majestic-map-pack.json](./75415-halo-4-majestic-map-pack.json) |
+| Halo 5: Forge | 24782 | [24782-halo-5-forge.json](./24782-halo-5-forge.json) |
 | Halo 5: Guardians - Digital Deluxe Edition | 75413 | [75413-halo-5-guardians-digital-deluxe-edition.json](./75413-halo-5-guardians-digital-deluxe-edition.json) |
 | Halo 5: Guardians - Limited Collector's Edition | 45144 | [45144-halo-5-guardians-limited-collectors-edition.json](./45144-halo-5-guardians-limited-collectors-edition.json) |
 | Halo 5: Guardians - Limited Edition | 45145 | [45145-halo-5-guardians-limited-edition.json](./45145-halo-5-guardians-limited-edition.json) |
@@ -6018,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
+| Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
@@ -8277,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurry Up Hedgehog! | 47855 | [47855-hurry-up-hedgehog.json](./47855-hurry-up-hedgehog.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
+| Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
