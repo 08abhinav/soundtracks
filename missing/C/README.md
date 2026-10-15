@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Chalkboard | 183279 | [183279-chalkboard.json](./183279-chalkboard.json) |
 | Chalkboard Sports Baseball | 80123 | [80123-chalkboard-sports-baseball.json](./80123-chalkboard-sports-baseball.json) |
+| Chalkboard Stunts | 63208 | [63208-chalkboard-stunts.json](./63208-chalkboard-stunts.json) |
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
 | Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
@@ -5040,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
+| Choice of Broadsides | 63202 | [63202-choice-of-broadsides.json](./63202-choice-of-broadsides.json) |
 | Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
 | Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
@@ -6896,8 +6898,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
+| Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
 | Close Combat: Gateway to Caen | 17346 | [17346-close-combat-gateway-to-caen.json](./17346-close-combat-gateway-to-caen.json) |
 | Close Combat: Modern Tactics | 21519 | [21519-close-combat-modern-tactics.json](./21519-close-combat-modern-tactics.json) |
+| Close Combat: RAF Regiment | 63190 | [63190-close-combat-raf-regiment.json](./63190-close-combat-raf-regiment.json) |
+| Close Combat: The Longest Day | 63186 | [63186-close-combat-the-longest-day.json](./63186-close-combat-the-longest-day.json) |
+| Close Combat: Wacht am Rhein | 63187 | [63187-close-combat-wacht-am-rhein.json](./63187-close-combat-wacht-am-rhein.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
 | Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
