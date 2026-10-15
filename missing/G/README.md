@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallag | 232392 | [232392-gallag.json](./232392-gallag.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
+| Gallagher's Gallery | 67891 | [67891-gallaghers-gallery.json](./67891-gallaghers-gallery.json) |
 | Gallantry | 145914 | [145914-gallantry.json](./145914-gallantry.json) |
 | Gallbladder +++ | 288101 | [288101-gallbladder.json](./288101-gallbladder.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
+| Ghoul | 67918 | [67918-ghoul.json](./67918-ghoul.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
 | Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
+| Glum Buster | 67875 | [67875-glum-buster.json](./67875-glum-buster.json) |
 | Gluon | 377961 | [377961-gluon.json](./377961-gluon.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glut: A Superabundance of Nothing | 191500 | [191500-glut-a-superabundance-of-nothing.json](./191500-glut-a-superabundance-of-nothing.json) |
