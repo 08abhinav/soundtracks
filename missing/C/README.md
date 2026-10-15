@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
+| Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
@@ -4028,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charon's Staircase: Digital Deluxe Edition | 250417 | [250417-charons-staircase-digital-deluxe-edition.json](./250417-charons-staircase-digital-deluxe-edition.json) |
+| Charpi | 55783 | [55783-charpi.json](./55783-charpi.json) |
 | Charrua Soccer | 134546 | [134546-charrua-soccer.json](./134546-charrua-soccer.json) |
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
+| Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | CliffDivers | 273294 | [273294-cliffdivers.json](./273294-cliffdivers.json) |
@@ -10765,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrankyCube | 387708 | [387708-crankycube.json](./387708-crankycube.json) |
 | Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
 | CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
+| Crap Attack | 55770 | [55770-crap-attack.json](./55770-crap-attack.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
@@ -12347,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
+| Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
