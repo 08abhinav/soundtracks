@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
+| Voodoo Girl: Queen of the Darned | 70286 | [70286-voodoo-girl-queen-of-the-darned.json](./70286-voodoo-girl-queen-of-the-darned.json) |
 | Voodoo Lunch | 14492 | [14492-voodoo-lunch.json](./14492-voodoo-lunch.json) |
 | Voodoo Nightmare | 218113 | [218113-voodoo-nightmare.json](./218113-voodoo-nightmare.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
