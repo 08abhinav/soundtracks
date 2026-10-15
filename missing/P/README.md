@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendula Swing: The Complete Journey | 130075 | [130075-pendula-swing-the-complete-journey.json](./130075-pendula-swing-the-complete-journey.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
+| Pendulous | 64841 | [64841-pendulous.json](./64841-pendulous.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
 | Penelope's Gift | 397379 | [397379-penelopes-gift.json](./397379-penelopes-gift.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Quest: For the Love of Daphne | 67349 | [67349-peters-quest-for-the-love-of-daphne.json](./67349-peters-quest-for-the-love-of-daphne.json) |
 | Petey Pedro Unbeetable Adventure | 272237 | [272237-petey-pedro-unbeetable-adventure.json](./272237-petey-pedro-unbeetable-adventure.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
+| Petit Computer | 64865 | [64865-petit-computer.json](./64865-petit-computer.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
 | Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
@@ -7877,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
+| Poker Pals | 64849 | [64849-poker-pals.json](./64849-poker-pals.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
