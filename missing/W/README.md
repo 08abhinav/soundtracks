@@ -5040,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
 | Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
+| Word Block | 63746 | [63746-word-block.json](./63746-word-block.json) |
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
+| Worm Run | 63768 | [63768-worm-run.json](./63768-worm-run.json) |
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Slayer | 197206 | [197206-worm-slayer.json](./197206-worm-slayer.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
@@ -6196,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
+| Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
 | Wrinkle in Time | 108890 | [108890-wrinkle-in-time.json](./108890-wrinkle-in-time.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
