@@ -2422,7 +2422,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GetBackers Dakkanya: Jigoku no Scaramouche | 49601 | [49601-getbackers-dakkanya-jigoku-no-scaramouche.json](./49601-getbackers-dakkanya-jigoku-no-scaramouche.json) |
 | GetBackers Dakkanya: Metropolis Dakkan Sakusen! | 49600 | [49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json](./49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
+| Geten no Hana | 62085 | [62085-geten-no-hana.json](./62085-geten-no-hana.json) |
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
+| Geten no Hana: Yume Akari | 62093 | [62093-geten-no-hana-yume-akari.json](./62093-geten-no-hana-yume-akari.json) |
 | GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
 | Getsu Fuuma Den | 15829 | [15829-getsu-fuuma-den.json](./15829-getsu-fuuma-den.json) |
@@ -3176,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glacier | 73153 | [73153-glacier.json](./73153-glacier.json) |
 | Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
+| Glacier Blast | 62108 | [62108-glacier-blast.json](./62108-glacier-blast.json) |
 | Glacier Patrol | 40674 | [40674-glacier-patrol.json](./40674-glacier-patrol.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
@@ -7394,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMania | 328953 | [328953-gunmania.json](./328953-gunmania.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
+| Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
