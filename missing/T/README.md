@@ -3510,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
+| Tex Atomic's Big Bot Battles | 70268 | [70268-tex-atomics-big-bot-battles.json](./70268-tex-atomics-big-bot-battles.json) |
 | Tex Murphy: Killing Moon Rising | 404988 | [404988-tex-murphy-killing-moon-rising.json](./404988-tex-murphy-killing-moon-rising.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
+| The French Open 1998 | 70302 | [70302-the-french-open-1998.json](./70302-the-french-open-1998.json) |
 | The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
@@ -9094,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
 | The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
+| The Magic School Bus Explores Bugs | 70312 | [70312-the-magic-school-bus-explores-bugs.json](./70312-the-magic-school-bus-explores-bugs.json) |
 | The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Rainforest | 66752 | [66752-the-magic-school-bus-explores-the-rainforest.json](./66752-the-magic-school-bus-explores-the-rainforest.json) |
@@ -17484,6 +17487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Toraware no Shoujo: Bluebird of Happiness | 151824 | [151824-toraware-no-shoujo-bluebird-of-happiness.json](./151824-toraware-no-shoujo-bluebird-of-happiness.json) |
+| Torawareta Garasu no Kokoro | 70310 | [70310-torawareta-garasu-no-kokoro.json](./70310-torawareta-garasu-no-kokoro.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
 | Torb | 176326 | [176326-torb.json](./176326-torb.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
@@ -22075,6 +22079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
+| Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
