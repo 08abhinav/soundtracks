@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
 | Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
+| Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
+| Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
@@ -3227,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
+| Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
@@ -4421,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
+| Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
