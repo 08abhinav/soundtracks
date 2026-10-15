@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
+| Mavis Beacon Teaches Typing! | 71429 | [71429-mavis-beacon-teaches-typing.json](./71429-mavis-beacon-teaches-typing.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
@@ -7562,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
+| Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
@@ -12082,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
 | Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
+| Mountains of Ket | 71424 | [71424-mountains-of-ket.json](./71424-mountains-of-ket.json) |
 | Mounted Knights Battle: Medieval Warrior Honor Simulator | 299524 | [299524-mounted-knights-battle-medieval-warrior-honor-simulator.json](./299524-mounted-knights-battle-medieval-warrior-honor-simulator.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
