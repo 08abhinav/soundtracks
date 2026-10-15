@@ -993,6 +993,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/be/7c/5ebe7c7c-3c3e-91e8-fba9-1e28d796f83b/780163568929.jpg/600x600bb.jpg" width="60" /> | [Skate.](https://ostdb.net/games/skate) | **skate. (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/skate-original-soundtrack/1514706097?uo=4) · [Album](https://album.link/i/1514706097) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273359cd1a4a09bcbd4f63e45d5" width="60" /> | [Skull and Bones](https://ostdb.net/games/skull-and-bones) | **Skull and Bones (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3kuFLe0af6knBBoRtYDta0)<br>**Skull and Bones: Rise of the Kingpins (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Ka5oZIVMtC7SU0e3EdZ1e) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/4b/ba/d54bba7e-9143-2851-f737-fdabde127932/780163672121.jpg/600x600bb.jpg" width="60" /> | [Skydance's Behemoth](https://ostdb.net/games/skydances-behemoth) | **Skydance's BEHEMOTH (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/skydances-behemoth-original-game-soundtrack/1810311737?uo=4) · [Album](https://album.link/i/1810311737) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d346f932ff1e066ac11a8" width="60" /> | [Skylanders: Trap Team](https://ostdb.net/games/skylanders-trap-team) | **Skylanders Trap Team (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2qkJV8TkFHNN9BwaP1nGmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcec406a14284cb37371f958" width="60" /> | [Slay the Spire](https://ostdb.net/games/slay-the-spire) | **Slay the Spire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5AdlJGBQAioI4n8ZQCTG33) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/70/67/9b7067b7-f05b-3c92-db44-bc9c043edc70/196873675886.jpg/600x600bb.jpg" width="60" /> | [Sleep Awake](https://ostdb.net/games/sleep-awake) | **Sleep Awake (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4) · [Album](https://album.link/i/1853942095) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a624ac96f1cfb39602cf1b3" width="60" /> | [Sleeping Dogs](https://ostdb.net/games/sleeping-dogs) | **Sleeping Dogs (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/5EtvSNRBjcMAAaalUMYprz) |
@@ -1355,4 +1356,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1672 soundtracks · last updated 2026-10-15T06:35:45.743Z_
+_1673 soundtracks · last updated 2026-10-15T06:45:46.239Z_
