@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
+| C'est pas Sorcier: Mystérieuse Disparition en Amazonie | 56970 | [56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json](./56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
 | C&T | 197267 | [197267-c-and-t.json](./197267-c-and-t.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
+| Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
