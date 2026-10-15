@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelor Party | 11128 | [11128-bachelor-party.json](./11128-bachelor-party.json) |
 | Bachelor Party/Gigolo | 79966 | [79966-bachelor-party-gigolo.json](./79966-bachelor-party-gigolo.json) |
 | Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
+| Bachelorette Party | 40640 | [40640-bachelorette-party.json](./40640-bachelorette-party.json) |
 | Bachi-bachi Pawer | 376882 | [376882-bachi-bachi-pawer.json](./376882-bachi-bachi-pawer.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beraltors | 117078 | [117078-beraltors.json](./117078-beraltors.json) |
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
+| Berenstain Bears | 40634 | [40634-berenstain-bears.json](./40634-berenstain-bears.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
 | Bereshipsis | 349262 | [349262-bereshipsis.json](./349262-bereshipsis.json) |
@@ -4927,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
+| Bifrost Breakout | 40606 | [40606-bifrost-breakout.json](./40606-bifrost-breakout.json) |
 | Bifrost Spire | 71387 | [71387-bifrost-spire.json](./71387-bifrost-spire.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
@@ -4979,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Ben | 13814 | [13814-big-ben.json](./13814-big-ben.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
+| Big Bird's Egg Catch | 40633 | [40633-big-birds-egg-catch.json](./40633-big-birds-egg-catch.json) |
 | Big Bird's Funhouse | 362421 | [362421-big-birds-funhouse.json](./362421-big-birds-funhouse.json) |
 | Big Bird's Special Delivery | 362422 | [362422-big-birds-special-delivery.json](./362422-big-birds-special-delivery.json) |
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
@@ -7681,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Hell Hotel | 213557 | [213557-bloody-hell-hotel.json](./213557-bloody-hell-hotel.json) |
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
+| Bloody Human Freeway | 40610 | [40610-bloody-human-freeway.json](./40610-bloody-human-freeway.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
 | Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
@@ -8264,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogdan's HeartQuest: The Invader Slayer | 204962 | [204962-bogdans-heartquest-the-invader-slayer.json](./204962-bogdans-heartquest-the-invader-slayer.json) |
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
+| Bogey Blaster | 40632 | [40632-bogey-blaster.json](./40632-bogey-blaster.json) |
 | Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Bogey's Report | 344327 | [344327-bogeys-report.json](./344327-bogeys-report.json) |
@@ -8831,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Adventures | 233659 | [233659-boom-adventures.json](./233659-boom-adventures.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
+| Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
@@ -11702,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
+| Bumper Bash | 40630 | [40630-bumper-bash.json](./40630-bumper-bash.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
