@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
 | Warriors of Destiny | 188346 | [188346-warriors-of-destiny.json](./188346-warriors-of-destiny.json) |
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
+| Warriors of Elysia | 66569 | [66569-warriors-of-elysia.json](./66569-warriors-of-elysia.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 9 | 72967 | [72967-world-soccer-winning-eleven-9.json](./72967-world-soccer-winning-eleven-9.json) |
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
+| World Sports Party | 66581 | [66581-world-sports-party.json](./66581-world-sports-party.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
