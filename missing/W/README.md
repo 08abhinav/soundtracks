@@ -3856,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windborn: Journey to the South | 328982 | [328982-windborn-journey-to-the-south.json](./328982-windborn-journey-to-the-south.json) |
 | Windbound | 132051 | [132051-windbound.json](./132051-windbound.json) |
 | Windchaser | 50435 | [50435-windchaser.json](./50435-windchaser.json) |
+| Windchaser: Guilds of Glory | 69139 | [69139-windchaser-guilds-of-glory.json](./69139-windchaser-guilds-of-glory.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
 | Windfallers | 133145 | [133145-windfallers.json](./133145-windfallers.json) |
@@ -6158,6 +6159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Angels 2: Top Eventer | 228615 | [228615-wrestle-angels-2-top-eventer.json](./228615-wrestle-angels-2-top-eventer.json) |
 | Wrestle Angels 3 | 228617 | [228617-wrestle-angels-3.json](./228617-wrestle-angels-3.json) |
 | Wrestle Angels Special: Mou Hitori no Top Eventer | 228623 | [228623-wrestle-angels-special-mou-hitori-no-top-eventer.json](./228623-wrestle-angels-special-mou-hitori-no-top-eventer.json) |
+| Wrestle Angels: Survivor | 69146 | [69146-wrestle-angels-survivor.json](./69146-wrestle-angels-survivor.json) |
+| Wrestle Angels: Survivor 2 | 69147 | [69147-wrestle-angels-survivor-2.json](./69147-wrestle-angels-survivor-2.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
