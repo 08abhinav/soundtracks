@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
 | Electric Fairyland | 314922 | [314922-electric-fairyland.json](./314922-electric-fairyland.json) |
+| Electric Racing Car | 59770 | [59770-electric-racing-car.json](./59770-electric-racing-car.json) |
 | Electric RC Sim | 101044 | [101044-electric-rc-sim.json](./101044-electric-rc-sim.json) |
 | Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Truth | 149434 | [149434-elven-truth.json](./149434-elven-truth.json) |
 | Elven War RPG | 244227 | [244227-elven-war-rpg.json](./244227-elven-war-rpg.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
+| Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
