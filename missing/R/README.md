@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Ramune's Square Dungeon | 367284 | [367284-ramunes-square-dungeon.json](./367284-ramunes-square-dungeon.json) |
+| Ran Online | 50450 | [50450-ran-online.json](./50450-ran-online.json) |
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
@@ -6785,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
+| Rogue Moon | 50377 | [50377-rogue-moon.json](./50377-rogue-moon.json) |
 | Rogue Night | 292266 | [292266-rogue-night.json](./292266-rogue-night.json) |
 | Rogue Ninja: Elemental Onslaught | 287053 | [287053-rogue-ninja-elemental-onslaught.json](./287053-rogue-ninja-elemental-onslaught.json) |
 | Rogue Ninjas | 344417 | [344417-rogue-ninjas.json](./344417-rogue-ninjas.json) |
