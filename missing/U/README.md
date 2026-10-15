@@ -2245,6 +2245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uragiri wa Boku no Namae wo Shitteiru: Tasogare ni Ochita Inori | 287900 | [287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json](./287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json) |
 | URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
 | URagnarok 2 | 98022 | [98022-uragnarok-2.json](./98022-uragnarok-2.json) |
+| Urakata Hakuoki | 60978 | [60978-urakata-hakuoki.json](./60978-urakata-hakuoki.json) |
+| Urakata Hakuoki: Akatsuki no Shirabe | 60988 | [60988-urakata-hakuoki-akatsuki-no-shirabe.json](./60988-urakata-hakuoki-akatsuki-no-shirabe.json) |
 | Uranai Angel Cutie | 128893 | [128893-uranai-angel-cutie.json](./128893-uranai-angel-cutie.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
 | Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
