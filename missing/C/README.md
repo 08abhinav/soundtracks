@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
+| Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
@@ -10935,10 +10936,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
+| Crayon Shin-chan 2: Daimaou no Gyakushuu | 65378 | [65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json](./65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json) |
 | Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
+| Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-chan: Obaka Dainin Den - Susume! Kasukabe Ninja Tai! | 269680 | [269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json](./269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json) |
@@ -13601,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
+| Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
@@ -13882,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
+| Cyvern: The Dragon Weapons | 65404 | [65404-cyvern-the-dragon-weapons.json](./65404-cyvern-the-dragon-weapons.json) |
 | Cywall | 399878 | [399878-cywall.json](./399878-cywall.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
 | Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
