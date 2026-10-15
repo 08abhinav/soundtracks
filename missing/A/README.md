@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
+| Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
 | Advance to Boardwalk | 69895 | [69895-advance-to-boardwalk.json](./69895-advance-to-boardwalk.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
@@ -2679,6 +2680,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Premiership Coach 2011 | 66018 | [66018-afl-premiership-coach-2011.json](./66018-afl-premiership-coach-2011.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
+| Afraid Gear | 59331 | [59331-afraid-gear.json](./59331-afraid-gear.json) |
+| Afraid Gear Another | 59330 | [59330-afraid-gear-another.json](./59330-afraid-gear-another.json) |
 | Afraid of God | 390697 | [390697-afraid-of-god.json](./390697-afraid-of-god.json) |
 | Afraid of Monsters | 131925 | [131925-afraid-of-monsters.json](./131925-afraid-of-monsters.json) |
 | Afraid of Monsters: Director's Cut | 131928 | [131928-afraid-of-monsters-directors-cut.json](./131928-afraid-of-monsters-directors-cut.json) |
@@ -7208,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Touch de Waku-waku Training | 71032 | [71032-anpanman-to-touch-de-waku-waku-training.json](./71032-anpanman-to-touch-de-waku-waku-training.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
+| Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
