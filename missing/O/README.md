@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
+| Ozma Wars | 40069 | [40069-ozma-wars.json](./40069-ozma-wars.json) |
 | Ozmafia!! | 21061 | [21061-ozmafia.json](./21061-ozmafia.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
 | Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
