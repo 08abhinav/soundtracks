@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.N. Squadron | 238967 | [238967-u-n-squadron.json](./238967-u-n-squadron.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
+| U.S. Most Wanted: Nowhere to Hide | 73178 | [73178-u-s-most-wanted-nowhere-to-hide.json](./73178-u-s-most-wanted-nowhere-to-hide.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S. Navy Fighters - Marine Fighters | 70463 | [70463-u-s-navy-fighters-marine-fighters.json](./70463-u-s-navy-fighters-marine-fighters.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
