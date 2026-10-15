@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
 | Demigoddess! | 335418 | [335418-demigoddess.json](./335418-demigoddess.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
+| DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demise: Survival Uncharted | 260311 | [260311-demise-survival-uncharted.json](./260311-demise-survival-uncharted.json) |
@@ -6600,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Piggy | 364995 | [364995-dirty-piggy.json](./364995-dirty-piggy.json) |
+| Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
@@ -7022,10 +7024,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
 | Disney's Kim Possible | 339884 | [339884-disneys-kim-possible.json](./339884-disneys-kim-possible.json) |
+| Disney's Kim Possible 3: Team Possible | 49186 | [49186-disneys-kim-possible-3-team-possible.json](./49186-disneys-kim-possible-3-team-possible.json) |
 | Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
 | Disney's Lilo & Stitch 2: Hämsterviel Havoc | 49261 | [49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json](./49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
+| Disney's Little Einsteins | 49190 | [49190-disneys-little-einsteins.json](./49190-disneys-little-einsteins.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
@@ -7072,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Toy Story | 228497 | [228497-disneys-toy-story.json](./228497-disneys-toy-story.json) |
 | Disney's Toy Story | 8020 | [8020-disneys-toy-story.json](./8020-disneys-toy-story.json) |
 | Disney's Treasure Planet | 144084 | [144084-disneys-treasure-planet.json](./144084-disneys-treasure-planet.json) |
+| Disney's Treasure Planet | 49202 | [49202-disneys-treasure-planet.json](./49202-disneys-treasure-planet.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
@@ -8939,13 +8944,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Dance to the Rescue | 71970 | [71970-dora-the-explorer-dance-to-the-rescue.json](./71970-dora-the-explorer-dance-to-the-rescue.json) |
 | Dora the Explorer: Dora Saves the Crystal Kingdom | 7977 | [7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json](./7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
+| Dora the Explorer: Dora's World Adventure! | 49230 | [49230-dora-the-explorer-doras-world-adventure.json](./49230-dora-the-explorer-doras-world-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
 | Dora the Explorer: Journey to the Purple Planet | 3892 | [3892-dora-the-explorer-journey-to-the-purple-planet.json](./3892-dora-the-explorer-journey-to-the-purple-planet.json) |
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
 | Dora the Explorer: Lost City Adventure | 79365 | [79365-dora-the-explorer-lost-city-adventure.json](./79365-dora-the-explorer-lost-city-adventure.json) |
 | Dora the Explorer: Nursery Rhyme Adventure | 221673 | [221673-dora-the-explorer-nursery-rhyme-adventure.json](./221673-dora-the-explorer-nursery-rhyme-adventure.json) |
 | Dora the Explorer: Piñata Party! | 230427 | [230427-dora-the-explorer-pinata-party.json](./230427-dora-the-explorer-pinata-party.json) |
+| Dora the Explorer: Super Spies | 49200 | [49200-dora-the-explorer-super-spies.json](./49200-dora-the-explorer-super-spies.json) |
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
+| Dora the Explorer: The Search for Pirate Pig's Treasure | 49201 | [49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json](./49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora the Explorer: World Adventure | 209119 | [209119-dora-the-explorer-world-adventure.json](./209119-dora-the-explorer-world-adventure.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
@@ -8961,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
 | Doraemon 4: Nobita to Tsuki no Oukoku | 78578 | [78578-doraemon-4-nobita-to-tsuki-no-oukoku.json](./78578-doraemon-4-nobita-to-tsuki-no-oukoku.json) |
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
+| Doraemon Dokodemo Walker | 49228 | [49228-doraemon-dokodemo-walker.json](./49228-doraemon-dokodemo-walker.json) |
 | Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
 | Doraemon Gakushuu Collection | 141584 | [141584-doraemon-gakushuu-collection.json](./141584-doraemon-gakushuu-collection.json) |
@@ -11176,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver / Driver 2 Twin Pack | 382533 | [382533-driver-driver-2-twin-pack.json](./382533-driver-driver-2-twin-pack.json) |
+| Driver 2 Advance | 49199 | [49199-driver-2-advance.json](./49199-driver-2-advance.json) |
 | Driver 2: Back on the Streets | 6391 | [6391-driver-2-back-on-the-streets.json](./6391-driver-2-back-on-the-streets.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver Mini | 240107 | [240107-driver-mini.json](./240107-driver-mini.json) |
@@ -11785,6 +11795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
 | Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
+| Duel Masters: Sempai Legends | 49198 | [49198-duel-masters-sempai-legends.json](./49198-duel-masters-sempai-legends.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
@@ -12422,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
+| Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
