@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
+| Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
 | Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle of Illusion Starring Mickey Mouse | 11495 | [11495-castle-of-illusion-starring-mickey-mouse.json](./11495-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Illusion Starring Mickey Mouse | 242816 | [242816-castle-of-illusion-starring-mickey-mouse.json](./242816-castle-of-illusion-starring-mickey-mouse.json) |
+| Castle of Illusion Starring Mickey Mouse | 8122 | [8122-castle-of-illusion-starring-mickey-mouse.json](./8122-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
@@ -9448,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
+| Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
@@ -9470,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
+| Contra | 186207 | [186207-contra.json](./186207-contra.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra | 217544 | [217544-contra.json](./217544-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
