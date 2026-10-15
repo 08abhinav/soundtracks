@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
+| Shiki Eiyuuden: Hito Ryuu Densetsu | 58589 | [58589-shiki-eiyuuden-hito-ryuu-densetsu.json](./58589-shiki-eiyuuden-hito-ryuu-densetsu.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiisshou | 240302 | [240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json](./240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
@@ -6371,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
+| Shotgun | 58595 | [58595-shotgun.json](./58595-shotgun.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
@@ -7482,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
+| Simple Characters 2000 Series Vol. 02: Afro Ken - The Puzzle | 58588 | [58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json](./58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
 | Simple Characters 2000 Series Vol. 04: Jarinko Chie - The Hanafuda | 203132 | [203132-simple-characters-2000-series-vol-04-jarinko-chie-the-hanafuda.json](./203132-simple-characters-2000-series-vol-04-jarinko-chie-the-hanafuda.json) |
 | Simple Characters 2000 Series Vol. 05: Highschool Kimengumi - The Table Hockey | 203133 | [203133-simple-characters-2000-series-vol-05-highschool-kimengumi-the-table-hockey.json](./203133-simple-characters-2000-series-vol-05-highschool-kimengumi-the-table-hockey.json) |
@@ -8460,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
+| Sky Hop Saga | 58658 | [58658-sky-hop-saga.json](./58658-sky-hop-saga.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky in your eyes | 204933 | [204933-sky-in-your-eyes.json](./204933-sky-in-your-eyes.json) |
@@ -18594,6 +18598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Time Bundle | 305486 | [305486-story-time-bundle.json](./305486-story-time-bundle.json) |
 | Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
+| Story Warriors: Fairy Tales | 58594 | [58594-story-warriors-fairy-tales.json](./58594-story-warriors-fairy-tales.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
@@ -23906,6 +23911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Shift | 420649 | [420649-swing-shift.json](./420649-swing-shift.json) |
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
+| Swing Star | 58590 | [58590-swing-star.json](./58590-swing-star.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swing Swamp | 333765 | [333765-swing-swamp.json](./333765-swing-swamp.json) |
 | Swing Swing Swing | 321452 | [321452-swing-swing-swing.json](./321452-swing-swing-swing.json) |
