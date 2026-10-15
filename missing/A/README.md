@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
+| Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Board Games | 197708 | [197708-all-in-one-board-games.json](./197708-all-in-one-board-games.json) |
+| All-in-One Mahjong | 70888 | [70888-all-in-one-mahjong.json](./70888-all-in-one-mahjong.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
 | All-in-One Mahjong 3 | 89071 | [89071-all-in-one-mahjong-3.json](./89071-all-in-one-mahjong-3.json) |
 | All-in-One Solitaire | 88608 | [88608-all-in-one-solitaire.json](./88608-all-in-one-solitaire.json) |
@@ -11284,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
+| Au Naturel | 70853 | [70853-au-naturel.json](./70853-au-naturel.json) |
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Revoir | 307878 | [307878-au-revoir.json](./307878-au-revoir.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
@@ -12006,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
+| Ayakashi Gohan | 70885 | [70885-ayakashi-gohan.json](./70885-ayakashi-gohan.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
 | Ayakashi Gohan: Oomori! | 200007 | [200007-ayakashi-gohan-oomori.json](./200007-ayakashi-gohan-oomori.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
