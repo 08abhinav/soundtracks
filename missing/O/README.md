@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occupy Mars: Prologue | 153485 | [153485-occupy-mars-prologue.json](./153485-occupy-mars-prologue.json) |
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Occupy White Walls | 105594 | [105594-occupy-white-walls.json](./105594-occupy-white-walls.json) |
+| Occurrence at JCR Outpost | 32710 | [32710-occurrence-at-jcr-outpost.json](./32710-occurrence-at-jcr-outpost.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean | 179433 | [179433-ocean.json](./179433-ocean.json) |
 | Ocean and Fish | 387059 | [387059-ocean-and-fish.json](./387059-ocean-and-fish.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
 | Ortolan | 126499 | [126499-ortolan.json](./126499-ortolan.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
+| Ortus Regni | 32621 | [32621-ortus-regni.json](./32621-ortus-regni.json) |
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
