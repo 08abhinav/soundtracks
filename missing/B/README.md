@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Run | 330208 | [330208-battle-run.json](./330208-battle-run.json) |
 | Battle Run | 330303 | [330303-battle-run.json](./330303-battle-run.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
+| Battle Rush: Build Up Robot Tournament | 48520 | [48520-battle-rush-build-up-robot-tournament.json](./48520-battle-rush-build-up-robot-tournament.json) |
 | Battle Sad Boy | 157480 | [157480-battle-sad-boy.json](./157480-battle-sad-boy.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
