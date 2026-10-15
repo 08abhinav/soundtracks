@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
+| Gingerbread Man | 40657 | [40657-gingerbread-man.json](./40657-gingerbread-man.json) |
 | Gingerbread Story | 95642 | [95642-gingerbread-story.json](./95642-gingerbread-story.json) |
 | GingerSnap | 316184 | [316184-gingersnap.json](./316184-gingersnap.json) |
 | Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
@@ -5369,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
+| Grand Prix | 40611 | [40611-grand-prix.json](./40611-grand-prix.json) |
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
@@ -7409,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
 | Gunfield | 245876 | [245876-gunfield.json](./245876-gunfield.json) |
+| Gunfight | 40656 | [40656-gunfight.json](./40656-gunfight.json) |
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
