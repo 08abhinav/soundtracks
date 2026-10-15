@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag Solitaire | 89855 | [89855-flag-solitaire.json](./89855-flag-solitaire.json) |
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
+| Flag to Flag | 6721 | [6721-flag-to-flag.json](./6721-flag-to-flag.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flag-O-Tron | 366624 | [366624-flag-o-tron.json](./366624-flag-o-tron.json) |
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
