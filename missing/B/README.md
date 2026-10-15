@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bananas in Pyjamas: It's Fun Time | 159091 | [159091-bananas-in-pyjamas-its-fun-time.json](./159091-bananas-in-pyjamas-its-fun-time.json) |
 | Bananas in Pyjamas: It's Party Time | 159092 | [159092-bananas-in-pyjamas-its-party-time.json](./159092-bananas-in-pyjamas-its-party-time.json) |
+| Bananas!!! | 22093 | [22093-bananas.json](./22093-bananas.json) |
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
@@ -8245,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
 | Bocce | 77184 | [77184-bocce.json](./77184-bocce.json) |
 | Bocce Beach | 30067 | [30067-bocce-beach.json](./30067-bocce-beach.json) |
+| Bocce Revolution | 22019 | [22019-bocce-revolution.json](./22019-bocce-revolution.json) |
 | Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
 | Bocchi Kaihi | 227260 | [227260-bocchi-kaihi.json](./227260-bocchi-kaihi.json) |
