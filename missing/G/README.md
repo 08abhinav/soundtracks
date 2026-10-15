@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.I.R.L.S. will be Girls | 397391 | [397391-g-i-r-l-s-will-be-girls.json](./397391-g-i-r-l-s-will-be-girls.json) |
+| G.O.D: Mezame yo to Yobu Koe ga Kikoe | 42433 | [42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json](./42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.M.P! | 245903 | [245903-g-o-m-p.json](./245903-g-o-m-p.json) |
 | G.O.P.O.T.A | 246829 | [246829-g-o-p-o-t-a.json](./246829-g-o-p-o-t-a.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
+| Ganbare Goemon 3: Shishijuurokubee no Karakuri Manjigatame | 42412 | [42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json](./42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
 | Ganbare Goemon: Kira-kira Douchuu - Boku ga Dancer ni Natta Wake | 77854 | [77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json](./77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json) |
