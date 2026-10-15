@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
+| NASCAR Kart Racing | 5053 | [5053-nascar-kart-racing.json](./5053-nascar-kart-racing.json) |
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
 | Novum Vexillum | 356058 | [356058-novum-vexillum.json](./356058-novum-vexillum.json) |
 | Novus | 243057 | [243057-novus.json](./243057-novus.json) |
+| Novus AEterno | 5149 | [5149-novus-aeterno.json](./5149-novus-aeterno.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
