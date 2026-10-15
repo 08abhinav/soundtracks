@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
+| Safari Adventures: Africa | 51135 | [51135-safari-adventures-africa.json](./51135-safari-adventures-africa.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
 | Safari Biathlon | 186107 | [186107-safari-biathlon.json](./186107-safari-biathlon.json) |
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfactory: Update 5 | 222876 | [222876-satisfactory-update-5.json](./222876-satisfactory-update-5.json) |
 | Satisfactory: Update 6 | 222877 | [222877-satisfactory-update-6.json](./222877-satisfactory-update-6.json) |
 | Satisfactory: Update 7 | 227759 | [227759-satisfactory-update-7.json](./227759-satisfactory-update-7.json) |
+| Satisfashion | 51133 | [51133-satisfashion.json](./51133-satisfashion.json) |
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
+| Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
 | Shantae: Risky's Revenge | 11782 | [11782-shantae-riskys-revenge.json](./11782-shantae-riskys-revenge.json) |
@@ -9630,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Preschool Baby Shapes and Colors by Learning Games for Toddlers | 108597 | [108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json](./108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json) |
 | Smart Preschool Learning Games for Toddlers by Monkey Puzzle Game | 108596 | [108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json](./108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json) |
 | Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
+| Smart Series Presents: JaJa's Adventure | 51132 | [51132-smart-series-presents-jajas-adventure.json](./51132-smart-series-presents-jajas-adventure.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smart Truco | 370913 | [370913-smart-truco.json](./370913-smart-truco.json) |
@@ -9789,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiley | 403670 | [403670-smiley.json](./403670-smiley.json) |
 | Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
+| Smiley World: Island Challenge | 51131 | [51131-smiley-world-island-challenge.json](./51131-smiley-world-island-challenge.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smiling Girls | 257001 | [257001-smiling-girls.json](./257001-smiling-girls.json) |
@@ -14251,6 +14256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
+| Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
 | Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
