@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
+| Beat Sports | 59835 | [59835-beat-sports.json](./59835-beat-sports.json) |
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
