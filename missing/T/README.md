@@ -5255,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
+| The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
@@ -9234,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
+| The Lunar Pack | 25502 | [25502-the-lunar-pack.json](./25502-the-lunar-pack.json) |
 | The Lunatic | 181197 | [181197-the-lunatic.json](./181197-the-lunatic.json) |
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
@@ -13380,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War 2: Africa 1943 | 9858 | [9858-theatre-of-war-2-africa-1943.json](./9858-theatre-of-war-2-africa-1943.json) |
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
+| Theatre of War 2: Battle for Caen - Special Edition | 25511 | [25511-theatre-of-war-2-battle-for-caen-special-edition.json](./25511-theatre-of-war-2-battle-for-caen-special-edition.json) |
 | Theatre People | 57478 | [57478-theatre-people.json](./57478-theatre-people.json) |
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
@@ -13942,6 +13945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
 | Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
+| Thoroughbred Tycoon | 25529 | [25529-thoroughbred-tycoon.json](./25529-thoroughbred-tycoon.json) |
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Darn Nipples! | 60979 | [60979-those-darn-nipples.json](./60979-those-darn-nipples.json) |
@@ -17150,6 +17154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 175928 | [175928-tom-clancys-ghost-recon-jungle-storm.json](./175928-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Definitive Edition | 412552 | [412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json](./412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Deluxe Edition | 25530 | [25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json](./25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Gold Edition | 82078 | [82078-tom-clancys-ghost-recon-wildlands-gold-edition.json](./82078-tom-clancys-ghost-recon-wildlands-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
@@ -21695,6 +21700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Plantador | 53849 | [53849-tropico-4-plantador.json](./53849-tropico-4-plantador.json) |
 | Tropico 4: Propaganda | 53845 | [53845-tropico-4-propaganda.json](./53845-tropico-4-propaganda.json) |
 | Tropico 4: Quick-Dry-Cement | 53844 | [53844-tropico-4-quick-dry-cement.json](./53844-tropico-4-quick-dry-cement.json) |
+| Tropico 4: The Academy | 25527 | [25527-tropico-4-the-academy.json](./25527-tropico-4-the-academy.json) |
 | Tropico 4: Vigilante | 53843 | [53843-tropico-4-vigilante.json](./53843-tropico-4-vigilante.json) |
 | Tropico 5: DLC Bundle | 227319 | [227319-tropico-5-dlc-bundle.json](./227319-tropico-5-dlc-bundle.json) |
 | Tropico 5: Epic Meltdown | 75687 | [75687-tropico-5-epic-meltdown.json](./75687-tropico-5-epic-meltdown.json) |
@@ -21851,6 +21857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
+| Trucker 2 | 25506 | [25506-trucker-2.json](./25506-trucker-2.json) |
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
