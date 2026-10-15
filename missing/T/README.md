@@ -15531,6 +15531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim 7: The Memories From Nowhere | 321366 | [321366-tim-7-the-memories-from-nowhere.json](./321366-tim-7-the-memories-from-nowhere.json) |
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
+| Tim Love's Cricket | 63184 | [63184-tim-loves-cricket.json](./63184-tim-loves-cricket.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim Tooth | 204204 | [204204-tim-tooth.json](./204204-tim-tooth.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
@@ -16805,6 +16806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Joshikou Seifuku o Nuida Zukan: Part 1 | 92075 | [92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json](./92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json) |
 | Tokyo Joshikou Seifuku o Nuida Zukan: Part 2 | 92076 | [92076-tokyo-joshikou-seifuku-o-nuida-zukan-part-2.json](./92076-tokyo-joshikou-seifuku-o-nuida-zukan-part-2.json) |
 | Tokyo Joshikou Seifuku o Nuida Zukan: Part 3 | 92077 | [92077-tokyo-joshikou-seifuku-o-nuida-zukan-part-3.json](./92077-tokyo-joshikou-seifuku-o-nuida-zukan-part-3.json) |
+| Tokyo Jungle Mobile | 63193 | [63193-tokyo-jungle-mobile.json](./63193-tokyo-jungle-mobile.json) |
 | Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
@@ -17925,6 +17927,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tottenham Hotspur Club Football 2005 | 267897 | [267897-tottenham-hotspur-club-football-2005.json](./267897-tottenham-hotspur-club-football-2005.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
+| Tottoko Hamtaro: Nazo-Nazo Q: Kumo no Ue no? Jou | 63220 | [63220-tottoko-hamtaro-nazo-nazo-q-kumo-no-ue-no-jou.json](./63220-tottoko-hamtaro-nazo-nazo-q-kumo-no-ue-no-jou.json) |
+| Tottoko Hamtaro: Tomodachi Daisakusen Dechu | 63222 | [63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json](./63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json) |
 | Totum | 268943 | [268943-totum.json](./268943-totum.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
@@ -17947,6 +17951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
+| Touch Hockey: FS5 | 63196 | [63196-touch-hockey-fs5.json](./63196-touch-hockey-fs5.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
 | Touch Me | 230880 | [230880-touch-me.json](./230880-touch-me.json) |
@@ -22031,6 +22036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunnelborn | 419149 | [419149-tunnelborn.json](./419149-tunnelborn.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
+| Tunnelers | 63212 | [63212-tunnelers.json](./63212-tunnelers.json) |
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
