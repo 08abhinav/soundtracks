@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
 | Vindictive Drive 2: Maidbot Archive | 272362 | [272362-vindictive-drive-2-maidbot-archive.json](./272362-vindictive-drive-2-maidbot-archive.json) |
 | Vindictus | 7887 | [7887-vindictus.json](./7887-vindictus.json) |
+| Vindictus XE | 23525 | [23525-vindictus-xe.json](./23525-vindictus-xe.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Mapping Contest 2016 | 262280 | [262280-vine-mapping-contest-2016.json](./262280-vine-mapping-contest-2016.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
+| Voodoo Chronicles: The First Sign HD - Director's Cut Edition | 24762 | [24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json](./24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
 | Voodoo Girl: Queen of the Darned | 70286 | [70286-voodoo-girl-queen-of-the-darned.json](./70286-voodoo-girl-queen-of-the-darned.json) |
