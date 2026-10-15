@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacdrive | 251661 | [251661-galacdrive.json](./251661-galacdrive.json) |
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galact Quest | 36483 | [36483-galact-quest.json](./36483-galact-quest.json) |
+| Galacta: The Battle for Saturn | 71401 | [71401-galacta-the-battle-for-saturn.json](./71401-galacta-the-battle-for-saturn.json) |
 | Galactagirl | 68112 | [68112-galactagirl.json](./68112-galactagirl.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic | 46881 | [46881-galactic.json](./46881-galactic.json) |
@@ -4774,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooHuebelets | 65792 | [65792-goohuebelets.json](./65792-goohuebelets.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Gooka | 63111 | [63111-gooka.json](./63111-gooka.json) |
+| Gooka: The Mystery of Janatris | 71426 | [71426-gooka-the-mystery-of-janatris.json](./71426-gooka-the-mystery-of-janatris.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
 | Goomba Racing | 282819 | [282819-goomba-racing.json](./282819-goomba-racing.json) |
