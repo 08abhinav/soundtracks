@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
+| Half Past Disaster | 68575 | [68575-half-past-disaster.json](./68575-half-past-disaster.json) |
 | Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
 | Half Plan | 301058 | [301058-half-plan.json](./301058-half-plan.json) |
 | Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
@@ -4981,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hieroglyph Quest: The Amarna Enigma | 277770 | [277770-hieroglyph-quest-the-amarna-enigma.json](./277770-hieroglyph-quest-the-amarna-enigma.json) |
 | Hieroglyphika | 21907 | [21907-hieroglyphika.json](./21907-hieroglyphika.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
+| Hieronymus Bash | 68546 | [68546-hieronymus-bash.json](./68546-hieronymus-bash.json) |
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
@@ -5377,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippoboar Rancher | 127177 | [127177-hippoboar-rancher.json](./127177-hippoboar-rancher.json) |
 | Hippocampal: The White Sofa | 17394 | [17394-hippocampal-the-white-sofa.json](./17394-hippocampal-the-white-sofa.json) |
+| Hippodrom | 68565 | [68565-hippodrom.json](./68565-hippodrom.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
 | Hippy Girls | 243062 | [243062-hippy-girls.json](./243062-hippy-girls.json) |
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
@@ -5932,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
+| Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
