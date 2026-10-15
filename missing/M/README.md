@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
 | Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
+| Mad Planets | 23500 | [23500-mad-planets.json](./23500-mad-planets.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rabbit | 120097 | [120097-mad-rabbit.json](./120097-mad-rabbit.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make Tracks Great Again | 367551 | [367551-make-tracks-great-again.json](./367551-make-tracks-great-again.json) |
+| Make Trax | 23512 | [23512-make-trax.json](./23512-make-trax.json) |
 | Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
@@ -9791,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme Vs Force | 20401 | [20401-mobile-suit-gundam-extreme-vs-force.json](./20401-mobile-suit-gundam-extreme-vs-force.json) |
 | Mobile Suit Gundam: Extreme Vs. | 75698 | [75698-mobile-suit-gundam-extreme-vs.json](./75698-mobile-suit-gundam-extreme-vs.json) |
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
+| Mobile Suit Gundam: Extreme Vs. Full Boost | 23434 | [23434-mobile-suit-gundam-extreme-vs-full-boost.json](./23434-mobile-suit-gundam-extreme-vs-full-boost.json) |
 | Mobile Suit Gundam: Extreme Vs. Full Boost - Premium G Sound Edition | 136810 | [136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json](./136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
