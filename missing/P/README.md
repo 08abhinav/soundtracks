@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
 | Paper Toss | 67692 | [67692-paper-toss.json](./67692-paper-toss.json) |
+| Paper Toss 2.0 | 60991 | [60991-paper-toss-2-0.json](./60991-paper-toss-2-0.json) |
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
 | Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
+| Paws & Claws Best Friends: Dogs & Cats | 61009 | [61009-paws-and-claws-best-friends-dogs-and-cats.json](./61009-paws-and-claws-best-friends-dogs-and-cats.json) |
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
 | Paws & Claws Pampered Pets 2 | 202226 | [202226-paws-and-claws-pampered-pets-2.json](./202226-paws-and-claws-pampered-pets-2.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
@@ -5125,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
+| Pirate Bash | 60981 | [60981-pirate-bash.json](./60981-pirate-bash.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
 | Pirate Bloopers | 262234 | [262234-pirate-bloopers.json](./262234-pirate-bloopers.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
@@ -7277,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
+| Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
 | PokeMMO | 127976 | [127976-pokemmo.json](./127976-pokemmo.json) |
@@ -7702,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Poké Ball | 198864 | [198864-pokemon-poke-ball.json](./198864-pokemon-poke-ball.json) |
+| Pokémon Poké Ball Launcher | 61007 | [61007-pokemon-poke-ball-launcher.json](./61007-pokemon-poke-ball-launcher.json) |
 | Pokémon Pokédex Organizer | 198865 | [198865-pokemon-pokedex-organizer.json](./198865-pokemon-pokedex-organizer.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Potassium | 360040 | [360040-pokemon-potassium.json](./360040-pokemon-potassium.json) |
@@ -7753,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
+| Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
@@ -7788,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
+| Pokémon Team Rocket Blast Off | 61001 | [61001-pokemon-team-rocket-blast-off.json](./61001-pokemon-team-rocket-blast-off.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
