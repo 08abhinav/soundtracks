@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
+| Epic Crime Wars | 67168 | [67168-epic-crime-wars.json](./67168-epic-crime-wars.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
 | Epic Dragon | 236352 | [236352-epic-dragon.json](./236352-epic-dragon.json) |
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
