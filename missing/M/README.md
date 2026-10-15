@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
 | Macross Delta Scramble | 136752 | [136752-macross-delta-scramble.json](./136752-macross-delta-scramble.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
+| Macross M3 | 45809 | [45809-macross-m3.json](./45809-macross-m3.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
 | Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
+| MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggie's Grinning Soul | 182145 | [182145-maggies-grinning-soul.json](./182145-maggies-grinning-soul.json) |
 | Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
@@ -4123,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
+| Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
@@ -9702,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
+| Mobile Suit Gundam - Blood of Zeon | 45808 | [45808-mobile-suit-gundam-blood-of-zeon.json](./45808-mobile-suit-gundam-blood-of-zeon.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
 | Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
@@ -12718,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
+| MTV Sports Skateboarding | 45810 | [45810-mtv-sports-skateboarding.json](./45810-mtv-sports-skateboarding.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
 | MTV Sports: Pure Ride | 49960 | [49960-mtv-sports-pure-ride.json](./49960-mtv-sports-pure-ride.json) |
 | MTV Sports: Skateboarding Featuring Andy Macdonald | 49959 | [49959-mtv-sports-skateboarding-featuring-andy-macdonald.json](./49959-mtv-sports-skateboarding-featuring-andy-macdonald.json) |
@@ -13110,6 +13115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murus | 165123 | [165123-murus.json](./165123-murus.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musaic Box | 15992 | [15992-musaic-box.json](./15992-musaic-box.json) |
+| Musapey's Choco Marker | 45831 | [45831-musapeys-choco-marker.json](./45831-musapeys-choco-marker.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
