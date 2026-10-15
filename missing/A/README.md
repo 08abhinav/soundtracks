@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Spanner-X: Endless Fire | 268388 | [268388-advanced-spanner-x-endless-fire.json](./268388-advanced-spanner-x-endless-fire.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
+| Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
@@ -5157,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
+| Alshark | 37578 | [37578-alshark.json](./37578-alshark.json) |
 | Alsmic Lizzi | 396777 | [396777-alsmic-lizzi.json](./396777-alsmic-lizzi.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
