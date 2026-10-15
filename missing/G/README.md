@@ -6127,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
 | Gremlins, Inc.: The Governor Edition | 53069 | [53069-gremlins-inc-the-governor-edition.json](./53069-gremlins-inc-the-governor-edition.json) |
+| Gremlins: Stripe vs. Gizmo | 49232 | [49232-gremlins-stripe-vs-gizmo.json](./49232-gremlins-stripe-vs-gizmo.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
@@ -7627,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
 | Guru Guru | 94165 | [94165-guru-guru.json](./94165-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
+| Guru Logic Champ | 49239 | [49239-guru-logic-champ.json](./49239-guru-logic-champ.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guru-guru Garacters | 281537 | [281537-guru-guru-garacters.json](./281537-guru-guru-garacters.json) |
 | Guru-guru Garakutas | 228556 | [228556-guru-guru-garakutas.json](./228556-guru-guru-garakutas.json) |
