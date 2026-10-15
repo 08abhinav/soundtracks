@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
+| Karaoke Joysound | 4948 | [4948-karaoke-joysound.json](./4948-karaoke-joysound.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn! DS: Mafia Daishuugou Vongola Festival | 70568 | [70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json](./70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json) |
 | Katekyou Hitman Reborn! DS: Shinuki Max! Vongola Carnival!! | 123339 | [123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json](./123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json) |
+| Katekyou Hitman Reborn!: Dream Hyper Battle! | 4949 | [4949-katekyou-hitman-reborn-dream-hyper-battle.json](./4949-katekyou-hitman-reborn-dream-hyper-battle.json) |
 | Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
@@ -941,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
 | Kawasaki Devils | 376881 | [376881-kawasaki-devils.json](./376881-kawasaki-devils.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
+| Kawasaki Snowmobiles | 4952 | [4952-kawasaki-snowmobiles.json](./4952-kawasaki-snowmobiles.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
@@ -1628,6 +1631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidvio | 187840 | [187840-kidvio.json](./187840-kidvio.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
+| Kidz Sports Basketball | 4954 | [4954-kidz-sports-basketball.json](./4954-kidz-sports-basketball.json) |
+| Kidz Sports International Football | 4957 | [4957-kidz-sports-international-football.json](./4957-kidz-sports-international-football.json) |
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
 | Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
