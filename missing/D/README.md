@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
+| Diablo III: Reaper of Souls - Ultimate Evil Edition | 47452 | [47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json](./47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json) |
 | Diablo Island | 405462 | [405462-diablo-island.json](./405462-diablo-island.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
@@ -7804,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
 | Dofbox | 397178 | [397178-dofbox.json](./397178-dofbox.json) |
+| Dofus | 18337 | [18337-dofus.json](./18337-dofus.json) |
 | Dofus Émeraude | 110307 | [110307-dofus-emeraude.json](./110307-dofus-emeraude.json) |
 | Dofus Pets | 56165 | [56165-dofus-pets.json](./56165-dofus-pets.json) |
 | Dofus Pogo | 112339 | [112339-dofus-pogo.json](./112339-dofus-pogo.json) |
@@ -9906,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
+| Dragon Ball Z: Sagas | 3896 | [3896-dragon-ball-z-sagas.json](./3896-dragon-ball-z-sagas.json) |
 | Dragon Ball Z: Shin Budokai - Another Road | 2568 | [2568-dragon-ball-z-shin-budokai-another-road.json](./2568-dragon-ball-z-shin-budokai-another-road.json) |
 | Dragon Ball Z: Shin Budokai Another Road Revisited | 353308 | [353308-dragon-ball-z-shin-budokai-another-road-revisited.json](./353308-dragon-ball-z-shin-budokai-another-road-revisited.json) |
 | Dragon Ball Z: Shin Butouden | 45464 | [45464-dragon-ball-z-shin-butouden.json](./45464-dragon-ball-z-shin-butouden.json) |
@@ -10467,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
+| Drakengard | 11635 | [11635-drakengard.json](./11635-drakengard.json) |
 | Drakengard | 322841 | [322841-drakengard.json](./322841-drakengard.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakengard 3: Beautiful Child | 378983 | [378983-drakengard-3-beautiful-child.json](./378983-drakengard-3-beautiful-child.json) |
@@ -12023,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Alien Armageddon | 125287 | [125287-duke-nukem-alien-armageddon.json](./125287-duke-nukem-alien-armageddon.json) |
 | Duke Nukem: D-Day | 348367 | [348367-duke-nukem-d-day.json](./348367-duke-nukem-d-day.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
+| Duke Nukem: Manhattan Project | 8505 | [8505-duke-nukem-manhattan-project.json](./8505-duke-nukem-manhattan-project.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
