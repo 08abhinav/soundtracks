@@ -8291,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyCity Stories: The Affair | 263125 | [263125-polycity-stories-the-affair.json](./263125-polycity-stories-the-affair.json) |
 | PolyClassic: Wild | 163897 | [163897-polyclassic-wild.json](./163897-polyclassic-wild.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
+| Polycrusher | 31626 | [31626-polycrusher.json](./31626-polycrusher.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
 | PolyDestroyer | 291370 | [291370-polydestroyer.json](./291370-polydestroyer.json) |
@@ -11612,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
+| Publisher Tycoon | 31583 | [31583-publisher-tycoon.json](./31583-publisher-tycoon.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca Noodle Rush | 65979 | [65979-pucca-noodle-rush.json](./65979-pucca-noodle-rush.json) |
 | Pucca Pop | 92391 | [92391-pucca-pop.json](./92391-pucca-pop.json) |
