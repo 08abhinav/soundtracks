@@ -8443,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
 | The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
+| The Last Trooper | 15245 | [15245-the-last-trooper.json](./15245-the-last-trooper.json) |
 | The Last V8 | 26347 | [26347-the-last-v8.json](./26347-the-last-v8.json) |
 | The Last Vampire | 293315 | [293315-the-last-vampire.json](./293315-the-last-vampire.json) |
 | The Last Vampire | 77173 | [77173-the-last-vampire.json](./77173-the-last-vampire.json) |
@@ -10371,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The President | 96645 | [96645-the-president.json](./96645-the-president.json) |
+| The President is Missing | 15348 | [15348-the-president-is-missing.json](./15348-the-president-is-missing.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Presidential Turnabout | 290304 | [290304-the-presidential-turnabout.json](./290304-the-presidential-turnabout.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
