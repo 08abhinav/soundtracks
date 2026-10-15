@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulia Chronicles | 304913 | [304913-ulia-chronicles.json](./304913-ulia-chronicles.json) |
 | Uligo: A Slime's Hike | 200429 | [200429-uligo-a-slimes-hike.json](./200429-uligo-a-slimes-hike.json) |
 | Ulimek | 279892 | [279892-ulimek.json](./279892-ulimek.json) |
+| Ulises | 41776 | [41776-ulises.json](./41776-ulises.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ulna Online | 155699 | [155699-ulna-online.json](./155699-ulna-online.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
 | Underground | 232018 | [232018-underground.json](./232018-underground.json) |
 | Underground | 314923 | [314923-underground.json](./314923-underground.json) |
+| Underground | 41777 | [41777-underground.json](./41777-underground.json) |
 | Underground | 77009 | [77009-underground.json](./77009-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Above | 250917 | [250917-underground-above.json](./250917-underground-above.json) |
@@ -1628,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | United States of America Jigsaw Puzzles | 278502 | [278502-united-states-of-america-jigsaw-puzzles.json](./278502-united-states-of-america-jigsaw-puzzles.json) |
 | United States Quiz | 92820 | [92820-united-states-quiz.json](./92820-united-states-quiz.json) |
+| United Tactics | 41815 | [41815-united-tactics.json](./41815-united-tactics.json) |
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
