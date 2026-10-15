@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Cure | 241273 | [241273-the-cure.json](./241273-the-cure.json) |
 | The Cure | 71449 | [71449-the-cure.json](./71449-the-cure.json) |
+| The Curfew | 23367 | [23367-the-curfew.json](./23367-the-curfew.json) |
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
 | The Curio Society: Eclipse over Mesina HD | 104543 | [104543-the-curio-society-eclipse-over-mesina-hd.json](./104543-the-curio-society-eclipse-over-mesina-hd.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
@@ -6270,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expansion | 412194 | [412194-the-expansion.json](./412194-the-expansion.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expedition | 197577 | [197577-the-expedition.json](./197577-the-expedition.json) |
+| The Expendables | 23368 | [23368-the-expendables.json](./23368-the-expendables.json) |
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
@@ -10276,6 +10278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
+| The Pit | 23513 | [23513-the-pit.json](./23513-the-pit.json) |
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
@@ -11106,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
+| The Serious Sam Collection | 23414 | [23414-the-serious-sam-collection.json](./23414-the-serious-sam-collection.json) |
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
@@ -18588,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
+| Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
