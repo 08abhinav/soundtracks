@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning the Ropes | 364673 | [364673-learning-the-ropes.json](./364673-learning-the-ropes.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
+| Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather | 105814 | [105814-leather.json](./105814-leather.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
+| Legends of Exidia | 67152 | [67152-legends-of-exidia.json](./67152-legends-of-exidia.json) |
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
@@ -3699,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link | 174799 | [174799-link.json](./174799-link.json) |
 | Link | 18925 | [18925-link.json](./18925-link.json) |
 | Link | 421380 | [421380-link.json](./421380-link.json) |
+| Link 'n' Launch | 67157 | [67157-link-n-launch.json](./67157-link-n-launch.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
@@ -4197,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
+| Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
