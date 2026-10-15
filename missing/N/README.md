@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
+| NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
 | Nissan Presents: Over Drivin' Skyline Memorial | 200009 | [200009-nissan-presents-over-drivin-skyline-memorial.json](./200009-nissan-presents-over-drivin-skyline-memorial.json) |
 | Nissebanden i Grønland | 288107 | [288107-nissebanden-i-gr-nland.json](./288107-nissebanden-i-gr-nland.json) |
+| Nisus Missile Master | 70316 | [70316-nisus-missile-master.json](./70316-nisus-missile-master.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
