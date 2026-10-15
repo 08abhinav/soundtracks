@@ -4528,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Without Within 3 | 96382 | [96382-without-within-3.json](./96382-without-within-3.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
+| Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
 | Witness of the Night | 207590 | [207590-witness-of-the-night.json](./207590-witness-of-the-night.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
