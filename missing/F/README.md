@@ -412,6 +412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
+| Failticity Online | 56368 | [56368-failticity-online.json](./56368-failticity-online.json) |
+| Failticity Plus | 56369 | [56369-failticity-plus.json](./56369-failticity-plus.json) |
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
 | Faily Brakes 2 | 243744 | [243744-faily-brakes-2.json](./243744-faily-brakes-2.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
 | Forbidden Arms: Bloodlust | 184853 | [184853-forbidden-arms-bloodlust.json](./184853-forbidden-arms-bloodlust.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
+| Forbidden Castle: Mahjong Tale | 56404 | [56404-forbidden-castle-mahjong-tale.json](./56404-forbidden-castle-mahjong-tale.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
@@ -7809,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
+| Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
@@ -8380,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frolupy | 200947 | [200947-frolupy.json](./200947-frolupy.json) |
 | From A to B | 239111 | [239111-from-a-to-b.json](./239111-from-a-to-b.json) |
 | From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
+| From Ashes | 56371 | [56371-from-ashes.json](./56371-from-ashes.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
@@ -8401,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
+| From Next Door | 56408 | [56408-from-next-door.json](./56408-from-next-door.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
@@ -9306,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
+| Furuta Atsuya no Simulation Pro Yakyuu 2 | 56409 | [56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json](./56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json) |
 | Furwind | 27726 | [27726-furwind.json](./27726-furwind.json) |
 | Furwind: Limited Edition | 167049 | [167049-furwind-limited-edition.json](./167049-furwind-limited-edition.json) |
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
