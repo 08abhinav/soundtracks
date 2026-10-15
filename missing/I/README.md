@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Industrial Furniture Pack | 276206 | [276206-icarus-industrial-furniture-pack.json](./276206-icarus-industrial-furniture-pack.json) |
 | Icarus: Interior Decorations Pack | 262877 | [262877-icarus-interior-decorations-pack.json](./262877-icarus-interior-decorations-pack.json) |
+| Icarus: Sanctuary of the Gods | 69768 | [69768-icarus-sanctuary-of-the-gods.json](./69768-icarus-sanctuary-of-the-gods.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
 | Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
+| International Sports Challenge | 69783 | [69783-international-sports-challenge.json](./69783-international-sports-challenge.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
