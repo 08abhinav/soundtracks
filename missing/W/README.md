@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Monster | 62010 | [62010-waku-waku-monster.json](./62010-waku-waku-monster.json) |
 | Waku-waku Puyo Puyo Dungeon | 70934 | [70934-waku-waku-puyo-puyo-dungeon.json](./70934-waku-waku-puyo-puyo-dungeon.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
+| Waku-waku Sonic Patrol Car | 39461 | [39461-waku-waku-sonic-patrol-car.json](./39461-waku-waku-sonic-patrol-car.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Waku-waku Vegetable | 107630 | [107630-waku-waku-vegetable.json](./107630-waku-waku-vegetable.json) |
 | Waku-waku Youwaku Wakaba-chan | 97672 | [97672-waku-waku-youwaku-wakaba-chan.json](./97672-waku-waku-youwaku-wakaba-chan.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
 | War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
@@ -5444,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
+| World Class Bowling | 39426 | [39426-world-class-bowling.json](./39426-world-class-bowling.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
