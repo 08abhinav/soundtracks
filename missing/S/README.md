@@ -15049,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
 | SpongeBob SquarePants Bubble Rush! | 307852 | [307852-spongebob-squarepants-bubble-rush.json](./307852-spongebob-squarepants-bubble-rush.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
+| SpongeBob SquarePants Collapse! | 67894 | [67894-spongebob-squarepants-collapse.json](./67894-spongebob-squarepants-collapse.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 280432 | [280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
@@ -15996,6 +15997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
+| Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
 | Star Age: Space Combat | 193175 | [193175-star-age-space-combat.json](./193175-star-age-space-combat.json) |
@@ -19784,6 +19786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku & Kakuro Mania Unlimited | 208361 | [208361-sudoku-and-kakuro-mania-unlimited.json](./208361-sudoku-and-kakuro-mania-unlimited.json) |
 | Sudoku ++ | 102746 | [102746-sudoku.json](./102746-sudoku.json) |
 | Sudoku 10'000 Plus | 71200 | [71200-sudoku-10000-plus.json](./71200-sudoku-10000-plus.json) |
+| Sudoku 100,000,000 | 67889 | [67889-sudoku-100-000-000.json](./67889-sudoku-100-000-000.json) |
 | Sudoku 16x16 Monster | 99385 | [99385-sudoku-16x16-monster.json](./99385-sudoku-16x16-monster.json) |
 | Sudoku 2 | 223905 | [223905-sudoku-2.json](./223905-sudoku-2.json) |
 | Sudoku 23 | 263434 | [263434-sudoku-23.json](./263434-sudoku-23.json) |
