@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faster Than Bolt | 308997 | [308997-faster-than-bolt.json](./308997-faster-than-bolt.json) |
 | Faster Than Death | 383629 | [383629-faster-than-death.json](./383629-faster-than-death.json) |
 | Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
+| Faster Than Speed | 39442 | [39442-faster-than-speed.json](./39442-faster-than-speed.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Cashier | 337057 | [337057-fastest-cashier.json](./337057-fastest-cashier.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
@@ -4504,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishhead: Blueprint | 142805 | [142805-fishhead-blueprint.json](./142805-fishhead-blueprint.json) |
 | Fishie Fishie | 79878 | [79878-fishie-fishie.json](./79878-fishie-fishie.json) |
+| Fishin' Frenzy | 39421 | [39421-fishin-frenzy.json](./39421-fishin-frenzy.json) |
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
@@ -6510,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
+| Force Five | 39441 | [39441-force-five.json](./39441-force-five.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
