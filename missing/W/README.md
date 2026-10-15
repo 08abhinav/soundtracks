@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War in a Box: Paper Tanks | 17563 | [17563-war-in-a-box-paper-tanks.json](./17563-war-in-a-box-paper-tanks.json) |
+| War In Box | 59324 | [59324-war-in-box.json](./59324-war-in-box.json) |
 | War in Europe: 1940 | 201517 | [201517-war-in-europe-1940.json](./201517-war-in-europe-1940.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
@@ -694,6 +695,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
+| War Over the Mideast | 59309 | [59309-war-over-the-mideast.json](./59309-war-over-the-mideast.json) |
+| War Over Vietnam | 59306 | [59306-war-over-vietnam.json](./59306-war-over-vietnam.json) |
 | War Party | 81634 | [81634-war-party.json](./81634-war-party.json) |
 | War Pawns | 413204 | [413204-war-pawns.json](./413204-war-pawns.json) |
 | WAR Pig - Big Bang | 75003 | [75003-war-pig-big-bang.json](./75003-war-pig-big-bang.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
+| Winter War | 59316 | [59316-winter-war.json](./59316-winter-war.json) |
 | Winter Wastelands | 166849 | [166849-winter-wastelands.json](./166849-winter-wastelands.json) |
 | Winter Winds | 307886 | [307886-winter-winds.json](./307886-winter-winds.json) |
 | Winter Witch | 359022 | [359022-winter-witch.json](./359022-winter-witch.json) |
