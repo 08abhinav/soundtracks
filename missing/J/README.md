@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
 | Journey of Harvest | 303599 | [303599-journey-of-harvest.json](./303599-journey-of-harvest.json) |
+| Journey of Johann | 28645 | [28645-journey-of-johann.json](./28645-journey-of-johann.json) |
 | Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of Johann: Grasslands | 327442 | [327442-journey-of-johann-grasslands.json](./327442-journey-of-johann-grasslands.json) |
 | Journey of Johann: Snowy Mountain | 388295 | [388295-journey-of-johann-snowy-mountain.json](./388295-journey-of-johann-snowy-mountain.json) |
