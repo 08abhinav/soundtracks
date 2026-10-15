@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Remains | 144718 | [144718-enemy-remains.json](./144718-enemy-remains.json) |
 | Enemy Star | 267587 | [267587-enemy-star.json](./267587-enemy-star.json) |
 | Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
+| Enemy Zero | 13549 | [13549-enemy-zero.json](./13549-enemy-zero.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
