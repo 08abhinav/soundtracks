@@ -10399,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Bremen Hot Strings | 236743 | [236743-bremen-hot-strings.json](./236743-bremen-hot-strings.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
+| Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
 | Brett Hull Hockey 95 | 46231 | [46231-brett-hull-hockey-95.json](./46231-brett-hull-hockey-95.json) |
@@ -10575,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge the Gap! | 328446 | [328446-bridge-the-gap.json](./328446-bridge-the-gap.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams | 140288 | [140288-bridge-to-another-world-burnt-dreams.json](./140288-bridge-to-another-world-burnt-dreams.json) |
+| Bridge to Another World: Burnt Dreams - Collector's Edition | 28677 | [28677-bridge-to-another-world-burnt-dreams-collectors-edition.json](./28677-bridge-to-another-world-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
 | Bridge to Another World: Endless Game | 187914 | [187914-bridge-to-another-world-endless-game.json](./187914-bridge-to-another-world-endless-game.json) |
