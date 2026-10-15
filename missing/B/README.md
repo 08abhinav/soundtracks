@@ -3121,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
+| Battlestar Galactica Online | 23527 | [23527-battlestar-galactica-online.json](./23527-battlestar-galactica-online.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
 | BentoBot | 102084 | [102084-bentobot.json](./102084-bentobot.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
+| Beowulf: The Mobile Game | 23488 | [23488-beowulf-the-mobile-game.json](./23488-beowulf-the-mobile-game.json) |
 | Bepuzzled Animals Jigsaw Puzzle | 120090 | [120090-bepuzzled-animals-jigsaw-puzzle.json](./120090-bepuzzled-animals-jigsaw-puzzle.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
@@ -11447,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs vs. Tanks! | 47656 | [47656-bugs-vs-tanks.json](./47656-bugs-vs-tanks.json) |
+| Bugs Wars | 23388 | [23388-bugs-wars.json](./23388-bugs-wars.json) |
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
@@ -11638,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
+| Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
