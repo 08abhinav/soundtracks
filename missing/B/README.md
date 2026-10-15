@@ -10782,6 +10782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
 | Bruno: Lost In Nightmares | 301080 | [301080-bruno-lost-in-nightmares.json](./301080-bruno-lost-in-nightmares.json) |
+| Brunswick Circuit Pro Bowling 2 | 66023 | [66023-brunswick-circuit-pro-bowling-2.json](./66023-brunswick-circuit-pro-bowling-2.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
