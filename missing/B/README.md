@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb | 191812 | [191812-barb.json](./191812-barb.json) |
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barback Blues: A Valhalla Story - Uttoushiki Hibi | 182777 | [182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json](./182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json) |
+| Barbar Bar | 36828 | [36828-barbar-bar.json](./36828-barbar-bar.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
