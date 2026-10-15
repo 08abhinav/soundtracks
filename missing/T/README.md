@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
+| Temple of Terror | 36840 | [36840-temple-of-terror.json](./36840-temple-of-terror.json) |
 | Temple of the Abyssal Winds | 107673 | [107673-temple-of-the-abyssal-winds.json](./107673-temple-of-the-abyssal-winds.json) |
 | Temple of the Ancients | 273543 | [273543-temple-of-the-ancients.json](./273543-temple-of-the-ancients.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
@@ -3821,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
+| The Adventurer and His Backpack | 36823 | [36823-the-adventurer-and-his-backpack.json](./36823-the-adventurer-and-his-backpack.json) |
 | The Adventurer: Episode 1 - Beginning of the End | 52766 | [52766-the-adventurer-episode-1-beginning-of-the-end.json](./52766-the-adventurer-episode-1-beginning-of-the-end.json) |
 | The Adventurer's Domain Online | 190957 | [190957-the-adventurers-domain-online.json](./190957-the-adventurers-domain-online.json) |
 | The Adventurers | 72138 | [72138-the-adventurers.json](./72138-the-adventurers.json) |
@@ -4550,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pool: Arena Survivors | 374750 | [374750-the-black-pool-arena-survivors.json](./374750-the-black-pool-arena-survivors.json) |
 | The Black Pyramid | 184298 | [184298-the-black-pyramid.json](./184298-the-black-pyramid.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
+| The Black Sanctum | 36909 | [36909-the-black-sanctum.json](./36909-the-black-sanctum.json) |
 | The Black Shift | 406736 | [406736-the-black-shift.json](./406736-the-black-shift.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
@@ -9649,7 +9652,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Online | 66550 | [66550-the-mummy-online.json](./66550-the-mummy-online.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
+| The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
+| The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
@@ -12154,6 +12159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
 | The Three Monkeys | 397425 | [397425-the-three-monkeys.json](./397425-the-three-monkeys.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
+| The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
@@ -13252,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
+| The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) | 385366 | [385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json](./385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) 2 | 385367 | [385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json](./385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json) |
@@ -14095,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
+| Through the Dark: Prologue | 36822 | [36822-through-the-dark-prologue.json](./36822-through-the-dark-prologue.json) |
 | Through the Dust | 123893 | [123893-through-the-dust.json](./123893-through-the-dust.json) |
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
 | Through the Eyes of the Girls | 58153 | [58153-through-the-eyes-of-the-girls.json](./58153-through-the-eyes-of-the-girls.json) |
@@ -16768,6 +16776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
+| Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
@@ -19068,6 +19077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
+| Tracker | 36842 | [36842-tracker.json](./36842-tracker.json) |
 | Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
 | TrackMania | 18728 | [18728-trackmania.json](./18728-trackmania.json) |
@@ -22133,6 +22143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 170793 | [170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
+| TT Racer | 36905 | [36905-tt-racer.json](./36905-tt-racer.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | TTPP | 274926 | [274926-ttpp.json](./274926-ttpp.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
