@@ -7000,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
+| Michael Schumacher World Tour Kart 2004 | 64863 | [64863-michael-schumacher-world-tour-kart-2004.json](./64863-michael-schumacher-world-tour-kart-2004.json) |
 | Michael Test | 390220 | [390220-michael-test.json](./390220-michael-test.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
@@ -12675,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
+| Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
