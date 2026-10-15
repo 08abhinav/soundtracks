@@ -5661,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chumlee's Adventure: The Quest for Pinky | 142116 | [142116-chumlees-adventure-the-quest-for-pinky.json](./142116-chumlees-adventure-the-quest-for-pinky.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
+| Chunithm | 56388 | [56388-chunithm.json](./56388-chunithm.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
