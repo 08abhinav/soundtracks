@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
 | ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
+| ESPN Winter X-Games Snowboarding 2002 | 49206 | [49206-espn-winter-x-games-snowboarding-2002.json](./49206-espn-winter-x-games-snowboarding-2002.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
