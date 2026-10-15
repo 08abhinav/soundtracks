@@ -7561,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 3: TARDIS | 66439 | [66439-doctor-who-the-adventure-games-episode-3-tardis.json](./66439-doctor-who-the-adventure-games-episode-3-tardis.json) |
+| Doctor Who: The Adventure Games - Episode 4: Shadows of the Vashta Nerada | 66016 | [66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json](./66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
 | Doctor Who: The Doctor and the Dalek | 250508 | [250508-doctor-who-the-doctor-and-the-dalek.json](./250508-doctor-who-the-doctor-and-the-dalek.json) |
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
@@ -10484,6 +10485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
+| Dream Chronicles: The Book of Fire | 66000 | [66000-dream-chronicles-the-book-of-fire.json](./66000-dream-chronicles-the-book-of-fire.json) |
+| Dream Chronicles: The Book of Water | 66001 | [66001-dream-chronicles-the-book-of-water.json](./66001-dream-chronicles-the-book-of-water.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
 | Dream City Apocalypse | 381945 | [381945-dream-city-apocalypse.json](./381945-dream-city-apocalypse.json) |
 | Dream City Fugitive | 381947 | [381947-dream-city-fugitive.json](./381947-dream-city-fugitive.json) |
