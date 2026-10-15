@@ -5075,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
+| High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
 | High/Low 2 | 263417 | [263417-high-low-2.json](./263417-high-low-2.json) |
 | High/Low 5 | 263414 | [263414-high-low-5.json](./263414-high-low-5.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
