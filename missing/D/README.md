@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
 | Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
+| Darts vs. Zombies | 64318 | [64318-darts-vs-zombies.json](./64318-darts-vs-zombies.json) |
 | Darts Wii | 344333 | [344333-darts-wii.json](./344333-darts-wii.json) |
 | Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
@@ -10980,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Station: Real Driving - Open World Car Game | 216146 | [216146-drift-station-real-driving-open-world-car-game.json](./216146-drift-station-real-driving-open-world-car-game.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
+| Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
