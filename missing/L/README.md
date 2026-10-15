@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
+| Lionel Trains: On Track | 10738 | [10738-lionel-trains-on-track.json](./10738-lionel-trains-on-track.json) |
 | Liong: the Dragon Dance | 144210 | [144210-liong-the-dragon-dance.json](./144210-liong-the-dragon-dance.json) |
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
