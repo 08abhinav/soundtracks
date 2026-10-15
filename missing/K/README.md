@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
+| K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
 | K.C. Munchkin! | 18738 | [18738-k-c-munchkin.json](./18738-k-c-munchkin.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
 | Kill la Kill: IF - Limited Box Edition | 167112 | [167112-kill-la-kill-if-limited-box-edition.json](./167112-kill-la-kill-if-limited-box-edition.json) |
 | Kill Loop | 409824 | [409824-kill-loop.json](./409824-kill-loop.json) |
+| Kill Me Again: Infectors | 59726 | [59726-kill-me-again-infectors.json](./59726-kill-me-again-infectors.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill Me Yesterday | 415999 | [415999-kill-me-yesterday.json](./415999-kill-me-yesterday.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty Dentist | 98787 | [98787-kitty-dentist.json](./98787-kitty-dentist.json) |
+| Kitty Disastrous | 59761 | [59761-kitty-disastrous.json](./59761-kitty-disastrous.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
 | Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
