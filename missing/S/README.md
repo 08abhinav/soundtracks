@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
 | Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
+| Save Halloween: City of Witches | 33915 | [33915-save-halloween-city-of-witches.json](./33915-save-halloween-city-of-witches.json) |
 | Save her, from dreams | 99129 | [99129-save-her-from-dreams.json](./99129-save-her-from-dreams.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
 | Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
+| ScudBuster | 33922 | [33922-scudbuster.json](./33922-scudbuster.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
@@ -6951,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
+| Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
@@ -10897,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
+| SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
@@ -11183,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
+| Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
@@ -13436,6 +13441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
+| Space Junk Patrol | 33933 | [33933-space-junk-patrol.json](./33933-space-junk-patrol.json) |
 | Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
@@ -14248,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 192785 | [192785-spectrum.json](./192785-spectrum.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
+| Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
@@ -20947,6 +20954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
+| Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
 | Super C | 84919 | [84919-super-c.json](./84919-super-c.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
@@ -23431,6 +23439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive It: Frozen | 285512 | [285512-survive-it-frozen.json](./285512-survive-it-frozen.json) |
 | Survive la France | 273859 | [273859-survive-la-france.json](./273859-survive-la-france.json) |
 | Survive Lviv | 189009 | [189009-survive-lviv.json](./189009-survive-lviv.json) |
+| Survive Me Miolhr | 34036 | [34036-survive-me-miolhr.json](./34036-survive-me-miolhr.json) |
 | Survive Now | 240724 | [240724-survive-now.json](./240724-survive-now.json) |
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
@@ -24185,6 +24194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
 | SwooshCat | 346249 | [346249-swooshcat.json](./346249-swooshcat.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
+| Sword 'N' Board | 33925 | [33925-sword-n-board.json](./33925-sword-n-board.json) |
 | Sword & Banner | 404889 | [404889-sword-and-banner.json](./404889-sword-and-banner.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Glory | 334870 | [334870-sword-and-glory.json](./334870-sword-and-glory.json) |
