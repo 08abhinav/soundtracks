@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
+| Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Asuka Zero | 104532 | [104532-sengoku-asuka-zero.json](./104532-sengoku-asuka-zero.json) |
+| Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
@@ -15371,6 +15373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Titans of the Tide - Search for SquarePants DLC | 376255 | [376255-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-dlc.json](./376255-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-dlc.json) |
 | SpongeBob SquarePants: Titans of the Tide - Tidal Season Pass | 376256 | [376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json](./376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json) |
 | SpongeBob SquarePants: Underpants Slam | 2775 | [2775-spongebob-squarepants-underpants-slam.json](./2775-spongebob-squarepants-underpants-slam.json) |
+| SpongeBob SquigglePants | 5184 | [5184-spongebob-squigglepants.json](./5184-spongebob-squigglepants.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
@@ -15755,6 +15758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
+| Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Animals Junior | 308495 | [308495-spy-guy-animals-junior.json](./308495-spy-guy-animals-junior.json) |
@@ -20404,6 +20408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukeban Deka II: Shoujo Tekkamen Densetsu | 46119 | [46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json](./46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
+| Sukeban Shachou Rena | 5195 | [5195-sukeban-shachou-rena.json](./5195-sukeban-shachou-rena.json) |
 | Sukebe Beach | 240695 | [240695-sukebe-beach.json](./240695-sukebe-beach.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
@@ -20540,6 +20545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Games | 119477 | [119477-summer-sports-games.json](./119477-summer-sports-games.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
+| Summer Sports: Paradise Island | 5197 | [5197-summer-sports-paradise-island.json](./5197-summer-sports-paradise-island.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
@@ -21307,6 +21313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Frog | 80840 | [80840-super-frog.json](./80840-super-frog.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
+| Super Fruit Fall | 5198 | [5198-super-fruit-fall.json](./5198-super-fruit-fall.json) |
 | Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
