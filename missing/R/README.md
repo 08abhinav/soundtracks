@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Beard Labyrinth | 110823 | [110823-red-beard-labyrinth.json](./110823-red-beard-labyrinth.json) |
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
 | Red Bit Escape | 343983 | [343983-red-bit-escape.json](./343983-red-bit-escape.json) |
+| Red Bit Ninja | 35424 | [35424-red-bit-ninja.json](./35424-red-bit-ninja.json) |
 | Red Blood | 52719 | [52719-red-blood.json](./52719-red-blood.json) |
 | Red Blue | 111197 | [111197-red-blue.json](./111197-red-blue.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Glare | 235647 | [235647-red-glare.json](./235647-red-glare.json) |
+| Red Goblin: Cursed Forest | 35406 | [35406-red-goblin-cursed-forest.json](./35406-red-goblin-cursed-forest.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
@@ -3967,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
+| Restricted-RPS: All Aboard the Icarus | 35428 | [35428-restricted-rps-all-aboard-the-icarus.json](./35428-restricted-rps-all-aboard-the-icarus.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resttw | 235366 | [235366-resttw.json](./235366-resttw.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
@@ -6945,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogumon | 346193 | [346193-rogumon.json](./346193-rogumon.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
+| Rogus: Kingdom of the Lost Souls | 35330 | [35330-rogus-kingdom-of-the-lost-souls.json](./35330-rogus-kingdom-of-the-lost-souls.json) |
 | Rohan II | 371876 | [371876-rohan-ii.json](./371876-rohan-ii.json) |
 | Rohan: Blood Feud | 79227 | [79227-rohan-blood-feud.json](./79227-rohan-blood-feud.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
