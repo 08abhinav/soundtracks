@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Chance | 144198 | [144198-second-chance.json](./144198-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
 | Second Chance | 184499 | [184499-second-chance.json](./184499-second-chance.json) |
+| Second Chance Heroes | 23416 | [23416-second-chance-heroes.json](./23416-second-chance-heroes.json) |
 | Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
 | Second Coat | 357185 | [357185-second-coat.json](./357185-second-coat.json) |
 | Second Coming | 32606 | [32606-second-coming.json](./32606-second-coming.json) |
@@ -5593,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
+| Shifting World | 23399 | [23399-shifting-world.json](./23399-shifting-world.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shiftlings: Enhanced Edition | 86377 | [86377-shiftlings-enhanced-edition.json](./86377-shiftlings-enhanced-edition.json) |
 | Shifty | 217777 | [217777-shifty.json](./217777-shifty.json) |
@@ -14860,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders | 46871 | [46871-spiders.json](./46871-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
 | Spiders in the Bath | 256223 | [256223-spiders-in-the-bath.json](./256223-spiders-in-the-bath.json) |
+| Spiders of Mars | 23498 | [23498-spiders-of-mars.json](./23498-spiders-of-mars.json) |
 | Spiders: Cobweb Shooter | 233432 | [233432-spiders-cobweb-shooter.json](./233432-spiders-cobweb-shooter.json) |
 | Spidersilk | 262266 | [262266-spidersilk.json](./262266-spidersilk.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
@@ -18847,6 +18850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange | 289790 | [289790-strange.json](./289790-strange.json) |
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
+| Strange Adventures in Infinite Space | 23510 | [23510-strange-adventures-in-infinite-space.json](./23510-strange-adventures-in-infinite-space.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
