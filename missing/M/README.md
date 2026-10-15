@@ -7165,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
+| Micronaut One | 53149 | [53149-micronaut-one.json](./53149-micronaut-one.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
 | Micropede | 14504 | [14504-micropede.json](./14504-micropede.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
