@@ -9836,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
 | Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
+| Smashmuck Champions | 15323 | [15323-smashmuck-champions.json](./15323-smashmuck-champions.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | Smashteroid | 170262 | [170262-smashteroid.json](./170262-smashteroid.json) |
