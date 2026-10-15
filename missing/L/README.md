@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Avaronia | 293681 | [293681-lands-of-avaronia.json](./293681-lands-of-avaronia.json) |
 | Lands of Devastation | 32697 | [32697-lands-of-devastation.json](./32697-lands-of-devastation.json) |
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
+| Lands of Havoc | 15244 | [15244-lands-of-havoc.json](./15244-lands-of-havoc.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
+| Legend of the Sword | 15248 | [15248-legend-of-the-sword.json](./15248-legend-of-the-sword.json) |
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
@@ -2707,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
+| Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
 | Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
@@ -2945,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Day | 70461 | [70461-liberation-day.json](./70461-liberation-day.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
+| Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberator TD | 68573 | [68573-liberator-td.json](./68573-liberator-td.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
@@ -4735,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Run | 317429 | [317429-log-run.json](./317429-log-run.json) |
 | LOG the game! | 46470 | [46470-log-the-game.json](./46470-log-the-game.json) |
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
+| Log!cal | 15251 | [15251-log-cal.json](./15251-log-cal.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
