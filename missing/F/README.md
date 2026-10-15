@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | FamCram | 381197 | [381197-famcram.json](./381197-famcram.json) |
+| Fame | 67224 | [67224-fame.json](./67224-fame.json) |
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firecracker Fight | 95689 | [95689-firecracker-fight.json](./95689-firecracker-fight.json) |
+| Firecracker HD | 67174 | [67174-firecracker-hd.json](./67174-firecracker-hd.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
 | Firedog: Swooce & Rescue | 316167 | [316167-firedog-swooce-and-rescue.json](./316167-firedog-swooce-and-rescue.json) |
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
