@@ -6332,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
+| Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Snake | 193137 | [193137-rock-snake.json](./193137-rock-snake.json) |
@@ -8779,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
+| Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
 | Rusty Lake Paradise | 54678 | [54678-rusty-lake-paradise.json](./54678-rusty-lake-paradise.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
