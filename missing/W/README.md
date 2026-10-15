@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
 | WarioWare: Snapped! | 1707 | [1707-warioware-snapped.json](./1707-warioware-snapped.json) |
+| WarioWare: Touched! | 1705 | [1705-warioware-touched.json](./1705-warioware-touched.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
 | WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
 | Warium | 87768 | [87768-warium.json](./87768-warium.json) |
@@ -6071,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
+| Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
 | Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
@@ -6104,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms United | 47081 | [47081-worms-united.json](./47081-worms-united.json) |
 | Worms W.M.D | 19696 | [19696-worms-w-m-d.json](./19696-worms-w-m-d.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
+| Worms World Party | 6294 | [6294-worms-world-party.json](./6294-worms-world-party.json) |
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
@@ -6242,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
 | Wrecker | 127762 | [127762-wrecker.json](./127762-wrecker.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
+| Wreckfest | 3772 | [3772-wreckfest.json](./3772-wreckfest.json) |
 | Wreckfest 2 | 312277 | [312277-wreckfest-2.json](./312277-wreckfest-2.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
