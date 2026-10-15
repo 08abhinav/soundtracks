@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Name | 98000 | [98000-bad-name.json](./98000-bad-name.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
+| Bad North | 78550 | [78550-bad-north.json](./78550-bad-north.json) |
 | Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
@@ -6064,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
+| Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
 | Black & White Creatures | 323208 | [323208-black-and-white-creatures.json](./323208-black-and-white-creatures.json) |
 | Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
@@ -6526,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Rising | 419984 | [419984-blade-rising.json](./419984-blade-rising.json) |
+| Blade Runner | 322 | [322-blade-runner.json](./322-blade-runner.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
