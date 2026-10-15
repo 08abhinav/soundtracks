@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
+| Deer Avenger 4: The Rednecks Strike Back | 69770 | [69770-deer-avenger-4-the-rednecks-strike-back.json](./69770-deer-avenger-4-the-rednecks-strike-back.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
@@ -4608,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
+| Des Chiffres et des Lettres | 69743 | [69743-des-chiffres-et-des-lettres.json](./69743-des-chiffres-et-des-lettres.json) |
 | Des Racines et des Graines | 261724 | [261724-des-racines-et-des-graines.json](./261724-des-racines-et-des-graines.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
