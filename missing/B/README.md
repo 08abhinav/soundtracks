@@ -9748,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bozo the Brave | 15685 | [15685-bozo-the-brave.json](./15685-bozo-the-brave.json) |
+| Bozo's Night Out | 13556 | [13556-bozos-night-out.json](./13556-bozos-night-out.json) |
 | BP Gas Mania | 394108 | [394108-bp-gas-mania.json](./394108-bp-gas-mania.json) |
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
 | BPM Boy | 204234 | [204234-bpm-boy.json](./204234-bpm-boy.json) |
