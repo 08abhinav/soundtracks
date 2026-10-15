@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
 | City Cup | 359374 | [359374-city-cup.json](./359374-city-cup.json) |
 | City Defence | 125342 | [125342-city-defence.json](./125342-city-defence.json) |
+| City Defence | 53158 | [53158-city-defence.json](./53158-city-defence.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
