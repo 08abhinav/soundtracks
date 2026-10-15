@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-22 Raptor | 70468 | [70468-f-22-raptor.json](./70468-f-22-raptor.json) |
+| F-22 Total Air War | 47118 | [47118-f-22-total-air-war.json](./47118-f-22-total-air-war.json) |
 | F-22: Air Dominance Fighter | 392370 | [392370-f-22-air-dominance-fighter.json](./392370-f-22-air-dominance-fighter.json) |
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
 | F*ck This Game | 191129 | [191129-f-ck-this-game.json](./191129-f-ck-this-game.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
+| F/A-18 Hornet 3.0 | 47083 | [47083-f-a-18-hornet-3-0.json](./47083-f-a-18-hornet-3-0.json) |
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
 | F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
@@ -5877,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
+| Flying Corps | 47082 | [47082-flying-corps.json](./47082-flying-corps.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
@@ -7392,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fowl Words: Farm Fresh Goodness | 73990 | [73990-fowl-words-farm-fresh-goodness.json](./73990-fowl-words-farm-fresh-goodness.json) |
 | Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
+| Fowling | 47257 | [47257-fowling.json](./47257-fowling.json) |
 | Fowlplay | 80429 | [80429-fowlplay.json](./80429-fowlplay.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
@@ -8237,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
 | Frog Boaster | 305454 | [305454-frog-boaster.json](./305454-frog-boaster.json) |
+| Frog Boaster | 47256 | [47256-frog-boaster.json](./47256-frog-boaster.json) |
 | Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
 | Frog Bridge Scape | 262884 | [262884-frog-bridge-scape.json](./262884-frog-bridge-scape.json) |
