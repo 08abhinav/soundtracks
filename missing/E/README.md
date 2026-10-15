@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Engaged: Apache vs Havoc | 20373 | [20373-enemy-engaged-apache-vs-havoc.json](./20373-enemy-engaged-apache-vs-havoc.json) |
 | Enemy Engaged: Comanche vs Hokum | 20374 | [20374-enemy-engaged-comanche-vs-hokum.json](./20374-enemy-engaged-comanche-vs-hokum.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
+| Enemy Front | 5647 | [5647-enemy-front.json](./5647-enemy-front.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
 | Enemy Infestation | 52526 | [52526-enemy-infestation.json](./52526-enemy-infestation.json) |
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
+| Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
