@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Haxware: Enforcer Games | 258404 | [258404-haxware-enforcer-games.json](./258404-haxware-enforcer-games.json) |
 | Hay Bales | 246507 | [246507-hay-bales.json](./246507-hay-bales.json) |
+| Hay Buddy | 41813 | [41813-hay-buddy.json](./41813-hay-buddy.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
@@ -5131,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
+| High Way Star | 41804 | [41804-high-way-star.json](./41804-high-way-star.json) |
 | High/Low 2 | 263417 | [263417-high-low-2.json](./263417-high-low-2.json) |
 | High/Low 5 | 263414 | [263414-high-low-5.json](./263414-high-low-5.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
@@ -5866,7 +5868,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
+| Hole in One | 41794 | [41794-hole-in-one.json](./41794-hole-in-one.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
+| Hole in One Professional | 41795 | [41795-hole-in-one-professional.json](./41795-hole-in-one-professional.json) |
+| Hole in One Special | 41793 | [41793-hole-in-one-special.json](./41793-hole-in-one-special.json) |
 | Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
 | Hole io & Candivity | 328512 | [328512-hole-io-and-candivity.json](./328512-hole-io-and-candivity.json) |
