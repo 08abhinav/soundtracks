@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater | 385399 | [385399-underwater.json](./385399-underwater.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
+| Underwater Attack | 69190 | [69190-underwater-attack.json](./69190-underwater-attack.json) |
 | Underwater battles | 211640 | [211640-underwater-battles.json](./211640-underwater-battles.json) |
 | Underwater Cities | 249936 | [249936-underwater-cities.json](./249936-underwater-cities.json) |
 | Underwater Cycling | 368645 | [368645-underwater-cycling.json](./368645-underwater-cycling.json) |
