@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
+| Cabela's Big Game Hunter III: The Next Harvest | 73693 | [73693-cabelas-big-game-hunter-iii-the-next-harvest.json](./73693-cabelas-big-game-hunter-iii-the-next-harvest.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
@@ -694,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Campaign Series: Middle East 1948-1985 | 59492 | [59492-campaign-series-middle-east-1948-1985.json](./59492-campaign-series-middle-east-1948-1985.json) |
+| Campaign: From North Africa to Northern Europe | 73730 | [73730-campaign-from-north-africa-to-northern-europe.json](./73730-campaign-from-north-africa-to-northern-europe.json) |
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
 | Campeones | 39117 | [39117-campeones.json](./39117-campeones.json) |
@@ -7222,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Strike | 409395 | [409395-cobra-strike.json](./409395-cobra-strike.json) |
 | Cobra: Galaxy Nights | 75736 | [75736-cobra-galaxy-nights.json](./75736-cobra-galaxy-nights.json) |
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
+| Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
@@ -11594,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis on the Planet of the Apes VR | 89552 | [89552-crisis-on-the-planet-of-the-apes-vr.json](./89552-crisis-on-the-planet-of-the-apes-vr.json) |
 | Crisis Point: Extinction | 140581 | [140581-crisis-point-extinction.json](./140581-crisis-point-extinction.json) |
 | Crisis Survivor | 244222 | [244222-crisis-survivor.json](./244222-crisis-survivor.json) |
+| Crisis Team: Ambulance Driver | 73703 | [73703-crisis-team-ambulance-driver.json](./73703-crisis-team-ambulance-driver.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
 | Crisis: North Korea | 62792 | [62792-crisis-north-korea.json](./62792-crisis-north-korea.json) |
@@ -11726,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop Chronicles | 292964 | [292964-crop-chronicles.json](./292964-crop-chronicles.json) |
 | Crop Circles | 234688 | [234688-crop-circles.json](./234688-crop-circles.json) |
 | Crop Circles 2 | 234691 | [234691-crop-circles-2.json](./234691-crop-circles-2.json) |
+| Crop Circles: Escape from Planet 3 | 73705 | [73705-crop-circles-escape-from-planet-3.json](./73705-crop-circles-escape-from-planet-3.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Dusta | 125757 | [125757-crop-dusta.json](./125757-crop-dusta.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
