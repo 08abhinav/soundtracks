@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
+| Ketsui: Kizuna Jigoku-tachi | 7035 | [7035-ketsui-kizuna-jigoku-tachi.json](./7035-ketsui-kizuna-jigoku-tachi.json) |
 | Ketsui: Kizuna Jigoku-tachi DX | 214714 | [214714-ketsui-kizuna-jigoku-tachi-dx.json](./214714-ketsui-kizuna-jigoku-tachi-dx.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
+| Koala Lumpur: Journey to the Edge | 6736 | [6736-koala-lumpur-journey-to-the-edge.json](./6736-koala-lumpur-journey-to-the-edge.json) |
 | Koala Quest: Parenthood Prevention | 171321 | [171321-koala-quest-parenthood-prevention.json](./171321-koala-quest-parenthood-prevention.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
