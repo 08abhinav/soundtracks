@@ -7460,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Festa - Groovy Tune | 42795 | [42795-the-idolmaster-shiny-festa-groovy-tune.json](./42795-the-idolmaster-shiny-festa-groovy-tune.json) |
 | The Idolmaster: Shiny Festa - Honey Sound | 42796 | [42796-the-idolmaster-shiny-festa-honey-sound.json](./42796-the-idolmaster-shiny-festa-honey-sound.json) |
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
+| The Idolmaster: Shiny TV | 62077 | [62077-the-idolmaster-shiny-tv.json](./62077-the-idolmaster-shiny-tv.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
@@ -12457,6 +12458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Unbreakable Gumball | 108316 | [108316-the-unbreakable-gumball.json](./108316-the-unbreakable-gumball.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
+| The Uncanny X-Men: Days of the Future Past | 62067 | [62067-the-uncanny-x-men-days-of-the-future-past.json](./62067-the-uncanny-x-men-days-of-the-future-past.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
@@ -13760,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
+| Thousand Land | 62072 | [62072-thousand-land.json](./62072-thousand-land.json) |
 | Thousand Lantern Lane | 333508 | [333508-thousand-lantern-lane.json](./333508-thousand-lantern-lane.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
@@ -15965,6 +15968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
+| Tiny Dice Dungeon | 62086 | [62086-tiny-dice-dungeon.json](./62086-tiny-dice-dungeon.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
 | Tiny Dino: Royale | 314364 | [314364-tiny-dino-royale.json](./314364-tiny-dino-royale.json) |
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
@@ -17221,6 +17225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tomyka Hero: Rescue Force DS | 124099 | [124099-tomyka-hero-rescue-force-ds.json](./124099-tomyka-hero-rescue-force-ds.json) |
+| Ton Ton Ball | 62097 | [62097-ton-ton-ball.json](./62097-ton-ton-ball.json) |
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
@@ -20633,6 +20638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
 | Treasure Adventure Game | 11837 | [11837-treasure-adventure-game.json](./11837-treasure-adventure-game.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
+| Treasure Arena | 62074 | [62074-treasure-arena.json](./62074-treasure-arena.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
 | Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
@@ -20714,6 +20720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
 | Treasure Sprinter | 192265 | [192265-treasure-sprinter.json](./192265-treasure-sprinter.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
+| Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
@@ -21973,6 +21980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Bees | 206083 | [206083-tumble-bees.json](./206083-tumble-bees.json) |
 | Tumble Bees HD | 355008 | [355008-tumble-bees-hd.json](./355008-tumble-bees-hd.json) |
 | Tumble Bees to Go | 206068 | [206068-tumble-bees-to-go.json](./206068-tumble-bees-to-go.json) |
+| Tumble Cubes | 62061 | [62061-tumble-cubes.json](./62061-tumble-cubes.json) |
 | Tumble Egg | 333184 | [333184-tumble-egg.json](./333184-tumble-egg.json) |
 | Tumble Jumble | 206067 | [206067-tumble-jumble.json](./206067-tumble-jumble.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
