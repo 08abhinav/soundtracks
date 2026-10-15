@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikoukai Jidai IV: Porto Estado - Power Up Kit | 351127 | [351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json](./351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json) |
 | Daikoukai Jidai IV: Porto Estado - Shokai Gentei-ban | 351146 | [351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json](./351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
+| Daiku no Gen-san 2: Akage no Dan no Gyakushuu | 48527 | [48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json](./48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
 | Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
+| De-Block | 48515 | [48515-de-block.json](./48515-de-block.json) |
 | De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
@@ -3444,6 +3446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
+| Deep Dungeon III: Yuushi he no Tabi | 48514 | [48514-deep-dungeon-iii-yuushi-he-no-tabi.json](./48514-deep-dungeon-iii-yuushi-he-no-tabi.json) |
+| Deep Dungeon IV: Kuro no Youjutsushi | 48513 | [48513-deep-dungeon-iv-kuro-no-youjutsushi.json](./48513-deep-dungeon-iv-kuro-no-youjutsushi.json) |
 | Deep Dungeon: Gym | 117558 | [117558-deep-dungeon-gym.json](./117558-deep-dungeon-gym.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
@@ -7978,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
 | Doku's Noodle Empire | 217464 | [217464-dokus-noodle-empire.json](./217464-dokus-noodle-empire.json) |
+| Dokuganryu Masamune | 48525 | [48525-dokuganryu-masamune.json](./48525-dokuganryu-masamune.json) |
 | Dokuro | 17734 | [17734-dokuro.json](./17734-dokuro.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
@@ -8400,6 +8405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
 | Donald Fuck RPG | 255616 | [255616-donald-fuck-rpg.json](./255616-donald-fuck-rpg.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
+| Donald Land | 48524 | [48524-donald-land.json](./48524-donald-land.json) |
 | Donald no Magical World | 46544 | [46544-donald-no-magical-world.json](./46544-donald-no-magical-world.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
 | Donald Trump, Make RPGs Great Again! | 301053 | [301053-donald-trump-make-rpgs-great-again.json](./301053-donald-trump-make-rpgs-great-again.json) |
@@ -8987,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
+| Doraemon: Giga Zombie no Gyakushuu | 48523 | [48523-doraemon-giga-zombie-no-gyakushuu.json](./48523-doraemon-giga-zombie-no-gyakushuu.json) |
 | Doraemon: Meikyuu Daisakusen | 43194 | [43194-doraemon-meikyuu-daisakusen.json](./43194-doraemon-meikyuu-daisakusen.json) |
 | Doraemon: Midori no Wakusei Doki-doki Daikyuushutsu! | 49265 | [49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json](./49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
@@ -9213,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Klondike | 91112 | [91112-double-klondike.json](./91112-double-klondike.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
+| Double Moon Densetsu | 48522 | [48522-double-moon-densetsu.json](./48522-double-moon-densetsu.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
@@ -9870,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
+| Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
 | Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
 | Dragon Call | 119495 | [119495-dragon-call.json](./119495-dragon-call.json) |
 | Dragon Care Tarot | 392225 | [392225-dragon-care-tarot.json](./392225-dragon-care-tarot.json) |
@@ -10101,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
+| Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
@@ -12168,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
 | Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
+| Dungeon Kid | 48511 | [48511-dungeon-kid.json](./48511-dungeon-kid.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
