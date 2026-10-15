@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
+| Tapan Kaikki 4: Bloodshed | 47108 | [47108-tapan-kaikki-4-bloodshed.json](./47108-tapan-kaikki-4-bloodshed.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
+| The Curse of Issyos | 47094 | [47094-the-curse-of-issyos.json](./47094-the-curse-of-issyos.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
@@ -7783,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
 | The Journeyman Project 2: Buried in Time | 12436 | [12436-the-journeyman-project-2-buried-in-time.json](./12436-the-journeyman-project-2-buried-in-time.json) |
 | The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
+| The Journeyman Project: Pegasus Prime | 47079 | [47079-the-journeyman-project-pegasus-prime.json](./47079-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Jovian System | 164268 | [164268-the-jovian-system.json](./164268-the-jovian-system.json) |
 | The Joy of Creation: Classic | 255691 | [255691-the-joy-of-creation-classic.json](./255691-the-joy-of-creation-classic.json) |
@@ -9143,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Town: The Jungle | 55005 | [55005-the-lost-town-the-jungle.json](./55005-the-lost-town-the-jungle.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
+| The Lost Treasures of Infocom | 47077 | [47077-the-lost-treasures-of-infocom.json](./47077-the-lost-treasures-of-infocom.json) |
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
@@ -15531,6 +15535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
+| Tigers on the Prowl | 47113 | [47113-tigers-on-the-prowl.json](./47113-tigers-on-the-prowl.json) |
 | Tigey's Gift | 199302 | [199302-tigeys-gift.json](./199302-tigeys-gift.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
@@ -22941,7 +22946,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typewriter Monkeys | 365229 | [365229-typewriter-monkeys.json](./365229-typewriter-monkeys.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
 | Typhon: Bot vs. Bot | 255134 | [255134-typhon-bot-vs-bot.json](./255134-typhon-bot-vs-bot.json) |
+| Typhoon 2001 | 47111 | [47111-typhoon-2001.json](./47111-typhoon-2001.json) |
 | Typhoon Force: Storm Fighter | 176991 | [176991-typhoon-force-storm-fighter.json](./176991-typhoon-force-storm-fighter.json) |
+| Typhoon of Steel | 47115 | [47115-typhoon-of-steel.json](./47115-typhoon-of-steel.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
