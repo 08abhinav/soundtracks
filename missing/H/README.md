@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
+| Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
@@ -5082,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
+| High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
@@ -6960,6 +6962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Air Balloon | 240142 | [240142-hot-air-balloon.json](./240142-hot-air-balloon.json) |
 | Hot Air Bloon | 286632 | [286632-hot-air-bloon.json](./286632-hot-air-bloon.json) |
 | Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
+| Hot and Cold: A 3D Hidden Object Adventure | 67220 | [67220-hot-and-cold-a-3d-hidden-object-adventure.json](./67220-hot-and-cold-a-3d-hidden-object-adventure.json) |
 | Hot and Lovely 3 | 238577 | [238577-hot-and-lovely-3.json](./238577-hot-and-lovely-3.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
