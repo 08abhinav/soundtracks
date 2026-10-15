@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
+| Gal*Gun | 7000 | [7000-gal-gun.json](./7000-gal-gun.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
@@ -4667,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomorrah | 273546 | [273546-gomorrah.json](./273546-gomorrah.json) |
 | Gomu | 188432 | [188432-gomu.json](./188432-gomu.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
+| Gon: Baku-baku Baku-baku Adventure | 6785 | [6785-gon-baku-baku-baku-baku-adventure.json](./6785-gon-baku-baku-baku-baku-adventure.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
