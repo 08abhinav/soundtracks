@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Deadline | 158510 | [158510-near-deadline.json](./158510-near-deadline.json) |
 | Near Fantasy Space | 268965 | [268965-near-fantasy-space.json](./268965-near-fantasy-space.json) |
+| Near Impact | 17782 | [17782-near-impact.json](./17782-near-impact.json) |
 | Near Mint | 315626 | [315626-near-mint.json](./315626-near-mint.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
 | Near Site | 189042 | [189042-near-site.json](./189042-near-site.json) |
