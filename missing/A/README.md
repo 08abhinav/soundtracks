@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
+| Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
@@ -4611,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 345645 | [345645-alive.json](./345645-alive.json) |
 | Alive 2 Survive | 120113 | [120113-alive-2-survive.json](./120113-alive-2-survive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
+| Alive Sharks | 70285 | [70285-alive-sharks.json](./70285-alive-sharks.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
 | AliveZ | 327925 | [327925-alivez.json](./327925-alivez.json) |
@@ -6201,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anetha | 284279 | [284279-anetha.json](./284279-anetha.json) |
 | Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
+| Anfractuos | 70291 | [70291-anfractuos.json](./70291-anfractuos.json) |
 | Angel | 292433 | [292433-angel.json](./292433-angel.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
@@ -8721,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
+| Arctic Moves | 70277 | [70277-arctic-moves.json](./70277-arctic-moves.json) |
 | Arctic Outpost | 262264 | [262264-arctic-outpost.json](./262264-arctic-outpost.json) |
 | Arctic Quest | 175787 | [175787-arctic-quest.json](./175787-arctic-quest.json) |
 | Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
@@ -10797,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Collection 2 | 130814 | [130814-atari-collection-2.json](./130814-atari-collection-2.json) |
 | Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
 | Atari Collection: Racing | 255608 | [255608-atari-collection-racing.json](./255608-atari-collection-racing.json) |
+| Atari Collection: Rollenspiele | 70313 | [70313-atari-collection-rollenspiele.json](./70313-atari-collection-rollenspiele.json) |
 | Atari Collection: Strategie | 255607 | [255607-atari-collection-strategie.json](./255607-atari-collection-strategie.json) |
 | Atari Couchcade | 304235 | [304235-atari-couchcade.json](./304235-atari-couchcade.json) |
 | Atari Flashback | 245961 | [245961-atari-flashback.json](./245961-atari-flashback.json) |
