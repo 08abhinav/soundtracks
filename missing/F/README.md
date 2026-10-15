@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
+| Fast Striker 1.5 | 45787 | [45787-fast-striker-1-5.json](./45787-fast-striker-1-5.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast Typing Master | 161614 | [161614-fast-typing-master.json](./161614-fast-typing-master.json) |
 | Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
@@ -3176,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
+| Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
