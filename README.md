@@ -575,6 +575,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0d0f09754721321603028b" width="60" /> | [Hitman: Codename 47](https://ostdb.net/games/hitman-codename-47) | **Hitman Codename 47 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Vo78OjdDENJbFxVruM4Od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a04391e6d0b9cd0b7894fc" width="60" /> | [Hitman: Contracts](https://ostdb.net/games/hitman-contracts) | **Hitman: Contracts (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0SiUDINVt394gDbBeMIez2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709343b456e9b36a834bf12f" width="60" /> | [Hogwarts Legacy](https://ostdb.net/games/hogwarts-legacy) | **Hogwarts Legacy (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327d302c9d286e99c9c9ade2b" width="60" /> | [Hohokum](https://ostdb.net/games/hohokum) | **Hohokum (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1tw5RIi23yCOWlyPKRx8zx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dcbca161a7787a3fe0cb429c" width="60" /> | [Hollow Knight](https://ostdb.net/games/hollow-knight) | **Hollow Knight (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgGOMRY7H4hl6OQi5wb2Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9bb10e381fbd4f78ce2a511" width="60" /> | [Hollow Knight: Silksong](https://ostdb.net/games/hollow-knight-silksong) | **Hollow Knight: Silksong (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2mvEK1s3lpArLiUVRkqoD5) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/fd/c6/7efdc675-ae42-b13f-3009-5f10da4bdb9d/8721093103479.png/600x600bb.jpg" width="60" /> | [Homeworld 3](https://ostdb.net/games/homeworld-3) | **Homeworld 3 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4) · [Album](https://album.link/i/1745081505) |
@@ -1370,4 +1371,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1687 soundtracks · last updated 2026-10-15T19:30:58.838Z_
+_1688 soundtracks · last updated 2026-10-15T19:31:13.419Z_
