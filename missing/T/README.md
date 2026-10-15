@@ -5171,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
 | The Concept | 334265 | [334265-the-concept.json](./334265-the-concept.json) |
 | The Concierge | 134325 | [134325-the-concierge.json](./134325-the-concierge.json) |
+| The Concourse | 32675 | [32675-the-concourse.json](./32675-the-concourse.json) |
 | The Concrete Sutra #1 | 398419 | [398419-the-concrete-sutra-1.json](./398419-the-concrete-sutra-1.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
@@ -20609,6 +20610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
 | Trap Genesis | 164073 | [164073-trap-genesis.json](./164073-trap-genesis.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
+| Trap House | 32713 | [32713-trap-house.json](./32713-trap-house.json) |
 | Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
