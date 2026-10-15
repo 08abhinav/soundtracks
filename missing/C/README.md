@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
+| Carrier | 6720 | [6720-carrier.json](./6720-carrier.json) |
 | Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
 | Carrier 2: The Next Mutation | 291916 | [291916-carrier-2-the-next-mutation.json](./291916-carrier-2-the-next-mutation.json) |
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
 | Championship Soccer 2004 | 91562 | [91562-championship-soccer-2004.json](./91562-championship-soccer-2004.json) |
 | Championship Sprint | 91322 | [91322-championship-sprint.json](./91322-championship-sprint.json) |
+| Championship Surfer | 6722 | [6722-championship-surfer.json](./6722-championship-surfer.json) |
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
@@ -3963,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
 | Chaos;Head | 11392 | [11392-chaos-head.json](./11392-chaos-head.json) |
 | Chaos;Head Dual | 61551 | [61551-chaos-head-dual.json](./61551-chaos-head-dual.json) |
+| Chaos;Head Love Chu Chu! | 6935 | [6935-chaos-head-love-chu-chu.json](./6935-chaos-head-love-chu-chu.json) |
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
@@ -7357,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
+| Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
@@ -9735,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Carkour! | 97708 | [97708-cool-carkour.json](./97708-cool-carkour.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
+| Cool Cool Toon | 6728 | [6728-cool-cool-toon.json](./6728-cool-cool-toon.json) |
 | Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
@@ -10204,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Sheriff | 13519 | [13519-cosmic-sheriff.json](./13519-cosmic-sheriff.json) |
 | Cosmic Shock Absorber | 13520 | [13520-cosmic-shock-absorber.json](./13520-cosmic-shock-absorber.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
+| Cosmic Smash | 6729 | [6729-cosmic-smash.json](./6729-cosmic-smash.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
@@ -11696,6 +11702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime City | 12016 | [12016-crime-city.json](./12016-crime-city.json) |
 | Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
+| Crime City | 6784 | [6784-crime-city.json](./6784-crime-city.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
@@ -13851,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tower 2048 | 357840 | [357840-cyber-tower-2048.json](./357840-cyber-tower-2048.json) |
 | Cyber Traps & the Detective Squad | 393533 | [393533-cyber-traps-and-the-detective-squad.json](./393533-cyber-traps-and-the-detective-squad.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
+| Cyber Troopers Virtual-On Force | 6951 | [6951-cyber-troopers-virtual-on-force.json](./6951-cyber-troopers-virtual-on-force.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Troopers Virtual-On Masterpiece 1995 - 2001 | 126474 | [126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json](./126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
