@@ -7013,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
+| Sigma 7 | 36861 | [36861-sigma-7.json](./36861-sigma-7.json) |
 | Sigma Battle Royale Shooter | 231899 | [231899-sigma-battle-royale-shooter.json](./231899-sigma-battle-royale-shooter.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
@@ -8246,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch Rider | 235246 | [235246-sketch-rider.json](./235246-sketch-rider.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
+| Sketch Wars | 36849 | [36849-sketch-wars.json](./36849-sketch-wars.json) |
 | Sketch, Share, Solve | 198164 | [198164-sketch-share-solve.json](./198164-sketch-share-solve.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
@@ -8603,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
+| Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
@@ -10519,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
+| Snowball | 36843 | [36843-snowball.json](./36843-snowball.json) |
 | Snowball Bustout | 146737 | [146737-snowball-bustout.json](./146737-snowball-bustout.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Christmas Festival | 242436 | [242436-snowball-christmas-festival.json](./242436-snowball-christmas-festival.json) |
@@ -11143,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
+| Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
@@ -12426,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
 | Sorcerer Knights | 171872 | [171872-sorcerer-knights.json](./171872-sorcerer-knights.json) |
+| Sorcerer Lord | 36908 | [36908-sorcerer-lord.json](./36908-sorcerer-lord.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Smackdown | 310099 | [310099-sorcerer-smackdown.json](./310099-sorcerer-smackdown.json) |
@@ -18372,6 +18378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickyJump | 74974 | [74974-stickyjump.json](./74974-stickyjump.json) |
 | Stien | 184450 | [184450-stien.json](./184450-stien.json) |
 | Stiff Neck | 386508 | [386508-stiff-neck.json](./386508-stiff-neck.json) |
+| Stifflip & Co. | 36883 | [36883-stifflip-and-co.json](./36883-stifflip-and-co.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
