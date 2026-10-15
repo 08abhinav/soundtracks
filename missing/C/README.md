@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
+| Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
@@ -5267,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
+| Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
 | Choujikuu Yousai Macross: Love Stories | 416872 | [416872-choujikuu-yousai-macross-love-stories.json](./416872-choujikuu-yousai-macross-love-stories.json) |
