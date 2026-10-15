@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
 | Kung Fu Fighting | 254058 | [254058-kung-fu-fighting.json](./254058-kung-fu-fighting.json) |
+| Kung Fu Funk | 67190 | [67190-kung-fu-funk.json](./67190-kung-fu-funk.json) |
 | Kung Fu Fury | 180618 | [180618-kung-fu-fury.json](./180618-kung-fu-fury.json) |
 | Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
