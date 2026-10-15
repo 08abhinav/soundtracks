@@ -7180,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero Live | 9741 | [9741-guitar-hero-live.json](./9741-guitar-hero-live.json) |
 | Guitar Hero Live: Supreme Party Edition | 136352 | [136352-guitar-hero-live-supreme-party-edition.json](./136352-guitar-hero-live-supreme-party-edition.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
+| Guitar Hero: Aerosmith | 2673 | [2673-guitar-hero-aerosmith.json](./2673-guitar-hero-aerosmith.json) |
 | Guitar Hero: Avril Lavigne | 310674 | [310674-guitar-hero-avril-lavigne.json](./310674-guitar-hero-avril-lavigne.json) |
 | Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
 | Guitar Hero: Brazucas | 275229 | [275229-guitar-hero-brazucas.json](./275229-guitar-hero-brazucas.json) |
