@@ -348,9 +348,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
 | XAirports | 103931 | [103931-xairports.json](./103931-xairports.json) |
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
+| Xak III: The Eternal Recurrence | 37606 | [37606-xak-iii-the-eternal-recurrence.json](./37606-xak-iii-the-eternal-recurrence.json) |
 | Xak: The Art of Visual Stage | 377091 | [377091-xak-the-art-of-visual-stage.json](./377091-xak-the-art-of-visual-stage.json) |
 | Xalx no Monshou 98 | 92120 | [92120-xalx-no-monshou-98.json](./92120-xalx-no-monshou-98.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
+| Xanadu II | 37640 | [37640-xanadu-ii.json](./37640-xanadu-ii.json) |
 | Xanadu Next | 6296 | [6296-xanadu-next.json](./6296-xanadu-next.json) |
 | Xanadu Scenario II | 62583 | [62583-xanadu-scenario-ii.json](./62583-xanadu-scenario-ii.json) |
 | Xanarthraxia | 118808 | [118808-xanarthraxia.json](./118808-xanarthraxia.json) |
