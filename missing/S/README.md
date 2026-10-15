@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
+| S2: Silent Storm - Gold Edition | 51870 | [51870-s2-silent-storm-gold-edition.json](./51870-s2-silent-storm-gold-edition.json) |
 | S40 Racing | 93213 | [93213-s40-racing.json](./93213-s40-racing.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
+| Saints Row IV: Game of the Century Edition | 51869 | [51869-saints-row-iv-game-of-the-century-edition.json](./51869-saints-row-iv-game-of-the-century-edition.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
