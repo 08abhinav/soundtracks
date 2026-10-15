@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
+| Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
+| Kenka Bancho: Zenkoku Seiha | 61498 | [61498-kenka-bancho-zenkoku-seiha.json](./61498-kenka-bancho-zenkoku-seiha.json) |
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
 | Kenka Banchou Otome: Kanzen Muketsu no My Honey | 54743 | [54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json](./54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json) |
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
@@ -1778,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
 | KillerMUD | 112253 | [112253-killermud.json](./112253-killermud.json) |
+| Killerwatt | 61520 | [61520-killerwatt.json](./61520-killerwatt.json) |
 | Killest Fights Craw-Mech | 399900 | [399900-killest-fights-craw-mech.json](./399900-killest-fights-craw-mech.json) |
 | Killfest | 232932 | [232932-killfest.json](./232932-killfest.json) |
 | KillFish | 278925 | [278925-killfish.json](./278925-killfish.json) |
