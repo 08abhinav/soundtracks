@@ -7459,8 +7459,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 4 | 79978 | [79978-the-idolmaster-gravure-for-you-vol-4.json](./79978-the-idolmaster-gravure-for-you-vol-4.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
+| The Idolmaster: Gravure for You! Vol. 9 | 56399 | [56399-the-idolmaster-gravure-for-you-vol-9.json](./56399-the-idolmaster-gravure-for-you-vol-9.json) |
 | The Idolmaster: Live in Slot! | 77858 | [77858-the-idolmaster-live-in-slot.json](./77858-the-idolmaster-live-in-slot.json) |
+| The Idolmaster: Million Live! | 56398 | [56398-the-idolmaster-million-live.json](./56398-the-idolmaster-million-live.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
+| The Idolmaster: Mobile | 56387 | [56387-the-idolmaster-mobile.json](./56387-the-idolmaster-mobile.json) |
 | The Idolmaster: One For All | 7465 | [7465-the-idolmaster-one-for-all.json](./7465-the-idolmaster-one-for-all.json) |
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Poplinks | 142765 | [142765-the-idolmaster-poplinks.json](./142765-the-idolmaster-poplinks.json) |
@@ -7475,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Festa - Honey Sound | 42796 | [42796-the-idolmaster-shiny-festa-honey-sound.json](./42796-the-idolmaster-shiny-festa-honey-sound.json) |
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
 | The Idolmaster: Shiny TV | 62077 | [62077-the-idolmaster-shiny-tv.json](./62077-the-idolmaster-shiny-tv.json) |
+| The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
