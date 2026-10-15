@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zof | 140261 | [140261-zof.json](./140261-zof.json) |
 | Zofia | 118098 | [118098-zofia.json](./118098-zofia.json) |
 | Zoid Zoid Tetsoidea | 247957 | [247957-zoid-zoid-tetsoidea.json](./247957-zoid-zoid-tetsoidea.json) |
+| Zoids | 26301 | [26301-zoids.json](./26301-zoids.json) |
 | Zoids 2: Herikku Kyouwakoku vs. Gairosu Teikoku | 241430 | [241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json](./241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json) |
 | Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
 | Zoids Battle Colosseum | 122250 | [122250-zoids-battle-colosseum.json](./122250-zoids-battle-colosseum.json) |
