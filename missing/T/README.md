@@ -4519,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Glove | 61530 | [61530-the-black-glove.json](./61530-the-black-glove.json) |
 | The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
+| The Black Heart | 50364 | [50364-the-black-heart.json](./50364-the-black-heart.json) |
 | The Black Hole | 93483 | [93483-the-black-hole.json](./93483-the-black-hole.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
 | The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
@@ -8153,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
+| The Last Dance | 50358 | [50358-the-last-dance.json](./50358-the-last-dance.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
 | The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
@@ -22593,6 +22595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
 | Twin Odyssey | 180519 | [180519-twin-odyssey.json](./180519-twin-odyssey.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
+| Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
