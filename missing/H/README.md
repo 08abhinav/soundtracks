@@ -5418,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
+| Hippo Teeth | 47259 | [47259-hippo-teeth.json](./47259-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippoboar Rancher | 127177 | [127177-hippoboar-rancher.json](./127177-hippoboar-rancher.json) |
 | Hippocampal: The White Sofa | 17394 | [17394-hippocampal-the-white-sofa.json](./17394-hippocampal-the-white-sofa.json) |
@@ -7061,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
 | Hot Lava | 20149 | [20149-hot-lava.json](./20149-hot-lava.json) |
 | Hot Line | 305458 | [305458-hot-line.json](./305458-hot-line.json) |
+| Hot Line | 47261 | [47261-hot-line.json](./47261-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
