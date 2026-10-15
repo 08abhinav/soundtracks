@@ -2677,7 +2677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
-| Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegs X Stickers | 399929 | [399929-pegs-x-stickers.json](./399929-pegs-x-stickers.json) |
