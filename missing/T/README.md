@@ -8354,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
+| The Legend of Atlantis | 66564 | [66564-the-legend-of-atlantis.json](./66564-the-legend-of-atlantis.json) |
 | The Legend of Aurum Draconis | 213301 | [213301-the-legend-of-aurum-draconis.json](./213301-the-legend-of-aurum-draconis.json) |
 | The Legend of Azarias | 207191 | [207191-the-legend-of-azarias.json](./207191-the-legend-of-azarias.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
@@ -8370,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Chibi Ninja | 200925 | [200925-the-legend-of-chibi-ninja.json](./200925-the-legend-of-chibi-ninja.json) |
+| The Legend of China | 66558 | [66558-the-legend-of-china.json](./66558-the-legend-of-china.json) |
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Chuck | 291006 | [291006-the-legend-of-chuck.json](./291006-the-legend-of-chuck.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
@@ -8384,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
+| The Legend of Egypt | 66559 | [66559-the-legend-of-egypt.json](./66559-the-legend-of-egypt.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
 | The Legend of Elrian | 290002 | [290002-the-legend-of-elrian.json](./290002-the-legend-of-elrian.json) |
@@ -8394,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
+| The Legend of Gallia | 66557 | [66557-the-legend-of-gallia.json](./66557-the-legend-of-gallia.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
@@ -8489,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
 | The Legend of Relic | 185027 | [185027-the-legend-of-relic.json](./185027-the-legend-of-relic.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
+| The Legend of Rome | 66563 | [66563-the-legend-of-rome.json](./66563-the-legend-of-rome.json) |
 | The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
@@ -8517,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
+| The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
@@ -9498,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
 | The Mummy | 49323 | [49323-the-mummy.json](./49323-the-mummy.json) |
 | The Mummy Mystery | 68740 | [68740-the-mummy-mystery.json](./68740-the-mummy-mystery.json) |
+| The Mummy Online | 66550 | [66550-the-mummy-online.json](./66550-the-mummy-online.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
@@ -22299,6 +22306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
 | Tweenies Doodles' Bones | 50058 | [50058-tweenies-doodles-bones.json](./50058-tweenies-doodles-bones.json) |
+| Tweet Defense | 66546 | [66546-tweet-defense.json](./66546-tweet-defense.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
