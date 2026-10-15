@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
+| Paizei Mahjong Ryouga | 58670 | [58670-paizei-mahjong-ryouga.json](./58670-paizei-mahjong-ryouga.json) |
 | Paizuri Fantasies | 351741 | [351741-paizuri-fantasies.json](./351741-paizuri-fantasies.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | 3732 | [3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json](./3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game - On the Brink: Mutation | 171931 | [171931-pandemic-the-board-game-on-the-brink-mutation.json](./171931-pandemic-the-board-game-on-the-brink-mutation.json) |
 | Pandemic: The Board Game - On the Brink: Roles & Events | 171930 | [171930-pandemic-the-board-game-on-the-brink-roles-and-events.json](./171930-pandemic-the-board-game-on-the-brink-roles-and-events.json) |
 | Pandemic: The Virus Outbreak | 202213 | [202213-pandemic-the-virus-outbreak.json](./202213-pandemic-the-virus-outbreak.json) |
+| PandemicZ | 58691 | [58691-pandemicz.json](./58691-pandemicz.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pandemonia | 317530 | [317530-pandemonia.json](./317530-pandemonia.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
@@ -1197,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
+| Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
@@ -3891,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
+| Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
@@ -4138,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Pico World Race | 218636 | [218636-pico-world-race.json](./218636-pico-world-race.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
+| Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
@@ -4297,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
 | Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
+| Piercing Blo | 58712 | [58712-piercing-blo.json](./58712-piercing-blo.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
 | Pierhead Arcade | 33687 | [33687-pierhead-arcade.json](./33687-pierhead-arcade.json) |
@@ -6123,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
 | PKR Let's Play | 62804 | [62804-pkr-lets-play.json](./62804-pkr-lets-play.json) |
+| Pktball | 58674 | [58674-pktball.json](./58674-pktball.json) |
 | PKXD Runner | 414839 | [414839-pkxd-runner.json](./414839-pkxd-runner.json) |
 | Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
@@ -6537,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
+| Platcross | 58668 | [58668-platcross.json](./58668-platcross.json) |
 | Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
 | Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
@@ -8104,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
+| Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Political Duel | 215320 | [215320-political-duel.json](./215320-political-duel.json) |
 | Political Fight Club | 164931 | [164931-political-fight-club.json](./164931-political-fight-club.json) |
@@ -9290,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
+| PowerSpinners | 58687 | [58687-powerspinners.json](./58687-powerspinners.json) |
 | Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
@@ -9723,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primer | 247086 | [247086-primer.json](./247086-primer.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
+| Primeval Hunt | 58735 | [58735-primeval-hunt.json](./58735-primeval-hunt.json) |
 | Priministar | 216285 | [216285-priministar.json](./216285-priministar.json) |
 | Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
