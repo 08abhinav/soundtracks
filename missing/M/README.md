@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gokuu Tenjiku | 44443 | [44443-mahjong-gokuu-tenjiku.json](./44443-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
+| Mahjong Hana no Momoko Gumi | 57595 | [57595-mahjong-hana-no-momoko-gumi.json](./57595-mahjong-hana-no-momoko-gumi.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
@@ -7923,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
 | Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
+| Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
 | Millie Meter's Nutrition Adventure | 71964 | [71964-millie-meters-nutrition-adventure.json](./71964-millie-meters-nutrition-adventure.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
@@ -13198,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Chase 1: The Music In Me | 399836 | [399836-music-chase-1-the-music-in-me.json](./399836-music-chase-1-the-music-in-me.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
 | Music Composer | 100301 | [100301-music-composer.json](./100301-music-composer.json) |
+| Music Construction Set | 57587 | [57587-music-construction-set.json](./57587-music-construction-set.json) |
 | Music Diver | 249099 | [249099-music-diver.json](./249099-music-diver.json) |
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
