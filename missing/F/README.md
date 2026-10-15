@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
+| Fay: That Math Woman! | 41200 | [41200-fay-that-math-woman.json](./41200-fay-that-math-woman.json) |
 | Fay's Factory | 199440 | [199440-fays-factory.json](./199440-fays-factory.json) |
 | Faybound: Veils of Magic | 405562 | [405562-faybound-veils-of-magic.json](./405562-faybound-veils-of-magic.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
