@@ -4950,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
+| NS-Shaft | 62060 | [62060-ns-shaft.json](./62060-ns-shaft.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
 | NSG: Missing Tales | 262871 | [262871-nsg-missing-tales.json](./262871-nsg-missing-tales.json) |
