@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
+| Tantei Gakuen Q: Meitantei Hakimida! | 49853 | [49853-tantei-gakuen-q-meitantei-hakimida.json](./49853-tantei-gakuen-q-meitantei-hakimida.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
 | Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
 | Tantei Jinguji Saburo DS: Fuserareta Shinjitsu | 67883 | [67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json](./67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json) |
