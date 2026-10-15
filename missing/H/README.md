@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
+| Halos: React and Match Arcade Game | 59773 | [59773-halos-react-and-match-arcade-game.json](./59773-halos-react-and-match-arcade-game.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru | 148855 | [148855-haru.json](./148855-haru.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
+| Haru Kiss | 59738 | [59738-haru-kiss.json](./59738-haru-kiss.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
@@ -2572,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
+| Heist Night | 59831 | [59831-heist-night.json](./59831-heist-night.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
@@ -2915,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
 | Hellhole Game | 390707 | [390707-hellhole-game.json](./390707-hellhole-game.json) |
+| Hellhounds | 59728 | [59728-hellhounds.json](./59728-hellhounds.json) |
 | Hellhunt GB 1991 | 178440 | [178440-hellhunt-gb-1991.json](./178440-hellhunt-gb-1991.json) |
 | Hellink | 114963 | [114963-hellink.json](./114963-hellink.json) |
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
@@ -6001,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
 | HoloBall | 18983 | [18983-holoball.json](./18983-holoball.json) |
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
+| Holobunnies | 59762 | [59762-holobunnies.json](./59762-holobunnies.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
