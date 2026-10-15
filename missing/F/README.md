@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 2 + Ghost Recon Advanced Warfighter | 147227 | [147227-far-cry-2-ghost-recon-advanced-warfighter.json](./147227-far-cry-2-ghost-recon-advanced-warfighter.json) |
+| Far Cry 2: Collector's Edition | 23506 | [23506-far-cry-2-collectors-edition.json](./23506-far-cry-2-collectors-edition.json) |
 | Far Cry 2: Fortune's Edition | 46633 | [46633-far-cry-2-fortunes-edition.json](./46633-far-cry-2-fortunes-edition.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
