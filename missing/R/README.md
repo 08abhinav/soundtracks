@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
+| Railroad Tycoon II: Gold Edition | 45834 | [45834-railroad-tycoon-ii-gold-edition.json](./45834-railroad-tycoon-ii-gold-edition.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
 | Railroad X: Berlin S-Bahn BR 481 | 161724 | [161724-railroad-x-berlin-s-bahn-br-481.json](./161724-railroad-x-berlin-s-bahn-br-481.json) |
@@ -2583,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
+| Red Dog: Superior Firepower | 45835 | [45835-red-dog-superior-firepower.json](./45835-red-dog-superior-firepower.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
 | Red Dragon Rampage | 178366 | [178366-red-dragon-rampage.json](./178366-red-dragon-rampage.json) |
@@ -2947,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
+| Reel Fishing: Wild | 45836 | [45836-reel-fishing-wild.json](./45836-reel-fishing-wild.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel Greed | 401749 | [401749-reel-greed.json](./401749-reel-greed.json) |
 | Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
