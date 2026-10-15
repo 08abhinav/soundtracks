@@ -390,7 +390,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin Portable | 60365 | [60365-taiko-no-tatsujin-portable.json](./60365-taiko-no-tatsujin-portable.json) |
 | Taiko no Tatsujin Portable 2 | 60363 | [60363-taiko-no-tatsujin-portable-2.json](./60363-taiko-no-tatsujin-portable-2.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
+| Taiko no Tatsujin Wii | 5207 | [5207-taiko-no-tatsujin-wii.json](./5207-taiko-no-tatsujin-wii.json) |
+| Taiko no Tatsujin Wii: Do Don to Nidaime | 5208 | [5208-taiko-no-tatsujin-wii-do-don-to-nidaime.json](./5208-taiko-no-tatsujin-wii-do-don-to-nidaime.json) |
 | Taiko no Tatsujin Wii: Ketteiban | 60040 | [60040-taiko-no-tatsujin-wii-ketteiban.json](./60040-taiko-no-tatsujin-wii-ketteiban.json) |
+| Taiko no Tatsujin Wii: Minna de Party Sandaime | 5209 | [5209-taiko-no-tatsujin-wii-minna-de-party-sandaime.json](./5209-taiko-no-tatsujin-wii-minna-de-party-sandaime.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
 | Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime | 123415 | [123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json](./123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json) |
 | Taiko no Tatsujin: Atsumete - Tomodachi Daisakusen! | 59914 | [59914-taiko-no-tatsujin-atsumete-tomodachi-daisakusen.json](./59914-taiko-no-tatsujin-atsumete-tomodachi-daisakusen.json) |
@@ -8110,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
 | The Konia Project | 290661 | [290661-the-konia-project.json](./290661-the-konia-project.json) |
 | The Koopa Who Stole Christmas | 281018 | [281018-the-koopa-who-stole-christmas.json](./281018-the-koopa-who-stole-christmas.json) |
+| The Kore Gang | 4960 | [4960-the-kore-gang.json](./4960-the-kore-gang.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Korean War | 59308 | [59308-the-korean-war.json](./59308-the-korean-war.json) |
@@ -9777,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Myth Seekers Collection | 277244 | [277244-the-myth-seekers-collection.json](./277244-the-myth-seekers-collection.json) |
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
+| The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
@@ -16616,6 +16621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
+| TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
