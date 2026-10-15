@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
+| Ace Maverick | 27528 | [27528-ace-maverick.json](./27528-ace-maverick.json) |
 | Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
 | Air Ace II | 108814 | [108814-air-ace-ii.json](./108814-air-ace-ii.json) |
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
+| Air Aces: Pacific | 27450 | [27450-air-aces-pacific.json](./27450-air-aces-pacific.json) |
 | Air Assault 2 | 102719 | [102719-air-assault-2.json](./102719-air-assault-2.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack | 38522 | [38522-air-attack.json](./38522-air-attack.json) |
@@ -3554,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
+| Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
@@ -4012,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
+| Alcatraz: Prison Escape | 27452 | [27452-alcatraz-prison-escape.json](./27452-alcatraz-prison-escape.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar | 86184 | [86184-alcazar.json](./86184-alcazar.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
@@ -6229,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
 | André Ventura Dating Simulator | 300487 | [300487-andre-ventura-dating-simulator.json](./300487-andre-ventura-dating-simulator.json) |
+| Andreas Osswald's Championship Soccer 2004-2005 Edition | 27468 | [27468-andreas-osswalds-championship-soccer-2004-2005-edition.json](./27468-andreas-osswalds-championship-soccer-2004-2005-edition.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrej Sundic's: The Deep | 403198 | [403198-andrej-sundics-the-deep.json](./403198-andrej-sundics-the-deep.json) |
 | Andrés y Su Fusil de Aliesprés | 401179 | [401179-andres-y-su-fusil-de-aliespres.json](./401179-andres-y-su-fusil-de-aliespres.json) |
@@ -9250,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
+| Arma 2: Reinforcements | 27453 | [27453-arma-2-reinforcements.json](./27453-arma-2-reinforcements.json) |
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
@@ -9333,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armello: Usurpers Hero Pack | 163269 | [163269-armello-usurpers-hero-pack.json](./163269-armello-usurpers-hero-pack.json) |
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
+| Armies of Armageddon: WDK 2K | 27456 | [27456-armies-of-armageddon-wdk-2k.json](./27456-armies-of-armageddon-wdk-2k.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armies of Gielinor | 130621 | [130621-armies-of-gielinor.json](./130621-armies-of-gielinor.json) |
@@ -9406,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
+| Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
@@ -9865,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendora | 349466 | [349466-ascendora.json](./349466-ascendora.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
+| Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
@@ -11842,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender | 202168 | [202168-avatar-the-last-airbender.json](./202168-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 3792 | [3792-avatar-the-last-airbender.json](./3792-avatar-the-last-airbender.json) |
+| Avatar: The Last Airbender - Bobble Battles | 27459 | [27459-avatar-the-last-airbender-bobble-battles.json](./27459-avatar-the-last-airbender-bobble-battles.json) |
 | Avatar: The Last Airbender - Book 1 Challenges | 220068 | [220068-avatar-the-last-airbender-book-1-challenges.json](./220068-avatar-the-last-airbender-book-1-challenges.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
@@ -11850,6 +11860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 4685 | [4685-avatar-the-last-airbender-the-burning-earth.json](./4685-avatar-the-last-airbender-the-burning-earth.json) |
+| Avatar: The Last Airbender - The Path of Zuko | 27460 | [27460-avatar-the-last-airbender-the-path-of-zuko.json](./27460-avatar-the-last-airbender-the-path-of-zuko.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avatar's Rock | 59727 | [59727-avatars-rock.json](./59727-avatars-rock.json) |
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
