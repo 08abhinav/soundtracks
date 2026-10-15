@@ -7426,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Mirage | 193817 | [193817-code-mirage.json](./193817-code-mirage.json) |
 | Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
 | Code: R | 193825 | [193825-code-r.json](./193825-code-r.json) |
+| Code: Realize - Bouquet of Rainbows | 41822 | [41822-code-realize-bouquet-of-rainbows.json](./41822-code-realize-bouquet-of-rainbows.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
