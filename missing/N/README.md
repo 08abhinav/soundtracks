@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
+| NationStates | 58127 | [58127-nationstates.json](./58127-nationstates.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
@@ -5140,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
+| Numberful | 58109 | [58109-numberful.json](./58109-numberful.json) |
 | Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
