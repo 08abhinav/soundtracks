@@ -2054,6 +2054,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
+| EMIT Vol. 1: Toki no Maigo | 60972 | [60972-emit-vol-1-toki-no-maigo.json](./60972-emit-vol-1-toki-no-maigo.json) |
+| EMIT Vol. 2: Inochigake no Tabi | 60966 | [60966-emit-vol-2-inochigake-no-tabi.json](./60966-emit-vol-2-inochigake-no-tabi.json) |
+| EMIT Vol. 3: Watashi ni Sayonara wo | 60967 | [60967-emit-vol-3-watashi-ni-sayonara-wo.json](./60967-emit-vol-3-watashi-ni-sayonara-wo.json) |
 | Emitters: Drone Invasions | 110818 | [110818-emitters-drone-invasions.json](./110818-emitters-drone-invasions.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
