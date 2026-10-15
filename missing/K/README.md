@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
+| Kaijuland | 63788 | [63788-kaijuland.json](./63788-kaijuland.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kisetsu | 308865 | [308865-kisetsu.json](./308865-kisetsu.json) |
+| Kisha de GO! | 63754 | [63754-kisha-de-go.json](./63754-kisha-de-go.json) |
 | Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Battle Raiden | 67613 | [67613-kishin-douji-zenki-battle-raiden.json](./67613-kishin-douji-zenki-battle-raiden.json) |
