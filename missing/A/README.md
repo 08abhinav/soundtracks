@@ -9340,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Numbers | 151298 | [151298-army-of-numbers.json](./151298-army-of-numbers.json) |
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
+| Army of Robots | 68533 | [68533-army-of-robots.json](./68533-army-of-robots.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
@@ -10028,10 +10029,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed I+II Welcome Pack | 145406 | [145406-assassins-creed-i-ii-welcome-pack.json](./145406-assassins-creed-i-ii-welcome-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
+| Assassin's Creed II Mobile | 68527 | [68527-assassins-creed-ii-mobile.json](./68527-assassins-creed-ii-mobile.json) |
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
+| Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Freedom Edition | 383009 | [383009-assassins-creed-iii-freedom-edition.json](./383009-assassins-creed-iii-freedom-edition.json) |
@@ -10071,6 +10074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
 | Assassin's Creed Origins: The Curse of the Pharaohs | 17783 | [17783-assassins-creed-origins-the-curse-of-the-pharaohs.json](./17783-assassins-creed-origins-the-curse-of-the-pharaohs.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
+| Assassin's Creed Revelations Mobile | 68529 | [68529-assassins-creed-revelations-mobile.json](./68529-assassins-creed-revelations-mobile.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
