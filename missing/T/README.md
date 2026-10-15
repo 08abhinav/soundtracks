@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
+| Telling Lies | 51528 | [51528-telling-lies.json](./51528-telling-lies.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
 | Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
@@ -6022,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
+| The Elder Scrolls IV: Knights of the Nine | 7959 | [7959-the-elder-scrolls-iv-knights-of-the-nine.json](./7959-the-elder-scrolls-iv-knights-of-the-nine.json) |
 | The Elder Scrolls IV: Oblivion - Fighter's Stronghold | 120642 | [120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json](./120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json) |
 | The Elder Scrolls IV: Oblivion - Game of the Year Edition | 27845 | [27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json](./27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json) |
 | The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe | 27844 | [27844-the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe.json](./27844-the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe.json) |
@@ -10776,6 +10778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
+| The Revenge of Shinobi | 3327 | [3327-the-revenge-of-shinobi.json](./3327-the-revenge-of-shinobi.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
 | The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
@@ -11170,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
+| The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
@@ -12200,6 +12204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
+| The Thing | 6199 | [6199-the-thing.json](./6199-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing from Nowhere | 188945 | [188945-the-thing-from-nowhere.json](./188945-the-thing-from-nowhere.json) |
 | The Thing from Space | 333210 | [333210-the-thing-from-space.json](./333210-the-thing-from-space.json) |
@@ -17235,6 +17240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Year 2 Gold Edition | 118900 | [118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json](./118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
+| Tom Clancy's H.A.W.X | 983 | [983-tom-clancys-h-a-w-x.json](./983-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
 | Tom Clancy's Rainbow Six | 1842 | [1842-tom-clancys-rainbow-six.json](./1842-tom-clancys-rainbow-six.json) |
@@ -21774,6 +21780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
+| Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
