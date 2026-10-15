@@ -753,7 +753,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Muncher | 179556 | [179556-you-are-the-muncher.json](./179556-you-are-the-muncher.json) |
+| You Are the Ref | 64323 | [64323-you-are-the-ref.json](./64323-you-are-the-ref.json) |
 | You Are The Road | 257277 | [257277-you-are-the-road.json](./257277-you-are-the-road.json) |
+| You Are the Umpire | 64324 | [64324-you-are-the-umpire.json](./64324-you-are-the-umpire.json) |
 | You Are The Victim | 277542 | [277542-you-are-the-victim.json](./277542-you-are-the-victim.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
