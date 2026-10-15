@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Old | 278470 | [278470-legends-of-old.json](./278470-legends-of-old.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
+| Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
 | Legends of Savvarah: Time of Pariah | 264002 | [264002-legends-of-savvarah-time-of-pariah.json](./264002-legends-of-savvarah-time-of-pariah.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Snooker: One Shot | 170937 | [170937-legends-of-snooker-one-shot.json](./170937-legends-of-snooker-one-shot.json) |
@@ -3689,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage 2: Goddess of Destruction | 23530 | [23530-lineage-2-goddess-of-destruction.json](./23530-lineage-2-goddess-of-destruction.json) |
 | Lineage 2: Revolution | 75977 | [75977-lineage-2-revolution.json](./75977-lineage-2-revolution.json) |
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
+| Lineage II | 2971 | [2971-lineage-ii.json](./2971-lineage-ii.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
