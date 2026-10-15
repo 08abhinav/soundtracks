@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Basketball 2007 | 49242 | [49242-backyard-sports-basketball-2007.json](./49242-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Basketball 2007 | 73785 | [73785-backyard-sports-basketball-2007.json](./73785-backyard-sports-basketball-2007.json) |
+| Backyard Sports: Rookie Rush | 6908 | [6908-backyard-sports-rookie-rush.json](./6908-backyard-sports-rookie-rush.json) |
 | Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
 | Backyard Wrestling 2: There Goes the Neighborhood | 5735 | [5735-backyard-wrestling-2-there-goes-the-neighborhood.json](./5735-backyard-wrestling-2-there-goes-the-neighborhood.json) |
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
@@ -9051,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
+| Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border Jumper | 320822 | [320822-border-jumper.json](./320822-border-jumper.json) |
