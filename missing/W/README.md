@@ -4361,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 309021 | [309021-witchblood.json](./309021-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
+| Witchbrook | 67195 | [67195-witchbrook.json](./67195-witchbrook.json) |
 | Witchcraft | 210673 | [210673-witchcraft.json](./210673-witchcraft.json) |
 | Witchcraft Survivors | 251756 | [251756-witchcraft-survivors.json](./251756-witchcraft-survivors.json) |
 | WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
