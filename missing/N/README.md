@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 212962 | [212962-nebula.json](./212962-nebula.json) |
+| Nebula | 32712 | [32712-nebula.json](./32712-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
 | Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomimi Vampire | 97777 | [97777-nekomimi-vampire.json](./97777-nekomimi-vampire.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | NekoNecro | 212970 | [212970-nekonecro.json](./212970-nekonecro.json) |
+| Nekopalive | 32688 | [32688-nekopalive.json](./32688-nekopalive.json) |
 | Nekopara After | 307678 | [307678-nekopara-after.json](./307678-nekopara-after.json) |
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Love Project Vol. 1 | 307680 | [307680-nekopara-love-project-vol-1.json](./307680-nekopara-love-project-vol-1.json) |
