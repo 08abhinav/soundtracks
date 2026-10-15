@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
 | Deadline | 357729 | [357729-deadline.json](./357729-deadline.json) |
+| Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
 | Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
+| Depth Dwellers | 71423 | [71423-depth-dwellers.json](./71423-depth-dwellers.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
 | Depth Gun | 185024 | [185024-depth-gun.json](./185024-depth-gun.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
@@ -9879,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
+| Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
@@ -11620,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
+| Duckman: The Graphic Adventures of a Private Dick | 71418 | [71418-duckman-the-graphic-adventures-of-a-private-dick.json](./71418-duckman-the-graphic-adventures-of-a-private-dick.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
 | Ducks | 141578 | [141578-ducks.json](./141578-ducks.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
