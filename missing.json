@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:57:20.824Z",
-  "total_missing": 216652,
+  "generated_at": "2026-10-15T20:05:16.222Z",
+  "total_missing": 216702,
   "games": [
     {
       "igdb_id": 191680,
@@ -122017,6 +122017,11 @@
       "file": "missing/B/15685-bozo-the-brave.json"
     },
     {
+      "igdb_id": 13556,
+      "game_name": "Bozo's Night Out",
+      "file": "missing/B/13556-bozos-night-out.json"
+    },
+    {
       "igdb_id": 394108,
       "game_name": "BP Gas Mania",
       "file": "missing/B/394108-bp-gas-mania.json"
@@ -164382,6 +164387,11 @@
       "file": "missing/C/111642-chuckie-egg-2017-challenges.json"
     },
     {
+      "igdb_id": 13495,
+      "game_name": "Chuckie Egg II",
+      "file": "missing/C/13495-chuckie-egg-ii.json"
+    },
+    {
       "igdb_id": 167165,
       "game_name": "Chuckle Phrase Builder",
       "file": "missing/C/167165-chuckle-phrase-builder.json"
@@ -168572,6 +168582,11 @@
       "file": "missing/C/359478-classic-max-lite.json"
     },
     {
+      "igdb_id": 13496,
+      "game_name": "Classic Muncher",
+      "file": "missing/C/13496-classic-muncher.json"
+    },
+    {
       "igdb_id": 328665,
       "game_name": "Classic NES Series Trivia",
       "file": "missing/C/328665-classic-nes-series-trivia.json"
@@ -168620,6 +168635,11 @@
       "igdb_id": 251804,
       "game_name": "Classic Pool and Cyber Pool Bundle",
       "file": "missing/C/251804-classic-pool-and-cyber-pool-bundle.json"
+    },
+    {
+      "igdb_id": 13497,
+      "game_name": "Classic Punter",
+      "file": "missing/C/13497-classic-punter.json"
     },
     {
       "igdb_id": 115900,
@@ -168710,6 +168730,11 @@
       "igdb_id": 202684,
       "game_name": "Classic Train Simulator",
       "file": "missing/C/202684-classic-train-simulator.json"
+    },
+    {
+      "igdb_id": 13498,
+      "game_name": "Classic Trainer",
+      "file": "missing/C/13498-classic-trainer.json"
     },
     {
       "igdb_id": 87062,
@@ -170225,6 +170250,11 @@
       "igdb_id": 158498,
       "game_name": "Climb Up the Down",
       "file": "missing/C/158498-climb-up-the-down.json"
+    },
+    {
+      "igdb_id": 13499,
+      "game_name": "Climb-It",
+      "file": "missing/C/13499-climb-it.json"
     },
     {
       "igdb_id": 414596,
@@ -172562,6 +172592,11 @@
       "file": "missing/C/74748-cobra.json"
     },
     {
+      "igdb_id": 13500,
+      "game_name": "Cobra Force",
+      "file": "missing/C/13500-cobra-force.json"
+    },
+    {
       "igdb_id": 71390,
       "game_name": "Cobra II",
       "file": "missing/C/71390-cobra-ii.json"
@@ -172580,6 +172615,11 @@
       "igdb_id": 143371,
       "game_name": "Cobra Kai: Card Fighter",
       "file": "missing/C/143371-cobra-kai-card-fighter.json"
+    },
+    {
+      "igdb_id": 13501,
+      "game_name": "Cobra Pinball",
+      "file": "missing/C/13501-cobra-pinball.json"
     },
     {
       "igdb_id": 409395,
@@ -173380,6 +173420,11 @@
       "igdb_id": 139251,
       "game_name": "Codename Mallow",
       "file": "missing/C/139251-codename-mallow.json"
+    },
+    {
+      "igdb_id": 13502,
+      "game_name": "Codename MAT",
+      "file": "missing/C/13502-codename-mat.json"
     },
     {
       "igdb_id": 395792,
@@ -174822,6 +174867,11 @@
       "file": "missing/C/177037-collage.json"
     },
     {
+      "igdb_id": 13505,
+      "game_name": "Collapse",
+      "file": "missing/C/13505-collapse.json"
+    },
+    {
       "igdb_id": 310937,
       "game_name": "Collapse",
       "file": "missing/C/310937-collapse.json"
@@ -175415,6 +175465,11 @@
       "igdb_id": 413051,
       "game_name": "Colonus",
       "file": "missing/C/413051-colonus.json"
+    },
+    {
+      "igdb_id": 13506,
+      "game_name": "Colony",
+      "file": "missing/C/13506-colony.json"
     },
     {
       "igdb_id": 211667,
@@ -177447,6 +177502,11 @@
       "file": "missing/C/19036-colosse.json"
     },
     {
+      "igdb_id": 13504,
+      "game_name": "Colosseum",
+      "file": "missing/C/13504-colosseum.json"
+    },
+    {
       "igdb_id": 320834,
       "game_name": "Colosseum",
       "file": "missing/C/320834-colosseum.json"
@@ -177475,6 +177535,11 @@
       "igdb_id": 150145,
       "game_name": "Colossus Down: Destroy'em Up Editon",
       "file": "missing/C/150145-colossus-down-destroyem-up-editon.json"
+    },
+    {
+      "igdb_id": 13507,
+      "game_name": "Colossus Mah Jong",
+      "file": "missing/C/13507-colossus-mah-jong.json"
     },
     {
       "igdb_id": 244913,
@@ -178110,6 +178175,11 @@
       "igdb_id": 47437,
       "game_name": "Combat Wings: The Great Battles of WWII",
       "file": "missing/C/47437-combat-wings-the-great-battles-of-wwii.json"
+    },
+    {
+      "igdb_id": 13510,
+      "game_name": "Combat Zone",
+      "file": "missing/C/13510-combat-zone.json"
     },
     {
       "igdb_id": 265594,
@@ -180232,6 +180302,11 @@
       "file": "missing/C/76571-con-man-the-game.json"
     },
     {
+      "igdb_id": 13512,
+      "game_name": "Con-Quest",
+      "file": "missing/C/13512-con-quest.json"
+    },
+    {
       "igdb_id": 140569,
       "game_name": "Con-Quest",
       "file": "missing/C/140569-con-quest.json"
@@ -181000,6 +181075,11 @@
       "igdb_id": 283740,
       "game_name": "Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions",
       "file": "missing/C/283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json"
+    },
+    {
+      "igdb_id": 13511,
+      "game_name": "Confuzion",
+      "file": "missing/C/13511-confuzion.json"
     },
     {
       "igdb_id": 24445,
@@ -183107,6 +183187,11 @@
       "file": "missing/C/11333-contradiction-spot-the-liar.json"
     },
     {
+      "igdb_id": 13513,
+      "game_name": "Contraption",
+      "file": "missing/C/13513-contraption.json"
+    },
+    {
       "igdb_id": 57121,
       "game_name": "Contraption",
       "file": "missing/C/57121-contraption.json"
@@ -183490,6 +183575,11 @@
       "igdb_id": 250857,
       "game_name": "Convolution of Fear",
       "file": "missing/C/250857-convolution-of-fear.json"
+    },
+    {
+      "igdb_id": 13514,
+      "game_name": "Convoy Raider",
+      "file": "missing/C/13514-convoy-raider.json"
     },
     {
       "igdb_id": 269281,
@@ -184597,6 +184687,11 @@
       "file": "missing/C/368289-cop-rush.json"
     },
     {
+      "igdb_id": 13515,
+      "game_name": "Cop-Out",
+      "file": "missing/C/13515-cop-out.json"
+    },
+    {
       "igdb_id": 305177,
       "game_name": "Copa City",
       "file": "missing/C/305177-copa-city.json"
@@ -184740,6 +184835,11 @@
       "igdb_id": 291600,
       "game_name": "Copter",
       "file": "missing/C/291600-copter.json"
+    },
+    {
+      "igdb_id": 13516,
+      "game_name": "Copter 271",
+      "file": "missing/C/13516-copter-271.json"
     },
     {
       "igdb_id": 32101,
@@ -184960,6 +185060,11 @@
       "igdb_id": 131411,
       "game_name": "Core",
       "file": "missing/C/131411-core.json"
+    },
+    {
+      "igdb_id": 13517,
+      "game_name": "Core",
+      "file": "missing/C/13517-core.json"
     },
     {
       "igdb_id": 400887,
@@ -185685,6 +185790,11 @@
       "igdb_id": 218648,
       "game_name": "Corridor 8: Galactic Wars",
       "file": "missing/C/218648-corridor-8-galactic-wars.json"
+    },
+    {
+      "igdb_id": 13518,
+      "game_name": "Corridor Conflict",
+      "file": "missing/C/13518-corridor-conflict.json"
     },
     {
       "igdb_id": 126535,
@@ -186592,6 +186702,16 @@
       "file": "missing/C/412208-cosmic-shenanigans.json"
     },
     {
+      "igdb_id": 13519,
+      "game_name": "Cosmic Sheriff",
+      "file": "missing/C/13519-cosmic-sheriff.json"
+    },
+    {
+      "igdb_id": 13520,
+      "game_name": "Cosmic Shock Absorber",
+      "file": "missing/C/13520-cosmic-shock-absorber.json"
+    },
+    {
       "igdb_id": 287202,
       "game_name": "Cosmic Slime Defense",
       "file": "missing/C/287202-cosmic-slime-defense.json"
@@ -187247,6 +187367,11 @@
       "file": "missing/C/9362-cossacks-the-art-of-war.json"
     },
     {
+      "igdb_id": 13522,
+      "game_name": "Costa Capers",
+      "file": "missing/C/13522-costa-capers.json"
+    },
+    {
       "igdb_id": 249204,
       "game_name": "Costa Verde Transport Department",
       "file": "missing/C/249204-costa-verde-transport-department.json"
@@ -187467,6 +187592,11 @@
       "file": "missing/C/15919-count-duckula-2-featuring-tremendous-terence.json"
     },
     {
+      "igdb_id": 13523,
+      "game_name": "Count Duckula: No Sax Please - We're Egyptian",
+      "file": "missing/C/13523-count-duckula-no-sax-please-were-egyptian.json"
+    },
+    {
       "igdb_id": 110135,
       "game_name": "Count Logica",
       "file": "missing/C/110135-count-logica.json"
@@ -187505,6 +187635,11 @@
       "igdb_id": 413889,
       "game_name": "Count your Clones",
       "file": "missing/C/413889-count-your-clones.json"
+    },
+    {
+      "igdb_id": 13524,
+      "game_name": "Countdown",
+      "file": "missing/C/13524-countdown.json"
     },
     {
       "igdb_id": 142936,
@@ -188000,6 +188135,11 @@
       "igdb_id": 295782,
       "game_name": "County Courier",
       "file": "missing/C/295782-county-courier.json"
+    },
+    {
+      "igdb_id": 13525,
+      "game_name": "County Cricket",
+      "file": "missing/C/13525-county-cricket.json"
     },
     {
       "igdb_id": 59967,
@@ -188595,6 +188735,11 @@
       "igdb_id": 103867,
       "game_name": "Cowboy Gold Round-Up",
       "file": "missing/C/103867-cowboy-gold-round-up.json"
+    },
+    {
+      "igdb_id": 13527,
+      "game_name": "Cowboy Kidz",
+      "file": "missing/C/13527-cowboy-kidz.json"
     },
     {
       "igdb_id": 123528,
@@ -189460,6 +189605,11 @@
       "igdb_id": 411003,
       "game_name": "Crack the Pack",
       "file": "missing/C/411003-crack-the-pack.json"
+    },
+    {
+      "igdb_id": 13528,
+      "game_name": "Crack-Up",
+      "file": "missing/C/13528-crack-up.json"
     },
     {
       "igdb_id": 11298,
@@ -190627,6 +190777,11 @@
       "file": "missing/C/205273-crash-forts-2.json"
     },
     {
+      "igdb_id": 13529,
+      "game_name": "Crash Garrett",
+      "file": "missing/C/13529-crash-garrett.json"
+    },
+    {
       "igdb_id": 74758,
       "game_name": "Crash it Smash it",
       "file": "missing/C/74758-crash-it-smash-it.json"
@@ -191220,6 +191375,11 @@
       "igdb_id": 166753,
       "game_name": "Crawlyard",
       "file": "missing/C/166753-crawlyard.json"
+    },
+    {
+      "igdb_id": 13530,
+      "game_name": "Cray-5",
+      "file": "missing/C/13530-cray-5.json"
     },
     {
       "igdb_id": 379010,
@@ -192090,6 +192250,11 @@
       "igdb_id": 66728,
       "game_name": "Crazy Gobbler",
       "file": "missing/C/66728-crazy-gobbler.json"
+    },
+    {
+      "igdb_id": 13531,
+      "game_name": "Crazy Golf",
+      "file": "missing/C/13531-crazy-golf.json"
     },
     {
       "igdb_id": 232896,
@@ -193852,6 +194017,11 @@
       "file": "missing/C/69163-cricket-97-ashes-tour-edition.json"
     },
     {
+      "igdb_id": 13532,
+      "game_name": "Cricket Captain",
+      "file": "missing/C/13532-cricket-captain.json"
+    },
+    {
       "igdb_id": 95430,
       "game_name": "Cricket Captain",
       "file": "missing/C/95430-cricket-captain.json"
@@ -193905,6 +194075,11 @@
       "igdb_id": 81886,
       "game_name": "Cricket Club",
       "file": "missing/C/81886-cricket-club.json"
+    },
+    {
+      "igdb_id": 13533,
+      "game_name": "Cricket Crazy",
+      "file": "missing/C/13533-cricket-crazy.json"
     },
     {
       "igdb_id": 295785,
@@ -194955,6 +195130,11 @@
       "igdb_id": 89088,
       "game_name": "Critical Gravity",
       "file": "missing/C/89088-critical-gravity.json"
+    },
+    {
+      "igdb_id": 13534,
+      "game_name": "Critical Mass",
+      "file": "missing/C/13534-critical-mass.json"
     },
     {
       "igdb_id": 9810,
@@ -196020,6 +196200,11 @@
       "igdb_id": 121550,
       "game_name": "Crosser",
       "file": "missing/C/121550-crosser.json"
+    },
+    {
+      "igdb_id": 13535,
+      "game_name": "Crossfire",
+      "file": "missing/C/13535-crossfire.json"
     },
     {
       "igdb_id": 183918,
@@ -197175,6 +197360,11 @@
       "igdb_id": 245018,
       "game_name": "Crows Coming",
       "file": "missing/C/245018-crows-coming.json"
+    },
+    {
+      "igdb_id": 13521,
+      "game_name": "Crows: Burning Edge",
+      "file": "missing/C/13521-crows-burning-edge.json"
     },
     {
       "igdb_id": 178911,
@@ -200967,6 +201157,11 @@
       "file": "missing/C/33364-cubistry-collection-vol-1.json"
     },
     {
+      "igdb_id": 13536,
+      "game_name": "Cubit",
+      "file": "missing/C/13536-cubit.json"
+    },
+    {
       "igdb_id": 204472,
       "game_name": "Cubit",
       "file": "missing/C/204472-cubit.json"
@@ -201755,6 +201950,11 @@
       "igdb_id": 392774,
       "game_name": "Cup and Counter: Coffee Shop Simulator",
       "file": "missing/C/392774-cup-and-counter-coffee-shop-simulator.json"
+    },
+    {
+      "igdb_id": 13537,
+      "game_name": "Cup Football",
+      "file": "missing/C/13537-cup-football.json"
     },
     {
       "igdb_id": 319295,
@@ -204832,6 +205032,11 @@
       "file": "missing/C/23070-cyberball-2072.json"
     },
     {
+      "igdb_id": 13539,
+      "game_name": "Cyberbig",
+      "file": "missing/C/13539-cyberbig.json"
+    },
+    {
       "igdb_id": 65423,
       "game_name": "Cyberbike 2",
       "file": "missing/C/65423-cyberbike-2.json"
@@ -205980,6 +206185,11 @@
       "igdb_id": 136238,
       "game_name": "Cylor vs. the Endless Legions",
       "file": "missing/C/136238-cylor-vs-the-endless-legions.json"
+    },
+    {
+      "igdb_id": 13540,
+      "game_name": "Cylu",
+      "file": "missing/C/13540-cylu.json"
     },
     {
       "igdb_id": 285124,
@@ -213140,6 +213350,11 @@
       "igdb_id": 313999,
       "game_name": "Dark Wraith",
       "file": "missing/D/313999-dark-wraith.json"
+    },
+    {
+      "igdb_id": 13543,
+      "game_name": "Dark Years",
+      "file": "missing/D/13543-dark-years.json"
     },
     {
       "igdb_id": 343338,
@@ -228510,6 +228725,11 @@
       "igdb_id": 11448,
       "game_name": "Dengeki Bunko: Fighting Climax",
       "file": "missing/D/11448-dengeki-bunko-fighting-climax.json"
+    },
+    {
+      "igdb_id": 13550,
+      "game_name": "Dengeki Bunko: Fighting Climax Ignition",
+      "file": "missing/D/13550-dengeki-bunko-fighting-climax-ignition.json"
     },
     {
       "igdb_id": 52139,
@@ -285030,6 +285250,11 @@
       "igdb_id": 273010,
       "game_name": "Enemy Territory Fortress",
       "file": "missing/E/273010-enemy-territory-fortress.json"
+    },
+    {
+      "igdb_id": 13549,
+      "game_name": "Enemy Zero",
+      "file": "missing/E/13549-enemy-zero.json"
     },
     {
       "igdb_id": 107641,
@@ -912512,6 +912737,11 @@
       "file": "missing/T/409590-the-colour-beyond-a-zeroth-kind.json"
     },
     {
+      "igdb_id": 13508,
+      "game_name": "The Colour of Magic",
+      "file": "missing/T/13508-the-colour-of-magic.json"
+    },
+    {
       "igdb_id": 133253,
       "game_name": "The Colour of Murder",
       "file": "missing/T/133253-the-colour-of-murder.json"
@@ -913060,6 +913290,11 @@
       "igdb_id": 37114,
       "game_name": "The Coven",
       "file": "missing/T/37114-the-coven.json"
+    },
+    {
+      "igdb_id": 13526,
+      "game_name": "The Covenant",
+      "file": "missing/T/13526-the-covenant.json"
     },
     {
       "igdb_id": 25038,
@@ -913915,6 +914150,11 @@
       "igdb_id": 231520,
       "game_name": "The Curse of Rabenstein",
       "file": "missing/T/231520-the-curse-of-rabenstein.json"
+    },
+    {
+      "igdb_id": 13538,
+      "game_name": "The Curse of Sherwood",
+      "file": "missing/T/13538-the-curse-of-sherwood.json"
     },
     {
       "igdb_id": 213327,
@@ -953102,6 +953342,11 @@
       "file": "missing/T/389409-the-world-beyond.json"
     },
     {
+      "igdb_id": 13546,
+      "game_name": "The World End Eclipse",
+      "file": "missing/T/13546-the-world-end-eclipse.json"
+    },
+    {
       "igdb_id": 333146,
       "game_name": "The World Ends in Ohio",
       "file": "missing/T/333146-the-world-ends-in-ohio.json"
@@ -970135,6 +970380,11 @@
       "igdb_id": 97376,
       "game_name": "To Love Ru x 2",
       "file": "missing/T/97376-to-love-ru-x-2.json"
+    },
+    {
+      "igdb_id": 13553,
+      "game_name": "To Love-Ru -Trouble- Darkness: True Princess",
+      "file": "missing/T/13553-to-love-ru-trouble-darkness-true-princess.json"
     },
     {
       "igdb_id": 175683,
