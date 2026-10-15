@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Human Person Thingy's Quest To Get Back The Gun | 316355 | [316355-man-human-person-thingys-quest-to-get-back-the-gun.json](./316355-man-human-person-thingys-quest-to-get-back-the-gun.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
+| Man in a Maze: Deathmatch | 17576 | [17576-man-in-a-maze-deathmatch.json](./17576-man-in-a-maze-deathmatch.json) |
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
