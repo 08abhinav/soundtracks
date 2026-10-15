@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry | 314249 | [314249-raspberry.json](./314249-raspberry.json) |
 | Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raspberry Cube | 117515 | [117515-raspberry-cube.json](./117515-raspberry-cube.json) |
+| Rasputin | 26351 | [26351-rasputin.json](./26351-rasputin.json) |
 | Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
 | Raster | 312267 | [312267-raster.json](./312267-raster.json) |
@@ -7314,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romguns | 125089 | [125089-romguns.json](./125089-romguns.json) |
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
+| Rommel's Revenge | 26304 | [26304-rommels-revenge.json](./26304-rommels-revenge.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | Rompers | 40070 | [40070-rompers.json](./40070-rompers.json) |
