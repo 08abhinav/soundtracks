@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
 | Zuma | 247056 | [247056-zuma.json](./247056-zuma.json) |
+| Zuma Blitz | 66004 | [66004-zuma-blitz.json](./66004-zuma-blitz.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
