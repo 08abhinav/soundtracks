@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Potty Race | 293186 | [293186-barbie-potty-race.json](./293186-barbie-potty-race.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
+| Barbie: Sparkling Ice Show | 57592 | [57592-barbie-sparkling-ice-show.json](./57592-barbie-sparkling-ice-show.json) |
 | Barbie: Super Model | 368898 | [368898-barbie-super-model.json](./368898-barbie-super-model.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
 | Barbie: Vacation Adventure | 3318 | [3318-barbie-vacation-adventure.json](./3318-barbie-vacation-adventure.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
+| Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
