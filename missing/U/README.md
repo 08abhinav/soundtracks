@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
+| Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
+| Umbrella Corps: Deluxe Edition | 24729 | [24729-umbrella-corps-deluxe-edition.json](./24729-umbrella-corps-deluxe-edition.json) |
 | Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
