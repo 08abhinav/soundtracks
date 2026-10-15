@@ -20310,6 +20310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | Suhoshin | 169679 | [169679-suhoshin.json](./169679-suhoshin.json) |
+| Sui Generis | 14175 | [14175-sui-generis.json](./14175-sui-generis.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
