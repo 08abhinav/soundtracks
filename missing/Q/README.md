@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert | 281665 | [281665-q-bert.json](./281665-q-bert.json) |
 | Q*bert | 281666 | [281666-q-bert.json](./281666-q-bert.json) |
 | Q*bert | 99373 | [99373-q-bert.json](./99373-q-bert.json) |
+| Q*bert 3 | 42469 | [42469-q-bert-3.json](./42469-q-bert-3.json) |
 | Q*bert for Game Boy | 61518 | [61518-q-bert-for-game-boy.json](./61518-q-bert-for-game-boy.json) |
 | Q*bert Rebooted: The Xbox One @!#?@! Edition | 82426 | [82426-q-bert-rebooted-the-xbox-one-edition.json](./82426-q-bert-rebooted-the-xbox-one-edition.json) |
 | Q*bert: Rebooted | 17158 | [17158-q-bert-rebooted.json](./17158-q-bert-rebooted.json) |
