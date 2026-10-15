@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
+| Dancing Craze | 52514 | [52514-dancing-craze.json](./52514-dancing-craze.json) |
 | Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
+| Dark Apes: The Fate of Devolution | 52513 | [52513-dark-apes-the-fate-of-devolution.json](./52513-dark-apes-the-fate-of-devolution.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
 | Dark Arena | 6367 | [6367-dark-arena.json](./6367-dark-arena.json) |
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
@@ -1226,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
+| Dark Romance: Vampire in Love - Collector's Edition | 52511 | [52511-dark-romance-vampire-in-love-collectors-edition.json](./52511-dark-romance-vampire-in-love-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 129640 | [129640-dark-room.json](./129640-dark-room.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
@@ -9375,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
+| DQ Tycoon | 52515 | [52515-dq-tycoon.json](./52515-dq-tycoon.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
 | Dr Carter and the Wheels of Salvation | 71977 | [71977-dr-carter-and-the-wheels-of-salvation.json](./71977-dr-carter-and-the-wheels-of-salvation.json) |
 | Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
