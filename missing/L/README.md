@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
+| Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
 | Links: Championship Course - Hyatt Dorado Beach Resort | 77911 | [77911-links-championship-course-hyatt-dorado-beach-resort.json](./77911-links-championship-course-hyatt-dorado-beach-resort.json) |
 | Links: Championship Course - Mauna Kea | 71555 | [71555-links-championship-course-mauna-kea.json](./71555-links-championship-course-mauna-kea.json) |
+| Links: Championship Course - Pebble Beach | 72542 | [72542-links-championship-course-pebble-beach.json](./72542-links-championship-course-pebble-beach.json) |
 | Links: Championship Course - Pinehurst Country Club | 73461 | [73461-links-championship-course-pinehurst-country-club.json](./73461-links-championship-course-pinehurst-country-club.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
@@ -5829,9 +5831,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hex | 326847 | [326847-love-hex.json](./326847-love-hex.json) |
 | Love Hina 2: Kotoba wa Konayuki no You ni | 43837 | [43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json](./43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
+| Love Hina Gorgeous: Chiratto Happening!! | 72581 | [72581-love-hina-gorgeous-chiratto-happening.json](./72581-love-hina-gorgeous-chiratto-happening.json) |
 | Love Hina Party | 50063 | [50063-love-hina-party.json](./50063-love-hina-party.json) |
 | Love Hina Pocket | 50064 | [50064-love-hina-pocket.json](./50064-love-hina-pocket.json) |
 | Love Hina: Ai wa Kotoba no Naka ni | 44728 | [44728-love-hina-ai-wa-kotoba-no-naka-ni.json](./44728-love-hina-ai-wa-kotoba-no-naka-ni.json) |
+| Love Hina: Smile Again | 72582 | [72582-love-hina-smile-again.json](./72582-love-hina-smile-again.json) |
 | Love Hotel | 62664 | [62664-love-hotel.json](./62664-love-hotel.json) |
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
