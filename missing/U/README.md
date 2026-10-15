@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni | 12198 | [12198-umineko-no-naku-koro-ni.json](./12198-umineko-no-naku-koro-ni.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
+| Umineko no Naku Koro ni Chiru: Episode 5 - End of the Golden Witch | 67173 | [67173-umineko-no-naku-koro-ni-chiru-episode-5-end-of-the-golden-witch.json](./67173-umineko-no-naku-koro-ni-chiru-episode-5-end-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni Chiru: Episode 6 - Dawn of the Golden Witch | 79846 | [79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json](./79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni Chiru: Episode 7 - Requiem of the Golden Witch | 79848 | [79848-umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch.json](./79848-umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni Chiru: Shinjitsu to Gensou no Nocturne | 138162 | [138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json](./138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json) |
