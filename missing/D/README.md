@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou Portable | 269490 | [269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json](./269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable | 269491 | [269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json](./269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json) |
+| Daito Giken Koushiki Pachi-Slot Simulator: Yoshimune | 56995 | [56995-daito-giken-koushiki-pachi-slot-simulator-yoshimune.json](./56995-daito-giken-koushiki-pachi-slot-simulator-yoshimune.json) |
 | Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkfall Shadows | 382549 | [382549-darkfall-shadows.json](./382549-darkfall-shadows.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
+| Darkfall: New Dawn | 57005 | [57005-darkfall-new-dawn.json](./57005-darkfall-new-dawn.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
@@ -8965,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Dorayaki Ya-san | 349423 | [349423-doraemon-nobita-no-dorayaki-ya-san.json](./349423-doraemon-nobita-no-dorayaki-ya-san.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita no Kyouryuu | 349417 | [349417-doraemon-nobita-no-kyouryuu.json](./349417-doraemon-nobita-no-kyouryuu.json) |
+| Doraemon: Nobita no Nankyoku Kachikochi Daibouken | 56993 | [56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json](./56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json) |
 | Doraemon: Nobita no Nippon Tanjou | 349419 | [349419-doraemon-nobita-no-nippon-tanjou.json](./349419-doraemon-nobita-no-nippon-tanjou.json) |
 | Doraemon: Nobita no Parallel Sayuuki | 349418 | [349418-doraemon-nobita-no-parallel-sayuuki.json](./349418-doraemon-nobita-no-parallel-sayuuki.json) |
 | Doraemon: Nobita no Time Machine Daibouken | 59056 | [59056-doraemon-nobita-no-time-machine-daibouken.json](./59056-doraemon-nobita-no-time-machine-daibouken.json) |
