@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T17:51:03.060Z",
-  "total_soundtracks": 1676,
+  "generated_at": "2026-10-15T18:05:45.873Z",
+  "total_soundtracks": 1677,
   "games": [
     {
       "igdb_id": 7522,
@@ -9038,6 +9038,20 @@
           "album_name": "Kena: Bridge of Spirits, Vol. 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4KF23tPEDnUTlSco9owZVw",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 130508,
+      "game_name": "Kill It With Fire",
+      "game_url": "https://ostdb.net/games/kill-it-with-fire",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734769f5580b2aa8c649aa729a",
+      "albums": [
+        {
+          "album_name": "KILL IT WITH FIRE (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1h35mnHuO2Bnx3J5X5sEzP",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
