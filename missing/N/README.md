@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
+| Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
 | Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
