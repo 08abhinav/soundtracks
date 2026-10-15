@@ -10341,6 +10341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
+| Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Bottle Shooter: Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol | 231278 | [231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json](./231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json) |
@@ -13933,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | Cybertrash Statyx | 258390 | [258390-cybertrash-statyx.json](./258390-cybertrash-statyx.json) |
 | Cybertruck Sim | 192631 | [192631-cybertruck-sim.json](./192631-cybertruck-sim.json) |
+| Cyberun | 26395 | [26395-cyberun.json](./26395-cyberun.json) |
 | Cyberush | 154352 | [154352-cyberush.json](./154352-cyberush.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
