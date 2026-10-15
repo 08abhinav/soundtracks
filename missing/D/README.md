@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
+| Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
