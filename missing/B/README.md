@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallotGuessr | 394453 | [394453-ballotguessr.json](./394453-ballotguessr.json) |
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
+| Ballpark | 24749 | [24749-ballpark.json](./24749-ballpark.json) |
 | Ballpoint Universe | 50861 | [50861-ballpoint-universe.json](./50861-ballpoint-universe.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
@@ -9085,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
+| Borgia | 24774 | [24774-borgia.json](./24774-borgia.json) |
 | BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
@@ -10700,6 +10702,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannia | 190913 | [190913-britannia.json](./190913-britannia.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
+| Britannica Puzzle Potpourri | 24730 | [24730-britannica-puzzle-potpourri.json](./24730-britannica-puzzle-potpourri.json) |
+| Britannica Quiz Show | 24761 | [24761-britannica-quiz-show.json](./24761-britannica-quiz-show.json) |
 | Britannica Sudoku Unlimited | 206681 | [206681-britannica-sudoku-unlimited.json](./206681-britannica-sudoku-unlimited.json) |
 | Britannica Word Search | 52476 | [52476-britannica-word-search.json](./52476-britannica-word-search.json) |
 | Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
