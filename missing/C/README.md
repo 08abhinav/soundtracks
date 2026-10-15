@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
+| C.U.B.I.P.L.E.X. | 58576 | [58576-c-u-b-i-p-l-e-x.json](./58576-c-u-b-i-p-l-e-x.json) |
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
 | Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
+| Chandragupta: Warrior Prince | 58573 | [58573-chandragupta-warrior-prince.json](./58573-chandragupta-warrior-prince.json) |
 | Chandrayaan VR | 149213 | [149213-chandrayaan-vr.json](./149213-chandrayaan-vr.json) |
 | Chaneques | 38834 | [38834-chaneques.json](./38834-chaneques.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
@@ -3982,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
 | Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
+| Charlie the Unicorn Dating Simulator | 58724 | [58724-charlie-the-unicorn-dating-simulator.json](./58724-charlie-the-unicorn-dating-simulator.json) |
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
@@ -4989,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
+| Chlorophyll | 58697 | [58697-chlorophyll.json](./58697-chlorophyll.json) |
 | Cho Aniki Collection | 375595 | [375595-cho-aniki-collection.json](./375595-cho-aniki-collection.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
@@ -8320,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Beyond Overlord | 646 | [646-combat-mission-beyond-overlord.json](./646-combat-mission-beyond-overlord.json) |
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Black Sea - Battle Pack 1 | 227161 | [227161-combat-mission-black-sea-battle-pack-1.json](./227161-combat-mission-black-sea-battle-pack-1.json) |
+| Combat Mission: Final Blitzkrieg | 58684 | [58684-combat-mission-final-blitzkrieg.json](./58684-combat-mission-final-blitzkrieg.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
@@ -9449,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
+| Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
@@ -11273,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyTV | 261225 | [261225-crazytv.json](./261225-crazytv.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
+| creak, Creak | 58706 | [58706-creak-creak.json](./58706-creak-creak.json) |
 | Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
