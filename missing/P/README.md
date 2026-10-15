@@ -5619,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
+| Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
@@ -6235,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
+| Planet 2117 | 43145 | [43145-planet-2117.json](./43145-planet-2117.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
@@ -7889,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
+| Pokémon Zany Cards | 43174 | [43174-pokemon-zany-cards.json](./43174-pokemon-zany-cards.json) |
 | Pokémon: A Farfetch'd Story | 289581 | [289581-pokemon-a-farfetchd-story.json](./289581-pokemon-a-farfetchd-story.json) |
 | Pokémon: A Grand Day Out | 215854 | [215854-pokemon-a-grand-day-out.json](./215854-pokemon-a-grand-day-out.json) |
 | Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
@@ -9028,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potemkin | 59254 | [59254-potemkin.json](./59254-potemkin.json) |
 | Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
+| Potentia | 43133 | [43133-potentia.json](./43133-potentia.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
