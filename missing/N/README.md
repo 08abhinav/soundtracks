@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
+| New Bust-A-Move | 64296 | [64296-new-bust-a-move.json](./64296-new-bust-a-move.json) |
 | New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
 | New Carnival Games | 4057 | [4057-new-carnival-games.json](./4057-new-carnival-games.json) |
 | New Centurions | 93507 | [93507-new-centurions.json](./93507-new-centurions.json) |
@@ -4262,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nod: A Meditation on the Existential Pain of Becoming | 178941 | [178941-nod-a-meditation-on-the-existential-pain-of-becoming.json](./178941-nod-a-meditation-on-the-existential-pain-of-becoming.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
 | NodalBastion | 378196 | [378196-nodalbastion.json](./378196-nodalbastion.json) |
+| Nodame Cantabile | 64313 | [64313-nodame-cantabile.json](./64313-nodame-cantabile.json) |
 | Nodame Cantabile: Dream Orchestra | 268432 | [268432-nodame-cantabile-dream-orchestra.json](./268432-nodame-cantabile-dream-orchestra.json) |
 | Noddy and the Birthday Party | 50549 | [50549-noddy-and-the-birthday-party.json](./50549-noddy-and-the-birthday-party.json) |
 | Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
