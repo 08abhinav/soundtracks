@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TatuBall | 175643 | [175643-tatuball.json](./175643-tatuball.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau | 256210 | [256210-tau.json](./256210-tau.json) |
+| Tau Ceti | 26342 | [26342-tau-ceti.json](./26342-tau-ceti.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
@@ -8433,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
 | The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
+| The Last V8 | 26347 | [26347-the-last-v8.json](./26347-the-last-v8.json) |
 | The Last Vampire | 293315 | [293315-the-last-vampire.json](./293315-the-last-vampire.json) |
 | The Last Vampire | 77173 | [77173-the-last-vampire.json](./77173-the-last-vampire.json) |
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
@@ -11024,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Cove | 113444 | [113444-the-secret-cove.json](./113444-the-secret-cove.json) |
+| The Secret Diary of Adrian Mole Aged 13 3/4 | 26357 | [26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json](./26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
 | The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
@@ -13365,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
+| Theatre Europe | 26302 | [26302-theatre-europe.json](./26302-theatre-europe.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of Doom | 28183 | [28183-theatre-of-doom.json](./28183-theatre-of-doom.json) |
 | Theatre of Pain | 316792 | [316792-theatre-of-pain.json](./316792-theatre-of-pain.json) |
