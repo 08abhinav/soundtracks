@@ -2840,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | WhenTaken | 289005 | [289005-whentaken.json](./289005-whentaken.json) |
+| Where Angels Cry: Hell Broke Loose | 22084 | [22084-where-angels-cry-hell-broke-loose.json](./22084-where-angels-cry-hell-broke-loose.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
