@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
 | Carrier Landings Pro | 87601 | [87601-carrier-landings-pro.json](./87601-carrier-landings-pro.json) |
 | Carrier Snake | 87609 | [87609-carrier-snake.json](./87609-carrier-snake.json) |
+| Carrier Strike | 47123 | [47123-carrier-strike.json](./47123-carrier-strike.json) |
 | Carrier Trail | 113901 | [113901-carrier-trail.json](./113901-carrier-trail.json) |
 | Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlewatch | 248006 | [248006-castlewatch.json](./248006-castlewatch.json) |
 | Castleyard | 312757 | [312757-castleyard.json](./312757-castleyard.json) |
 | Castra | 119654 | [119654-castra.json](./119654-castra.json) |
+| Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
@@ -7149,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
+| Clue Classic | 47075 | [47075-clue-classic.json](./47075-clue-classic.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
@@ -12504,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
+| Crystal Caliburn | 47116 | [47116-crystal-caliburn.json](./47116-crystal-caliburn.json) |
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Captor: Memory Chronicle Finale | 176760 | [176760-crystal-captor-memory-chronicle-finale.json](./176760-crystal-captor-memory-chronicle-finale.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
