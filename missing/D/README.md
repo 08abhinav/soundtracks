@@ -322,12 +322,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
 | Daisenryaku | 339855 | [339855-daisenryaku.json](./339855-daisenryaku.json) |
+| Daisenryaku | 41782 | [41782-daisenryaku.json](./41782-daisenryaku.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisenryaku Daitoua Kouboushi: Tora Tora Tora Ware Kishuu ni Seikou Seri | 140284 | [140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json](./140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json) |
 | Daisenryaku Expert | 44421 | [44421-daisenryaku-expert.json](./44421-daisenryaku-expert.json) |
 | Daisenryaku Expert WWII: War in Europe | 44420 | [44420-daisenryaku-expert-wwii-war-in-europe.json](./44420-daisenryaku-expert-wwii-war-in-europe.json) |
+| Daisenryaku II: Campaign Version | 41781 | [41781-daisenryaku-ii-campaign-version.json](./41781-daisenryaku-ii-campaign-version.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
@@ -357,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
 | Daiva Story 2: Memory in Durga | 392849 | [392849-daiva-story-2-memory-in-durga.json](./392849-daiva-story-2-memory-in-durga.json) |
 | Daiva Story 3: Trial of Nirvana | 392850 | [392850-daiva-story-3-trial-of-nirvana.json](./392850-daiva-story-3-trial-of-nirvana.json) |
+| Daiva Story 5: The Cup of Soma | 41811 | [41811-daiva-story-5-the-cup-of-soma.json](./41811-daiva-story-5-the-cup-of-soma.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
 | Daiva Story 7: Light of Kari Yuga | 392851 | [392851-daiva-story-7-light-of-kari-yuga.json](./392851-daiva-story-7-light-of-kari-yuga.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
@@ -3467,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Forest | 41780 | [41780-deep-forest.json](./41780-deep-forest.json) |
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
 | Deep Freeze | 237411 | [237411-deep-freeze.json](./237411-deep-freeze.json) |
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
@@ -4342,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
+| Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
@@ -9997,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
 | Dragon Knight 4 | 80844 | [80844-dragon-knight-4.json](./80844-dragon-knight-4.json) |
+| Dragon Knight II | 41779 | [41779-dragon-knight-ii.json](./41779-dragon-knight-ii.json) |
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
@@ -12583,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
+| Dunkshot | 41809 | [41809-dunkshot.json](./41809-dunkshot.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunland: Survivors Story | 247953 | [247953-dunland-survivors-story.json](./247953-dunland-survivors-story.json) |
 | Dunlight: Random Defense | 248157 | [248157-dunlight-random-defense.json](./248157-dunlight-random-defense.json) |
