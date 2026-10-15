@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
+| Heathen Engineering's Terran | 33909 | [33909-heathen-engineerings-terran.json](./33909-heathen-engineerings-terran.json) |
 | Heather Wreath: The Reporter | 340423 | [340423-heather-wreath-the-reporter.json](./340423-heather-wreath-the-reporter.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
