@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Frontier | 146673 | [146673-wild-frontier.json](./146673-wild-frontier.json) |
+| Wild Game Hunter VR | 30608 | [30608-wild-game-hunter-vr.json](./30608-wild-game-hunter-vr.json) |
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Growth | 331389 | [331389-wild-growth.json](./331389-wild-growth.json) |
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: The Death Trap II | 62606 | [62606-will-the-death-trap-ii.json](./62606-will-the-death-trap-ii.json) |
 | Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
+| Willi's Haunted Hayride | 30654 | [30654-willis-haunted-hayride.json](./30654-willis-haunted-hayride.json) |
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
