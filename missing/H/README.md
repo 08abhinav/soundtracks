@@ -150,6 +150,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
+| Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
+| Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
 | HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
 | HAE Stack | 400502 | [400502-hae-stack.json](./400502-hae-stack.json) |
 | Haecia | 125903 | [125903-haecia.json](./125903-haecia.json) |
+| Haegemonia: Gold Edition | 51824 | [51824-haegemonia-gold-edition.json](./51824-haegemonia-gold-edition.json) |
 | Haegemonia: Legions of Iron | 8785 | [8785-haegemonia-legions-of-iron.json](./8785-haegemonia-legions-of-iron.json) |
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
 | Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
@@ -822,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate | 9101 | [9101-hand-of-fate.json](./9101-hand-of-fate.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
+| Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
@@ -1264,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
+| Hard West: Collector's Edition | 51822 | [51822-hard-west-collectors-edition.json](./51822-hard-west-collectors-edition.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
 | Hard West: Scars of Freedom | 18367 | [18367-hard-west-scars-of-freedom.json](./18367-hard-west-scars-of-freedom.json) |
 | Hard West: Ultimate Edition | 166685 | [166685-hard-west-ultimate-edition.json](./166685-hard-west-ultimate-edition.json) |
@@ -8292,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
+| Hybrid Wars: Deluxe Edition | 51819 | [51819-hybrid-wars-deluxe-edition.json](./51819-hybrid-wars-deluxe-edition.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
 | Hybrids Arena | 33379 | [33379-hybrids-arena.json](./33379-hybrids-arena.json) |
