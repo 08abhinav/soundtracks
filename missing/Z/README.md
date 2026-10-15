@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: Star Wars Pinball - Han Solo | 354351 | [354351-zen-pinball-star-wars-pinball-han-solo.json](./354351-zen-pinball-star-wars-pinball-han-solo.json) |
 | Zen Pinball: The Elder Scrolls V - Skyrim Pinball | 354363 | [354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json](./354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json) |
 | Zen Pinball: The Walking Dead | 354365 | [354365-zen-pinball-the-walking-dead.json](./354365-zen-pinball-the-walking-dead.json) |
+| Zen Puzzle Garden | 50466 | [50466-zen-puzzle-garden.json](./50466-zen-puzzle-garden.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
