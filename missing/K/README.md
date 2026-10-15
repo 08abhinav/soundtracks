@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kabitis | 32615 | [32615-kabitis.json](./32615-kabitis.json) |
 | Kabitis 2 | 122041 | [122041-kabitis-2.json](./122041-kabitis-2.json) |
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kallax | 217284 | [217284-kallax.json](./217284-kallax.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
+| Kalonline | 32613 | [32613-kalonline.json](./32613-kalonline.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
 | Kalpa of Universe: Mobile | 145542 | [145542-kalpa-of-universe-mobile.json](./145542-kalpa-of-universe-mobile.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
@@ -987,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KDA Fan Game | 184334 | [184334-kda-fan-game.json](./184334-kda-fan-game.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
+| Ke-Tsu-No-Ana | 32625 | [32625-ke-tsu-no-ana.json](./32625-ke-tsu-no-ana.json) |
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
 | Keaton's Adventure | 303611 | [303611-keatons-adventure.json](./303611-keatons-adventure.json) |
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
