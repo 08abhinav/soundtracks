@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iF-22 Persian Gulf v5.0 | 62267 | [62267-if-22-persian-gulf-v5-0.json](./62267-if-22-persian-gulf-v5-0.json) |
 | If... | 261458 | [261458-if.json](./261458-if.json) |
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
+| iFactor | 30611 | [30611-ifactor.json](./30611-ifactor.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
 | Iffy Institute | 96238 | [96238-iffy-institute.json](./96238-iffy-institute.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the Underdusk | 194894 | [194894-into-the-underdusk.json](./194894-into-the-underdusk.json) |
+| Into the Unknown | 30597 | [30597-into-the-unknown.json](./30597-into-the-unknown.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
 | Into The Unknown | 358220 | [358220-into-the-unknown.json](./358220-into-the-unknown.json) |
 | Into The Unwell | 347663 | [347663-into-the-unwell.json](./347663-into-the-unwell.json) |
@@ -3705,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders Revenge | 41195 | [41195-invaders-revenge.json](./41195-invaders-revenge.json) |
 | Invaders X | 306416 | [306416-invaders-x.json](./306416-invaders-x.json) |
+| Invaders! | 30656 | [30656-invaders.json](./30656-invaders.json) |
 | Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
 | InvaderSwarm | 150484 | [150484-invaderswarm.json](./150484-invaderswarm.json) |
 | Invariant | 326224 | [326224-invariant.json](./326224-invariant.json) |
