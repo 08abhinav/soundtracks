@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Lads | 280132 | [280132-fat-lads.json](./280132-fat-lads.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
+| Fat Mask | 31610 | [31610-fat-mask.json](./31610-fat-mask.json) |
 | Fat Mole | 101683 | [101683-fat-mole.json](./101683-fat-mole.json) |
 | Fat Princess | 19820 | [19820-fat-princess.json](./19820-fat-princess.json) |
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
@@ -5870,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly This!: Flight Control Tower | 222248 | [222248-fly-this-flight-control-tower.json](./222248-fly-this-flight-control-tower.json) |
 | Fly to hope | 211682 | [211682-fly-to-hope.json](./211682-fly-to-hope.json) |
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
+| Fly to Kuma Maker | 31600 | [31600-fly-to-kuma-maker.json](./31600-fly-to-kuma-maker.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
@@ -5904,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
 | Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
+| Flying Baron 1916 | 31607 | [31607-flying-baron-1916.json](./31607-flying-baron-1916.json) |
 | Flying Body Parts | 64328 | [64328-flying-body-parts.json](./64328-flying-body-parts.json) |
 | Flying Bunny | 99519 | [99519-flying-bunny.json](./99519-flying-bunny.json) |
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
@@ -6246,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
+| Football Blitz | 31639 | [31639-football-blitz.json](./31639-football-blitz.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
