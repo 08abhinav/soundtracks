@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
+| Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
