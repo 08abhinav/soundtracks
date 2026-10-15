@@ -6708,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play to Befriend a Pokémon! | 234098 | [234098-play-to-befriend-a-pokemon.json](./234098-play-to-befriend-a-pokemon.json) |
 | Play to Cure: Genes in Space | 133711 | [133711-play-to-cure-genes-in-space.json](./133711-play-to-cure-genes-in-space.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
+| Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
@@ -9297,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Solenoid: BennyJr | 332608 | [332608-power-solenoid-bennyjr.json](./332608-power-solenoid-bennyjr.json) |
+| Power Solitaire VR | 29658 | [29658-power-solitaire-vr.json](./29658-power-solitaire-vr.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
 | Power Spike: Pro Beach Volleyball | 265059 | [265059-power-spike-pro-beach-volleyball.json](./265059-power-spike-pro-beach-volleyball.json) |
 | Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
@@ -10028,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Ark: Prism Heart II | 72550 | [72550-prism-ark-prism-heart-ii.json](./72550-prism-ark-prism-heart-ii.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
+| Prism Collider | 29643 | [29643-prism-collider.json](./29643-prism-collider.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
@@ -10969,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shadow 2 | 330966 | [330966-project-shadow-2.json](./330966-project-shadow-2.json) |
 | Project Shadowglass | 370008 | [370008-project-shadowglass.json](./370008-project-shadowglass.json) |
 | Project Shanto Rancher | 188466 | [188466-project-shanto-rancher.json](./188466-project-shanto-rancher.json) |
+| Project Shield | 29632 | [29632-project-shield.json](./29632-project-shield.json) |
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
