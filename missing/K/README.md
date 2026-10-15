@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King and Kingdoms | 149687 | [149687-king-and-kingdoms.json](./149687-king-and-kingdoms.json) |
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur | 78534 | [78534-king-arthur.json](./78534-king-arthur.json) |
+| King Arthur Collection | 51847 | [51847-king-arthur-collection.json](./51847-king-arthur-collection.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
 | King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
 | King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
+| King's Bounty: Warriors of the North - Complete Edition | 51846 | [51846-kings-bounty-warriors-of-the-north-complete-edition.json](./51846-kings-bounty-warriors-of-the-north-complete-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Cup | 143441 | [143441-kings-cup.json](./143441-kings-cup.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
@@ -4237,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyma | 149381 | [149381-kyma.json](./149381-kyma.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
+| Kyn: Deluxe Edition | 51843 | [51843-kyn-deluxe-edition.json](./51843-kyn-deluxe-edition.json) |
 | Kyo: Gigantify | 187158 | [187158-kyo-gigantify.json](./187158-kyo-gigantify.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
