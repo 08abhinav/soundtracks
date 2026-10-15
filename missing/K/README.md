@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
+| Kaen Seibo: The Virgin on Megiddo | 70269 | [70269-kaen-seibo-the-virgin-on-megiddo.json](./70269-kaen-seibo-the-virgin-on-megiddo.json) |
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
 | Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
@@ -2378,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingdomScape | 329104 | [329104-kingdomscape.json](./329104-kingdomscape.json) |
 | Kingfisher: An Autism Tale | 388913 | [388913-kingfisher-an-autism-tale.json](./388913-kingfisher-an-autism-tale.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
+| Kingler's Day | 70309 | [70309-kinglers-day.json](./70309-kinglers-day.json) |
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
