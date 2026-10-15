@@ -6309,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke | 265060 | [265060-lucky-luke.json](./265060-lucky-luke.json) |
+| Lucky Luke & the Daltons | 56991 | [56991-lucky-luke-and-the-daltons.json](./56991-lucky-luke-and-the-daltons.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
 | Lucky Luke: Nitroglycerine | 240263 | [240263-lucky-luke-nitroglycerine.json](./240263-lucky-luke-nitroglycerine.json) |
