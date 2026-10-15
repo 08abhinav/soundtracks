@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
+| Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
 | Tasokare Hotel | 202675 | [202675-tasokare-hotel.json](./202675-tasokare-hotel.json) |
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
@@ -20350,6 +20351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Girl | 374972 | [374972-transparent-girl.json](./374972-transparent-girl.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
+| Transparent Machines | 60448 | [60448-transparent-machines.json](./60448-transparent-machines.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
