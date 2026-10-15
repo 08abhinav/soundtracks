@@ -9930,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
+| Princess Maker: Legend of Another World | 38182 | [38182-princess-maker-legend-of-another-world.json](./38182-princess-maker-legend-of-another-world.json) |
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
@@ -10301,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Kiwame GB | 65033 | [65033-pro-mahjong-kiwame-gb.json](./65033-pro-mahjong-kiwame-gb.json) |
 | Pro Mahjong Kiwame GB II | 97878 | [97878-pro-mahjong-kiwame-gb-ii.json](./97878-pro-mahjong-kiwame-gb-ii.json) |
 | Pro Mahjong Kiwame II | 37875 | [37875-pro-mahjong-kiwame-ii.json](./37875-pro-mahjong-kiwame-ii.json) |
+| Pro Mahjong Kiwame III | 38201 | [38201-pro-mahjong-kiwame-iii.json](./38201-pro-mahjong-kiwame-iii.json) |
 | Pro Mahjong Kiwame Plus | 97879 | [97879-pro-mahjong-kiwame-plus.json](./97879-pro-mahjong-kiwame-plus.json) |
 | Pro Mahjong Kiwame Plus II | 97877 | [97877-pro-mahjong-kiwame-plus-ii.json](./97877-pro-mahjong-kiwame-plus-ii.json) |
 | Pro Mahjong Kiwame Tengensenhen | 97875 | [97875-pro-mahjong-kiwame-tengensenhen.json](./97875-pro-mahjong-kiwame-tengensenhen.json) |
