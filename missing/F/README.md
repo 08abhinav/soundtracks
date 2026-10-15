@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
 | Fancy the Frog | 152653 | [152653-fancy-the-frog.json](./152653-fancy-the-frog.json) |
+| Fancy Trangram VR | 30658 | [30658-fancy-trangram-vr.json](./30658-fancy-trangram-vr.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
+| Fantasy Fairways | 30629 | [30629-fantasy-fairways.json](./30629-fantasy-fairways.json) |
 | Fantasy Fighters | 200945 | [200945-fantasy-fighters.json](./200945-fantasy-fighters.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Finger Football | 120240 | [120240-fantasy-finger-football.json](./120240-fantasy-finger-football.json) |
@@ -2951,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fields of War | 62435 | [62435-fields-of-war.json](./62435-fields-of-war.json) |
+| Fields XY | 30635 | [30635-fields-xy.json](./30635-fields-xy.json) |
 | Fieldwork | 287321 | [287321-fieldwork.json](./287321-fieldwork.json) |
 | Fiend | 268930 | [268930-fiend.json](./268930-fiend.json) |
 | Fiend | 69932 | [69932-fiend.json](./69932-fiend.json) |
