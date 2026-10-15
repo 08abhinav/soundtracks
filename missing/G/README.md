@@ -2810,6 +2810,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
 | Giant Dancing Plushies | 175140 | [175140-giant-dancing-plushies.json](./175140-giant-dancing-plushies.json) |
 | Giant Defense | 249912 | [249912-giant-defense.json](./249912-giant-defense.json) |
+| Giant Gram 2000: All Japan Pro Wrestling 3 | 45827 | [45827-giant-gram-2000-all-japan-pro-wrestling-3.json](./45827-giant-gram-2000-all-japan-pro-wrestling-3.json) |
+| Giant Gram: All Japan Pro Wrestling 2 | 45828 | [45828-giant-gram-all-japan-pro-wrestling-2.json](./45828-giant-gram-all-japan-pro-wrestling-2.json) |
 | Giant Hornet | 276661 | [276661-giant-hornet.json](./276661-giant-hornet.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
@@ -4193,6 +4195,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Balls | 360118 | [360118-godzilla-balls.json](./360118-godzilla-balls.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
+| Godzilla Generations | 45824 | [45824-godzilla-generations.json](./45824-godzilla-generations.json) |
+| Godzilla Generations Maximum Impact | 45823 | [45823-godzilla-generations-maximum-impact.json](./45823-godzilla-generations-maximum-impact.json) |
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
 | Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
@@ -5966,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
+| Greatest Heavyweights | 45783 | [45783-greatest-heavyweights.json](./45783-greatest-heavyweights.json) |
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
 | Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
