@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
+| Dead Reckoning: Brassfield Manor - Collector's Edition | 55782 | [55782-dead-reckoning-brassfield-manor-collectors-edition.json](./55782-dead-reckoning-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Pit | 13578 | [13578-death-pit.json](./13578-death-pit.json) |
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
 | Death Plunder | 311174 | [311174-death-plunder.json](./311174-death-plunder.json) |
+| Death Point | 55813 | [55813-death-point.json](./55813-death-point.json) |
 | Death Pong | 390585 | [390585-death-pong.json](./390585-death-pong.json) |
 | Death Rabbit | 271655 | [271655-death-rabbit.json](./271655-death-rabbit.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
@@ -3038,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
+| Death Rings of Jupiter | 55788 | [55788-death-rings-of-jupiter.json](./55788-death-rings-of-jupiter.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
@@ -3715,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
+| Defender of Earth vs. The Alien Armada | 55816 | [55816-defender-of-earth-vs-the-alien-armada.json](./55816-defender-of-earth-vs-the-alien-armada.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of Kuiper Belt | 159560 | [159560-defender-of-kuiper-belt.json](./159560-defender-of-kuiper-belt.json) |
@@ -8852,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
+| Door Slammers 2 | 55829 | [55829-door-slammers-2.json](./55829-door-slammers-2.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
@@ -9006,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
+| Dormant World | 55802 | [55802-dormant-world.json](./55802-dormant-world.json) |
 | Dormant: Episode Galatea #1 | 166807 | [166807-dormant-episode-galatea-1.json](./166807-dormant-episode-galatea-1.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
@@ -10253,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
+| DragonScales 2: Beneath a Bloodstained Moon | 55821 | [55821-dragonscales-2-beneath-a-bloodstained-moon.json](./55821-dragonscales-2-beneath-a-bloodstained-moon.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
 | DragonScales 6: Love and Redemption | 131446 | [131446-dragonscales-6-love-and-redemption.json](./131446-dragonscales-6-love-and-redemption.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
@@ -11775,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueledged | 200013 | [200013-dueledged.json](./200013-dueledged.json) |
+| Dueleum | 55791 | [55791-dueleum.json](./55791-dueleum.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
