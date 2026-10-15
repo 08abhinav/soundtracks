@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy | 58627 | [58627-i-spy.json](./58627-i-spy.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
+| I Spy Castle | 61513 | [61513-i-spy-castle.json](./61513-i-spy-castle.json) |
 | I Spy Challenger! | 49294 | [49294-i-spy-challenger.json](./49294-i-spy-challenger.json) |
 | I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
