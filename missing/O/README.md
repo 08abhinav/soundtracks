@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
 | Oda | 122324 | [122324-oda.json](./122324-oda.json) |
 | Oda Nobunaga | 240157 | [240157-oda-nobunaga.json](./240157-oda-nobunaga.json) |
+| Oda Nobunaga: Haou no Gundan | 44398 | [44398-oda-nobunaga-haou-no-gundan.json](./44398-oda-nobunaga-haou-no-gundan.json) |
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
 | Odama | 4050 | [4050-odama.json](./4050-odama.json) |
 | Odania Sports Arena | 226130 | [226130-odania-sports-arena.json](./226130-odania-sports-arena.json) |
@@ -507,6 +508,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oedoshigusa | 310163 | [310163-oedoshigusa.json](./310163-oedoshigusa.json) |
 | Oeka Kids: Anpanman no Hiragana Daisuki | 48800 | [48800-oeka-kids-anpanman-no-hiragana-daisuki.json](./48800-oeka-kids-anpanman-no-hiragana-daisuki.json) |
 | Oeka Kids: Anpanman to Oekaki Shiyou!! | 48799 | [48799-oeka-kids-anpanman-to-oekaki-shiyou.json](./48799-oeka-kids-anpanman-to-oekaki-shiyou.json) |
+| Oekaki Logic | 44388 | [44388-oekaki-logic.json](./44388-oekaki-logic.json) |
+| Oekaki Logic 2 | 44387 | [44387-oekaki-logic-2.json](./44387-oekaki-logic-2.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
 | Oel | 62611 | [62611-oel.json](./62611-oel.json) |
@@ -1037,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
 | Olivia Takes Ballet | 231377 | [231377-olivia-takes-ballet.json](./231377-olivia-takes-ballet.json) |
 | Olivia: The Witch's Magic Shop | 394462 | [394462-olivia-the-witchs-magic-shop.json](./394462-olivia-the-witchs-magic-shop.json) |
+| Olivia's Mystery | 44386 | [44386-olivias-mystery.json](./44386-olivias-mystery.json) |
 | Olivias Dream | 368030 | [368030-olivias-dream.json](./368030-olivias-dream.json) |
 | OliVR | 240769 | [240769-olivr.json](./240769-olivr.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
@@ -1952,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
 | Ongaku | 35431 | [35431-ongaku.json](./35431-ongaku.json) |
+| Ongaku Tsukuuru: Kanadeeru | 44385 | [44385-ongaku-tsukuuru-kanadeeru.json](./44385-ongaku-tsukuuru-kanadeeru.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongaku Tsukuuru: Kanadeeru - Senyou Score Data | 234784 | [234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json](./234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
@@ -2024,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onita Atsushi FMW | 38229 | [38229-onita-atsushi-fmw.json](./38229-onita-atsushi-fmw.json) |
 | Onitama | 183438 | [183438-onitama.json](./183438-onitama.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
+| Onizuka Katsuya Super Virtual Boxing: Shin Kentou-ou Densetsu | 44384 | [44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json](./44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json) |
 | Onka | 257317 | [257317-onka.json](./257317-onka.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
@@ -2226,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | Oozora Hectare Nouen | 175137 | [175137-oozora-hectare-nouen.json](./175137-oozora-hectare-nouen.json) |
+| Oozumou Tamashii | 44383 | [44383-oozumou-tamashii.json](./44383-oozumou-tamashii.json) |
 | OP. After-Mass N1 | 216967 | [216967-op-after-mass-n1.json](./216967-op-after-mass-n1.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
@@ -2517,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
+| Oraga Land Shusai: Best Farmer Shuukaku-Sai | 44382 | [44382-oraga-land-shusai-best-farmer-shuukaku-sai.json](./44382-oraga-land-shusai-best-farmer-shuukaku-sai.json) |
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
