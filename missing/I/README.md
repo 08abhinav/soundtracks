@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
+| Incrediball: The Seven Sapphires | 71984 | [71984-incrediball-the-seven-sapphires.json](./71984-incrediball-the-seven-sapphires.json) |
 | Incredible Crisis | 26637 | [26637-incredible-crisis.json](./26637-incredible-crisis.json) |
 | Incredible Dracula 3: Family Secret | 118765 | [118765-incredible-dracula-3-family-secret.json](./118765-incredible-dracula-3-family-secret.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder Combat Training | 337121 | [337121-intruder-combat-training.json](./337121-intruder-combat-training.json) |
 | Intruder in Antiquonia | 178382 | [178382-intruder-in-antiquonia.json](./178382-intruder-in-antiquonia.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
+| Intruder: Sakura Yashiki no Tansaku | 71983 | [71983-intruder-sakura-yashiki-no-tansaku.json](./71983-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruders | 110244 | [110244-intruders.json](./110244-intruders.json) |
 | Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
