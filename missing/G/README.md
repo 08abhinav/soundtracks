@@ -7083,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Freaks V3 & DrumMania V3 | 78349 | [78349-guitar-freaks-v3-and-drummania-v3.json](./78349-guitar-freaks-v3-and-drummania-v3.json) |
 | Guitar Girl | 138548 | [138548-guitar-girl.json](./138548-guitar-girl.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
+| Guitar Hardness | 55784 | [55784-guitar-hardness.json](./55784-guitar-hardness.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
