@@ -7459,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
+| The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
@@ -8655,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
 | The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
+| The Legend of Zelda: Breath of the Wild - Master Edition | 45137 | [45137-the-legend-of-zelda-breath-of-the-wild-master-edition.json](./45137-the-legend-of-zelda-breath-of-the-wild-master-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Special Edition | 136337 | [136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json](./136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
@@ -8723,6 +8725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Secrets | 323207 | [323207-the-legend-of-zelda-oracle-of-secrets.json](./323207-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323220 | [323220-the-legend-of-zelda-oracle-of-secrets.json](./323220-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
+| The Legend of Zelda: Outlands | 45140 | [45140-the-legend-of-zelda-outlands.json](./45140-the-legend-of-zelda-outlands.json) |
 | The Legend of Zelda: Parallel Worlds | 42523 | [42523-the-legend-of-zelda-parallel-worlds.json](./42523-the-legend-of-zelda-parallel-worlds.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
@@ -8739,6 +8742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Shadow of Night | 218079 | [218079-the-legend-of-zelda-shadow-of-night.json](./218079-the-legend-of-zelda-shadow-of-night.json) |
 | The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
+| The Legend of Zelda: Skyward Sword - Collector's Edition | 45136 | [45136-the-legend-of-zelda-skyward-sword-collectors-edition.json](./45136-the-legend-of-zelda-skyward-sword-collectors-edition.json) |
 | The Legend of Zelda: Skyward Sword - Limited Edition Pack | 136162 | [136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json](./136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
@@ -8757,6 +8761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
 | The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
+| The Legend of Zelda: The Wind Waker HD - Limited Edition | 45135 | [45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json](./45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json) |
+| The Legend of Zelda: The Wind Waker HD Bundle Limited Edition | 45133 | [45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json](./45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
@@ -8766,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
 | The Legend of Zelda: Triforce Power | 359011 | [359011-the-legend-of-zelda-triforce-power.json](./359011-the-legend-of-zelda-triforce-power.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
+| The Legend of Zelda: Twilight Princess HD - Special Edition | 45134 | [45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json](./45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json) |
 | The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
 | The Legend of Zelda: Unnamed Quest | 322780 | [322780-the-legend-of-zelda-unnamed-quest.json](./322780-the-legend-of-zelda-unnamed-quest.json) |
 | The Legend of Zelda: Voyager of Time | 252292 | [252292-the-legend-of-zelda-voyager-of-time.json](./252292-the-legend-of-zelda-voyager-of-time.json) |
@@ -11435,6 +11442,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
+| The Sims: Complete Collection | 45116 | [45116-the-sims-complete-collection.json](./45116-the-sims-complete-collection.json) |
+| The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
+| The Sims: Double Deluxe | 45112 | [45112-the-sims-double-deluxe.json](./45112-the-sims-double-deluxe.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
 | The Sims: Makin' Magic | 5533 | [5533-the-sims-makin-magic.json](./5533-the-sims-makin-magic.json) |
@@ -20531,6 +20541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylmania II: The Vampire Bites Back! | 267416 | [267416-transylmania-ii-the-vampire-bites-back.json](./267416-transylmania-ii-the-vampire-bites-back.json) |
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
 | Transylvania III: Vanquish the Night | 15533 | [15533-transylvania-iii-vanquish-the-night.json](./15533-transylvania-iii-vanquish-the-night.json) |
+| Transylvanian Tower | 45312 | [45312-transylvanian-tower.json](./45312-transylvanian-tower.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
