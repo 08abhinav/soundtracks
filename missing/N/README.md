@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic Collection Vol. 1 | 72575 | [72575-namco-classic-collection-vol-1.json](./72575-namco-classic-collection-vol-1.json) |
+| Namco Classic Collection Vol. 2 | 56389 | [56389-namco-classic-collection-vol-2.json](./56389-namco-classic-collection-vol-2.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopunk | 224684 | [224684-neopunk.json](./224684-neopunk.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
+| Neorude | 56360 | [56360-neorude.json](./56360-neorude.json) |
 | Neos Aires 2070: Sunday Comes First | 182753 | [182753-neos-aires-2070-sunday-comes-first.json](./182753-neos-aires-2070-sunday-comes-first.json) |
 | Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
