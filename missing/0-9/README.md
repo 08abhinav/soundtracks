@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Games to Play With Your Mates | 98877 | [98877-20-games-to-play-with-your-mates.json](./98877-20-games-to-play-with-your-mates.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
+| 20 Minutes Till Dawn | 199748 | [199748-20-minutes-till-dawn.json](./199748-20-minutes-till-dawn.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2001 Alien Combat | 71756 | [71756-2001-alien-combat.json](./71756-2001-alien-combat.json) |
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
 | 2002 FIFA World Cup | 240360 | [240360-2002-fifa-world-cup.json](./240360-2002-fifa-world-cup.json) |
+| 2002 FIFA World Cup | 583 | [583-2002-fifa-world-cup.json](./583-2002-fifa-world-cup.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
@@ -1541,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
 | 3D Pixel Racing | 51055 | [51055-3d-pixel-racing.json](./51055-3d-pixel-racing.json) |
