@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
+| RoboCritters | 38749 | [38749-robocritters.json](./38749-robocritters.json) |
 | Roboctletes | 272465 | [272465-roboctletes.json](./272465-roboctletes.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
@@ -7916,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
 | RPS play | 144615 | [144615-rps-play.json](./144615-rps-play.json) |
+| RPS Runner | 38765 | [38765-rps-runner.json](./38765-rps-runner.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
 | RPS: The Escape | 410467 | [410467-rps-the-escape.json](./410467-rps-the-escape.json) |
 | RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
 | Rubber Royale: Holiday Prologue | 278939 | [278939-rubber-royale-holiday-prologue.json](./278939-rubber-royale-holiday-prologue.json) |
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
+| Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
