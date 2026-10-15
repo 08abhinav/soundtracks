@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
+| Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
 | Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
 | Samsaric Asymtotes | 295997 | [295997-samsaric-asymtotes.json](./295997-samsaric-asymtotes.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
@@ -5879,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
+| Shinobi III: Return of the Ninja Master | 2623 | [2623-shinobi-iii-return-of-the-ninja-master.json](./2623-shinobi-iii-return-of-the-ninja-master.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
@@ -6836,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
+| Sid Meier's Alpha Centauri | 863 | [863-sid-meiers-alpha-centauri.json](./863-sid-meiers-alpha-centauri.json) |
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
 | Sid Meier's C.P.U. Bach | 38818 | [38818-sid-meiers-c-p-u-bach.json](./38818-sid-meiers-c-p-u-bach.json) |
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
@@ -11704,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Sega All-Stars Racing | 200966 | [200966-sonic-and-sega-all-stars-racing.json](./200966-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 287012 | [287012-sonic-and-sega-all-stars-racing.json](./287012-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 287013 | [287013-sonic-and-sega-all-stars-racing.json](./287013-sonic-and-sega-all-stars-racing.json) |
+| Sonic & Sega All-Stars Racing | 5165 | [5165-sonic-and-sega-all-stars-racing.json](./5165-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
@@ -22364,6 +22368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch Patrol | 139882 | [139882-super-punch-patrol.json](./139882-super-punch-patrol.json) |
+| Super Punch-Out!! | 9151 | [9151-super-punch-out.json](./9151-super-punch-out.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
@@ -22784,6 +22789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
 | Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
+| Super Street Fighter II: The New Challengers | 12860 | [12860-super-street-fighter-ii-the-new-challengers.json](./12860-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322235 | [322235-super-street-fighter-ii-the-new-challengers.json](./322235-super-street-fighter-ii-the-new-challengers.json) |
