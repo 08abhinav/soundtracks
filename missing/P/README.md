@@ -409,6 +409,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Paganitzu Part 1: Romancing the Rose | 50428 | [50428-paganitzu-part-1-romancing-the-rose.json](./50428-paganitzu-part-1-romancing-the-rose.json) |
+| Paganitzu Part 2: The Silver Dagger | 50477 | [50477-paganitzu-part-2-the-silver-dagger.json](./50477-paganitzu-part-2-the-silver-dagger.json) |
+| Paganitzu Part 3: Jewel of the Yucatan | 50475 | [50475-paganitzu-part-3-jewel-of-the-yucatan.json](./50475-paganitzu-part-3-jewel-of-the-yucatan.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Page One | 161595 | [161595-page-one.json](./161595-page-one.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 302776 | [302776-perfect-world.json](./302776-perfect-world.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
+| Perfect World International | 50368 | [50368-perfect-world-international.json](./50368-perfect-world-international.json) |
 | Perfect World Mobile | 133769 | [133769-perfect-world-mobile.json](./133769-perfect-world-mobile.json) |
 | Perfect World: Ascend | 333123 | [333123-perfect-world-ascend.json](./333123-perfect-world-ascend.json) |
 | Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
@@ -8000,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polandball Go | 376047 | [376047-polandball-go.json](./376047-polandball-go.json) |
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
+| Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
@@ -11829,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
+| Punk's Not Dead | 50373 | [50373-punks-not-dead.json](./50373-punks-not-dead.json) |
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
