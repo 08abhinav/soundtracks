@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
+| M1 Tank Platoon 2 | 36902 | [36902-m1-tank-platoon-2.json](./36902-m1-tank-platoon-2.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
 | M2K | 286783 | [286783-m2k.json](./286783-m2k.json) |
@@ -1533,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
 | MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
+| Mailstrom | 36862 | [36862-mailstrom.json](./36862-mailstrom.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
