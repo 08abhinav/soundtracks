@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
+| Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
