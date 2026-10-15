@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
+| Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
