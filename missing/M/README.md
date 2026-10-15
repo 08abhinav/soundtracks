@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
 | Majewelick Impact | 133730 | [133730-majewelick-impact.json](./133730-majewelick-impact.json) |
+| Majewelune World Special | 50370 | [50370-majewelune-world-special.json](./50370-majewelune-world-special.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
 | Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
 | Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
 | Manorvania | 178894 | [178894-manorvania.json](./178894-manorvania.json) |
+| Manos - The Revenge of Torgo | 50379 | [50379-manos-the-revenge-of-torgo.json](./50379-manos-the-revenge-of-torgo.json) |
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
 | Mickey's Stuff for Kids: Day in the Park | 245440 | [245440-mickeys-stuff-for-kids-day-in-the-park.json](./245440-mickeys-stuff-for-kids-day-in-the-park.json) |
 | Mickey's Surf Adventure | 246512 | [246512-mickeys-surf-adventure.json](./246512-mickeys-surf-adventure.json) |
+| Mickey's Toddler with Active Leveling Advantage! | 50479 | [50479-mickeys-toddler-with-active-leveling-advantage.json](./50479-mickeys-toddler-with-active-leveling-advantage.json) |
 | Mickey's Typing Adventure | 56004 | [56004-mickeys-typing-adventure.json](./56004-mickeys-typing-adventure.json) |
 | Mickey's Ultimate Challenge | 307073 | [307073-mickeys-ultimate-challenge.json](./307073-mickeys-ultimate-challenge.json) |
 | Mickey's Ultimate Challenge | 307076 | [307076-mickeys-ultimate-challenge.json](./307076-mickeys-ultimate-challenge.json) |
@@ -7151,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
+| Microdoctor | 50363 | [50363-microdoctor.json](./50363-microdoctor.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
@@ -14911,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythopolis | 419971 | [419971-mythopolis.json](./419971-mythopolis.json) |
