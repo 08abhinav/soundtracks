@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Rush | 149403 | [149403-virus-rush.json](./149403-virus-rush.json) |
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
+| Virus: The Game | 47119 | [47119-virus-the-game.json](./47119-virus-the-game.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
 | Virush | 36969 | [36969-virush.json](./36969-virush.json) |
@@ -2079,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Piñata: Party Animals | 7237 | [7237-viva-pinata-party-animals.json](./7237-viva-pinata-party-animals.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
+| Viva Soccer | 47084 | [47084-viva-soccer.json](./47084-viva-soccer.json) |
 | Viva Veloce | 306602 | [306602-viva-veloce.json](./306602-viva-veloce.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
 | Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
