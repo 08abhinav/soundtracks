@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
+| Wacko | 23502 | [23502-wacko.json](./23502-wacko.json) |
 | Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
+| Wildhollow | 25496 | [25496-wildhollow.json](./25496-wildhollow.json) |
 | WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | WildKids | 113560 | [113560-wildkids.json](./113560-wildkids.json) |
@@ -5516,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
 | World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
+| World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
 | World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
@@ -5575,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Aircraft: Glider Simulator | 148872 | [148872-world-of-aircraft-glider-simulator.json](./148872-world-of-aircraft-glider-simulator.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
+| World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
@@ -5857,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 2 Sniper | 53107 | [53107-world-war-2-sniper.json](./53107-world-war-2-sniper.json) |
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
+| World War 2: Pacific Heroes | 24746 | [24746-world-war-2-pacific-heroes.json](./24746-world-war-2-pacific-heroes.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
