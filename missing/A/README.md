@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
 | Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
+| Air Gallet | 39452 | [39452-air-gallet.json](./39452-air-gallet.json) |
 | Air Gallet: Exa Label | 341999 | [341999-air-gallet-exa-label.json](./341999-air-gallet-exa-label.json) |
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
@@ -4215,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
+| Ali Baba and 40 Thieves | 39468 | [39468-ali-baba-and-40-thieves.json](./39468-ali-baba-and-40-thieves.json) |
 | Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
 | Alia's Carnival! Flowering Sky | 71581 | [71581-alias-carnival-flowering-sky.json](./71581-alias-carnival-flowering-sky.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
@@ -5540,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
 | Ambush | 164935 | [164935-ambush.json](./164935-ambush.json) |
+| Ambush | 39467 | [39467-ambush.json](./39467-ambush.json) |
 | Ambush at Sorinor | 69903 | [69903-ambush-at-sorinor.json](./69903-ambush-at-sorinor.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush Keen Pilgrims | 271247 | [271247-ambush-keen-pilgrims.json](./271247-ambush-keen-pilgrims.json) |
