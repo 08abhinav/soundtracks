@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
+| Dark Years | 13543 | [13543-dark-years.json](./13543-dark-years.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
@@ -4450,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deneb: Across the Stars | 211128 | [211128-deneb-across-the-stars.json](./211128-deneb-across-the-stars.json) |
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
+| Dengeki Bunko: Fighting Climax Ignition | 13550 | [13550-dengeki-bunko-fighting-climax-ignition.json](./13550-dengeki-bunko-fighting-climax-ignition.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
 | Dengeki no Pilot: Tenkuu no Kizuna | 213835 | [213835-dengeki-no-pilot-tenkuu-no-kizuna.json](./213835-dengeki-no-pilot-tenkuu-no-kizuna.json) |
 | Dengeki Nurse | 412440 | [412440-dengeki-nurse.json](./412440-dengeki-nurse.json) |
