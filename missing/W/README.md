@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
+| War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
 | War Dogs: Ace Fighters of WWII | 403106 | [403106-war-dogs-ace-fighters-of-wwii.json](./403106-war-dogs-ace-fighters-of-wwii.json) |
 | War Dogs: Red's Return | 147095 | [147095-war-dogs-reds-return.json](./147095-war-dogs-reds-return.json) |
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Whale Trail Frenzy | 411629 | [411629-whale-trail-frenzy.json](./411629-whale-trail-frenzy.json) |
 | Whale Well | 312626 | [312626-whale-well.json](./312626-whale-well.json) |
+| Whale's Voyage | 2522 | [2522-whales-voyage.json](./2522-whales-voyage.json) |
 | Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
