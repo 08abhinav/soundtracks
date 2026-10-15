@@ -283,6 +283,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
+| Hakunetsu Pro Yakyuu '94 Ganba League 3 | 38173 | [38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json](./38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json) |
+| Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
@@ -7870,6 +7872,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
+| Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
+| Human Grand Prix IV: F1 Dream Battle | 38171 | [38171-human-grand-prix-iv-f1-dream-battle.json](./38171-human-grand-prix-iv-f1-dream-battle.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
