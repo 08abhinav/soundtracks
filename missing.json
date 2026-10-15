@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T08:49:57.307Z",
-  "total_missing": 214522,
+  "generated_at": "2026-10-15T09:05:46.301Z",
+  "total_missing": 214572,
   "games": [
     {
       "igdb_id": 191680,
@@ -164632,6 +164632,11 @@
       "file": "missing/C/125342-city-defence.json"
     },
     {
+      "igdb_id": 53158,
+      "game_name": "City Defence",
+      "file": "missing/C/53158-city-defence.json"
+    },
+    {
       "igdb_id": 221999,
       "game_name": "City Defense",
       "file": "missing/C/221999-city-defense.json"
@@ -305587,6 +305592,11 @@
       "file": "missing/F/87066-farm-frenzy-inc.json"
     },
     {
+      "igdb_id": 53033,
+      "game_name": "Farm Frenzy Madness",
+      "file": "missing/F/53033-farm-frenzy-madness.json"
+    },
+    {
       "igdb_id": 320397,
       "game_name": "Farm Frenzy Prostokvashino",
       "file": "missing/F/320397-farm-frenzy-prostokvashino.json"
@@ -315952,6 +315962,11 @@
       "file": "missing/F/176454-find-yer-treasure.json"
     },
     {
+      "igdb_id": 53137,
+      "game_name": "Find You",
+      "file": "missing/F/53137-find-you.json"
+    },
+    {
       "igdb_id": 374948,
       "game_name": "Find Your Friends",
       "file": "missing/F/374948-find-your-friends.json"
@@ -318545,6 +318560,11 @@
       "igdb_id": 29582,
       "game_name": "First Strike Final Hour",
       "file": "missing/F/29582-first-strike-final-hour.json"
+    },
+    {
+      "igdb_id": 53039,
+      "game_name": "First Strike: Final Hour - Deluxe Edition",
+      "file": "missing/F/53039-first-strike-final-hour-deluxe-edition.json"
     },
     {
       "igdb_id": 264248,
@@ -326942,6 +326962,11 @@
       "file": "missing/F/176403-fog-of-life.json"
     },
     {
+      "igdb_id": 53038,
+      "game_name": "Fog of War: Extended Edition",
+      "file": "missing/F/53038-fog-of-war-extended-edition.json"
+    },
+    {
       "igdb_id": 211675,
       "game_name": "Fogel and Porki Evil Arcade",
       "file": "missing/F/211675-fogel-and-porki-evil-arcade.json"
@@ -327040,6 +327065,11 @@
       "igdb_id": 335865,
       "game_name": "Foldy's OS Quest",
       "file": "missing/F/335865-foldys-os-quest.json"
+    },
+    {
+      "igdb_id": 53037,
+      "game_name": "Foley's Escape",
+      "file": "missing/F/53037-foleys-escape.json"
     },
     {
       "igdb_id": 293878,
@@ -328695,6 +328725,11 @@
       "igdb_id": 118695,
       "game_name": "For Honor: Complete Edition",
       "file": "missing/F/118695-for-honor-complete-edition.json"
+    },
+    {
+      "igdb_id": 53036,
+      "game_name": "For Honor: Deluxe Edition",
+      "file": "missing/F/53036-for-honor-deluxe-edition.json"
     },
     {
       "igdb_id": 408890,
@@ -378630,6 +378665,11 @@
       "igdb_id": 234104,
       "game_name": "Guacomole",
       "file": "missing/G/234104-guacomole.json"
+    },
+    {
+      "igdb_id": 53162,
+      "game_name": "Guadalcanal",
+      "file": "missing/G/53162-guadalcanal.json"
     },
     {
       "igdb_id": 23992,
@@ -433340,6 +433380,11 @@
       "igdb_id": 274526,
       "game_name": "Iggy & Java",
       "file": "missing/I/274526-iggy-and-java.json"
+    },
+    {
+      "igdb_id": 53152,
+      "game_name": "Iggy's Zombie A-Pug-Alypse",
+      "file": "missing/I/53152-iggys-zombie-a-pug-alypse.json"
     },
     {
       "igdb_id": 238720,
@@ -492860,6 +492905,11 @@
       "igdb_id": 40335,
       "game_name": "Lazer Command",
       "file": "missing/L/40335-lazer-command.json"
+    },
+    {
+      "igdb_id": 53161,
+      "game_name": "Lazer Force",
+      "file": "missing/L/53161-lazer-force.json"
     },
     {
       "igdb_id": 54536,
@@ -556850,6 +556900,11 @@
       "igdb_id": 303062,
       "game_name": "Micron Defense Force",
       "file": "missing/M/303062-micron-defense-force.json"
+    },
+    {
+      "igdb_id": 53149,
+      "game_name": "Micronaut One",
+      "file": "missing/M/53149-micronaut-one.json"
     },
     {
       "igdb_id": 116919,
@@ -833367,6 +833422,11 @@
       "file": "missing/S/315198-sqij-arcade.json"
     },
     {
+      "igdb_id": 53159,
+      "game_name": "Sqij!",
+      "file": "missing/S/53159-sqij.json"
+    },
+    {
       "igdb_id": 315196,
       "game_name": "Sqij'd",
       "file": "missing/S/315196-sqijd.json"
@@ -1014787,6 +1014847,11 @@
       "file": "missing/V/108613-virtual-family-happy-mom-care.json"
     },
     {
+      "igdb_id": 53157,
+      "game_name": "Virtual Farm 2",
+      "file": "missing/V/53157-virtual-farm-2.json"
+    },
+    {
       "igdb_id": 311231,
       "game_name": "Virtual Fight World",
       "file": "missing/V/311231-virtual-fight-world.json"
@@ -1016347,6 +1016412,11 @@
       "file": "missing/V/67993-viz-the-soft-floppy-one.json"
     },
     {
+      "igdb_id": 53156,
+      "game_name": "Vizati",
+      "file": "missing/V/53156-vizati.json"
+    },
+    {
       "igdb_id": 301951,
       "game_name": "Vizul",
       "file": "missing/V/301951-vizul.json"
@@ -1017857,6 +1017927,11 @@
       "file": "missing/V/364566-voodloop.json"
     },
     {
+      "igdb_id": 53154,
+      "game_name": "Voodoo Chronicles: First Sign - Collector's Edition",
+      "file": "missing/V/53154-voodoo-chronicles-first-sign-collectors-edition.json"
+    },
+    {
       "igdb_id": 319806,
       "game_name": "Voodoo Dolls",
       "file": "missing/V/319806-voodoo-dolls.json"
@@ -1018357,6 +1018432,11 @@
       "file": "missing/V/335067-voxelgram-2.json"
     },
     {
+      "igdb_id": 53153,
+      "game_name": "Voxeliens",
+      "file": "missing/V/53153-voxeliens.json"
+    },
+    {
       "igdb_id": 186249,
       "game_name": "Voxella",
       "file": "missing/V/186249-voxella.json"
@@ -1018460,6 +1018540,11 @@
       "igdb_id": 352752,
       "game_name": "Voyage Router",
       "file": "missing/V/352752-voyage-router.json"
+    },
+    {
+      "igdb_id": 53151,
+      "game_name": "Voyage to Fantasy",
+      "file": "missing/V/53151-voyage-to-fantasy.json"
     },
     {
       "igdb_id": 146629,
@@ -1023362,6 +1023447,11 @@
       "file": "missing/W/338400-war-lands.json"
     },
     {
+      "igdb_id": 53148,
+      "game_name": "War Leaders: Clash of Nations",
+      "file": "missing/W/53148-war-leaders-clash-of-nations.json"
+    },
+    {
       "igdb_id": 250518,
       "game_name": "War Legends",
       "file": "missing/W/250518-war-legends.json"
@@ -1023590,6 +1023680,21 @@
       "igdb_id": 53884,
       "game_name": "War of the Human Tanks - Complete Collection",
       "file": "missing/W/53884-war-of-the-human-tanks-complete-collection.json"
+    },
+    {
+      "igdb_id": 53147,
+      "game_name": "War of the Human Tanks: Alter - Royal Edition",
+      "file": "missing/W/53147-war-of-the-human-tanks-alter-royal-edition.json"
+    },
+    {
+      "igdb_id": 53146,
+      "game_name": "War of the Human Tanks: Imperial Edition",
+      "file": "missing/W/53146-war-of-the-human-tanks-imperial-edition.json"
+    },
+    {
+      "igdb_id": 53145,
+      "game_name": "War of the Human Tanks: Limited Operations - Unlimited Edition",
+      "file": "missing/W/53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json"
     },
     {
       "igdb_id": 50494,
@@ -1024082,6 +1024187,11 @@
       "file": "missing/W/249815-war-to-the-core.json"
     },
     {
+      "igdb_id": 53144,
+      "game_name": "War Train",
+      "file": "missing/W/53144-war-train.json"
+    },
+    {
       "igdb_id": 124239,
       "game_name": "War Trains",
       "file": "missing/W/124239-war-trains.json"
@@ -1024257,6 +1024367,11 @@
       "file": "missing/W/237498-warbears-bedtime-city.json"
     },
     {
+      "igdb_id": 53143,
+      "game_name": "WarBirds 2012",
+      "file": "missing/W/53143-warbirds-2012.json"
+    },
+    {
       "igdb_id": 72094,
       "game_name": "WarBirds II",
       "file": "missing/W/72094-warbirds-ii.json"
@@ -1024275,6 +1024390,11 @@
       "igdb_id": 50397,
       "game_name": "WarBirds Red Baron",
       "file": "missing/W/50397-warbirds-red-baron.json"
+    },
+    {
+      "igdb_id": 53142,
+      "game_name": "Warbirds Red Baron 2012",
+      "file": "missing/W/53142-warbirds-red-baron-2012.json"
     },
     {
       "igdb_id": 33433,
@@ -1025755,6 +1025875,11 @@
       "igdb_id": 98025,
       "game_name": "Warhammer: Doomwheel",
       "file": "missing/W/98025-warhammer-doomwheel.json"
+    },
+    {
+      "igdb_id": 53139,
+      "game_name": "Warhammer: End Times - Vermintide Collector's Edition",
+      "file": "missing/W/53139-warhammer-end-times-vermintide-collectors-edition.json"
     },
     {
       "igdb_id": 148715,
@@ -1027242,6 +1027367,11 @@
       "file": "missing/W/156096-wars-across-the-world-carrhae-53.json"
     },
     {
+      "igdb_id": 53138,
+      "game_name": "Wars Across the World: Classic Collection",
+      "file": "missing/W/53138-wars-across-the-world-classic-collection.json"
+    },
+    {
       "igdb_id": 155185,
       "game_name": "Wars Across the World: Columbus 1492",
       "file": "missing/W/155185-wars-across-the-world-columbus-1492.json"
@@ -1027925,6 +1028055,11 @@
       "igdb_id": 20046,
       "game_name": "Wasteland 2: Director's Cut",
       "file": "missing/W/20046-wasteland-2-directors-cut.json"
+    },
+    {
+      "igdb_id": 53134,
+      "game_name": "Wasteland 2: Director's Cut - Digital Deluxe Edition",
+      "file": "missing/W/53134-wasteland-2-directors-cut-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 139893,
@@ -1028820,6 +1028955,11 @@
       "igdb_id": 371604,
       "game_name": "Waterpark Simulator 25",
       "file": "missing/W/371604-waterpark-simulator-25.json"
+    },
+    {
+      "igdb_id": 53133,
+      "game_name": "Waterpark Tycoon",
+      "file": "missing/W/53133-waterpark-tycoon.json"
     },
     {
       "igdb_id": 385852,
@@ -1030482,6 +1030622,11 @@
       "file": "missing/W/253452-weather-dominance.json"
     },
     {
+      "igdb_id": 53132,
+      "game_name": "Weather Lord",
+      "file": "missing/W/53132-weather-lord.json"
+    },
+    {
       "igdb_id": 96770,
       "game_name": "Weather Lord: Following the Princess",
       "file": "missing/W/96770-weather-lord-following-the-princess.json"
@@ -1030505,6 +1030650,11 @@
       "igdb_id": 46872,
       "game_name": "Weather Lord: Hidden Realm",
       "file": "missing/W/46872-weather-lord-hidden-realm.json"
+    },
+    {
+      "igdb_id": 53131,
+      "game_name": "Weather Lord: In Pursuit of the Shaman",
+      "file": "missing/W/53131-weather-lord-in-pursuit-of-the-shaman.json"
     },
     {
       "igdb_id": 46873,
@@ -1031165,6 +1031315,16 @@
       "igdb_id": 288471,
       "game_name": "Weird mister Bogot",
       "file": "missing/W/288471-weird-mister-bogot.json"
+    },
+    {
+      "igdb_id": 53130,
+      "game_name": "Weird Park: Broken Tune",
+      "file": "missing/W/53130-weird-park-broken-tune.json"
+    },
+    {
+      "igdb_id": 53129,
+      "game_name": "Weird Park: Broken Tune - Collector's Edition",
+      "file": "missing/W/53129-weird-park-broken-tune-collectors-edition.json"
     },
     {
       "igdb_id": 53128,
@@ -1036607,6 +1036767,11 @@
       "file": "missing/W/71215-who-owns-the-kangaroo.json"
     },
     {
+      "igdb_id": 53125,
+      "game_name": "Who said Meow",
+      "file": "missing/W/53125-who-said-meow.json"
+    },
+    {
       "igdb_id": 302493,
       "game_name": "Who Shot James R. Burnside?",
       "file": "missing/W/302493-who-shot-james-r-burnside.json"
@@ -1040602,6 +1040767,11 @@
       "file": "missing/W/131520-winter-challenge.json"
     },
     {
+      "igdb_id": 53123,
+      "game_name": "Winter Challenge 2008",
+      "file": "missing/W/53123-winter-challenge-2008.json"
+    },
+    {
       "igdb_id": 52297,
       "game_name": "Winter Cold",
       "file": "missing/W/52297-winter-cold.json"
@@ -1043552,6 +1043722,36 @@
       "file": "missing/W/307617-wloku.json"
     },
     {
+      "igdb_id": 53120,
+      "game_name": "WMS Rome and Egypt Slot Machine",
+      "file": "missing/W/53120-wms-rome-and-egypt-slot-machine.json"
+    },
+    {
+      "igdb_id": 53119,
+      "game_name": "WMS Slots Adventure: War For Olympus",
+      "file": "missing/W/53119-wms-slots-adventure-war-for-olympus.json"
+    },
+    {
+      "igdb_id": 53117,
+      "game_name": "WMS Slots: Ghost Stories",
+      "file": "missing/W/53117-wms-slots-ghost-stories.json"
+    },
+    {
+      "igdb_id": 53116,
+      "game_name": "WMS Slots: Quest for the Fountain",
+      "file": "missing/W/53116-wms-slots-quest-for-the-fountain.json"
+    },
+    {
+      "igdb_id": 53115,
+      "game_name": "WMS Slots: Reel'Em In",
+      "file": "missing/W/53115-wms-slots-reelem-in.json"
+    },
+    {
+      "igdb_id": 53114,
+      "game_name": "WMS Slots: Zeus II",
+      "file": "missing/W/53114-wms-slots-zeus-ii.json"
+    },
+    {
       "igdb_id": 294242,
       "game_name": "WN RPG Hoshi no Kuzure",
       "file": "missing/W/294242-wn-rpg-hoshi-no-kuzure.json"
@@ -1043885,6 +1044085,11 @@
       "igdb_id": 176936,
       "game_name": "Wolf's Wool",
       "file": "missing/W/176936-wolfs-wool.json"
+    },
+    {
+      "igdb_id": 53160,
+      "game_name": "Wolfan",
+      "file": "missing/W/53160-wolfan.json"
     },
     {
       "igdb_id": 138473,
@@ -1047122,6 +1047327,11 @@
       "file": "missing/W/44284-world-basketball-manager-2.json"
     },
     {
+      "igdb_id": 53113,
+      "game_name": "World Basketball Manager 2014",
+      "file": "missing/W/53113-world-basketball-manager-2014.json"
+    },
+    {
       "igdb_id": 9365,
       "game_name": "World Basketball Manager Tycoon",
       "file": "missing/W/9365-world-basketball-manager-tycoon.json"
@@ -1047197,6 +1047407,11 @@
       "file": "missing/W/6237-world-championship-poker.json"
     },
     {
+      "igdb_id": 53110,
+      "game_name": "World Championship Poker 2",
+      "file": "missing/W/53110-world-championship-poker-2.json"
+    },
+    {
       "igdb_id": 6238,
       "game_name": "World Championship Pool 2004",
       "file": "missing/W/6238-world-championship-pool-2004.json"
@@ -1047270,6 +1047485,11 @@
       "igdb_id": 262861,
       "game_name": "World Class Leaderboard Golf",
       "file": "missing/W/262861-world-class-leaderboard-golf.json"
+    },
+    {
+      "igdb_id": 53112,
+      "game_name": "World Class Poker with T.J. Cloutier",
+      "file": "missing/W/53112-world-class-poker-with-t-j-cloutier.json"
     },
     {
       "igdb_id": 37766,
@@ -1047755,6 +1047975,11 @@
       "igdb_id": 415909,
       "game_name": "World Mosaics 5",
       "file": "missing/W/415909-world-mosaics-5.json"
+    },
+    {
+      "igdb_id": 53111,
+      "game_name": "World Mosaics 6",
+      "file": "missing/W/53111-world-mosaics-6.json"
     },
     {
       "igdb_id": 415947,
@@ -1049137,6 +1049362,11 @@
       "file": "missing/W/323546-world-ultimate-mafia.json"
     },
     {
+      "igdb_id": 53109,
+      "game_name": "World Voyage",
+      "file": "missing/W/53109-world-voyage.json"
+    },
+    {
       "igdb_id": 78611,
       "game_name": "World War",
       "file": "missing/W/78611-world-war.json"
@@ -1049155,6 +1049385,11 @@
       "igdb_id": 206615,
       "game_name": "World War 2",
       "file": "missing/W/206615-world-war-2.json"
+    },
+    {
+      "igdb_id": 53107,
+      "game_name": "World War 2 Sniper",
+      "file": "missing/W/53107-world-war-2-sniper.json"
     },
     {
       "igdb_id": 125096,
@@ -1049897,6 +1050132,11 @@
       "file": "missing/W/256907-worldwide-battle-royale.json"
     },
     {
+      "igdb_id": 53106,
+      "game_name": "Worldwide Boxing Manager",
+      "file": "missing/W/53106-worldwide-boxing-manager.json"
+    },
+    {
       "igdb_id": 83427,
       "game_name": "Worldwide Combos",
       "file": "missing/W/83427-worldwide-combos.json"
@@ -1050200,6 +1050440,11 @@
       "igdb_id": 164379,
       "game_name": "Worms Reloaded: Forts Pack",
       "file": "missing/W/164379-worms-reloaded-forts-pack.json"
+    },
+    {
+      "igdb_id": 53105,
+      "game_name": "Worms Reloaded: Game of the Year Edition",
+      "file": "missing/W/53105-worms-reloaded-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 163430,
@@ -1054330,6 +1054575,11 @@
       "igdb_id": 145483,
       "game_name": "X3: Farnham's Legacy",
       "file": "missing/X/145483-x3-farnhams-legacy.json"
+    },
+    {
+      "igdb_id": 53102,
+      "game_name": "X3: GoldBox",
+      "file": "missing/X/53102-x3-goldbox.json"
     },
     {
       "igdb_id": 9320,
