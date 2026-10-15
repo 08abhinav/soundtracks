@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:55:46.189Z",
-  "total_soundtracks": 1698,
+  "generated_at": "2026-10-15T20:10:46.022Z",
+  "total_soundtracks": 1699,
   "games": [
     {
       "igdb_id": 7522,
@@ -13340,6 +13340,20 @@
           "album_name": "Remember Me (feat. Philharmonia Orchestra) [Original Soundtrack]",
           "spotify_url": "https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28548,
+      "game_name": "Remothered: Tormented Fathers",
+      "game_url": "https://ostdb.net/games/remothered-tormented-fathers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ce51182d91583092d58ecc39",
+      "albums": [
+        {
+          "album_name": "Remothered: Tormented Fathers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7H7CzLdpzrIfgfsTb2NTc8",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
