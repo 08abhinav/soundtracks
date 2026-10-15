@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
 | Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb | 374954 | [374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json](./374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json) |
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
+| Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
 | Vintage Story | 69547 | [69547-vintage-story.json](./69547-vintage-story.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
