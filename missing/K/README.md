@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo x Switch | 368113 | [368113-kanojo-x-switch.json](./368113-kanojo-x-switch.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kanojo, Amai Kanojo | 413838 | [413838-kanojo-amai-kanojo.json](./413838-kanojo-amai-kanojo.json) |
+| Kanokon: Esuii | 72556 | [72556-kanokon-esuii.json](./72556-kanokon-esuii.json) |
 | Kanon | 290848 | [290848-kanon.json](./290848-kanon.json) |
 | Kanon | 290878 | [290878-kanon.json](./290878-kanon.json) |
 | Kanon: Best Edition | 290863 | [290863-kanon-best-edition.json](./290863-kanon-best-edition.json) |
@@ -3716,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kou Dai Guai Shou III | 280687 | [280687-kou-dai-guai-shou-iii.json](./280687-kou-dai-guai-shou-iii.json) |
 | Kou-Kyou-Sei Million Arthur | 125771 | [125771-kou-kyou-sei-million-arthur.json](./125771-kou-kyou-sei-million-arthur.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
+| Kouchuu Ouja Mushi King: Greatest Champion he no Michi DS | 72549 | [72549-kouchuu-ouja-mushi-king-greatest-champion-he-no-michi-ds.json](./72549-kouchuu-ouja-mushi-king-greatest-champion-he-no-michi-ds.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
 | Kouchuuouja Mushiking Super Collection | 125810 | [125810-kouchuuouja-mushiking-super-collection.json](./125810-kouchuuouja-mushiking-super-collection.json) |
