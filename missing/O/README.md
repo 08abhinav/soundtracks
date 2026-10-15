@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Race | 18562 | [18562-omega-race.json](./18562-omega-race.json) |
 | Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
+| Omega Reaction | 31635 | [31635-omega-reaction.json](./31635-omega-reaction.json) |
 | Omega Royale | 224163 | [224163-omega-royale.json](./224163-omega-royale.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Space | 304917 | [304917-omega-space.json](./304917-omega-space.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onirike: Collector's Edition | 146124 | [146124-onirike-collectors-edition.json](./146124-onirike-collectors-edition.json) |
 | Onírillo | 302718 | [302718-onirillo.json](./302718-onirillo.json) |
 | Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
+| Oniris Basket VR | 31615 | [31615-oniris-basket-vr.json](./31615-oniris-basket-vr.json) |
 | Onirogu | 181780 | [181780-onirogu.json](./181780-onirogu.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
 | Onironauta Desert Dream | 398341 | [398341-onironauta-desert-dream.json](./398341-onironauta-desert-dream.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
 | Oraga Land Shusai: Best Farmer Shuukaku-Sai | 44382 | [44382-oraga-land-shusai-best-farmer-shuukaku-sai.json](./44382-oraga-land-shusai-best-farmer-shuukaku-sai.json) |
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
+| Orake 2D MMORPG | 31634 | [31634-orake-2d-mmorpg.json](./31634-orake-2d-mmorpg.json) |
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Oran's Table | 242456 | [242456-orans-table.json](./242456-orans-table.json) |
