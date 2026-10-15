@@ -5802,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
+| Gravity Wars | 64837 | [64837-gravity-wars.json](./64837-gravity-wars.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
@@ -7403,6 +7404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunOre | 350511 | [350511-gunore.json](./350511-gunore.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
+| Gunparade Orchestra: Midori no Shou | 64882 | [64882-gunparade-orchestra-midori-no-shou.json](./64882-gunparade-orchestra-midori-no-shou.json) |
+| Gunparade Orchestra: Shiro no Shou | 64886 | [64886-gunparade-orchestra-shiro-no-shou.json](./64886-gunparade-orchestra-shiro-no-shou.json) |
 | Gunpey | 127045 | [127045-gunpey.json](./127045-gunpey.json) |
 | Gunpey | 1350 | [1350-gunpey.json](./1350-gunpey.json) |
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
