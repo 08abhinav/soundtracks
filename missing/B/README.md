@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
+| Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | BAM | 271386 | [271386-bam.json](./271386-bam.json) |
