@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
+| Laxius Force III | 24731 | [24731-laxius-force-iii.json](./24731-laxius-force-iii.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Power III | 57597 | [57597-laxius-power-iii.json](./57597-laxius-power-iii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
 | Lemmings Paintball | 13780 | [13780-lemmings-paintball.json](./13780-lemmings-paintball.json) |
 | Lemmings Return | 240377 | [240377-lemmings-return.json](./240377-lemmings-return.json) |
+| Lemmings Touch | 23494 | [23494-lemmings-touch.json](./23494-lemmings-touch.json) |
 | Lemmings Tribes | 240378 | [240378-lemmings-tribes.json](./240378-lemmings-tribes.json) |
 | Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
 | Leprechaun | 229828 | [229828-leprechaun.json](./229828-leprechaun.json) |
+| Leprechaun | 23511 | [23511-leprechaun.json](./23511-leprechaun.json) |
 | Leprechaun Shadow | 111698 | [111698-leprechaun-shadow.json](./111698-leprechaun-shadow.json) |
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lepur | 81765 | [81765-lepur.json](./81765-lepur.json) |
@@ -2585,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
 | Let's Play Journalists | 377615 | [377615-lets-play-journalists.json](./377615-lets-play-journalists.json) |
 | Let's Play Mums | 92654 | [92654-lets-play-mums.json](./92654-lets-play-mums.json) |
+| Let's Play Pet Hospital | 24744 | [24744-lets-play-pet-hospital.json](./24744-lets-play-pet-hospital.json) |
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play: Ancient Greek Punishment - Teaches Typing | 146668 | [146668-lets-play-ancient-greek-punishment-teaches-typing.json](./146668-lets-play-ancient-greek-punishment-teaches-typing.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
@@ -3669,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
+| Lineage 2: Goddess of Destruction | 23530 | [23530-lineage-2-goddess-of-destruction.json](./23530-lineage-2-goddess-of-destruction.json) |
 | Lineage 2: Revolution | 75977 | [75977-lineage-2-revolution.json](./75977-lineage-2-revolution.json) |
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
@@ -4657,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | LocO-SportS | 147744 | [147744-loco-sports.json](./147744-loco-sports.json) |
+| Loco: Evolution | 23532 | [23532-loco-evolution.json](./23532-loco-evolution.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
@@ -5065,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Wacky World of Sports | 306142 | [306142-looney-tunes-wacky-world-of-sports.json](./306142-looney-tunes-wacky-world-of-sports.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
+| Loong: The Power of the Dragon | 23526 | [23526-loong-the-power-of-the-dragon.json](./23526-loong-the-power-of-the-dragon.json) |
 | Loonies 8192 | 175654 | [175654-loonies-8192.json](./175654-loonies-8192.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
@@ -5304,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
+| Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
@@ -5734,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
 | Lost to Time | 143446 | [143446-lost-to-time.json](./143446-lost-to-time.json) |
+| Lost Tomb | 23503 | [23503-lost-tomb.json](./23503-lost-tomb.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -6188,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving Flesh | 177264 | [177264-loving-flesh.json](./177264-loving-flesh.json) |
+| Loving Life | 25494 | [25494-loving-life.json](./25494-loving-life.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
