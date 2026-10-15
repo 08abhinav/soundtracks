@@ -8425,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
+| Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
