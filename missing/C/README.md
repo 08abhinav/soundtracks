@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliper 2 | 118226 | [118226-caliper-2.json](./118226-caliper-2.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
+| Calixto Island | 36910 | [36910-calixto-island.json](./36910-calixto-island.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
+| Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
 | Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
@@ -6191,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: The Hunter's Heart | 417655 | [417655-city-of-stories-the-hunters-heart.json](./417655-city-of-stories-the-hunters-heart.json) |
 | City of Stories: The Hunter's Heart - Collector's Edition | 367607 | [367607-city-of-stories-the-hunters-heart-collectors-edition.json](./367607-city-of-stories-the-hunters-heart-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
+| City of the Dead | 36835 | [36835-city-of-the-dead.json](./36835-city-of-the-dead.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
 | City of the Shroud | 18354 | [18354-city-of-the-shroud.json](./18354-city-of-the-shroud.json) |
 | City of the Undead | 225557 | [225557-city-of-the-undead.json](./225557-city-of-the-undead.json) |
