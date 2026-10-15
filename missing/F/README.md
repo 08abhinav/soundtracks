@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
+| Flamingo Tours | 70281 | [70281-flamingo-tours.json](./70281-flamingo-tours.json) |
 | Flammenwerfer | 307169 | [307169-flammenwerfer.json](./307169-flammenwerfer.json) |
 | Flan | 116263 | [116263-flan.json](./116263-flan.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
