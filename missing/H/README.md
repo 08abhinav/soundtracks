@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
+| Heisei Tensai Bakabon: Susume! Bakabons | 70877 | [70877-heisei-tensai-bakabon-susume-bakabons.json](./70877-heisei-tensai-bakabon-susume-bakabons.json) |
 | Heisen Bay | 156908 | [156908-heisen-bay.json](./156908-heisen-bay.json) |
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
 | Hero Jumper | 220034 | [220034-hero-jumper.json](./220034-hero-jumper.json) |
 | Hero Keeper | 125183 | [125183-hero-keeper.json](./125183-hero-keeper.json) |
+| Hero Kid | 70871 | [70871-hero-kid.json](./70871-hero-kid.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Lilith | 189919 | [189919-hero-lilith.json](./189919-hero-lilith.json) |
@@ -3977,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
+| Heroes 2: The Undead King | 70847 | [70847-heroes-2-the-undead-king.json](./70847-heroes-2-the-undead-king.json) |
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
