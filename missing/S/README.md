@@ -4821,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
+| Shakii the Wolf | 73195 | [73195-shakii-the-wolf.json](./73195-shakii-the-wolf.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
 | Shaky Ground: Apocollapse | 270652 | [270652-shaky-ground-apocollapse.json](./270652-shaky-ground-apocollapse.json) |
@@ -5091,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
 | Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
+| Sharkey's Moll | 73156 | [73156-sharkeys-moll.json](./73156-sharkeys-moll.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
@@ -8144,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
+| Ski Resort Tycoon II | 73177 | [73177-ski-resort-tycoon-ii.json](./73177-ski-resort-tycoon-ii.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
@@ -9997,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaliens | 128346 | [128346-snaliens.json](./128346-snaliens.json) |
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
 | Snap & Print | 412248 | [412248-snap-and-print.json](./412248-snap-and-print.json) |
+| Snap Dragon | 73189 | [73189-snap-dragon.json](./73189-snap-dragon.json) |
 | Snap Fishing | 183821 | [183821-snap-fishing.json](./183821-snap-fishing.json) |
 | Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
@@ -15466,6 +15470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
+| Spy Kids Learning Adventures: Mission - The Nightmare Machine | 73205 | [73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Nightmare Machine | 77641 | [77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
 | Spy Kids: All the Time in the World | 124058 | [124058-spy-kids-all-the-time-in-the-world.json](./124058-spy-kids-all-the-time-in-the-world.json) |
