@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
+| Earth Vs Moon | 63206 | [63206-earth-vs-moon.json](./63206-earth-vs-moon.json) |
 | Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
 | Earth Warrior | 155853 | [155853-earth-warrior.json](./155853-earth-warrior.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
 | Endless Nights RPG | 223628 | [223628-endless-nights-rpg.json](./223628-endless-nights-rpg.json) |
 | Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
+| Endless Nuclear Kittens | 63199 | [63199-endless-nuclear-kittens.json](./63199-endless-nuclear-kittens.json) |
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
 | Endless Ocean: Blue World | 4833 | [4833-endless-ocean-blue-world.json](./4833-endless-ocean-blue-world.json) |
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
@@ -2512,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Pinball | 243573 | [243573-endless-pinball.json](./243573-endless-pinball.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
+| Endless Racing Game | 63204 | [63204-endless-racing-game.json](./63204-endless-racing-game.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
