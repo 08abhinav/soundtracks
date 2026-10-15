@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beast: Bio Exo Arena Suit Team | 287551 | [287551-beast-bio-exo-arena-suit-team.json](./287551-beast-bio-exo-arena-suit-team.json) |
+| Beast's Fury | 61004 | [61004-beasts-fury.json](./61004-beasts-fury.json) |
 | Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
@@ -3707,7 +3708,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 5th style | 72913 | [72913-beatmania-iidx-5th-style.json](./72913-beatmania-iidx-5th-style.json) |
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
+| beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
+| Beatmania III: Append 6thMix | 61019 | [61019-beatmania-iii-append-6thmix.json](./61019-beatmania-iii-append-6thmix.json) |
+| Beatmania III: Append 7thMix - keepin' Evolution | 61020 | [61020-beatmania-iii-append-7thmix-keepin-evolution.json](./61020-beatmania-iii-append-7thmix-keepin-evolution.json) |
+| Beatmania III: Append Core Remix | 61018 | [61018-beatmania-iii-append-core-remix.json](./61018-beatmania-iii-append-core-remix.json) |
 | Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
 | Beatmons 2 | 267004 | [267004-beatmons-2.json](./267004-beatmons-2.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
@@ -8242,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
 | Boki: The Summit | 271913 | [271913-boki-the-summit.json](./271913-boki-the-summit.json) |
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
+| Bokosuka Girls: Tatsunoko Gakuen Climax | 60980 | [60980-bokosuka-girls-tatsunoko-gakuen-climax.json](./60980-bokosuka-girls-tatsunoko-gakuen-climax.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Bokosuka Wars | 48540 | [48540-bokosuka-wars.json](./48540-bokosuka-wars.json) |
 | Bokosuka Wars II | 56884 | [56884-bokosuka-wars-ii.json](./56884-bokosuka-wars-ii.json) |
