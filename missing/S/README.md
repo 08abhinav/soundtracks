@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
 | SD Gundam Force: Showdown! | 44720 | [44720-sd-gundam-force-showdown.json](./44720-sd-gundam-force-showdown.json) |
+| SD Gundam G Generation | 66588 | [66588-sd-gundam-g-generation.json](./66588-sd-gundam-g-generation.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 2 | 238466 | [238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json](./238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
+| SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
+| Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
 | Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
 | Simon Says... | 76987 | [76987-simon-says.json](./76987-simon-says.json) |
@@ -9846,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
+| Snack King | 66562 | [66562-snack-king.json](./66562-snack-king.json) |
 | Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -10836,6 +10840,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
+| Sokoman | 66575 | [66575-sokoman.json](./66575-sokoman.json) |
+| Sokoman 2 | 66576 | [66576-sokoman-2.json](./66576-sokoman-2.json) |
+| Sokoman 3: Jack's Sokoman | 66574 | [66574-sokoman-3-jacks-sokoman.json](./66574-sokoman-3-jacks-sokoman.json) |
+| Sokoman 4 | 66573 | [66573-sokoman-4.json](./66573-sokoman-4.json) |
 | SokoMania | 76167 | [76167-sokomania.json](./76167-sokomania.json) |
 | Sokomania 2: Cool Job | 61460 | [61460-sokomania-2-cool-job.json](./61460-sokomania-2-cool-job.json) |
 | SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
@@ -12536,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
+| Soul Surfer | 66566 | [66566-soul-surfer.json](./66566-soul-surfer.json) |
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
