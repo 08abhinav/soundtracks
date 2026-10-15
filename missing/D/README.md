@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaiju no Gyakushu | 65393 | [65393-daikaiju-no-gyakushu.json](./65393-daikaiju-no-gyakushu.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
+| Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai II | 351143 | [351143-daikoukai-jidai-ii.json](./351143-daikoukai-jidai-ii.json) |
