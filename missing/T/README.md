@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
 | Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
+| Teen Titans 2 | 49214 | [49214-teen-titans-2.json](./49214-teen-titans-2.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
@@ -6564,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
+| The Flintstones: Big Trouble in Bedrock | 49194 | [49194-the-flintstones-big-trouble-in-bedrock.json](./49194-the-flintstones-big-trouble-in-bedrock.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
@@ -10692,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
 | The Ripper: Serial Killers | 242586 | [242586-the-ripper-serial-killers.json](./242586-the-ripper-serial-killers.json) |
+| The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
 | The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
@@ -10898,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scorchfarer | 153535 | [153535-the-scorchfarer.json](./153535-the-scorchfarer.json) |
 | The Scorpion King: Rise of the Akkadian | 4096 | [4096-the-scorpion-king-rise-of-the-akkadian.json](./4096-the-scorpion-king-rise-of-the-akkadian.json) |
+| The Scorpion King: Sword of Osiris | 49236 | [49236-the-scorpion-king-sword-of-osiris.json](./49236-the-scorpion-king-sword-of-osiris.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scoundrels Guild: A Tale of Thieves | 60998 | [60998-the-scoundrels-guild-a-tale-of-thieves.json](./60998-the-scoundrels-guild-a-tale-of-thieves.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
@@ -17575,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
+| Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
