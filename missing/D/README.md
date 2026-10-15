@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
+| Day of the Trumplings | 31622 | [31622-day-of-the-trumplings.json](./31622-day-of-the-trumplings.json) |
 | Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
 | Day of the Viking | 193682 | [193682-day-of-the-viking.json](./193682-day-of-the-viking.json) |
 | Day of the Viper | 12039 | [12039-day-of-the-viper.json](./12039-day-of-the-viper.json) |
@@ -10172,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
+| Dragon Skies VR | 31573 | [31573-dragon-skies-vr.json](./31573-dragon-skies-vr.json) |
 | Dragon Slaughter | 144604 | [144604-dragon-slaughter.json](./144604-dragon-slaughter.json) |
 | Dragon Slayer | 250231 | [250231-dragon-slayer.json](./250231-dragon-slayer.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
@@ -11416,6 +11418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Mania | 73716 | [73716-drop-mania.json](./73716-drop-mania.json) |
 | Drop Not! | 103217 | [103217-drop-not.json](./103217-drop-not.json) |
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
+| Drop Out 0 | 31594 | [31594-drop-out-0.json](./31594-drop-out-0.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
