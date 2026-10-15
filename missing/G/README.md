@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
+| Glow Glow Firefly | 70318 | [70318-glow-glow-firefly.json](./70318-glow-glow-firefly.json) |
 | Glow Hockey | 103694 | [103694-glow-hockey.json](./103694-glow-hockey.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
+| Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
