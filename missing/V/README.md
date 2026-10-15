@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Race | 114281 | [114281-victory-race.json](./114281-victory-race.json) |
 | Victory Road | 131819 | [131819-victory-road.json](./131819-victory-road.json) |
 | Victory Run | 42118 | [42118-victory-run.json](./42118-victory-run.json) |
+| Victory Wings: Zero Pilot Series | 59351 | [59351-victory-wings-zero-pilot-series.json](./59351-victory-wings-zero-pilot-series.json) |
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
