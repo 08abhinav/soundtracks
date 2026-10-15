@@ -10580,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
 | Snowy: Treasure Hunter | 74010 | [74010-snowy-treasure-hunter.json](./74010-snowy-treasure-hunter.json) |
+| Snowy: Treasure Hunter 3 | 57584 | [57584-snowy-treasure-hunter-3.json](./57584-snowy-treasure-hunter-3.json) |
 | Snowyland | 187156 | [187156-snowyland.json](./187156-snowyland.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
@@ -14314,6 +14315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
+| Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
