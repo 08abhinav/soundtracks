@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi: Unmei no Kousaten | 279745 | [279745-machi-unmei-no-kousaten.json](./279745-machi-unmei-no-kousaten.json) |
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
 | Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
+| Machiavelli's Ascent | 68549 | [68549-machiavellis-ascent.json](./68549-machiavellis-ascent.json) |
 | Machick | 293342 | [293342-machick.json](./293342-machick.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
+| Magic matchstick | 68580 | [68580-magic-matchstick.json](./68580-magic-matchstick.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Maze | 337598 | [337598-magic-maze.json](./337598-magic-maze.json) |
@@ -3907,6 +3909,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
 | Mathematical Run - Learn math by playing | 89043 | [89043-mathematical-run-learn-math-by-playing.json](./89043-mathematical-run-learn-math-by-playing.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
+| Mathematik I | 68561 | [68561-mathematik-i.json](./68561-mathematik-i.json) |
+| Mathematik II | 68563 | [68563-mathematik-ii.json](./68563-mathematik-ii.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
@@ -4054,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Strong 2 | 310605 | [310605-max-strong-2.json](./310605-max-strong-2.json) |
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
 | Max Surfing 2nd | 398002 | [398002-max-surfing-2nd.json](./398002-max-surfing-2nd.json) |
+| Max the Frog | 68551 | [68551-max-the-frog.json](./68551-max-the-frog.json) |
 | Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
@@ -5773,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Meltys Quest | 74368 | [74368-meltys-quest.json](./74368-meltys-quest.json) |
 | Meluo and the Eyes of Hollow | 374607 | [374607-meluo-and-the-eyes-of-hollow.json](./374607-meluo-and-the-eyes-of-hollow.json) |
+| Melvin's Meltdown | 68552 | [68552-melvins-meltdown.json](./68552-melvins-meltdown.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle 2 | 341622 | [341622-melvor-idle-2.json](./341622-melvor-idle-2.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
@@ -5840,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
 | Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
+| Memorania | 68550 | [68550-memorania.json](./68550-memorania.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
@@ -5999,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
+| MemoStomp | 68553 | [68553-memostomp.json](./68553-memostomp.json) |
 | MemoTrimo | 84471 | [84471-memotrimo.json](./84471-memotrimo.json) |
 | MemoUp | 102708 | [102708-memoup.json](./102708-memoup.json) |
 | Memoware | 381280 | [381280-memoware.json](./381280-memoware.json) |
@@ -7047,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
+| Micro Invasion | 68554 | [68554-micro-invasion.json](./68554-micro-invasion.json) |
 | Micro Knight 4 | 195996 | [195996-micro-knight-4.json](./195996-micro-knight-4.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
 | Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
@@ -9368,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
+| Mithra - Episode 1, Chapter 1 | 68555 | [68555-mithra-episode-1-chapter-1.json](./68555-mithra-episode-1-chapter-1.json) |
 | Mithra Dream Battle | 227741 | [227741-mithra-dream-battle.json](./227741-mithra-dream-battle.json) |
 | Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
@@ -10111,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
+| Monaco 360: Retro Racing | 68556 | [68556-monaco-360-retro-racing.json](./68556-monaco-360-retro-racing.json) |
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
@@ -11729,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moth-Kubit Grimes | 202777 | [202777-moth-kubit-grimes.json](./202777-moth-kubit-grimes.json) |
 | Moth: A Dating Sim | 419993 | [419993-moth-a-dating-sim.json](./419993-moth-a-dating-sim.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
+| MothBallz | 68557 | [68557-mothballz.json](./68557-mothballz.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother | 133707 | [133707-mother.json](./133707-mother.json) |
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
