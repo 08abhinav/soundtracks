@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
+| 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
+| 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Bricks | 252618 | [252618-99-bricks.json](./252618-99-bricks.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
