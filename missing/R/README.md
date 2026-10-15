@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raildale | 101002 | [101002-raildale.json](./101002-raildale.json) |
 | Railed | 112862 | [112862-railed.json](./112862-railed.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
+| Railfan | 10741 | [10741-railfan.json](./10741-railfan.json) |
 | Railfan: Taiwan High Speed Rail | 10742 | [10742-railfan-taiwan-high-speed-rail.json](./10742-railfan-taiwan-high-speed-rail.json) |
 | Railgun | 110250 | [110250-railgun.json](./110250-railgun.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
@@ -1910,7 +1911,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
 | Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
+| Reading Blaster 2000 | 10676 | [10676-reading-blaster-2000.json](./10676-reading-blaster-2000.json) |
 | Reading Blaster: Ages 9-12 | 191530 | [191530-reading-blaster-ages-9-12.json](./191530-reading-blaster-ages-9-12.json) |
+| Reading Blaster: Invasion of the Word Snatchers | 10674 | [10674-reading-blaster-invasion-of-the-word-snatchers.json](./10674-reading-blaster-invasion-of-the-word-snatchers.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
