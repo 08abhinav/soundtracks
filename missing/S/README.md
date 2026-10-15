@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Fools: Aquapocalypse Edition | 277906 | [277906-ship-of-fools-aquapocalypse-edition.json](./277906-ship-of-fools-aquapocalypse-edition.json) |
 | Ship of Fools: Deep Sea Duo | 277910 | [277910-ship-of-fools-deep-sea-duo.json](./277910-ship-of-fools-deep-sea-duo.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
+| Ship of Heroes | 27515 | [27515-ship-of-heroes.json](./27515-ship-of-heroes.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
@@ -17866,6 +17867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
+| Steel Combat | 27500 | [27500-steel-combat.json](./27500-steel-combat.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Core | 414134 | [414134-steel-core.json](./414134-steel-core.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
@@ -19748,6 +19750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
 | Styx: Shards of Darkness | 13554 | [13554-styx-shards-of-darkness.json](./13554-styx-shards-of-darkness.json) |
+| Su and the Quest for meaning | 27532 | [27532-su-and-the-quest-for-meaning.json](./27532-su-and-the-quest-for-meaning.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
