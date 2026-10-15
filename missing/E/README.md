@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
+| Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
@@ -4788,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
+| Evil Seal | 46449 | [46449-evil-seal.json](./46449-evil-seal.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
