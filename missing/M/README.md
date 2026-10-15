@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
 | Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
+| Match More | 32671 | [32671-match-more.json](./32671-match-more.json) |
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
 | Match of the Day: Kevin Keegan's Electronic Action Soccer Game | 245450 | [245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json](./245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json) |
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
 | Memory Novel: The Sex Sauna | 286474 | [286474-memory-novel-the-sex-sauna.json](./286474-memory-novel-the-sex-sauna.json) |
 | Memory Novel: The Threesome | 286477 | [286477-memory-novel-the-threesome.json](./286477-memory-novel-the-threesome.json) |
+| Memory Oblivion Box | 32630 | [32630-memory-oblivion-box.json](./32630-memory-oblivion-box.json) |
 | Memory Oblivion: CnGalGirl | 393824 | [393824-memory-oblivion-cngalgirl.json](./393824-memory-oblivion-cngalgirl.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
@@ -8623,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
 | Mini Golf Mayhem | 129500 | [129500-mini-golf-mayhem.json](./129500-mini-golf-mayhem.json) |
+| Mini Golf Mundo | 32669 | [32669-mini-golf-mundo.json](./32669-mini-golf-mundo.json) |
 | Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
 | Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
