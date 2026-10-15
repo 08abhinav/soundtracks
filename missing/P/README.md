@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
 | Pet Pals 2: Best of Friends | 229233 | [229233-pet-pals-2-best-of-friends.json](./229233-pet-pals-2-best-of-friends.json) |
+| Pet Pals: Animal Doctor | 5093 | [5093-pet-pals-animal-doctor.json](./5093-pet-pals-animal-doctor.json) |
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
 | PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
@@ -3504,8 +3505,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz Wild Animals: Dolphinz | 47902 | [47902-petz-wild-animals-dolphinz.json](./47902-petz-wild-animals-dolphinz.json) |
+| Petz: Catz 2 | 5095 | [5095-petz-catz-2.json](./5095-petz-catz-2.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Catz Playground | 401138 | [401138-petz-catz-playground.json](./401138-petz-catz-playground.json) |
+| Petz: Dogz 2 | 5094 | [5094-petz-dogz-2.json](./5094-petz-dogz-2.json) |
 | Petz: Dogz Fashion | 123373 | [123373-petz-dogz-fashion.json](./123373-petz-dogz-fashion.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
@@ -8825,7 +8828,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous | 248 | [248-populous.json](./248-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
+| Populous II: The Challenge Games | 8896 | [8896-populous-ii-the-challenge-games.json](./8896-populous-ii-the-challenge-games.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
+| Populous: The Beginning - Undiscovered Worlds | 8897 | [8897-populous-the-beginning-undiscovered-worlds.json](./8897-populous-the-beginning-undiscovered-worlds.json) |
+| Populous: The Final Frontier | 8894 | [8894-populous-the-final-frontier.json](./8894-populous-the-final-frontier.json) |
+| Populous: The Promised Lands | 8893 | [8893-populous-the-promised-lands.json](./8893-populous-the-promised-lands.json) |
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
@@ -12144,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
+| Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrate Adventure: Volcano Isle | 200382 | [200382-purrate-adventure-volcano-isle.json](./200382-purrate-adventure-volcano-isle.json) |
@@ -12452,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
+| Puzzle Challenge: Crosswords and More | 5112 | [5112-puzzle-challenge-crosswords-and-more.json](./5112-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
