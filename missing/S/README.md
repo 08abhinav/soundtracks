@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Art: Jigsaw Puzzle | 106748 | [106748-science-art-jigsaw-puzzle.json](./106748-science-art-jigsaw-puzzle.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
+| Science Kombat | 58686 | [58686-science-kombat.json](./58686-science-kombat.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Show VR: The Abyss | 128265 | [128265-science-show-vr-the-abyss.json](./128265-science-show-vr-the-abyss.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
+| Secret Agent Cinder | 58702 | [58702-secret-agent-cinder.json](./58702-secret-agent-cinder.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
 | Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
@@ -5675,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
+| Shin SD Sengokuden: Daishogun Retsuden | 58677 | [58677-shin-sd-sengokuden-daishogun-retsuden.json](./58677-shin-sd-sengokuden-daishogun-retsuden.json) |
 | Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
@@ -6966,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
+| Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
@@ -8018,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
 | Skate City Heroes | 21120 | [21120-skate-city-heroes.json](./21120-skate-city-heroes.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
+| Skate Crazy | 58730 | [58730-skate-crazy.json](./58730-skate-crazy.json) |
 | Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
 | Skate Forever | 151497 | [151497-skate-forever.json](./151497-skate-forever.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
@@ -8636,7 +8641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 11058 | [11058-skylanders-superchargers.json](./11058-skylanders-superchargers.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
-| Skylanders: Trap Team | 8509 | [8509-skylanders-trap-team.json](./8509-skylanders-trap-team.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
 | Skylar & Plux: Adventure on Clover Island | 28066 | [28066-skylar-and-plux-adventure-on-clover-island.json](./28066-skylar-and-plux-adventure-on-clover-island.json) |
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
@@ -11641,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle Force | 332649 | [332649-sonic-battle-force.json](./332649-sonic-battle-force.json) |
 | Sonic Battle R | 169233 | [169233-sonic-battle-r.json](./169233-sonic-battle-r.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
+| Sonic Beat | 58689 | [58689-sonic-beat.json](./58689-sonic-beat.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
@@ -14345,6 +14350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
+| Spellbinders | 58708 | [58708-spellbinders.json](./58708-spellbinders.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbook Demonslayers | 209740 | [209740-spellbook-demonslayers.json](./209740-spellbook-demonslayers.json) |
 | Spellbook Demonslayers NSFW | 297743 | [297743-spellbook-demonslayers-nsfw.json](./297743-spellbook-demonslayers-nsfw.json) |
@@ -14735,6 +14741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpikerMan X | 247947 | [247947-spikerman-x.json](./247947-spikerman-x.json) |
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
+| Spikes Have Rage | 58716 | [58716-spikes-have-rage.json](./58716-spikes-have-rage.json) |
 | Spikeventure | 345641 | [345641-spikeventure.json](./345641-spikeventure.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
@@ -21817,6 +21824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Meatball | 147779 | [147779-super-meatball.json](./147779-super-meatball.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
+| Super Mechs | 58688 | [58688-super-mechs.json](./58688-super-mechs.json) |
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
@@ -22113,6 +22121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
 | Super Real Mahjong PV | 342019 | [342019-super-real-mahjong-pv.json](./342019-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV | 4303 | [4303-super-real-mahjong-pv.json](./4303-super-real-mahjong-pv.json) |
+| Super Real Mahjong PV Paradise: All-Star 4-nin Uchi | 58679 | [58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json](./58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json) |
 | Super Real Mahjong PV: Paradise | 42227 | [42227-super-real-mahjong-pv-paradise.json](./42227-super-real-mahjong-pv-paradise.json) |
 | Super Real Mahjong PVI | 342131 | [342131-super-real-mahjong-pvi.json](./342131-super-real-mahjong-pvi.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
