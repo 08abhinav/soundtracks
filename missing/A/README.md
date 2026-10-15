@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
+| Abductor | 41192 | [41192-abductor.json](./41192-abductor.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Ac󠀠id Ra󠀠in | 187886 | [187886-ac-id-ra-in.json](./187886-ac-id-ra-in.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
+| Acid Runner | 41206 | [41206-acid-runner.json](./41206-acid-runner.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Trip | 188900 | [188900-acid-trip.json](./188900-acid-trip.json) |
 | Acid Web | 327450 | [327450-acid-web.json](./327450-acid-web.json) |
@@ -2217,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
+| Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
 | Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Dwarf | 231275 | [231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json](./231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json) |
 | Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Felpurr | 231276 | [231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json](./231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
@@ -3235,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
+| Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
