@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZK1L4 | 373213 | [373213-zk1l4.json](./373213-zk1l4.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
 | Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
+| Zlatogorye 2 | 19122 | [19122-zlatogorye-2.json](./19122-zlatogorye-2.json) |
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
