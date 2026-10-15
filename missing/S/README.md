@@ -18911,6 +18911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
+| Strange Brigade | 36832 | [36832-strange-brigade.json](./36832-strange-brigade.json) |
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
 | Strange Brigade: The Thrice Damned 1 - Isle of the Dead | 110842 | [110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json](./110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json) |
 | Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
@@ -19457,6 +19458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
+| Strider | 6969 | [6969-strider.json](./6969-strider.json) |
 | Strider | 74421 | [74421-strider.json](./74421-strider.json) |
 | Strider 2 | 5923 | [5923-strider-2.json](./5923-strider-2.json) |
 | Strider Hiryuu | 204250 | [204250-strider-hiryuu.json](./204250-strider-hiryuu.json) |
@@ -19924,6 +19926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
+| Submerged | 11409 | [11409-submerged.json](./11409-submerged.json) |
 | Submerged | 182813 | [182813-submerged.json](./182813-submerged.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
