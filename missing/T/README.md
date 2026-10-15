@@ -8160,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
+| The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
 | The Last AntLion | 120753 | [120753-the-last-antlion.json](./120753-the-last-antlion.json) |
@@ -20971,6 +20972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
+| Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
