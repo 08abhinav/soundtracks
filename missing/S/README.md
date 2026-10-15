@@ -3552,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
+| Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
+| Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 37626 | [37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
@@ -15118,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
+| Splash Lake | 37610 | [37610-splash-lake.json](./37610-splash-lake.json) |
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
@@ -15543,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
+| Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Spriggan: Lunar Verse | 43768 | [43768-spriggan-lunar-verse.json](./43768-spriggan-lunar-verse.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
@@ -16464,6 +16468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
+| Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
@@ -19337,6 +19342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider | 74421 | [74421-strider.json](./74421-strider.json) |
 | Strider 2 | 5923 | [5923-strider-2.json](./5923-strider-2.json) |
 | Strider Hiryuu | 204250 | [204250-strider-hiryuu.json](./204250-strider-hiryuu.json) |
+| Strider Hiryuu | 37620 | [37620-strider-hiryuu.json](./37620-strider-hiryuu.json) |
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
@@ -20754,6 +20760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
+| Super Air Zonk | 37609 | [37609-super-air-zonk.json](./37609-super-air-zonk.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
@@ -24403,6 +24410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
 | Syco Realm VR | 337042 | [337042-syco-realm-vr.json](./337042-syco-realm-vr.json) |
 | Sycophant | 396497 | [396497-sycophant.json](./396497-sycophant.json) |
+| Syd Mead's Terraforming | 37614 | [37614-syd-meads-terraforming.json](./37614-syd-meads-terraforming.json) |
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
@@ -24418,6 +24426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylia | 10893 | [10893-sylia.json](./10893-sylia.json) |
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
+| Sylphia | 37598 | [37598-sylphia.json](./37598-sylphia.json) |
 | Sylva: Curse of the Demon Woods | 392245 | [392245-sylva-curse-of-the-demon-woods.json](./392245-sylva-curse-of-the-demon-woods.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
