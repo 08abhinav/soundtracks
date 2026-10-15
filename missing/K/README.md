@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
 | Knight Empire Online | 130719 | [130719-knight-empire-online.json](./130719-knight-empire-online.json) |
 | Knight Eternal | 123973 | [123973-knight-eternal.json](./123973-knight-eternal.json) |
+| Knight Fever | 70846 | [70846-knight-fever.json](./70846-knight-fever.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
