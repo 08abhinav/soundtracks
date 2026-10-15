@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
 | King Colossus | 46524 | [46524-king-colossus.json](./46524-king-colossus.json) |
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
+| King Cribbage | 73209 | [73209-king-cribbage.json](./73209-king-cribbage.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King Drift and Hajwalah | 287554 | [287554-king-drift-and-hajwalah.json](./287554-king-drift-and-hajwalah.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
+| Kingdom O' Magic | 73193 | [73193-kingdom-o-magic.json](./73193-kingdom-o-magic.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
@@ -2880,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
+| Klondike Solitaire | 73183 | [73183-klondike-solitaire.json](./73183-klondike-solitaire.json) |
 | Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
