@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
 | Yokai Art: Survival | 254036 | [254036-yokai-art-survival.json](./254036-yokai-art-survival.json) |
+| Yokai Buster: Ruka no Daibouken | 38190 | [38190-yokai-buster-ruka-no-daibouken.json](./38190-yokai-buster-ruka-no-daibouken.json) |
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
 | Yokai Inn | 152181 | [152181-yokai-inn.json](./152181-yokai-inn.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
