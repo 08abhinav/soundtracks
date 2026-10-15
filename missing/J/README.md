@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
+| Jamaika Mu | 56358 | [56358-jamaika-mu.json](./56358-jamaika-mu.json) |
 | Jamal Et MehdiI: The Quest for the iencli | 217488 | [217488-jamal-et-mehdii-the-quest-for-the-iencli.json](./217488-jamal-et-mehdii-the-quest-for-the-iencli.json) |
 | Jamal Jones: Hell's Executioner | 263001 | [263001-jamal-jones-hells-executioner.json](./263001-jamal-jones-hells-executioner.json) |
 | Jamal Jones: In Judgment of Evil | 262999 | [262999-jamal-jones-in-judgment-of-evil.json](./262999-jamal-jones-in-judgment-of-evil.json) |
@@ -510,9 +511,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Prime Minister: Yamato Soichiro | 97535 | [97535-japanese-prime-minister-yamato-soichiro.json](./97535-japanese-prime-minister-yamato-soichiro.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
+| Japanese Rail Sim 3D Journey in Suburbs #1 | 56373 | [56373-japanese-rail-sim-3d-journey-in-suburbs-1.json](./56373-japanese-rail-sim-3d-journey-in-suburbs-1.json) |
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.2 | 85198 | [85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json](./85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json) |
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.3 | 85211 | [85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json](./85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json) |
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.4 | 85210 | [85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json](./85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json) |
+| Japanese Rail Sim 3D Journey in suburbs #2 | 56362 | [56362-japanese-rail-sim-3d-journey-in-suburbs-2.json](./56362-japanese-rail-sim-3d-journey-in-suburbs-2.json) |
 | Japanese Rail Sim 3D Monorail Trip to Okinawa | 85209 | [85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json](./85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json) |
 | Japanese Rail Sim 3D Travel of Steam | 77668 | [77668-japanese-rail-sim-3d-travel-of-steam.json](./77668-japanese-rail-sim-3d-travel-of-steam.json) |
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
