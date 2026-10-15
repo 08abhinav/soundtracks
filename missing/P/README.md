@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Tunisia '43 Gold | 124734 | [124734-panzer-campaigns-tunisia-43-gold.json](./124734-panzer-campaigns-tunisia-43-gold.json) |
 | Panzer Command: Kharkov | 72745 | [72745-panzer-command-kharkov.json](./72745-panzer-command-kharkov.json) |
 | Panzer Command: Operation Winter Storm | 72744 | [72744-panzer-command-operation-winter-storm.json](./72744-panzer-command-operation-winter-storm.json) |
+| Panzer Command: Ostfront | 59323 | [59323-panzer-command-ostfront.json](./59323-panzer-command-ostfront.json) |
 | Panzer Corps 2 | 27716 | [27716-panzer-corps-2.json](./27716-panzer-corps-2.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
@@ -10292,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 2024-2025 | 293324 | [293324-pro-yakyuu-spirits-2024-2025.json](./293324-pro-yakyuu-spirits-2024-2025.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
+| Pro Yakyuu Spirits A | 59344 | [59344-pro-yakyuu-spirits-a.json](./59344-pro-yakyuu-spirits-a.json) |
 | Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
