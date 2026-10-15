@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
 | Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
+| Captain Tsubasa: New Kick Off | 47865 | [47865-captain-tsubasa-new-kick-off.json](./47865-captain-tsubasa-new-kick-off.json) |
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
@@ -5746,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
+| Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
@@ -9968,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
 | Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
+| Cosmetic Paradise | 47871 | [47871-cosmetic-paradise.json](./47871-cosmetic-paradise.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Make no Kiseki | 70674 | [70674-cosmetic-paradise-make-no-kiseki.json](./70674-cosmetic-paradise-make-no-kiseki.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
@@ -10728,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
+| Crafting Mama | 47810 | [47810-crafting-mama.json](./47810-crafting-mama.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
@@ -12254,8 +12258,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
+| Crusade Runner | 48017 | [48017-crusade-runner.json](./48017-crusade-runner.json) |
 | Crusade to Die | 261226 | [261226-crusade-to-die.json](./261226-crusade-to-die.json) |
 | Crusader | 262989 | [262989-crusader.json](./262989-crusader.json) |
+| Crusader Crash | 48013 | [48013-crusader-crash.json](./48013-crusader-crash.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
 | Crusader Kings II: Charlemagne | 22666 | [22666-crusader-kings-ii-charlemagne.json](./22666-crusader-kings-ii-charlemagne.json) |
