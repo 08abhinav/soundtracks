@@ -943,6 +943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
+| Game Stock Car | 63211 | [63211-game-stock-car.json](./63211-game-stock-car.json) |
+| Game Stock Car 2012 | 63210 | [63210-game-stock-car-2012.json](./63210-game-stock-car-2012.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Store Chronicle | 359047 | [359047-game-store-chronicle.json](./359047-game-store-chronicle.json) |
 | Game Store Simulator | 266999 | [266999-game-store-simulator.json](./266999-game-store-simulator.json) |
@@ -5148,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraFi Valentine | 129616 | [129616-grafi-valentine.json](./129616-grafi-valentine.json) |
 | Gragyriss, Captor of Princesses | 304354 | [304354-gragyriss-captor-of-princesses.json](./304354-gragyriss-captor-of-princesses.json) |
 | Graham Gooch World Class Cricket | 14248 | [14248-graham-gooch-world-class-cricket.json](./14248-graham-gooch-world-class-cricket.json) |
+| Graham Gooch's Test Cricket | 63185 | [63185-graham-goochs-test-cricket.json](./63185-graham-goochs-test-cricket.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
@@ -6068,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
+| Greg Norman's Shark Attack! The Ultimate Golf Simulator | 63188 | [63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json](./63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
 | Greg the Clumsy Ghost | 134977 | [134977-greg-the-clumsy-ghost.json](./134977-greg-the-clumsy-ghost.json) |
 | Gregg: Tower Defence | 295858 | [295858-gregg-tower-defence.json](./295858-gregg-tower-defence.json) |
