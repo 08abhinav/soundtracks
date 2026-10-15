@@ -1227,9 +1227,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 5: Meiro, Kioku | 303764 | [303764-sanou-kaihatsu-series-5-meiro-kioku.json](./303764-sanou-kaihatsu-series-5-meiro-kioku.json) |
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanri | 216928 | [216928-sanri.json](./216928-sanri.json) |
+| Sanrio Carnival | 48638 | [48638-sanrio-carnival.json](./48638-sanrio-carnival.json) |
+| Sanrio Carnival 2 | 48637 | [48637-sanrio-carnival-2.json](./48637-sanrio-carnival-2.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Characters Picross | 97222 | [97222-sanrio-characters-picross.json](./97222-sanrio-characters-picross.json) |
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
+| Sanrio Cup: Pon-pon Volley | 48639 | [48639-sanrio-cup-pon-pon-volley.json](./48639-sanrio-cup-pon-pon-volley.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
 | Sanrio Puroland: All-Characters | 49789 | [49789-sanrio-puroland-all-characters.json](./49789-sanrio-puroland-all-characters.json) |
@@ -2694,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
+| SD Gundam: Gundam Wars | 48518 | [48518-sd-gundam-gundam-wars.json](./48518-sd-gundam-gundam-wars.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
 | SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
