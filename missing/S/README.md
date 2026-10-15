@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Taisen DS | 70607 | [70607-sangokushi-taisen-ds.json](./70607-sangokushi-taisen-ds.json) |
 | Sangokushi Taisen Ten | 79368 | [79368-sangokushi-taisen-ten.json](./79368-sangokushi-taisen-ten.json) |
 | Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
+| Sangokushi V | 7043 | [7043-sangokushi-v.json](./7043-sangokushi-v.json) |
 | Sangokushi V: Power Up Kit | 350381 | [350381-sangokushi-v-power-up-kit.json](./350381-sangokushi-v-power-up-kit.json) |
 | Sangokushi VIII: Power Up Kit | 350379 | [350379-sangokushi-viii-power-up-kit.json](./350379-sangokushi-viii-power-up-kit.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
@@ -22432,6 +22433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
 | Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
+| Super Robot Taisen UX | 6894 | [6894-super-robot-taisen-ux.json](./6894-super-robot-taisen-ux.json) |
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
 | Super Robot Taisen XO | 143417 | [143417-super-robot-taisen-xo.json](./143417-super-robot-taisen-xo.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
