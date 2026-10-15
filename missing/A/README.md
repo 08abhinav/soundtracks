@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned: Discovery Island - Jeff The Killer | 242614 | [242614-abandoned-discovery-island-jeff-the-killer.json](./242614-abandoned-discovery-island-jeff-the-killer.json) |
 | Abandoning Spies | 260616 | [260616-abandoning-spies.json](./260616-abandoning-spies.json) |
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
+| Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addictive | 94660 | [94660-addictive.json](./94660-addictive.json) |
+| Addie no Okurimono: To Moze from Addie | 64903 | [64903-addie-no-okurimono-to-moze-from-addie.json](./64903-addie-no-okurimono-to-moze-from-addie.json) |
 | Addie Shen | 402432 | [402432-addie-shen.json](./402432-addie-shen.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
@@ -6419,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade | 84756 | [84756-angry-bunnies-colossal-carrot-crusade.json](./84756-angry-bunnies-colossal-carrot-crusade.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
+| Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
@@ -9216,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
 | Armed Frame | 363814 | [363814-armed-frame.json](./363814-armed-frame.json) |
 | Armed Heist | 107016 | [107016-armed-heist.json](./107016-armed-heist.json) |
+| Armed Heroes Online | 64880 | [64880-armed-heroes-online.json](./64880-armed-heroes-online.json) |
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
 | Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
