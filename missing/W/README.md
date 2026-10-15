@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
+| WarFire | 32657 | [32657-warfire.json](./32657-warfire.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
@@ -999,6 +1000,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
+| Warhammer 40,000: Dark Millennium | 32668 | [32668-warhammer-40-000-dark-millennium.json](./32668-warhammer-40-000-dark-millennium.json) |
+| Warhammer 40,000: Dark Nexus Arena | 32716 | [32716-warhammer-40-000-dark-nexus-arena.json](./32716-warhammer-40-000-dark-nexus-arena.json) |
 | Warhammer 40,000: Darktide - Imperial Edition | 203255 | [203255-warhammer-40-000-darktide-imperial-edition.json](./203255-warhammer-40-000-darktide-imperial-edition.json) |
 | Warhammer 40,000: Darktide - Secrets of the Machine God | 302173 | [302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json](./302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json) |
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
