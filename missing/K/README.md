@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keep Walking | 114751 | [114751-keep-walking.json](./114751-keep-walking.json) |
 | Keep Wall | 150962 | [150962-keep-wall.json](./150962-keep-wall.json) |
+| Keep Watching | 30626 | [30626-keep-watching.json](./30626-keep-watching.json) |
 | Keep Watering | 406930 | [406930-keep-watering.json](./406930-keep-watering.json) |
 | Keep Yourself Alive | 124720 | [124720-keep-yourself-alive.json](./124720-keep-yourself-alive.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
