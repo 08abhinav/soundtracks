@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 4 | 231442 | [231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json](./231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 5 | 231444 | [231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json](./231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
+| Mario Kart 8: Limited Edition | 45161 | [45161-mario-kart-8-limited-edition.json](./45161-mario-kart-8-limited-edition.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
@@ -11618,12 +11619,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat II | 242248 | [242248-mortal-kombat-ii.json](./242248-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
+| Mortal Kombat II Special | 45157 | [45157-mortal-kombat-ii-special.json](./45157-mortal-kombat-ii-special.json) |
+| Mortal Kombat II Unlimited | 45152 | [45152-mortal-kombat-ii-unlimited.json](./45152-mortal-kombat-ii-unlimited.json) |
 | Mortal Kombat Kollection | 43251 | [43251-mortal-kombat-kollection.json](./43251-mortal-kombat-kollection.json) |
 | Mortal Kombat Kollection Online | 133950 | [133950-mortal-kombat-kollection-online.json](./133950-mortal-kombat-kollection-online.json) |
 | Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
 | Mortal Kombat Mythologies: Gold 2000 | 37884 | [37884-mortal-kombat-mythologies-gold-2000.json](./37884-mortal-kombat-mythologies-gold-2000.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 1610 | [1610-mortal-kombat-mythologies-sub-zero.json](./1610-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 198829 | [198829-mortal-kombat-mythologies-sub-zero.json](./198829-mortal-kombat-mythologies-sub-zero.json) |
+| Mortal Kombat Revelations | 45154 | [45154-mortal-kombat-revelations.json](./45154-mortal-kombat-revelations.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
@@ -11637,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
+| Mortal Kombat X: Kollector's Edition | 45150 | [45150-mortal-kombat-x-kollectors-edition.json](./45150-mortal-kombat-x-kollectors-edition.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
@@ -11646,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Deadly Alliance | 229852 | [229852-mortal-kombat-deadly-alliance.json](./229852-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
+| Mortal Kombat: Deception - Kollector's Edition | 45151 | [45151-mortal-kombat-deception-kollectors-edition.json](./45151-mortal-kombat-deception-kollectors-edition.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Freddy Krueger | 388985 | [388985-mortal-kombat-freddy-krueger.json](./388985-mortal-kombat-freddy-krueger.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
@@ -11970,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
+| Motocross Mania 2 | 45100 | [45100-motocross-mania-2.json](./45100-motocross-mania-2.json) |
 | Motocross Maniacs | 73130 | [73130-motocross-maniacs.json](./73130-motocross-maniacs.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
@@ -12040,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
+| Motor Toon Grand Prix | 45109 | [45109-motor-toon-grand-prix.json](./45109-motor-toon-grand-prix.json) |
 | Motor Town: Soul of the Machine | 54230 | [54230-motor-town-soul-of-the-machine.json](./54230-motor-town-soul-of-the-machine.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
 | Motor Wars 2 | 97440 | [97440-motor-wars-2.json](./97440-motor-wars-2.json) |
