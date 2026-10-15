@@ -7575,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 129-B001 - Gentleman Nils | 355501 | [355501-pokemon-battle-e-129-b001-gentleman-nils.json](./355501-pokemon-battle-e-129-b001-gentleman-nils.json) |
 | Pokémon Battle e: 129-B002 - Lady Astrid | 355503 | [355503-pokemon-battle-e-129-b002-lady-astrid.json](./355503-pokemon-battle-e-129-b002-lady-astrid.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
+| Pokémon Battle Revolution | 2325 | [2325-pokemon-battle-revolution.json](./2325-pokemon-battle-revolution.json) |
 | Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Battrio | 77182 | [77182-pokemon-battrio.json](./77182-pokemon-battrio.json) |
@@ -7592,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Bois | 250467 | [250467-pokemon-bois.json](./250467-pokemon-bois.json) |
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
+| Pokémon Brilliant Diamond | 144051 | [144051-pokemon-brilliant-diamond.json](./144051-pokemon-brilliant-diamond.json) |
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
@@ -10343,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2012 | 240465 | [240465-pro-evolution-soccer-2012.json](./240465-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2013 | 240466 | [240466-pro-evolution-soccer-2013.json](./240466-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer 2014 | 240467 | [240467-pro-evolution-soccer-2014.json](./240467-pro-evolution-soccer-2014.json) |
+| Pro Evolution Soccer 2014 | 4652 | [4652-pro-evolution-soccer-2014.json](./4652-pro-evolution-soccer-2014.json) |
 | Pro Evolution Soccer 2015 | 8566 | [8566-pro-evolution-soccer-2015.json](./8566-pro-evolution-soccer-2015.json) |
 | Pro Evolution Soccer 2017 | 22753 | [22753-pro-evolution-soccer-2017.json](./22753-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
