@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
+| Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
 | Jim & Dill 3 | 342118 | [342118-jim-and-dill-3.json](./342118-jim-and-dill-3.json) |
