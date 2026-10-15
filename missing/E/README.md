@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Galaxy | 344574 | [344574-edge-of-galaxy.json](./344574-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
+| Edge of Hearts | 38805 | [38805-edge-of-hearts.json](./38805-edge-of-hearts.json) |
 | Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
@@ -3738,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape The Garage | 322275 | [322275-escape-the-garage.json](./322275-escape-the-garage.json) |
 | Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
 | Escape the Glubinka | 271112 | [271112-escape-the-glubinka.json](./271112-escape-the-glubinka.json) |
+| Escape the Gray | 38791 | [38791-escape-the-gray.json](./38791-escape-the-gray.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskadrila X: Rift Protocol | 381364 | [381364-eskadrila-x-rift-protocol.json](./381364-eskadrila-x-rift-protocol.json) |
+| Eskimo Bob: Starring Alfonzo | 38761 | [38761-eskimo-bob-starring-alfonzo.json](./38761-eskimo-bob-starring-alfonzo.json) |
 | Eskimo Eddie | 13843 | [13843-eskimo-eddie.json](./13843-eskimo-eddie.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Eskinita | 407501 | [407501-eskinita.json](./407501-eskinita.json) |
@@ -3947,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
 | ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
+| ESPN Step Aerobics | 38817 | [38817-espn-step-aerobics.json](./38817-espn-step-aerobics.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPN Winter X-Games Snowboarding 2002 | 49206 | [49206-espn-winter-x-games-snowboarding-2002.json](./49206-espn-winter-x-games-snowboarding-2002.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
@@ -5163,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
+| Exocomets | 38771 | [38771-exocomets.json](./38771-exocomets.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exocraft | 115166 | [115166-exocraft.json](./115166-exocraft.json) |
 | Exocraft.io | 86380 | [86380-exocraft-io.json](./86380-exocraft-io.json) |
