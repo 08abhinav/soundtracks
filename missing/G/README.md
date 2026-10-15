@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Suburb Zero | 169884 | [169884-ghost-suburb-zero.json](./169884-ghost-suburb-zero.json) |
 | Ghost Survivors | 231947 | [231947-ghost-survivors.json](./231947-ghost-survivors.json) |
 | Ghost Sweeper | 32214 | [32214-ghost-sweeper.json](./32214-ghost-sweeper.json) |
+| Ghost Sweeper Mikami | 37634 | [37634-ghost-sweeper-mikami.json](./37634-ghost-sweeper-mikami.json) |
 | Ghost Switch | 178907 | [178907-ghost-switch.json](./178907-ghost-switch.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
+| Ginga Fukei Densetsu Sapphire | 37613 | [37613-ginga-fukei-densetsu-sapphire.json](./37613-ginga-fukei-densetsu-sapphire.json) |
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
