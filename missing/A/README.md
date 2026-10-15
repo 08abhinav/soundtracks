@@ -4394,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
 | Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
+| Alien Covenant In Utero | 28658 | [28658-alien-covenant-in-utero.json](./28658-alien-covenant-in-utero.json) |
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
 | Alula | 185428 | [185428-alula.json](./185428-alula.json) |
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
+| Alum | 28576 | [28576-alum.json](./28576-alum.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
@@ -5539,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
+| Ambre | 28661 | [28661-ambre.json](./28661-ambre.json) |
 | Ambroise Niflette & the Gleaned Bell | 323975 | [323975-ambroise-niflette-and-the-gleaned-bell.json](./323975-ambroise-niflette-and-the-gleaned-bell.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
@@ -5775,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
+| Amigo VR | 28675 | [28675-amigo-vr.json](./28675-amigo-vr.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
 | Amiha's Nightmare Castle | 212756 | [212756-amihas-nightmare-castle.json](./212756-amihas-nightmare-castle.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
