@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle Legacy: Zero | 373186 | [373186-eagle-legacy-zero.json](./373186-eagle-legacy-zero.json) |
 | Eagle n Chicken | 367837 | [367837-eagle-n-chicken.json](./367837-eagle-n-chicken.json) |
+| Eagle Plan | 70867 | [70867-eagle-plan.json](./70867-eagle-plan.json) |
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
+| Edge of Reality | 70850 | [70850-edge-of-reality.json](./70850-edge-of-reality.json) |
 | Edge of Reality Visual Novel | 117551 | [117551-edge-of-reality-visual-novel.json](./117551-edge-of-reality-visual-novel.json) |
 | Edge of Reality: Call of the Hills - Collector's Edition | 397149 | [397149-edge-of-reality-call-of-the-hills-collectors-edition.json](./397149-edge-of-reality-call-of-the-hills-collectors-edition.json) |
 | Edge of Reality: Fatal Luck - Collector's Edition | 397143 | [397143-edge-of-reality-fatal-luck-collectors-edition.json](./397143-edge-of-reality-fatal-luck-collectors-edition.json) |
@@ -4160,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
+| Etrian Mystery Dungeon 2: Etrian Odyssey 10th Anniversary Box | 70894 | [70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json](./70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
 | Etrian Odyssey Heardle | 283398 | [283398-etrian-odyssey-heardle.json](./283398-etrian-odyssey-heardle.json) |
 | Etrian Odyssey II HD: Character Set DLC | 251695 | [251695-etrian-odyssey-ii-hd-character-set-dlc.json](./251695-etrian-odyssey-ii-hd-character-set-dlc.json) |
