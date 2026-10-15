@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Dodger: The Hidden Cargo | 242039 | [242039-captain-dodger-the-hidden-cargo.json](./242039-captain-dodger-the-hidden-cargo.json) |
+| Captain Earth: Mind Labyrinth | 60987 | [60987-captain-earth-mind-labyrinth.json](./60987-captain-earth-mind-labyrinth.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
 | Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
@@ -11925,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
+| CrossMe | 61006 | [61006-crossme.json](./61006-crossme.json) |
 | Crossniq | 121362 | [121362-crossniq.json](./121362-crossniq.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
 | Crossout | 34894 | [34894-crossout.json](./34894-crossout.json) |
