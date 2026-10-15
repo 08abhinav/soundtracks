@@ -7853,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Card League | 62429 | [62429-doki-doki-card-league.json](./62429-doki-doki-card-league.json) |
 | Doki Doki Carpe Diem: Somnium | 333622 | [333622-doki-doki-carpe-diem-somnium.json](./333622-doki-doki-carpe-diem-somnium.json) |
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
+| Doki Doki Compatibility Quest: 3 | 59830 | [59830-doki-doki-compatibility-quest-3.json](./59830-doki-doki-compatibility-quest-3.json) |
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
@@ -9194,6 +9195,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
 | Double Wires | 230435 | [230435-double-wires.json](./230435-double-wires.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
+| Double Yakuman | 59756 | [59756-double-yakuman.json](./59756-double-yakuman.json) |
+| Double Yakuman II | 59749 | [59749-double-yakuman-ii.json](./59749-double-yakuman-ii.json) |
+| Double Yakuman Jr. | 59750 | [59750-double-yakuman-jr.json](./59750-double-yakuman-jr.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
 | Double-Edged Blade: All Under Control | 183855 | [183855-double-edged-blade-all-under-control.json](./183855-double-edged-blade-all-under-control.json) |
@@ -9869,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
 | Dragon Fist 2 | 234562 | [234562-dragon-fist-2.json](./234562-dragon-fist-2.json) |
 | Dragon Fist: VR Kung Fu | 156582 | [156582-dragon-fist-vr-kung-fu.json](./156582-dragon-fist-vr-kung-fu.json) |
+| Dragon Flight | 59829 | [59829-dragon-flight.json](./59829-dragon-flight.json) |
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force II: Kamisarishi Daichi ni | 45461 | [45461-dragon-force-ii-kamisarishi-daichi-ni.json](./45461-dragon-force-ii-kamisarishi-daichi-ni.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
@@ -10427,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
+| Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
