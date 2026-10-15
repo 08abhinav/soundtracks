@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
+| The Admin | 34008 | [34008-the-admin.json](./34008-the-admin.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box | 133718 | [133718-the-box.json](./133718-the-box.json) |
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
+| The BoX | 33963 | [33963-the-box.json](./33963-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
@@ -10008,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
+| The Orpheus Ruse | 33910 | [33910-the-orpheus-ruse.json](./33910-the-orpheus-ruse.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
@@ -13959,6 +13962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
+| Threads of Destiny | 33921 | [33921-threads-of-destiny.json](./33921-threads-of-destiny.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
 | Threads of Karma | 338325 | [338325-threads-of-karma.json](./338325-threads-of-karma.json) |
 | Threads of Magic | 177879 | [177879-threads-of-magic.json](./177879-threads-of-magic.json) |
