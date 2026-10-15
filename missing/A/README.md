@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
+| A Hole New World: Deluxe Edition | 52536 | [52536-a-hole-new-world-deluxe-edition.json](./52536-a-hole-new-world-deluxe-edition.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Hollow Heartbeat | 389012 | [389012-a-hollow-heartbeat.json](./389012-a-hollow-heartbeat.json) |
@@ -550,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Near Dawn | 74241 | [74241-a-near-dawn.json](./74241-a-near-dawn.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
+| A New Beginning: Final Cut Edition | 52535 | [52535-a-new-beginning-final-cut-edition.json](./52535-a-new-beginning-final-cut-edition.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
@@ -1318,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
+| Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
@@ -1461,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
+| Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
@@ -2075,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | ADR-Labelling Game | 96655 | [96655-adr-labelling-game.json](./96655-adr-labelling-game.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
+| Adream?: A poetic experience | 52538 | [52538-adream-a-poetic-experience.json](./52538-adream-a-poetic-experience.json) |
 | Adrena Line | 134342 | [134342-adrena-line.json](./134342-adrena-line.json) |
 | Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
 | Adrenalin Connection | 228626 | [228626-adrenalin-connection.json](./228626-adrenalin-connection.json) |
@@ -2488,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
+| AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -2597,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
+| Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
@@ -2648,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance - A Life Mage Child | 171383 | [171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json](./171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json) |
 | Affairs of the Court: Choice of Romance - Death to the Princess | 171426 | [171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json](./171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json) |
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
+| Affairs of the Court: Deluxe Edition | 52574 | [52574-affairs-of-the-court-deluxe-edition.json](./52574-affairs-of-the-court-deluxe-edition.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
@@ -3143,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
+| Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
