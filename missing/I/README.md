@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
+| idleBeer | 55814 | [55814-idlebeer.json](./55814-idlebeer.json) |
 | IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
 | IdleDev | 264782 | [264782-idledev.json](./264782-idledev.json) |
