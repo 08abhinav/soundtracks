@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
 | Battlesnake | 151464 | [151464-battlesnake.json](./151464-battlesnake.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
+| BattleSpace | 17530 | [17530-battlespace.json](./17530-battlespace.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
@@ -5597,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Girl | 9896 | [9896-bionic-girl.json](./9896-bionic-girl.json) |
 | Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
 | Bionic Heart | 9782 | [9782-bionic-heart.json](./9782-bionic-heart.json) |
+| Bionic Heart 2 | 17721 | [17721-bionic-heart-2.json](./17721-bionic-heart-2.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Rebirth | 283997 | [283997-bionic-rebirth.json](./283997-bionic-rebirth.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
@@ -7654,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
+| BloodRealm: Battlegrounds | 17587 | [17587-bloodrealm-battlegrounds.json](./17587-bloodrealm-battlegrounds.json) |
 | BloodRealm: War of Gods | 341055 | [341055-bloodrealm-war-of-gods.json](./341055-bloodrealm-war-of-gods.json) |
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
 | Bloodright | 365822 | [365822-bloodright.json](./365822-bloodright.json) |
@@ -10731,6 +10734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
+| Broadsword : Age of Chivalry | 17618 | [17618-broadsword-age-of-chivalry.json](./17618-broadsword-age-of-chivalry.json) |
 | Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
 | Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
