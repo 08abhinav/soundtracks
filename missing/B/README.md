@@ -5770,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
+| Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa-fuwa Panic 2 | 56370 | [56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json](./56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hajimete no Eigo | 63949 | [63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json](./63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hiragana Lesson! | 63952 | [63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json](./63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json) |
@@ -6636,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastris: Mole Patrol | 271254 | [271254-blastris-mole-patrol.json](./271254-blastris-mole-patrol.json) |
 | Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
+| Blasty Bubs | 56401 | [56401-blasty-bubs.json](./56401-blasty-bubs.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
@@ -7054,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
+| Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
