@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
+| Dark Blood | 62625 | [62625-dark-blood.json](./62625-dark-blood.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
@@ -4602,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
+| DerenGo II | 62656 | [62656-derengo-ii.json](./62656-derengo-ii.json) |
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | DeResolution | 272189 | [272189-deresolution.json](./272189-deresolution.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
@@ -10633,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Quest | 30475 | [30475-dream-quest.json](./30475-dream-quest.json) |
 | Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
+| Dream Raiders | 62637 | [62637-dream-raiders.json](./62637-dream-raiders.json) |
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
@@ -11544,6 +11547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
 | DualMania!: Universes Connect | 176389 | [176389-dualmania-universes-connect.json](./176389-dualmania-universes-connect.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
+| Dualsus | 62655 | [62655-dualsus.json](./62655-dualsus.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
