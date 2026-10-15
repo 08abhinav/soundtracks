@@ -5273,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
+| Hill Street Blues | 71989 | [71989-hill-street-blues.json](./71989-hill-street-blues.json) |
 | Hillary Race for the White House | 343880 | [343880-hillary-race-for-the-white-house.json](./343880-hillary-race-for-the-white-house.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
