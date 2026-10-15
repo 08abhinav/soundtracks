@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cubes | 85720 | [85720-pirate-cubes.json](./85720-pirate-cubes.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
+| Pirate Defense | 30604 | [30604-pirate-defense.json](./30604-pirate-defense.json) |
 | Pirate Doom | 140875 | [140875-pirate-doom.json](./140875-pirate-doom.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Dragons | 217351 | [217351-pirate-dragons.json](./217351-pirate-dragons.json) |
@@ -9817,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
+| Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
