@@ -5471,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shénmǎ Jiānghú | 114522 | [114522-shenma-jianghu.json](./114522-shenma-jianghu.json) |
 | Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
 | Shenmou | 120078 | [120078-shenmou.json](./120078-shenmou.json) |
+| Shenmue | 1217 | [1217-shenmue.json](./1217-shenmue.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
@@ -9591,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slut Nurses | 371398 | [371398-slut-nurses.json](./371398-slut-nurses.json) |
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
 | SlutWitch's Atelier | 83163 | [83163-slutwitchs-atelier.json](./83163-slutwitchs-atelier.json) |
+| Sly 2: Band of Thieves | 1799 | [1799-sly-2-band-of-thieves.json](./1799-sly-2-band-of-thieves.json) |
 | Sly 3: Honor Among Thieves | 1800 | [1800-sly-3-honor-among-thieves.json](./1800-sly-3-honor-among-thieves.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
@@ -14867,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Revenge of the Spider-Slayers | 198901 | [198901-spider-man-revenge-of-the-spider-slayers.json](./198901-spider-man-revenge-of-the-spider-slayers.json) |
 | Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
 | Spider-Man: Shattered Dimensions | 209975 | [209975-spider-man-shattered-dimensions.json](./209975-spider-man-shattered-dimensions.json) |
+| Spider-Man: Shattered Dimensions | 553 | [553-spider-man-shattered-dimensions.json](./553-spider-man-shattered-dimensions.json) |
 | Spider-Man: The Sinister Six | 66383 | [66383-spider-man-the-sinister-six.json](./66383-spider-man-the-sinister-six.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
 | Spider-Man: Toxic City | 65592 | [65592-spider-man-toxic-city.json](./65592-spider-man-toxic-city.json) |
@@ -18021,6 +18024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
+| Steep | 19554 | [19554-steep.json](./19554-steep.json) |
 | Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
@@ -19297,6 +19301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X All Capcom | 80847 | [80847-street-fighter-x-all-capcom.json](./80847-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
+| Street Fighter X Tekken | 1065 | [1065-street-fighter-x-tekken.json](./1065-street-fighter-x-tekken.json) |
 | Street Fighter X Tekken: Special Edition | 45197 | [45197-street-fighter-x-tekken-special-edition.json](./45197-street-fighter-x-tekken-special-edition.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
