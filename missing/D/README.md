@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
+| DarkMaze | 46471 | [46471-darkmaze.json](./46471-darkmaze.json) |
 | Darkmists | 125920 | [125920-darkmists.json](./125920-darkmists.json) |
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
+| Dawn of H'btakh | 46476 | [46476-dawn-of-hbtakh.json](./46476-dawn-of-hbtakh.json) |
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
@@ -7036,6 +7038,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Lilo & Stitch 2: Hämsterviel Havoc | 49261 | [49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json](./49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Little Einsteins | 49190 | [49190-disneys-little-einsteins.json](./49190-disneys-little-einsteins.json) |
+| Disney's Magic Artist | 46432 | [46432-disneys-magic-artist.json](./46432-disneys-magic-artist.json) |
+| Disney's Magic Artist 3D | 46434 | [46434-disneys-magic-artist-3d.json](./46434-disneys-magic-artist-3d.json) |
+| Disney's Magic Artist Cartoon Maker | 46433 | [46433-disneys-magic-artist-cartoon-maker.json](./46433-disneys-magic-artist-cartoon-maker.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
@@ -7086,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
+| Disney's Villains' Revenge | 46431 | [46431-disneys-villains-revenge.json](./46431-disneys-villains-revenge.json) |
 | Disney's Winnie the Pooh & Tigger Too: Animated Storybook | 209032 | [209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json](./209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json) |
 | Disney's Winnie the Pooh Preschool | 69231 | [69231-disneys-winnie-the-pooh-preschool.json](./69231-disneys-winnie-the-pooh-preschool.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
@@ -12316,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Shooting | 129516 | [129516-dungeon-shooting.json](./129516-dungeon-shooting.json) |
 | Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
+| Dungeon Siege II: Deluxe Edition | 46439 | [46439-dungeon-siege-ii-deluxe-edition.json](./46439-dungeon-siege-ii-deluxe-edition.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
