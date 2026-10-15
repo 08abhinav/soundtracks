@@ -9204,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
+| Power Piggs of the Dark Age | 42471 | [42471-power-piggs-of-the-dark-age.json](./42471-power-piggs-of-the-dark-age.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
