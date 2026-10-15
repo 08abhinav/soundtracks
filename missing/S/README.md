@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third - Genkibowl VII | 78454 | [78454-saints-row-the-third-genkibowl-vii.json](./78454-saints-row-the-third-genkibowl-vii.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
+| Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
@@ -2623,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance: Unit and Scenario Pack 2 | 237976 | [237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json](./237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 3 | 223572 | [223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json](./223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json) |
 | SD Gundam Capsule Fighter Online | 63388 | [63388-sd-gundam-capsule-fighter-online.json](./63388-sd-gundam-capsule-fighter-online.json) |
+| SD Gundam Daizukan | 65997 | [65997-sd-gundam-daizukan.json](./65997-sd-gundam-daizukan.json) |
 | SD Gundam Eiyuden: Daikessen!! Kishi vs Musha | 223046 | [223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json](./223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json) |
 | SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
@@ -2636,6 +2638,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
 | SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
+| SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
+| SD Gundam G Generation Seed | 65982 | [65982-sd-gundam-g-generation-seed.json](./65982-sd-gundam-g-generation-seed.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
 | SD Gundam G Generation Wars | 69325 | [69325-sd-gundam-g-generation-wars.json](./69325-sd-gundam-g-generation-wars.json) |
 | SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
@@ -3515,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
+| Seiya Monogatari: Anearth Fantasy Stories | 65978 | [65978-seiya-monogatari-anearth-fantasy-stories.json](./65978-seiya-monogatari-anearth-fantasy-stories.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
 | Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
@@ -5684,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
 | Shingakkou The Gift | 330274 | [330274-shingakkou-the-gift.json](./330274-shingakkou-the-gift.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
+| Shingata Medarot Kabuto/Kuwagata | 65976 | [65976-shingata-medarot-kabuto-kuwagata.json](./65976-shingata-medarot-kabuto-kuwagata.json) |
 | Shingata Medarot: Kabuto Version | 49823 | [49823-shingata-medarot-kabuto-version.json](./49823-shingata-medarot-kabuto-version.json) |
 | Shingata Medarot: Kuwagata Version | 49822 | [49822-shingata-medarot-kuwagata-version.json](./49822-shingata-medarot-kuwagata-version.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
@@ -7349,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
+| Simple 1500 Series Vol. 7: The Card | 66013 | [66013-simple-1500-series-vol-7-the-card.json](./66013-simple-1500-series-vol-7-the-card.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu | 203119 | [203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json](./203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json) |
 | Simple 1500 Series Vol. 92: The Tozan RPG | 203121 | [203121-simple-1500-series-vol-92-the-tozan-rpg.json](./203121-simple-1500-series-vol-92-the-tozan-rpg.json) |
@@ -9820,6 +9827,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
 | Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
+| Smurfs Save the Day: Greedy Smurf | 65988 | [65988-smurfs-save-the-day-greedy-smurf.json](./65988-smurfs-save-the-day-greedy-smurf.json) |
+| Smurfs Save the Day: Handy Smurf | 65990 | [65990-smurfs-save-the-day-handy-smurf.json](./65990-smurfs-save-the-day-handy-smurf.json) |
+| Smurfs Save the Day: Harmony Smurf | 65989 | [65989-smurfs-save-the-day-harmony-smurf.json](./65989-smurfs-save-the-day-harmony-smurf.json) |
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
