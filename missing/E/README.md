@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Espana 1936 | 129582 | [129582-espana-1936.json](./129582-espana-1936.json) |
+| Esparks: Ijikuu kara no Raihousha | 44436 | [44436-esparks-ijikuu-kara-no-raihousha.json](./44436-esparks-ijikuu-kara-no-raihousha.json) |
 | Espectro the Fighters Focus | 376030 | [376030-espectro-the-fighters-focus.json](./376030-espectro-the-fighters-focus.json) |
 | Espen I Asmo | 91881 | [91881-espen-i-asmo.json](./91881-espen-i-asmo.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
