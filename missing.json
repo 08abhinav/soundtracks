@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:50:14.554Z",
-  "total_missing": 216653,
+  "generated_at": "2026-10-15T19:57:20.824Z",
+  "total_missing": 216652,
   "games": [
     {
       "igdb_id": 191680,
@@ -201835,11 +201835,6 @@
       "igdb_id": 63560,
       "game_name": "Cupcakes and Critters",
       "file": "missing/C/63560-cupcakes-and-critters.json"
-    },
-    {
-      "igdb_id": 237497,
-      "game_name": "Cuphead",
-      "file": "missing/C/237497-cuphead.json"
     },
     {
       "igdb_id": 210917,
