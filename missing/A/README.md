@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
+| A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
@@ -7640,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape | 203212 | [203212-ape-escape.json](./203212-ape-escape.json) |
 | Ape Escape | 3762 | [3762-ape-escape.json](./3762-ape-escape.json) |
+| Ape Escape 2 | 6063 | [6063-ape-escape-2.json](./6063-ape-escape-2.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
 | Ape Escape 4 | 511 | [511-ape-escape-4.json](./511-ape-escape-4.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
@@ -9683,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
+| Art of Rally | 118607 | [118607-art-of-rally.json](./118607-art-of-rally.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
 | Art of Rally: Collector's Edition | 199323 | [199323-art-of-rally-collectors-edition.json](./199323-art-of-rally-collectors-edition.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
@@ -10159,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt 9: Legends - Turbo Summer Racing Pack | 237893 | [237893-asphalt-9-legends-turbo-summer-racing-pack.json](./237893-asphalt-9-legends-turbo-summer-racing-pack.json) |
 | Asphalt Champions | 384188 | [384188-asphalt-champions.json](./384188-asphalt-champions.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
+| Asphalt Legends | 23314 | [23314-asphalt-legends.json](./23314-asphalt-legends.json) |
 | Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
