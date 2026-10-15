@@ -4770,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
+| All Grown Up!: Express Yourself | 2796 | [2796-all-grown-up-express-yourself.json](./2796-all-grown-up-express-yourself.json) |
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
@@ -9436,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Lab Force Vulvehicles | 211443 | [211443-armored-lab-force-vulvehicles.json](./211443-armored-lab-force-vulvehicles.json) |
+| Armored Moon: The Next Eden | 2610 | [2610-armored-moon-the-next-eden.json](./2610-armored-moon-the-next-eden.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
 | Armored Sinner | 196640 | [196640-armored-sinner.json](./196640-armored-sinner.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
