@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Road Battle | 284266 | [284266-immortal-road-battle.json](./284266-immortal-road-battle.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
+| Immortal Sins | 22029 | [22029-immortal-sins.json](./22029-immortal-sins.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
 | Immortal Souls: John Turner #1 | 92399 | [92399-immortal-souls-john-turner-1.json](./92399-immortal-souls-john-turner-1.json) |
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
@@ -2249,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jack | 94634 | [94634-indiana-jack.json](./94634-indiana-jack.json) |
 | Indiana Jones | 80377 | [80377-indiana-jones.json](./80377-indiana-jones.json) |
 | Indiana Jones and the Emperor's Tomb | 187 | [187-indiana-jones-and-the-emperors-tomb.json](./187-indiana-jones-and-the-emperors-tomb.json) |
+| Indiana Jones and the Fate of Atlantis: Special Edition | 22037 | [22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json](./22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json) |
 | Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
 | Indiana Jones and the Great Circle: Digital Premium Upgrade | 332027 | [332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json](./332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
 | It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
+| IT was only a dream | 22031 | [22031-it-was-only-a-dream.json](./22031-it-was-only-a-dream.json) |
 | It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
