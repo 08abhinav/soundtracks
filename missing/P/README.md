@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | PanzenTD | 358262 | [358262-panzentd.json](./358262-panzentd.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
+| Panzer Bandit | 45108 | [45108-panzer-bandit.json](./45108-panzer-bandit.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Battles: Battles of Normandy | 241428 | [241428-panzer-battles-battles-of-normandy.json](./241428-panzer-battles-battles-of-normandy.json) |
 | Panzer Campaign VII: Kursk '43 | 109182 | [109182-panzer-campaign-vii-kursk-43.json](./109182-panzer-campaign-vii-kursk-43.json) |
@@ -10328,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
+| Pro Wrestling Sengokuden: Hyper Tag Match | 45107 | [45107-pro-wrestling-sengokuden-hyper-tag-match.json](./45107-pro-wrestling-sengokuden-hyper-tag-match.json) |
 | Pro Wrestling Sim | 151459 | [151459-pro-wrestling-sim.json](./151459-pro-wrestling-sim.json) |
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
 | Pro Wrestling X | 17337 | [17337-pro-wrestling-x.json](./17337-pro-wrestling-x.json) |
