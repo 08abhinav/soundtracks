@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
+| Killer 3D Pool | 49187 | [49187-killer-3d-pool.json](./49187-killer-3d-pool.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
 | Killer Auto | 134417 | [134417-killer-auto.json](./134417-killer-auto.json) |
