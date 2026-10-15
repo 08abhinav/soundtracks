@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man 4K | 277412 | [277412-pac-man-4k.json](./277412-pac-man-4k.json) |
+| Pac-Man 4K | 40655 | [40655-pac-man-4k.json](./40655-pac-man-4k.json) |
 | Pac-Man 99 | 145515 | [145515-pac-man-99.json](./145515-pac-man-99.json) |
 | Pac-Man 99: Deluxe Pack | 237983 | [237983-pac-man-99-deluxe-pack.json](./237983-pac-man-99-deluxe-pack.json) |
 | Pac-Man 99: Dig Dug | 325054 | [325054-pac-man-99-dig-dug.json](./325054-pac-man-99-dig-dug.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petanque Pro | 92622 | [92622-petanque-pro.json](./92622-petanque-pro.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
+| Pete Rose Baseball | 40623 | [40623-pete-rose-baseball.json](./40623-pete-rose-baseball.json) |
 | Pete Sampras Tennis | 368901 | [368901-pete-sampras-tennis.json](./368901-pete-sampras-tennis.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
@@ -7973,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
+| Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
