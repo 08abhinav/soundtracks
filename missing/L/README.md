@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Wrestling II | 194214 | [194214-legends-of-wrestling-ii.json](./194214-legends-of-wrestling-ii.json) |
+| Legends of Yore | 50476 | [50476-legends-of-yore.json](./50476-legends-of-yore.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
