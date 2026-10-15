@@ -5655,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | BioShock 2 Remastered | 34294 | [34294-bioshock-2-remastered.json](./34294-bioshock-2-remastered.json) |
 | BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
+| BioShock 2: Minerva's Den | 14543 | [14543-bioshock-2-minervas-den.json](./14543-bioshock-2-minervas-den.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
