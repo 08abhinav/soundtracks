@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic FC Club Football | 267883 | [267883-celtic-fc-club-football.json](./267883-celtic-fc-club-football.json) |
 | Celtic FC Club Football 2005 | 267902 | [267902-celtic-fc-club-football-2005.json](./267902-celtic-fc-club-football-2005.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
+| Celtic Heroes | 62111 | [62111-celtic-heroes.json](./62111-celtic-heroes.json) |
 | Celtic Kings: Rage of War | 11271 | [11271-celtic-kings-rage-of-war.json](./11271-celtic-kings-rage-of-war.json) |
 | Celtic Rumble | 177781 | [177781-celtic-rumble.json](./177781-celtic-rumble.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
@@ -5150,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
+| Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
@@ -6367,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Command: Campaign of 1863 | 151485 | [151485-clash-of-command-campaign-of-1863.json](./151485-clash-of-command-campaign-of-1863.json) |
 | Clash of Critters | 383642 | [383642-clash-of-critters.json](./383642-clash-of-critters.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
+| Clash of Elementalists | 62114 | [62114-clash-of-elementalists.json](./62114-clash-of-elementalists.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
@@ -10910,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
+| Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
