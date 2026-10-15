@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
 | Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
+| Tantei Jinguji Saburo DS: Fuserareta Shinjitsu | 67883 | [67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json](./67883-tantei-jinguji-saburo-ds-fuserareta-shinjitsu.json) |
 | Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
 | Tantei Jinguji Saburo Early Collection | 78264 | [78264-tantei-jinguji-saburo-early-collection.json](./78264-tantei-jinguji-saburo-early-collection.json) |
 | Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 25: Giwaku no Ace | 347276 | [347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json](./347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni | 347641 | [347641-tantei-jinguji-saburo-akenai-yoru-ni.json](./347641-tantei-jinguji-saburo-akenai-yoru-ni.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni & Nazono-Jikenbo | 347292 | [347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json](./347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Episode Code - Ashes and Diamonds | 67884 | [67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json](./67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Futa-iro no Shoujo | 347629 | [347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json](./347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json) |
 | Tantei Jinguji Saburo: Inochi Tatsu Kokugen | 347630 | [347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json](./347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json) |
@@ -1855,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
 | TaskMaker | 131288 | [131288-taskmaker.json](./131288-taskmaker.json) |
+| Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -8490,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
+| The Legend of Slime | 67923 | [67923-the-legend-of-slime.json](./67923-the-legend-of-slime.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 248520 | [248520-the-legend-of-spyro-a-new-beginning.json](./248520-the-legend-of-spyro-a-new-beginning.json) |
@@ -11280,8 +11284,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
 | The Sims Carnival: Bumper Blast | 91768 | [91768-the-sims-carnival-bumper-blast.json](./91768-the-sims-carnival-bumper-blast.json) |
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
+| The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
 | The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
+| The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
@@ -16295,6 +16301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
+| Tlon: A Misty Story | 67871 | [67871-tlon-a-misty-story.json](./67871-tlon-a-misty-story.json) |
 | Tm Driver | 219760 | [219760-tm-driver.json](./219760-tm-driver.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 248512 | [248512-tmnt.json](./248512-tmnt.json) |
@@ -17527,6 +17534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
+| Torej 3 | 67922 | [67922-torej-3.json](./67922-torej-3.json) |
+| Torej 4 | 67921 | [67921-torej-4.json](./67921-torej-4.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
 | Toren: Deluxe Edition | 51803 | [51803-toren-deluxe-edition.json](./51803-toren-deluxe-edition.json) |
 | Torevetchi | 230184 | [230184-torevetchi.json](./230184-torevetchi.json) |
