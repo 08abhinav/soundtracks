@@ -6997,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Aquarium | 104712 | [104712-pocket-aquarium.json](./104712-pocket-aquarium.json) |
+| Pocket Arcade Story | 56989 | [56989-pocket-arcade-story.json](./56989-pocket-arcade-story.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
