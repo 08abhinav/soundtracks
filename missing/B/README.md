@@ -6315,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
+| Blackstone | 67147 | [67147-blackstone.json](./67147-blackstone.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
 | Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
@@ -12107,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Bash! | 4734 | [4734-bust-a-move-bash.json](./4734-bust-a-move-bash.json) |
 | Bust-a-Move DS | 22572 | [22572-bust-a-move-ds.json](./22572-bust-a-move-ds.json) |
 | Bust-A-Move Frenzy | 138682 | [138682-bust-a-move-frenzy.json](./138682-bust-a-move-frenzy.json) |
+| Bust-A-Move Journey | 67196 | [67196-bust-a-move-journey.json](./67196-bust-a-move-journey.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
