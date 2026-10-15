@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenet of the Spark | 249701 | [249701-tenet-of-the-spark.json](./249701-tenet-of-the-spark.json) |
 | Tenfold Loop | 290856 | [290856-tenfold-loop.json](./290856-tenfold-loop.json) |
 | Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
+| Tengai Makyou Zero | 38186 | [38186-tengai-makyou-zero.json](./38186-tengai-makyou-zero.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
+| The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
