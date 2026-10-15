@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
 | Vindicator | 46739 | [46739-vindicator.json](./46739-vindicator.json) |
+| Vindicator: Uprising | 35353 | [35353-vindicator-uprising.json](./35353-vindicator-uprising.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicators | 198951 | [198951-vindicators.json](./198951-vindicators.json) |
 | Vindicators | 83909 | [83909-vindicators.json](./83909-vindicators.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage Phaser (Mobware) | 202009 | [202009-voyage-phaser-mobware.json](./202009-voyage-phaser-mobware.json) |
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyage to Fantasy | 53151 | [53151-voyage-to-fantasy.json](./53151-voyage-to-fantasy.json) |
+| Voyage to Farland | 35418 | [35418-voyage-to-farland.json](./35418-voyage-to-farland.json) |
 | Voyage: A Sorceress' Vacation | 146629 | [146629-voyage-a-sorceress-vacation.json](./146629-voyage-a-sorceress-vacation.json) |
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
