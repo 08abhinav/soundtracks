@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das neue Dr. Brain Gehirn Jogging Vol.2 | 98815 | [98815-das-neue-dr-brain-gehirn-jogging-vol-2.json](./98815-das-neue-dr-brain-gehirn-jogging-vol-2.json) |
 | Das neue Dr.Brain Gehirnjogging Vol.3 | 98805 | [98805-das-neue-dr-brain-gehirnjogging-vol-3.json](./98805-das-neue-dr-brain-gehirnjogging-vol-3.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
+| Das Stundenglas | 70307 | [70307-das-stundenglas.json](./70307-das-stundenglas.json) |
 | Das Teufelswad | 301970 | [301970-das-teufelswad.json](./301970-das-teufelswad.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
 | Das Überleben: Dem Großen Sprung | 172488 | [172488-das-uberleben-dem-gro-en-sprung.json](./172488-das-uberleben-dem-gro-en-sprung.json) |
@@ -10601,6 +10602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
+| Dream Prisoner | 70294 | [70294-dream-prisoner.json](./70294-dream-prisoner.json) |
 | Dream Quest | 30475 | [30475-dream-quest.json](./30475-dream-quest.json) |
 | Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
