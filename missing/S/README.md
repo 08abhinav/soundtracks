@@ -10581,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowcat Simulator 2011 | 9480 | [9480-snowcat-simulator-2011.json](./9480-snowcat-simulator-2011.json) |
 | Snowcrash | 135876 | [135876-snowcrash.json](./135876-snowcrash.json) |
 | SnowCross | 50067 | [50067-snowcross.json](./50067-snowcross.json) |
+| Snowday | 31629 | [31629-snowday.json](./31629-snowday.json) |
 | Snowday! | 310945 | [310945-snowday.json](./310945-snowday.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdown | 176228 | [176228-snowdown.json](./176228-snowdown.json) |
@@ -14934,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
+| Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Pong | 238387 | [238387-spinning-pong.json](./238387-spinning-pong.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
@@ -15081,6 +15083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
 | Spirits of Mystery: Amber Maiden | 62823 | [62823-spirits-of-mystery-amber-maiden.json](./62823-spirits-of-mystery-amber-maiden.json) |
+| Spirits of Mystery: Amber Maiden - Collector's Edition | 31650 | [31650-spirits-of-mystery-amber-maiden-collectors-edition.json](./31650-spirits-of-mystery-amber-maiden-collectors-edition.json) |
 | Spirits of Mystery: Chains of Promise | 59878 | [59878-spirits-of-mystery-chains-of-promise.json](./59878-spirits-of-mystery-chains-of-promise.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
@@ -17424,6 +17427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
+| Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
@@ -21331,6 +21335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hook Girl Gaiden: For Smile Giving Birthday | 307972 | [307972-super-hook-girl-gaiden-for-smile-giving-birthday.json](./307972-super-hook-girl-gaiden-for-smile-giving-birthday.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
+| Super Hop 'N' Bop Ultra | 31658 | [31658-super-hop-n-bop-ultra.json](./31658-super-hop-n-bop-ultra.json) |
 | Super Hornet F/A-18F | 49289 | [49289-super-hornet-f-a-18f.json](./49289-super-hornet-f-a-18f.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
