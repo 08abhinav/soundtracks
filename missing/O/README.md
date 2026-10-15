@@ -2402,6 +2402,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
+| Operation: Overkill II | 73711 | [73711-operation-overkill-ii.json](./73711-operation-overkill-ii.json) |
+| Operation: Overkill II | 73713 | [73713-operation-overkill-ii.json](./73713-operation-overkill-ii.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
