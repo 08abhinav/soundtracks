@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | InsanZ: Dr.Test | 170811 | [170811-insanz-dr-test.json](./170811-insanz-dr-test.json) |
 | InsanZ: Kill the Engine | 170810 | [170810-insanz-kill-the-engine.json](./170810-insanz-kill-the-engine.json) |
+| InsanZ: Retro Survival Horror | 35352 | [35352-insanz-retro-survival-horror.json](./35352-insanz-retro-survival-horror.json) |
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | InScape | 176315 | [176315-inscape.json](./176315-inscape.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
