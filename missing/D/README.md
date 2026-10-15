@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
+| Data Thief | 68574 | [68574-data-thief.json](./68574-data-thief.json) |
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data Wing | 82502 | [82502-data-wing.json](./82502-data-wing.json) |
 | Data Worm | 281024 | [281024-data-worm.json](./281024-data-worm.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
+| DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
@@ -9851,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
 | Dragon Girl | 328416 | [328416-dragon-girl.json](./328416-dragon-girl.json) |
+| Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
 | Dragon Hills | 60253 | [60253-dragon-hills.json](./60253-dragon-hills.json) |
