@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Steel | 2258 | [2258-red-steel.json](./2258-red-steel.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
+| Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
+| Resolution 101 | 15355 | [15355-resolution-101.json](./15355-resolution-101.json) |
 | Resonance | 215322 | [215322-resonance.json](./215322-resonance.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
 | Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
@@ -4256,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
 | Return to Eden | 36844 | [36844-return-to-eden.json](./36844-return-to-eden.json) |
 | Return to Empire | 188336 | [188336-return-to-empire.json](./188336-return-to-empire.json) |
+| Return to Genesis | 15356 | [15356-return-to-genesis.json](./15356-return-to-genesis.json) |
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
