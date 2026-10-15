@@ -12507,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
+| CSI: Crime Scene Investigation - 3 Dimensions of Murder | 72003 | [72003-csi-crime-scene-investigation-3-dimensions-of-murder.json](./72003-csi-crime-scene-investigation-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Dark Motives | 7632 | [7632-csi-dark-motives.json](./7632-csi-dark-motives.json) |
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
