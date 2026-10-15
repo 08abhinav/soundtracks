@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge | 68955 | [68955-tap-tap-revenge.json](./68955-tap-tap-revenge.json) |
 | Tap Tap Revenge 2 | 92642 | [92642-tap-tap-revenge-2.json](./92642-tap-tap-revenge-2.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
+| Tap Tap Revenge: Coldplay Edition | 69135 | [69135-tap-tap-revenge-coldplay-edition.json](./69135-tap-tap-revenge-coldplay-edition.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
@@ -10606,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
+| THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
 | The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
@@ -15539,6 +15541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Crisis Zone | 43287 | [43287-time-crisis-crisis-zone.json](./43287-time-crisis-crisis-zone.json) |
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
+| Time Crisis: Strike | 69166 | [69166-time-crisis-strike.json](./69166-time-crisis-strike.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Cruise II | 37654 | [37654-time-cruise-ii.json](./37654-time-cruise-ii.json) |
 | Time De Tour | 86757 | [86757-time-de-tour.json](./86757-time-de-tour.json) |
@@ -16794,6 +16797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
+| Tokyo Twilight Busters | 69184 | [69184-tokyo-twilight-busters.json](./69184-tokyo-twilight-busters.json) |
 | Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
@@ -17464,6 +17468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topper the Copper | 354597 | [354597-topper-the-copper.json](./354597-topper-the-copper.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
+| Topple 2 | 69189 | [69189-topple-2.json](./69189-topple-2.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Drop | 88448 | [88448-topple-drop.json](./88448-topple-drop.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
