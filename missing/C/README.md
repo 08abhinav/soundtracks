@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chousoku Shoujo: Hypersonic Speed Girl | 97906 | [97906-chousoku-shoujo-hypersonic-speed-girl.json](./97906-chousoku-shoujo-hypersonic-speed-girl.json) |
 | Chousoku Spinner | 66073 | [66073-chousoku-spinner.json](./66073-chousoku-spinner.json) |
 | Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
+| Chowdertwo | 29644 | [29644-chowdertwo.json](./29644-chowdertwo.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
