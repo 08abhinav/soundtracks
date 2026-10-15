@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase | 317902 | [317902-chase.json](./317902-chase.json) |
 | Chase | 85997 | [85997-chase.json](./85997-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
+| Chase 1929 | 39444 | [39444-chase-1929.json](./39444-chase-1929.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
