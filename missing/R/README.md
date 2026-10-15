@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
+| Real Robot Regiment | 59332 | [59332-real-robot-regiment.json](./59332-real-robot-regiment.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
+| Red Victory | 59320 | [59320-red-victory.json](./59320-red-victory.json) |
 | Red vs. Green | 362395 | [362395-red-vs-green.json](./362395-red-vs-green.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
@@ -6123,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotization: A Last Human | 225223 | [225223-robotization-a-last-human.json](./225223-robotization-a-last-human.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
 | Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
+| Robotory | 59304 | [59304-robotory.json](./59304-robotory.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
@@ -8036,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
+| Ruin: Kami no Isan | 59325 | [59325-ruin-kami-no-isan.json](./59325-ruin-kami-no-isan.json) |
 | Ruin's Hold | 180553 | [180553-ruins-hold.json](./180553-ruins-hold.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
