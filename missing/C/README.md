@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Adventure DX | 280448 | [280448-castlevania-the-adventure-dx.json](./280448-castlevania-the-adventure-dx.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Arcade | 1145 | [1145-castlevania-the-arcade.json](./1145-castlevania-the-arcade.json) |
+| Castlevania: The Dracula X Chronicles | 21888 | [21888-castlevania-the-dracula-x-chronicles.json](./21888-castlevania-the-dracula-x-chronicles.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
@@ -10017,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
+| Corpse Party | 21843 | [21843-corpse-party.json](./21843-corpse-party.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpse Party II: Darkness Distortion | 261147 | [261147-corpse-party-ii-darkness-distortion.json](./261147-corpse-party-ii-darkness-distortion.json) |
 | Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition | 294812 | [294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json](./294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json) |
