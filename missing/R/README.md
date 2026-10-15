@@ -5375,7 +5375,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riser of Babel | 301084 | [301084-riser-of-babel.json](./301084-riser-of-babel.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
+| Rising Angels: Fates | 60441 | [60441-rising-angels-fates.json](./60441-rising-angels-fates.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
+| Rising Angels: The Red Rose | 60424 | [60424-rising-angels-the-red-rose.json](./60424-rising-angels-the-red-rose.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Blood | 263408 | [263408-rising-blood.json](./263408-rising-blood.json) |
 | Rising Board 3D | 23675 | [23675-rising-board-3d.json](./23675-rising-board-3d.json) |
