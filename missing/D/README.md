@@ -9281,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
 | Double Symbol | 267564 | [267564-double-symbol.json](./267564-double-symbol.json) |
+| Double Take | 36882 | [36882-double-take.json](./36882-double-take.json) |
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
 | Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
 | Double Time | 187281 | [187281-double-time.json](./187281-double-time.json) |
