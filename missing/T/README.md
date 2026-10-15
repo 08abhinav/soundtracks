@@ -4975,7 +4975,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Riddick: Escape from Butcher Bay | 250 | [250-the-chronicles-of-riddick-escape-from-butcher-bay.json](./250-the-chronicles-of-riddick-escape-from-butcher-bay.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay - The Developer's Cut | 24169 | [24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json](./24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json) |
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
+| The Chronicles of Shakespeare: A Midsummer Night's Dream | 62649 | [62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
+| The Chronicles of Shakespeare: Romeo & Juliet | 62651 | [62651-the-chronicles-of-shakespeare-romeo-and-juliet.json](./62651-the-chronicles-of-shakespeare-romeo-and-juliet.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
 | The Chronos Event | 265861 | [265861-the-chronos-event.json](./265861-the-chronos-event.json) |
 | The Chronos Principle | 153964 | [153964-the-chronos-principle.json](./153964-the-chronos-principle.json) |
@@ -10804,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
 | The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
+| The Screamer | 62616 | [62616-the-screamer.json](./62616-the-screamer.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
@@ -16052,6 +16055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
+| Tiny Plane | 62613 | [62613-tiny-plane.json](./62613-tiny-plane.json) |
 | Tiny Plushie Story | 356597 | [356597-tiny-plushie-story.json](./356597-tiny-plushie-story.json) |
 | Tiny Pods Rescue: 2D Board Game Edition | 319274 | [319274-tiny-pods-rescue-2d-board-game-edition.json](./319274-tiny-pods-rescue-2d-board-game-edition.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
@@ -20512,6 +20516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Träumerei: Chapter 3 | 137447 | [137447-traumerei-chapter-3.json](./137447-traumerei-chapter-3.json) |
 | Träumerei: Chapter 4 | 137448 | [137448-traumerei-chapter-4.json](./137448-traumerei-chapter-4.json) |
 | Traumruf | 229737 | [229737-traumruf.json](./229737-traumruf.json) |
+| Travel Adventures with Hello Kitty | 62658 | [62658-travel-adventures-with-hello-kitty.json](./62658-travel-adventures-with-hello-kitty.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Center Tycoon | 220158 | [220158-travel-center-tycoon.json](./220158-travel-center-tycoon.json) |
@@ -21383,6 +21388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
+| Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
