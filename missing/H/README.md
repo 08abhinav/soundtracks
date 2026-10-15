@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
+| Hall of the Things | 26305 | [26305-hall-of-the-things.json](./26305-hall-of-the-things.json) |
 | Halla | 101703 | [101703-halla.json](./101703-halla.json) |
 | Halley Wars | 19509 | [19509-halley-wars.json](./19509-halley-wars.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Demon | 156917 | [156917-hero-of-the-demon.json](./156917-hero-of-the-demon.json) |
 | Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
+| Hero of the Golden Talisman | 26348 | [26348-hero-of-the-golden-talisman.json](./26348-hero-of-the-golden-talisman.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
 | Hero of the Kingdom | 9638 | [9638-hero-of-the-kingdom.json](./9638-hero-of-the-kingdom.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
@@ -7975,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
+| Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
