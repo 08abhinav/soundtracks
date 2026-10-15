@@ -3439,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
 | Final Fantasy Collection | 41855 | [41855-final-fantasy-collection.json](./41855-final-fantasy-collection.json) |
 | Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
+| Final Fantasy Dimensions | 19080 | [19080-final-fantasy-dimensions.json](./19080-final-fantasy-dimensions.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
@@ -9027,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
 | Fullcourt Thunder | 60995 | [60995-fullcourt-thunder.json](./60995-fullcourt-thunder.json) |
+| Fullmetal Alchemist 2: Curse of the Crimson Elixir | 19072 | [19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json](./19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json) |
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
