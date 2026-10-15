@@ -825,6 +825,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/24/55/1324552c-096a-2c6c-3eff-b16a699cf609/SQEX-10642_3000x3000.jpg/600x600bb.jpg" width="60" /> | [Octopath Traveler](https://ostdb.net/games/octopath-traveler) | **OCTOPATH TRAVELER Original Soundtrack** · [Spotify](https://music.apple.com/us/album/octopath-traveler-original-soundtrack/1406665639?uo=4) · [Album](https://album.link/i/1406665639) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b10e30da0ac937ef069e8105" width="60" /> | [Of Orcs and Men](https://ostdb.net/games/of-orcs-and-men) | **Of Orcs and Men (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5NxfchkwSudQjjTrt1QhP3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c04827f4e2409b29305bcd9" width="60" /> | [Off The Grid](https://ostdb.net/games/off-the-grid) | **Off The Grid (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/42mvvFhcwURwaiKABM8Omo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273752e8ea43711c08f3a9081a2" width="60" /> | [Offworld Trading Company](https://ostdb.net/games/offworld-trading-company) | **Offworld Trading Company (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/55JznAdjnXXoG8Q4uIeBib) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c58d0c7dbe0eb9a9b24913a0" width="60" /> | [Omensight](https://ostdb.net/games/omensight) | **Omensight (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3oypFhaTURYbZqqEy2rYX4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328529dd9934b39f462e30542" width="60" /> | [Omno](https://ostdb.net/games/omno) | **Omno (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/67B8xQqA3K2I98vqhYQdzA) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/3e/fb/9c3efb1c-a0d1-d63a-5a34-bb91f94829bb/4711281418212.jpg/600x600bb.jpg" width="60" /> | [Once Human](https://ostdb.net/games/once-human) | **七日世界 (Original Soundtrack, Pt. 1)** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4) · [Album](https://album.link/i/1756061492) |
@@ -1377,4 +1378,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1694 soundtracks · last updated 2026-10-15T19:36:57.288Z_
+_1695 soundtracks · last updated 2026-10-15T19:37:09.982Z_
