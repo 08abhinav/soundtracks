@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facing | 384162 | [384162-facing.json](./384162-facing.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
+| Facist | 61515 | [61515-facist.json](./61515-facist.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
@@ -3654,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
 | Final Sky | 59819 | [59819-final-sky.json](./59819-final-sky.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
+| Final Slam II | 61494 | [61494-final-slam-ii.json](./61494-final-slam-ii.json) |
 | Final Soccer VR - Previously Final Goalie | 30552 | [30552-final-soccer-vr-previously-final-goalie.json](./30552-final-soccer-vr-previously-final-goalie.json) |
 | Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
