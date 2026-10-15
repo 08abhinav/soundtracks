@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndeavorOTC | 330777 | [330777-endeavorotc.json](./330777-endeavorotc.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
+| Ender Lilies: Quietus of the Knights | 138858 | [138858-ender-lilies-quietus-of-the-knights.json](./138858-ender-lilies-quietus-of-the-knights.json) |
 | Ender Magnolia: Bloom in the Mist | 287846 | [287846-ender-magnolia-bloom-in-the-mist.json](./287846-ender-magnolia-bloom-in-the-mist.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
 | Ender of Fire | 60797 | [60797-ender-of-fire.json](./60797-ender-of-fire.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Unleashed | 269118 | [269118-evil-unleashed.json](./269118-evil-unleashed.json) |
 | Evil Vents | 318112 | [318112-evil-vents.json](./318112-evil-vents.json) |
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
+| Evil West | 141547 | [141547-evil-west.json](./141547-evil-west.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
