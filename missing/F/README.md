@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Arctic Challenge | 199898 | [199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json](./199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
+| Fast & Furious: SuperCars | 65413 | [65413-fast-and-furious-supercars.json](./65413-fast-and-furious-supercars.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
