@@ -5866,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
 | Great Greed | 48994 | [48994-great-greed.json](./48994-great-greed.json) |
+| Great Gun Gauntlet | 70881 | [70881-great-gun-gauntlet.json](./70881-great-gun-gauntlet.json) |
 | Great Harvester | 353807 | [353807-great-harvester.json](./353807-great-harvester.json) |
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
