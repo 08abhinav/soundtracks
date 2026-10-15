@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Pahelica Revelations | 22116 | [22116-pahelica-revelations.json](./22116-pahelica-revelations.json) |
+| Pahelika Secret Legends | 10649 | [10649-pahelika-secret-legends.json](./10649-pahelika-secret-legends.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
+| Paranormal State: Poison Spring | 10655 | [10655-paranormal-state-poison-spring.json](./10655-paranormal-state-poison-spring.json) |
 | Paranormal State: Poison Spring - Collector's Edition | 30379 | [30379-paranormal-state-poison-spring-collectors-edition.json](./30379-paranormal-state-poison-spring-collectors-edition.json) |
 | Paranormal Stories | 164590 | [164590-paranormal-stories.json](./164590-paranormal-stories.json) |
 | Paranormal Survey | 338854 | [338854-paranormal-survey.json](./338854-paranormal-survey.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particula | 18179 | [18179-particula.json](./18179-particula.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
+| Partisan | 10656 | [10656-partisan.json](./10656-partisan.json) |
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
 | Partisans 1941: Extended Edition | 193743 | [193743-partisans-1941-extended-edition.json](./193743-partisans-1941-extended-edition.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
@@ -2152,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
+| Patrician IV: Rise of a Dynasty | 10689 | [10689-patrician-iv-rise-of-a-dynasty.json](./10689-patrician-iv-rise-of-a-dynasty.json) |
 | Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
@@ -2374,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Street Smart Tailor Pack | 252883 | [252883-payday-2-street-smart-tailor-pack.json](./252883-payday-2-street-smart-tailor-pack.json) |
 | Payday 2: Sydney Character Pack | 225173 | [225173-payday-2-sydney-character-pack.json](./225173-payday-2-sydney-character-pack.json) |
 | Payday 2: The Alesso Heist | 167689 | [167689-payday-2-the-alesso-heist.json](./167689-payday-2-the-alesso-heist.json) |
+| Payday 2: The Armored Transport | 10691 | [10691-payday-2-the-armored-transport.json](./10691-payday-2-the-armored-transport.json) |
 | Payday 2: The Big Bank Heist | 150508 | [150508-payday-2-the-big-bank-heist.json](./150508-payday-2-the-big-bank-heist.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: The Bomb Heists | 167692 | [167692-payday-2-the-bomb-heists.json](./167692-payday-2-the-bomb-heists.json) |
@@ -3112,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
+| Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
 | Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
@@ -4834,7 +4840,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2 VR | 26292 | [26292-pinball-fx2-vr.json](./26292-pinball-fx2-vr.json) |
+| Pinball FX2: Civil War Table DLC | 10694 | [10694-pinball-fx2-civil-war-table-dlc.json](./10694-pinball-fx2-civil-war-table-dlc.json) |
 | Pinball FX2: Epic Quest Table | 10695 | [10695-pinball-fx2-epic-quest-table.json](./10695-pinball-fx2-epic-quest-table.json) |
+| Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
@@ -5302,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
 | Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
+| Pirates of Black Cove: Origins | 10697 | [10697-pirates-of-black-cove-origins.json](./10697-pirates-of-black-cove-origins.json) |
 | Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of Everseas | 89524 | [89524-pirates-of-everseas.json](./89524-pirates-of-everseas.json) |
@@ -6247,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
+| Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
@@ -6943,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plink Void | 413499 | [413499-plink-void.json](./413499-plink-void.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plinko: Ball Falling | 264795 | [264795-plinko-ball-falling.json](./264795-plinko-ball-falling.json) |
+| Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
@@ -8110,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position 2010 | 158942 | [158942-pole-position-2010.json](./158942-pole-position-2010.json) |
+| Pole Position 2012 | 10708 | [10708-pole-position-2012.json](./10708-pole-position-2012.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Position: Remix | 21875 | [21875-pole-position-remix.json](./21875-pole-position-remix.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
@@ -8145,7 +8157,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
 | Police Drifty Chase | 181641 | [181641-police-drifty-chase.json](./181641-police-drifty-chase.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
+| Police Force | 10709 | [10709-police-force.json](./10709-police-force.json) |
 | Police Force | 125763 | [125763-police-force.json](./125763-police-force.json) |
+| Police Force 2 | 10710 | [10710-police-force-2.json](./10710-police-force-2.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
@@ -8169,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Sim 2022 | 188335 | [188335-police-sim-2022.json](./188335-police-sim-2022.json) |
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
+| Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
@@ -8851,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
+| Port Royale 3: Dawn of Pirates | 10713 | [10713-port-royale-3-dawn-of-pirates.json](./10713-port-royale-3-dawn-of-pirates.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
@@ -9049,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
 | Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
+| Postmortem: One must Die | 10715 | [10715-postmortem-one-must-die.json](./10715-postmortem-one-must-die.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
@@ -10288,6 +10305,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
+| Pro Cycling Manager 2011 | 10720 | [10720-pro-cycling-manager-2011.json](./10720-pro-cycling-manager-2011.json) |
+| Pro Cycling Manager 2012 | 10721 | [10721-pro-cycling-manager-2012.json](./10721-pro-cycling-manager-2012.json) |
+| Pro Cycling Manager 2013 | 10722 | [10722-pro-cycling-manager-2013.json](./10722-pro-cycling-manager-2013.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
@@ -10380,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Quarterback | 45778 | [45778-pro-quarterback.json](./45778-pro-quarterback.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
+| Pro Riders Snowboard Extreme Edition | 10726 | [10726-pro-riders-snowboard-extreme-edition.json](./10726-pro-riders-snowboard-extreme-edition.json) |
 | Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
@@ -12088,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
+| Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
 | Purified | 374255 | [374255-purified.json](./374255-purified.json) |
