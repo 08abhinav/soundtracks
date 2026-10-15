@@ -327,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
 | Daisenryaku Perfect: Senjou no Hasha | 65049 | [65049-daisenryaku-perfect-senjou-no-hasha.json](./65049-daisenryaku-perfect-senjou-no-hasha.json) |
+| Daisenryaku Portable | 56396 | [56396-daisenryaku-portable.json](./56396-daisenryaku-portable.json) |
+| Daisenryaku Portable 2 | 56397 | [56397-daisenryaku-portable-2.json](./56397-daisenryaku-portable-2.json) |
 | Daisenryaku SSB2 | 368908 | [368908-daisenryaku-ssb2.json](./368908-daisenryaku-ssb2.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
@@ -6061,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
+| Digital Combat Simulator: AJS-37 Viggen | 56382 | [56382-digital-combat-simulator-ajs-37-viggen.json](./56382-digital-combat-simulator-ajs-37-viggen.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Combat Simulator: Combined Arms | 79380 | [79380-digital-combat-simulator-combined-arms.json](./79380-digital-combat-simulator-combined-arms.json) |
 | Digital Combat Simulator: MiG-21Bis Fishbed | 76457 | [76457-digital-combat-simulator-mig-21bis-fishbed.json](./76457-digital-combat-simulator-mig-21bis-fishbed.json) |
