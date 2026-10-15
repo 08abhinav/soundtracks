@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
+| Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q: A Dystopian Queueing Simulator | 135620 | [135620-q-a-dystopian-queueing-simulator.json](./135620-q-a-dystopian-queueing-simulator.json) |
