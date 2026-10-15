@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| Warship Girls | 58119 | [58119-warship-girls.json](./58119-warship-girls.json) |
 | Warship Girls R | 175724 | [175724-warship-girls-r.json](./175724-warship-girls-r.json) |
 | WarShip HD | 205010 | [205010-warship-hd.json](./205010-warship-hd.json) |
 | Warship Jolly Roger | 282250 | [282250-warship-jolly-roger.json](./282250-warship-jolly-roger.json) |
