@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
 | Tetris Rtx | 191053 | [191053-tetris-rtx.json](./191053-tetris-rtx.json) |
+| Tetris S | 64306 | [64306-tetris-s.json](./64306-tetris-s.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Splash | 20766 | [20766-tetris-splash.json](./20766-tetris-splash.json) |
 | Tetris Time Warp | 333775 | [333775-tetris-time-warp.json](./333775-tetris-time-warp.json) |
@@ -16756,6 +16757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
+| Tokushu Houdoubu | 64320 | [64320-tokushu-houdoubu.json](./64320-tokushu-houdoubu.json) |
 | Tokusou Kidoutai J-SWAT | 54732 | [54732-tokusou-kidoutai-j-swat.json](./54732-tokusou-kidoutai-j-swat.json) |
 | Tokutenryoku Gakushuu DS: Chuugaku Junbi Tokubetsu-hen Shougakkou 4 Kyouka Youten Matome - Chuugaku eigo Sakidori | 269617 | [269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json](./269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json) |
 | Tokyo 2029 A.D | 62790 | [62790-tokyo-2029-a-d.json](./62790-tokyo-2029-a-d.json) |
@@ -22712,6 +22714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TY the Tasmanian Tiger 4: Bush Rescue Returns | 264559 | [264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json](./264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | TY the Tasmanian Tiger HD + TY the Tasmanian Tiger 2: Bush Rescue HD Bundle | 158950 | [158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json](./158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json) |
+| Ty the Tasmanian Tiger: Boomerang Blast | 64322 | [64322-ty-the-tasmanian-tiger-boomerang-blast.json](./64322-ty-the-tasmanian-tiger-boomerang-blast.json) |
 | Ty the Tasmanian Tiger: Bush Rescue Bundle | 336490 | [336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json](./336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
