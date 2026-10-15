@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
+| D/Generation | 12028 | [12028-d-generation.json](./12028-d-generation.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
@@ -386,9 +387,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
+| Dalek Attack | 12029 | [12029-dalek-attack.json](./12029-dalek-attack.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
+| Daley Thompson's Olympic Challenge | 12030 | [12030-daley-thompsons-olympic-challenge.json](./12030-daley-thompsons-olympic-challenge.json) |
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
