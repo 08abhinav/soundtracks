@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helium Electric | 190104 | [190104-helium-electric.json](./190104-helium-electric.json) |
 | Helium Rain | 51733 | [51733-helium-rain.json](./51733-helium-rain.json) |
 | Helium Skies | 65808 | [65808-helium-skies.json](./65808-helium-skies.json) |
+| Helium Skies 2 | 67910 | [67910-helium-skies-2.json](./67910-helium-skies-2.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Helix | 139802 | [139802-helix.json](./139802-helix.json) |
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
@@ -4670,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
 | Hidden Object - Home Makeover | 71572 | [71572-hidden-object-home-makeover.json](./71572-hidden-object-home-makeover.json) |
 | Hidden Object - Sweet Home | 72403 | [72403-hidden-object-sweet-home.json](./72403-hidden-object-sweet-home.json) |
+| Hidden Object - Tools | 67899 | [67899-hidden-object-tools.json](./67899-hidden-object-tools.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
 | Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
 | Hidden Object Adventure Bundle | 331526 | [331526-hidden-object-adventure-bundle.json](./331526-hidden-object-adventure-bundle.json) |
@@ -5020,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Mountain Roller Coaster VR | 160147 | [160147-high-mountain-roller-coaster-vr.json](./160147-high-mountain-roller-coaster-vr.json) |
+| High Noon | 67870 | [67870-high-noon.json](./67870-high-noon.json) |
 | High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
