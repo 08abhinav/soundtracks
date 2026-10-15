@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
+| Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
 | Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
+| Navy Field 2 : Conqueror of the Ocean | 28578 | [28578-navy-field-2-conqueror-of-the-ocean.json](./28578-navy-field-2-conqueror-of-the-ocean.json) |
 | Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
@@ -2155,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: Hearthbridge Cabinet - Collector's Edition | 132557 | [132557-nevertales-hearthbridge-cabinet-collectors-edition.json](./132557-nevertales-hearthbridge-cabinet-collectors-edition.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
+| Nevertales: Smoke and Mirrors - Collector's Edition | 28615 | [28615-nevertales-smoke-and-mirrors-collectors-edition.json](./28615-nevertales-smoke-and-mirrors-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
 | Nevertales: The Beauty Within - Collector's Edition | 32786 | [32786-nevertales-the-beauty-within-collectors-edition.json](./32786-nevertales-the-beauty-within-collectors-edition.json) |
@@ -3900,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Breaks Valet | 268949 | [268949-no-breaks-valet.json](./268949-no-breaks-valet.json) |
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
+| No Clue VR | 28669 | [28669-no-clue-vr.json](./28669-no-clue-vr.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cook Today | 414829 | [414829-no-cook-today.json](./414829-no-cook-today.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
