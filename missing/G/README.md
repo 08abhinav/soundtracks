@@ -6523,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
+| Gritty Bit VR | 38815 | [38815-gritty-bit-vr.json](./38815-gritty-bit-vr.json) |
 | Gritz: The Pyramid Adventure | 286581 | [286581-gritz-the-pyramid-adventure.json](./286581-gritz-the-pyramid-adventure.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
