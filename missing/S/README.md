@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
+| Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
@@ -4777,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowhand | 18690 | [18690-shadowhand.json](./18690-shadowhand.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | ShadowHawk | 37885 | [37885-shadowhawk.json](./37885-shadowhawk.json) |
+| Shadowkeep | 24779 | [24779-shadowkeep.json](./24779-shadowkeep.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowland | 206147 | [206147-shadowland.json](./206147-shadowland.json) |
@@ -16430,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
+| Star Fury | 24777 | [24777-star-fury.json](./24777-star-fury.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
@@ -24459,6 +24462,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman VR | 149881 | [149881-swordsman-vr.json](./149881-swordsman-vr.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | Swordthrust | 22495 | [22495-swordthrust.json](./22495-swordthrust.json) |
+| Swordthrust 2: The Vampyre Caves | 24789 | [24789-swordthrust-2-the-vampyre-caves.json](./24789-swordthrust-2-the-vampyre-caves.json) |
+| Swordthrust 3: The Kidnappers Cove | 24791 | [24791-swordthrust-3-the-kidnappers-cove.json](./24791-swordthrust-3-the-kidnappers-cove.json) |
+| Swordthrust 4: The Case of the Sultan's Pearl | 24792 | [24792-swordthrust-4-the-case-of-the-sultans-pearl.json](./24792-swordthrust-4-the-case-of-the-sultans-pearl.json) |
 | Swordthrust 5: The Green Plague | 24793 | [24793-swordthrust-5-the-green-plague.json](./24793-swordthrust-5-the-green-plague.json) |
 | Swordthrust 6: The Eternal Curse | 24794 | [24794-swordthrust-6-the-eternal-curse.json](./24794-swordthrust-6-the-eternal-curse.json) |
 | Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
