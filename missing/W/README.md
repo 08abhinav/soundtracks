@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westboro | 28296 | [28296-westboro.json](./28296-westboro.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
+| Westerado | 8903 | [8903-westerado.json](./8903-westerado.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: Prophecy | 248587 | [248587-wing-commander-prophecy.json](./248587-wing-commander-prophecy.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
 | Wing Commander: Prophecy - Special Edition | 69758 | [69758-wing-commander-prophecy-special-edition.json](./69758-wing-commander-prophecy-special-edition.json) |
+| Wing Commander: Secret Ops | 8892 | [8892-wing-commander-secret-ops.json](./8892-wing-commander-secret-ops.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
 | Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | WitchAction | 111614 | [111614-witchaction.json](./111614-witchaction.json) |
 | Witcharoo | 271423 | [271423-witcharoo.json](./271423-witcharoo.json) |
+| Witchaven | 8687 | [8687-witchaven.json](./8687-witchaven.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchaven II: Blood Vengeance | 8688 | [8688-witchaven-ii-blood-vengeance.json](./8688-witchaven-ii-blood-vengeance.json) |
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
@@ -6491,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Brawl | 94141 | [94141-wwe-brawl.json](./94141-wwe-brawl.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
+| WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
