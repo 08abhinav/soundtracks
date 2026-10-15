@@ -3161,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
+| Glacier | 73153 | [73153-glacier.json](./73153-glacier.json) |
 | Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Glacier Patrol | 40674 | [40674-glacier-patrol.json](./40674-glacier-patrol.json) |
@@ -5120,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Eraser | 116246 | [116246-graffiti-eraser.json](./116246-graffiti-eraser.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
+| Graffiti Man | 73155 | [73155-graffiti-man.json](./73155-graffiti-man.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | Graffiti Smash | 98559 | [98559-graffiti-smash.json](./98559-graffiti-smash.json) |
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
