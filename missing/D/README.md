@@ -6119,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
+| Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
+| Dreamblaster | 38764 | [38764-dreamblaster.json](./38764-dreamblaster.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | Dreambreak | 21294 | [21294-dreambreak.json](./21294-dreambreak.json) |
