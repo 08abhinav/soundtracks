@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
+| Happy Birthday, Bernard | 30615 | [30615-happy-birthday-bernard.json](./30615-happy-birthday-bernard.json) |
 | Happy Birthday, Csonicgo! | 262558 | [262558-happy-birthday-csonicgo.json](./262558-happy-birthday-csonicgo.json) |
 | Happy Birthday: The Horror of Christmas | 295111 | [295111-happy-birthday-the-horror-of-christmas.json](./295111-happy-birthday-the-horror-of-christmas.json) |
 | Happy Birthday: With Sergio Spellbound | 319682 | [319682-happy-birthday-with-sergio-spellbound.json](./319682-happy-birthday-with-sergio-spellbound.json) |
@@ -4287,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
+| Hex Phase | 30609 | [30609-hex-phase.json](./30609-hex-phase.json) |
 | Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Plus | 100061 | [100061-hex-plus.json](./100061-hex-plus.json) |
