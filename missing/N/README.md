@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
+| Ninja Grannies | 70859 | [70859-ninja-grannies.json](./70859-ninja-grannies.json) |
 | Ninja Guy | 27582 | [27582-ninja-guy.json](./27582-ninja-guy.json) |
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hamster | 39150 | [39150-ninja-hamster.json](./39150-ninja-hamster.json) |
