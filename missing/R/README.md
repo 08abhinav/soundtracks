@@ -710,7 +710,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
+| Raiden DX | 8857 | [8857-raiden-dx.json](./8857-raiden-dx.json) |
+| Raiden Fighters | 8858 | [8858-raiden-fighters.json](./8858-raiden-fighters.json) |
+| Raiden Fighters 2: Operation Hell Dive | 8859 | [8859-raiden-fighters-2-operation-hell-dive.json](./8859-raiden-fighters-2-operation-hell-dive.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
+| Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax | 225770 | [225770-raiden-iii-x-mikado-maniax.json](./225770-raiden-iii-x-mikado-maniax.json) |
@@ -2194,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania III: Shadows over Riva | 2498 | [2498-realms-of-arkania-iii-shadows-over-riva.json](./2498-realms-of-arkania-iii-shadows-over-riva.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
+| Realms of Arkania: Blade of Destiny | 8767 | [8767-realms-of-arkania-blade-of-destiny.json](./8767-realms-of-arkania-blade-of-destiny.json) |
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
