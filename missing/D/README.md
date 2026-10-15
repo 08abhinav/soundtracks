@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eden | 30713 | [30713-dark-eden.json](./30713-dark-eden.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Eden: Blood War | 220288 | [220288-dark-eden-blood-war.json](./220288-dark-eden-blood-war.json) |
+| Dark Edge | 39413 | [39413-dark-edge.json](./39413-dark-edge.json) |
 | Dark Effigy | 181059 | [181059-dark-effigy.json](./181059-dark-effigy.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish Fist | 39445 | [39445-demolish-fist.json](./39445-demolish-fist.json) |
 | Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
@@ -6581,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
+| Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
 | Dirt Journey: Nitro | 216141 | [216141-dirt-journey-nitro.json](./216141-dirt-journey-nitro.json) |
@@ -6632,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Piggy | 364995 | [364995-dirty-piggy.json](./364995-dirty-piggy.json) |
+| Dirty Pigskin Football | 39443 | [39443-dirty-pigskin-football.json](./39443-dirty-pigskin-football.json) |
 | Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
