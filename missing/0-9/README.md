@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1944: The Loop Master | 6079 | [6079-1944-the-loop-master.json](./6079-1944-the-loop-master.json) |
 | 1945 Air Strike | 76464 | [76464-1945-air-strike.json](./76464-1945-air-strike.json) |
 | 1945 Air Strike Classic | 88622 | [88622-1945-air-strike-classic.json](./88622-1945-air-strike-classic.json) |
+| 1945 I & II: The Arcade Games | 61500 | [61500-1945-i-and-ii-the-arcade-games.json](./61500-1945-i-and-ii-the-arcade-games.json) |
 | 1948 Dawn of Future | 256213 | [256213-1948-dawn-of-future.json](./256213-1948-dawn-of-future.json) |
 | 195 Hours in the Cold | 216296 | [216296-195-hours-in-the-cold.json](./216296-195-hours-in-the-cold.json) |
 | 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Story: Warrior Armor Package | 377385 | [377385-4story-warrior-armor-package.json](./377385-4story-warrior-armor-package.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
+| 4th & Goal Football | 61504 | [61504-4th-and-goal-football.json](./61504-4th-and-goal-football.json) |
 | 4th Dawn | 219512 | [219512-4th-dawn.json](./219512-4th-dawn.json) |
 | 4th Dimension | 137934 | [137934-4th-dimension.json](./137934-4th-dimension.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
