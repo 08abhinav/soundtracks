@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR: Automata - 6C2P4A118680823 | 312117 | [312117-nier-automata-6c2p4a118680823.json](./312117-nier-automata-6c2p4a118680823.json) |
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
+| Nier: Automata - Game of the Yorha Edition | 113345 | [113345-nier-automata-game-of-the-yorha-edition.json](./113345-nier-automata-game-of-the-yorha-edition.json) |
 | NieR: Automata - Limited Edition Steelbook | 44539 | [44539-nier-automata-limited-edition-steelbook.json](./44539-nier-automata-limited-edition-steelbook.json) |
 | NieR: Automata - Steelbook Edition | 166307 | [166307-nier-automata-steelbook-edition.json](./166307-nier-automata-steelbook-edition.json) |
 | Nier: Automata - The End of Yorha Edition | 206805 | [206805-nier-automata-the-end-of-yorha-edition.json](./206805-nier-automata-the-end-of-yorha-edition.json) |
