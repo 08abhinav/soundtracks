@@ -1495,6 +1495,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
+| Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
+| Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Art & Puzzle | 205110 | [205110-kids-art-and-puzzle.json](./205110-kids-art-and-puzzle.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
@@ -3870,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kreton La Resistance | 317428 | [317428-kreton-la-resistance.json](./317428-kreton-la-resistance.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
+| Krieg | 55807 | [55807-krieg.json](./55807-krieg.json) |
 | Kriegsfront Battlescaper | 212715 | [212715-kriegsfront-battlescaper.json](./212715-kriegsfront-battlescaper.json) |
 | Kriegsland | 196022 | [196022-kriegsland.json](./196022-kriegsland.json) |
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
