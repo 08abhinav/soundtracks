@@ -7666,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
+| Apocalypse II | 42434 | [42434-apocalypse-ii.json](./42434-apocalypse-ii.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
