@@ -3755,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
+| Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
+| Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
 | Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
@@ -5277,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
+| Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christ's Revenge: Ascension | 255598 | [255598-christs-revenge-ascension.json](./255598-christs-revenge-ascension.json) |
@@ -11719,6 +11722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
+| Crisis City | 43784 | [43784-crisis-city.json](./43784-crisis-city.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
