@@ -8604,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
+| The Legend of Silkroad | 39416 | [39416-the-legend-of-silkroad.json](./39416-the-legend-of-silkroad.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Slime | 67923 | [67923-the-legend-of-slime.json](./67923-the-legend-of-slime.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
@@ -10835,8 +10836,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rule of Land: Pioneers | 130112 | [130112-the-rule-of-land-pioneers.json](./130112-the-rule-of-land-pioneers.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
+| The Rumble Fish | 39435 | [39435-the-rumble-fish.json](./39435-the-rumble-fish.json) |
 | The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
 | The Rumble Fish 2 | 222946 | [222946-the-rumble-fish-2.json](./222946-the-rumble-fish-2.json) |
+| The Rumble Fish 2 | 39434 | [39434-the-rumble-fish-2.json](./39434-the-rumble-fish-2.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
@@ -11276,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Arcade | 78556 | [78556-the-simpsons-arcade.json](./78556-the-simpsons-arcade.json) |
 | The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
+| The Simpsons Bowling | 39415 | [39415-the-simpsons-bowling.json](./39415-the-simpsons-bowling.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
 | The Simpsons Movie: The Ball of Death | 315195 | [315195-the-simpsons-movie-the-ball-of-death.json](./315195-the-simpsons-movie-the-ball-of-death.json) |
