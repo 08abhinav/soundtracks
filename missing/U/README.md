@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Business Tycoon III | 62974 | [62974-ultra-business-tycoon-iii.json](./62974-ultra-business-tycoon-iii.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
+| Ultra Car: Obsticon Onslaught | 60475 | [60475-ultra-car-obsticon-onslaught.json](./60475-ultra-car-obsticon-onslaught.json) |
 | Ultra CDi Soccer | 45904 | [45904-ultra-cdi-soccer.json](./45904-ultra-cdi-soccer.json) |
 | Ultra Chess | 94392 | [94392-ultra-chess.json](./94392-ultra-chess.json) |
 | Ultra Combat 64 | 356271 | [356271-ultra-combat-64.json](./356271-ultra-combat-64.json) |
