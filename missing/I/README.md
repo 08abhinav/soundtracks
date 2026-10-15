@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IceFitter | 290637 | [290637-icefitter.json](./290637-icefitter.json) |
 | IceHockey: Lucky Puck | 245462 | [245462-icehockey-lucky-puck.json](./245462-icehockey-lucky-puck.json) |
 | iceicellClicker | 313760 | [313760-iceicellclicker.json](./313760-iceicellclicker.json) |
+| Iceland 2 | 25492 | [25492-iceland-2.json](./25492-iceland-2.json) |
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Icemaze Cave: Skate Escape | 195560 | [195560-icemaze-cave-skate-escape.json](./195560-icemaze-cave-skate-escape.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
+| Influence | 25482 | [25482-influence.json](./25482-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Influent: Definitive Edition | 252604 | [252604-influent-definitive-edition.json](./252604-influent-definitive-edition.json) |
@@ -3155,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Under&Out | 415501 | [415501-inside-under-and-out.json](./415501-inside-under-and-out.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
 | Inside: Before Birth | 33645 | [33645-inside-before-birth.json](./33645-inside-before-birth.json) |
+| Insider Tales: The Secret of Casanova | 25526 | [25526-insider-tales-the-secret-of-casanova.json](./25526-insider-tales-the-secret-of-casanova.json) |
 | Insider Tales: The Stolen Venus 2 | 202114 | [202114-insider-tales-the-stolen-venus-2.json](./202114-insider-tales-the-stolen-venus-2.json) |
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insiders | 377952 | [377952-insiders.json](./377952-insiders.json) |
