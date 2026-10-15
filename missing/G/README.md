@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of a Small God | 241285 | [241285-genesis-of-a-small-god.json](./241285-genesis-of-a-small-god.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
+| Genesis of Drones | 35422 | [35422-genesis-of-drones.json](./35422-genesis-of-drones.json) |
 | Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
 | Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
+| Go Home - Rage incoming | 35400 | [35400-go-home-rage-incoming.json](./35400-go-home-rage-incoming.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
