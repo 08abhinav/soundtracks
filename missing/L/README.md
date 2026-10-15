@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
+| Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Explore the Farm | 35470 | [35470-lets-explore-the-farm.json](./35470-lets-explore-the-farm.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
+| Liberator TD | 68573 | [68573-liberator-td.json](./68573-liberator-td.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
