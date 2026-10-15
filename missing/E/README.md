@@ -3955,17 +3955,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
 | ESPN Major League Baseball | 72275 | [72275-espn-major-league-baseball.json](./72275-espn-major-league-baseball.json) |
+| ESPN MLB Baseball | 8906 | [8906-espn-mlb-baseball.json](./8906-espn-mlb-baseball.json) |
 | ESPN MLS ExtraTime 2002 | 3906 | [3906-espn-mls-extratime-2002.json](./3906-espn-mls-extratime-2002.json) |
 | ESPN MLS GameNight | 93462 | [93462-espn-mls-gamenight.json](./93462-espn-mls-gamenight.json) |
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 80419 | [80419-espn-national-hockey-night.json](./80419-espn-national-hockey-night.json) |
+| ESPN NBA 2K5 | 8834 | [8834-espn-nba-2k5.json](./8834-espn-nba-2k5.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
+| ESPN NBA Basketball | 8833 | [8833-espn-nba-basketball.json](./8833-espn-nba-basketball.json) |
 | ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
 | ESPN NFL 2K4 | 43471 | [43471-espn-nfl-2k4.json](./43471-espn-nfl-2k4.json) |
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
+| ESPN NFL Football | 8847 | [8847-espn-nfl-football.json](./8847-espn-nfl-football.json) |
 | ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
+| ESPN NHL Hockey | 8841 | [8841-espn-nhl-hockey.json](./8841-espn-nhl-hockey.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
 | ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
 | ESPN Step Aerobics | 38817 | [38817-espn-step-aerobics.json](./38817-espn-step-aerobics.json) |
@@ -4066,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
+| Eternal Eden | 6766 | [6766-eternal-eden.json](./6766-eternal-eden.json) |
 | Eternal Edge | 96251 | [96251-eternal-edge.json](./96251-eternal-edge.json) |
 | Eternal Edge + | 125758 | [125758-eternal-edge.json](./125758-eternal-edge.json) |
 | Eternal Elements | 118788 | [118788-eternal-elements.json](./118788-eternal-elements.json) |
@@ -5416,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
+| Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
