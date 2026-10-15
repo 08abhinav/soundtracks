@@ -4862,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
 | Allie's Story | 399773 | [399773-allies-story.json](./399773-allies-story.json) |
+| Allied Ace Pilots | 69193 | [69193-allied-ace-pilots.json](./69193-allied-ace-pilots.json) |
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
 | Allied General | 14427 | [14427-allied-general.json](./14427-allied-general.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
@@ -6281,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
 | Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
+| Angelic Concert | 69152 | [69152-angelic-concert.json](./69152-angelic-concert.json) |
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
 | Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
@@ -6550,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Friends Adventure | 117637 | [117637-animal-friends-adventure.json](./117637-animal-friends-adventure.json) |
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
+| Animal Genius | 69192 | [69192-animal-genius.json](./69192-animal-genius.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
@@ -7429,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
+| Aoi Namida | 69151 | [69151-aoi-namida.json](./69151-aoi-namida.json) |
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Shiro: HD Remaster | 246873 | [246873-aoi-shiro-hd-remaster.json](./246873-aoi-shiro-hd-remaster.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
@@ -9279,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
+| Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
