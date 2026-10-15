@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
+| A Dead World's Dream | 31596 | [31596-a-dead-worlds-dream.json](./31596-a-dead-worlds-dream.json) |
 | A Death in Hyperspace | 335836 | [335836-a-death-in-hyperspace.json](./335836-a-death-in-hyperspace.json) |
 | A Death in the Red Light | 297761 | [297761-a-death-in-the-red-light.json](./297761-a-death-in-the-red-light.json) |
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
+| A Duel Hand Disaster: Trackher | 31661 | [31661-a-duel-hand-disaster-trackher.json](./31661-a-duel-hand-disaster-trackher.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
 | A Fábrica dos Números | 287152 | [287152-a-fabrica-dos-numeros.json](./287152-a-fabrica-dos-numeros.json) |
@@ -434,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
+| A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
@@ -12254,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tribe: New Land | 52433 | [52433-aztec-tribe-new-land.json](./52433-aztec-tribe-new-land.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
 | Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
+| Aztecalypse | 31620 | [31620-aztecalypse.json](./31620-aztecalypse.json) |
 | Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
 | Aztecs: The Last Sun | 243211 | [243211-aztecs-the-last-sun.json](./243211-aztecs-the-last-sun.json) |
 | Aztex | 14278 | [14278-aztex.json](./14278-aztex.json) |
