@@ -565,6 +565,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
+| Dancing Blade Katteni Momotenshi II: Tears of Eden | 64858 | [64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json](./64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json) |
+| Dancing Blade Katteni Momotenshi! | 64856 | [64856-dancing-blade-katteni-momotenshi.json](./64856-dancing-blade-katteni-momotenshi.json) |
 | Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
@@ -1911,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
 | Day of the Viking | 193682 | [193682-day-of-the-viking.json](./193682-day-of-the-viking.json) |
 | Day of the Viper | 12039 | [12039-day-of-the-viper.json](./12039-day-of-the-viper.json) |
+| Day of the Zombie | 64853 | [64853-day-of-the-zombie.json](./64853-day-of-the-zombie.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
