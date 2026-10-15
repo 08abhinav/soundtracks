@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambie | 257002 | [257002-bambie.json](./257002-bambie.json) |
+| Bambino Rally 3 | 32678 | [32678-bambino-rally-3.json](./32678-bambino-rally-3.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
 | Bamboo | 276407 | [276407-bamboo.json](./276407-bamboo.json) |
 | Bamboo Blade: Sorekara no Chousen | 67705 | [67705-bamboo-blade-sorekara-no-chousen.json](./67705-bamboo-blade-sorekara-no-chousen.json) |
@@ -7842,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
 | Bloxy Puzzles | 106511 | [106511-bloxy-puzzles.json](./106511-bloxy-puzzles.json) |
+| Bloxyz | 32609 | [32609-bloxyz.json](./32609-bloxyz.json) |
 | Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
@@ -8593,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
+| BomberZone | 32628 | [32628-bomberzone.json](./32628-bomberzone.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
@@ -11603,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
+| Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
