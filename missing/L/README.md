@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
+| Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
