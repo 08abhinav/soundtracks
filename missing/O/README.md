@@ -2978,7 +2978,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
+| Oshare Princess | 49773 | [49773-oshare-princess.json](./49773-oshare-princess.json) |
+| Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 49767 | [49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
 | Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 97962 | [97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
+| Oshare Princess 3 | 49772 | [49772-oshare-princess-3.json](./49772-oshare-princess-3.json) |
+| Oshare Princess 5 | 49771 | [49771-oshare-princess-5.json](./49771-oshare-princess-5.json) |
 | Oshare Princess DS: Oshare ni Koi Shite 2 | 123371 | [123371-oshare-princess-ds-oshare-ni-koi-shite-2.json](./123371-oshare-princess-ds-oshare-ni-koi-shite-2.json) |
 | Oshare Princess DS: Oshare ni Koishite! 2 Plus | 214430 | [214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json](./214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json) |
 | Oshi Dorei no Tane | 97783 | [97783-oshi-dorei-no-tane.json](./97783-oshi-dorei-no-tane.json) |
