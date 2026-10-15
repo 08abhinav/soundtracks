@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
+| Green Mirror | 30598 | [30598-green-mirror.json](./30598-green-mirror.json) |
 | Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
 | Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
