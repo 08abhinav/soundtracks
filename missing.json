@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T10:20:47.599Z",
-  "total_missing": 214822,
+  "generated_at": "2026-10-15T10:36:00.703Z",
+  "total_missing": 214872,
   "games": [
     {
       "igdb_id": 191680,
@@ -37240,6 +37240,11 @@
       "igdb_id": 2604,
       "game_name": "Altered Beast",
       "file": "missing/A/2604-altered-beast.json"
+    },
+    {
+      "igdb_id": 49193,
+      "game_name": "Altered Beast: Guardian of the Realms",
+      "file": "missing/A/49193-altered-beast-guardian-of-the-realms.json"
     },
     {
       "igdb_id": 398990,
@@ -75247,9 +75252,19 @@
       "file": "missing/B/47408-backyard-sports-football-rookie-rush.json"
     },
     {
+      "igdb_id": 49243,
+      "game_name": "Backyard Sports: Baseball 2007",
+      "file": "missing/B/49243-backyard-sports-baseball-2007.json"
+    },
+    {
       "igdb_id": 72798,
       "game_name": "Backyard Sports: Baseball 2007",
       "file": "missing/B/72798-backyard-sports-baseball-2007.json"
+    },
+    {
+      "igdb_id": 49242,
+      "game_name": "Backyard Sports: Basketball 2007",
+      "file": "missing/B/49242-backyard-sports-basketball-2007.json"
     },
     {
       "igdb_id": 73785,
@@ -78215,6 +78230,11 @@
       "igdb_id": 211087,
       "game_name": "Ballistic Zen",
       "file": "missing/B/211087-ballistic-zen.json"
+    },
+    {
+      "igdb_id": 49196,
+      "game_name": "Ballistic: Ecks vs. Sever",
+      "file": "missing/B/49196-ballistic-ecks-vs-sever.json"
     },
     {
       "igdb_id": 240738,
@@ -95025,6 +95045,11 @@
       "igdb_id": 49276,
       "game_name": "Best Friends: Dogs & Cats",
       "file": "missing/B/49276-best-friends-dogs-and-cats.json"
+    },
+    {
+      "igdb_id": 49229,
+      "game_name": "Best Friends: My Horse",
+      "file": "missing/B/49229-best-friends-my-horse.json"
     },
     {
       "igdb_id": 84983,
@@ -139812,6 +139837,11 @@
       "file": "missing/C/20605-capcom-classics-collection-vol-2.json"
     },
     {
+      "igdb_id": 49192,
+      "game_name": "Capcom Classics Mini Mix",
+      "file": "missing/C/49192-capcom-classics-mini-mix.json"
+    },
+    {
       "igdb_id": 206704,
       "game_name": "Capcom Coin-Op Collection Volume 1",
       "file": "missing/C/206704-capcom-coin-op-collection-volume-1.json"
@@ -167010,6 +167040,11 @@
       "igdb_id": 18066,
       "game_name": "Classic NES Series: The Legend of Zelda",
       "file": "missing/C/18066-classic-nes-series-the-legend-of-zelda.json"
+    },
+    {
+      "igdb_id": 49205,
+      "game_name": "Classic NES Series: Xevious",
+      "file": "missing/C/49205-classic-nes-series-xevious.json"
     },
     {
       "igdb_id": 136280,
@@ -195595,6 +195630,11 @@
       "igdb_id": 300472,
       "game_name": "Cruis'n USA",
       "file": "missing/C/300472-cruisn-usa.json"
+    },
+    {
+      "igdb_id": 49191,
+      "game_name": "Cruis'n Velocity",
+      "file": "missing/C/49191-cruisn-velocity.json"
     },
     {
       "igdb_id": 386214,
@@ -225152,6 +225192,11 @@
       "file": "missing/D/34304-demigods.json"
     },
     {
+      "igdb_id": 49185,
+      "game_name": "DemiKids: Light Version",
+      "file": "missing/D/49185-demikids-light-version.json"
+    },
+    {
       "igdb_id": 342163,
       "game_name": "Demining",
       "file": "missing/D/342163-demining.json"
@@ -237452,6 +237497,11 @@
       "file": "missing/D/364995-dirty-piggy.json"
     },
     {
+      "igdb_id": 49177,
+      "game_name": "Dirty Racing",
+      "file": "missing/D/49177-dirty-racing.json"
+    },
+    {
       "igdb_id": 241854,
       "game_name": "Dirty Room",
       "file": "missing/D/241854-dirty-room.json"
@@ -239562,6 +239612,11 @@
       "file": "missing/D/339884-disneys-kim-possible.json"
     },
     {
+      "igdb_id": 49186,
+      "game_name": "Disney's Kim Possible 3: Team Possible",
+      "file": "missing/D/49186-disneys-kim-possible-3-team-possible.json"
+    },
+    {
       "igdb_id": 47728,
       "game_name": "Disney's Kim Possible: Kimmunicator",
       "file": "missing/D/47728-disneys-kim-possible-kimmunicator.json"
@@ -239580,6 +239635,11 @@
       "igdb_id": 98558,
       "game_name": "Disney's Lilo & Stitch: Hawaiian Adventure",
       "file": "missing/D/98558-disneys-lilo-and-stitch-hawaiian-adventure.json"
+    },
+    {
+      "igdb_id": 49190,
+      "game_name": "Disney's Little Einsteins",
+      "file": "missing/D/49190-disneys-little-einsteins.json"
     },
     {
       "igdb_id": 51281,
@@ -239810,6 +239870,11 @@
       "igdb_id": 144084,
       "game_name": "Disney's Treasure Planet",
       "file": "missing/D/144084-disneys-treasure-planet.json"
+    },
+    {
+      "igdb_id": 49202,
+      "game_name": "Disney's Treasure Planet",
+      "file": "missing/D/49202-disneys-treasure-planet.json"
     },
     {
       "igdb_id": 213035,
@@ -249147,6 +249212,11 @@
       "file": "missing/D/50624-dora-the-explorer-doras-big-birthday-adventure.json"
     },
     {
+      "igdb_id": 49230,
+      "game_name": "Dora the Explorer: Dora's World Adventure!",
+      "file": "missing/D/49230-dora-the-explorer-doras-world-adventure.json"
+    },
+    {
       "igdb_id": 230375,
       "game_name": "Dora the Explorer: Dora's Worldwide Rescue",
       "file": "missing/D/230375-dora-the-explorer-doras-worldwide-rescue.json"
@@ -249177,9 +249247,19 @@
       "file": "missing/D/230427-dora-the-explorer-pinata-party.json"
     },
     {
+      "igdb_id": 49200,
+      "game_name": "Dora the Explorer: Super Spies",
+      "file": "missing/D/49200-dora-the-explorer-super-spies.json"
+    },
+    {
       "igdb_id": 7974,
       "game_name": "Dora the Explorer: Super Star Adventures",
       "file": "missing/D/7974-dora-the-explorer-super-star-adventures.json"
+    },
+    {
+      "igdb_id": 49201,
+      "game_name": "Dora the Explorer: The Search for Pirate Pig's Treasure",
+      "file": "missing/D/49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json"
     },
     {
       "igdb_id": 275577,
@@ -249255,6 +249335,11 @@
       "igdb_id": 405668,
       "game_name": "Doraemon Comic Traveler",
       "file": "missing/D/405668-doraemon-comic-traveler.json"
+    },
+    {
+      "igdb_id": 49228,
+      "game_name": "Doraemon Dokodemo Walker",
+      "file": "missing/D/49228-doraemon-dokodemo-walker.json"
     },
     {
       "igdb_id": 314958,
@@ -260332,6 +260417,11 @@
       "file": "missing/D/382533-driver-driver-2-twin-pack.json"
     },
     {
+      "igdb_id": 49199,
+      "game_name": "Driver 2 Advance",
+      "file": "missing/D/49199-driver-2-advance.json"
+    },
+    {
       "igdb_id": 6391,
       "game_name": "Driver 2: Back on the Streets",
       "file": "missing/D/6391-driver-2-back-on-the-streets.json"
@@ -263375,6 +263465,11 @@
       "igdb_id": 24257,
       "game_name": "Duel Masters: Kaijudo Showdown",
       "file": "missing/D/24257-duel-masters-kaijudo-showdown.json"
+    },
+    {
+      "igdb_id": 49198,
+      "game_name": "Duel Masters: Sempai Legends",
+      "file": "missing/D/49198-duel-masters-sempai-legends.json"
     },
     {
       "igdb_id": 49402,
@@ -266560,6 +266655,11 @@
       "igdb_id": 674,
       "game_name": "Dungeons & Dragons: Dragonshard",
       "file": "missing/D/674-dungeons-and-dragons-dragonshard.json"
+    },
+    {
+      "igdb_id": 49197,
+      "game_name": "Dungeons & Dragons: Eye of the Beholder",
+      "file": "missing/D/49197-dungeons-and-dragons-eye-of-the-beholder.json"
     },
     {
       "igdb_id": 10253,
@@ -288890,6 +288990,11 @@
       "igdb_id": 5382,
       "game_name": "ESPN Sunday Night NFL",
       "file": "missing/E/5382-espn-sunday-night-nfl.json"
+    },
+    {
+      "igdb_id": 49206,
+      "game_name": "ESPN Winter X-Games Snowboarding 2002",
+      "file": "missing/E/49206-espn-winter-x-games-snowboarding-2002.json"
     },
     {
       "igdb_id": 248752,
@@ -375867,6 +375972,11 @@
       "file": "missing/G/53069-gremlins-inc-the-governor-edition.json"
     },
     {
+      "igdb_id": 49232,
+      "game_name": "Gremlins: Stripe vs. Gizmo",
+      "file": "missing/G/49232-gremlins-stripe-vs-gizmo.json"
+    },
+    {
       "igdb_id": 275065,
       "game_name": "Gremlore",
       "file": "missing/G/275065-gremlore.json"
@@ -383365,6 +383475,11 @@
       "igdb_id": 84233,
       "game_name": "Guru Logic",
       "file": "missing/G/84233-guru-logic.json"
+    },
+    {
+      "igdb_id": 49239,
+      "game_name": "Guru Logic Champ",
+      "file": "missing/G/49239-guru-logic-champ.json"
     },
     {
       "igdb_id": 178091,
@@ -474230,6 +474345,11 @@
       "igdb_id": 384097,
       "game_name": "Killego",
       "file": "missing/K/384097-killego.json"
+    },
+    {
+      "igdb_id": 49187,
+      "game_name": "Killer 3D Pool",
+      "file": "missing/K/49187-killer-3d-pool.json"
     },
     {
       "igdb_id": 352226,
@@ -675042,6 +675162,11 @@
       "file": "missing/P/282720-planet-of-the-apes.json"
     },
     {
+      "igdb_id": 49358,
+      "game_name": "Planet of the Apes",
+      "file": "missing/P/49358-planet-of-the-apes.json"
+    },
+    {
       "igdb_id": 54709,
       "game_name": "Planet of the Apes: Last Frontier",
       "file": "missing/P/54709-planet-of-the-apes-last-frontier.json"
@@ -678690,6 +678815,11 @@
       "igdb_id": 96224,
       "game_name": "Pocket Dogfights",
       "file": "missing/P/96224-pocket-dogfights.json"
+    },
+    {
+      "igdb_id": 49357,
+      "game_name": "Pocket Dogs",
+      "file": "missing/P/49357-pocket-dogs.json"
     },
     {
       "igdb_id": 391833,
@@ -702405,6 +702535,11 @@
       "igdb_id": 193700,
       "game_name": "Punch Kidd",
       "file": "missing/P/193700-punch-kidd.json"
+    },
+    {
+      "igdb_id": 49180,
+      "game_name": "Punch King",
+      "file": "missing/P/49180-punch-king.json"
     },
     {
       "igdb_id": 11775,
@@ -740547,6 +740682,11 @@
       "file": "missing/R/44897-road-rash-jailbreak.json"
     },
     {
+      "igdb_id": 49178,
+      "game_name": "Road Rash: Jailbreak",
+      "file": "missing/R/49178-road-rash-jailbreak.json"
+    },
+    {
       "igdb_id": 11602,
       "game_name": "Road Redemption",
       "file": "missing/R/11602-road-redemption.json"
@@ -762352,6 +762492,11 @@
       "file": "missing/S/41250-santa-claus-no-takara-bako.json"
     },
     {
+      "igdb_id": 49237,
+      "game_name": "Santa Claus Saves The Earth",
+      "file": "missing/S/49237-santa-claus-saves-the-earth.json"
+    },
+    {
       "igdb_id": 50224,
       "game_name": "Santa Claws",
       "file": "missing/S/50224-santa-claws.json"
@@ -767172,6 +767317,11 @@
       "file": "missing/S/44634-scooby-doo-mistery-mayhem.json"
     },
     {
+      "igdb_id": 49225,
+      "game_name": "Scooby-Doo!: Mystery Mayhem",
+      "file": "missing/S/49225-scooby-doo-mystery-mayhem.json"
+    },
+    {
       "igdb_id": 137540,
       "game_name": "Scooby-Doo!: Pirate Ghost of the Barbary Coast",
       "file": "missing/S/137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json"
@@ -769310,6 +769460,11 @@
       "igdb_id": 37351,
       "game_name": "SD Gundam Eiyuuden: Musha Densetsu",
       "file": "missing/S/37351-sd-gundam-eiyuuden-musha-densetsu.json"
+    },
+    {
+      "igdb_id": 49224,
+      "game_name": "SD Gundam Force",
+      "file": "missing/S/49224-sd-gundam-force.json"
     },
     {
       "igdb_id": 44720,
@@ -788727,6 +788882,11 @@
       "file": "missing/S/208994-shrek-2-activity-center-twisted-fairy-tale-fun.json"
     },
     {
+      "igdb_id": 49223,
+      "game_name": "Shrek 2: Beg for Mercy!",
+      "file": "missing/S/49223-shrek-2-beg-for-mercy.json"
+    },
+    {
       "igdb_id": 230273,
       "game_name": "Shrek 2: Castle Run",
       "file": "missing/S/230273-shrek-2-castle-run.json"
@@ -788817,9 +788977,24 @@
       "file": "missing/S/229066-shrek-fire-donkey.json"
     },
     {
+      "igdb_id": 49241,
+      "game_name": "Shrek: Hassle at the Castle",
+      "file": "missing/S/49241-shrek-hassle-at-the-castle.json"
+    },
+    {
       "igdb_id": 47860,
       "game_name": "Shrek: Ogres and Dronkeys",
       "file": "missing/S/47860-shrek-ogres-and-dronkeys.json"
+    },
+    {
+      "igdb_id": 49222,
+      "game_name": "Shrek: Reekin' Havoc",
+      "file": "missing/S/49222-shrek-reekin-havoc.json"
+    },
+    {
+      "igdb_id": 49240,
+      "game_name": "Shrek: Swamp Kart Speedway",
+      "file": "missing/S/49240-shrek-swamp-kart-speedway.json"
     },
     {
       "igdb_id": 359043,
@@ -791755,6 +791930,11 @@
       "igdb_id": 248779,
       "game_name": "Silent Scope",
       "file": "missing/S/248779-silent-scope.json"
+    },
+    {
+      "igdb_id": 49182,
+      "game_name": "Silent Scope",
+      "file": "missing/S/49182-silent-scope.json"
     },
     {
       "igdb_id": 329121,
@@ -833122,6 +833302,11 @@
       "file": "missing/S/49290-sports-illustrated-for-kids-baseball.json"
     },
     {
+      "igdb_id": 49220,
+      "game_name": "Sports Illustrated for Kids: Football",
+      "file": "missing/S/49220-sports-illustrated-for-kids-football.json"
+    },
+    {
       "igdb_id": 273410,
       "game_name": "Sports Illustrated: Championship Football & Baseball",
       "file": "missing/S/273410-sports-illustrated-championship-football-and-baseball.json"
@@ -851807,6 +851992,11 @@
       "file": "missing/S/242807-street-hoops.json"
     },
     {
+      "igdb_id": 49219,
+      "game_name": "Street Jam Basketball",
+      "file": "missing/S/49219-street-jam-basketball.json"
+    },
+    {
       "igdb_id": 104026,
       "game_name": "Street Karate",
       "file": "missing/S/104026-street-karate.json"
@@ -853530,6 +853720,11 @@
       "igdb_id": 27628,
       "game_name": "Stuart Little 2",
       "file": "missing/S/27628-stuart-little-2.json"
+    },
+    {
+      "igdb_id": 49218,
+      "game_name": "Stuart Little 2",
+      "file": "missing/S/49218-stuart-little-2.json"
     },
     {
       "igdb_id": 43455,
@@ -855930,6 +856125,11 @@
       "igdb_id": 83413,
       "game_name": "Sudoku Epic",
       "file": "missing/S/83413-sudoku-epic.json"
+    },
+    {
+      "igdb_id": 49233,
+      "game_name": "Sudoku Fever",
+      "file": "missing/S/49233-sudoku-fever.json"
     },
     {
       "igdb_id": 268481,
@@ -861410,6 +861610,11 @@
       "igdb_id": 19680,
       "game_name": "Super Duper Party Pooper",
       "file": "missing/S/19680-super-duper-party-pooper.json"
+    },
+    {
+      "igdb_id": 49217,
+      "game_name": "Super Duper Sumos",
+      "file": "missing/S/49217-super-duper-sumos.json"
     },
     {
       "igdb_id": 174336,
@@ -870395,6 +870600,11 @@
       "igdb_id": 239553,
       "game_name": "Superman: Battle for Metropolis",
       "file": "missing/S/239553-superman-battle-for-metropolis.json"
+    },
+    {
+      "igdb_id": 49216,
+      "game_name": "Superman: Countdown to Apokolips",
+      "file": "missing/S/49216-superman-countdown-to-apokolips.json"
     },
     {
       "igdb_id": 349440,
@@ -891145,6 +891355,11 @@
       "igdb_id": 169878,
       "game_name": "Teen Patti Octro",
       "file": "missing/T/169878-teen-patti-octro.json"
+    },
+    {
+      "igdb_id": 49214,
+      "game_name": "Teen Titans 2",
+      "file": "missing/T/49214-teen-titans-2.json"
     },
     {
       "igdb_id": 144130,
@@ -912092,6 +912307,11 @@
       "file": "missing/T/396443-the-flintstones-bedrock-jackpot.json"
     },
     {
+      "igdb_id": 49194,
+      "game_name": "The Flintstones: Big Trouble in Bedrock",
+      "file": "missing/T/49194-the-flintstones-big-trouble-in-bedrock.json"
+    },
+    {
       "igdb_id": 49930,
       "game_name": "The Flintstones: Burgertime in Bedrock",
       "file": "missing/T/49930-the-flintstones-burgertime-in-bedrock.json"
@@ -932732,6 +932952,11 @@
       "file": "missing/T/242586-the-ripper-serial-killers.json"
     },
     {
+      "igdb_id": 49179,
+      "game_name": "The Ripping Friends: The World's Most Manly Men!",
+      "file": "missing/T/49179-the-ripping-friends-the-worlds-most-manly-men.json"
+    },
+    {
       "igdb_id": 289958,
       "game_name": "The Rise",
       "file": "missing/T/289958-the-rise.json"
@@ -933760,6 +933985,11 @@
       "igdb_id": 4096,
       "game_name": "The Scorpion King: Rise of the Akkadian",
       "file": "missing/T/4096-the-scorpion-king-rise-of-the-akkadian.json"
+    },
+    {
+      "igdb_id": 49236,
+      "game_name": "The Scorpion King: Sword of Osiris",
+      "file": "missing/T/49236-the-scorpion-king-sword-of-osiris.json"
     },
     {
       "igdb_id": 68706,
@@ -967147,6 +967377,11 @@
       "file": "missing/T/20129-top-gun-fire-at-will.json"
     },
     {
+      "igdb_id": 49209,
+      "game_name": "Top Gun: Firestorm Advance",
+      "file": "missing/T/49209-top-gun-firestorm-advance.json"
+    },
+    {
       "igdb_id": 22915,
       "game_name": "Top Gun: Hard Lock",
       "file": "missing/T/22915-top-gun-hard-lock.json"
@@ -997010,6 +997245,11 @@
       "igdb_id": 149566,
       "game_name": "Ultimate Wall Defense Force",
       "file": "missing/U/149566-ultimate-wall-defense-force.json"
+    },
+    {
+      "igdb_id": 49207,
+      "game_name": "Ultimate Winter Games",
+      "file": "missing/U/49207-ultimate-winter-games.json"
     },
     {
       "igdb_id": 28705,
@@ -1063967,6 +1064207,11 @@
       "file": "missing/Y/174874-yu-gi-oh-cross-duel.json"
     },
     {
+      "igdb_id": 49204,
+      "game_name": "Yu-Gi-Oh! Destiny Board Traveler",
+      "file": "missing/Y/49204-yu-gi-oh-destiny-board-traveler.json"
+    },
+    {
       "igdb_id": 79360,
       "game_name": "Yu-Gi-Oh! Double Pack",
       "file": "missing/Y/79360-yu-gi-oh-double-pack.json"
@@ -1070045,6 +1070290,11 @@
       "igdb_id": 50584,
       "game_name": "Zoids: Full Metal Crash",
       "file": "missing/Z/50584-zoids-full-metal-crash.json"
+    },
+    {
+      "igdb_id": 49203,
+      "game_name": "Zoids: Legacy",
+      "file": "missing/Z/49203-zoids-legacy.json"
     },
     {
       "igdb_id": 48595,
