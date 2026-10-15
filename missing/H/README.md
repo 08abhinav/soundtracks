@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Unhinged | 343356 | [343356-heroes-unhinged.json](./343356-heroes-unhinged.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
 | Heroes Unleashed | 193875 | [193875-heroes-unleashed.json](./193875-heroes-unleashed.json) |
+| Heroes Vs. | 64326 | [64326-heroes-vs.json](./64326-heroes-vs.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
@@ -4504,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
+| Hi-Ten Chara Bom | 64335 | [64335-hi-ten-chara-bom.json](./64335-hi-ten-chara-bom.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
