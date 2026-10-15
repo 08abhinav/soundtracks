@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Teratale: Tide of Wishes | 257908 | [257908-teratale-tide-of-wishes.json](./257908-teratale-tide-of-wishes.json) |
+| Teratini VR | 30610 | [30610-teratini-vr.json](./30610-teratini-vr.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
@@ -4408,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
+| The Bedtime Story | 30640 | [30640-the-bedtime-story.json](./30640-the-bedtime-story.json) |
 | The Bee Game | 49480 | [49480-the-bee-game.json](./49480-the-bee-game.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
@@ -9797,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Me | 402871 | [402871-the-new-me.json](./402871-the-new-me.json) |
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
+| The New Queen | 30623 | [30623-the-new-queen.json](./30623-the-new-queen.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
@@ -15743,6 +15746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
+| Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
 | Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
@@ -21284,6 +21288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
+| Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
 | Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
@@ -22679,6 +22684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Blades: The Reaping Vanguard | 19890 | [19890-twin-blades-the-reaping-vanguard.json](./19890-twin-blades-the-reaping-vanguard.json) |
 | Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
+| Twin Bros | 30641 | [30641-twin-bros.json](./30641-twin-bros.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cam Turbo | 295673 | [295673-twin-cam-turbo.json](./295673-twin-cam-turbo.json) |
