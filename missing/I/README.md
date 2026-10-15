@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Kill Her | 245899 | [245899-ill-kill-her.json](./245899-ill-kill-her.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
+| I'm A Celebrity... Get Me Out of Here! | 67211 | [67211-im-a-celebrity-get-me-out-of-here.json](./67211-im-a-celebrity-get-me-out-of-here.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
 | Ise & Kai: Chosen Throne | 178332 | [178332-ise-and-kai-chosen-throne.json](./178332-ise-and-kai-chosen-throne.json) |
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
+| Ise Shima Mystery Guide: The False Black Pearl | 67205 | [67205-ise-shima-mystery-guide-the-false-black-pearl.json](./67205-ise-shima-mystery-guide-the-false-black-pearl.json) |
 | Isee | 51514 | [51514-isee.json](./51514-isee.json) |
 | Iseijin Kara no Okurimono | 401835 | [401835-iseijin-kara-no-okurimono.json](./401835-iseijin-kara-no-okurimono.json) |
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
