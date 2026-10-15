@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
+| Cage | 30653 | [30653-cage.json](./30653-cage.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
@@ -12643,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
+| Crystal Shard Adventure Bundle | 30646 | [30646-crystal-shard-adventure-bundle.json](./30646-crystal-shard-adventure-bundle.json) |
 | Crystal Shard Adventure: Meta | 169913 | [169913-crystal-shard-adventure-meta.json](./169913-crystal-shard-adventure-meta.json) |
 | Crystal Soul Arena | 122899 | [122899-crystal-soul-arena.json](./122899-crystal-soul-arena.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
