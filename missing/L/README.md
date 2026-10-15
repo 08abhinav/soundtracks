@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
 | La Chose De Grotemburg | 321401 | [321401-la-chose-de-grotemburg.json](./321401-la-chose-de-grotemburg.json) |
+| La chute des tours | 22040 | [22040-la-chute-des-tours.json](./22040-la-chute-des-tours.json) |
 | La Cita de Mookie | 323222 | [323222-la-cita-de-mookie.json](./323222-la-cita-de-mookie.json) |
 | La Ciudad Fantasma | 276382 | [276382-la-ciudad-fantasma.json](./276382-la-ciudad-fantasma.json) |
 | La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
