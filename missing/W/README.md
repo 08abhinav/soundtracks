@@ -6531,6 +6531,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Raw | 324537 | [324537-wwf-raw.json](./324537-wwf-raw.json) |
 | WWF Raw | 324544 | [324544-wwf-raw.json](./324544-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
+| WWF SmackDown! | 6443 | [6443-wwf-smackdown.json](./6443-wwf-smackdown.json) |
+| WWF SmackDown! 2: Know Your Role | 6444 | [6444-wwf-smackdown-2-know-your-role.json](./6444-wwf-smackdown-2-know-your-role.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF Superstars | 100296 | [100296-wwf-superstars.json](./100296-wwf-superstars.json) |
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
