@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Youwaku Wakaba-chan | 97672 | [97672-waku-waku-youwaku-wakaba-chan.json](./97672-waku-waku-youwaku-wakaba-chan.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
+| Wakusei Aton Gaiden | 63225 | [63225-wakusei-aton-gaiden.json](./63225-wakusei-aton-gaiden.json) |
 | Wakusei Koukitai Little Cats | 71029 | [71029-wakusei-koukitai-little-cats.json](./71029-wakusei-koukitai-little-cats.json) |
 | Wakusei Woodstock: Funky Horror Band | 62251 | [62251-wakusei-woodstock-funky-horror-band.json](./62251-wakusei-woodstock-funky-horror-band.json) |
 | Walaber's Trampoline | 69936 | [69936-walabers-trampoline.json](./69936-walabers-trampoline.json) |
