@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
+| Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall | 364999 | [364999-fall.json](./364999-fall.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
+| First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
