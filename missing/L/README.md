@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
+| LEGO Worlds | 10910 | [10910-lego-worlds.json](./10910-lego-worlds.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO Worlds: Classic Space | 52110 | [52110-lego-worlds-classic-space.json](./52110-lego-worlds-classic-space.json) |
 | LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
+| Luftrausers | 5628 | [5628-luftrausers.json](./5628-luftrausers.json) |
 | Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
 | Luftwaffe: Doitsu Kuugun o Shiki Seyo | 66014 | [66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json](./66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
