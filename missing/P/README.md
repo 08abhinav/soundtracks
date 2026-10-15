@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | 3732 | [3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json](./3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json) |
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
+| Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Party Power Pack | 294021 | [294021-party-party-time-party-power-pack.json](./294021-party-party-time-party-power-pack.json) |
 | Party Party Time: Thrilling Party Pack | 275840 | [275840-party-party-time-thrilling-party-pack.json](./275840-party-party-time-thrilling-party-pack.json) |
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
+| Party Pigs: Farmyard Games | 51109 | [51109-party-pigs-farmyard-games.json](./51109-party-pigs-farmyard-games.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
@@ -2844,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Larceny: Gig Economy Supervillain | 241861 | [241861-penny-larceny-gig-economy-supervillain.json](./241861-penny-larceny-gig-economy-supervillain.json) |
 | Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
+| Penny Racers Party: Turbo-Q Speedway | 51110 | [51110-penny-racers-party-turbo-q-speedway.json](./51110-penny-racers-party-turbo-q-speedway.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -3449,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
 | Petz Catz Family | 85339 | [85339-petz-catz-family.json](./85339-petz-catz-family.json) |
 | Petz Countryside | 9743 | [9743-petz-countryside.json](./9743-petz-countryside.json) |
+| Petz Crazy Monkeyz | 51111 | [51111-petz-crazy-monkeyz.json](./51111-petz-crazy-monkeyz.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
 | Petz Dogz Talent Show | 44067 | [44067-petz-dogz-talent-show.json](./44067-petz-dogz-talent-show.json) |
 | Petz Dolphinz Encounter | 67345 | [67345-petz-dolphinz-encounter.json](./67345-petz-dolphinz-encounter.json) |
@@ -3747,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | PhatPong 05 | 70276 | [70276-phatpong-05.json](./70276-phatpong-05.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
+| Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
@@ -10388,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
+| Professional Bull Riding: Out of the Chute | 51113 | [51113-professional-bull-riding-out-of-the-chute.json](./51113-professional-bull-riding-out-of-the-chute.json) |
 | Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
@@ -11895,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
+| Puppy Luv: Your New Best Friend | 51138 | [51138-puppy-luv-your-new-best-friend.json](./51138-puppy-luv-your-new-best-friend.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
