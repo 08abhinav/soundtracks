@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
+| Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
@@ -4984,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
+| Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
