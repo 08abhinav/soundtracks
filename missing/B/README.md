@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
+| Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
 | Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
@@ -2082,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
+| Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
 | Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
+| Battle-Girl | 58690 | [58690-battle-girl.json](./58690-battle-girl.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
@@ -2861,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
 | BattleDead | 152466 | [152466-battledead.json](./152466-battledead.json) |
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
+| BattleDroidz | 58122 | [58122-battledroidz.json](./58122-battledroidz.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
 | Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
@@ -3777,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Defenders | 364031 | [364031-beautiful-defenders.json](./364031-beautiful-defenders.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
+| Beautiful Dreamer | 58703 | [58703-beautiful-dreamer.json](./58703-beautiful-dreamer.json) |
 | Beautiful Escape Dolls | 351566 | [351566-beautiful-escape-dolls.json](./351566-beautiful-escape-dolls.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
@@ -4310,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
+| Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
@@ -9366,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
+| Bounty Runner | 58161 | [58161-bounty-runner.json](./58161-bounty-runner.json) |
 | Bounty Sisters | 381917 | [381917-bounty-sisters.json](./381917-bounty-sisters.json) |
 | Bounty Star | 210624 | [210624-bounty-star.json](./210624-bounty-star.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
@@ -11271,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Simulator | 137352 | [137352-bug-simulator.json](./137352-bug-simulator.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
+| Bug Squad | 58725 | [58725-bug-squad.json](./58725-bug-squad.json) |
 | Bug Star | 200938 | [200938-bug-star.json](./200938-bug-star.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
@@ -11810,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
+| Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
