@@ -4273,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 | 71455 | [71455-ben-10.json](./71455-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
 | Ben 10 Alien Force: Forever Defense | 328024 | [328024-ben-10-alien-force-forever-defense.json](./328024-ben-10-alien-force-forever-defense.json) |
+| Ben 10 Alien Force: The Rise of Hex | 2803 | [2803-ben-10-alien-force-the-rise-of-hex.json](./2803-ben-10-alien-force-the-rise-of-hex.json) |
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Game Generator 4D | 131350 | [131350-ben-10-game-generator-4d.json](./131350-ben-10-game-generator-4d.json) |
