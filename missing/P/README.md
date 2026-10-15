@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
 | Pioneer | 370851 | [370851-pioneer.json](./370851-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
+| Pioneer Balloon | 40068 | [40068-pioneer-balloon.json](./40068-pioneer-balloon.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneer Racing | 338306 | [338306-pioneer-racing.json](./338306-pioneer-racing.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
@@ -5228,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Runner | 253881 | [253881-pirate-runner.json](./253881-pirate-runner.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
+| Pirate Ship Higemaru | 40092 | [40092-pirate-ship-higemaru.json](./40092-pirate-ship-higemaru.json) |
 | Pirate Ships | 395154 | [395154-pirate-ships.json](./395154-pirate-ships.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
@@ -5329,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pissed Off: Peeing Simulator | 326262 | [326262-pissed-off-peeing-simulator.json](./326262-pissed-off-peeing-simulator.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
+| Pistol Daimyo no Bouken | 40089 | [40089-pistol-daimyo-no-bouken.json](./40089-pistol-daimyo-no-bouken.json) |
 | Pistol shooting: Realistic gun simulator | 164074 | [164074-pistol-shooting-realistic-gun-simulator.json](./164074-pistol-shooting-realistic-gun-simulator.json) |
 | Pistola | 202750 | [202750-pistola.json](./202750-pistola.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
@@ -6973,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunko | 260187 | [260187-plunko.json](./260187-plunko.json) |
 | Plunkocity | 156571 | [156571-plunkocity.json](./156571-plunkocity.json) |
 | Pluralys | 336112 | [336112-pluralys.json](./336112-pluralys.json) |
+| Plus Alpha | 40090 | [40090-plus-alpha.json](./40090-plus-alpha.json) |
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
