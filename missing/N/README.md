@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto RPG: Uketsugareshi Hi no Ishi | 49751 | [49751-naruto-rpg-uketsugareshi-hi-no-ishi.json](./49751-naruto-rpg-uketsugareshi-hi-no-ishi.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
+| Naruto Shippuden 3D: The New Era | 6847 | [6847-naruto-shippuden-3d-the-new-era.json](./6847-naruto-shippuden-3d-the-new-era.json) |
 | Naruto Shippuden: Clash of Ninja Revolution 3 | 19656 | [19656-naruto-shippuden-clash-of-ninja-revolution-3.json](./19656-naruto-shippuden-clash-of-ninja-revolution-3.json) |
 | Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
 | Naruto Shippuden: Dragon Blade Chronicles | 21161 | [21161-naruto-shippuden-dragon-blade-chronicles.json](./21161-naruto-shippuden-dragon-blade-chronicles.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nashi-jiru Busha! Funasshi vs. Dragons | 222481 | [222481-nashi-jiru-busha-funasshi-vs-dragons.json](./222481-nashi-jiru-busha-funasshi-vs-dragons.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
+| Nastar | 6818 | [6818-nastar.json](./6818-nastar.json) |
 | Nasteroids: Space Shuttle vs. Asteroids | 91148 | [91148-nasteroids-space-shuttle-vs-asteroids.json](./91148-nasteroids-space-shuttle-vs-asteroids.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nasty | 94149 | [94149-nasty.json](./94149-nasty.json) |
