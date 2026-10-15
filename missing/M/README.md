@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
+| Magical Taluluto-kun: Magic Adventure | 42419 | [42419-magical-taluluto-kun-magic-adventure.json](./42419-magical-taluluto-kun-magic-adventure.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
