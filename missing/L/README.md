@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.L. Surprise! Roller Dreams Racing | 271399 | [271399-l-o-l-surprise-roller-dreams-racing.json](./271399-l-o-l-surprise-roller-dreams-racing.json) |
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
+| L.O.L.: Lack of Love | 45799 | [45799-l-o-l-lack-of-love.json](./45799-l-o-l-lack-of-love.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser III | 69532 | [69532-langrisser-iii.json](./69532-langrisser-iii.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
+| Langrisser Millennium | 45800 | [45800-langrisser-millennium.json](./45800-langrisser-millennium.json) |
 | Langrisser Mobile | 106104 | [106104-langrisser-mobile.json](./106104-langrisser-mobile.json) |
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
 | Langrisser Tribute | 76893 | [76893-langrisser-tribute.json](./76893-langrisser-tribute.json) |
@@ -894,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
 | Last Hope Z - VR | 117822 | [117822-last-hope-z-vr.json](./117822-last-hope-z-vr.json) |
+| Last Hope: Pink Bullets | 45817 | [45817-last-hope-pink-bullets.json](./45817-last-hope-pink-bullets.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
 | Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
