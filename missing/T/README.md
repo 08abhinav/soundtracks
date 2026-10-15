@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Ultimate Edition | 169244 | [169244-tales-of-arise-ultimate-edition.json](./169244-tales-of-arise-ultimate-edition.json) |
 | Tales of Asteria | 61863 | [61863-tales-of-asteria.json](./61863-tales-of-asteria.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
+| Tales of Berseria | 18812 | [18812-tales-of-berseria.json](./18812-tales-of-berseria.json) |
 | Tales of Berseria Remastered | 378125 | [378125-tales-of-berseria-remastered.json](./378125-tales-of-berseria-remastered.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
+| Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
 | Tales Runner | 17932 | [17932-tales-runner.json](./17932-tales-runner.json) |
@@ -2622,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
 | Tell Me Everything | 100715 | [100715-tell-me-everything.json](./100715-tell-me-everything.json) |
 | Tell me tonight was real | 281021 | [281021-tell-me-tonight-was-real.json](./281021-tell-me-tonight-was-real.json) |
+| Tell Me Why | 125628 | [125628-tell-me-why.json](./125628-tell-me-why.json) |
 | Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
 | Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
 | Tell Me Why: Chapter Two - Family Secrets | 141013 | [141013-tell-me-why-chapter-two-family-secrets.json](./141013-tell-me-why-chapter-two-family-secrets.json) |
@@ -4517,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
+| The Binding of Isaac: Afterbirth+ | 26364 | [26364-the-binding-of-isaac-afterbirth.json](./26364-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Afterbirth+ | 310644 | [310644-the-binding-of-isaac-afterbirth.json](./310644-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
@@ -6026,6 +6030,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Oblivion - The Vile Lair | 120637 | [120637-the-elder-scrolls-iv-oblivion-the-vile-lair.json](./120637-the-elder-scrolls-iv-oblivion-the-vile-lair.json) |
 | The Elder Scrolls IV: Oblivion - The Wizard's Tower | 120640 | [120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json](./120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json) |
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
+| The Elder Scrolls IV: Oblivion Remastered | 267306 | [267306-the-elder-scrolls-iv-oblivion-remastered.json](./267306-the-elder-scrolls-iv-oblivion-remastered.json) |
+| The Elder Scrolls IV: Shivering Isles | 894 | [894-the-elder-scrolls-iv-shivering-isles.json](./894-the-elder-scrolls-iv-shivering-isles.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
@@ -9098,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
+| The Lord of the Rings: Conquest | 7056 | [7056-the-lord-of-the-rings-conquest.json](./7056-the-lord-of-the-rings-conquest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
 | The Lord of the Rings: Gollum - Emotes Pack | 252603 | [252603-the-lord-of-the-rings-gollum-emotes-pack.json](./252603-the-lord-of-the-rings-gollum-emotes-pack.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
@@ -9813,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
+| The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
 | The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
@@ -13288,6 +13296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World End Eclipse | 13546 | [13546-the-world-end-eclipse.json](./13546-the-world-end-eclipse.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
+| The World Ends with You | 1343 | [1343-the-world-ends-with-you.json](./1343-the-world-ends-with-you.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
@@ -16094,6 +16103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters | 2142 | [2142-timesplitters.json](./2142-timesplitters.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
+| TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
@@ -16507,6 +16517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
 | Titan Slayer | 28324 | [28324-titan-slayer.json](./28324-titan-slayer.json) |
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
+| Titan Souls | 9559 | [9559-titan-souls.json](./9559-titan-souls.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
 | Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
 | Titan Station: VR | 276146 | [276146-titan-station-vr.json](./276146-titan-station-vr.json) |
@@ -17410,6 +17421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: The Last Revelation | 1158 | [1158-tomb-raider-the-last-revelation.json](./1158-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
 | Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
@@ -19170,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracker | 36842 | [36842-tracker.json](./36842-tracker.json) |
 | Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
+| Trackmania | 133807 | [133807-trackmania.json](./133807-trackmania.json) |
 | TrackMania | 18728 | [18728-trackmania.json](./18728-trackmania.json) |
 | TrackMania 2: Canyon | 508 | [508-trackmania-2-canyon.json](./508-trackmania-2-canyon.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
@@ -23012,6 +23025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
 | Two Point Campus: School Spirits | 241307 | [241307-two-point-campus-school-spirits.json](./241307-two-point-campus-school-spirits.json) |
+| Two Point Hospital | 82117 | [82117-two-point-hospital.json](./82117-two-point-hospital.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
