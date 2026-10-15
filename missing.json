@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T13:06:05.628Z",
-  "total_missing": 215372,
+  "generated_at": "2026-10-15T13:21:17.527Z",
+  "total_missing": 215422,
   "games": [
     {
       "igdb_id": 191680,
@@ -20897,6 +20897,11 @@
       "file": "missing/A/108908-activity-bingo-travel.json"
     },
     {
+      "igdb_id": 41800,
+      "game_name": "Actman",
+      "file": "missing/A/41800-actman.json"
+    },
+    {
       "igdb_id": 142235,
       "game_name": "Actor Tycoon 2",
       "file": "missing/A/142235-actor-tycoon-2.json"
@@ -36682,6 +36687,11 @@
       "file": "missing/A/358921-alpha-squadron.json"
     },
     {
+      "igdb_id": 41783,
+      "game_name": "Alpha Squadron",
+      "file": "missing/A/41783-alpha-squadron.json"
+    },
+    {
       "igdb_id": 183517,
       "game_name": "Alpha Squirrel",
       "file": "missing/A/183517-alpha-squirrel.json"
@@ -39585,6 +39595,11 @@
       "igdb_id": 94948,
       "game_name": "American Sign Language Tutor",
       "file": "missing/A/94948-american-sign-language-tutor.json"
+    },
+    {
+      "igdb_id": 41806,
+      "game_name": "American Soccer",
+      "file": "missing/A/41806-american-soccer.json"
     },
     {
       "igdb_id": 38524,
@@ -66737,6 +66752,11 @@
       "file": "missing/A/96649-ather-chapter-1.json"
     },
     {
+      "igdb_id": 41797,
+      "game_name": "Athletic Ball",
+      "file": "missing/A/41797-athletic-ball.json"
+    },
+    {
       "igdb_id": 381779,
       "game_name": "Athletic Director Simulator 4000",
       "file": "missing/A/381779-athletic-director-simulator-4000.json"
@@ -67680,6 +67700,11 @@
       "igdb_id": 250497,
       "game_name": "Attack Force",
       "file": "missing/A/250497-attack-force.json"
+    },
+    {
+      "igdb_id": 41796,
+      "game_name": "Attack Four Volleyball",
+      "file": "missing/A/41796-attack-four-volleyball.json"
     },
     {
       "igdb_id": 217825,
@@ -105227,6 +105252,16 @@
       "file": "missing/B/52656-blades-of-time-limited-edition.json"
     },
     {
+      "igdb_id": 41816,
+      "game_name": "Blades of Triangulum",
+      "file": "missing/B/41816-blades-of-triangulum.json"
+    },
+    {
+      "igdb_id": 41817,
+      "game_name": "Blades of Triangulum",
+      "file": "missing/B/41817-blades-of-triangulum.json"
+    },
+    {
       "igdb_id": 45565,
       "game_name": "Blades of Vengeance",
       "file": "missing/B/45565-blades-of-vengeance.json"
@@ -115115,6 +115150,11 @@
       "igdb_id": 287648,
       "game_name": "Bomber Man 2002",
       "file": "missing/B/287648-bomber-man-2002.json"
+    },
+    {
+      "igdb_id": 41799,
+      "game_name": "Bomber Man Special",
+      "file": "missing/B/41799-bomber-man-special.json"
     },
     {
       "igdb_id": 198165,
@@ -171917,6 +171957,11 @@
       "file": "missing/C/193825-code-r.json"
     },
     {
+      "igdb_id": 41822,
+      "game_name": "Code: Realize - Bouquet of Rainbows",
+      "file": "missing/C/41822-code-realize-bouquet-of-rainbows.json"
+    },
+    {
       "igdb_id": 41821,
       "game_name": "Code: Realize - Future Blessings",
       "file": "missing/C/41821-code-realize-future-blessings.json"
@@ -206462,6 +206507,11 @@
       "file": "missing/D/339855-daisenryaku.json"
     },
     {
+      "igdb_id": 41782,
+      "game_name": "Daisenryaku",
+      "file": "missing/D/41782-daisenryaku.json"
+    },
+    {
       "igdb_id": 342253,
       "game_name": "Daisenryaku 1941: Gyakuten no Taiheiyou",
       "file": "missing/D/342253-daisenryaku-1941-gyakuten-no-taiheiyou.json"
@@ -206490,6 +206540,11 @@
       "igdb_id": 44420,
       "game_name": "Daisenryaku Expert WWII: War in Europe",
       "file": "missing/D/44420-daisenryaku-expert-wwii-war-in-europe.json"
+    },
+    {
+      "igdb_id": 41781,
+      "game_name": "Daisenryaku II: Campaign Version",
+      "file": "missing/D/41781-daisenryaku-ii-campaign-version.json"
     },
     {
       "igdb_id": 242519,
@@ -206635,6 +206690,11 @@
       "igdb_id": 392850,
       "game_name": "Daiva Story 3: Trial of Nirvana",
       "file": "missing/D/392850-daiva-story-3-trial-of-nirvana.json"
+    },
+    {
+      "igdb_id": 41811,
+      "game_name": "Daiva Story 5: The Cup of Soma",
+      "file": "missing/D/41811-daiva-story-5-the-cup-of-soma.json"
     },
     {
       "igdb_id": 65666,
@@ -222187,6 +222247,11 @@
       "file": "missing/D/188091-deep-fishing.json"
     },
     {
+      "igdb_id": 41780,
+      "game_name": "Deep Forest",
+      "file": "missing/D/41780-deep-forest.json"
+    },
+    {
       "igdb_id": 362931,
       "game_name": "Deep Forest Chapter 2",
       "file": "missing/D/362931-deep-forest-chapter-2.json"
@@ -226560,6 +226625,11 @@
       "igdb_id": 29775,
       "game_name": "Demonheart",
       "file": "missing/D/29775-demonheart.json"
+    },
+    {
+      "igdb_id": 41810,
+      "game_name": "Demonia",
+      "file": "missing/D/41810-demonia.json"
     },
     {
       "igdb_id": 291524,
@@ -254837,6 +254907,11 @@
       "file": "missing/D/80844-dragon-knight-4.json"
     },
     {
+      "igdb_id": 41779,
+      "game_name": "Dragon Knight II",
+      "file": "missing/D/41779-dragon-knight-ii.json"
+    },
+    {
       "igdb_id": 298548,
       "game_name": "Dragon Lair",
       "file": "missing/D/298548-dragon-lair.json"
@@ -267767,6 +267842,11 @@
       "file": "missing/D/124684-dunkle-schatten-3-tod-in-der-sudkurve.json"
     },
     {
+      "igdb_id": 41809,
+      "game_name": "Dunkshot",
+      "file": "missing/D/41809-dunkshot.json"
+    },
+    {
       "igdb_id": 113637,
       "game_name": "Dunkypung",
       "file": "missing/D/113637-dunkypung.json"
@@ -270405,6 +270485,11 @@
       "igdb_id": 74705,
       "game_name": "Eagle Fantasy Golf",
       "file": "missing/E/74705-eagle-fantasy-golf.json"
+    },
+    {
+      "igdb_id": 41808,
+      "game_name": "Eagle Fighter",
+      "file": "missing/E/41808-eagle-fighter.json"
     },
     {
       "igdb_id": 28774,
@@ -275085,6 +275170,11 @@
       "igdb_id": 47529,
       "game_name": "Eggerland 2",
       "file": "missing/E/47529-eggerland-2.json"
+    },
+    {
+      "igdb_id": 41807,
+      "game_name": "Eggerland Mystery",
+      "file": "missing/E/41807-eggerland-mystery.json"
     },
     {
       "igdb_id": 48510,
@@ -313712,6 +313802,11 @@
       "file": "missing/F/179478-fight-in-the-mind.json"
     },
     {
+      "igdb_id": 41814,
+      "game_name": "Fight Knight",
+      "file": "missing/F/41814-fight-knight.json"
+    },
+    {
       "igdb_id": 55822,
       "game_name": "Fight League",
       "file": "missing/F/55822-fight-league.json"
@@ -315212,6 +315307,11 @@
       "file": "missing/F/84174-final-fantasy-grandmasters.json"
     },
     {
+      "igdb_id": 41835,
+      "game_name": "Final Fantasy I & II",
+      "file": "missing/F/41835-final-fantasy-i-and-ii.json"
+    },
+    {
       "igdb_id": 323153,
       "game_name": "Final Fantasy I+II Premium Package",
       "file": "missing/F/323153-final-fantasy-i-ii-premium-package.json"
@@ -315460,6 +315560,11 @@
       "igdb_id": 394,
       "game_name": "Final Fantasy Tactics: The War of the Lions",
       "file": "missing/F/394-final-fantasy-tactics-the-war-of-the-lions.json"
+    },
+    {
+      "igdb_id": 41842,
+      "game_name": "Final Fantasy Type-0 HD: Collector's Edition",
+      "file": "missing/F/41842-final-fantasy-type-0-hd-collectors-edition.json"
     },
     {
       "igdb_id": 186630,
@@ -315767,6 +315872,11 @@
       "file": "missing/F/147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json"
     },
     {
+      "igdb_id": 41836,
+      "game_name": "Final Fantasy X/X-2 HD Remaster: Limited Edition",
+      "file": "missing/F/41836-final-fantasy-x-x-2-hd-remaster-limited-edition.json"
+    },
+    {
       "igdb_id": 301388,
       "game_name": "Final Fantasy X/X-2 Ultimate Box",
       "file": "missing/F/301388-final-fantasy-x-x-2-ultimate-box.json"
@@ -315857,6 +315967,11 @@
       "file": "missing/F/112093-final-fantasy-xiii-trilogy.json"
     },
     {
+      "igdb_id": 41834,
+      "game_name": "Final Fantasy XIII-2: Collector's Edition",
+      "file": "missing/F/41834-final-fantasy-xiii-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 41845,
       "game_name": "Final Fantasy XIII-2: Limited Collector's Edition",
       "file": "missing/F/41845-final-fantasy-xiii-2-limited-collectors-edition.json"
@@ -315870,6 +315985,11 @@
       "igdb_id": 41843,
       "game_name": "Final Fantasy XIII-2: Steelbook Edition",
       "file": "missing/F/41843-final-fantasy-xiii-2-steelbook-edition.json"
+    },
+    {
+      "igdb_id": 41840,
+      "game_name": "Final Fantasy XIII: Limited Collector's Edition",
+      "file": "missing/F/41840-final-fantasy-xiii-limited-collectors-edition.json"
     },
     {
       "igdb_id": 14729,
@@ -316135,6 +316255,11 @@
       "igdb_id": 7413,
       "game_name": "Final Fantasy: Explorers",
       "file": "missing/F/7413-final-fantasy-explorers.json"
+    },
+    {
+      "igdb_id": 41831,
+      "game_name": "Final Fantasy: Explorers - Collector's Edition",
+      "file": "missing/F/41831-final-fantasy-explorers-collectors-edition.json"
     },
     {
       "igdb_id": 222978,
@@ -324020,6 +324145,11 @@
       "igdb_id": 48493,
       "game_name": "Fleet Commander",
       "file": "missing/F/48493-fleet-commander.json"
+    },
+    {
+      "igdb_id": 41805,
+      "game_name": "Fleet Commander II",
+      "file": "missing/F/41805-fleet-commander-ii.json"
     },
     {
       "igdb_id": 12320,
@@ -394967,6 +395097,11 @@
       "file": "missing/H/246507-hay-bales.json"
     },
     {
+      "igdb_id": 41813,
+      "game_name": "Hay Buddy",
+      "file": "missing/H/41813-hay-buddy.json"
+    },
+    {
       "igdb_id": 165527,
       "game_name": "Hay Day Pop",
       "file": "missing/H/165527-hay-day-pop.json"
@@ -410787,6 +410922,11 @@
       "file": "missing/H/72558-high-voltage-hot-rod-show.json"
     },
     {
+      "igdb_id": 41804,
+      "game_name": "High Way Star",
+      "file": "missing/H/41804-high-way-star.json"
+    },
+    {
       "igdb_id": 263417,
       "game_name": "High/Low 2",
       "file": "missing/H/263417-high-low-2.json"
@@ -414462,9 +414602,24 @@
       "file": "missing/H/333200-hole-dweller.json"
     },
     {
+      "igdb_id": 41794,
+      "game_name": "Hole in One",
+      "file": "missing/H/41794-hole-in-one.json"
+    },
+    {
       "igdb_id": 49924,
       "game_name": "Hole in One Golf",
       "file": "missing/H/49924-hole-in-one-golf.json"
+    },
+    {
+      "igdb_id": 41795,
+      "game_name": "Hole in One Professional",
+      "file": "missing/H/41795-hole-in-one-professional.json"
+    },
+    {
+      "igdb_id": 41793,
+      "game_name": "Hole in One Special",
+      "file": "missing/H/41793-hole-in-one-special.json"
     },
     {
       "igdb_id": 20119,
@@ -480967,6 +481122,11 @@
       "file": "missing/K/210227-kittys-catch.json"
     },
     {
+      "igdb_id": 41791,
+      "game_name": "Kitty's Great Adventure",
+      "file": "missing/K/41791-kittys-great-adventure.json"
+    },
+    {
       "igdb_id": 367550,
       "game_name": "Kitty's Hungry Adventure",
       "file": "missing/K/367550-kittys-hungry-adventure.json"
@@ -505050,6 +505210,21 @@
       "igdb_id": 2449,
       "game_name": "Lightning Returns: Final Fantasy XIII",
       "file": "missing/L/2449-lightning-returns-final-fantasy-xiii.json"
+    },
+    {
+      "igdb_id": 41833,
+      "game_name": "Lightning Returns: Final Fantasy XIII - Collector's Edition",
+      "file": "missing/L/41833-lightning-returns-final-fantasy-xiii-collectors-edition.json"
+    },
+    {
+      "igdb_id": 41838,
+      "game_name": "Lightning Returns: Final Fantasy XIII - Steelbook Edition",
+      "file": "missing/L/41838-lightning-returns-final-fantasy-xiii-steelbook-edition.json"
+    },
+    {
+      "igdb_id": 41837,
+      "game_name": "Lightning Returns: Final Fantasy XIII - Target Steelbook Edition",
+      "file": "missing/L/41837-lightning-returns-final-fantasy-xiii-target-steelbook-edition.json"
     },
     {
       "igdb_id": 46757,
@@ -530972,6 +531147,16 @@
       "file": "missing/M/278610-mais-um-dia.json"
     },
     {
+      "igdb_id": 41803,
+      "game_name": "Maison Ikkoku",
+      "file": "missing/M/41803-maison-ikkoku.json"
+    },
+    {
+      "igdb_id": 41802,
+      "game_name": "Maison Ikkoku Final",
+      "file": "missing/M/41802-maison-ikkoku-final.json"
+    },
+    {
       "igdb_id": 91766,
       "game_name": "Maison Ikkoku Kanketsu Hen: Sayonara, Soshite...",
       "file": "missing/M/91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json"
@@ -540030,6 +540215,11 @@
       "igdb_id": 59027,
       "game_name": "Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru",
       "file": "missing/M/59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json"
+    },
+    {
+      "igdb_id": 41790,
+      "game_name": "Mashou no Yakata Gabalin",
+      "file": "missing/M/41790-mashou-no-yakata-gabalin.json"
     },
     {
       "igdb_id": 39126,
@@ -571427,6 +571617,11 @@
       "file": "missing/M/53381-moai-iv-terra-incognita.json"
     },
     {
+      "igdb_id": 41789,
+      "game_name": "Moai no Hihou",
+      "file": "missing/M/41789-moai-no-hihou.json"
+    },
+    {
       "igdb_id": 298140,
       "game_name": "Moaisland",
       "file": "missing/M/298140-moaisland.json"
@@ -585610,6 +585805,11 @@
       "igdb_id": 49036,
       "game_name": "Mr. Chin's Gourmet Paradise",
       "file": "missing/M/49036-mr-chins-gourmet-paradise.json"
+    },
+    {
+      "igdb_id": 41788,
+      "game_name": "Mr. Ching",
+      "file": "missing/M/41788-mr-ching.json"
     },
     {
       "igdb_id": 410394,
@@ -657177,6 +657377,11 @@
       "file": "missing/P/175919-payload.json"
     },
     {
+      "igdb_id": 41787,
+      "game_name": "Payload",
+      "file": "missing/P/41787-payload.json"
+    },
+    {
       "igdb_id": 341588,
       "game_name": "PaymoneyWubby: The Game",
       "file": "missing/P/341588-paymoneywubby-the-game.json"
@@ -658310,6 +658515,11 @@
       "igdb_id": 366704,
       "game_name": "Peestal 6: With Cheese",
       "file": "missing/P/366704-peestal-6-with-cheese.json"
+    },
+    {
+      "igdb_id": 41786,
+      "game_name": "Peetan",
+      "file": "missing/P/41786-peetan.json"
     },
     {
       "igdb_id": 103197,
@@ -881677,6 +881887,11 @@
       "file": "missing/T/289945-t-k-punk-g-o-l-d.json"
     },
     {
+      "igdb_id": 41778,
+      "game_name": "T.N.T",
+      "file": "missing/T/41778-t-n-t.json"
+    },
+    {
       "igdb_id": 76599,
       "game_name": "T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy",
       "file": "missing/T/76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json"
@@ -922860,6 +923075,11 @@
       "igdb_id": 298633,
       "game_name": "The Last Mission",
       "file": "missing/T/298633-the-last-mission.json"
+    },
+    {
+      "igdb_id": 41798,
+      "game_name": "The Last Mission",
+      "file": "missing/T/41798-the-last-mission.json"
     },
     {
       "igdb_id": 55078,
@@ -998037,6 +998257,11 @@
       "file": "missing/U/279892-ulimek.json"
     },
     {
+      "igdb_id": 41776,
+      "game_name": "Ulises",
+      "file": "missing/U/41776-ulises.json"
+    },
+    {
       "igdb_id": 175881,
       "game_name": "Ulitsa Dimitrova",
       "file": "missing/U/175881-ulitsa-dimitrova.json"
@@ -1003077,6 +1003302,11 @@
       "file": "missing/U/314923-underground.json"
     },
     {
+      "igdb_id": 41777,
+      "game_name": "Underground",
+      "file": "missing/U/41777-underground.json"
+    },
+    {
       "igdb_id": 77009,
       "game_name": "Underground",
       "file": "missing/U/77009-underground.json"
@@ -1004995,6 +1005225,11 @@
       "igdb_id": 92820,
       "game_name": "United States Quiz",
       "file": "missing/U/92820-united-states-quiz.json"
+    },
+    {
+      "igdb_id": 41815,
+      "game_name": "United Tactics",
+      "file": "missing/U/41815-united-tactics.json"
     },
     {
       "igdb_id": 181635,
@@ -1013115,6 +1013350,11 @@
       "igdb_id": 181923,
       "game_name": "Vavio",
       "file": "missing/V/181923-vavio.json"
+    },
+    {
+      "igdb_id": 41785,
+      "game_name": "Vaxol: Heavy Armed Storming Vehicle",
+      "file": "missing/V/41785-vaxol-heavy-armed-storming-vehicle.json"
     },
     {
       "igdb_id": 304287,
@@ -1031225,6 +1031465,11 @@
       "igdb_id": 7244,
       "game_name": "Warriors: Legends of Troy",
       "file": "missing/W/7244-warriors-legends-of-troy.json"
+    },
+    {
+      "igdb_id": 41784,
+      "game_name": "Warroid",
+      "file": "missing/W/41784-warroid.json"
     },
     {
       "igdb_id": 35987,
@@ -1052040,6 +1052285,11 @@
       "igdb_id": 11214,
       "game_name": "World of Final Fantasy",
       "file": "missing/W/11214-world-of-final-fantasy.json"
+    },
+    {
+      "igdb_id": 41841,
+      "game_name": "World of Final Fantasy: Limited Edition",
+      "file": "missing/W/41841-world-of-final-fantasy-limited-edition.json"
     },
     {
       "igdb_id": 109461,
