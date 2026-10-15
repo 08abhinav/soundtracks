@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Soccer V-Shoot | 40344 | [40344-j-league-soccer-v-shoot.json](./40344-j-league-soccer-v-shoot.json) |
 | J.League Soccer: Prime Goal | 38330 | [38330-j-league-soccer-prime-goal.json](./38330-j-league-soccer-prime-goal.json) |
 | J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
+| J.League Super Top Players | 48519 | [48519-j-league-super-top-players.json](./48519-j-league-super-top-players.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
 | J.League Tremendous Soccer '94 | 65023 | [65023-j-league-tremendous-soccer-94.json](./65023-j-league-tremendous-soccer-94.json) |
