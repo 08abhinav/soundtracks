@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
+| Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
 | Neo-Gensokyo Zero | 184860 | [184860-neo-gensokyo-zero.json](./184860-neo-gensokyo-zero.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
