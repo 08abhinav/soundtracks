@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Kitchen's Tomcat: The F-14 Fighter Simulator | 12344 | [12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json](./12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json) |
 | Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
+| Dan McFox: Head Hunter | 58667 | [58667-dan-mcfox-head-hunter.json](./58667-dan-mcfox-head-hunter.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan the Man | 38946 | [38946-dan-the-man.json](./38946-dan-the-man.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
+| Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
 | Dance Dance Revolution Disney Mix | 44796 | [44796-dance-dance-revolution-disney-mix.json](./44796-dance-dance-revolution-disney-mix.json) |
@@ -1288,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Sweeper | 225222 | [225222-dark-sweeper.json](./225222-dark-sweeper.json) |
+| Dark Sword | 58657 | [58657-dark-sword.json](./58657-dark-sword.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Swords Firelink | 198207 | [198207-dark-swords-firelink.json](./198207-dark-swords-firelink.json) |
@@ -1539,6 +1542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
+| Darts Match | 58143 | [58143-darts-match.json](./58143-darts-match.json) |
+| Darts Match 2 | 58142 | [58142-darts-match-2.json](./58142-darts-match-2.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
 | Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
@@ -3534,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
 | Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
 | Deep Space Scoundrel | 241936 | [241936-deep-space-scoundrel.json](./241936-deep-space-scoundrel.json) |
+| Deep Space Settlement | 59305 | [59305-deep-space-settlement.json](./59305-deep-space-settlement.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
@@ -4850,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
+| Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
@@ -5956,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
+| Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
@@ -7606,6 +7614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Bubble | 116265 | [116265-dodge-bubble.json](./116265-dodge-bubble.json) |
+| Dodge Club Party | 58693 | [58693-dodge-club-party.json](./58693-dodge-club-party.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
@@ -7961,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
 | Doll Explorer | 224691 | [224691-doll-explorer.json](./224691-doll-explorer.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
+| Doll Fashion Atelier | 58694 | [58694-doll-fashion-atelier.json](./58694-doll-fashion-atelier.json) |
 | Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
@@ -9884,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Front Rising | 277507 | [277507-dragon-front-rising.json](./277507-dragon-front-rising.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
+| Dragon Gal: Shura no Yabou | 58692 | [58692-dragon-gal-shura-no-yabou.json](./58692-dragon-gal-shura-no-yabou.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
 | Dragon Girl | 328416 | [328416-dragon-girl.json](./328416-dragon-girl.json) |
 | Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
@@ -12484,6 +12495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
+| Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
 | Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
