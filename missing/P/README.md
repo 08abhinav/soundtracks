@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
 | P.O.D | 399853 | [399853-p-o-d.json](./399853-p-o-d.json) |
+| P.O.D.: Proof of Destruction | 36860 | [36860-p-o-d-proof-of-destruction.json](./36860-p-o-d-proof-of-destruction.json) |
 | P.O.O Weekly | 291036 | [291036-p-o-o-weekly.json](./291036-p-o-o-weekly.json) |
 | P.O.S.S.U.M. | 323271 | [323271-p-o-s-s-u-m.json](./323271-p-o-s-s-u-m.json) |
 | P.O.W. | 72333 | [72333-p-o-w.json](./72333-p-o-w.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Pegasis Odyssey | 373350 | [373350-pegasis-odyssey.json](./373350-pegasis-odyssey.json) |
+| Pegasus Bridge | 36907 | [36907-pegasus-bridge.json](./36907-pegasus-bridge.json) |
 | Pegasus II | 254970 | [254970-pegasus-ii.json](./254970-pegasus-ii.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
@@ -3140,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
+| Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
@@ -9762,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage | 370309 | [370309-primal-rage.json](./370309-primal-rage.json) |
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
+| Primal Reign | 36825 | [36825-primal-reign.json](./36825-primal-reign.json) |
 | Primal Rift | 250810 | [250810-primal-rift.json](./250810-primal-rift.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
