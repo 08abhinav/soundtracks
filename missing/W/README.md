@@ -4436,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
+| Witches' Legacy: Slumbering Darkness - Collector's Edition | 29618 | [29618-witches-legacy-slumbering-darkness-collectors-edition.json](./29618-witches-legacy-slumbering-darkness-collectors-edition.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witches' Legacy: The Dark Throne - Collector's Edition | 55781 | [55781-witches-legacy-the-dark-throne-collectors-edition.json](./55781-witches-legacy-the-dark-throne-collectors-edition.json) |
 | Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
