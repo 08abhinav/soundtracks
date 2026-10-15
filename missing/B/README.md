@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
+| Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
+| Battle for Troy | 27463 | [27463-battle-for-troy.json](./27463-battle-for-troy.json) |
 | Battle for Wesnoth | 2365 | [2365-battle-for-wesnoth.json](./2365-battle-for-wesnoth.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
@@ -3124,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
+| Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
@@ -3476,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
+| Beartopia | 27502 | [27502-beartopia.json](./27502-beartopia.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
 | Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
@@ -4997,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bird's Egg Catch | 40633 | [40633-big-birds-egg-catch.json](./40633-big-birds-egg-catch.json) |
 | Big Bird's Funhouse | 362421 | [362421-big-birds-funhouse.json](./362421-big-birds-funhouse.json) |
 | Big Bird's Special Delivery | 362422 | [362422-big-birds-special-delivery.json](./362422-big-birds-special-delivery.json) |
+| Big Biz Tycoon | 27465 | [27465-big-biz-tycoon.json](./27465-big-biz-tycoon.json) |
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Blue Disk #54 | 135641 | [135641-big-blue-disk-54.json](./135641-big-blue-disk-54.json) |
@@ -8054,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMPES | 319899 | [319899-bmpes.json](./319899-bmpes.json) |
+| BMW M3 Challenge | 27466 | [27466-bmw-m3-challenge.json](./27466-bmw-m3-challenge.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Bastards | 273834 | [273834-bmx-bastards.json](./273834-bmx-bastards.json) |
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
