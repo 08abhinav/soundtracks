@@ -5859,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Rideshare | 184920 | [184920-robber-rideshare.json](./184920-robber-rideshare.json) |
 | Robber Sam | 202722 | [202722-robber-sam.json](./202722-robber-sam.json) |
 | Robber's Horror | 126898 | [126898-robbers-horror.json](./126898-robbers-horror.json) |
+| Robbers of the Lost Tomb | 41202 | [41202-robbers-of-the-lost-tomb.json](./41202-robbers-of-the-lost-tomb.json) |
 | Robbers Runners | 86717 | [86717-robbers-runners.json](./86717-robbers-runners.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Bob: Man of Steal | 35166 | [35166-robbery-bob-man-of-steal.json](./35166-robbery-bob-man-of-steal.json) |
