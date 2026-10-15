@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakadashi Banzai 5 | 249102 | [249102-nakadashi-banzai-5.json](./249102-nakadashi-banzai-5.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
 | Nakajima Satoru Kanshuu: F-1 Hero '94 | 37914 | [37914-nakajima-satoru-kanshuu-f-1-hero-94.json](./37914-nakajima-satoru-kanshuu-f-1-hero-94.json) |
+| Nakajima Satoru Kanshuu: Super F-1 Hero | 38205 | [38205-nakajima-satoru-kanshuu-super-f-1-hero.json](./38205-nakajima-satoru-kanshuu-super-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero 2 | 48301 | [48301-nakajima-satoru-f-1-hero-2.json](./48301-nakajima-satoru-f-1-hero-2.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
@@ -2725,6 +2726,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
+| Nichibutsu Arcade Classics | 38165 | [38165-nichibutsu-arcade-classics.json](./38165-nichibutsu-arcade-classics.json) |
+| Nichibutsu Arcade Classics 2: Heiankyo Alien | 38180 | [38180-nichibutsu-arcade-classics-2-heiankyo-alien.json](./38180-nichibutsu-arcade-classics-2-heiankyo-alien.json) |
 | Nichibutsu Collection 1 | 37906 | [37906-nichibutsu-collection-1.json](./37906-nichibutsu-collection-1.json) |
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
