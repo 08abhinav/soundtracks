@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosis: Alien Infection | 94913 | [94913-xenosis-alien-infection.json](./94913-xenosis-alien-infection.json) |
 | Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
+| Xenostar | 73192 | [73192-xenostar.json](./73192-xenostar.json) |
 | Xenotilt: Hostile Pinball Action | 233872 | [233872-xenotilt-hostile-pinball-action.json](./233872-xenotilt-hostile-pinball-action.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xploquest | 76926 | [76926-xploquest.json](./76926-xploquest.json) |
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
+| Xplosiv Top Ten: Second Edition | 73169 | [73169-xplosiv-top-ten-second-edition.json](./73169-xplosiv-top-ten-second-edition.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | XPock | 159775 | [159775-xpock.json](./159775-xpock.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
