@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
 | Dark City: Vienna | 139784 | [139784-dark-city-vienna.json](./139784-dark-city-vienna.json) |
 | Dark City: Vienna - Collector's Edition | 123913 | [123913-dark-city-vienna-collectors-edition.json](./123913-dark-city-vienna-collectors-edition.json) |
+| Dark Cloud | 1214 | [1214-dark-cloud.json](./1214-dark-cloud.json) |
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
 | Day Of Dead | 246856 | [246856-day-of-dead.json](./246856-day-of-dead.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
+| Day of Defeat: Source | 3267 | [3267-day-of-defeat-source.json](./3267-day-of-defeat-source.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
@@ -5595,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
+| Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
 | Diablo Island | 405462 | [405462-diablo-island.json](./405462-diablo-island.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
@@ -6605,6 +6608,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Ken Block Special Pack | 234666 | [234666-dirt-3-ken-block-special-pack.json](./234666-dirt-3-ken-block-special-pack.json) |
 | Dirt 3: Monte Carlo Track Pack | 234663 | [234663-dirt-3-monte-carlo-track-pack.json](./234663-dirt-3-monte-carlo-track-pack.json) |
 | Dirt 3: Mud and Guts Car Pack | 234667 | [234667-dirt-3-mud-and-guts-car-pack.json](./234667-dirt-3-mud-and-guts-car-pack.json) |
+| Dirt 4 | 26948 | [26948-dirt-4.json](./26948-dirt-4.json) |
+| Dirt 5 | 133301 | [133301-dirt-5.json](./133301-dirt-5.json) |
 | Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
@@ -8614,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
 | Donkey Kong Jungle Fever | 230167 | [230167-donkey-kong-jungle-fever.json](./230167-donkey-kong-jungle-fever.json) |
+| Donkey Kong Junior | 1087 | [1087-donkey-kong-junior.json](./1087-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192910 | [192910-donkey-kong-junior.json](./192910-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192911 | [192911-donkey-kong-junior.json](./192911-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192912 | [192912-donkey-kong-junior.json](./192912-donkey-kong-junior.json) |
@@ -12953,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
 | Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
 | Dying Light: The Following - Astronaut Bundle | 169250 | [169250-dying-light-the-following-astronaut-bundle.json](./169250-dying-light-the-following-astronaut-bundle.json) |
+| Dying Light: The Following - Enhanced Edition | 21762 | [21762-dying-light-the-following-enhanced-edition.json](./21762-dying-light-the-following-enhanced-edition.json) |
 | Dying Light: The Following - Gun Psycho Bundle | 51768 | [51768-dying-light-the-following-gun-psycho-bundle.json](./51768-dying-light-the-following-gun-psycho-bundle.json) |
 | Dying Light: The Following - Harran Ranger Bundle | 51767 | [51767-dying-light-the-following-harran-ranger-bundle.json](./51767-dying-light-the-following-harran-ranger-bundle.json) |
 | Dying Light: The Following - Volatile Hunter Bundle | 51766 | [51766-dying-light-the-following-volatile-hunter-bundle.json](./51766-dying-light-the-following-volatile-hunter-bundle.json) |
