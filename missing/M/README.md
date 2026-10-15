@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
 | Mahjong VR | 61605 | [61605-mahjong-vr.json](./61605-mahjong-vr.json) |
+| Mahjong Wisdom | 67175 | [67175-mahjong-wisdom.json](./67175-mahjong-wisdom.json) |
 | Mahjong Wonders | 232490 | [232490-mahjong-wonders.json](./232490-mahjong-wonders.json) |
 | Mahjong World | 145551 | [145551-mahjong-world.json](./145551-mahjong-world.json) |
 | Mahjong World Contest | 25545 | [25545-mahjong-world-contest.json](./25545-mahjong-world-contest.json) |
@@ -6957,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
 | Miami Nights 2: The City Is Yours | 145915 | [145915-miami-nights-2-the-city-is-yours.json](./145915-miami-nights-2-the-city-is-yours.json) |
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
+| Miami Nights: Life in the Spotlight | 67226 | [67226-miami-nights-life-in-the-spotlight.json](./67226-miami-nights-life-in-the-spotlight.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
@@ -12999,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
+| Murder, She Wrote | 67185 | [67185-murder-she-wrote.json](./67185-murder-she-wrote.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
@@ -13230,6 +13233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
+| Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
@@ -14517,6 +14521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery House II | 67392 | [67392-mystery-house-ii.json](./67392-mystery-house-ii.json) |
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
+| Mystery in London: On the Trail of Jack the Ripper | 67184 | [67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json](./67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
 | Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
