@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f845f246dd993297793cbd2" width="60" /> | [Jalopy](https://ostdb.net/games/jalopy) | **Jalopy (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1obIRfqViUuJVYUbyrVy2G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273853d9d9db6ac202a4af5fc50" width="60" /> | [Jetpack Joyride](https://ostdb.net/games/jetpack-joyride) | **Jetpack Joyride (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d9e31d06b87b1a6d4065fc1" width="60" /> | [John Carpenter's Toxic Commando](https://ostdb.net/games/john-carpenters-toxic-commando) | **In the Hall of the Zombie King (Toxic Commando Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/5k8uX7ZJzTI4FFyUNdugjg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273408d222041f4a60f7d38b223" width="60" /> | [Journey](https://ostdb.net/games/journey) | **Journey (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) |
