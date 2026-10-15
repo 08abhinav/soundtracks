@@ -4294,6 +4294,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
 | Littlest Pet Shop: Country Friends | 48021 | [48021-littlest-pet-shop-country-friends.json](./48021-littlest-pet-shop-country-friends.json) |
+| Littlest Pet Shop: Garden | 48020 | [48020-littlest-pet-shop-garden.json](./48020-littlest-pet-shop-garden.json) |
+| Littlest Pet Shop: Jungle | 48019 | [48019-littlest-pet-shop-jungle.json](./48019-littlest-pet-shop-jungle.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
 | Littlest Pet Shop: Winter | 47908 | [47908-littlest-pet-shop-winter.json](./47908-littlest-pet-shop-winter.json) |
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
