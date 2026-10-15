@@ -729,6 +729,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders of the Broken Planet - Founders Pack | 82424 | [82424-raiders-of-the-broken-planet-founders-pack.json](./82424-raiders-of-the-broken-planet-founders-pack.json) |
+| Raiders of the Broken Planet: Alien Myths | 57001 | [57001-raiders-of-the-broken-planet-alien-myths.json](./57001-raiders-of-the-broken-planet-alien-myths.json) |
+| Raiders of the Broken Planet: Council Apocalypse | 57004 | [57004-raiders-of-the-broken-planet-council-apocalypse.json](./57004-raiders-of-the-broken-planet-council-apocalypse.json) |
+| Raiders of the Broken Planet: Hades Betrayal | 57003 | [57003-raiders-of-the-broken-planet-hades-betrayal.json](./57003-raiders-of-the-broken-planet-hades-betrayal.json) |
+| Raiders of the Broken Planet: Wardog Fury | 57002 | [57002-raiders-of-the-broken-planet-wardog-fury.json](./57002-raiders-of-the-broken-planet-wardog-fury.json) |
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
@@ -5256,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
+| Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
