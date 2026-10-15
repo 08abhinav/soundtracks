@@ -1774,8 +1774,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarMarket | 412224 | [412224-carmarket.json](./412224-carmarket.json) |
 | Carmen Sandiego | 316681 | [316681-carmen-sandiego.json](./316681-carmen-sandiego.json) |
 | Carmen Sandiego Adventures in Math: The Big Ben Burglary | 51078 | [51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json](./51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json) |
+| Carmen Sandiego Adventures in Math: The Case of the Crumbling Cathedral | 51129 | [51129-carmen-sandiego-adventures-in-math-the-case-of-the-crumbling-cathedral.json](./51129-carmen-sandiego-adventures-in-math-the-case-of-the-crumbling-cathedral.json) |
 | Carmen Sandiego Adventures in Math: The Great Gateway Grab | 51080 | [51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json](./51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json) |
 | Carmen Sandiego Adventures in Math: The Island of Diamonds | 85554 | [85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json](./85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json) |
+| Carmen Sandiego Adventures in Math: The Lady Liberty Larceny | 51128 | [51128-carmen-sandiego-adventures-in-math-the-lady-liberty-larceny.json](./51128-carmen-sandiego-adventures-in-math-the-lady-liberty-larceny.json) |
 | Carmen Sandiego Math Detective | 139721 | [139721-carmen-sandiego-math-detective.json](./139721-carmen-sandiego-math-detective.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
@@ -1815,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Happy Day | 344401 | [344401-carnival-happy-day.json](./344401-carnival-happy-day.json) |
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
+| Carnival King | 51127 | [51127-carnival-king.json](./51127-carnival-king.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnival Massacre | 319832 | [319832-carnival-massacre.json](./319832-carnival-massacre.json) |
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
@@ -4372,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cards: Mate! Unlimited | 175309 | [175309-chess-cards-mate-unlimited.json](./175309-chess-cards-mate-unlimited.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
+| Chess Challenge! | 51126 | [51126-chess-challenge.json](./51126-chess-challenge.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
@@ -5287,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Chaos | 326293 | [326293-christmas-chaos.json](./326293-christmas-chaos.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
+| Christmas Clix | 51124 | [51124-christmas-clix.json](./51124-christmas-clix.json) |
 | Christmas Collection | 137910 | [137910-christmas-collection.json](./137910-christmas-collection.json) |
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
 | Christmas Countdown | 303733 | [303733-christmas-countdown.json](./303733-christmas-countdown.json) |
@@ -9706,6 +9711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copter Crisis | 51123 | [51123-copter-crisis.json](./51123-copter-crisis.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
@@ -10528,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Farm: Tidy Up! | 417348 | [417348-cozy-farm-tidy-up.json](./417348-cozy-farm-tidy-up.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
+| Cozy Fire | 51122 | [51122-cozy-fire.json](./51122-cozy-fire.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
@@ -12213,6 +12220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
 | Cruise for a Corpse | 2477 | [2477-cruise-for-a-corpse.json](./2477-cruise-for-a-corpse.json) |
 | Cruise Line Tycoon | 47938 | [47938-cruise-line-tycoon.json](./47938-cruise-line-tycoon.json) |
+| Cruise Party | 51121 | [51121-cruise-party.json](./51121-cruise-party.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
