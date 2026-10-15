@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
 | Wall2Wall | 302775 | [302775-wall2wall.json](./302775-wall2wall.json) |
+| Wallaby!! Usagi no Kuni no Kangaroo Race | 62084 | [62084-wallaby-usagi-no-kuni-no-kangaroo-race.json](./62084-wallaby-usagi-no-kuni-no-kangaroo-race.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
 | Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
