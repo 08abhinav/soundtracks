@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastpunk: Journey | 249668 | [249668-eastpunk-journey.json](./249668-eastpunk-journey.json) |
 | Eastshade | 17480 | [17480-eastshade.json](./17480-eastshade.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
+| Eastside Hockey Manager | 71414 | [71414-eastside-hockey-manager.json](./71414-eastside-hockey-manager.json) |
 | Eastward Legend: The Empyrean | 119414 | [119414-eastward-legend-the-empyrean.json](./119414-eastward-legend-the-empyrean.json) |
 | Eastward: Between Two Worlds Bundle | 284949 | [284949-eastward-between-two-worlds-bundle.json](./284949-eastward-between-two-worlds-bundle.json) |
 | Eastward: Octopia! | 266688 | [266688-eastward-octopia.json](./266688-eastward-octopia.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entodrive | 156915 | [156915-entodrive.json](./156915-entodrive.json) |
 | Entogious | 245772 | [245772-entogious.json](./245772-entogious.json) |
 | Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
+| Entombed Enhanced | 71394 | [71394-entombed-enhanced.json](./71394-entombed-enhanced.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
+| Escape MCP | 71385 | [71385-escape-mcp.json](./71385-escape-mcp.json) |
 | Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
 | Escape Memoirs: Mansion Heist | 204840 | [204840-escape-memoirs-mansion-heist.json](./204840-escape-memoirs-mansion-heist.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
@@ -3881,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Extreme Games | 20587 | [20587-espn-extreme-games.json](./20587-espn-extreme-games.json) |
 | ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
+| ESPN International Track & Field | 71419 | [71419-espn-international-track-and-field.json](./71419-espn-international-track-and-field.json) |
 | ESPN Let's Go Skiing | 38848 | [38848-espn-lets-go-skiing.json](./38848-espn-lets-go-skiing.json) |
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
@@ -5450,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
+| Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
