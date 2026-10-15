@@ -3333,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remont Soyuz | 181172 | [181172-remont-soyuz.json](./181172-remont-soyuz.json) |
+| Remoove | 67909 | [67909-remoove.json](./67909-remoove.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
