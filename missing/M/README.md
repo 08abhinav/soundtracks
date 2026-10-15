@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
 | Mario & Luigi: Bowser's Inside Story | 270315 | [270315-mario-and-luigi-bowsers-inside-story.json](./270315-mario-and-luigi-bowsers-inside-story.json) |
+| Mario & Luigi: Bowser's Inside Story | 3363 | [3363-mario-and-luigi-bowsers-inside-story.json](./3363-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey | 90113 | [90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json](./90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
 | Medievalien | 142731 | [142731-medievalien.json](./142731-medievalien.json) |
 | MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
+| MediEvil | 4000 | [4000-medievil.json](./4000-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
 | MediEvil: Digital Deluxe Edition | 118681 | [118681-medievil-digital-deluxe-edition.json](./118681-medievil-digital-deluxe-edition.json) |
@@ -5111,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
+| Mega Man 5 | 1718 | [1718-mega-man-5.json](./1718-mega-man-5.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
@@ -5367,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X3: Tsuraranoma | 268418 | [268418-mega-man-x3-tsuraranoma.json](./268418-mega-man-x3-tsuraranoma.json) |
 | Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
+| Mega Man X4 | 1744 | [1744-mega-man-x4.json](./1744-mega-man-x4.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
@@ -6591,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
+| Metal Gear | 374 | [374-metal-gear.json](./374-metal-gear.json) |
 | Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
 | Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
@@ -6700,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3 | 347162 | [347162-metal-slug-3.json](./347162-metal-slug-3.json) |
 | Metal Slug 3: ACA Neo Geo | 347163 | [347163-metal-slug-3-aca-neo-geo.json](./347163-metal-slug-3-aca-neo-geo.json) |
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
+| Metal Slug 4 | 1409 | [1409-metal-slug-4.json](./1409-metal-slug-4.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
