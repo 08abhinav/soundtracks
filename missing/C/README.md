@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace | 206697 | [206697-caesars-palace.json](./206697-caesars-palace.json) |
 | Caesars Palace | 206698 | [206698-caesars-palace.json](./206698-caesars-palace.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
+| Caesars Palace 2000: Millennium Gold Edition | 45807 | [45807-caesars-palace-2000-millennium-gold-edition.json](./45807-caesars-palace-2000-millennium-gold-edition.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
 | Caesars Palace II | 45296 | [45296-caesars-palace-ii.json](./45296-caesars-palace-ii.json) |
 | Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
@@ -3958,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
+| Charge 'n Blast | 45822 | [45822-charge-n-blast.json](./45822-charge-n-blast.json) |
 | Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
 | Charge Champs | 172086 | [172086-charge-champs.json](./172086-charge-champs.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
+| Cool Herders | 45813 | [45813-cool-herders.json](./45813-cool-herders.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
 | Cool Kid Cody: Season 1 - Episode 07 | 202732 | [202732-cool-kid-cody-season-1-episode-07.json](./202732-cool-kid-cody-season-1-episode-07.json) |
 | Cool Kid Cody: Season 1 - Episode 10 | 204960 | [204960-cool-kid-cody-season-1-episode-10.json](./204960-cool-kid-cody-season-1-episode-10.json) |
