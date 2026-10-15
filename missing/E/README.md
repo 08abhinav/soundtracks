@@ -2662,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
+| Enfant Terrible | 65395 | [65395-enfant-terrible.json](./65395-enfant-terrible.json) |
 | Enfora Star | 366033 | [366033-enfora-star.json](./366033-enfora-star.json) |
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
