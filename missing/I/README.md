@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
 | Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
+| Ichigo Mashimaro | 72557 | [72557-ichigo-mashimaro.json](./72557-ichigo-mashimaro.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichika-chan Kanippatsu | 401169 | [401169-ichika-chan-kanippatsu.json](./401169-ichika-chan-kanippatsu.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
