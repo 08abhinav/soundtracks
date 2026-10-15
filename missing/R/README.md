@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
+| Race: Caterham | 24770 | [24770-race-caterham.json](./24770-race-caterham.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race: The WTCC Game | 839 | [839-race-the-wtcc-game.json](./839-race-the-wtcc-game.json) |
 | Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
+| Rescue 2013: Everyday Heroes | 24767 | [24767-rescue-2013-everyday-heroes.json](./24767-rescue-2013-everyday-heroes.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
