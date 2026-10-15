@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
+| Caffeine | 17854 | [17854-caffeine.json](./17854-caffeine.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
@@ -8066,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
+| Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
@@ -12966,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
+| CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubia | 139711 | [139711-cubia.json](./139711-cubia.json) |
 | Cubians : Combine | 114243 | [114243-cubians-combine.json](./114243-cubians-combine.json) |
