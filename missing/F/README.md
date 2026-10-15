@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 06 | 240357 | [240357-fifa-soccer-06.json](./240357-fifa-soccer-06.json) |
 | FIFA Soccer 06 | 240358 | [240358-fifa-soccer-06.json](./240358-fifa-soccer-06.json) |
+| FIFA Soccer 06 | 700 | [700-fifa-soccer-06.json](./700-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 240286 | [240286-fifa-soccer-07.json](./240286-fifa-soccer-07.json) |
 | FIFA Soccer 07 | 240288 | [240288-fifa-soccer-07.json](./240288-fifa-soccer-07.json) |
 | FIFA Soccer 07 | 240289 | [240289-fifa-soccer-07.json](./240289-fifa-soccer-07.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
+| FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
 | FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
 | FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
@@ -7307,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 2017: Jackie Chan DC Racing Oreca 07 | 274955 | [274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json](./274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
 | Forza Motorsport 2019: McLaren #03 720S GT3 | 277790 | [277790-forza-motorsport-2019-mclaren-03-720s-gt3.json](./277790-forza-motorsport-2019-mclaren-03-720s-gt3.json) |
+| Forza Motorsport 3 | 3069 | [3069-forza-motorsport-3.json](./3069-forza-motorsport-3.json) |
 | Forza Motorsport 3: Limited Collector's Edition | 47471 | [47471-forza-motorsport-3-limited-collectors-edition.json](./47471-forza-motorsport-3-limited-collectors-edition.json) |
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
 | Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
