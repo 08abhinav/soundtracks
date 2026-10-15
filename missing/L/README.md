@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
 | Line Play | 202587 | [202587-line-play.json](./202587-line-play.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
+| Line Puzzle de Inazuma Eleven | 61499 | [61499-line-puzzle-de-inazuma-eleven.json](./61499-line-puzzle-de-inazuma-eleven.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
