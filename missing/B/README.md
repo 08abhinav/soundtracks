@@ -6508,6 +6508,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Dismal Swamp | 170418 | [170418-blades-of-time-dismal-swamp.json](./170418-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
+| Blades of Triangulum | 41816 | [41816-blades-of-triangulum.json](./41816-blades-of-triangulum.json) |
+| Blades of Triangulum | 41817 | [41817-blades-of-triangulum.json](./41817-blades-of-triangulum.json) |
 | Blades of Vengeance | 45565 | [45565-blades-of-vengeance.json](./45565-blades-of-vengeance.json) |
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
@@ -8486,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
+| Bomber Man Special | 41799 | [41799-bomber-man-special.json](./41799-bomber-man-special.json) |
 | Bomber Panda | 198165 | [198165-bomber-panda.json](./198165-bomber-panda.json) |
 | Bomber Party: Anime Avatars | 274952 | [274952-bomber-party-anime-avatars.json](./274952-bomber-party-anime-avatars.json) |
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
