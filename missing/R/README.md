@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
+| Rachel's Retreat | 54313 | [54313-rachels-retreat.json](./54313-rachels-retreat.json) |
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
 | Racing | 247068 | [247068-racing.json](./247068-racing.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
 | Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
+| Racing Team Manager | 54312 | [54312-racing-team-manager.json](./54312-racing-team-manager.json) |
 | Racing the Gods: Beyond Horizons | 197573 | [197573-racing-the-gods-beyond-horizons.json](./197573-racing-the-gods-beyond-horizons.json) |
 | Racing Wars | 180701 | [180701-racing-wars.json](./180701-racing-wars.json) |
 | Racing Xtreme 2 | 154989 | [154989-racing-xtreme-2.json](./154989-racing-xtreme-2.json) |
@@ -784,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
+| Railkings Model Railroad Simulator | 54311 | [54311-railkings-model-railroad-simulator.json](./54311-railkings-model-railroad-simulator.json) |
 | Railpunk Mayhem | 292426 | [292426-railpunk-mayhem.json](./292426-railpunk-mayhem.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
@@ -936,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Christmas Lights 2 | 415881 | [415881-rainbow-mosaics-christmas-lights-2.json](./415881-rainbow-mosaics-christmas-lights-2.json) |
 | Rainbow Mosaics: The Forest's Guardian | 295467 | [295467-rainbow-mosaics-the-forests-guardian.json](./295467-rainbow-mosaics-the-forests-guardian.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
+| Rainbow Mystery | 54310 | [54310-rainbow-mystery.json](./54310-rainbow-mystery.json) |
 | Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
@@ -955,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
+| Rainbow Web 2 | 54309 | [54309-rainbow-web-2.json](./54309-rainbow-web-2.json) |
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
 | Rainbow Witch | 250263 | [250263-rainbow-witch.json](./250263-rainbow-witch.json) |
 | Rainbows, Toilets & Unicorns | 131975 | [131975-rainbows-toilets-and-unicorns.json](./131975-rainbows-toilets-and-unicorns.json) |
@@ -1408,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
+| Rat Hunter | 54308 | [54308-rat-hunter.json](./54308-rat-hunter.json) |
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
@@ -2683,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
+| Red Riding Hood | 54319 | [54319-red-riding-hood.json](./54319-red-riding-hood.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
@@ -2703,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
+| Red Shark | 54318 | [54318-red-shark.json](./54318-red-shark.json) |
 | Red Silhouette | 285939 | [285939-red-silhouette.json](./285939-red-silhouette.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Skull Reef | 176758 | [176758-red-skull-reef.json](./176758-red-skull-reef.json) |
@@ -3610,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
+| Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
@@ -4939,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
+| Riding Academy 2 | 54316 | [54316-riding-academy-2.json](./54316-riding-academy-2.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
@@ -5284,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight United: ILYA Muromets | 162752 | [162752-rise-of-flight-united-ilya-muromets.json](./162752-rise-of-flight-united-ilya-muromets.json) |
 | Rise of Flight United: Intrepid Flyers | 162749 | [162749-rise-of-flight-united-intrepid-flyers.json](./162749-rise-of-flight-united-intrepid-flyers.json) |
 | Rise of Flight United: Legendary Bombers | 162753 | [162753-rise-of-flight-united-legendary-bombers.json](./162753-rise-of-flight-united-legendary-bombers.json) |
+| Rise of Flight: Channel Battles Edition | 54322 | [54322-rise-of-flight-channel-battles-edition.json](./54322-rise-of-flight-channel-battles-edition.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
@@ -5520,6 +5531,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
+| Rival Ball | 54324 | [54324-rival-ball.json](./54324-rival-ball.json) |
+| Rival Ball 2 | 54325 | [54325-rival-ball-2.json](./54325-rival-ball-2.json) |
 | Rival Ball Tournament | 71707 | [71707-rival-ball-tournament.json](./71707-rival-ball-tournament.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
 | Rival Fire | 227168 | [227168-rival-fire.json](./227168-rival-fire.json) |
@@ -5714,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
+| Road to Fame | 54326 | [54326-road-to-fame.json](./54326-road-to-fame.json) |
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
@@ -6987,6 +7001,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
 | Roller Coaster Funfare | 94009 | [94009-roller-coaster-funfare.json](./94009-roller-coaster-funfare.json) |
 | Roller Coaster Mania | 144896 | [144896-roller-coaster-mania.json](./144896-roller-coaster-mania.json) |
+| Roller Coaster Mania 2 | 54327 | [54327-roller-coaster-mania-2.json](./54327-roller-coaster-mania-2.json) |
+| Roller Coaster Mania 3 | 54328 | [54328-roller-coaster-mania-3.json](./54328-roller-coaster-mania-3.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
@@ -7742,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
+| Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
