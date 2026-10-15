@@ -9262,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
+| The Majors Pro Baseball | 45795 | [45795-the-majors-pro-baseball.json](./45795-the-majors-pro-baseball.json) |
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
@@ -9771,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Penelope: Race to Odysseus | 61538 | [61538-the-next-penelope-race-to-odysseus.json](./61538-the-next-penelope-race-to-odysseus.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
+| The Next Tetris On-Line Edition | 45789 | [45789-the-next-tetris-on-line-edition.json](./45789-the-next-tetris-on-line-edition.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
 | The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
@@ -10702,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Righteous Scar | 322685 | [322685-the-righteous-scar.json](./322685-the-righteous-scar.json) |
+| The Ring: Terror's Realm | 45832 | [45832-the-ring-terrors-realm.json](./45832-the-ring-terrors-realm.json) |
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
@@ -15824,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Soul | 321630 | [321630-time-soul.json](./321630-time-soul.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
+| Time Stalkers | 45846 | [45846-time-stalkers.json](./45846-time-stalkers.json) |
 | Time Stall | 129478 | [129478-time-stall.json](./129478-time-stall.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stone | 134479 | [134479-time-stone.json](./134479-time-stone.json) |
@@ -16492,6 +16496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
+| TNN Motorsports Hardcore Heat | 45845 | [45845-tnn-motorsports-hardcore-heat.json](./45845-tnn-motorsports-hardcore-heat.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
