@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
 | Tangrams | 234157 | [234157-tangrams.json](./234157-tangrams.json) |
 | Tangrams & Blocks | 103899 | [103899-tangrams-and-blocks.json](./103899-tangrams-and-blocks.json) |
+| TangramsVR | 55767 | [55767-tangramsvr.json](./55767-tangramsvr.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
@@ -2716,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Riff | 215864 | [215864-temporal-riff.json](./215864-temporal-riff.json) |
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
+| Temporal Storm X: Hyperspace Dream | 55798 | [55798-temporal-storm-x-hyperspace-dream.json](./55798-temporal-storm-x-hyperspace-dream.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
@@ -18439,6 +18441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Lords | 367004 | [367004-tower-lords.json](./367004-tower-lords.json) |
 | Tower Madness 2 | 88457 | [88457-tower-madness-2.json](./88457-tower-madness-2.json) |
+| Tower Miners | 55790 | [55790-tower-miners.json](./55790-tower-miners.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
@@ -18742,6 +18745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxic Tomb | 283086 | [283086-toxic-tomb.json](./283086-toxic-tomb.json) |
 | Toxic Yuri | 397186 | [397186-toxic-yuri.json](./397186-toxic-yuri.json) |
+| Toxicant | 55795 | [55795-toxicant.json](./55795-toxicant.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toxikk | 17875 | [17875-toxikk.json](./17875-toxikk.json) |
@@ -20281,6 +20285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
+| Tranquility | 55825 | [55825-tranquility.json](./55825-tranquility.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
