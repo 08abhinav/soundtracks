@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi no Mahou no Kuni Densetsu | 230327 | [230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json](./230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json) |
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
+| Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kerplunk! / Toss Across / Tip It | 137995 | [137995-kerplunk-toss-across-tip-it.json](./137995-kerplunk-toss-across-tip-it.json) |
@@ -2109,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
+| King of the Hat | 54974 | [54974-king-of-the-hat.json](./54974-king-of-the-hat.json) |
 | King of the Hill | 72285 | [72285-king-of-the-hill.json](./72285-king-of-the-hill.json) |
 | King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
 | King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
@@ -3970,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubix | 74996 | [74996-kubix.json](./74996-kubix.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
+| Kubo: A Samurai Quest | 55012 | [55012-kubo-a-samurai-quest.json](./55012-kubo-a-samurai-quest.json) |
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
