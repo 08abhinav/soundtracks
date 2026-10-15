@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Cubes | 166818 | [166818-fast-cubes.json](./166818-fast-cubes.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
+| Fast Draw Showdown | 8927 | [8927-fast-draw-showdown.json](./8927-fast-draw-showdown.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
 | Fast Finger Rule | 188928 | [188928-fast-finger-rule.json](./188928-fast-finger-rule.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
+| FFX Runner | 8776 | [8776-ffx-runner.json](./8776-ffx-runner.json) |
 | FGTeev Goozy | 167683 | [167683-fgteev-goozy.json](./167683-fgteev-goozy.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
 | Fhtagn Nagh | 271229 | [271229-fhtagn-nagh.json](./271229-fhtagn-nagh.json) |
@@ -8708,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
+| Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Honey ASMR: Truck Pack | 286208 | [286208-frozen-honey-asmr-truck-pack.json](./286208-frozen-honey-asmr-truck-pack.json) |
