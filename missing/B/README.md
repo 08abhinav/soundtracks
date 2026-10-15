@@ -12051,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
 | Bury My Heart Knee Deep | 262546 | [262546-bury-my-heart-knee-deep.json](./262546-bury-my-heart-knee-deep.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
+| Bus & Cable Car Simulator | 52487 | [52487-bus-and-cable-car-simulator.json](./52487-bus-and-cable-car-simulator.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
@@ -12071,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
 | Bus Sim 25: City Simulator | 349811 | [349811-bus-sim-25-city-simulator.json](./349811-bus-sim-25-city-simulator.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
+| Bus Simulator 16: Gold Edition | 52488 | [52488-bus-simulator-16-gold-edition.json](./52488-bus-simulator-16-gold-edition.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
