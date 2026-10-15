@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Race | 6129 | [6129-safari-race.json](./6129-safari-race.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
 | Safari Simulator: Lion | 88154 | [88154-safari-simulator-lion.json](./88154-safari-simulator-lion.json) |
+| Safari Venture | 28608 | [28608-safari-venture.json](./28608-safari-venture.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
@@ -10809,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2020 | 123351 | [123351-soccer-manager-2020.json](./123351-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
+| Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
@@ -11278,6 +11280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
 | Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
+| Solitaire Club | 28609 | [28609-solitaire-club.json](./28609-solitaire-club.json) |
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Companions: Cats | 418324 | [418324-solitaire-companions-cats.json](./418324-solitaire-companions-cats.json) |
@@ -14313,6 +14316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
+| Speed King | 28571 | [28571-speed-king.json](./28571-speed-king.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
 | Speed Kings | 4163 | [4163-speed-kings.json](./4163-speed-kings.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
@@ -18646,6 +18650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories to Tell: Run Away | 290477 | [290477-stories-to-tell-run-away.json](./290477-stories-to-tell-run-away.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
 | Stories: The Path of Destinies - Collector's Edition | 53674 | [53674-stories-the-path-of-destinies-collectors-edition.json](./53674-stories-the-path-of-destinies-collectors-edition.json) |
+| Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
@@ -19273,6 +19278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
 | Street of Sanctuary VR | 30051 | [30051-street-of-sanctuary-vr.json](./30051-street-of-sanctuary-vr.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
+| Street Olympics | 28564 | [28564-street-olympics.json](./28564-street-olympics.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle | 226698 | [226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json](./226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
