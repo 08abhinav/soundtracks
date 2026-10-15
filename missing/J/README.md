@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juno Markev | 112235 | [112235-juno-markev.json](./112235-juno-markev.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Juno: New Origins | 102982 | [102982-juno-new-origins.json](./102982-juno-new-origins.json) |
+| Juno's Darkest Hour | 31645 | [31645-junos-darkest-hour.json](./31645-junos-darkest-hour.json) |
 | Junon.io | 176309 | [176309-junon-io.json](./176309-junon-io.json) |
 | Junsei Yasaotoko | 242072 | [242072-junsei-yasaotoko.json](./242072-junsei-yasaotoko.json) |
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
