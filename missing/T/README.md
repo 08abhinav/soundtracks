@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge | 68955 | [68955-tap-tap-revenge.json](./68955-tap-tap-revenge.json) |
 | Tap Tap Revenge 2 | 92642 | [92642-tap-tap-revenge-2.json](./92642-tap-tap-revenge-2.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
+| Tap Tap Revenge Tour | 64851 | [64851-tap-tap-revenge-tour.json](./64851-tap-tap-revenge-tour.json) |
 | Tap Tap Revenge: Coldplay Edition | 69135 | [69135-tap-tap-revenge-coldplay-edition.json](./69135-tap-tap-revenge-coldplay-edition.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
@@ -14237,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
+| Tiger & Bunny: On Air Jack! | 64861 | [64861-tiger-and-bunny-on-air-jack.json](./64861-tiger-and-bunny-on-air-jack.json) |
 | Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
