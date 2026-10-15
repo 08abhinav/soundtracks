@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
+| 100 Jumps don't die | 8745 | [8745-100-jumps-dont-die.json](./8745-100-jumps-dont-die.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
