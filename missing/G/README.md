@@ -6777,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
 | Guacomole | 234104 | [234104-guacomole.json](./234104-guacomole.json) |
+| Guadalcanal | 53162 | [53162-guadalcanal.json](./53162-guadalcanal.json) |
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
