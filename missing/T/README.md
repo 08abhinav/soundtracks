@@ -10801,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scorchfarer | 153535 | [153535-the-scorchfarer.json](./153535-the-scorchfarer.json) |
 | The Scorpion King: Rise of the Akkadian | 4096 | [4096-the-scorpion-king-rise-of-the-akkadian.json](./4096-the-scorpion-king-rise-of-the-akkadian.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
+| The Scoundrels Guild: A Tale of Thieves | 60998 | [60998-the-scoundrels-guild-a-tale-of-thieves.json](./60998-the-scoundrels-guild-a-tale-of-thieves.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
 | The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
 | The Scouring | 325682 | [325682-the-scouring.json](./325682-the-scouring.json) |
@@ -13740,11 +13741,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
+| Thoroughbred Breeder II Plus | 61016 | [61016-thoroughbred-breeder-ii-plus.json](./61016-thoroughbred-breeder-ii-plus.json) |
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
 | Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
+| Those Darn Nipples! | 60979 | [60979-those-darn-nipples.json](./60979-those-darn-nipples.json) |
 | Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
