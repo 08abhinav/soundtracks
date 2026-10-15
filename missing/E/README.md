@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enfora Star | 366033 | [366033-enfora-star.json](./366033-enfora-star.json) |
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
+| Enforcer: Fullmetal Megablaster | 73199 | [73199-enforcer-fullmetal-megablaster.json](./73199-enforcer-fullmetal-megablaster.json) |
 | Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
