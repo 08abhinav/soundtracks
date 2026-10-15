@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
+| Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
@@ -7361,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code2040 | 119632 | [119632-code2040.json](./119632-code2040.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
+| Codebreaker | 68567 | [68567-codebreaker.json](./68567-codebreaker.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
@@ -11448,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
+| Crime Car Driving Simulator | 68531 | [68531-crime-car-driving-simulator.json](./68531-crime-car-driving-simulator.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
