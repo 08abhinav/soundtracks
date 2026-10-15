@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
+| Dissonance: An Interactive Novelette | 34029 | [34029-dissonance-an-interactive-novelette.json](./34029-dissonance-an-interactive-novelette.json) |
 | Distance | 385378 | [385378-distance.json](./385378-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
