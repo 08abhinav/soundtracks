@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
+| Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
@@ -5831,7 +5832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
-| Hohokum | 10088 | [10088-hohokum.json](./10088-hohokum.json) |
 | Hoi | 79765 | [79765-hoi.json](./79765-hoi.json) |
 | Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
@@ -6074,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
+| Hologram Time Traveler | 8936 | [8936-hologram-time-traveler.json](./8936-hologram-time-traveler.json) |
 | HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo 2 in 1 | 94142 | [94142-hugo-2-in-1.json](./94142-hugo-2-in-1.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
+| Hugo II, Whodunit? | 8882 | [8882-hugo-ii-whodunit.json](./8882-hugo-ii-whodunit.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
