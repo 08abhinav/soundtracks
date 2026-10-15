@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
+| Letter Taps | 56383 | [56383-letter-taps.json](./56383-letter-taps.json) |
 | Letter Targets | 94380 | [94380-letter-targets.json](./94380-letter-targets.json) |
 | Letter To A Friend | 251451 | [251451-letter-to-a-friend.json](./251451-letter-to-a-friend.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
@@ -3924,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
+| Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
