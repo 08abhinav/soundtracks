@@ -4561,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
+| Fishing World | 58131 | [58131-fishing-world.json](./58131-fishing-world.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
 | Fishing: Barents Sea: Line and Net Ships | 238945 | [238945-fishing-barents-sea-line-and-net-ships.json](./238945-fishing-barents-sea-line-and-net-ships.json) |
@@ -4948,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
 | FlapDeath | 389672 | [389672-flapdeath.json](./389672-flapdeath.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
+| Flapp & Zegeta | 58124 | [58124-flapp-and-zegeta.json](./58124-flapp-and-zegeta.json) |
 | Flappatron | 120392 | [120392-flappatron.json](./120392-flappatron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
