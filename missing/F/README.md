@@ -7785,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
+| Free SuDoKu | 71981 | [71981-free-sudoku.json](./71981-free-sudoku.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
