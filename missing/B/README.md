@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | Babo Violent 2 | 72760 | [72760-babo-violent-2.json](./72760-babo-violent-2.json) |
 | Babol the Walking Box | 154820 | [154820-babol-the-walking-box.json](./154820-babol-the-walking-box.json) |
+| Baboon | 8659 | [8659-baboon.json](./8659-baboon.json) |
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
@@ -843,6 +844,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Renka: Karyuu Kenshi-den | 163235 | [163235-bakumatsu-renka-karyuu-kenshi-den.json](./163235-bakumatsu-renka-karyuu-kenshi-den.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Revolution | 91627 | [91627-bakumatsu-revolution.json](./91627-bakumatsu-revolution.json) |
+| Bakumatsu Rock | 8661 | [8661-bakumatsu-rock.json](./8661-bakumatsu-rock.json) |
+| Bakumatsu Rock: Ultra Soul | 8662 | [8662-bakumatsu-rock-ultra-soul.json](./8662-bakumatsu-rock-ultra-soul.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
 | Bakunyuu Reijou x Kimo-o Hentai Yome-ka Keikaku: Keppeki Cool Kaichou ga Saikasou no Kusa Kimo Seishi Chuudoku ni! | 280698 | [280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json](./280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json) |
@@ -4547,12 +4550,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
+| Best of Arcade Games | 8664 | [8664-best-of-arcade-games.json](./8664-best-of-arcade-games.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Arcade Games: Air Hockey | 84984 | [84984-best-of-arcade-games-air-hockey.json](./84984-best-of-arcade-games-air-hockey.json) |
 | Best of Arcade Games: Brick Breaker | 84986 | [84986-best-of-arcade-games-brick-breaker.json](./84986-best-of-arcade-games-brick-breaker.json) |
 | Best of Arcade Games: Bubble Buster | 84985 | [84985-best-of-arcade-games-bubble-buster.json](./84985-best-of-arcade-games-bubble-buster.json) |
 | Best of Arcade Games: Tetraminos | 84982 | [84982-best-of-arcade-games-tetraminos.json](./84982-best-of-arcade-games-tetraminos.json) |
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
+| Best of Board Games | 8665 | [8665-best-of-board-games.json](./8665-best-of-board-games.json) |
 | Best of Board Games DS | 84785 | [84785-best-of-board-games-ds.json](./84785-best-of-board-games-ds.json) |
 | Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
@@ -4618,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
+| Betrayal in Antara | 8828 | [8828-betrayal-in-antara.json](./8828-betrayal-in-antara.json) |
 | Betrayal of Blood | 243585 | [243585-betrayal-of-blood.json](./243585-betrayal-of-blood.json) |
 | Betrayal of the Obsidian Baboon | 73168 | [73168-betrayal-of-the-obsidian-baboon.json](./73168-betrayal-of-the-obsidian-baboon.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
@@ -4776,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Revival | 273569 | [273569-beyond-revival.json](./273569-beyond-revival.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
+| Beyond Shadowgate | 8698 | [8698-beyond-shadowgate.json](./8698-beyond-shadowgate.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
 | Beyond Skyrim | 19221 | [19221-beyond-skyrim.json](./19221-beyond-skyrim.json) |
@@ -6110,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
+| Black Crypt | 8692 | [8692-black-crypt.json](./8692-black-crypt.json) |
 | Black Crystals | 127700 | [127700-black-crystals.json](./127700-black-crystals.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
 | Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
@@ -7695,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
+| BloodStorm | 8937 | [8937-bloodstorm.json](./8937-bloodstorm.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
@@ -8106,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
+| Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
@@ -11474,7 +11484,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
+| Bugs Bunny in Crazy Castle 4 | 8724 | [8724-bugs-bunny-in-crazy-castle-4.json](./8724-bugs-bunny-in-crazy-castle-4.json) |
 | Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
+| Bugs Bunny: Crazy Castle 3 | 8723 | [8723-bugs-bunny-crazy-castle-3.json](./8723-bugs-bunny-crazy-castle-3.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs From Space | 188417 | [188417-bugs-from-space.json](./188417-bugs-from-space.json) |
@@ -11652,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Girls | 8683 | [8683-bullet-girls.json](./8683-bullet-girls.json) |
 | Bullet Girls 2 | 59333 | [59333-bullet-girls-2.json](./59333-bullet-girls-2.json) |
 | Bullet Girls Phantasia | 57021 | [57021-bullet-girls-phantasia.json](./57021-bullet-girls-phantasia.json) |
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
