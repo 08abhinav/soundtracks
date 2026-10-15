@@ -4008,7 +4008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: Gold Edition | 206017 | [206017-serious-sam-gold-edition.json](./206017-serious-sam-gold-edition.json) |
 | Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
-| Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
 | Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
