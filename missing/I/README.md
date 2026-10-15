@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
+| It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
 | It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
 | It's Zoro's Birthday! | 184315 | [184315-its-zoros-birthday.json](./184315-its-zoros-birthday.json) |
@@ -4519,9 +4520,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itachi: Haunted Abodes - Wandering Through 2000s Tokyo Culture | 369761 | [369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json](./369761-itachi-haunted-abodes-wandering-through-2000s-tokyo-culture.json) |
 | Itadaki Smash | 148312 | [148312-itadaki-smash.json](./148312-itadaki-smash.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
+| Itadaki Street 3 | 60477 | [60477-itadaki-street-3.json](./60477-itadaki-street-3.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
+| Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
