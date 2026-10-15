@@ -500,6 +500,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bf5ee364c70a2626e5796b3" width="60" /> | [Gods Will Be Watching](https://ostdb.net/games/gods-will-be-watching) | **Gods Will Be Watching Original Soundtrack** · [Spotify](https://open.spotify.com/album/7iDzJ4BkWfskgXHCdItu5c) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/2d/6a/ec/2d6aecc5-a5bb-e43c-ac23-20fc161957ef/sega.jpg/600x600bb.jpg" width="60" /> | [Golden Axe](https://ostdb.net/games/golden-axe) | **Golden Axe The Music** · [Spotify](https://open.spotify.com/album/05PU3OQUhK72yz87Mxv06w) · [Apple Music](https://music.apple.com/us/album/golden-axe-the-music/990212026) · [Album](https://album.link/i/990212026) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039" width="60" /> | [GoldenEye 007](https://ostdb.net/games/goldeneye-007) | **GoldenEye 007, Iconic Themes** · [Spotify](https://open.spotify.com/album/7wEcz0DKQrgR1R1f1dS782) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391e41d0b6471eef3b4cb7e75" width="60" /> | [Golf It!](https://ostdb.net/games/golf-it) | **Golf It Soundtrack** · [Spotify](https://open.spotify.com/album/7oEVJkhjzuLQ5cOSsmqTzO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303aa4ddc3326db309cc1694" width="60" /> | [Gone Home](https://ostdb.net/games/gone-home) | **Gone Home: Original Soundtrack** · [Spotify](https://open.spotify.com/album/2trGaSVNffD8KeX1Gy5TdF) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/9d/4a/b09d4ae6-509b-fd77-b3ed-c7961cbc4359/8721416830891.png/600x600bb.jpg" width="60" /> | [Goodnight Universe](https://ostdb.net/games/goodnight-universe) | **Goodnight Universe (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/goodnight-universe-original-video-game-soundtrack/1854320361?uo=4) · [Album](https://album.link/i/1854320361) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/9f/7f/8f9f7f79-141e-7f6b-e79b-0de9e74f8e34/859724824719_cover.jpg/600x600bb.jpg" width="60" /> | [Gorogoa](https://ostdb.net/games/gorogoa) | **Gorogoa (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7asu5KfbDAYEho26WCKllX) · [Apple Music](https://music.apple.com/us/album/gorogoa-original-soundtrack/1334571185) · [Album](https://album.link/i/1334571185) |
@@ -1369,4 +1370,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1686 soundtracks · last updated 2026-10-15T19:30:46.309Z_
+_1687 soundtracks · last updated 2026-10-15T19:30:58.838Z_
