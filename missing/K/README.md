@@ -897,10 +897,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girls: Pretty Mermaid | 370814 | [370814-kawaii-girls-pretty-mermaid.json](./370814-kawaii-girls-pretty-mermaid.json) |
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
 | Kawaii Girls: Venice Crush | 362204 | [362204-kawaii-girls-venice-crush.json](./362204-kawaii-girls-venice-crush.json) |
+| Kawaii Hamster | 49756 | [49756-kawaii-hamster.json](./49756-kawaii-hamster.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Home Design | 118754 | [118754-kawaii-home-design.json](./118754-kawaii-home-design.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
 | Kawaii Kingdom | 255890 | [255890-kawaii-kingdom.json](./255890-kawaii-kingdom.json) |
+| Kawaii Koinu | 49755 | [49755-kawaii-koinu.json](./49755-kawaii-koinu.json) |
+| Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu | 49754 | [49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json](./49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json) |
 | Kawaii Koneko 3D | 130729 | [130729-kawaii-koneko-3d.json](./130729-kawaii-koneko-3d.json) |
 | Kawaii Koneko DS | 130800 | [130800-kawaii-koneko-ds.json](./130800-kawaii-koneko-ds.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
