@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth on Stream | 403773 | [403773-earth-on-stream.json](./403773-earth-on-stream.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
 | Earth Rising | 235694 | [235694-earth-rising.json](./235694-earth-rising.json) |
+| Earth Romancer | 54980 | [54980-earth-romancer.json](./54980-earth-romancer.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
