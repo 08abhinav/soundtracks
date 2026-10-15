@@ -6020,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wortgewandt | 339152 | [339152-wortgewandt.json](./339152-wortgewandt.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
+| Worthy Opponent | 70275 | [70275-worthy-opponent.json](./70275-worthy-opponent.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
