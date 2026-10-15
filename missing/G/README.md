@@ -5888,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
 | Great Hunt: North America - Summer Safari | 172064 | [172064-great-hunt-north-america-summer-safari.json](./172064-great-hunt-north-america-summer-safari.json) |
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
+| Great Journey: Mr. Penguin's Letter | 63766 | [63766-great-journey-mr-penguins-letter.json](./63766-great-journey-mr-penguins-letter.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Mountain Experience | 102336 | [102336-great-mountain-experience.json](./102336-great-mountain-experience.json) |
 | Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
