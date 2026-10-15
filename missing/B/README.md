@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bantumi | 233557 | [233557-bantumi.json](./233557-bantumi.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
+| Banzai Arcade | 19143 | [19143-banzai-arcade.json](./19143-banzai-arcade.json) |
 | Banzai Bat | 188966 | [188966-banzai-bat.json](./188966-banzai-bat.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
 | Battle Heroin Crisis: Heroin Pack - Satellizer Another & Cassie | 226243 | [226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json](./226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json) |
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
+| Battle High 2 | 19093 | [19093-battle-high-2.json](./19093-battle-high-2.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
@@ -4501,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
 | Bert's Family Feud: The Interactive DVD Game | 231831 | [231831-berts-family-feud-the-interactive-dvd-game.json](./231831-berts-family-feud-the-interactive-dvd-game.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
+| Bertie the Brain | 19157 | [19157-bertie-the-brain.json](./19157-bertie-the-brain.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
@@ -8095,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Defenders | 31648 | [31648-board-defenders.json](./31648-board-defenders.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
 | Board Game Cafe | 293522 | [293522-board-game-cafe.json](./293522-board-game-cafe.json) |
+| Board Game Classics | 19111 | [19111-board-game-classics.json](./19111-board-game-classics.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
 | Board Game Party | 303172 | [303172-board-game-party.json](./303172-board-game-party.json) |
