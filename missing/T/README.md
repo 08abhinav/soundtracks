@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brawl | 33648 | [33648-tank-brawl.json](./33648-tank-brawl.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
+| Tank Brigade | 40617 | [40617-tank-brigade.json](./40617-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
 | Tawara | 97809 | [97809-tawara.json](./97809-tawara.json) |
+| Tax Avoiders | 40618 | [40618-tax-avoiders.json](./40618-tax-avoiders.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Fugitive | 169135 | [169135-tax-fugitive.json](./169135-tax-fugitive.json) |
@@ -11719,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
+| The Stacks | 40616 | [40616-the-stacks.json](./40616-the-stacks.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
@@ -18998,6 +19001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
 | Toys vs. Nightmares | 252060 | [252060-toys-vs-nightmares.json](./252060-toys-vs-nightmares.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
+| Toyshop Trouble | 40608 | [40608-toyshop-trouble.json](./40608-toyshop-trouble.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toytopia | 273291 | [273291-toytopia.json](./273291-toytopia.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
@@ -21190,6 +21194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick or Treat Training | 175222 | [175222-trick-or-treat-training.json](./175222-trick-or-treat-training.json) |
 | Trick Room Mysteries | 399792 | [399792-trick-room-mysteries.json](./399792-trick-room-mysteries.json) |
+| Trick Shot | 40625 | [40625-trick-shot.json](./40625-trick-shot.json) |
 | Trick Shot | 87820 | [87820-trick-shot.json](./87820-trick-shot.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
