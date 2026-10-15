@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
+| Hench: The Mix Master | 62635 | [62635-hench-the-mix-master.json](./62635-hench-the-mix-master.json) |
 | Hendecad | 124711 | [124711-hendecad.json](./124711-hendecad.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Héngsǎo Tiānxià | 128322 | [128322-hengsao-tianxia.json](./128322-hengsao-tianxia.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestay à la Mode | 396492 | [396492-homestay-a-la-mode.json](./396492-homestay-a-la-mode.json) |
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
+| Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 237273 | [237273-homeward.json](./237273-homeward.json) |
@@ -7600,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
 | Howl | 399756 | [399756-howl.json](./399756-howl.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
+| Howling Dogs | 62648 | [62648-howling-dogs.json](./62648-howling-dogs.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howloween Hero | 178362 | [178362-howloween-hero.json](./178362-howloween-hero.json) |
