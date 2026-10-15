@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
+| A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Astra: Sci-Fi Tower Defense | 326232 | [326232-ad-astra-sci-fi-tower-defense.json](./326232-ad-astra-sci-fi-tower-defense.json) |
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
+| Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
