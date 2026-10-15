@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
+| Maze Break | 56415 | [56415-maze-break.json](./56415-maze-break.json) |
 | Maze Breaker | 130695 | [130695-maze-breaker.json](./130695-maze-breaker.json) |
 | Maze Burrow | 132586 | [132586-maze-burrow.json](./132586-maze-burrow.json) |
 | Maze Chase | 137901 | [137901-maze-chase.json](./137901-maze-chase.json) |
@@ -7670,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Action Heroes | 288660 | [288660-mighty-action-heroes.json](./288660-mighty-action-heroes.json) |
+| Mighty Alpha Droid | 56384 | [56384-mighty-alpha-droid.json](./56384-mighty-alpha-droid.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
@@ -10972,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstro Giganto | 263375 | [263375-monstro-giganto.json](./263375-monstro-giganto.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstrocity | 179554 | [179554-monstrocity.json](./179554-monstrocity.json) |
+| MonstroCity: Rampage! | 56395 | [56395-monstrocity-rampage.json](./56395-monstrocity-rampage.json) |
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
