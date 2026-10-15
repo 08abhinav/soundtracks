@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
+| Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
 | Ocean Trader | 71776 | [71776-ocean-trader.json](./71776-ocean-trader.json) |
 | Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
