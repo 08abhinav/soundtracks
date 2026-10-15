@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
 | M-Plan | 109868 | [109868-m-plan.json](./109868-m-plan.json) |
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
+| M: Alien Paranoia | 73699 | [73699-m-alien-paranoia.json](./73699-m-alien-paranoia.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.E. | 30542 | [30542-m-a-c-e.json](./30542-m-a-c-e.json) |
