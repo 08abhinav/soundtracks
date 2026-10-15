@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaro TCG | 339874 | [339874-jaro-tcg.json](./339874-jaro-tcg.json) |
 | Jarokn Cricket | 78255 | [78255-jarokn-cricket.json](./78255-jarokn-cricket.json) |
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
+| Jarokn Tic-Tac-Toe Club | 62630 | [62630-jarokn-tic-tac-toe-club.json](./62630-jarokn-tic-tac-toe-club.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
 | Jars | 167184 | [167184-jars.json](./167184-jars.json) |
