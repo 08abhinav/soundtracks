@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
+| Batman | 14288 | [14288-batman.json](./14288-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
+| Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
 | Batman: Chaos in Gotham | 45201 | [45201-batman-chaos-in-gotham.json](./45201-batman-chaos-in-gotham.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
@@ -6431,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackshift | 118147 | [118147-blackshift.json](./118147-blackshift.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
 | Blacksite Theta | 272784 | [272784-blacksite-theta.json](./272784-blacksite-theta.json) |
+| BlackSite: Area 51 | 5730 | [5730-blacksite-area-51.json](./5730-blacksite-area-51.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
@@ -6477,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
+| Blade & Soul | 16741 | [16741-blade-and-soul.json](./16741-blade-and-soul.json) |
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
@@ -9080,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack 2 | 186628 | [186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json](./186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json) |
 | Borderlands 2 VR | 110835 | [110835-borderlands-2-vr.json](./110835-borderlands-2-vr.json) |
 | Borderlands 2 VR: BAMF DLC Pack | 166010 | [166010-borderlands-2-vr-bamf-dlc-pack.json](./166010-borderlands-2-vr-bamf-dlc-pack.json) |
+| Borderlands 2: Captain Scarlett and Her Pirate's Booty | 13920 | [13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json](./13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json) |
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
@@ -12052,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
+| BurgerTime | 4609 | [4609-burgertime.json](./4609-burgertime.json) |
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
