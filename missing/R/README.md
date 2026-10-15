@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
+| Red Ace Squadron Pro | 63182 | [63182-red-ace-squadron-pro.json](./63182-red-ace-squadron-pro.json) |
 | Red Adventure | 149729 | [149729-red-adventure.json](./149729-red-adventure.json) |
 | Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
