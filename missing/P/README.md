@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perish: Exodus | 261143 | [261143-perish-exodus.json](./261143-perish-exodus.json) |
+| Perished: The Zurkez Project | 65975 | [65975-perished-the-zurkez-project.json](./65975-perished-the-zurkez-project.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
 | Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinku Kult: Hex Mortis | 168696 | [168696-pinku-kult-hex-mortis.json](./168696-pinku-kult-hex-mortis.json) |
 | Pinky | 249094 | [249094-pinky.json](./249094-pinky.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
+| Pinky and the Brain: World Conquest | 65992 | [65992-pinky-and-the-brain-world-conquest.json](./65992-pinky-and-the-brain-world-conquest.json) |
 | Pinky Distortion | 202598 | [202598-pinky-distortion.json](./202598-pinky-distortion.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
@@ -7685,6 +7687,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
+| Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
+| Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
 | Pokémon Quantum | 147177 | [147177-pokemon-quantum.json](./147177-pokemon-quantum.json) |
 | Pokémon Quarantine Crystal | 201001 | [201001-pokemon-quarantine-crystal.json](./201001-pokemon-quarantine-crystal.json) |
 | Pokémon Quartz | 139894 | [139894-pokemon-quartz.json](./139894-pokemon-quartz.json) |
@@ -8607,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoLoCrois Monogatari II | 63016 | [63016-popolocrois-monogatari-ii.json](./63016-popolocrois-monogatari-ii.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
 | PoPoLoCrois: Narcia's Tears and the Fairy's Flute | 67627 | [67627-popolocrois-narcias-tears-and-the-fairys-flute.json](./67627-popolocrois-narcias-tears-and-the-fairys-flute.json) |
+| PoPoLoCrois: Tsuki no Okite no Bouken | 66021 | [66021-popolocrois-tsuki-no-okite-no-bouken.json](./66021-popolocrois-tsuki-no-okite-no-bouken.json) |
 | Popologist: Camera Slinger | 252274 | [252274-popologist-camera-slinger.json](./252274-popologist-camera-slinger.json) |
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
@@ -11464,10 +11469,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
+| Pucca Noodle Rush | 65979 | [65979-pucca-noodle-rush.json](./65979-pucca-noodle-rush.json) |
 | Pucca Pop | 92391 | [92391-pucca-pop.json](./92391-pucca-pop.json) |
+| Pucca Power Up | 65983 | [65983-pucca-power-up.json](./65983-pucca-power-up.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
 | Pucca Wars | 263688 | [263688-pucca-wars.json](./263688-pucca-wars.json) |
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
+| Pucca's Kisses Game | 65980 | [65980-puccas-kisses-game.json](./65980-puccas-kisses-game.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
