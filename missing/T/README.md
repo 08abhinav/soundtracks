@@ -3469,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
 | Tetris Effect: Connected - Party Edition | 376141 | [376141-tetris-effect-connected-party-edition.json](./376141-tetris-effect-connected-party-edition.json) |
 | Tetris Effect: Digital Deluxe Edition | 227334 | [227334-tetris-effect-digital-deluxe-edition.json](./227334-tetris-effect-digital-deluxe-edition.json) |
+| Tetris Elements | 46436 | [46436-tetris-elements.json](./46436-tetris-elements.json) |
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
@@ -5108,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
 | The Colorful Creature | 152468 | [152468-the-colorful-creature.json](./152468-the-colorful-creature.json) |
 | The Colors of Love: Re-Colored | 410442 | [410442-the-colors-of-love-re-colored.json](./410442-the-colors-of-love-re-colored.json) |
+| The Colors of Modern Rock | 46421 | [46421-the-colors-of-modern-rock.json](./46421-the-colors-of-modern-rock.json) |
 | The Colors of the Artifacts | 91528 | [91528-the-colors-of-the-artifacts.json](./91528-the-colors-of-the-artifacts.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
@@ -8728,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
 | The Legend of Zelda: PuzzleDude's Quest | 268406 | [268406-the-legend-of-zelda-puzzledudes-quest.json](./268406-the-legend-of-zelda-puzzledudes-quest.json) |
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
+| The Legend of Zelda: Return of the Hylian | 46430 | [46430-the-legend-of-zelda-return-of-the-hylian.json](./46430-the-legend-of-zelda-return-of-the-hylian.json) |
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Revival | 277873 | [277873-the-legend-of-zelda-revival.json](./277873-the-legend-of-zelda-revival.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
@@ -9533,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monsters' History Book | 102976 | [102976-the-monsters-history-book.json](./102976-the-monsters-history-book.json) |
 | The Monstrous Frontier | 187403 | [187403-the-monstrous-frontier.json](./187403-the-monstrous-frontier.json) |
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
+| The Montana Chronicles: Montana's Croatoa | 46472 | [46472-the-montana-chronicles-montanas-croatoa.json](./46472-the-montana-chronicles-montanas-croatoa.json) |
 | The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
 | The Moogies | 65239 | [65239-the-moogies.json](./65239-the-moogies.json) |
@@ -9643,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
+| The Muybridge Mausoleum | 46462 | [46462-the-muybridge-mausoleum.json](./46462-the-muybridge-mausoleum.json) |
 | The Myriad | 220694 | [220694-the-myriad.json](./220694-the-myriad.json) |
 | The Mysteries of Baroque | 110159 | [110159-the-mysteries-of-baroque.json](./110159-the-mysteries-of-baroque.json) |
 | The Mysteries of Underville | 268754 | [268754-the-mysteries-of-underville.json](./268754-the-mysteries-of-underville.json) |
@@ -22221,6 +22226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tuōlājī | 112838 | [112838-tuolaji.json](./112838-tuolaji.json) |
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
+| Tupã | 46480 | [46480-tupa.json](./46480-tupa.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
