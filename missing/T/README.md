@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alternate Universe | 405648 | [405648-the-alternate-universe.json](./405648-the-alternate-universe.json) |
 | The Alters: Last Variable | 404914 | [404914-the-alters-last-variable.json](./404914-the-alters-last-variable.json) |
 | The Alters: Signature Edition | 381720 | [381720-the-alters-signature-edition.json](./381720-the-alters-signature-edition.json) |
+| The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
@@ -4969,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
 | The Citadel | 184356 | [184356-the-citadel.json](./184356-the-citadel.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
+| The Citadel of Chaos | 71974 | [71974-the-citadel-of-chaos.json](./71974-the-citadel-of-chaos.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
@@ -8780,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
+| The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
 | The Little Star Spirit | 199998 | [199998-the-little-star-spirit.json](./199998-the-little-star-spirit.json) |
@@ -9170,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Market Place | 62024 | [62024-the-market-place.json](./62024-the-market-place.json) |
+| The Marriage | 72007 | [72007-the-marriage.json](./72007-the-marriage.json) |
 | The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
 | The Martial World of Drinking: Wu Song | 390603 | [390603-the-martial-world-of-drinking-wu-song.json](./390603-the-martial-world-of-drinking-wu-song.json) |
@@ -11922,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thirst Road | 318735 | [318735-the-thirst-road.json](./318735-the-thirst-road.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
 | The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
+| The Thor Trilogy | 71967 | [71967-the-thor-trilogy.json](./71967-the-thor-trilogy.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
 | The Thread of Fate | 335383 | [335383-the-thread-of-fate.json](./335383-the-thread-of-fate.json) |
@@ -20641,6 +20646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Aegan | 169239 | [169239-treasures-of-the-aegan.json](./169239-treasures-of-the-aegan.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
+| Treasures of the Ancient Cavern | 71986 | [71986-treasures-of-the-ancient-cavern.json](./71986-treasures-of-the-ancient-cavern.json) |
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
 | Treasures of the Deep | 45209 | [45209-treasures-of-the-deep.json](./45209-treasures-of-the-deep.json) |
