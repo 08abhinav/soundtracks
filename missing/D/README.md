@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
+| Dangerous Seed | 40048 | [40048-dangerous-seed.json](./40048-dangerous-seed.json) |
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
 | Dangerous Skies 80's edition | 105157 | [105157-dangerous-skies-80s-edition.json](./105157-dangerous-skies-80s-edition.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
+| Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
@@ -6737,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Elysium: The Final Cut | 141540 | [141540-disco-elysium-the-final-cut.json](./141540-disco-elysium-the-final-cut.json) |
 | Disco Elysium: The Final Cut - Collage Mode | 248092 | [248092-disco-elysium-the-final-cut-collage-mode.json](./248092-disco-elysium-the-final-cut-collage-mode.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
+| Disco No.1 | 40046 | [40046-disco-no-1.json](./40046-disco-no-1.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
@@ -9074,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant: Episode Galatea #1 | 166807 | [166807-dormant-episode-galatea-1.json](./166807-dormant-episode-galatea-1.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
+| Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
 | Doronko Wanko: Corgi | 356793 | [356793-doronko-wanko-corgi.json](./356793-doronko-wanko-corgi.json) |
@@ -9158,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
+| Dottori-kun | 40099 | [40099-dottori-kun.json](./40099-dottori-kun.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
@@ -9256,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
+| Double Point | 40097 | [40097-double-point.json](./40097-double-point.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
@@ -9551,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Sudoku | 49273 | [49273-dr-sudoku.json](./49273-dr-sudoku.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Tomy | 40117 | [40117-dr-tomy.json](./40117-dr-tomy.json) |
+| Dr. Toppel's Tankentai | 40045 | [40045-dr-toppels-tankentai.json](./40045-dr-toppels-tankentai.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
 | Dr. What & Detective Son | 289806 | [289806-dr-what-and-detective-son.json](./289806-dr-what-and-detective-son.json) |
@@ -10413,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakojan Skies: Mission 3 | 404221 | [404221-drakojan-skies-mission-3.json](./404221-drakojan-skies-mission-3.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
+| Drakton | 40096 | [40096-drakton.json](./40096-drakton.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Drakula's Ascension | 351589 | [351589-drakulas-ascension.json](./351589-drakulas-ascension.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
