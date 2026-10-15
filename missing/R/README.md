@@ -7059,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling in the Sheepe | 201119 | [201119-rolling-in-the-sheepe.json](./201119-rolling-in-the-sheepe.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
+| Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
