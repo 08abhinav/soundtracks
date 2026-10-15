@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Greed | 258369 | [258369-tactics-greed.json](./258369-tactics-greed.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
+| Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
@@ -2404,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles 2: Battle Nexus | 146058 | [146058-teenage-mutant-ninja-turtles-2-battle-nexus.json](./146058-teenage-mutant-ninja-turtles-2-battle-nexus.json) |
@@ -2720,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
+| Temple Run 2 | 7436 | [7436-temple-run-2.json](./7436-temple-run-2.json) |
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
@@ -6265,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
 | The Evil Within: Limited Edition | 41607 | [41607-the-evil-within-limited-edition.json](./41607-the-evil-within-limited-edition.json) |
+| The Evil Within: The Assignment | 9183 | [9183-the-evil-within-the-assignment.json](./9183-the-evil-within-the-assignment.json) |
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
@@ -23076,6 +23080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two World Portal | 187154 | [187154-two-world-portal.json](./187154-two-world-portal.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
+| Two Worlds II | 7223 | [7223-two-worlds-ii.json](./7223-two-worlds-ii.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
 | Two Worlds II HD | 53865 | [53865-two-worlds-ii-hd.json](./53865-two-worlds-ii-hd.json) |
 | Two Worlds II HD: Call of the Tenebrae | 131960 | [131960-two-worlds-ii-hd-call-of-the-tenebrae.json](./131960-two-worlds-ii-hd-call-of-the-tenebrae.json) |
