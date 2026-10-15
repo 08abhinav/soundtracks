@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
+| Tak: Mojo Mistake | 2782 | [2782-tak-mojo-mistake.json](./2782-tak-mojo-mistake.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
 | Taka Taka | 244162 | [244162-taka-taka.json](./244162-taka-taka.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Fates of Twinion | 2521 | [2521-the-fates-of-twinion.json](./2521-the-fates-of-twinion.json) |
 | The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
@@ -7678,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernal Abyss | 337657 | [337657-the-infernal-abyss.json](./337657-the-infernal-abyss.json) |
 | The Infernal Masquerade | 236963 | [236963-the-infernal-masquerade.json](./236963-the-infernal-masquerade.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
+| The Infernal Tome | 2517 | [2517-the-infernal-tome.json](./2517-the-infernal-tome.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
 | The Infinite Black | 32861 | [32861-the-infinite-black.json](./32861-the-infinite-black.json) |
@@ -12807,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
+| The Varginha Incident | 2535 | [2535-the-varginha-incident.json](./2535-the-varginha-incident.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
@@ -13946,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
+| Thomas & Friends: A Day at the Races | 2590 | [2590-thomas-and-friends-a-day-at-the-races.json](./2590-thomas-and-friends-a-day-at-the-races.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
 | Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
 | Thomas & Friends: Hero of the Rails | 50712 | [50712-thomas-and-friends-hero-of-the-rails.json](./50712-thomas-and-friends-hero-of-the-rails.json) |
@@ -21183,6 +21188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
 | Trial and Terror | 126915 | [126915-trial-and-terror.json](./126915-trial-and-terror.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
+| Trial by Magic | 2502 | [2502-trial-by-magic.json](./2502-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
