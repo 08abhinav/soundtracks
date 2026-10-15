@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Marcher: Community Edition | 184417 | [184417-marble-marcher-community-edition.json](./184417-marble-marcher-community-edition.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
 | Marble Master | 108227 | [108227-marble-master.json](./108227-marble-master.json) |
+| Marble Master | 2618 | [2618-marble-master.json](./2618-marble-master.json) |
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Mayhem: Fragile Ball | 26979 | [26979-marble-mayhem-fragile-ball.json](./26979-marble-mayhem-fragile-ball.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass | 178447 | [178447-mass.json](./178447-mass.json) |
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
+| Mass Destruction | 2613 | [2613-mass-destruction.json](./2613-mass-destruction.json) |
 | Mass Effect 2: Arrival | 13794 | [13794-mass-effect-2-arrival.json](./13794-mass-effect-2-arrival.json) |
 | Mass Effect 2: Cerberus Network | 202312 | [202312-mass-effect-2-cerberus-network.json](./202312-mass-effect-2-cerberus-network.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
@@ -6190,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
+| Menzoberranzan | 2515 | [2515-menzoberranzan.json](./2515-menzoberranzan.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
 | Meor | 144609 | [144609-meor.json](./144609-meor.json) |
