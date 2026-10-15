@@ -7653,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
+| Hoyle Puzzle & Board Game 2012 | 61015 | [61015-hoyle-puzzle-and-board-game-2012.json](./61015-hoyle-puzzle-and-board-game-2012.json) |
 | Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
 | Hoyle Puzzle & Board Games 2005 | 97127 | [97127-hoyle-puzzle-and-board-games-2005.json](./97127-hoyle-puzzle-and-board-games-2005.json) |
 | Hoyle Puzzle & Board Games 2007 | 97129 | [97129-hoyle-puzzle-and-board-games-2007.json](./97129-hoyle-puzzle-and-board-games-2007.json) |
