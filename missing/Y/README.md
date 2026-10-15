@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes Comrade | 329176 | [329176-yes-comrade.json](./329176-yes-comrade.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
+| Yes, Drill Sergeant! | 22083 | [22083-yes-drill-sergeant.json](./22083-yes-drill-sergeant.json) |
 | Yes, Mama | 181609 | [181609-yes-mama.json](./181609-yes-mama.json) |
 | Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
