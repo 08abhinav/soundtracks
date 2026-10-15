@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valorborn | 369923 | [369923-valorborn.json](./369923-valorborn.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valorous | 258408 | [258408-valorous.json](./258408-valorous.json) |
+| Valortha | 29646 | [29646-valortha.json](./29646-valortha.json) |
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
@@ -781,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vedelem: The Golden Horde | 151462 | [151462-vedelem-the-golden-horde.json](./151462-vedelem-the-golden-horde.json) |
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
+| Vee Rethak: Deep Under the Mountain | 29652 | [29652-vee-rethak-deep-under-the-mountain.json](./29652-vee-rethak-deep-under-the-mountain.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
 | Vega Conflict | 23627 | [23627-vega-conflict.json](./23627-vega-conflict.json) |
@@ -1991,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
+| Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
@@ -2097,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitamin Z | 60250 | [60250-vitamin-z.json](./60250-vitamin-z.json) |
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
 | Vitatio | 44088 | [44088-vitatio.json](./44088-vitatio.json) |
+| Vitatio 2 | 29603 | [29603-vitatio-2.json](./29603-vitatio-2.json) |
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Viticulture: Essential Edition - Tuscany Expansion | 236970 | [236970-viticulture-essential-edition-tuscany-expansion.json](./236970-viticulture-essential-edition-tuscany-expansion.json) |
