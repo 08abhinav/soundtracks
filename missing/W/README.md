@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
+| Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
 | Wild Shot: Animal Savior | 348196 | [348196-wild-shot-animal-savior.json](./348196-wild-shot-animal-savior.json) |
@@ -5975,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Boxing Manager | 53106 | [53106-worldwide-boxing-manager.json](./53106-worldwide-boxing-manager.json) |
 | Worldwide Combos | 83427 | [83427-worldwide-combos.json](./83427-worldwide-combos.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
+| Worldwide Soccer 2 | 47112 | [47112-worldwide-soccer-2.json](./47112-worldwide-soccer-2.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
@@ -6051,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms Rumble: Legends Pack | 227318 | [227318-worms-rumble-legends-pack.json](./227318-worms-rumble-legends-pack.json) |
+| Worms United | 47081 | [47081-worms-united.json](./47081-worms-united.json) |
 | Worms W.M.D | 19696 | [19696-worms-w-m-d.json](./19696-worms-w-m-d.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
