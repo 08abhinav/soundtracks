@@ -1022,11 +1022,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fame Quest | 47190 | [47190-fame-quest.json](./47190-fame-quest.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
+| Famicom Doubutsu Seitai Zukan! Katte ni Shirokuma: Mori wo Sukue no Maki! | 48501 | [48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json](./48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
 | Famicom Grand Prix II: 3D Hot Rally | 41256 | [41256-famicom-grand-prix-ii-3d-hot-rally.json](./41256-famicom-grand-prix-ii-3d-hot-rally.json) |
 | Famicom Grand Prix: F-1 Race | 41251 | [41251-famicom-grand-prix-f-1-race.json](./41251-famicom-grand-prix-f-1-race.json) |
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
+| Famicom Jump II: Saikyou no 7-nin | 48499 | [48499-famicom-jump-ii-saikyou-no-7-nin.json](./48499-famicom-jump-ii-saikyou-no-7-nin.json) |
+| Famicom Jump: Hero Retsuden | 48500 | [48500-famicom-jump-hero-retsuden.json](./48500-famicom-jump-hero-retsuden.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
 | Famicom Mini: Balloon Fight | 170260 | [170260-famicom-mini-balloon-fight.json](./170260-famicom-mini-balloon-fight.json) |
 | Famicom Mini: Clu Clu Land | 170252 | [170252-famicom-mini-clu-clu-land.json](./170252-famicom-mini-clu-clu-land.json) |
@@ -1094,6 +1097,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
+| Family Circuit | 48498 | [48498-family-circuit.json](./48498-family-circuit.json) |
+| Family Circuit '91 | 48497 | [48497-family-circuit-91.json](./48497-family-circuit-91.json) |
 | Family Composer | 41287 | [41287-family-composer.json](./41287-family-composer.json) |
 | Family Computer Golf: Japan Course | 41260 | [41260-family-computer-golf-japan-course.json](./41260-family-computer-golf-japan-course.json) |
 | Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
@@ -1161,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Project | 92699 | [92699-family-project.json](./92699-family-project.json) |
 | Family Quiz | 172089 | [172089-family-quiz.json](./172089-family-quiz.json) |
 | Family Quiz | 268129 | [268129-family-quiz.json](./268129-family-quiz.json) |
+| Family Quiz 4-nin wa Rival | 48496 | [48496-family-quiz-4-nin-wa-rival.json](./48496-family-quiz-4-nin-wa-rival.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
 | Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
@@ -1181,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family's Game Travel Pack | 104530 | [104530-familys-game-travel-pack.json](./104530-familys-game-travel-pack.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
+| Famista '89: Kaimaku-ban!! | 48495 | [48495-famista-89-kaimaku-ban.json](./48495-famista-89-kaimaku-ban.json) |
 | Famista '91 | 218368 | [218368-famista-91.json](./218368-famista-91.json) |
 | Famista '91 | 218388 | [218388-famista-91.json](./218388-famista-91.json) |
 | Famista '92 | 218389 | [218389-famista-92.json](./218389-famista-92.json) |
@@ -3221,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Pride: The Manny Pacquiao Saga | 224047 | [224047-fighting-pride-the-manny-pacquiao-saga.json](./224047-fighting-pride-the-manny-pacquiao-saga.json) |
+| Fighting Road | 48494 | [48494-fighting-road.json](./48494-fighting-road.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
@@ -5158,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
+| Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
@@ -9376,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Kuni no Alice | 255622 | [255622-fushigi-no-kuni-no-alice.json](./255622-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
+| Fushigi no Umi no Nadia | 48490 | [48490-fushigi-no-umi-no-nadia.json](./48490-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
 | Fushigi no Yume no Alice | 66157 | [66157-fushigi-no-yume-no-alice.json](./66157-fushigi-no-yume-no-alice.json) |
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
@@ -9556,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
 | Fuzzee Fever | 72942 | [72942-fuzzee-fever.json](./72942-fuzzee-fever.json) |
+| Fuzzical Fighter | 48489 | [48489-fuzzical-fighter.json](./48489-fuzzical-fighter.json) |
 | Fuzzy | 176402 | [176402-fuzzy.json](./176402-fuzzy.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
