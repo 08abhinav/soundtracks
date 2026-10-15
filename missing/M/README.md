@@ -7480,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
+| Midnight Outlaw: Illegal Street Drag - Nitro Edition | 73194 | [73194-midnight-outlaw-illegal-street-drag-nitro-edition.json](./73194-midnight-outlaw-illegal-street-drag-nitro-edition.json) |
 | Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
 | Midnight Pool 3 | 273841 | [273841-midnight-pool-3.json](./273841-midnight-pool-3.json) |
@@ -10342,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
+| Monopoly Junior | 73166 | [73166-monopoly-junior.json](./73166-monopoly-junior.json) |
 | Monopoly Millionaire | 64475 | [64475-monopoly-millionaire.json](./64475-monopoly-millionaire.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Party | 4016 | [4016-monopoly-party.json](./4016-monopoly-party.json) |
