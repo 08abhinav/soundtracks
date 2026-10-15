@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
+| Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
@@ -15080,6 +15081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 2 | 46248 | [46248-splatterhouse-2.json](./46248-splatterhouse-2.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
+| SplatterHouse 3D: Gold Edition | 50376 | [50376-splatterhouse-3d-gold-edition.json](./50376-splatterhouse-3d-gold-edition.json) |
 | Splatterworld: Rick to Kyoufu no Daiou | 377793 | [377793-splatterworld-rick-to-kyoufu-no-daiou.json](./377793-splatterworld-rick-to-kyoufu-no-daiou.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
