@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
 | Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
+| Bad birthday | 30642 | [30642-bad-birthday.json](./30642-bad-birthday.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
 | Bad Blood: 1926 | 297709 | [297709-bad-blood-1926.json](./297709-bad-blood-1926.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskhead Training | 29706 | [29706-baskhead-training.json](./29706-baskhead-training.json) |
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
+| Basment Dwellers | 30593 | [30593-basment-dwellers.json](./30593-basment-dwellers.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
 | Bass Avenger | 130845 | [130845-bass-avenger.json](./130845-bass-avenger.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
+| Battles of the Valiant Universe CCG | 30663 | [30663-battles-of-the-valiant-universe-ccg.json](./30663-battles-of-the-valiant-universe-ccg.json) |
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
@@ -9845,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
 | Brain Voyage | 21483 | [21483-brain-voyage.json](./21483-brain-voyage.json) |
+| Brain Voyagers: Ricochet | 30665 | [30665-brain-voyagers-ricochet.json](./30665-brain-voyagers-ricochet.json) |
 | Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
 | Brain Wave | 41540 | [41540-brain-wave.json](./41540-brain-wave.json) |
