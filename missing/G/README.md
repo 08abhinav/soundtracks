@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
+| Gee Bee | 2752 | [2752-gee-bee.json](./2752-gee-bee.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
 | Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
+| God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
