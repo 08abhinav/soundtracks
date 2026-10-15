@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
 | Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
+| Magatama | 59329 | [59329-magatama.json](./59329-magatama.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
@@ -3843,10 +3844,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
+| Math Blaster Ages 8-9 | 59342 | [59342-math-blaster-ages-8-9.json](./59342-math-blaster-ages-8-9.json) |
 | Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
 | Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
+| Math Blaster: Master the Basics | 59343 | [59343-math-blaster-master-the-basics.json](./59343-math-blaster-master-the-basics.json) |
 | Math Blazer | 92643 | [92643-math-blazer.json](./92643-math-blazer.json) |
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
@@ -9834,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
+| Modern War | 59311 | [59311-modern-war.json](./59311-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modern War: Somalian Pirates | 64321 | [64321-modern-war-somalian-pirates.json](./64321-modern-war-somalian-pirates.json) |
@@ -13256,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
 | Musou Orochi Z | 7480 | [7480-musou-orochi-z.json](./7480-musou-orochi-z.json) |
+| Musou Tourou | 59328 | [59328-musou-tourou.json](./59328-musou-tourou.json) |
 | Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Mussoumano 3D Run | 223530 | [223530-mussoumano-3d-run.json](./223530-mussoumano-3d-run.json) |
