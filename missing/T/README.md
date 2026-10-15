@@ -9270,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
+| The Manhole: Masterpiece Edition | 51837 | [51837-the-manhole-masterpiece-edition.json](./51837-the-manhole-masterpiece-edition.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Manor | 356029 | [356029-the-manor.json](./356029-the-manor.json) |
