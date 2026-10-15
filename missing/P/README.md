@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
+| Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
@@ -2147,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patternis | 108314 | [108314-patternis.json](./108314-patternis.json) |
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
+| Patterns of Light | 68537 | [68537-patterns-of-light.json](./68537-patterns-of-light.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
 | Patton: Armored Assault | 210016 | [210016-patton-armored-assault.json](./210016-patton-armored-assault.json) |
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penetration | 281413 | [281413-penetration.json](./281413-penetration.json) |
 | Penetrator | 25836 | [25836-penetrator.json](./25836-penetrator.json) |
 | Penga & Obcster's Christmish Adventure | 26757 | [26757-penga-and-obcsters-christmish-adventure.json](./26757-penga-and-obcsters-christmish-adventure.json) |
+| Penga's Peril | 68539 | [68539-pengas-peril.json](./68539-pengas-peril.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
@@ -3729,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil the Pill: Interstellar | 237437 | [237437-phil-the-pill-interstellar.json](./237437-phil-the-pill-interstellar.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
+| Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
@@ -4907,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Profit: Internet Tycoon | 345646 | [345646-ping-profit-internet-tycoon.json](./345646-ping-profit-internet-tycoon.json) |
 | Ping Race | 300923 | [300923-ping-race.json](./300923-ping-race.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
+| Ping Time | 68541 | [68541-ping-time.json](./68541-ping-time.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
 | Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
@@ -6202,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crafter | 182874 | [182874-planet-crafter.json](./182874-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
+| Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
@@ -7838,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
 | Poker Academy: Texas Hold 'Em Version | 209349 | [209349-poker-academy-texas-hold-em-version.json](./209349-poker-academy-texas-hold-em-version.json) |
 | Poker Academy: Texas Hold'em 2 | 209350 | [209350-poker-academy-texas-holdem-2.json](./209350-poker-academy-texas-holdem-2.json) |
+| Poker Ball | 68542 | [68542-poker-ball.json](./68542-poker-ball.json) |
 | Poker Chase | 166141 | [166141-poker-chase.json](./166141-poker-chase.json) |
 | Poker Clicker | 341566 | [341566-poker-clicker.json](./341566-poker-clicker.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
@@ -12319,6 +12326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
+| Puzzle Pandemonium | 68544 | [68544-puzzle-pandemonium.json](./68544-puzzle-pandemonium.json) |
 | Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
@@ -12553,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
 | Puzzling Wild IQ Test | 235782 | [235782-puzzling-wild-iq-test.json](./235782-puzzling-wild-iq-test.json) |
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
+| Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
