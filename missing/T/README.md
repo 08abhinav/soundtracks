@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Years: Way Out West | 53740 | [53740-the-golden-years-way-out-west.json](./53740-the-golden-years-way-out-west.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
 | The Golf | 94116 | [94116-the-golf.json](./94116-the-golf.json) |
+| The Golf '92 | 48483 | [48483-the-golf-92.json](./48483-the-golf-92.json) |
 | The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
