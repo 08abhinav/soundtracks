@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
 | Ed, Edd n Eddy: Clash of the Idiots | 159198 | [159198-ed-edd-n-eddy-clash-of-the-idiots.json](./159198-ed-edd-n-eddy-clash-of-the-idiots.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
+| Ed, Edd n Eddy: Jawbreakers! | 2816 | [2816-ed-edd-n-eddy-jawbreakers.json](./2816-ed-edd-n-eddy-jawbreakers.json) |
 | Ed, Edd n Eddy: Lunchroom Rumble | 203096 | [203096-ed-edd-n-eddy-lunchroom-rumble.json](./203096-ed-edd-n-eddy-lunchroom-rumble.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
