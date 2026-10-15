@@ -8550,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
+| Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
@@ -9381,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Prelude: Psychological Horror Game | 84135 | [84135-prelude-psychological-horror-game.json](./84135-prelude-psychological-horror-game.json) |
+| Premier 2: Superleague | 73701 | [73701-premier-2-superleague.json](./73701-premier-2-superleague.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
