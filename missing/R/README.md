@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
+| Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Exether | 356269 | [356269-realms-of-exether.json](./356269-realms-of-exether.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
+| Realms of Illusion: Sentinel | 25485 | [25485-realms-of-illusion-sentinel.json](./25485-realms-of-illusion-sentinel.json) |
 | Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
@@ -4150,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
+| Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
@@ -6205,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
+| RobotRiot | 25505 | [25505-robotriot.json](./25505-robotriot.json) |
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
@@ -7825,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
+| Royal Defense: Invisible Threat | 25510 | [25510-royal-defense-invisible-threat.json](./25510-royal-defense-invisible-threat.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
@@ -8462,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
+| Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
@@ -8552,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
+| Running Sheep | 25480 | [25480-running-sheep.json](./25480-running-sheep.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
