@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies 2.0 | 67679 | [67679-zombies-2-0.json](./67679-zombies-2-0.json) |
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
+| Zombies and Pterodactyls 2005 | 71417 | [71417-zombies-and-pterodactyls-2005.json](./71417-zombies-and-pterodactyls-2005.json) |
 | Zombies and Strangers | 350512 | [350512-zombies-and-strangers.json](./350512-zombies-and-strangers.json) |
 | Zombies Aren't Your Friends | 235654 | [235654-zombies-arent-your-friends.json](./235654-zombies-arent-your-friends.json) |
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
