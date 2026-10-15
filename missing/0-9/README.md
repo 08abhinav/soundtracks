@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Plus One: Pack 4 | 131287 | [131287-5-plus-one-pack-4.json](./131287-5-plus-one-pack-4.json) |
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
+| 5 Spots Party | 51102 | [51102-5-spots-party.json](./51102-5-spots-party.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 9.03m | 16837 | [16837-9-03m.json](./16837-9-03m.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
+| 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
