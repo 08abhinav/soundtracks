@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.S.S. | 313264 | [313264-m-e-s-s.json](./313264-m-e-s-s.json) |
 | M.exe | 32238 | [32238-m-exe.json](./32238-m-exe.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
+| M.I.A. Missing in Action | 40080 | [40080-m-i-a-missing-in-action.json](./40080-m-i-a-missing-in-action.json) |
 | M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinist | 208096 | [208096-machinist.json](./208096-machinist.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| Macho Mouse | 40079 | [40079-macho-mouse.json](./40079-macho-mouse.json) |
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Cow Man and Deep Fried Beef Fat Boy | 73741 | [73741-mad-cow-man-and-deep-fried-beef-fat-boy.json](./73741-mad-cow-man-and-deep-fried-beef-fat-boy.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
+| Mad Crasher | 40078 | [40078-mad-crasher.json](./40078-mad-crasher.json) |
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
@@ -2099,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania | 91736 | [91736-mania.json](./91736-mania.json) |
+| Mania Challenge | 40077 | [40077-mania-challenge.json](./40077-mania-challenge.json) |
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Mania Quiz | 101106 | [101106-mania-quiz.json](./101106-mania-quiz.json) |
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
