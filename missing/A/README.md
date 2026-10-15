@@ -10116,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Freedom Edition | 383009 | [383009-assassins-creed-iii-freedom-edition.json](./383009-assassins-creed-iii-freedom-edition.json) |
+| Assassin's Creed III: Join or Die Edition | 45117 | [45117-assassins-creed-iii-join-or-die-edition.json](./45117-assassins-creed-iii-join-or-die-edition.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed III: Limited Edition | 136288 | [136288-assassins-creed-iii-limited-edition.json](./136288-assassins-creed-iii-limited-edition.json) |
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
 | Assassin's Creed Valhalla: Ultimate Edition | 136132 | [136132-assassins-creed-valhalla-ultimate-edition.json](./136132-assassins-creed-valhalla-ultimate-edition.json) |
+| Assassin's Creed: Anthology | 45120 | [45120-assassins-creed-anthology.json](./45120-assassins-creed-anthology.json) |
 | Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
@@ -10207,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
+| Assassin's Creed: Revelations - Collectors Edition | 45119 | [45119-assassins-creed-revelations-collectors-edition.json](./45119-assassins-creed-revelations-collectors-edition.json) |
 | Assassin's Creed: Revelations - Gold Edition | 52417 | [52417-assassins-creed-revelations-gold-edition.json](./52417-assassins-creed-revelations-gold-edition.json) |
 | Assassin's Creed: Rogue Remastered | 81205 | [81205-assassins-creed-rogue-remastered.json](./81205-assassins-creed-rogue-remastered.json) |
 | Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
