@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ima Sugu Onii-chan ni Imouto da tte Iitai! | 62444 | [62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json](./62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json) |
 | Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
+| Imadoki no Vampire: Bloody Bride | 43778 | [43778-imadoki-no-vampire-bloody-bride.json](./43778-imadoki-no-vampire-bloody-bride.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | ImageFight | 86243 | [86243-imagefight.json](./86243-imagefight.json) |
 | ImageFight II | 86242 | [86242-imagefight-ii.json](./86242-imagefight-ii.json) |
@@ -3375,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
 | International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
+| International Cricket Captain 2001: Ashes Edition | 43788 | [43788-international-cricket-captain-2001-ashes-edition.json](./43788-international-cricket-captain-2001-ashes-edition.json) |
 | International Cricket Captain 2002 | 63319 | [63319-international-cricket-captain-2002.json](./63319-international-cricket-captain-2002.json) |
 | International Cricket Captain 2005: Ashes Edition | 63322 | [63322-international-cricket-captain-2005-ashes-edition.json](./63322-international-cricket-captain-2005-ashes-edition.json) |
 | International Cricket Captain 2006 | 23008 | [23008-international-cricket-captain-2006.json](./23008-international-cricket-captain-2006.json) |
