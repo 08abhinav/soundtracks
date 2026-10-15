@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
+| Wanderer | 36866 | [36866-wanderer.json](./36866-wanderer.json) |
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Avocado? | 112240 | [112240-wheres-my-avocado.json](./112240-wheres-my-avocado.json) |
 | Where's my Bara Deck? | 342006 | [342006-wheres-my-bara-deck.json](./342006-wheres-my-bara-deck.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
+| Where's My Bones | 36915 | [36915-wheres-my-bones.json](./36915-wheres-my-bones.json) |
 | Where's My Cat? | 310617 | [310617-wheres-my-cat.json](./310617-wheres-my-cat.json) |
 | Where's My Chicken? | 181699 | [181699-wheres-my-chicken.json](./181699-wheres-my-chicken.json) |
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
