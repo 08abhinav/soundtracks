@@ -5109,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Goblins | 291366 | [291366-loot-goblins.json](./291366-loot-goblins.json) |
 | Loot Goblins | 406662 | [406662-loot-goblins.json](./406662-loot-goblins.json) |
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
+| Loot Hero | 62102 | [62102-loot-hero.json](./62102-loot-hero.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
 | Lumber Duck: Sky Saw Mill | 28104 | [28104-lumber-duck-sky-saw-mill.json](./28104-lumber-duck-sky-saw-mill.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
+| Lumber jacked | 62081 | [62081-lumber-jacked.json](./62081-lumber-jacked.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
 | Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
@@ -6888,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
 | Lyra the Tenrec | 265073 | [265073-lyra-the-tenrec.json](./265073-lyra-the-tenrec.json) |
+| Lyrane | 62103 | [62103-lyrane.json](./62103-lyrane.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
 | Lyre | 182275 | [182275-lyre.json](./182275-lyre.json) |
