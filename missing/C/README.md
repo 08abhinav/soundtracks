@@ -13352,6 +13352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
+| Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
