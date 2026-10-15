@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Operations | 67954 | [67954-x-operations.json](./67954-x-operations.json) |
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
 | X Rebirth: Collector's Edition | 52126 | [52126-x-rebirth-collectors-edition.json](./52126-x-rebirth-collectors-edition.json) |
+| X Rebirth: Complete Edition | 25517 | [25517-x-rebirth-complete-edition.json](./25517-x-rebirth-complete-edition.json) |
 | X Rebirth: Home of Light | 52125 | [52125-x-rebirth-home-of-light.json](./52125-x-rebirth-home-of-light.json) |
 | X Rebirth: Home of Light - Complete Edition | 51777 | [51777-x-rebirth-home-of-light-complete-edition.json](./51777-x-rebirth-home-of-light-complete-edition.json) |
 | X Rebirth: The Teladi Outpost | 52124 | [52124-x-rebirth-the-teladi-outpost.json](./52124-x-rebirth-the-teladi-outpost.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
 | Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
+| Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
 | Xevious: Fardraut Saga | 68878 | [68878-xevious-fardraut-saga.json](./68878-xevious-fardraut-saga.json) |
