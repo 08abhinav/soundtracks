@@ -8390,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hardcore | 129529 | [129529-hyper-hardcore.json](./129529-hyper-hardcore.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
+| Hyper Heroes | 54992 | [54992-hyper-heroes.json](./54992-hyper-heroes.json) |
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
