@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T11:36:49.686Z",
-  "total_missing": 215072,
+  "generated_at": "2026-10-15T11:51:14.816Z",
+  "total_missing": 215122,
   "games": [
     {
       "igdb_id": 191680,
@@ -11015,6 +11015,11 @@
       "igdb_id": 42663,
       "game_name": "90 Minutes European Prime Goal",
       "file": "missing/0-9/42663-90-minutes-european-prime-goal.json"
+    },
+    {
+      "igdb_id": 45802,
+      "game_name": "90 Minutes: Sega Championship Football",
+      "file": "missing/0-9/45802-90-minutes-sega-championship-football.json"
     },
     {
       "igdb_id": 51220,
@@ -135657,6 +135662,11 @@
       "file": "missing/C/365687-caesars-palace.json"
     },
     {
+      "igdb_id": 45807,
+      "game_name": "Caesars Palace 2000: Millennium Gold Edition",
+      "file": "missing/C/45807-caesars-palace-2000-millennium-gold-edition.json"
+    },
+    {
       "igdb_id": 297465,
       "game_name": "Caesars Palace 64",
       "file": "missing/C/297465-caesars-palace-64.json"
@@ -154415,6 +154425,11 @@
       "igdb_id": 120992,
       "game_name": "Charge",
       "file": "missing/C/120992-charge.json"
+    },
+    {
+      "igdb_id": 45822,
+      "game_name": "Charge 'n Blast",
+      "file": "missing/C/45822-charge-n-blast.json"
     },
     {
       "igdb_id": 158642,
@@ -182790,6 +182805,11 @@
       "igdb_id": 301282,
       "game_name": "Cool Go",
       "file": "missing/C/301282-cool-go.json"
+    },
+    {
+      "igdb_id": 45813,
+      "game_name": "Cool Herders",
+      "file": "missing/C/45813-cool-herders.json"
     },
     {
       "igdb_id": 195175,
@@ -223430,6 +223450,11 @@
       "igdb_id": 253482,
       "game_name": "Defenders of Legends",
       "file": "missing/D/253482-defenders-of-legends.json"
+    },
+    {
+      "igdb_id": 45793,
+      "game_name": "Defenders of Oasis",
+      "file": "missing/D/45793-defenders-of-oasis.json"
     },
     {
       "igdb_id": 369595,
@@ -289907,6 +289932,11 @@
       "file": "missing/E/69208-eternal-lands.json"
     },
     {
+      "igdb_id": 45794,
+      "game_name": "Eternal Legend",
+      "file": "missing/E/45794-eternal-legend.json"
+    },
+    {
       "igdb_id": 284348,
       "game_name": "Eternal Liiivie: EP1 Liiivie - Isolated From the World",
       "file": "missing/E/284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json"
@@ -308152,6 +308182,11 @@
       "file": "missing/F/311183-fast-running.json"
     },
     {
+      "igdb_id": 45787,
+      "game_name": "Fast Striker 1.5",
+      "file": "missing/F/45787-fast-striker-1-5.json"
+    },
+    {
       "igdb_id": 117050,
       "game_name": "Fast Travel: Loot Delivery Service",
       "file": "missing/F/117050-fast-travel-loot-delivery-service.json"
@@ -313645,6 +313680,11 @@
       "igdb_id": 129612,
       "game_name": "Fighters Kyodotai",
       "file": "missing/F/129612-fighters-kyodotai.json"
+    },
+    {
+      "igdb_id": 45821,
+      "game_name": "Fighters Megamix",
+      "file": "missing/F/45821-fighters-megamix.json"
     },
     {
       "igdb_id": 280849,
@@ -359807,6 +359847,16 @@
       "file": "missing/G/249912-giant-defense.json"
     },
     {
+      "igdb_id": 45827,
+      "game_name": "Giant Gram 2000: All Japan Pro Wrestling 3",
+      "file": "missing/G/45827-giant-gram-2000-all-japan-pro-wrestling-3.json"
+    },
+    {
+      "igdb_id": 45828,
+      "game_name": "Giant Gram: All Japan Pro Wrestling 2",
+      "file": "missing/G/45828-giant-gram-all-japan-pro-wrestling-2.json"
+    },
+    {
       "igdb_id": 276661,
       "game_name": "Giant Hornet",
       "file": "missing/G/276661-giant-hornet.json"
@@ -366720,6 +366770,16 @@
       "igdb_id": 119058,
       "game_name": "Godzilla Defense Force",
       "file": "missing/G/119058-godzilla-defense-force.json"
+    },
+    {
+      "igdb_id": 45824,
+      "game_name": "Godzilla Generations",
+      "file": "missing/G/45824-godzilla-generations.json"
+    },
+    {
+      "igdb_id": 45823,
+      "game_name": "Godzilla Generations Maximum Impact",
+      "file": "missing/G/45823-godzilla-generations-maximum-impact.json"
     },
     {
       "igdb_id": 386235,
@@ -375590,6 +375650,11 @@
       "igdb_id": 295546,
       "game_name": "Greatest Dungeon",
       "file": "missing/G/295546-greatest-dungeon.json"
+    },
+    {
+      "igdb_id": 45783,
+      "game_name": "Greatest Heavyweights",
+      "file": "missing/G/45783-greatest-heavyweights.json"
     },
     {
       "igdb_id": 413195,
@@ -391050,6 +391115,11 @@
       "igdb_id": 268448,
       "game_name": "HardBall",
       "file": "missing/H/268448-hardball.json"
+    },
+    {
+      "igdb_id": 45782,
+      "game_name": "HardBall '95",
+      "file": "missing/H/45782-hardball-95.json"
     },
     {
       "igdb_id": 336132,
@@ -469767,6 +469837,11 @@
       "file": "missing/K/266379-karoshi-suicide-salaryman.json"
     },
     {
+      "igdb_id": 45818,
+      "game_name": "Karous",
+      "file": "missing/K/45818-karous.json"
+    },
+    {
       "igdb_id": 214750,
       "game_name": "Karpar",
       "file": "missing/K/214750-karpar.json"
@@ -487902,6 +487977,11 @@
       "file": "missing/L/297742-l-o-l-surprise-laptop-tech.json"
     },
     {
+      "igdb_id": 45799,
+      "game_name": "L.O.L.: Lack of Love",
+      "file": "missing/L/45799-l-o-l-lack-of-love.json"
+    },
+    {
       "igdb_id": 220836,
       "game_name": "L.S.S II",
       "file": "missing/L/220836-l-s-s-ii.json"
@@ -490617,6 +490697,11 @@
       "file": "missing/L/44862-langrisser-iv-and-v-final-edition.json"
     },
     {
+      "igdb_id": 45800,
+      "game_name": "Langrisser Millennium",
+      "file": "missing/L/45800-langrisser-millennium.json"
+    },
+    {
       "igdb_id": 106104,
       "game_name": "Langrisser Mobile",
       "file": "missing/L/106104-langrisser-mobile.json"
@@ -492200,6 +492285,11 @@
       "igdb_id": 117822,
       "game_name": "Last Hope Z - VR",
       "file": "missing/L/117822-last-hope-z-vr.json"
+    },
+    {
+      "igdb_id": 45817,
+      "game_name": "Last Hope: Pink Bullets",
+      "file": "missing/L/45817-last-hope-pink-bullets.json"
     },
     {
       "igdb_id": 255991,
@@ -523437,6 +523527,11 @@
       "file": "missing/M/44776-macross-digital-mission-vf-x.json"
     },
     {
+      "igdb_id": 45809,
+      "game_name": "Macross M3",
+      "file": "missing/M/45809-macross-m3.json"
+    },
+    {
       "igdb_id": 46867,
       "game_name": "Macross Plus",
       "file": "missing/M/46867-macross-plus.json"
@@ -525780,6 +525875,11 @@
       "igdb_id": 295354,
       "game_name": "MagFighter",
       "file": "missing/M/295354-magfighter.json"
+    },
+    {
+      "igdb_id": 45806,
+      "game_name": "MagForce Racing",
+      "file": "missing/M/45806-magforce-racing.json"
     },
     {
       "igdb_id": 50504,
@@ -543060,6 +543160,11 @@
       "igdb_id": 27774,
       "game_name": "Maximum Override",
       "file": "missing/M/27774-maximum-override.json"
+    },
+    {
+      "igdb_id": 45815,
+      "game_name": "Maximum Pool",
+      "file": "missing/M/45815-maximum-pool.json"
     },
     {
       "igdb_id": 50603,
@@ -570957,6 +571062,11 @@
       "file": "missing/M/132794-mobile-suit-gundam.json"
     },
     {
+      "igdb_id": 45808,
+      "game_name": "Mobile Suit Gundam - Blood of Zeon",
+      "file": "missing/M/45808-mobile-suit-gundam-blood-of-zeon.json"
+    },
+    {
       "igdb_id": 72982,
       "game_name": "Mobile Suit Gundam 00: Gundam Meisters",
       "file": "missing/M/72982-mobile-suit-gundam-00-gundam-meisters.json"
@@ -586037,6 +586147,11 @@
       "file": "missing/M/18019-mtv-remote-control.json"
     },
     {
+      "igdb_id": 45810,
+      "game_name": "MTV Sports Skateboarding",
+      "file": "missing/M/45810-mtv-sports-skateboarding.json"
+    },
+    {
       "igdb_id": 306635,
       "game_name": "MTV Sports: Pure Ride",
       "file": "missing/M/306635-mtv-sports-pure-ride.json"
@@ -587995,6 +588110,11 @@
       "igdb_id": 15992,
       "game_name": "Musaic Box",
       "file": "missing/M/15992-musaic-box.json"
+    },
+    {
+      "igdb_id": 45831,
+      "game_name": "Musapey's Choco Marker",
+      "file": "missing/M/45831-musapeys-choco-marker.json"
     },
     {
       "igdb_id": 122375,
@@ -605240,6 +605360,11 @@
       "igdb_id": 400237,
       "game_name": "Neo Turf Masters Scotland",
       "file": "missing/N/400237-neo-turf-masters-scotland.json"
+    },
+    {
+      "igdb_id": 45814,
+      "game_name": "Neo XYX",
+      "file": "missing/N/45814-neo-xyx.json"
     },
     {
       "igdb_id": 184860,
@@ -661907,6 +662032,11 @@
       "file": "missing/P/368635-pga-tour-golf-ii.json"
     },
     {
+      "igdb_id": 45781,
+      "game_name": "PGA Tour Golf III",
+      "file": "missing/P/45781-pga-tour-golf-iii.json"
+    },
+    {
       "igdb_id": 137414,
       "game_name": "PGA Tour Golf Shootout",
       "file": "missing/P/137414-pga-tour-golf-shootout.json"
@@ -675945,6 +676075,11 @@
       "igdb_id": 104140,
       "game_name": "Planet Reserve",
       "file": "missing/P/104140-planet-reserve.json"
+    },
+    {
+      "igdb_id": 45805,
+      "game_name": "Planet Ring",
+      "file": "missing/P/45805-planet-ring.json"
     },
     {
       "igdb_id": 376761,
@@ -690737,6 +690872,11 @@
       "file": "missing/P/60582-powerama.json"
     },
     {
+      "igdb_id": 45779,
+      "game_name": "Powerball",
+      "file": "missing/P/45779-powerball.json"
+    },
+    {
       "igdb_id": 329697,
       "game_name": "Powerball: Monster's Quest",
       "file": "missing/P/329697-powerball-monsters-quest.json"
@@ -695770,6 +695910,11 @@
       "igdb_id": 279693,
       "game_name": "Pro Power Boat",
       "file": "missing/P/279693-pro-power-boat.json"
+    },
+    {
+      "igdb_id": 45778,
+      "game_name": "Pro Quarterback",
+      "file": "missing/P/45778-pro-quarterback.json"
     },
     {
       "igdb_id": 172529,
@@ -716837,6 +716982,11 @@
       "file": "missing/R/53490-railroad-tycoon-collection.json"
     },
     {
+      "igdb_id": 45834,
+      "game_name": "Railroad Tycoon II: Gold Edition",
+      "file": "missing/R/45834-railroad-tycoon-ii-gold-edition.json"
+    },
+    {
       "igdb_id": 71480,
       "game_name": "Railroad Tycoon II: The Second Century",
       "file": "missing/R/71480-railroad-tycoon-ii-the-second-century.json"
@@ -725712,6 +725862,11 @@
       "file": "missing/R/132148-red-desert-render.json"
     },
     {
+      "igdb_id": 45835,
+      "game_name": "Red Dog: Superior Firepower",
+      "file": "missing/R/45835-red-dog-superior-firepower.json"
+    },
+    {
       "igdb_id": 308556,
       "game_name": "Red Door Ylw Door",
       "file": "missing/R/308556-red-door-ylw-door.json"
@@ -727530,6 +727685,11 @@
       "igdb_id": 74717,
       "game_name": "Reel Fishing: The Great Outdoors",
       "file": "missing/R/74717-reel-fishing-the-great-outdoors.json"
+    },
+    {
+      "igdb_id": 45836,
+      "game_name": "Reel Fishing: Wild",
+      "file": "missing/R/45836-reel-fishing-wild.json"
     },
     {
       "igdb_id": 263473,
@@ -774117,6 +774277,11 @@
       "file": "missing/S/110805-sega-ages-shinobi.json"
     },
     {
+      "igdb_id": 45837,
+      "game_name": "Sega Bass Fishing 2",
+      "file": "missing/S/45837-sega-bass-fishing-2.json"
+    },
+    {
       "igdb_id": 19490,
       "game_name": "Sega Chess",
       "file": "missing/S/19490-sega-chess.json"
@@ -774230,6 +774395,11 @@
       "igdb_id": 108842,
       "game_name": "Sega Legends",
       "file": "missing/S/108842-sega-legends.json"
+    },
+    {
+      "igdb_id": 45838,
+      "game_name": "Sega Marine Fishing",
+      "file": "missing/S/45838-sega-marine-fishing.json"
     },
     {
       "igdb_id": 266667,
@@ -774395,6 +774565,11 @@
       "igdb_id": 46128,
       "game_name": "Sega World Tournament Golf",
       "file": "missing/S/46128-sega-world-tournament-golf.json"
+    },
+    {
+      "igdb_id": 45790,
+      "game_name": "Sega Worldwide Soccer 2000",
+      "file": "missing/S/45790-sega-worldwide-soccer-2000.json"
     },
     {
       "igdb_id": 46554,
@@ -777800,6 +777975,11 @@
       "igdb_id": 337713,
       "game_name": "Seventh Choir",
       "file": "missing/S/337713-seventh-choir.json"
+    },
+    {
+      "igdb_id": 45788,
+      "game_name": "Seventh Cross Evolution",
+      "file": "missing/S/45788-seventh-cross-evolution.json"
     },
     {
       "igdb_id": 194970,
@@ -785435,6 +785615,11 @@
       "igdb_id": 43876,
       "game_name": "Shin Nippon Pro Wrestling: Toukon Retsuden 2",
       "file": "missing/S/43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json"
+    },
+    {
+      "igdb_id": 45801,
+      "game_name": "Shin Nippon Pro Wrestling: Toukon Retsuden 4",
+      "file": "missing/S/45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json"
     },
     {
       "igdb_id": 3556,
@@ -808682,6 +808867,11 @@
       "file": "missing/S/309177-snk-vs-capcom-svc-chaos.json"
     },
     {
+      "igdb_id": 45820,
+      "game_name": "Snk's Cool Cool Toon",
+      "file": "missing/S/45820-snks-cool-cool-toon.json"
+    },
+    {
       "igdb_id": 237532,
       "game_name": "Sno Pokeler",
       "file": "missing/S/237532-sno-pokeler.json"
@@ -815282,6 +815472,11 @@
       "file": "missing/S/316977-sonic-adventure-sx.json"
     },
     {
+      "igdb_id": 45786,
+      "game_name": "Sonic Adventure: Limited Edition",
+      "file": "missing/S/45786-sonic-adventure-limited-edition.json"
+    },
+    {
       "igdb_id": 330154,
       "game_name": "Sonic Adventure: Neo",
       "file": "missing/S/330154-sonic-adventure-neo.json"
@@ -819847,6 +820042,11 @@
       "file": "missing/S/191079-soul-fantasy.json"
     },
     {
+      "igdb_id": 45840,
+      "game_name": "Soul Fighter",
+      "file": "missing/S/45840-soul-fighter.json"
+    },
+    {
       "igdb_id": 51174,
       "game_name": "Soul Fjord",
       "file": "missing/S/51174-soul-fjord.json"
@@ -823275,6 +823475,11 @@
       "igdb_id": 20661,
       "game_name": "Space Griffon",
       "file": "missing/S/20661-space-griffon.json"
+    },
+    {
+      "igdb_id": 45833,
+      "game_name": "Space Griffon VF-9",
+      "file": "missing/S/45833-space-griffon-vf-9.json"
     },
     {
       "igdb_id": 181182,
@@ -834090,6 +834295,11 @@
       "igdb_id": 273410,
       "game_name": "Sports Illustrated: Championship Football & Baseball",
       "file": "missing/S/273410-sports-illustrated-championship-football-and-baseball.json"
+    },
+    {
+      "igdb_id": 45841,
+      "game_name": "Sports Jam",
+      "file": "missing/S/45841-sports-jam.json"
     },
     {
       "igdb_id": 46122,
@@ -868397,6 +868607,11 @@
       "file": "missing/S/223017-super-run-world.json"
     },
     {
+      "igdb_id": 45804,
+      "game_name": "Super Runabout: San Francisco Edition",
+      "file": "missing/S/45804-super-runabout-san-francisco-edition.json"
+    },
+    {
       "igdb_id": 307936,
       "game_name": "Super Russian Roulette",
       "file": "missing/S/307936-super-russian-roulette.json"
@@ -872525,6 +872740,11 @@
       "igdb_id": 337567,
       "game_name": "Surf Planet",
       "file": "missing/S/337567-surf-planet.json"
+    },
+    {
+      "igdb_id": 45842,
+      "game_name": "Surf Rocket Racers",
+      "file": "missing/S/45842-surf-rocket-racers.json"
     },
     {
       "igdb_id": 248517,
@@ -926592,6 +926812,11 @@
       "file": "missing/T/41956-the-majesty-of-colors.json"
     },
     {
+      "igdb_id": 45795,
+      "game_name": "The Majors Pro Baseball",
+      "file": "missing/T/45795-the-majors-pro-baseball.json"
+    },
+    {
       "igdb_id": 392267,
       "game_name": "The Maker Way",
       "file": "missing/T/392267-the-maker-way.json"
@@ -929135,6 +929360,11 @@
       "igdb_id": 51179,
       "game_name": "The Next Tetris",
       "file": "missing/T/51179-the-next-tetris.json"
+    },
+    {
+      "igdb_id": 45789,
+      "game_name": "The Next Tetris On-Line Edition",
+      "file": "missing/T/45789-the-next-tetris-on-line-edition.json"
     },
     {
       "igdb_id": 344422,
@@ -933790,6 +934020,11 @@
       "igdb_id": 322685,
       "game_name": "The Righteous Scar",
       "file": "missing/T/322685-the-righteous-scar.json"
+    },
+    {
+      "igdb_id": 45832,
+      "game_name": "The Ring: Terror's Realm",
+      "file": "missing/T/45832-the-ring-terrors-realm.json"
     },
     {
       "igdb_id": 334925,
@@ -959402,6 +959637,11 @@
       "file": "missing/T/26977-time-squared.json"
     },
     {
+      "igdb_id": 45846,
+      "game_name": "Time Stalkers",
+      "file": "missing/T/45846-time-stalkers.json"
+    },
+    {
       "igdb_id": 129478,
       "game_name": "Time Stall",
       "file": "missing/T/129478-time-stall.json"
@@ -962740,6 +962980,11 @@
       "igdb_id": 20718,
       "game_name": "TNN Motorsports Hardcore 4X4",
       "file": "missing/T/20718-tnn-motorsports-hardcore-4x4.json"
+    },
+    {
+      "igdb_id": 45845,
+      "game_name": "TNN Motorsports Hardcore Heat",
+      "file": "missing/T/45845-tnn-motorsports-hardcore-heat.json"
     },
     {
       "igdb_id": 46244,
@@ -996070,6 +996315,11 @@
       "igdb_id": 389035,
       "game_name": "UEFA Champions League Season 2000/2001",
       "file": "missing/U/389035-uefa-champions-league-season-2000-2001.json"
+    },
+    {
+      "igdb_id": 45803,
+      "game_name": "UEFA Dream Soccer",
+      "file": "missing/U/45803-uefa-dream-soccer.json"
     },
     {
       "igdb_id": 44831,
