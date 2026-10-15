@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
 | Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
+| Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis | 26961 | [26961-call-of-atlantis.json](./26961-call-of-atlantis.json) |
