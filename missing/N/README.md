@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
 | Ninja Gaiden: Master Collection | 143619 | [143619-ninja-gaiden-master-collection.json](./143619-ninja-gaiden-master-collection.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Gainyk 2 | 46485 | [46485-ninja-gainyk-2.json](./46485-ninja-gainyk-2.json) |
 | Ninja Game | 376639 | [376639-ninja-game.json](./376639-ninja-game.json) |
 | Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
 | Ninja Gang Atack | 177289 | [177289-ninja-gang-atack.json](./177289-ninja-gang-atack.json) |
