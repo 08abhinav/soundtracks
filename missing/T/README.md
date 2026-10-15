@@ -8437,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
+| The Legend of Knight Templar | 72567 | [72567-the-legend-of-knight-templar.json](./72567-the-legend-of-knight-templar.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
@@ -9319,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minesweeper: Crew Bomber Expedition | 203703 | [203703-the-minesweeper-crew-bomber-expedition.json](./203703-the-minesweeper-crew-bomber-expedition.json) |
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
+| The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
@@ -16352,6 +16354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Love-ru Darkness Gravure Chance | 175683 | [175683-to-love-ru-darkness-gravure-chance.json](./175683-to-love-ru-darkness-gravure-chance.json) |
 | To Love-Ru Darkness: Battle Ecstasy | 62587 | [62587-to-love-ru-darkness-battle-ecstasy.json](./62587-to-love-ru-darkness-battle-ecstasy.json) |
+| To Love-Ru Trouble: Doki-doki! Rinkaigakkou-hen | 72594 | [72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json](./72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json) |
+| To Love-Ru: Waku-waku! Rinkangakkou-hen | 72593 | [72593-to-love-ru-waku-waku-rinkangakkou-hen.json](./72593-to-love-ru-waku-waku-rinkangakkou-hen.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
@@ -17865,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Detective 3 | 222362 | [222362-touch-detective-3.json](./222362-touch-detective-3.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
+| Touch Dic | 72586 | [72586-touch-dic.json](./72586-touch-dic.json) |
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
@@ -18836,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradesman: Deal to Dealer | 265545 | [265545-tradesman-deal-to-dealer.json](./265545-tradesman-deal-to-dealer.json) |
+| TradeWars 2002 | 72576 | [72576-tradewars-2002.json](./72576-tradewars-2002.json) |
 | Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
 | Tradewinds 2 | 90469 | [90469-tradewinds-2.json](./90469-tradewinds-2.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
