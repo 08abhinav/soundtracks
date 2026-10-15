@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
 | Wing Commander IV: The Price of Freedom | 200423 | [200423-wing-commander-iv-the-price-of-freedom.json](./200423-wing-commander-iv-the-price-of-freedom.json) |
 | Wing Commander Privateer: Righteous Fire | 50168 | [50168-wing-commander-privateer-righteous-fire.json](./50168-wing-commander-privateer-righteous-fire.json) |
+| Wing Commander Saga: The Darkest Dawn | 19178 | [19178-wing-commander-saga-the-darkest-dawn.json](./19178-wing-commander-saga-the-darkest-dawn.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 248587 | [248587-wing-commander-prophecy.json](./248587-wing-commander-prophecy.json) |
