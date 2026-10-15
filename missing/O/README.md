@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Office Space: Idle Profits | 55977 | [55977-office-space-idle-profits.json](./55977-office-space-idle-profits.json) |
 | Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
+| Office Suicide Saga | 47074 | [47074-office-suicide-saga.json](./47074-office-suicide-saga.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
+| Outburst | 47130 | [47130-outburst.json](./47130-outburst.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
@@ -3583,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
+| Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
