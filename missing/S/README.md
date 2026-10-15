@@ -3440,9 +3440,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
+| Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
+| Sega Clay Challenge | 39432 | [39432-sega-clay-challenge.json](./39432-sega-clay-challenge.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Flipper | 6130 | [6130-sega-flipper.json](./6130-sega-flipper.json) |
 | Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
@@ -3495,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
 | Sega vs. Capcom: The Next Level | 314615 | [314615-sega-vs-capcom-the-next-level.json](./314615-sega-vs-capcom-the-next-level.json) |
+| Sega Water Ski | 39470 | [39470-sega-water-ski.json](./39470-sega-water-ski.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
 | Sega Worldwide Soccer 2000 | 45790 | [45790-sega-worldwide-soccer-2000.json](./45790-sega-worldwide-soccer-2000.json) |
@@ -7087,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
 | Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
+| Silent Dragon | 39417 | [39417-silent-dragon.json](./39417-silent-dragon.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
 | Silent Earth | 151495 | [151495-silent-earth.json](./151495-silent-earth.json) |
@@ -13080,6 +13084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
+| Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
@@ -14835,6 +14840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
 | Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
+| SpikeOut: Digital Battle Online | 39474 | [39474-spikeout-digital-battle-online.json](./39474-spikeout-digital-battle-online.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
 | SpikerMan X | 247947 | [247947-spikerman-x.json](./247947-spikerman-x.json) |
@@ -15463,6 +15469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
+| Sports Shooting USA | 39431 | [39431-sports-shooting-usa.json](./39431-sports-shooting-usa.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
