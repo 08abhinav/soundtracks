@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalapeño Newt | 141811 | [141811-jalapeno-newt.json](./141811-jalapeno-newt.json) |
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
+| Jaleco Rally: Big Run - The Supreme 4WD Challenge | 38169 | [38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json](./38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalecolle Famicom Ver. Bio Warrior Dan: The Increaser War | 317557 | [317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json](./317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json) |
 | Jalecolle Famicom Ver. Pinball Quest | 310488 | [310488-jalecolle-famicom-ver-pinball-quest.json](./310488-jalecolle-famicom-ver-pinball-quest.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammery | 177450 | [177450-jammery.json](./177450-jammery.json) |
+| Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
 | Jammo | 192743 | [192743-jammo.json](./192743-jammo.json) |
@@ -629,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JB Hunter: Adventure | 223394 | [223394-jb-hunter-adventure.json](./223394-jb-hunter-adventure.json) |
+| JB: The Super Bass | 38167 | [38167-jb-the-super-bass.json](./38167-jb-the-super-bass.json) |
 | JBMod | 222836 | [222836-jbmod.json](./222836-jbmod.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
