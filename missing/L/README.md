@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Legends: 2025 Season One - Welcome to Noxus | 327916 | [327916-league-of-legends-2025-season-one-welcome-to-noxus.json](./327916-league-of-legends-2025-season-one-welcome-to-noxus.json) |
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
 | League of Legends: Esports Manager | 279064 | [279064-league-of-legends-esports-manager.json](./279064-league-of-legends-esports-manager.json) |
+| League of Legends: Wild Rift | 124700 | [124700-league-of-legends-wild-rift.json](./124700-league-of-legends-wild-rift.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
+| LEGO DC Super-Villains | 102321 | [102321-lego-dc-super-villains.json](./102321-lego-dc-super-villains.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
 | LEGO DC Super-Villains: Aquaman Pack 2 | 207239 | [207239-lego-dc-super-villains-aquaman-pack-2.json](./207239-lego-dc-super-villains-aquaman-pack-2.json) |
@@ -2297,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Kühle Drinks und Heiße Girls | 85980 | [85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json](./85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
+| Leisure Suit Larry: Love for Sail! | 2912 | [2912-leisure-suit-larry-love-for-sail.json](./2912-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
 | Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored | 81729 | [81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json](./81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json) |
 | Leisure Suit Larry: Pocket Party | 65289 | [65289-leisure-suit-larry-pocket-party.json](./65289-leisure-suit-larry-pocket-party.json) |
@@ -5576,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost In Purple | 54338 | [54338-lost-in-purple.json](./54338-lost-in-purple.json) |
+| Lost in Random | 119285 | [119285-lost-in-random.json](./119285-lost-in-random.json) |
 | Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
 | Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
