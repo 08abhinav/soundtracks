@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
+| Bell Ringer | 33919 | [33919-bell-ringer.json](./33919-bell-ringer.json) |
 | Bell, Book and Candleban | 237544 | [237544-bell-book-and-candleban.json](./237544-bell-book-and-candleban.json) |
 | Bell's Avenue | 214148 | [214148-bells-avenue.json](./214148-bells-avenue.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
+| Blades of the Righteous | 34026 | [34026-blades-of-the-righteous.json](./34026-blades-of-the-righteous.json) |
 | Blades of the Three Kingdoms: Return | 172544 | [172544-blades-of-the-three-kingdoms-return.json](./172544-blades-of-the-three-kingdoms-return.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
@@ -6846,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bless: Close Your Eyes,Open Your Mind. | 394441 | [394441-bless-close-your-eyes-open-your-mind.json](./394441-bless-close-your-eyes-open-your-mind.json) |
 | Blessed Agony | 299849 | [299849-blessed-agony.json](./299849-blessed-agony.json) |
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
+| Blessed Ones: The Magic Wolves | 33960 | [33960-blessed-ones-the-magic-wolves.json](./33960-blessed-ones-the-magic-wolves.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
 | Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
@@ -11228,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubsy in Sonic 2 | 360099 | [360099-bubsy-in-sonic-2.json](./360099-bubsy-in-sonic-2.json) |
 | Bubsy In: The Purrfect Collection | 306587 | [306587-bubsy-in-the-purrfect-collection.json](./306587-bubsy-in-the-purrfect-collection.json) |
+| Bubsy Two-Fur | 33965 | [33965-bubsy-two-fur.json](./33965-bubsy-two-fur.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
