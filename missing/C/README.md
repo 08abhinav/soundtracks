@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Strike | 47123 | [47123-carrier-strike.json](./47123-carrier-strike.json) |
 | Carrier Trail | 113901 | [113901-carrier-trail.json](./113901-carrier-trail.json) |
 | Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
+| Carrier: Fortress at Sea | 38824 | [38824-carrier-fortress-at-sea.json](./38824-carrier-fortress-at-sea.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carriers at War II | 94536 | [94536-carriers-at-war-ii.json](./94536-carriers-at-war-ii.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
 | Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
+| Castle Wars VR | 38807 | [38807-castle-wars-vr.json](./38807-castle-wars-vr.json) |
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
 | Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
@@ -5901,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
 | Circuit Superstars DLC: Top Gear - The Stig Challenge | 254379 | [254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json](./254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
+| Circuit Warz | 38772 | [38772-circuit-warz.json](./38772-circuit-warz.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuit: Laser Maze | 190460 | [190460-circuit-laser-maze.json](./190460-circuit-laser-maze.json) |
 | Circuit's Edge | 50150 | [50150-circuits-edge.json](./50150-circuits-edge.json) |
@@ -7119,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
+| Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
@@ -10499,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
+| Cowboy Casino | 38831 | [38831-cowboy-casino.json](./38831-cowboy-casino.json) |
 | Cowboy Duel: Red Wild West Massacre | 305411 | [305411-cowboy-duel-red-wild-west-massacre.json](./305411-cowboy-duel-red-wild-west-massacre.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
