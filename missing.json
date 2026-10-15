@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T18:08:12.382Z",
-  "total_missing": 216367,
+  "generated_at": "2026-10-15T18:13:12.997Z",
+  "total_missing": 216364,
   "games": [
     {
       "igdb_id": 191680,
@@ -182877,11 +182877,6 @@
       "file": "missing/C/150437-control-over.json"
     },
     {
-      "igdb_id": 225582,
-      "game_name": "Control Resonant",
-      "file": "missing/C/225582-control-resonant.json"
-    },
-    {
       "igdb_id": 418570,
       "game_name": "Control Resonant: Digital Deluxe Edition",
       "file": "missing/C/418570-control-resonant-digital-deluxe-edition.json"
@@ -230850,11 +230845,6 @@
       "igdb_id": 243051,
       "game_name": "Destiny 2: Armory Collection",
       "file": "missing/D/243051-destiny-2-armory-collection.json"
-    },
-    {
-      "igdb_id": 134830,
-      "game_name": "Destiny 2: Beyond Light",
-      "file": "missing/D/134830-destiny-2-beyond-light.json"
     },
     {
       "igdb_id": 139825,
@@ -661605,11 +661595,6 @@
       "igdb_id": 365093,
       "game_name": "Peggy's Post",
       "file": "missing/P/365093-peggys-post.json"
-    },
-    {
-      "igdb_id": 133512,
-      "game_name": "Peglin",
-      "file": "missing/P/133512-peglin.json"
     },
     {
       "igdb_id": 405549,
