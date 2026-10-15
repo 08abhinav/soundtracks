@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
+| Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
+| Destiny of a Wizard | 43109 | [43109-destiny-of-a-wizard.json](./43109-destiny-of-a-wizard.json) |
 | Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
 | Destiny of a Wizard 3: Beyond the World | 239217 | [239217-destiny-of-a-wizard-3-beyond-the-world.json](./239217-destiny-of-a-wizard-3-beyond-the-world.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Education | 385815 | [385815-dirty-education.json](./385815-dirty-education.json) |
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Fighter 1 | 46491 | [46491-dirty-fighter-1.json](./46491-dirty-fighter-1.json) |
+| Dirty Fighter 2 | 43152 | [43152-dirty-fighter-2.json](./43152-dirty-fighter-2.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty Harry | 78566 | [78566-dirty-harry.json](./78566-dirty-harry.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
@@ -11340,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
 | Drone Zero Gravity | 35495 | [35495-drone-zero-gravity.json](./35495-drone-zero-gravity.json) |
 | Drone Zone | 164068 | [164068-drone-zone.json](./164068-drone-zone.json) |
+| Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
