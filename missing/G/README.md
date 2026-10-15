@@ -7483,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
+| Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
