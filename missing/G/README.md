@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
+| Game of Thrones | 5489 | [5489-game-of-thrones.json](./5489-game-of-thrones.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
 | Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
 | Game of Thrones: A Telltale Games Series - Episode 2: The Lost Lords | 127068 | [127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json](./127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntler | 261166 | [261166-gauntler.json](./261166-gauntler.json) |
 | Gauntlet | 198746 | [198746-gauntlet.json](./198746-gauntlet.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
+| Gauntlet | 3502 | [3502-gauntlet.json](./3502-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
@@ -4592,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
+| Golf Story | 35626 | [35626-golf-story.json](./35626-golf-story.json) |
 | Golf Sunday | 180773 | [180773-golf-sunday.json](./180773-golf-sunday.json) |
 | Golf Together | 173051 | [173051-golf-together.json](./173051-golf-together.json) |
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
