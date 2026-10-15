@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
+| Bacon: The Game | 56986 | [56986-bacon-the-game.json](./56986-bacon-the-game.json) |
 | BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
 | Bacta 2: The Resurrection of Bacta | 66899 | [66899-bacta-2-the-resurrection-of-bacta.json](./66899-bacta-2-the-resurrection-of-bacta.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
+| Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
 | Baseball Mogul 2003 | 94396 | [94396-baseball-mogul-2003.json](./94396-baseball-mogul-2003.json) |
@@ -2160,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
 | Basketball VR | 304687 | [304687-basketball-vr.json](./304687-basketball-vr.json) |
+| Basketball Xciting | 56973 | [56973-basketball-xciting.json](./56973-basketball-xciting.json) |
 | Basketball: Breakthrough Gaming Arcade | 204079 | [204079-basketball-breakthrough-gaming-arcade.json](./204079-basketball-breakthrough-gaming-arcade.json) |
 | Basketball: Breakthrough Gaming Arcade - Challenge Mode Edition | 221770 | [221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json](./221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
@@ -2224,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastard!! Ankoku no Hakaishin | 65403 | [65403-bastard-ankoku-no-hakaishin.json](./65403-bastard-ankoku-no-hakaishin.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
+| Bastet | 56985 | [56985-bastet.json](./56985-bastet.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
@@ -9448,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Strike | 221341 | [221341-bowling-strike.json](./221341-bowling-strike.json) |
 | Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
+| Bowling Xciting | 56962 | [56962-bowling-xciting.json](./56962-bowling-xciting.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
