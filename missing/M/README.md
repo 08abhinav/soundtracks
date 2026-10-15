@@ -4764,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot G: Kuwagata Version | 79757 | [79757-medarot-g-kuwagata-version.json](./79757-medarot-g-kuwagata-version.json) |
+| Medarot Girls Mission | 56992 | [56992-medarot-girls-mission.json](./56992-medarot-girls-mission.json) |
 | Medarot Girls Mission Kuwagata Ver. | 222459 | [222459-medarot-girls-mission-kuwagata-ver.json](./222459-medarot-girls-mission-kuwagata-ver.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
