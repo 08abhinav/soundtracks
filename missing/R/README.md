@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
 | Razor Freestyle Scooter | 249123 | [249123-razor-freestyle-scooter.json](./249123-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
+| Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revelations: The Demon Slayer | 265052 | [265052-revelations-the-demon-slayer.json](./265052-revelations-the-demon-slayer.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
+| ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
@@ -4691,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
 | Richie the Gnome: Treasure Hunter | 106943 | [106943-richie-the-gnome-treasure-hunter.json](./106943-richie-the-gnome-treasure-hunter.json) |
+| Richie the Gnome: Underground Treasures | 62096 | [62096-richie-the-gnome-underground-treasures.json](./62096-richie-the-gnome-underground-treasures.json) |
 | Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
