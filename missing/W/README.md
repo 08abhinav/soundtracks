@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 248587 | [248587-wing-commander-prophecy.json](./248587-wing-commander-prophecy.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
+| Wing Commander: Prophecy - Special Edition | 69758 | [69758-wing-commander-prophecy-special-edition.json](./69758-wing-commander-prophecy-special-edition.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
 | Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
@@ -4623,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
+| Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
@@ -6251,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wulfram | 64092 | [64092-wulfram.json](./64092-wulfram.json) |
 | Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
 | Wǔlín Hàndāo Xíng | 155004 | [155004-wulin-handao-xing.json](./155004-wulin-handao-xing.json) |
+| Wulin Qunxia Zhuan | 69757 | [69757-wulin-qunxia-zhuan.json](./69757-wulin-qunxia-zhuan.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wumball | 344405 | [344405-wumball.json](./344405-wumball.json) |
