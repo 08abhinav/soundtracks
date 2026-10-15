@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
+| Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
+| Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Agent | 249084 | [249084-anomaly-agent.json](./249084-anomaly-agent.json) |
@@ -11963,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
 | Awake | 148290 | [148290-awake.json](./148290-awake.json) |
+| Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
