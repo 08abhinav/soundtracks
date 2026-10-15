@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
+| G.B.R : Special Commando Unit | 24734 | [24734-g-b-r-special-commando-unit.json](./24734-g-b-r-special-commando-unit.json) |
 | G.E.A.R. | 323238 | [323238-g-e-a-r.json](./323238-g-e-a-r.json) |
 | G.E.M. Grab & Exit | 413476 | [413476-g-e-m-grab-and-exit.json](./413476-g-e-m-grab-and-exit.json) |
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Renovator | 224606 | [224606-garden-renovator.json](./224606-garden-renovator.json) |
 | Garden Rescue: Christmas Edition | 34078 | [34078-garden-rescue-christmas-edition.json](./34078-garden-rescue-christmas-edition.json) |
+| Garden Shop: Rush Hour! | 24751 | [24751-garden-shop-rush-hour.json](./24751-garden-shop-rush-hour.json) |
 | Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
@@ -3914,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Gobliins 2: The Prince Buffoon | 1931 | [1931-gobliins-2-the-prince-buffoon.json](./1931-gobliins-2-the-prince-buffoon.json) |
+| Gobliins Trilogy | 24763 | [24763-gobliins-trilogy.json](./24763-gobliins-trilogy.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins | 30638 | [30638-goblin-and-coins.json](./30638-goblin-and-coins.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
@@ -6701,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
+| Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
@@ -6796,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
+| gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSPS The Game | 360113 | [360113-gsps-the-game.json](./360113-gsps-the-game.json) |
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
@@ -7474,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkid 99 | 116197 | [116197-gunkid-99.json](./116197-gunkid-99.json) |
+| GunKinger Bonanza | 22016 | [22016-gunkinger-bonanza.json](./22016-gunkinger-bonanza.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
