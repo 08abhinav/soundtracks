@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Blade | 188393 | [188393-fantasy-blade.json](./188393-fantasy-blade.json) |
 | Fantasy Boy | 240828 | [240828-fantasy-boy.json](./240828-fantasy-boy.json) |
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
+| Fantasy Bump | 32696 | [32696-fantasy-bump.json](./32696-fantasy-bump.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Checkers | 147207 | [147207-fantasy-checkers.json](./147207-fantasy-checkers.json) |
@@ -9122,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
 | Funkin' at Freddy's + Afton Full Week | 298722 | [298722-funkin-at-freddys-afton-full-week.json](./298722-funkin-at-freddys-afton-full-week.json) |
+| Funklift | 32644 | [32644-funklift.json](./32644-funklift.json) |
 | Funklift: Deluxe Edition | 53059 | [53059-funklift-deluxe-edition.json](./53059-funklift-deluxe-edition.json) |
 | Funko Fusion | 247567 | [247567-funko-fusion.json](./247567-funko-fusion.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only) | 378880 | [378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json](./378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json) |
