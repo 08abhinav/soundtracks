@@ -1577,6 +1577,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
+| Maison Ikkoku | 41803 | [41803-maison-ikkoku.json](./41803-maison-ikkoku.json) |
+| Maison Ikkoku Final | 41802 | [41802-maison-ikkoku-final.json](./41802-maison-ikkoku-final.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
 | Maison Ikkoku Kanketsu Special | 91764 | [91764-maison-ikkoku-kanketsu-special.json](./91764-maison-ikkoku-kanketsu-special.json) |
 | Maison Ikkoku: Omoide no Photograph | 160301 | [160301-maison-ikkoku-omoide-no-photograph.json](./160301-maison-ikkoku-omoide-no-photograph.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashiroiro Symphony: Mutsu-no-hana - Limited Edition | 413747 | [413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json](./413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json) |
 | Mashou Denki: La Valeur | 137528 | [137528-mashou-denki-la-valeur.json](./137528-mashou-denki-la-valeur.json) |
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
+| Mashou no Yakata Gabalin | 41790 | [41790-mashou-no-yakata-gabalin.json](./41790-mashou-no-yakata-gabalin.json) |
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
 | Mask City: Chapter Zero | 373859 | [373859-mask-city-chapter-zero.json](./373859-mask-city-chapter-zero.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
@@ -9668,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
+| Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
@@ -12505,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Challenger | 245432 | [245432-mr-challenger.json](./245432-mr-challenger.json) |
 | Mr. Cheesy | 182937 | [182937-mr-cheesy.json](./182937-mr-cheesy.json) |
 | Mr. Chin's Gourmet Paradise | 49036 | [49036-mr-chins-gourmet-paradise.json](./49036-mr-chins-gourmet-paradise.json) |
+| Mr. Ching | 41788 | [41788-mr-ching.json](./41788-mr-ching.json) |
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
