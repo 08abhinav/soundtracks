@@ -810,7 +810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
-| Edge | 8392 | [8392-edge.json](./8392-edge.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
