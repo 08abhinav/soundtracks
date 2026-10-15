@@ -8304,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
+| Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
 | BodyConQuest I: Abakareshi Musume-tachi | 41238 | [41238-bodyconquest-i-abakareshi-musume-tachi.json](./41238-bodyconquest-i-abakareshi-musume-tachi.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
