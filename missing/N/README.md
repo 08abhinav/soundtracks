@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
 | Nauseous Pines | 126906 | [126906-nauseous-pines.json](./126906-nauseous-pines.json) |
+| Naut | 60452 | [60452-naut.json](./60452-naut.json) |
 | Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
+| NBA All Net | 60466 | [60466-nba-all-net.json](./60466-nba-all-net.json) |
 | NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
