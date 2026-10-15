@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nippon GT Senshuken MAX Rev. | 381784 | [381784-zen-nippon-gt-senshuken-max-rev.json](./381784-zen-nippon-gt-senshuken-max-rev.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
+| Zen-Nippon Pro Wrestling | 61503 | [61503-zen-nippon-pro-wrestling.json](./61503-zen-nippon-pro-wrestling.json) |
 | Zen-Nippon Pro Wrestling Featuring Virtua | 46089 | [46089-zen-nippon-pro-wrestling-featuring-virtua.json](./46089-zen-nippon-pro-wrestling-featuring-virtua.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
