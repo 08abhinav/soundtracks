@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2 Digsite: E3 2003 Demo | 321524 | [321524-halo-2-digsite-e3-2003-demo.json](./321524-halo-2-digsite-e3-2003-demo.json) |
 | Halo 2 Uncut | 257553 | [257553-halo-2-uncut.json](./257553-halo-2-uncut.json) |
+| Halo 2: Anniversary | 125009 | [125009-halo-2-anniversary.json](./125009-halo-2-anniversary.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
 | Halo 2: Multiplayer Map Pack | 3122 | [3122-halo-2-multiplayer-map-pack.json](./3122-halo-2-multiplayer-map-pack.json) |
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
@@ -4438,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
 | Hexen II | 6637 | [6637-hexen-ii.json](./6637-hexen-ii.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
+| Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
 | Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
@@ -5763,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
 | Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
+| Hob | 14763 | [14763-hob.json](./14763-hob.json) |
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
