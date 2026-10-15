@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
 | Shadow Uprising | 112945 | [112945-shadow-uprising.json](./112945-shadow-uprising.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
+| Shadow Vault | 71963 | [71963-shadow-vault.json](./71963-shadow-vault.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
@@ -4914,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: Dynasty | 71448 | [71448-shanghai-dynasty.json](./71448-shanghai-dynasty.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai: Mah-Jongg Essentials | 70483 | [70483-shanghai-mah-jongg-essentials.json](./70483-shanghai-mah-jongg-essentials.json) |
+| Shanghai: Second Dynasty | 71959 | [71959-shanghai-second-dynasty.json](./71959-shanghai-second-dynasty.json) |
 | Shanghai: Shoryuu Sairin | 376060 | [376060-shanghai-shoryuu-sairin.json](./376060-shanghai-shoryuu-sairin.json) |
 | Shanghai: Triple-Threat | 4265 | [4265-shanghai-triple-threat.json](./4265-shanghai-triple-threat.json) |
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
@@ -8679,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
+| Slap Dab | 72011 | [72011-slap-dab.json](./72011-slap-dab.json) |
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
 | Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
@@ -13172,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
 | Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
+| Space Interceptor | 71965 | [71965-space-interceptor.json](./71965-space-interceptor.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intervention | 125748 | [125748-space-intervention.json](./125748-space-intervention.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
@@ -13541,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Travelling | 120715 | [120715-space-travelling.json](./120715-space-travelling.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
+| Space Treat | 71992 | [71992-space-treat.json](./71992-space-treat.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
@@ -15469,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter / Super Sprint | 93200 | [93200-spy-hunter-super-sprint.json](./93200-spy-hunter-super-sprint.json) |
 | Spy Hunter II | 6153 | [6153-spy-hunter-ii.json](./6153-spy-hunter-ii.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
+| Spy Hunter: Missile Crisis | 72010 | [72010-spy-hunter-missile-crisis.json](./72010-spy-hunter-missile-crisis.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
@@ -22248,6 +22254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
+| Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
