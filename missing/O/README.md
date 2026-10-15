@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey of Dremid'ir | 216747 | [216747-odyssey-of-dremidir.json](./216747-odyssey-of-dremidir.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
+| Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
 | Odyssey: Starship Pinball | 379148 | [379148-odyssey-starship-pinball.json](./379148-odyssey-starship-pinball.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oeka Kids: Anpanman to Oekaki Shiyou!! | 48799 | [48799-oeka-kids-anpanman-to-oekaki-shiyou.json](./48799-oeka-kids-anpanman-to-oekaki-shiyou.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
+| Oel | 62611 | [62611-oel.json](./62611-oel.json) |
 | Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
 | Of a Feather | 178515 | [178515-of-a-feather.json](./178515-of-a-feather.json) |
 | Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
@@ -2771,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
 | Oreshika: Tainted Bloodlines | 19822 | [19822-oreshika-tainted-bloodlines.json](./19822-oreshika-tainted-bloodlines.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
+| Oretachi ni Tsubasa wa Nai - Under the Innocent Sky | 62647 | [62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json](./62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
 | Orf Ski Challange 2016 | 125880 | [125880-orf-ski-challange-2016.json](./125880-orf-ski-challange-2016.json) |
