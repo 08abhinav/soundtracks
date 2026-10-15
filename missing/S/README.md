@@ -5838,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
+| Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Ski Resort | 103936 | [103936-shiny-ski-resort.json](./103936-shiny-ski-resort.json) |
@@ -15082,6 +15083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
+| Splotches | 60436 | [60436-splotches.json](./60436-splotches.json) |
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
@@ -16035,6 +16037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
+| Stampede Run | 60471 | [60471-stampede-run.json](./60471-stampede-run.json) |
 | Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
@@ -17655,6 +17658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
+| Steed | 60435 | [60435-steed.json](./60435-steed.json) |
 | Steel | 237272 | [237272-steel.json](./237272-steel.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
@@ -21930,6 +21934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Naughty Maid 2 | 122106 | [122106-super-naughty-maid-2.json](./122106-super-naughty-maid-2.json) |
 | Super Navecitas 2 | 110512 | [110512-super-navecitas-2.json](./110512-super-navecitas-2.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
+| Super Naxat Open: Golf de Shoubu da! Dorabocchan | 60460 | [60460-super-naxat-open-golf-de-shoubu-da-dorabocchan.json](./60460-super-naxat-open-golf-de-shoubu-da-dorabocchan.json) |
 | Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki | 37805 | [37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json](./37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json) |
 | Super Nazo Puyo: Rulue no Roux | 37806 | [37806-super-nazo-puyo-rulue-no-roux.json](./37806-super-nazo-puyo-rulue-no-roux.json) |
 | Super Neat Cat | 156014 | [156014-super-neat-cat.json](./156014-super-neat-cat.json) |
