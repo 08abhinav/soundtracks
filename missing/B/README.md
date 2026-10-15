@@ -9155,6 +9155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Escape | 236168 | [236168-boulder-escape.json](./236168-boulder-escape.json) |
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
+| Boulder Match | 66567 | [66567-boulder-match.json](./66567-boulder-match.json) |
+| Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
