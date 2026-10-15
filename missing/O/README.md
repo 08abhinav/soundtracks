@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
 | One Piece: Pirate Warriors + One Piece: Pirate Warriors 2 | 81477 | [81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json](./81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 2 - Collector's Editon | 225688 | [225688-one-piece-pirate-warriors-2-collectors-editon.json](./225688-one-piece-pirate-warriors-2-collectors-editon.json) |
+| One Piece: Pirate Warriors 3 | 6804 | [6804-one-piece-pirate-warriors-3.json](./6804-one-piece-pirate-warriors-3.json) |
 | One Piece: Pirate Warriors 3 - Deluxe Edition | 77177 | [77177-one-piece-pirate-warriors-3-deluxe-edition.json](./77177-one-piece-pirate-warriors-3-deluxe-edition.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
