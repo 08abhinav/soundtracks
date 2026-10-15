@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
+| Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hendecad | 124711 | [124711-hendecad.json](./124711-hendecad.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Héngsǎo Tiānxià | 128322 | [128322-hengsao-tianxia.json](./128322-hengsao-tianxia.json) |
+| Henhouse | 44392 | [44392-henhouse.json](./44392-henhouse.json) |
 | Henk Stroem in: Lost in Cellar | 322824 | [322824-henk-stroem-in-lost-in-cellar.json](./322824-henk-stroem-in-lost-in-cellar.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
@@ -6448,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku Shogi: Shogi-ou | 228561 | [228561-honkaku-shogi-shogi-ou.json](./228561-honkaku-shogi-shogi-ou.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honkaku Yon-nin Uchi Mahjong: Mahjong Oh | 228562 | [228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json](./228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json) |
+| Honkakuha Taikyoku Shogi: Shogi Club | 44433 | [44433-honkakuha-taikyoku-shogi-shogi-club.json](./44433-honkakuha-taikyoku-shogi-shogi-club.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
