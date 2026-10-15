@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
+| Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
 | Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
+| Arkadianax | 62654 | [62654-arkadianax.json](./62654-arkadianax.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
@@ -10610,6 +10612,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 250337 | [250337-astro-wars.json](./250337-astro-wars.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
+| Astro Wars II: Battle in Galaxy | 62618 | [62618-astro-wars-ii-battle-in-galaxy.json](./62618-astro-wars-ii-battle-in-galaxy.json) |
+| Astro Wars: Invader From Space | 62619 | [62619-astro-wars-invader-from-space.json](./62619-astro-wars-invader-from-space.json) |
 | Astro Zip VR | 157563 | [157563-astro-zip-vr.json](./157563-astro-zip-vr.json) |
 | Astro-Blast | 109192 | [109192-astro-blast.json](./109192-astro-blast.json) |
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
