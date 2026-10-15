@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
+| Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
