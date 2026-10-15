@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
+| Vault Breaker | 63194 | [63194-vault-breaker.json](./63194-vault-breaker.json) |
 | Vault Circuit | 212743 | [212743-vault-circuit.json](./212743-vault-circuit.json) |
 | Vault Cracker | 17370 | [17370-vault-cracker.json](./17370-vault-cracker.json) |
 | Vault Cracker: The Last Safe | 61575 | [61575-vault-cracker-the-last-safe.json](./61575-vault-cracker-the-last-safe.json) |
