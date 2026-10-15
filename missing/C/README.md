@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
 | Castle Away | 396006 | [396006-castle-away.json](./396006-castle-away.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
+| Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
@@ -10874,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
+| Crappy Day Enhanced Edition | 28590 | [28590-crappy-day-enhanced-edition.json](./28590-crappy-day-enhanced-edition.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
 | Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
@@ -13393,6 +13395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
+| Cursery: The Crooked Man and the Crooked Cat - Collector's Edition | 28676 | [28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json](./28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
