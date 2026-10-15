@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
 | A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
+| A War Story | 55765 | [55765-a-war-story.json](./55765-a-war-story.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
