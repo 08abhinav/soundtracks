@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
+| NagiQ | 54971 | [54971-nagiq.json](./54971-nagiq.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
 | NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
@@ -296,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Dash | 385377 | [385377-nano-dash.json](./385377-nano-dash.json) |
 | Nano Devil | 231272 | [231272-nano-devil.json](./231272-nano-devil.json) |
+| Nano Diver | 55009 | [55009-nano-diver.json](./55009-nano-diver.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
 | Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
