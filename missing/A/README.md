@@ -6741,6 +6741,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Freak FX Vol. 2 | 79735 | [79735-anime-freak-fx-vol-2.json](./79735-anime-freak-fx-vol-2.json) |
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
+| Anime Freak FX Vol. 4 | 67869 | [67869-anime-freak-fx-vol-4.json](./67869-anime-freak-fx-vol-4.json) |
+| Anime Freak FX Vol. 6 | 67868 | [67868-anime-freak-fx-vol-6.json](./67868-anime-freak-fx-vol-6.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Gas Station | 202210 | [202210-anime-gas-station.json](./202210-anime-gas-station.json) |
 | Anime Girl Kawaii High School Dress Up | 364073 | [364073-anime-girl-kawaii-high-school-dress-up.json](./364073-anime-girl-kawaii-high-school-dress-up.json) |
@@ -7711,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetité Amor | 344513 | [344513-appetite-amor.json](./344513-appetite-amor.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
+| Appie Online 2 | 67856 | [67856-appie-online-2.json](./67856-appie-online-2.json) |
 | Applaydu | 294979 | [294979-applaydu.json](./294979-applaydu.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
@@ -9129,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
 | Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
+| Arm Champs II | 67876 | [67876-arm-champs-ii.json](./67876-arm-champs-ii.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
@@ -12158,6 +12162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
+| Azure Sky Project | 67908 | [67908-azure-sky-project.json](./67908-azure-sky-project.json) |
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
