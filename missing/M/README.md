@@ -2528,7 +2528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
-| Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
 | Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
 | Mario + Rabbids Sparks of Hope: Cosmic Edition | 207391 | [207391-mario-rabbids-sparks-of-hope-cosmic-edition.json](./207391-mario-rabbids-sparks-of-hope-cosmic-edition.json) |
 | Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle | 401013 | [401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json](./401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json) |
