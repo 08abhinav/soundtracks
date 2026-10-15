@@ -5046,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Click to Necromance | 175844 | [175844-right-click-to-necromance.json](./175844-right-click-to-necromance.json) |
 | Right or Die! | 289240 | [289240-right-or-die.json](./289240-right-or-die.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
+| Right to Rule | 59753 | [59753-right-to-rule.json](./59753-right-to-rule.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Righteous Mojo | 235651 | [235651-righteous-mojo.json](./235651-righteous-mojo.json) |
