@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
 | D.I.P.R.I.P. Warm Up | 29120 | [29120-d-i-p-r-i-p-warm-up.json](./29120-d-i-p-r-i-p-warm-up.json) |
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
+| D.i.R.T.: Origin of the Species | 69154 | [69154-d-i-r-t-origin-of-the-species.json](./69154-d-i-r-t-origin-of-the-species.json) |
 | D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
+| Days of Memories 3 | 69175 | [69175-days-of-memories-3.json](./69175-days-of-memories-3.json) |
 | Days of Memories: Boku to Kanojo to Koto no Koi | 221318 | [221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json](./221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json) |
 | Days of Memories: Kaze Mau Miyako de Tsukamaete! | 221319 | [221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json](./221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json) |
 | Days of Memories: Sekai de Ichiban Atsui Fuyu | 221320 | [221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json](./221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
 | Deadly Rooms of Death: Architect's Edition | 70045 | [70045-deadly-rooms-of-death-architects-edition.json](./70045-deadly-rooms-of-death-architects-edition.json) |
+| Deadly Rooms of Death: King Dugan's Dungeon | 69156 | [69156-deadly-rooms-of-death-king-dugans-dungeon.json](./69156-deadly-rooms-of-death-king-dugans-dungeon.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
@@ -9924,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
+| Dragon Quest & Final Fantasy in Itadaki Street Portable | 69176 | [69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json](./69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json) |
 | Dragon Quest + | 275799 | [275799-dragon-quest.json](./275799-dragon-quest.json) |
 | Dragon Quest 1, 2, 3 Collection | 122266 | [122266-dragon-quest-1-2-3-collection.json](./122266-dragon-quest-1-2-3-collection.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
