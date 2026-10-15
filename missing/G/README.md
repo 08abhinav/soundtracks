@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GasZilla | 226800 | [226800-gaszilla.json](./226800-gaszilla.json) |
 | Gat Life: Boyfriend Bar | 60451 | [60451-gat-life-boyfriend-bar.json](./60451-gat-life-boyfriend-bar.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
+| Gataela | 56405 | [56405-gataela.json](./56405-gataela.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
 | Gate | 168932 | [168932-gate.json](./168932-gate.json) |
