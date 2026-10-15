@@ -11421,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
 | Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
+| Cricket 97: Ashes Tour Edition | 69163 | [69163-cricket-97-ashes-tour-edition.json](./69163-cricket-97-ashes-tour-edition.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
