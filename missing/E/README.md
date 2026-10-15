@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
 | Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
 | Eagle Fantasy Golf | 74705 | [74705-eagle-fantasy-golf.json](./74705-eagle-fantasy-golf.json) |
+| Eagle Fighter | 41808 | [41808-eagle-fighter.json](./41808-eagle-fighter.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Island Twist | 150781 | [150781-eagle-island-twist.json](./150781-eagle-island-twist.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole: Hydlide 3 - PC-8801mkIISR | 287588 | [287588-eggconsole-hydlide-3-pc-8801mkiisr.json](./287588-eggconsole-hydlide-3-pc-8801mkiisr.json) |
 | Eggerland | 41259 | [41259-eggerland.json](./41259-eggerland.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
+| Eggerland Mystery | 41807 | [41807-eggerland-mystery.json](./41807-eggerland-mystery.json) |
 | Eggerland: Meikyuu no Fukkatsu | 48510 | [48510-eggerland-meikyuu-no-fukkatsu.json](./48510-eggerland-meikyuu-no-fukkatsu.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
