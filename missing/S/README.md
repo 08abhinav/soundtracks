@@ -4680,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
 | Shadowfire | 13034 | [13034-shadowfire.json](./13034-shadowfire.json) |
+| ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
@@ -5916,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro no Shinju | 151852 | [151852-shiro-no-shinju.json](./151852-shiro-no-shinju.json) |
 | Shiro Project | 138171 | [138171-shiro-project.json](./138171-shiro-project.json) |
 | Shiro Project: Re Castle Defense | 133386 | [133386-shiro-project-re-castle-defense.json](./133386-shiro-project-re-castle-defense.json) |
+| Shiro to Kuro no Alice | 70889 | [70889-shiro-to-kuro-no-alice.json](./70889-shiro-to-kuro-no-alice.json) |
 | Shiro to Kuro no Alice for Nintendo Switch | 200458 | [200458-shiro-to-kuro-no-alice-for-nintendo-switch.json](./200458-shiro-to-kuro-no-alice-for-nintendo-switch.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
@@ -7907,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
+| Sixteen | 70856 | [70856-sixteen.json](./70856-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | SixteenPetals | 393556 | [393556-sixteenpetals.json](./393556-sixteenpetals.json) |
 | Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
@@ -12344,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
+| Sorvice | 70879 | [70879-sorvice.json](./70879-sorvice.json) |
 | SOS | 24008 | [24008-sos.json](./24008-sos.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
@@ -19642,6 +19646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubZero | 373212 | [373212-subzero.json](./373212-subzero.json) |
 | Subzero Tides | 275712 | [275712-subzero-tides.json](./275712-subzero-tides.json) |
 | Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
+| Success Story | 70893 | [70893-success-story.json](./70893-success-story.json) |
 | Successfully Learning English: Year 2 | 85397 | [85397-successfully-learning-english-year-2.json](./85397-successfully-learning-english-year-2.json) |
 | Successfully Learning English: Year 3 | 85396 | [85396-successfully-learning-english-year-3.json](./85396-successfully-learning-english-year-3.json) |
 | Successfully Learning English: Year 4 | 85395 | [85395-successfully-learning-english-year-4.json](./85395-successfully-learning-english-year-4.json) |
