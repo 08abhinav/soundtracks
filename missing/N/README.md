@@ -2651,6 +2651,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey | 19732 | [19732-nhl-all-star-hockey.json](./19732-nhl-all-star-hockey.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
+| NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
+| NHL Blades of Steel | 45125 | [45125-nhl-blades-of-steel.json](./45125-nhl-blades-of-steel.json) |
+| NHL Blades of Steel 2000 | 45124 | [45124-nhl-blades-of-steel-2000.json](./45124-nhl-blades-of-steel-2000.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
@@ -2659,6 +2662,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hockey | 210499 | [210499-nhl-hockey.json](./210499-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
+| NHL Powerplay '96 | 45122 | [45122-nhl-powerplay-96.json](./45122-nhl-powerplay-96.json) |
+| NHL Rivals 2004 | 45126 | [45126-nhl-rivals-2004.json](./45126-nhl-rivals-2004.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHL Supercard | 21625 | [21625-nhl-supercard.json](./21625-nhl-supercard.json) |
