@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
+| Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
 | MabinoB G2 | 97515 | [97515-mabinob-g2.json](./97515-mabinob-g2.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahJong: Medieval Fantasy | 171511 | [171511-mahjong-medieval-fantasy.json](./171511-mahjong-medieval-fantasy.json) |
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
@@ -6818,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
+| Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
@@ -7208,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
+| MicroMan | 24760 | [24760-microman.json](./24760-microman.json) |
 | MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
@@ -11096,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
+| Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
