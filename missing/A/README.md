@@ -7127,7 +7127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
-| Anomaly Agent | 249084 | [249084-anomaly-agent.json](./249084-anomaly-agent.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
