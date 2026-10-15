@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
+| Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
 | Eardis: Revolution Force | 112893 | [112893-eardis-revolution-force.json](./112893-eardis-revolution-force.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether One Redux | 124917 | [124917-ether-one-redux.json](./124917-ether-one-redux.json) |
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
+| Ether Vapor | 72588 | [72588-ether-vapor.json](./72588-ether-vapor.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
 | EverQuest: The Serpent's Spine | 72908 | [72908-everquest-the-serpents-spine.json](./72908-everquest-the-serpents-spine.json) |
+| EverQuest: The Shadows of Luclin | 72544 | [72544-everquest-the-shadows-of-luclin.json](./72544-everquest-the-shadows-of-luclin.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | EverQuest: Underfoot | 67713 | [67713-everquest-underfoot.json](./67713-everquest-underfoot.json) |
 | EverQuest: Veil of Alaris | 65851 | [65851-everquest-veil-of-alaris.json](./65851-everquest-veil-of-alaris.json) |
