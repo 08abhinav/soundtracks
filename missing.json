@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T11:51:14.816Z",
-  "total_missing": 215122,
+  "generated_at": "2026-10-15T12:05:54.347Z",
+  "total_missing": 215172,
   "games": [
     {
       "igdb_id": 191680,
@@ -61917,6 +61917,11 @@
       "file": "missing/A/383009-assassins-creed-iii-freedom-edition.json"
     },
     {
+      "igdb_id": 45117,
+      "game_name": "Assassin's Creed III: Join or Die Edition",
+      "file": "missing/A/45117-assassins-creed-iii-join-or-die-edition.json"
+    },
+    {
       "igdb_id": 3195,
       "game_name": "Assassin's Creed III: Liberation",
       "file": "missing/A/3195-assassins-creed-iii-liberation.json"
@@ -62257,6 +62262,11 @@
       "file": "missing/A/136132-assassins-creed-valhalla-ultimate-edition.json"
     },
     {
+      "igdb_id": 45120,
+      "game_name": "Assassin's Creed: Anthology",
+      "file": "missing/A/45120-assassins-creed-anthology.json"
+    },
+    {
       "igdb_id": 10661,
       "game_name": "Assassin's Creed: Bloodlines",
       "file": "missing/A/10661-assassins-creed-bloodlines.json"
@@ -62370,6 +62380,11 @@
       "igdb_id": 77265,
       "game_name": "Assassin's Creed: Recollection",
       "file": "missing/A/77265-assassins-creed-recollection.json"
+    },
+    {
+      "igdb_id": 45119,
+      "game_name": "Assassin's Creed: Revelations - Collectors Edition",
+      "file": "missing/A/45119-assassins-creed-revelations-collectors-edition.json"
     },
     {
       "igdb_id": 52417,
@@ -73452,6 +73467,11 @@
       "file": "missing/B/50033-baby-felix-halloween.json"
     },
     {
+      "igdb_id": 45102,
+      "game_name": "Baby Felix Tennis",
+      "file": "missing/B/45102-baby-felix-tennis.json"
+    },
+    {
       "igdb_id": 200377,
       "game_name": "Baby Felix's Activity Center",
       "file": "missing/B/200377-baby-felixs-activity-center.json"
@@ -80652,6 +80672,11 @@
       "file": "missing/B/3307-barbie.json"
     },
     {
+      "igdb_id": 45164,
+      "game_name": "Barbie Adventure: Riding Club",
+      "file": "missing/B/45164-barbie-adventure-riding-club.json"
+    },
+    {
       "igdb_id": 142980,
       "game_name": "Barbie and Her Magical House",
       "file": "missing/B/142980-barbie-and-her-magical-house.json"
@@ -80665,6 +80690,16 @@
       "igdb_id": 248681,
       "game_name": "Barbie and the Magic of Pegasus",
       "file": "missing/B/248681-barbie-and-the-magic-of-pegasus.json"
+    },
+    {
+      "igdb_id": 45172,
+      "game_name": "Barbie and the Magic of Pegasus",
+      "file": "missing/B/45172-barbie-and-the-magic-of-pegasus.json"
+    },
+    {
+      "igdb_id": 45176,
+      "game_name": "Barbie and the Three Musketeers",
+      "file": "missing/B/45176-barbie-and-the-three-musketeers.json"
     },
     {
       "igdb_id": 200600,
@@ -80802,6 +80837,11 @@
       "file": "missing/B/125306-barbie-horse-adventures-mystery-ride.json"
     },
     {
+      "igdb_id": 45175,
+      "game_name": "Barbie Horse Adventures: Riding Camp",
+      "file": "missing/B/45175-barbie-horse-adventures-riding-camp.json"
+    },
+    {
       "igdb_id": 78527,
       "game_name": "Barbie Horse Adventures: Riding Camp",
       "file": "missing/B/78527-barbie-horse-adventures-riding-camp.json"
@@ -80820,6 +80860,11 @@
       "igdb_id": 293194,
       "game_name": "Barbie in the 12 Dancing Princesses",
       "file": "missing/B/293194-barbie-in-the-12-dancing-princesses.json"
+    },
+    {
+      "igdb_id": 45173,
+      "game_name": "Barbie in the 12 Dancing Princesses",
+      "file": "missing/B/45173-barbie-in-the-12-dancing-princesses.json"
     },
     {
       "igdb_id": 200597,
@@ -80912,6 +80957,16 @@
       "file": "missing/B/273990-barbie-fairytopia.json"
     },
     {
+      "igdb_id": 45166,
+      "game_name": "Barbie: Fashion Designer",
+      "file": "missing/B/45166-barbie-fashion-designer.json"
+    },
+    {
+      "igdb_id": 45168,
+      "game_name": "Barbie: Fashion Pack Games",
+      "file": "missing/B/45168-barbie-fashion-pack-games.json"
+    },
+    {
       "igdb_id": 117136,
       "game_name": "Barbie: Fun & Fashion Dogs",
       "file": "missing/B/117136-barbie-fun-and-fashion-dogs.json"
@@ -80945,6 +81000,16 @@
       "igdb_id": 293198,
       "game_name": "Barbie: Let’s Make Music",
       "file": "missing/B/293198-barbie-let-s-make-music.json"
+    },
+    {
+      "igdb_id": 45167,
+      "game_name": "Barbie: Magic Genie Adventure",
+      "file": "missing/B/45167-barbie-magic-genie-adventure.json"
+    },
+    {
+      "igdb_id": 45165,
+      "game_name": "Barbie: Magic Hair Styler",
+      "file": "missing/B/45165-barbie-magic-hair-styler.json"
     },
     {
       "igdb_id": 228546,
@@ -80985,6 +81050,11 @@
       "igdb_id": 368898,
       "game_name": "Barbie: Super Model",
       "file": "missing/B/368898-barbie-super-model.json"
+    },
+    {
+      "igdb_id": 45169,
+      "game_name": "Barbie: The Princess and the Pauper",
+      "file": "missing/B/45169-barbie-the-princess-and-the-pauper.json"
     },
     {
       "igdb_id": 200596,
@@ -192487,6 +192557,11 @@
       "file": "missing/C/240203-crime-investigation-escape.json"
     },
     {
+      "igdb_id": 45101,
+      "game_name": "Crime Killer",
+      "file": "missing/C/45101-crime-killer.json"
+    },
+    {
       "igdb_id": 233489,
       "game_name": "Crime Kings",
       "file": "missing/C/233489-crime-kings.json"
@@ -197925,6 +198000,11 @@
       "igdb_id": 49253,
       "game_name": "CT Special Forces 3: BioTerror",
       "file": "missing/C/49253-ct-special-forces-3-bioterror.json"
+    },
+    {
+      "igdb_id": 45103,
+      "game_name": "CT Special Forces: Back to Hell",
+      "file": "missing/C/45103-ct-special-forces-back-to-hell.json"
     },
     {
       "igdb_id": 174088,
@@ -302512,6 +302592,11 @@
       "file": "missing/F/89845-fallout-4-gold-bundle.json"
     },
     {
+      "igdb_id": 45130,
+      "game_name": "Fallout 4: Pip-Boy Edition",
+      "file": "missing/F/45130-fallout-4-pip-boy-edition.json"
+    },
+    {
       "igdb_id": 293723,
       "game_name": "Fallout 4: Season Pass",
       "file": "missing/F/293723-fallout-4-season-pass.json"
@@ -302710,6 +302795,11 @@
       "igdb_id": 322274,
       "game_name": "Fallout: Empire Wastes",
       "file": "missing/F/322274-fallout-empire-wastes.json"
+    },
+    {
+      "igdb_id": 45129,
+      "game_name": "Fallout: New Vegas - Collector's Edition",
+      "file": "missing/F/45129-fallout-new-vegas-collectors-edition.json"
     },
     {
       "igdb_id": 45127,
@@ -387647,6 +387737,16 @@
       "file": "missing/H/75413-halo-5-guardians-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 45144,
+      "game_name": "Halo 5: Guardians - Limited Collector's Edition",
+      "file": "missing/H/45144-halo-5-guardians-limited-collectors-edition.json"
+    },
+    {
+      "igdb_id": 45145,
+      "game_name": "Halo 5: Guardians - Limited Edition",
+      "file": "missing/H/45145-halo-5-guardians-limited-edition.json"
+    },
+    {
       "igdb_id": 129018,
       "game_name": "Halo Beats!",
       "file": "missing/H/129018-halo-beats.json"
@@ -387820,6 +387920,11 @@
       "igdb_id": 176906,
       "game_name": "Halo: Reach - Noble Map Pack",
       "file": "missing/H/176906-halo-reach-noble-map-pack.json"
+    },
+    {
+      "igdb_id": 45146,
+      "game_name": "Halo: Reach Limited Edition",
+      "file": "missing/H/45146-halo-reach-limited-edition.json"
     },
     {
       "igdb_id": 72766,
@@ -477637,6 +477742,11 @@
       "file": "missing/K/81206-kingdom-hearts-hd-1-5-remix-limited-edition.json"
     },
     {
+      "igdb_id": 45159,
+      "game_name": "Kingdom Hearts HD 2.5 Remix: Limited Edition",
+      "file": "missing/K/45159-kingdom-hearts-hd-2-5-remix-limited-edition.json"
+    },
+    {
       "igdb_id": 44535,
       "game_name": "Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition",
       "file": "missing/K/44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json"
@@ -535642,6 +535752,11 @@
       "file": "missing/M/231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json"
     },
     {
+      "igdb_id": 45161,
+      "game_name": "Mario Kart 8: Limited Edition",
+      "file": "missing/M/45161-mario-kart-8-limited-edition.json"
+    },
+    {
       "igdb_id": 45160,
       "game_name": "Mario Kart Arcade GP",
       "file": "missing/M/45160-mario-kart-arcade-gp.json"
@@ -580627,6 +580742,16 @@
       "file": "missing/M/299167-mortal-kombat-ii.json"
     },
     {
+      "igdb_id": 45157,
+      "game_name": "Mortal Kombat II Special",
+      "file": "missing/M/45157-mortal-kombat-ii-special.json"
+    },
+    {
+      "igdb_id": 45152,
+      "game_name": "Mortal Kombat II Unlimited",
+      "file": "missing/M/45152-mortal-kombat-ii-unlimited.json"
+    },
+    {
       "igdb_id": 43251,
       "game_name": "Mortal Kombat Kollection",
       "file": "missing/M/43251-mortal-kombat-kollection.json"
@@ -580655,6 +580780,11 @@
       "igdb_id": 198829,
       "game_name": "Mortal Kombat Mythologies: Sub-Zero",
       "file": "missing/M/198829-mortal-kombat-mythologies-sub-zero.json"
+    },
+    {
+      "igdb_id": 45154,
+      "game_name": "Mortal Kombat Revelations",
+      "file": "missing/M/45154-mortal-kombat-revelations.json"
     },
     {
       "igdb_id": 199010,
@@ -580722,6 +580852,11 @@
       "file": "missing/M/340201-mortal-kombat-x-kold-war-scorpion.json"
     },
     {
+      "igdb_id": 45150,
+      "game_name": "Mortal Kombat X: Kollector's Edition",
+      "file": "missing/M/45150-mortal-kombat-x-kollectors-edition.json"
+    },
+    {
       "igdb_id": 164819,
       "game_name": "Mortal Kombat X: Predator",
       "file": "missing/M/164819-mortal-kombat-x-predator.json"
@@ -580765,6 +580900,11 @@
       "igdb_id": 1613,
       "game_name": "Mortal Kombat: Deception",
       "file": "missing/M/1613-mortal-kombat-deception.json"
+    },
+    {
+      "igdb_id": 45151,
+      "game_name": "Mortal Kombat: Deception - Kollector's Edition",
+      "file": "missing/M/45151-mortal-kombat-deception-kollectors-edition.json"
     },
     {
       "igdb_id": 253499,
@@ -582387,6 +582527,11 @@
       "file": "missing/M/795-motocross-madness-2.json"
     },
     {
+      "igdb_id": 45100,
+      "game_name": "Motocross Mania 2",
+      "file": "missing/M/45100-motocross-mania-2.json"
+    },
+    {
       "igdb_id": 73130,
       "game_name": "Motocross Maniacs",
       "file": "missing/M/73130-motocross-maniacs.json"
@@ -582735,6 +582880,11 @@
       "igdb_id": 43887,
       "game_name": "Motor Toon Grand Prix",
       "file": "missing/M/43887-motor-toon-grand-prix.json"
+    },
+    {
+      "igdb_id": 45109,
+      "game_name": "Motor Toon Grand Prix",
+      "file": "missing/M/45109-motor-toon-grand-prix.json"
     },
     {
       "igdb_id": 54230,
@@ -610712,6 +610862,21 @@
       "file": "missing/N/19559-nhl-all-star-hockey-95.json"
     },
     {
+      "igdb_id": 45121,
+      "game_name": "NHL All-Star Hockey '98",
+      "file": "missing/N/45121-nhl-all-star-hockey-98.json"
+    },
+    {
+      "igdb_id": 45125,
+      "game_name": "NHL Blades of Steel",
+      "file": "missing/N/45125-nhl-blades-of-steel.json"
+    },
+    {
+      "igdb_id": 45124,
+      "game_name": "NHL Blades of Steel 2000",
+      "file": "missing/N/45124-nhl-blades-of-steel-2000.json"
+    },
+    {
       "igdb_id": 74037,
       "game_name": "NHL Eastside Hockey Manager",
       "file": "missing/N/74037-nhl-eastside-hockey-manager.json"
@@ -610750,6 +610915,16 @@
       "igdb_id": 209404,
       "game_name": "NHL Open Ice",
       "file": "missing/N/209404-nhl-open-ice.json"
+    },
+    {
+      "igdb_id": 45122,
+      "game_name": "NHL Powerplay '96",
+      "file": "missing/N/45122-nhl-powerplay-96.json"
+    },
+    {
+      "igdb_id": 45126,
+      "game_name": "NHL Rivals 2004",
+      "file": "missing/N/45126-nhl-rivals-2004.json"
     },
     {
       "igdb_id": 44843,
@@ -649115,6 +649290,11 @@
       "igdb_id": 95381,
       "game_name": "Panzer Attack/Red Baron",
       "file": "missing/P/95381-panzer-attack-red-baron.json"
+    },
+    {
+      "igdb_id": 45108,
+      "game_name": "Panzer Bandit",
+      "file": "missing/P/45108-panzer-bandit.json"
     },
     {
       "igdb_id": 17997,
@@ -696025,6 +696205,11 @@
       "igdb_id": 66990,
       "game_name": "Pro Wrestling Kentei DS",
       "file": "missing/P/66990-pro-wrestling-kentei-ds.json"
+    },
+    {
+      "igdb_id": 45107,
+      "game_name": "Pro Wrestling Sengokuden: Hyper Tag Match",
+      "file": "missing/P/45107-pro-wrestling-sengokuden-hyper-tag-match.json"
     },
     {
       "igdb_id": 151459,
@@ -772350,6 +772535,11 @@
       "igdb_id": 224621,
       "game_name": "Secret Agent 001",
       "file": "missing/S/224621-secret-agent-001.json"
+    },
+    {
+      "igdb_id": 45170,
+      "game_name": "Secret Agent Barbie: Royal Jewels Mission",
+      "file": "missing/S/45170-secret-agent-barbie-royal-jewels-mission.json"
     },
     {
       "igdb_id": 58702,
@@ -917797,6 +917987,11 @@
       "file": "missing/T/31187-the-hunt-for-red-october.json"
     },
     {
+      "igdb_id": 45118,
+      "game_name": "The Hunt for Red October",
+      "file": "missing/T/45118-the-hunt-for-red-october.json"
+    },
+    {
       "igdb_id": 76577,
       "game_name": "The Hunt for Red October",
       "file": "missing/T/76577-the-hunt-for-red-october.json"
@@ -923777,6 +923972,11 @@
       "file": "missing/T/50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json"
     },
     {
+      "igdb_id": 45137,
+      "game_name": "The Legend of Zelda: Breath of the Wild - Master Edition",
+      "file": "missing/T/45137-the-legend-of-zelda-breath-of-the-wild-master-edition.json"
+    },
+    {
       "igdb_id": 338072,
       "game_name": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
       "file": "missing/T/338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json"
@@ -924117,6 +924317,11 @@
       "file": "missing/T/323793-the-legend-of-zelda-oracle-of-secrets.json"
     },
     {
+      "igdb_id": 45140,
+      "game_name": "The Legend of Zelda: Outlands",
+      "file": "missing/T/45140-the-legend-of-zelda-outlands.json"
+    },
+    {
       "igdb_id": 42523,
       "game_name": "The Legend of Zelda: Parallel Worlds",
       "file": "missing/T/42523-the-legend-of-zelda-parallel-worlds.json"
@@ -924195,6 +924400,11 @@
       "igdb_id": 163217,
       "game_name": "The Legend of Zelda: Shénqí de Màozi",
       "file": "missing/T/163217-the-legend-of-zelda-shenqi-de-maozi.json"
+    },
+    {
+      "igdb_id": 45136,
+      "game_name": "The Legend of Zelda: Skyward Sword - Collector's Edition",
+      "file": "missing/T/45136-the-legend-of-zelda-skyward-sword-collectors-edition.json"
     },
     {
       "igdb_id": 136162,
@@ -924287,6 +924497,16 @@
       "file": "missing/T/239007-the-legend-of-zelda-the-wind-waker-limited-edition.json"
     },
     {
+      "igdb_id": 45135,
+      "game_name": "The Legend of Zelda: The Wind Waker HD - Limited Edition",
+      "file": "missing/T/45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json"
+    },
+    {
+      "igdb_id": 45133,
+      "game_name": "The Legend of Zelda: The Wind Waker HD Bundle Limited Edition",
+      "file": "missing/T/45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json"
+    },
+    {
       "igdb_id": 332219,
       "game_name": "The Legend of Zelda: The Wind Waker HD Randomizer",
       "file": "missing/T/332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json"
@@ -924330,6 +924550,11 @@
       "igdb_id": 18017,
       "game_name": "The Legend of Zelda: Twilight Princess HD",
       "file": "missing/T/18017-the-legend-of-zelda-twilight-princess-hd.json"
+    },
+    {
+      "igdb_id": 45134,
+      "game_name": "The Legend of Zelda: Twilight Princess HD - Special Edition",
+      "file": "missing/T/45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json"
     },
     {
       "igdb_id": 241894,
@@ -937675,6 +937900,21 @@
       "igdb_id": 72891,
       "game_name": "The Sims: Bowling",
       "file": "missing/T/72891-the-sims-bowling.json"
+    },
+    {
+      "igdb_id": 45116,
+      "game_name": "The Sims: Complete Collection",
+      "file": "missing/T/45116-the-sims-complete-collection.json"
+    },
+    {
+      "igdb_id": 45115,
+      "game_name": "The Sims: Deluxe Edition",
+      "file": "missing/T/45115-the-sims-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 45112,
+      "game_name": "The Sims: Double Deluxe",
+      "file": "missing/T/45112-the-sims-double-deluxe.json"
     },
     {
       "igdb_id": 329954,
@@ -983157,6 +983397,11 @@
       "file": "missing/T/15533-transylvania-iii-vanquish-the-night.json"
     },
     {
+      "igdb_id": 45312,
+      "game_name": "Transylvanian Tower",
+      "file": "missing/T/45312-transylvanian-tower.json"
+    },
+    {
       "igdb_id": 45358,
       "game_name": "Tranz Am",
       "file": "missing/T/45358-tranz-am.json"
@@ -997740,6 +997985,11 @@
       "igdb_id": 286690,
       "game_name": "Ultimate Mortal Kombat 3",
       "file": "missing/U/286690-ultimate-mortal-kombat-3.json"
+    },
+    {
+      "igdb_id": 45153,
+      "game_name": "Ultimate Mortal Kombat Trilogy",
+      "file": "missing/U/45153-ultimate-mortal-kombat-trilogy.json"
     },
     {
       "igdb_id": 283221,
