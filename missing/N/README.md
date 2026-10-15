@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Hot Pursuit | 248208 | [248208-need-for-speed-hot-pursuit.json](./248208-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Hot Pursuit | 248209 | [248209-need-for-speed-hot-pursuit.json](./248209-need-for-speed-hot-pursuit.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
+| Need for Speed: Hot Pursuit - Remastered | 139346 | [139346-need-for-speed-hot-pursuit-remastered.json](./139346-need-for-speed-hot-pursuit-remastered.json) |
 | Need for Speed: Hot Pursuit - Super Bundle | 118857 | [118857-need-for-speed-hot-pursuit-super-bundle.json](./118857-need-for-speed-hot-pursuit-super-bundle.json) |
 | Need for speed: Mobile | 322164 | [322164-need-for-speed-mobile.json](./322164-need-for-speed-mobile.json) |
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
