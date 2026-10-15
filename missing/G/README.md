@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
+| Global Defense Network | 71961 | [71961-global-defense-network.json](./71961-global-defense-network.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Domination | 281325 | [281325-global-domination.json](./281325-global-domination.json) |
 | Global Effect | 13051 | [13051-global-effect.json](./13051-global-effect.json) |
