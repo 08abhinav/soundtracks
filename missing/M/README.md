@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
+| Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
@@ -3127,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
+| Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
 | Martian Secrets | 262862 | [262862-martian-secrets.json](./262862-martian-secrets.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
@@ -4889,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - King Edition | 313793 | [313793-medieval-fantasy-jigsaw-puzzle-king-edition.json](./313793-medieval-fantasy-jigsaw-puzzle-king-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Knight Edition | 313794 | [313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json](./313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json) |
 | Medieval Frontiers | 127709 | [127709-medieval-frontiers.json](./127709-medieval-frontiers.json) |
+| Medieval Games | 5001 | [5001-medieval-games.json](./5001-medieval-games.json) |
 | Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
 | Medieval HD | 249265 | [249265-medieval-hd.json](./249265-medieval-hd.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
@@ -8621,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
 | mini DDrink | 95634 | [95634-mini-ddrink.json](./95634-mini-ddrink.json) |
+| Mini Desktop Racing | 5007 | [5007-mini-desktop-racing.json](./5007-mini-desktop-racing.json) |
 | Mini Dogfight | 120217 | [120217-mini-dogfight.json](./120217-mini-dogfight.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
@@ -9663,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
+| MLB Superstars | 5011 | [5011-mlb-superstars.json](./5011-mlb-superstars.json) |
 | MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
@@ -9832,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Last Shooting | 69763 | [69763-mobile-suit-gundam-last-shooting.json](./69763-mobile-suit-gundam-last-shooting.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
 | Mobile Suit Gundam: Lost War Chronicles - The Best Version | 75695 | [75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json](./75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json) |
+| Mobile Suit Gundam: MS Sensen 0079 | 5012 | [5012-mobile-suit-gundam-ms-sensen-0079.json](./5012-mobile-suit-gundam-ms-sensen-0079.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
@@ -10157,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
+| Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
@@ -10807,6 +10814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
+| Monster Jam: Urban Assault | 5017 | [5017-monster-jam-urban-assault.json](./5017-monster-jam-urban-assault.json) |
 | Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
 | Monster Killer | 169728 | [169728-monster-killer.json](./169728-monster-killer.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
@@ -10991,6 +10999,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
+| Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
+| Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
@@ -14965,6 +14975,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
 | Myth II: Worlds | 210108 | [210108-myth-ii-worlds.json](./210108-myth-ii-worlds.json) |
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
+| Myth Makers Super Kart GP | 5043 | [5043-myth-makers-super-kart-gp.json](./5043-myth-makers-super-kart-gp.json) |
+| Myth Makers: Trixie in Toyland | 5044 | [5044-myth-makers-trixie-in-toyland.json](./5044-myth-makers-trixie-in-toyland.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
 | Myth of Ambition | 114139 | [114139-myth-of-ambition.json](./114139-myth-of-ambition.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
