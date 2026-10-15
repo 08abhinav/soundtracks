@@ -4988,7 +4988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
 | Destiny 2: Armory Collection | 243051 | [243051-destiny-2-armory-collection.json](./243051-destiny-2-armory-collection.json) |
-| Destiny 2: Beyond Light | 134830 | [134830-destiny-2-beyond-light.json](./134830-destiny-2-beyond-light.json) |
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Chosen | 144047 | [144047-destiny-2-beyond-light-season-of-the-chosen.json](./144047-destiny-2-beyond-light-season-of-the-chosen.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
