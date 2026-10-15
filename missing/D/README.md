@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
+| Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
 | Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
+| Downtown Texas Hold'em Poker | 67150 | [67150-downtown-texas-holdem-poker.json](./67150-downtown-texas-holdem-poker.json) |
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
@@ -9598,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
 | Dragon Age II: Warrior Item Pack | 368133 | [368133-dragon-age-ii-warrior-item-pack.json](./368133-dragon-age-ii-warrior-item-pack.json) |
 | Dragon Age II: Warrior Item Pack II | 368140 | [368140-dragon-age-ii-warrior-item-pack-ii.json](./368140-dragon-age-ii-warrior-item-pack-ii.json) |
+| Dragon Age Journeys | 67172 | [67172-dragon-age-journeys.json](./67172-dragon-age-journeys.json) |
 | Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Jaws of Hakkon | 19135 | [19135-dragon-age-inquisition-jaws-of-hakkon.json](./19135-dragon-age-inquisition-jaws-of-hakkon.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
@@ -12828,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
 | Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
 | Dynasty Warriors: Strikeforce | 6983 | [6983-dynasty-warriors-strikeforce.json](./6983-dynasty-warriors-strikeforce.json) |
+| Dynasty Warriors: Unleashed | 67194 | [67194-dynasty-warriors-unleashed.json](./67194-dynasty-warriors-unleashed.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
