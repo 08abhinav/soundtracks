@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean Cat | 245902 | [245902-ocean-cat.json](./245902-ocean-cat.json) |
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
+| Ocean City Racing | 10636 | [10636-ocean-city-racing.json](./10636-ocean-city-racing.json) |
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
 | Old Town Stories | 127008 | [127008-old-town-stories.json](./127008-old-town-stories.json) |
+| Old Village Simulator 1962 | 10638 | [10638-old-village-simulator-1962.json](./10638-old-village-simulator-1962.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World | 133674 | [133674-old-world.json](./133674-old-world.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
@@ -1190,6 +1192,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
+| Omerta: City of Gangsters - Damsel in Distress | 10639 | [10639-omerta-city-of-gangsters-damsel-in-distress.json](./10639-omerta-city-of-gangsters-damsel-in-distress.json) |
+| Omerta: City of Gangsters - The Arms Industry | 10640 | [10640-omerta-city-of-gangsters-the-arms-industry.json](./10640-omerta-city-of-gangsters-the-arms-industry.json) |
+| Omerta: City of Gangsters - The Con Artist | 10641 | [10641-omerta-city-of-gangsters-the-con-artist.json](./10641-omerta-city-of-gangsters-the-con-artist.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
 | Omerta: City of Gangsters Gold Edition | 51863 | [51863-omerta-city-of-gangsters-gold-edition.json](./51863-omerta-city-of-gangsters-gold-edition.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
