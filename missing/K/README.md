@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Keisatsu Patlabor: Dai-2-shoutai Shutsudou Seyo! | 41258 | [41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json](./41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json) |
 | Kidou Keisatsu Patlabor: Game Edition | 43814 | [43814-kidou-keisatsu-patlabor-game-edition.json](./43814-kidou-keisatsu-patlabor-game-edition.json) |
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
+| Kidou Senshi Gundam 00 | 47870 | [47870-kidou-senshi-gundam-00.json](./47870-kidou-senshi-gundam-00.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
