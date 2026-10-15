@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Valyria | 356036 | [356036-legacy-of-valyria.json](./356036-legacy-of-valyria.json) |
 | Legacy of YanHuang | 28755 | [28755-legacy-of-yanhuang.json](./28755-legacy-of-yanhuang.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
+| Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
@@ -3621,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Puzzle de Inazuma Eleven | 61499 | [61499-line-puzzle-de-inazuma-eleven.json](./61499-line-puzzle-de-inazuma-eleven.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
+| Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Lint | 55972 | [55972-lint.json](./55972-lint.json) |
+| Lintrix | 58151 | [58151-lintrix.json](./58151-lintrix.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linum | 337830 | [337830-linum.json](./337830-linum.json) |
 | Linus Spacehead's Cosmic Crusade | 48185 | [48185-linus-spaceheads-cosmic-crusade.json](./48185-linus-spaceheads-cosmic-crusade.json) |
@@ -4222,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Venture | 299586 | [299586-little-venture.json](./299586-little-venture.json) |
 | Little Viking | 197745 | [197745-little-viking.json](./197745-little-viking.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
+| Little War Online | 58713 | [58713-little-war-online.json](./58713-little-war-online.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little Warriors Team | 319284 | [319284-little-warriors-team.json](./319284-little-warriors-team.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
@@ -4502,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobi y la Caza del Tesoro | 323770 | [323770-lobi-y-la-caza-del-tesoro.json](./323770-lobi-y-la-caza-del-tesoro.json) |
 | Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
+| Lobo with Shotguns | 58585 | [58585-lobo-with-shotguns.json](./58585-lobo-with-shotguns.json) |
 | Lobos: Definitive Edition | 398654 | [398654-lobos-definitive-edition.json](./398654-lobos-definitive-edition.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotomy Corporation Wonder Lab Mod | 232909 | [232909-lobotomy-corporation-wonder-lab-mod.json](./232909-lobotomy-corporation-wonder-lab-mod.json) |
@@ -6536,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
+| Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
