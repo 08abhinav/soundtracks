@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
 | Baby Felix Halloween | 50033 | [50033-baby-felix-halloween.json](./50033-baby-felix-halloween.json) |
+| Baby Felix Tennis | 45102 | [45102-baby-felix-tennis.json](./45102-baby-felix-tennis.json) |
 | Baby Felix's Activity Center | 200377 | [200377-baby-felixs-activity-center.json](./200377-baby-felixs-activity-center.json) |
 | Baby Felix's Shuffle Puck | 200375 | [200375-baby-felixs-shuffle-puck.json](./200375-baby-felixs-shuffle-puck.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
@@ -1602,9 +1603,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
 | Barbie | 3307 | [3307-barbie.json](./3307-barbie.json) |
+| Barbie Adventure: Riding Club | 45164 | [45164-barbie-adventure-riding-club.json](./45164-barbie-adventure-riding-club.json) |
 | Barbie and Her Magical House | 142980 | [142980-barbie-and-her-magical-house.json](./142980-barbie-and-her-magical-house.json) |
 | Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
+| Barbie and the Magic of Pegasus | 45172 | [45172-barbie-and-the-magic-of-pegasus.json](./45172-barbie-and-the-magic-of-pegasus.json) |
+| Barbie and the Three Musketeers | 45176 | [45176-barbie-and-the-three-musketeers.json](./45176-barbie-and-the-three-musketeers.json) |
 | Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
 | Barbie as Rapunzel | 200599 | [200599-barbie-as-rapunzel.json](./200599-barbie-as-rapunzel.json) |
 | Barbie as Rapunzel | 293190 | [293190-barbie-as-rapunzel.json](./293190-barbie-as-rapunzel.json) |
@@ -1632,10 +1636,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
 | Barbie Horse Adventures: Blue Ribbon Race | 3310 | [3310-barbie-horse-adventures-blue-ribbon-race.json](./3310-barbie-horse-adventures-blue-ribbon-race.json) |
 | Barbie Horse Adventures: Mystery Ride | 125306 | [125306-barbie-horse-adventures-mystery-ride.json](./125306-barbie-horse-adventures-mystery-ride.json) |
+| Barbie Horse Adventures: Riding Camp | 45175 | [45175-barbie-horse-adventures-riding-camp.json](./45175-barbie-horse-adventures-riding-camp.json) |
 | Barbie Horse Adventures: Riding Camp | 78527 | [78527-barbie-horse-adventures-riding-camp.json](./78527-barbie-horse-adventures-riding-camp.json) |
 | Barbie Horse Adventures: Wild Horse Rescue | 3311 | [3311-barbie-horse-adventures-wild-horse-rescue.json](./3311-barbie-horse-adventures-wild-horse-rescue.json) |
 | Barbie in the 12 Dancing Princesses | 200591 | [200591-barbie-in-the-12-dancing-princesses.json](./200591-barbie-in-the-12-dancing-princesses.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
+| Barbie in the 12 Dancing Princesses | 45173 | [45173-barbie-in-the-12-dancing-princesses.json](./45173-barbie-in-the-12-dancing-princesses.json) |
 | Barbie Jewelry Designer | 200597 | [200597-barbie-jewelry-designer.json](./200597-barbie-jewelry-designer.json) |
 | Barbie Magic Genie Bottle | 200602 | [200602-barbie-magic-genie-bottle.json](./200602-barbie-magic-genie-bottle.json) |
 | Barbie Mermaid Adventure | 200593 | [200593-barbie-mermaid-adventure.json](./200593-barbie-mermaid-adventure.json) |
@@ -1654,6 +1660,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Dreamtopia - Magical Hair | 261704 | [261704-barbie-dreamtopia-magical-hair.json](./261704-barbie-dreamtopia-magical-hair.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
+| Barbie: Fashion Designer | 45166 | [45166-barbie-fashion-designer.json](./45166-barbie-fashion-designer.json) |
+| Barbie: Fashion Pack Games | 45168 | [45168-barbie-fashion-pack-games.json](./45168-barbie-fashion-pack-games.json) |
 | Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
 | Barbie: Game Girl | 45174 | [45174-barbie-game-girl.json](./45174-barbie-game-girl.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
@@ -1661,6 +1669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
+| Barbie: Magic Genie Adventure | 45167 | [45167-barbie-magic-genie-adventure.json](./45167-barbie-magic-genie-adventure.json) |
+| Barbie: Magic Hair Styler | 45165 | [45165-barbie-magic-hair-styler.json](./45165-barbie-magic-hair-styler.json) |
 | Barbie: Malibu Mysteries | 228546 | [228546-barbie-malibu-mysteries.json](./228546-barbie-malibu-mysteries.json) |
 | Barbie: Ocean Discovery | 200588 | [200588-barbie-ocean-discovery.json](./200588-barbie-ocean-discovery.json) |
 | Barbie: Pet Dance | 293189 | [293189-barbie-pet-dance.json](./293189-barbie-pet-dance.json) |
@@ -1669,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie: Sparkling Ice Show | 57592 | [57592-barbie-sparkling-ice-show.json](./57592-barbie-sparkling-ice-show.json) |
 | Barbie: Super Model | 368898 | [368898-barbie-super-model.json](./368898-barbie-super-model.json) |
+| Barbie: The Princess and the Pauper | 45169 | [45169-barbie-the-princess-and-the-pauper.json](./45169-barbie-the-princess-and-the-pauper.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
 | Barbie: Vacation Adventure | 3318 | [3318-barbie-vacation-adventure.json](./3318-barbie-vacation-adventure.json) |
 | Barbie's Game Room | 293188 | [293188-barbies-game-room.json](./293188-barbies-game-room.json) |
