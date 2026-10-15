@@ -6660,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
+| Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
@@ -9579,6 +9580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
+| SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
+| SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
 | Smaller | 122053 | [122053-smaller.json](./122053-smaller.json) |
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
@@ -14816,6 +14819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
+| Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
@@ -20245,6 +20249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp | 347837 | [347837-summer-camp.json](./347837-summer-camp.json) |
 | Summer Camp | 47189 | [47189-summer-camp.json](./47189-summer-camp.json) |
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
+| Summer Carnival '92 Alzadick | 56374 | [56374-summer-carnival-92-alzadick.json](./56374-summer-carnival-92-alzadick.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
