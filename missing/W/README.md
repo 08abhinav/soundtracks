@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: Follow the Light | 314421 | [314421-will-follow-the-light.json](./314421-will-follow-the-light.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
+| Will: The Death Trap II | 62606 | [62606-will-the-death-trap-ii.json](./62606-will-the-death-trap-ii.json) |
 | Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
@@ -4881,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
+| WonderKing 2 | 62636 | [62636-wonderking-2.json](./62636-wonderking-2.json) |
 | Wonderland | 354010 | [354010-wonderland.json](./354010-wonderland.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
