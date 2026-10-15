@@ -6514,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SmackDown vs. Raw Online | 128895 | [128895-wwe-smackdown-vs-raw-online.json](./128895-wwe-smackdown-vs-raw-online.json) |
 | WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
+| WWE SmackDown! vs. Raw 2006 | 18323 | [18323-wwe-smackdown-vs-raw-2006.json](./18323-wwe-smackdown-vs-raw-2006.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
