@@ -8163,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
+| Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
 | Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
 | Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
@@ -13053,6 +13054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
+| Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
