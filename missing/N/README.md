@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
+| Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
 | Necrofall | 401814 | [401814-necrofall.json](./401814-necrofall.json) |
 | Necrofane | 347211 | [347211-necrofane.json](./347211-necrofane.json) |
@@ -2542,7 +2543,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL 2010 | 21847 | [21847-nfl-2010.json](./21847-nfl-2010.json) |
+| NFL 2K | 8842 | [8842-nfl-2k.json](./8842-nfl-2k.json) |
 | NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
+| NFL 2K2 | 8845 | [8845-nfl-2k2.json](./8845-nfl-2k2.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz | 812 | [812-nfl-blitz.json](./812-nfl-blitz.json) |
@@ -2649,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
 | NHL 2K | 128897 | [128897-nhl-2k.json](./128897-nhl-2k.json) |
+| NHL 2K | 8839 | [8839-nhl-2k.json](./8839-nhl-2k.json) |
 | NHL 2K10 | 287014 | [287014-nhl-2k10.json](./287014-nhl-2k10.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
@@ -3947,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
+| No Heroes Allowed: No Puzzles Either! | 8663 | [8663-no-heroes-allowed-no-puzzles-either.json](./8663-no-heroes-allowed-no-puzzles-either.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Heroes Allowed! | 67381 | [67381-no-heroes-allowed.json](./67381-no-heroes-allowed.json) |
 | No Heroes Allowed! VR | 36870 | [36870-no-heroes-allowed-vr.json](./36870-no-heroes-allowed-vr.json) |
@@ -4801,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
+| Not Tetris 2 | 8727 | [8727-not-tetris-2.json](./8727-not-tetris-2.json) |
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
