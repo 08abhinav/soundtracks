@@ -3772,7 +3772,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Crown | 328950 | [328950-defender-of-the-crown.json](./328950-defender-of-the-crown.json) |
 | Defender of the Crown | 335821 | [335821-defender-of-the-crown.json](./335821-defender-of-the-crown.json) |
+| Defender of the Crown II | 8677 | [8677-defender-of-the-crown-ii.json](./8677-defender-of-the-crown-ii.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
+| Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -4194,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
+| Democracy 3: Clones and Drones | 8766 | [8766-democracy-3-clones-and-drones.json](./8766-democracy-3-clones-and-drones.json) |
 | Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
@@ -6278,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimwood | 338682 | [338682-dimwood.json](./338682-dimwood.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
+| Din's Curse: Demon War | 8821 | [8821-dins-curse-demon-war.json](./8821-dins-curse-demon-war.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
 | DinD | 303477 | [303477-dind.json](./303477-dind.json) |
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
@@ -11516,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drownlight | 338324 | [338324-drownlight.json](./338324-drownlight.json) |
 | Drownload | 376036 | [376036-drownload.json](./376036-drownload.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
+| Drox Operative: Invasion of the Ancients | 8754 | [8754-drox-operative-invasion-of-the-ancients.json](./8754-drox-operative-invasion-of-the-ancients.json) |
 | Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
