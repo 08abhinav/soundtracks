@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
 | Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
+| Legend of the Ancient Sword | 55818 | [55818-legend-of-the-ancient-sword.json](./55818-legend-of-the-ancient-sword.json) |
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Ape | 165776 | [165776-legend-of-the-ape.json](./165776-legend-of-the-ape.json) |
 | Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
