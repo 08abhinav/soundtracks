@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
+| Warlock's Mountain | 71999 | [71999-warlocks-mountain.json](./71999-warlocks-mountain.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 336577 | [336577-warlocked.json](./336577-warlocked.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTactics | 164605 | [164605-wordtactics.json](./164605-wordtactics.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
+| WordUp | 71975 | [71975-wordup.json](./71975-wordup.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
 | WordWhile | 101413 | [101413-wordwhile.json](./101413-wordwhile.json) |
@@ -5451,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
+| World Hockey '95 | 71973 | [71973-world-hockey-95.json](./71973-world-hockey-95.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
 | World II World | 218096 | [218096-world-ii-world.json](./218096-world-ii-world.json) |
 | World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
