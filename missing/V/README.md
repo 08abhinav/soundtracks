@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus Rush | 149403 | [149403-virus-rush.json](./149403-virus-rush.json) |
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
+| Virus: It is Aware | 43794 | [43794-virus-it-is-aware.json](./43794-virus-it-is-aware.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Game | 47119 | [47119-virus-the-game.json](./47119-virus-the-game.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
