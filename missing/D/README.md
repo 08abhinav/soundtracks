@@ -12356,6 +12356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Overseer | 163017 | [163017-dungeon-overseer.json](./163017-dungeon-overseer.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
+| Dungeon Party | 15317 | [15317-dungeon-party.json](./15317-dungeon-party.json) |
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
