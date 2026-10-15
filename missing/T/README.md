@@ -10114,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
+| The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
@@ -21434,6 +21435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
+| Trivial Pursuit: Bet You Know It | 51114 | [51114-trivial-pursuit-bet-you-know-it.json](./51114-trivial-pursuit-bet-you-know-it.json) |
 | Trivial Pursuit: Bring on the 90's Edition | 206661 | [206661-trivial-pursuit-bring-on-the-90s-edition.json](./206661-trivial-pursuit-bring-on-the-90s-edition.json) |
 | Trivial Pursuit: Genus Edition | 46106 | [46106-trivial-pursuit-genus-edition.json](./46106-trivial-pursuit-genus-edition.json) |
 | Trivial Pursuit: Millennium Edition | 76472 | [76472-trivial-pursuit-millennium-edition.json](./76472-trivial-pursuit-millennium-edition.json) |
