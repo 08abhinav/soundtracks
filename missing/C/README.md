@@ -8231,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comanche CD | 94326 | [94326-comanche-cd.json](./94326-comanche-cd.json) |
 | Comanche: Maximum Overkill | 7494 | [7494-comanche-maximum-overkill.json](./7494-comanche-maximum-overkill.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
+| Comanche: Maximum Overkill - Over the Edge | 70320 | [70320-comanche-maximum-overkill-over-the-edge.json](./70320-comanche-maximum-overkill-over-the-edge.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comanomaly | 382375 | [382375-comanomaly.json](./382375-comanomaly.json) |
@@ -8261,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
+| Combat II Advanced | 70301 | [70301-combat-ii-advanced.json](./70301-combat-ii-advanced.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
 | Combat Instinct | 74232 | [74232-combat-instinct.json](./74232-combat-instinct.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
