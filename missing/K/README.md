@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
+| Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
 | Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Koihime Musou: A Heart throbbing, Maidenly Romance of the Three Kingdoms | 23437 | [23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json](./23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json) |
 | Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
