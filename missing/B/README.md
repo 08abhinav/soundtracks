@@ -3017,6 +3017,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
 | Battles of Destiny | 19704 | [19704-battles-of-destiny.json](./19704-battles-of-destiny.json) |
+| Battles of Kursk: Southern Flank | 59312 | [59312-battles-of-kursk-southern-flank.json](./59312-battles-of-kursk-southern-flank.json) |
+| Battles of Normandy | 59319 | [59319-battles-of-normandy.json](./59319-battles-of-normandy.json) |
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
@@ -11489,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Girls 2 | 59333 | [59333-bullet-girls-2.json](./59333-bullet-girls-2.json) |
 | Bullet Girls Phantasia | 57021 | [57021-bullet-girls-phantasia.json](./57021-bullet-girls-phantasia.json) |
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
