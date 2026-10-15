@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
+| 1994 (Ten Years After) | 70295 | [70295-1994-ten-years-after.json](./70295-1994-ten-years-after.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
