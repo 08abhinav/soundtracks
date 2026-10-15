@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji TD | 368671 | [368671-emoji-td.json](./368671-emoji-td.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
+| Emojikara: A Clever Emoji Match Game | 58681 | [58681-emojikara-a-clever-emoji-match-game.json](./58681-emojikara-a-clever-emoji-match-game.json) |
 | Emolga and the Mail Trials | 340959 | [340959-emolga-and-the-mail-trials.json](./340959-emolga-and-the-mail-trials.json) |
 | Emono | 222981 | [222981-emono.json](./222981-emono.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
