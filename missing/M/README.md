@@ -12879,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
+| Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
