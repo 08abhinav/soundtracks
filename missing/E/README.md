@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
+| Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
 | Epidemyc | 190944 | [190944-epidemyc.json](./190944-epidemyc.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
+| Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
