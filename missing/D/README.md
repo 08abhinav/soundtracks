@@ -4073,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
+| Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
