@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
+| Indy 500 | 39460 | [39460-indy-500.json](./39460-indy-500.json) |
 | Indy 800 | 18210 | [18210-indy-800.json](./18210-indy-800.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insectomania | 362737 | [362737-insectomania.json](./362737-insectomania.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
+| Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
