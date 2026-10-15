@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
+| Global Adventures | 43119 | [43119-global-adventures.json](./43119-global-adventures.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
