@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
+| VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape From Jurassic Island | 372072 | [372072-vr-escape-from-jurassic-island.json](./372072-vr-escape-from-jurassic-island.json) |
 | VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
