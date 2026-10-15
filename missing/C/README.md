@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
 | Catopia: Rush | 152070 | [152070-catopia-rush.json](./152070-catopia-rush.json) |
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
+| Catorize | 34043 | [34043-catorize.json](./34043-catorize.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catroom Drama: Case 1 | 183933 | [183933-catroom-drama-case-1.json](./183933-catroom-drama-case-1.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| Celestrion | 33956 | [33956-celestrion.json](./33956-celestrion.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of a Dark Lord: Episode 2 War of the Abyss | 7856 | [7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json](./7856-chronicles-of-a-dark-lord-episode-2-war-of-the-abyss.json) |
 | Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
 | Chronicles of a Dark Lord: Genesis | 52739 | [52739-chronicles-of-a-dark-lord-genesis.json](./52739-chronicles-of-a-dark-lord-genesis.json) |
+| Chronicles of a Dark Lord: Rhapsody Clash | 34035 | [34035-chronicles-of-a-dark-lord-rhapsody-clash.json](./34035-chronicles-of-a-dark-lord-rhapsody-clash.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
@@ -7951,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Catch | 24817 | [24817-color-catch.json](./24817-color-catch.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Chains | 227905 | [227905-color-chains.json](./227905-color-chains.json) |
+| Color Chaos | 33943 | [33943-color-chaos.json](./33943-color-chaos.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
@@ -9359,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Search | 303173 | [303173-containment-search.json](./303173-containment-search.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
+| Contasion 2 | 33891 | [33891-contasion-2.json](./33891-contasion-2.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Contenir | 419101 | [419101-contenir.json](./419101-contenir.json) |
@@ -12259,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
+| Crudelis | 33952 | [33952-crudelis.json](./33952-crudelis.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
 | Cruel Arena | 34967 | [34967-cruel-arena.json](./34967-cruel-arena.json) |
 | Cruel Collections: The Any Wish Hotel | 417719 | [417719-cruel-collections-the-any-wish-hotel.json](./417719-cruel-collections-the-any-wish-hotel.json) |
