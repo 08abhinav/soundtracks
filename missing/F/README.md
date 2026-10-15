@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fábulas Porteñas | 316123 | [316123-fabulas-portenas.json](./316123-fabulas-portenas.json) |
 | Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
+| Fabulous Beasts | 58709 | [58709-fabulous-beasts.json](./58709-fabulous-beasts.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Brave Saga | 144095 | [144095-fairy-tail-brave-saga.json](./144095-fairy-tail-brave-saga.json) |
 | Fairy Tail: DiceMagic | 144096 | [144096-fairy-tail-dicemagic.json](./144096-fairy-tail-dicemagic.json) |
 | Fairy Tail: Digital Deluxe Edition | 221782 | [221782-fairy-tail-digital-deluxe-edition.json](./221782-fairy-tail-digital-deluxe-edition.json) |
+| Fairy Tail: Dragon Slayers | 58582 | [58582-fairy-tail-dragon-slayers.json](./58582-fairy-tail-dragon-slayers.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
@@ -3141,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Aircraft Race | 279568 | [279568-fighter-aircraft-race.json](./279568-fighter-aircraft-race.json) |
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
+| Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Block | 156218 | [156218-fighting-block.json](./156218-fighting-block.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
+| Fighting Bujutsu | 58733 | [58733-fighting-bujutsu.json](./58733-fighting-bujutsu.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
 | Fighting cop | 265346 | [265346-fighting-cop.json](./265346-fighting-cop.json) |
 | Fighting Edition | 54913 | [54913-fighting-edition.json](./54913-fighting-edition.json) |
@@ -3180,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics: Caverns of the Snow Witch | 170851 | [170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json](./170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json) |
 | Fighting Fantasy Classics: The Port of Peril | 353813 | [353813-fighting-fantasy-classics-the-port-of-peril.json](./353813-fighting-fantasy-classics-the-port-of-peril.json) |
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
+| Fighting Fantasy: Armies of Death | 58711 | [58711-fighting-fantasy-armies-of-death.json](./58711-fighting-fantasy-armies-of-death.json) |
 | Fighting Fantasy: Blood of the Zombies | 63680 | [63680-fighting-fantasy-blood-of-the-zombies.json](./63680-fighting-fantasy-blood-of-the-zombies.json) |
 | Fighting Fantasy: House of Hell | 63678 | [63678-fighting-fantasy-house-of-hell.json](./63678-fighting-fantasy-house-of-hell.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
@@ -5033,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Fright | 245195 | [245195-flash-fright.json](./245195-flash-fright.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
+| Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
 | Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
@@ -5954,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
+| FNaF World: Halloween Edition | 58707 | [58707-fnaf-world-halloween-edition.json](./58707-fnaf-world-halloween-edition.json) |
 | FNaF World: Outplay | 265063 | [265063-fnaf-world-outplay.json](./265063-fnaf-world-outplay.json) |
 | FNAF: Final Purgatory | 184290 | [184290-fnaf-final-purgatory.json](./184290-fnaf-final-purgatory.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
@@ -7859,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
+| Freedom: Diegesis | 58685 | [58685-freedom-diegesis.json](./58685-freedom-diegesis.json) |
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
@@ -8371,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
 | From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
