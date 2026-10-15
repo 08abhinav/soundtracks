@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
+| Tekken Bowl | 63782 | [63782-tekken-bowl.json](./63782-tekken-bowl.json) |
 | Tekken Card Challenge | 1248 | [1248-tekken-card-challenge.json](./1248-tekken-card-challenge.json) |
 | Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Butterfly Sign: Human Error | 30543 | [30543-the-butterfly-sign-human-error.json](./30543-the-butterfly-sign-human-error.json) |
 | The Button | 181743 | [181743-the-button.json](./181743-the-button.json) |
+| The Button Affair | 63765 | [63765-the-button-affair.json](./63765-the-button-affair.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Daylight | 225589 | [225589-the-button-be-daylight.json](./225589-the-button-be-daylight.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
@@ -5580,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
+| The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
@@ -10443,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
 | The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
+| The Reaper | 63755 | [63755-the-reaper.json](./63755-the-reaper.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Cavemen Painted on Walls | 179571 | [179571-the-reason-why-cavemen-painted-on-walls.json](./179571-the-reason-why-cavemen-painted-on-walls.json) |
@@ -12864,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
+| The White Birch | 63761 | [63761-the-white-birch.json](./63761-the-white-birch.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
 | The White Chamber | 79408 | [79408-the-white-chamber.json](./79408-the-white-chamber.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
@@ -13381,6 +13386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
+| Thermo Nuclear War Games | 63749 | [63749-thermo-nuclear-war-games.json](./63749-thermo-nuclear-war-games.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
 | Thermonuclear | 167363 | [167363-thermonuclear.json](./167363-thermonuclear.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
