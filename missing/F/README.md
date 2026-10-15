@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
+| F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter Ace | 209427 | [209427-fighter-ace.json](./209427-fighter-ace.json) |
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
+| Fighter Ace II | 64304 | [64304-fighter-ace-ii.json](./64304-fighter-ace-ii.json) |
 | Fighter Aces: Sky Dominance | 328531 | [328531-fighter-aces-sky-dominance.json](./328531-fighter-aces-sky-dominance.json) |
 | Fighter Aircraft Race | 279568 | [279568-fighter-aircraft-race.json](./279568-fighter-aircraft-race.json) |
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
@@ -5830,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
 | Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
+| Flying Body Parts | 64328 | [64328-flying-body-parts.json](./64328-flying-body-parts.json) |
 | Flying Bunny | 99519 | [99519-flying-bunny.json](./99519-flying-bunny.json) |
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
