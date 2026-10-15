@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | PiraCrash! | 132517 | [132517-piracrash.json](./132517-piracrash.json) |
+| Piracy | 41199 | [41199-piracy.json](./41199-piracy.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
@@ -10276,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Golf | 95358 | [95358-pro-golf.json](./95358-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
 | Pro Golfer Saru | 268386 | [268386-pro-golfer-saru.json](./268386-pro-golfer-saru.json) |
+| Pro Golfer Saru: Kage no Tournament | 41243 | [41243-pro-golfer-saru-kage-no-tournament.json](./41243-pro-golfer-saru-kage-no-tournament.json) |
 | Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
