@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! Battle Arena 2: Spirit Burst | 65216 | [65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json](./65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json) |
 | Katekyou Hitman Reborn! Dream Hyper Battle Wii | 78339 | [78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json](./78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json) |
 | Katekyou Hitman Reborn! DS: Fate of Heat | 123338 | [123338-katekyou-hitman-reborn-ds-fate-of-heat.json](./123338-katekyou-hitman-reborn-ds-fate-of-heat.json) |
+| Katekyou Hitman Reborn! DS: Fate of Heat II - Unmei no Futari | 69144 | [69144-katekyou-hitman-reborn-ds-fate-of-heat-ii-unmei-no-futari.json](./69144-katekyou-hitman-reborn-ds-fate-of-heat-ii-unmei-no-futari.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
