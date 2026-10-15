@@ -15674,6 +15674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqiek | 78903 | [78903-sqiek.json](./78903-sqiek.json) |
 | Sqij | 315197 | [315197-sqij.json](./315197-sqij.json) |
 | Sqij Arcade | 315198 | [315198-sqij-arcade.json](./315198-sqij-arcade.json) |
+| Sqij! | 53159 | [53159-sqij.json](./53159-sqij.json) |
 | Sqij'd | 315196 | [315196-sqijd.json](./315196-sqijd.json) |
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
