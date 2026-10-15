@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
+| Pallurikio | 67222 | [67222-pallurikio.json](./67222-pallurikio.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy the Penguin Saves Christmas | 78548 | [78548-percy-the-penguin-saves-christmas.json](./78548-percy-the-penguin-saves-christmas.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
+| Percy's Predicament Deluxe | 67192 | [67192-percys-predicament-deluxe.json](./67192-percys-predicament-deluxe.json) |
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
 | Perdition's Flames | 290349 | [290349-perditions-flames.json](./290349-perditions-flames.json) |
@@ -3545,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Sonic Collab - Suits/C-Space Pack | 252612 | [252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json](./252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json) |
 | Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
+| Phantasy Star Online 2: Cloud | 67201 | [67201-phantasy-star-online-2-cloud.json](./67201-phantasy-star-online-2-cloud.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package | 136922 | [136922-phantasy-star-online-2-episode-6-deluxe-package.json](./136922-phantasy-star-online-2-episode-6-deluxe-package.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package Limited Edition | 136795 | [136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json](./136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
@@ -6620,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
+| Play with the Teletubbies | 67183 | [67183-play-with-the-teletubbies.json](./67183-play-with-the-teletubbies.json) |
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
