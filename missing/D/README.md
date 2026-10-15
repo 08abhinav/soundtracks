@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
 | Deer Avenger 4: The Rednecks Strike Back | 69770 | [69770-deer-avenger-4-the-rednecks-strike-back.json](./69770-deer-avenger-4-the-rednecks-strike-back.json) |
+| Deer Captor | 51120 | [51120-deer-captor.json](./51120-deer-captor.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
 | Diastone: Memories | 112828 | [112828-diastone-memories.json](./112828-diastone-memories.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
+| Diatomic | 51119 | [51119-diatomic.json](./51119-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
@@ -9960,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
+| Dragon Master Spell Caster | 51118 | [51118-dragon-master-spell-caster.json](./51118-dragon-master-spell-caster.json) |
 | Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
@@ -11077,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
+| DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
 | Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
@@ -11091,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
+| Drill Sergeant Mindstrong | 51116 | [51116-drill-sergeant-mindstrong.json](./51116-drill-sergeant-mindstrong.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
