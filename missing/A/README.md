@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I.R. Play | 79762 | [79762-a-i-r-play.json](./79762-a-i-r-play.json) |
 | A.I.T.W | 213431 | [213431-a-i-t-w.json](./213431-a-i-t-w.json) |
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
+| A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
