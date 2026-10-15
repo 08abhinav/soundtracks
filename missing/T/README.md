@@ -4236,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backstreets | 304289 | [304289-the-backstreets.json](./304289-the-backstreets.json) |
 | The Backworlds | 298106 | [298106-the-backworlds.json](./298106-the-backworlds.json) |
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
+| The Backyardigans | 47879 | [47879-the-backyardigans.json](./47879-the-backyardigans.json) |
 | The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
 | The Backyardigans: Viking Voyage | 72998 | [72998-the-backyardigans-viking-voyage.json](./72998-the-backyardigans-viking-voyage.json) |
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
@@ -7130,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild 2: Venice | 9324 | [9324-the-guild-2-venice.json](./9324-the-guild-2-venice.json) |
+| The Guild DS | 47880 | [47880-the-guild-ds.json](./47880-the-guild-ds.json) |
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
@@ -11593,11 +11595,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
 | The Sorcerer of Claymorgue Castle | 18526 | [18526-the-sorcerer-of-claymorgue-castle.json](./18526-the-sorcerer-of-claymorgue-castle.json) |
+| The Sorcerer's Apprentice | 47868 | [47868-the-sorcerers-apprentice.json](./47868-the-sorcerers-apprentice.json) |
 | The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
+| The Soukou Kihei Gun Ground | 47837 | [47837-the-soukou-kihei-gun-ground.json](./47837-the-soukou-kihei-gun-ground.json) |
 | The Soul Box | 190135 | [190135-the-soul-box.json](./190135-the-soul-box.json) |
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
@@ -16870,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side: 1st Love | 124096 | [124096-tokimeki-memorial-girls-side-1st-love.json](./124096-tokimeki-memorial-girls-side-1st-love.json) |
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
 | Tokimeki Memorial Girl's Side: 2nd Season | 124098 | [124098-tokimeki-memorial-girls-side-2nd-season.json](./124098-tokimeki-memorial-girls-side-2nd-season.json) |
+| Tokimeki Memorial Girl's Side: 3rd Story | 47863 | [47863-tokimeki-memorial-girls-side-3rd-story.json](./47863-tokimeki-memorial-girls-side-3rd-story.json) |
 | Tokimeki Memorial: Forever With You | 50129 | [50129-tokimeki-memorial-forever-with-you.json](./50129-tokimeki-memorial-forever-with-you.json) |
 | Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
@@ -17590,6 +17595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
+| Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
