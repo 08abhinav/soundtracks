@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face au train | 90835 | [90835-face-au-train.json](./90835-face-au-train.json) |
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
+| Face Kart: Photo Finish | 65984 | [65984-face-kart-photo-finish.json](./65984-face-kart-photo-finish.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
 | Face of Fear: The Forester | 373320 | [373320-face-of-fear-the-forester.json](./373320-face-of-fear-the-forester.json) |
