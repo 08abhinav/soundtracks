@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
+| RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
@@ -5959,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
 | Robomancer_000 | 184809 | [184809-robomancer-000.json](./184809-robomancer-000.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
+| RoboMaze II: The Lobby | 70282 | [70282-robomaze-ii-the-lobby.json](./70282-robomaze-ii-the-lobby.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
