@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
+| Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
 | Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
@@ -2003,9 +2004,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
 | Cartoon Network Racing | 289039 | [289039-cartoon-network-racing.json](./289039-cartoon-network-racing.json) |
+| Cartoon Network Speedway | 2810 | [2810-cartoon-network-speedway.json](./2810-cartoon-network-speedway.json) |
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
+| Cartoon Network: Block Party | 2809 | [2809-cartoon-network-block-party.json](./2809-cartoon-network-block-party.json) |
+| Cartoon Network: Punch Time Explosion | 2798 | [2798-cartoon-network-punch-time-explosion.json](./2798-cartoon-network-punch-time-explosion.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
@@ -9219,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of Mars | 40728 | [40728-conquest-of-mars.json](./40728-conquest-of-mars.json) |
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
+| Conquest of the New World: Deluxe Edition | 2616 | [2616-conquest-of-the-new-world-deluxe-edition.json](./2616-conquest-of-the-new-world-deluxe-edition.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
@@ -10409,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
+| Counter Action | 2612 | [2612-counter-action.json](./2612-counter-action.json) |
 | Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
