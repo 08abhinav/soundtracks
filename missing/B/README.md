@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Character Sleep Set 1 | 325493 | [325493-battle-spirits-character-sleep-set-1.json](./325493-battle-spirits-character-sleep-set-1.json) |
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
+| Battle Splash | 55826 | [55826-battle-splash.json](./55826-battle-splash.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
 | Battle Squares | 54739 | [54739-battle-squares.json](./54739-battle-squares.json) |
 | Battle Stadium D.O.N | 50575 | [50575-battle-stadium-d-o-n.json](./50575-battle-stadium-d-o-n.json) |
