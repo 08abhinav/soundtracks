@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Wars: Tokyo Reign | 164943 | [164943-city-wars-tokyo-reign.json](./164943-city-wars-tokyo-reign.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
+| City Z | 19056 | [19056-city-z.json](./19056-city-z.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
 | City Zombie Hunter | 108224 | [108224-city-zombie-hunter.json](./108224-city-zombie-hunter.json) |
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
@@ -9179,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
+| Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
 | Conquian 333 | 89035 | [89035-conquian-333.json](./89035-conquian-333.json) |
@@ -12759,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
 | Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!) | 133889 | [133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json](./133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
+| Cthulhu Virtual Pet | 19086 | [19086-cthulhu-virtual-pet.json](./19086-cthulhu-virtual-pet.json) |
 | Cthulhu Virtual Pet 2 | 123992 | [123992-cthulhu-virtual-pet-2.json](./123992-cthulhu-virtual-pet-2.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
