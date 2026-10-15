@@ -4934,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman | 171533 | [171533-shaman.json](./171533-shaman.json) |
+| Shaman Flower | 43144 | [43144-shaman-flower.json](./43144-shaman-flower.json) |
 | Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
 | Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
 | Shaman King: Asu he no Ishi | 68231 | [68231-shaman-king-asu-he-no-ishi.json](./68231-shaman-king-asu-he-no-ishi.json) |
@@ -9345,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
 | Slingshot Pilot | 373208 | [373208-slingshot-pilot.json](./373208-slingshot-pilot.json) |
 | Slingshot Protocol | 260572 | [260572-slingshot-protocol.json](./260572-slingshot-protocol.json) |
+| Slingshot Puzzle | 43112 | [43112-slingshot-puzzle.json](./43112-slingshot-puzzle.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
 | Slingshot Ride | 421373 | [421373-slingshot-ride.json](./421373-slingshot-ride.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
@@ -11077,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System Colonist | 161261 | [161261-solar-system-colonist.json](./161261-solar-system-colonist.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar System Experience | 258633 | [258633-solar-system-experience.json](./258633-solar-system-experience.json) |
+| Solar System Journey VR | 43108 | [43108-solar-system-journey-vr.json](./43108-solar-system-journey-vr.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
@@ -11098,6 +11101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
+| Solarium | 43105 | [43105-solarium.json](./43105-solarium.json) |
 | Solarix | 17146 | [17146-solarix.json](./17146-solarix.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
@@ -14594,6 +14598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 296002 | [296002-sphere.json](./296002-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
+| Sphere Frustration | 43170 | [43170-sphere-frustration.json](./43170-sphere-frustration.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
 | Sphere Game Epic | 164956 | [164956-sphere-game-epic.json](./164956-sphere-game-epic.json) |
 | Sphere Game Extreme | 187909 | [187909-sphere-game-extreme.json](./187909-sphere-game-extreme.json) |
