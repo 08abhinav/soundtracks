@@ -4071,6 +4071,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Return Address | 412207 | [412207-no-return-address.json](./412207-no-return-address.json) |
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
+| No Rush | 25533 | [25533-no-rush.json](./25533-no-rush.json) |
+| No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
