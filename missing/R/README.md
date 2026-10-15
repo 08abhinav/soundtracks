@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rank: Warmaster Bunker Buster | 343871 | [343871-rank-warmaster-bunker-buster.json](./343871-rank-warmaster-bunker-buster.json) |
 | Rankdle | 294221 | [294221-rankdle.json](./294221-rankdle.json) |
 | Ranking Narabete Joushiki Quiz | 251615 | [251615-ranking-narabete-joushiki-quiz.json](./251615-ranking-narabete-joushiki-quiz.json) |
+| Ranma 1/2 | 37630 | [37630-ranma-1-2.json](./37630-ranma-1-2.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
 | Ranma 1/2: Battle Renaissance | 44822 | [44822-ranma-1-2-battle-renaissance.json](./44822-ranma-1-2-battle-renaissance.json) |
 | Ranma 1/2: Hard Battle | 44462 | [44462-ranma-1-2-hard-battle.json](./44462-ranma-1-2-hard-battle.json) |
@@ -1696,6 +1697,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
+| Rayxanber II | 37592 | [37592-rayxanber-ii.json](./37592-rayxanber-ii.json) |
+| Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
@@ -5229,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Riot Soccer | 182157 | [182157-riot-soccer.json](./182157-riot-soccer.json) |
+| Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
