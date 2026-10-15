@@ -3416,7 +3416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
 | Remothered: Broken Porcelain Remastered | 409008 | [409008-remothered-broken-porcelain-remastered.json](./409008-remothered-broken-porcelain-remastered.json) |
-| Remothered: Tormented Fathers | 28548 | [28548-remothered-tormented-fathers.json](./28548-remothered-tormented-fathers.json) |
 | Remothered: Tormented Fathers & Broken Porcelain - Double Pack | 139977 | [139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json](./139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json) |
 | Remothered: Tormented Fathers Remastered | 409009 | [409009-remothered-tormented-fathers-remastered.json](./409009-remothered-tormented-fathers-remastered.json) |
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
