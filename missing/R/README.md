@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rappelz Online | 193819 | [193819-rappelz-online.json](./193819-rappelz-online.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
+| Rapscallion | 71978 | [71978-rapscallion.json](./71978-rapscallion.json) |
 | Rapsodie | 302749 | [302749-rapsodie.json](./302749-rapsodie.json) |
 | RapStar Tycoon | 103963 | [103963-rapstar-tycoon.json](./103963-rapstar-tycoon.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
@@ -7148,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
+| Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
