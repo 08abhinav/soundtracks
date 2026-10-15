@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
+| A Quest Too Far | 23509 | [23509-a-quest-too-far.json](./23509-a-quest-too-far.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed Evolution | 21109 | [21109-alien-breed-evolution.json](./21109-alien-breed-evolution.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
+| Alien Breed Trilogy | 23390 | [23390-alien-breed-trilogy.json](./23390-alien-breed-trilogy.json) |
 | Alien Breed: Impact | 9964 | [9964-alien-breed-impact.json](./9964-alien-breed-impact.json) |
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
@@ -4435,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
+| Alien Garden | 23495 | [23495-alien-garden.json](./23495-alien-garden.json) |
 | Alien Garden | 298438 | [298438-alien-garden.json](./298438-alien-garden.json) |
 | Alien Gate | 46611 | [46611-alien-gate.json](./46611-alien-gate.json) |
 | Alien Girl | 183909 | [183909-alien-girl.json](./183909-alien-girl.json) |
@@ -5699,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
+| American Truck Simulator: Arizona | 23478 | [23478-american-truck-simulator-arizona.json](./23478-american-truck-simulator-arizona.json) |
 | American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
 | American Truck Simulator: Cabin Accessories | 155358 | [155358-american-truck-simulator-cabin-accessories.json](./155358-american-truck-simulator-cabin-accessories.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
