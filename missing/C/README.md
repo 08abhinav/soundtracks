@@ -4520,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
+| Chex Quest HD | 58136 | [58136-chex-quest-hd.json](./58136-chex-quest-hd.json) |
 | Chexs | 31753 | [31753-chexs.json](./31753-chexs.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
@@ -6277,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
+| CivWorld | 58121 | [58121-civworld.json](./58121-civworld.json) |
 | Ciying | 284265 | [284265-ciying.json](./284265-ciying.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
@@ -12598,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
+| Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
 | Cthulhu Must Die | 253985 | [253985-cthulhu-must-die.json](./253985-cthulhu-must-die.json) |
