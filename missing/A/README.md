@@ -10191,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
+| Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
