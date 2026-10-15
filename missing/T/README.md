@@ -6569,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FMV Collection 5 | 331404 | [331404-the-fmv-collection-5.json](./331404-the-fmv-collection-5.json) |
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
+| The Fog | 54307 | [54307-the-fog.json](./54307-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The God's Paradise | 82650 | [82650-the-gods-paradise.json](./82650-the-gods-paradise.json) |
+| The God's Treasury: The Bewitched Mask | 54306 | [54306-the-gods-treasury-the-bewitched-mask.json](./54306-the-gods-treasury-the-bewitched-mask.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
@@ -6941,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandest Fleet | 73182 | [73182-the-grandest-fleet.json](./73182-the-grandest-fleet.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
+| The Grandfather | 54305 | [54305-the-grandfather.json](./54305-the-grandfather.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
 | The Granstream Saga | 19156 | [19156-the-granstream-saga.json](./19156-the-granstream-saga.json) |
 | The Grappler | 331394 | [331394-the-grappler.json](./331394-the-grappler.json) |
@@ -7033,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
+| The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
 | The Great Wobo Escape | 23984 | [23984-the-great-wobo-escape.json](./23984-the-great-wobo-escape.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
@@ -7222,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
+| The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
 | The Hero | 19181 | [19181-the-hero.json](./19181-the-hero.json) |
@@ -7389,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
 | The Humans: Meet the Ancestors | 78749 | [78749-the-humans-meet-the-ancestors.json](./78749-the-humans-meet-the-ancestors.json) |
+| The Hunchback of Notre Dame | 54301 | [54301-the-hunchback-of-notre-dame.json](./54301-the-hunchback-of-notre-dame.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
@@ -7740,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Creation: Reborn | 255692 | [255692-the-joy-of-creation-reborn.json](./255692-the-joy-of-creation-reborn.json) |
 | The Joy of Creation: Story Mode | 255693 | [255693-the-joy-of-creation-story-mode.json](./255693-the-joy-of-creation-story-mode.json) |
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
+| The Joy of Farming | 54300 | [54300-the-joy-of-farming.json](./54300-the-joy-of-farming.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
@@ -8564,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
+| The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
 | The Legend of Xanadu II | 78738 | [78738-the-legend-of-xanadu-ii.json](./78738-the-legend-of-xanadu-ii.json) |
@@ -8986,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost and Forgotten | 104816 | [104816-the-lost-and-forgotten.json](./104816-the-lost-and-forgotten.json) |
 | The Lost and The Wicked | 150972 | [150972-the-lost-and-the-wicked.json](./150972-the-lost-and-the-wicked.json) |
 | The Lost Angelic Chronicles of Frane: Dragon's Odyssey | 65855 | [65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
+| The Lost Angelic Chronicles of Frane: Dragons' Odyssey | 54297 | [54297-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./54297-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
@@ -10254,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
+| The Princess Case: A Royal Scoop | 54296 | [54296-the-princess-case-a-royal-scoop.json](./54296-the-princess-case-a-royal-scoop.json) |
 | The Princess Cliche | 281310 | [281310-the-princess-cliche.json](./281310-the-princess-cliche.json) |
 | The Princess Guide | 78111 | [78111-the-princess-guide.json](./78111-the-princess-guide.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
@@ -10890,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
+| The Secret Legacy: A Kate Brooks Adventure | 54294 | [54294-the-secret-legacy-a-kate-brooks-adventure.json](./54294-the-secret-legacy-a-kate-brooks-adventure.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
@@ -11478,6 +11489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
+| The Snow Fable | 54293 | [54293-the-snow-fable.json](./54293-the-snow-fable.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow is Red | 231323 | [231323-the-snow-is-red.json](./231323-the-snow-is-red.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
@@ -11576,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
+| The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
@@ -12647,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
+| The Village Mage: Spellbinder | 54291 | [54291-the-village-mage-spellbinder.json](./54291-the-village-mage-spellbinder.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The VIllage of Eri | 289953 | [289953-the-village-of-eri.json](./289953-the-village-of-eri.json) |
 | The Village Secret | 187794 | [187794-the-village-secret.json](./187794-the-village-secret.json) |
@@ -22646,6 +22660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tower | 269507 | [269507-twisted-tower.json](./269507-twisted-tower.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
+| Twisted: Enhanced Edition | 54335 | [54335-twisted-enhanced-edition.json](./54335-twisted-enhanced-edition.json) |
 | Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
