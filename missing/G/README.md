@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
 | Galatron | 110199 | [110199-galatron.json](./110199-galatron.json) |
+| Galaversal Supremacy | 69174 | [69174-galaversal-supremacy.json](./69174-galaversal-supremacy.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
@@ -2885,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
+| Gilbert: Escape from Drill | 69159 | [69159-gilbert-escape-from-drill.json](./69159-gilbert-escape-from-drill.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilded Eternal | 217226 | [217226-gilded-eternal.json](./217226-gilded-eternal.json) |
@@ -6467,8 +6469,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
+| Groov | 69161 | [69161-groov.json](./69161-groov.json) |
 | Groove Adventure Rave | 69328 | [69328-groove-adventure-rave.json](./69328-groove-adventure-rave.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
+| Groove Adventure Rave: Mikan no Hiseki | 69136 | [69136-groove-adventure-rave-mikan-no-hiseki.json](./69136-groove-adventure-rave-mikan-no-hiseki.json) |
+| Groove Adventure Rave: Plue no Daibouken | 69138 | [69138-groove-adventure-rave-plue-no-daibouken.json](./69138-groove-adventure-rave-plue-no-daibouken.json) |
 | Groove Catch | 194193 | [194193-groove-catch.json](./194193-groove-catch.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
