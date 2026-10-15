@@ -5004,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
+| The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
