@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Freespace - Battle Pack | 371972 | [371972-descent-freespace-battle-pack.json](./371972-descent-freespace-battle-pack.json) |
+| Descent: Freespace - Silent Threat | 73181 | [73181-descent-freespace-silent-threat.json](./73181-descent-freespace-silent-threat.json) |
 | Descent: Legends of the Dark | 163206 | [163206-descent-legends-of-the-dark.json](./163206-descent-legends-of-the-dark.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
 | Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
 | Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
+| Dicing Knight. | 73157 | [73157-dicing-knight.json](./73157-dicing-knight.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
 | Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
+| Dora the Explorer: Barnyard Buddies | 73175 | [73175-dora-the-explorer-barnyard-buddies.json](./73175-dora-the-explorer-barnyard-buddies.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
 | Dora the Explorer: Dora Saves the Crystal Kingdom | 7977 | [7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json](./7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json) |
@@ -9975,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
 | Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
 | Dragon Quest: The Adventure of Dai - A Hero's Bonds | 174673 | [174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json](./174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json) |
+| Dragon Quiz | 73196 | [73196-dragon-quiz.json](./73196-dragon-quiz.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
@@ -12694,6 +12698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dying: Reborn Ultimate Bundle | 118723 | [118723-dying-reborn-ultimate-bundle.json](./118723-dying-reborn-ultimate-bundle.json) |
 | Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
+| Dylan Dog: Gli Uccisori | 73160 | [73160-dylan-dog-gli-uccisori.json](./73160-dylan-dog-gli-uccisori.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
