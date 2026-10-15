@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
 | Gengu Survival | 319153 | [319153-gengu-survival.json](./319153-gengu-survival.json) |
 | Genie | 241284 | [241284-genie.json](./241284-genie.json) |
+| Genie | 46478 | [46478-genie.json](./46478-genie.json) |
 | Genie Gym | 272370 | [272370-genie-gym.json](./272370-genie-gym.json) |
 | Genie in a Bottle | 120237 | [120237-genie-in-a-bottle.json](./120237-genie-in-a-bottle.json) |
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
+| Glasswinged Ascension | 46484 | [46484-glasswinged-ascension.json](./46484-glasswinged-ascension.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glaxxons | 92945 | [92945-glaxxons.json](./92945-glaxxons.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
