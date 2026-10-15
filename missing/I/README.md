@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I Must Eat Chili Oil | 259735 | [259735-i-must-eat-chili-oil.json](./259735-i-must-eat-chili-oil.json) |
+| I must kill...: Fresh Meat | 34017 | [34017-i-must-kill-fresh-meat.json](./34017-i-must-kill-fresh-meat.json) |
 | I Must Run | 42824 | [42824-i-must-run.json](./42824-i-must-run.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperfectly Perfect | 383679 | [383679-imperfectly-perfect.json](./383679-imperfectly-perfect.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
+| Imperia Online | 33918 | [33918-imperia-online.json](./33918-imperia-online.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
 | Imperial Bureaucracy Hero | 377963 | [377963-imperial-bureaucracy-hero.json](./377963-imperial-bureaucracy-hero.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
@@ -3952,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
+| Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
