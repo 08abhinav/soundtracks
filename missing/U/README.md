@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Club 3: Mata Mata Shiyutsugeki!! Ultra Kyoudai | 48556 | [48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json](./48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json) |
 | Ultraman Club: Chikyuu Dakkan Sakusen | 41297 | [41297-ultraman-club-chikyuu-dakkan-sakusen.json](./41297-ultraman-club-chikyuu-dakkan-sakusen.json) |
 | Ultraman Club: Kaijuu Daikessen!! | 48558 | [48558-ultraman-club-kaijuu-daikessen.json](./48558-ultraman-club-kaijuu-daikessen.json) |
+| Ultraman Club: Supokon Fight! | 48516 | [48516-ultraman-club-supokon-fight.json](./48516-ultraman-club-supokon-fight.json) |
 | Ultraman Club: Teki Kaijuu wo Hakken se yo! | 260082 | [260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json](./260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
