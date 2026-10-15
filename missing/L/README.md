@@ -5325,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
 | Lords of the Realm: Royal Edition | 51841 | [51841-lords-of-the-realm-royal-edition.json](./51841-lords-of-the-realm-royal-edition.json) |
+| Lords of the Rising Sun | 8669 | [8669-lords-of-the-rising-sun.json](./8669-lords-of-the-rising-sun.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
