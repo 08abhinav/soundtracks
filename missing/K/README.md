@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
+| KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
 | Kona & Snowrabbit | 286230 | [286230-kona-and-snowrabbit.json](./286230-kona-and-snowrabbit.json) |
 | Kona II: Brume | 211242 | [211242-kona-ii-brume.json](./211242-kona-ii-brume.json) |
