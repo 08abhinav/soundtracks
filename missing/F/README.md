@@ -6212,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
+| Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
@@ -9480,6 +9481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
+| futureU: The Prep Game for SAT | 59771 | [59771-futureu-the-prep-game-for-sat.json](./59771-futureu-the-prep-game-for-sat.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
