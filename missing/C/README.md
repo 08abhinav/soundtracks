@@ -11571,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
+| Crime Killer | 45101 | [45101-crime-killer.json](./45101-crime-killer.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
 | Crime Life Crime Wave | 240124 | [240124-crime-life-crime-wave.json](./240124-crime-life-crime-wave.json) |
 | Crime Life: Gang Wars | 5791 | [5791-crime-life-gang-wars.json](./5791-crime-life-gang-wars.json) |
@@ -12659,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
+| CT Special Forces: Back to Hell | 45103 | [45103-ct-special-forces-back-to-hell.json](./45103-ct-special-forces-back-to-hell.json) |
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
