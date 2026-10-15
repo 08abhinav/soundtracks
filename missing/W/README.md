@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
+| World Soccer: Winning Eleven 6 International | 72574 | [72574-world-soccer-winning-eleven-6-international.json](./72574-world-soccer-winning-eleven-6-international.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Soccer: Winning Eleven 7 International | 936 | [936-world-soccer-winning-eleven-7-international.json](./936-world-soccer-winning-eleven-7-international.json) |
 | World Soccer: Winning Eleven 9 | 72967 | [72967-world-soccer-winning-eleven-9.json](./72967-world-soccer-winning-eleven-9.json) |
