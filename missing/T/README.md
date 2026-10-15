@@ -16463,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
+| Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
