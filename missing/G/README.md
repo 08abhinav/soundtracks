@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
+| Genesis: Beyond the Revelation | 62615 | [62615-genesis-beyond-the-revelation.json](./62615-genesis-beyond-the-revelation.json) |
 | Genesis: Human Destiny | 223620 | [223620-genesis-human-destiny.json](./223620-genesis-human-destiny.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
