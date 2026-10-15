@@ -9211,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Doughlings: Arcade | 94062 | [94062-doughlings-arcade.json](./94062-doughlings-arcade.json) |
 | Doughlings: Invasion | 116142 | [116142-doughlings-invasion.json](./116142-doughlings-invasion.json) |
+| Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
 | Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
@@ -11708,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
+| Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
 | Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
