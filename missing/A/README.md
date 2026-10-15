@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
 | A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
+| A Bug's Life | 2847 | [2847-a-bugs-life.json](./2847-a-bugs-life.json) |
 | A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A buggy Adventure | 143353 | [143353-a-buggy-adventure.json](./143353-a-buggy-adventure.json) |
