@@ -1292,7 +1292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
 | Layers of Bust | 405024 | [405024-layers-of-bust.json](./405024-layers-of-bust.json) |
-| Layers of Fear | 204363 | [204363-layers-of-fear.json](./204363-layers-of-fear.json) |
 | Layers of Fear 2 | 239164 | [239164-layers-of-fear-2.json](./239164-layers-of-fear-2.json) |
 | Layers of Fear 3 | 390145 | [390145-layers-of-fear-3.json](./390145-layers-of-fear-3.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
@@ -5561,7 +5560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
-| Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost In Purple | 54338 | [54338-lost-in-purple.json](./54338-lost-in-purple.json) |
 | Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
