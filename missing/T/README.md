@@ -10905,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
+| The Running Man | 12756 | [12756-the-running-man.json](./12756-the-running-man.json) |
 | The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
 | The Running Toaster | 332483 | [332483-the-running-toaster.json](./332483-the-running-toaster.json) |
 | The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
@@ -11168,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Districts of Sin: The Tail Makes the Fox - Episode 1 | 81645 | [81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json](./81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json) |
 | The Seven Elemental Vases | 326166 | [326166-the-seven-elemental-vases.json](./326166-the-seven-elemental-vases.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
+| The Seven Gates of Jambala | 12763 | [12763-the-seven-gates-of-jambala.json](./12763-the-seven-gates-of-jambala.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
