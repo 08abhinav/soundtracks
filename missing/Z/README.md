@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
+| Zunou Senkan Galg | 48488 | [48488-zunou-senkan-galg.json](./48488-zunou-senkan-galg.json) |
 | Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
