@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
 | Santa Factory | 85365 | [85365-santa-factory.json](./85365-santa-factory.json) |
+| Santa Fe Mysteries: Sacred Ground | 70296 | [70296-santa-fe-mysteries-sacred-ground.json](./70296-santa-fe-mysteries-sacred-ground.json) |
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
@@ -1333,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapling | 167600 | [167600-sapling.json](./167600-sapling.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
+| Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
@@ -2267,6 +2269,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
 | Scotland Yard: Hunting Mister X | 312078 | [312078-scotland-yard-hunting-mister-x.json](./312078-scotland-yard-hunting-mister-x.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
+| Scott Adams Scoops | 70319 | [70319-scott-adams-scoops.json](./70319-scott-adams-scoops.json) |
+| Scott Adams' Graphic Adventure #3: Secret Mission | 70292 | [70292-scott-adams-graphic-adventure-3-secret-mission.json](./70292-scott-adams-graphic-adventure-3-secret-mission.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
@@ -6329,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
+| Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
@@ -7847,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
+| Sito Pons 500cc Grand Prix | 70321 | [70321-sito-pons-500cc-grand-prix.json](./70321-sito-pons-500cc-grand-prix.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitten Kitten | 141110 | [141110-sitten-kitten.json](./141110-sitten-kitten.json) |
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
@@ -14637,6 +14643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Dislike GB | 58636 | [58636-spike-dislike-gb.json](./58636-spike-dislike-gb.json) |
 | Spike Hike | 112203 | [112203-spike-hike.json](./112203-spike-hike.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
+| Spike in Transylvania | 70278 | [70278-spike-in-transylvania.json](./70278-spike-in-transylvania.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Mtn | 213536 | [213536-spike-mtn.json](./213536-spike-mtn.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
@@ -16691,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
+| Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
@@ -20861,6 +20869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
 | Super Drink Bros. | 141162 | [141162-super-drink-bros.json](./141162-super-drink-bros.json) |
+| Super Drinker | 70306 | [70306-super-drinker.json](./70306-super-drinker.json) |
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drop Jam | 71198 | [71198-super-drop-jam.json](./71198-super-drop-jam.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
@@ -21927,6 +21936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
+| Super Plumber | 70322 | [70322-super-plumber.json](./70322-super-plumber.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pocket: Capcom Edition | 256711 | [256711-super-pocket-capcom-edition.json](./256711-super-pocket-capcom-edition.json) |
