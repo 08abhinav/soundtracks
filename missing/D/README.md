@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: The Last Adagio | 139753 | [139753-danse-macabre-the-last-adagio.json](./139753-danse-macabre-the-last-adagio.json) |
 | Danse Macabre: The Last Adagio - Collector's Edition | 30680 | [30680-danse-macabre-the-last-adagio-collectors-edition.json](./30680-danse-macabre-the-last-adagio-collectors-edition.json) |
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
+| Danse Macabre: Thin Ice - Collector's Edition | 22076 | [22076-danse-macabre-thin-ice-collectors-edition.json](./22076-danse-macabre-thin-ice-collectors-edition.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Silvermoon Isle - Collector's Edition | 29616 | [29616-dead-reckoning-silvermoon-isle-collectors-edition.json](./29616-dead-reckoning-silvermoon-isle-collectors-edition.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
+| Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
