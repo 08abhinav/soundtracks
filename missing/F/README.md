@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Game of the Year Edition | 54612 | [54612-fallout-4-game-of-the-year-edition.json](./54612-fallout-4-game-of-the-year-edition.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 4: Gold Bundle | 89845 | [89845-fallout-4-gold-bundle.json](./89845-fallout-4-gold-bundle.json) |
+| Fallout 4: Pip-Boy Edition | 45130 | [45130-fallout-4-pip-boy-edition.json](./45130-fallout-4-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
@@ -983,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
+| Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
