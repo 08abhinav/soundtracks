@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
+| 81diver DS | 59335 | [59335-81diver-ds.json](./59335-81diver-ds.json) |
 | 81diver DS Naruzou-kun Hasami Shogi | 344311 | [344311-81diver-ds-naruzou-kun-hasami-shogi.json](./344311-81diver-ds-naruzou-kun-hasami-shogi.json) |
 | 81diver DS Story | 344312 | [344312-81diver-ds-story.json](./344312-81diver-ds-story.json) |
 | 81diver Wii | 344309 | [344309-81diver-wii.json](./344309-81diver-wii.json) |
