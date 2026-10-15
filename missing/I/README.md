@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebound Secrets: Soul Hunter | 385876 | [385876-icebound-secrets-soul-hunter.json](./385876-icebound-secrets-soul-hunter.json) |
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Icebox | 22355 | [22355-icebox.json](./22355-icebox.json) |
+| Icebox: Speedgunner | 56359 | [56359-icebox-speedgunner.json](./56359-icebox-speedgunner.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
+| Idle Heroes | 56380 | [56380-idle-heroes.json](./56380-idle-heroes.json) |
 | Idle Heroes - Idle Games | 87173 | [87173-idle-heroes-idle-games.json](./87173-idle-heroes-idle-games.json) |
 | Idle Heroes: Odyssey | 135099 | [135099-idle-heroes-odyssey.json](./135099-idle-heroes-odyssey.json) |
 | Idle Heroines | 220169 | [220169-idle-heroines.json](./220169-idle-heroines.json) |
@@ -2074,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
+| Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
