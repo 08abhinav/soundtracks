@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
+| F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -2429,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FD 27: Direct Your Football Club | 402996 | [402996-fd-27-direct-your-football-club.json](./402996-fd-27-direct-your-football-club.json) |
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
 | FDNY Firefighter: American Heroes | 206050 | [206050-fdny-firefighter-american-heroes.json](./206050-fdny-firefighter-american-heroes.json) |
+| Fe | 19525 | [19525-fe.json](./19525-fe.json) |
 | Fealty | 175213 | [175213-fealty.json](./175213-fealty.json) |
 | Fealty | 195559 | [195559-fealty.json](./195559-fealty.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
@@ -4061,8 +4063,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
+| Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Limited Edition | 136159 | [136159-fire-emblem-warriors-limited-edition.json](./136159-fire-emblem-warriors-limited-edition.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
