@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Abyss: New Tokyo Legacy | 20021 | [20021-operation-abyss-new-tokyo-legacy.json](./20021-operation-abyss-new-tokyo-legacy.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
+| Operation Air Assault 2 | 25507 | [25507-operation-air-assault-2.json](./25507-operation-air-assault-2.json) |
 | Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
@@ -2376,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Get Bike Back 2: Pedal Recall | 330766 | [330766-operation-get-bike-back-2-pedal-recall.json](./330766-operation-get-bike-back-2-pedal-recall.json) |
 | Operation Gunship | 72585 | [72585-operation-gunship.json](./72585-operation-gunship.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
+| Operation Hardcore | 22035 | [22035-operation-hardcore.json](./22035-operation-hardcore.json) |
 | Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
@@ -2957,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
 | Ortolan | 126499 | [126499-ortolan.json](./126499-ortolan.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
+| Ortus Arena | 24766 | [24766-ortus-arena.json](./24766-ortus-arena.json) |
 | Ortus Regni | 32621 | [32621-ortus-regni.json](./32621-ortus-regni.json) |
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
@@ -3057,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
+| Ostrich Runner | 25490 | [25490-ostrich-runner.json](./25490-ostrich-runner.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Ostrova Koshki | 132568 | [132568-ostrova-koshki.json](./132568-ostrova-koshki.json) |
@@ -3720,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
+| Outta This Kingdom | 25509 | [25509-outta-this-kingdom.json](./25509-outta-this-kingdom.json) |
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
