@@ -3730,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
 | Phero | 348817 | [348817-phero.json](./348817-phero.json) |
+| Phi Brain: Kizuna no Puzzle | 63780 | [63780-phi-brain-kizuna-no-puzzle.json](./63780-phi-brain-kizuna-no-puzzle.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
@@ -6695,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
 | Playing Prague | 414139 | [414139-playing-prague.json](./414139-playing-prague.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
+| Playing With Language: Games in English | 63775 | [63775-playing-with-language-games-in-english.json](./63775-playing-with-language-games-in-english.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
