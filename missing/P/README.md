@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
+| Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
 | PentaPip | 412805 | [412805-pentapip.json](./412805-pentapip.json) |
 | Pentapus | 292099 | [292099-pentapus.json](./292099-pentapus.json) |
@@ -10739,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
+| Project Future | 26353 | [26353-project-future.json](./26353-project-future.json) |
 | Project G | 32773 | [32773-project-g.json](./32773-project-g.json) |
 | Project G.A.E.A. | 155864 | [155864-project-g-a-e-a.json](./155864-project-g-a-e-a.json) |
 | Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
@@ -11416,6 +11418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
+| Psi 5 Trading Company | 26285 | [26285-psi-5-trading-company.json](./26285-psi-5-trading-company.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
