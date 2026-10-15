@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
 | Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
+| Yu-Gi-Oh! World Championship 2008 | 47809 | [47809-yu-gi-oh-world-championship-2008.json](./47809-yu-gi-oh-world-championship-2008.json) |
 | Yu-Gi-Oh! World Championship Tournament 2004 | 6698 | [6698-yu-gi-oh-world-championship-tournament-2004.json](./6698-yu-gi-oh-world-championship-tournament-2004.json) |
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
