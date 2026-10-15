@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
+| beatmania Best Hits | 69173 | [69173-beatmania-best-hits.json](./69173-beatmania-best-hits.json) |
 | beatmania Club MIX | 92673 | [92673-beatmania-club-mix.json](./92673-beatmania-club-mix.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | beatmania complete MIX 2 | 92674 | [92674-beatmania-complete-mix-2.json](./92674-beatmania-complete-mix-2.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
 | Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
 | Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
+| Beyond the Red Line | 69185 | [69185-beyond-the-red-line.json](./69185-beyond-the-red-line.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sea | 107707 | [107707-beyond-the-sea.json](./107707-beyond-the-sea.json) |
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
@@ -9799,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
+| Brass Restoration | 69153 | [69153-brass-restoration.json](./69153-brass-restoration.json) |
 | Brass Town Wrestling | 128271 | [128271-brass-town-wrestling.json](./128271-brass-town-wrestling.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
 | Brassfang | 405021 | [405021-brassfang.json](./405021-brassfang.json) |
