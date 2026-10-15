@@ -5542,6 +5542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
+| Dexter's Laboratory: Deesaster Strikes! | 2813 | [2813-dexters-laboratory-deesaster-strikes.json](./2813-dexters-laboratory-deesaster-strikes.json) |
+| Dexter's Laboratory: Robot Rampage | 2815 | [2815-dexters-laboratory-robot-rampage.json](./2815-dexters-laboratory-robot-rampage.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
@@ -5999,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
+| Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
 | Dig Dug Island: Minami no Jima no Pukapukapon | 315587 | [315587-dig-dug-island-minami-no-jima-no-pukapukapon.json](./315587-dig-dug-island-minami-no-jima-no-pukapukapon.json) |
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
@@ -9845,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
+| Dragon Ball Z 2 V | 2565 | [2565-dragon-ball-z-2-v.json](./2565-dragon-ball-z-2-v.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z For Kinect | 2575 | [2575-dragon-ball-z-for-kinect.json](./2575-dragon-ball-z-for-kinect.json) |
 | Dragon Ball Z Gaiden: Shin Saiya-jin Zetsumetsu Keikaku - Uchou-hen | 63360 | [63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json](./63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json) |
@@ -9866,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
+| Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
@@ -9921,6 +9926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Sparking! Zero - Ultimate Edition | 307191 | [307191-dragon-ball-sparking-zero-ultimate-edition.json](./307191-dragon-ball-sparking-zero-ultimate-edition.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
+| Dragon Ball: Tap Battle | 2582 | [2582-dragon-ball-tap-battle.json](./2582-dragon-ball-tap-battle.json) |
 | Dragon Ball: The Breakers | 182179 | [182179-dragon-ball-the-breakers.json](./182179-dragon-ball-the-breakers.json) |
 | Dragon Ball: The Breakers - Season 1 | 252641 | [252641-dragon-ball-the-breakers-season-1.json](./252641-dragon-ball-the-breakers-season-1.json) |
 | Dragon Ball: The Breakers - Season 2 | 252642 | [252642-dragon-ball-the-breakers-season-2.json](./252642-dragon-ball-the-breakers-season-2.json) |
@@ -9955,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Ultra Pack Set | 164822 | [164822-dragon-ball-xenoverse-2-ultra-pack-set.json](./164822-dragon-ball-xenoverse-2-ultra-pack-set.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
 | Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
+| Dragon Ball: Zenkai Battle Royale | 2573 | [2573-dragon-ball-zenkai-battle-royale.json](./2573-dragon-ball-zenkai-battle-royale.json) |
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Battle | 183945 | [183945-dragon-battle.json](./183945-dragon-battle.json) |
@@ -12270,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
