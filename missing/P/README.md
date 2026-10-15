@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Jackson's King Kong: The Official Game of the Movie | 248541 | [248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248542 | [248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248543 | [248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
+| Peter Jacobsen's Golden Tee Golf | 43776 | [43776-peter-jacobsens-golden-tee-golf.json](./43776-peter-jacobsens-golden-tee-golf.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
@@ -5093,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
 | Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
+| Pipe Dreams 3D | 43752 | [43752-pipe-dreams-3d.json](./43752-pipe-dreams-3d.json) |
 | Pipe Fitter | 172549 | [172549-pipe-fitter.json](./172549-pipe-fitter.json) |
 | Pipe Head Story | 196544 | [196544-pipe-head-story.json](./196544-pipe-head-story.json) |
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
@@ -6725,7 +6727,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player City | 150459 | [150459-player-city.json](./150459-player-city.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Killers' Exchange | 108935 | [108935-player-killers-exchange.json](./108935-player-killers-exchange.json) |
+| Player Manager 2000 | 43748 | [43748-player-manager-2000.json](./43748-player-manager-2000.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
+| Player Manager 98/99 | 43765 | [43765-player-manager-98-99.json](./43765-player-manager-98-99.json) |
 | Player Non Player | 223367 | [223367-player-non-player.json](./223367-player-non-player.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
