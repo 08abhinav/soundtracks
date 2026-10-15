@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
+| Galactineers | 33920 | [33920-galactineers.json](./33920-galactineers.json) |
 | Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
@@ -5838,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
+| Gravity Island | 34010 | [34010-gravity-island.json](./34010-gravity-island.json) |
 | Gravity Jump | 102950 | [102950-gravity-jump.json](./102950-gravity-jump.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
