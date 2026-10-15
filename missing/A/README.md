@@ -7322,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
+| Anthology | 38204 | [38204-anthology.json](./38204-anthology.json) |
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
