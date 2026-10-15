@@ -4530,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
+| Alien Stars | 25535 | [25535-alien-stars.json](./25535-alien-stars.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien Story: Fairy tale with games for kids | 89809 | [89809-alien-story-fairy-tale-with-games-for-kids.json](./89809-alien-story-fairy-tale-with-games-for-kids.json) |
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
