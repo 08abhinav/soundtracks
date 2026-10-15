@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goiken Muyou: Anarchy in the Nippon | 45528 | [45528-goiken-muyou-anarchy-in-the-nippon.json](./45528-goiken-muyou-anarchy-in-the-nippon.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
+| Goin' Down with the Captain | 57578 | [57578-goin-down-with-the-captain.json](./57578-goin-down-with-the-captain.json) |
 | Goin' Downtown | 70580 | [70580-goin-downtown.json](./70580-goin-downtown.json) |
 | Goindol | 64461 | [64461-goindol.json](./64461-goindol.json) |
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
@@ -5214,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granado Espada Japan | 130109 | [130109-granado-espada-japan.json](./130109-granado-espada-japan.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | GranAge Online | 64192 | [64192-granage-online.json](./64192-granage-online.json) |
+| Granatha Eternal | 57557 | [57557-granatha-eternal.json](./57557-granatha-eternal.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
@@ -6874,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
+| Gudetama: Hanjuku de Tanomuwa | 57560 | [57560-gudetama-hanjuku-de-tanomuwa.json](./57560-gudetama-hanjuku-de-tanomuwa.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
