@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
+| Zaharia | 62109 | [62109-zaharia.json](./62109-zaharia.json) |
 | Zahhak | 164245 | [164245-zahhak.json](./164245-zahhak.json) |
 | Zahmahrel | 365773 | [365773-zahmahrel.json](./365773-zahmahrel.json) |
 | Zai Metajo | 146657 | [146657-zai-metajo.json](./146657-zai-metajo.json) |
