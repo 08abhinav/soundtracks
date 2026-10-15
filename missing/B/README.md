@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
+| Battle Tiers Invasion | 62646 | [62646-battle-tiers-invasion.json](./62646-battle-tiers-invasion.json) |
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
