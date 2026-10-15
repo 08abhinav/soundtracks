@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
+| Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
 | Aliens: Colonial Marines - Collector's Edition Pack | 118184 | [118184-aliens-colonial-marines-collectors-edition-pack.json](./118184-aliens-colonial-marines-collectors-edition-pack.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
 | Aliens: Thanatos Encounter | 49863 | [49863-aliens-thanatos-encounter.json](./49863-aliens-thanatos-encounter.json) |
 | Aliens: The Computer Game | 12939 | [12939-aliens-the-computer-game.json](./12939-aliens-the-computer-game.json) |
+| Aliens: The Computer Game | 36810 | [36810-aliens-the-computer-game.json](./36810-aliens-the-computer-game.json) |
 | Aliens: The Roguelike | 73710 | [73710-aliens-the-roguelike.json](./73710-aliens-the-roguelike.json) |
 | Aliens: The Roguelike | 73712 | [73712-aliens-the-roguelike.json](./73712-aliens-the-roguelike.json) |
 | Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
@@ -10635,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Boy: Brick Breaker | 109916 | [109916-astro-boy-brick-breaker.json](./109916-astro-boy-brick-breaker.json) |
+| Astro Boy: Edge of Time | 36913 | [36913-astro-boy-edge-of-time.json](./36913-astro-boy-edge-of-time.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
 | Astro Bugz Revenge | 51091 | [51091-astro-bugz-revenge.json](./51091-astro-bugz-revenge.json) |
