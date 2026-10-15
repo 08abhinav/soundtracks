@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapid Unplanned Disassembly | 176369 | [176369-rapid-unplanned-disassembly.json](./176369-rapid-unplanned-disassembly.json) |
+| Rapid-Shot | 22096 | [22096-rapid-shot.json](./22096-rapid-shot.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
 | Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
 | Rappelz Online | 193819 | [193819-rappelz-online.json](./193819-rappelz-online.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
 | Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
 | Return to Yoshi's Island 64 | 159255 | [159255-return-to-yoshis-island-64.json](./159255-return-to-yoshis-island-64.json) |
+| Return Zero VR | 22095 | [22095-return-zero-vr.json](./22095-return-zero-vr.json) |
 | Return: Unknown | 281324 | [281324-return-unknown.json](./281324-return-unknown.json) |
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
@@ -6287,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
+| Rock Boshers DX | 22112 | [22112-rock-boshers-dx.json](./22112-rock-boshers-dx.json) |
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
 | Rock Boshers DX: Ultra Bundle | 119082 | [119082-rock-boshers-dx-ultra-bundle.json](./119082-rock-boshers-dx-ultra-bundle.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
