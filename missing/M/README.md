@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
 | Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
+| Manifold Garden | 13621 | [13621-manifold-garden.json](./13621-manifold-garden.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
 | Manipulate: Sacrifice | 150968 | [150968-manipulate-sacrifice.json](./150968-manipulate-sacrifice.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
+| Manual Samuel | 18688 | [18688-manual-samuel.json](./18688-manual-samuel.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
@@ -7004,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
 | Mew Mew Power: Cyniclon Invasion | 328424 | [328424-mew-mew-power-cyniclon-invasion.json](./328424-mew-mew-power-cyniclon-invasion.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
+| Mewgenics | 8042 | [8042-mewgenics.json](./8042-mewgenics.json) |
 | Méwilo | 38861 | [38861-mewilo.json](./38861-mewilo.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
