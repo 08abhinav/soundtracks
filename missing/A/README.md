@@ -7396,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
+| Anyone for Cards? | 72001 | [72001-anyone-for-cards.json](./72001-anyone-for-cards.json) |
 | Anyone There? | 235373 | [235373-anyone-there.json](./235373-anyone-there.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
@@ -9345,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
+| Arnie's America's Cup Challenge | 71991 | [71991-arnies-americas-cup-challenge.json](./71991-arnies-americas-cup-challenge.json) |
 | Arnmoire | 125803 | [125803-arnmoire.json](./125803-arnmoire.json) |
 | Arnold | 166835 | [166835-arnold.json](./166835-arnold.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
@@ -10829,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
+| AtariAge Holiday Greetings 2006: Toyshop Trouble | 72006 | [72006-atariage-holiday-greetings-2006-toyshop-trouble.json](./72006-atariage-holiday-greetings-2006-toyshop-trouble.json) |
 | AtariAge Holiday Greetings 2007: Stella's Stocking | 76458 | [76458-atariage-holiday-greetings-2007-stellas-stocking.json](./76458-atariage-holiday-greetings-2007-stellas-stocking.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
@@ -11385,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Puzzle Adventure | 25827 | [25827-aurora-puzzle-adventure.json](./25827-aurora-puzzle-adventure.json) |
+| Aurora: The Secret Within | 71980 | [71980-aurora-the-secret-within.json](./71980-aurora-the-secret-within.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
 | Aurora's Journey and the Pitiful Lackey | 188964 | [188964-auroras-journey-and-the-pitiful-lackey.json](./188964-auroras-journey-and-the-pitiful-lackey.json) |
@@ -12081,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
+| Aztec Adventure: The Golden Road to Paradise | 71972 | [71972-aztec-adventure-the-golden-road-to-paradise.json](./71972-aztec-adventure-the-golden-road-to-paradise.json) |
 | Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
