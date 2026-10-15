@@ -8575,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
+| Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
 | Commander Bug Wars | 290860 | [290860-commander-bug-wars.json](./290860-commander-bug-wars.json) |
 | Commander Cherry's Puzzled Journey | 19950 | [19950-commander-cherrys-puzzled-journey.json](./19950-commander-cherrys-puzzled-journey.json) |
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
