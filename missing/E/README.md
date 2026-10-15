@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
 | End of Summer | 210570 | [210570-end-of-summer.json](./210570-end-of-summer.json) |
 | End of the Mine | 33283 | [33283-end-of-the-mine.json](./33283-end-of-the-mine.json) |
+| End of the Road VR | 43125 | [43125-end-of-the-road-vr.json](./43125-end-of-the-road-vr.json) |
 | End of the Skyline | 140499 | [140499-end-of-the-skyline.json](./140499-end-of-the-skyline.json) |
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
 | End of the World | 210099 | [210099-end-of-the-world.json](./210099-end-of-the-world.json) |
@@ -5093,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
+| Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
@@ -5548,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
+| Eye of Odin | 43122 | [43122-eye-of-odin.json](./43122-eye-of-odin.json) |
 | Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
