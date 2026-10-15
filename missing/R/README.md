@@ -7184,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
+| Rome Circus Maximus: Chariot Race VR | 68585 | [68585-rome-circus-maximus-chariot-race-vr.json](./68585-rome-circus-maximus-chariot-race-vr.json) |
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
