@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate salmon simulator 2019 | 183312 | [183312-ultimate-salmon-simulator-2019.json](./183312-ultimate-salmon-simulator-2019.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
+| Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
