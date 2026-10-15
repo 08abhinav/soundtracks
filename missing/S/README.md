@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
+| Sentinel: Mars Defense | 63201 | [63201-sentinel-mars-defense.json](./63201-sentinel-mars-defense.json) |
 | Sentinels | 27293 | [27293-sentinels.json](./27293-sentinels.json) |
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
@@ -5927,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirahana no Ori - Hiiro no Kakera 4 | 139109 | [139109-shirahana-no-ori-hiiro-no-kakera-4.json](./139109-shirahana-no-ori-hiiro-no-kakera-4.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
+| Shiren Monsters: Netsal | 63224 | [63224-shiren-monsters-netsal.json](./63224-shiren-monsters-netsal.json) |
 | Shiren the Wanderer 6: Toguro Island Exploration Record Plus Pack | 314953 | [314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json](./314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
@@ -13222,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
+| Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -14468,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
 | Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
+| Spewer | 63228 | [63228-spewer.json](./63228-spewer.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
@@ -16295,6 +16299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
+| Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
