@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
+| Secret Agent Barbie: Royal Jewels Mission | 45170 | [45170-secret-agent-barbie-royal-jewels-mission.json](./45170-secret-agent-barbie-royal-jewels-mission.json) |
 | Secret Agent Cinder | 58702 | [58702-secret-agent-cinder.json](./58702-secret-agent-cinder.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
 | Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
