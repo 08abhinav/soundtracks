@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
 | Valis III | 37607 | [37607-valis-iii.json](./37607-valis-iii.json) |
 | Valis IV | 278475 | [278475-valis-iv.json](./278475-valis-iv.json) |
+| Valis IV | 37603 | [37603-valis-iv.json](./37603-valis-iv.json) |
 | Valis: The Fantasm Soldier | 278476 | [278476-valis-the-fantasm-soldier.json](./278476-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier | 278478 | [278478-valis-the-fantasm-soldier.json](./278478-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
