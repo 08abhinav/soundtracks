@@ -6875,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Alley | 319084 | [319084-side-alley.json](./319084-side-alley.json) |
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
+| Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Characters 2000 Series Vol. 13: Kidou Senki Gundam W - The Battle | 203144 | [203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json](./203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json) |
 | Simple Characters 2000 Series Vol. 14: Nante Tantei Idol - The Jigsaw Puzzle | 203145 | [203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json](./203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json) |
 | Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle | 203146 | [203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json](./203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json) |
+| Simple Characters 2000 Series Vol.8: Kagaru Ninja Tai Gatchaman - The Shooting | 43757 | [43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json](./43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json) |
 | Simple Chess | 115124 | [115124-simple-chess.json](./115124-simple-chess.json) |
 | Simple Complex Puzzle | 186179 | [186179-simple-complex-puzzle.json](./186179-simple-complex-puzzle.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
@@ -15446,6 +15448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
+| Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
 | Sports Trivia: Championship Edition | 46541 | [46541-sports-trivia-championship-edition.json](./46541-sports-trivia-championship-edition.json) |
 | Sports World Tour: Penalty Challenge | 60389 | [60389-sports-world-tour-penalty-challenge.json](./60389-sports-world-tour-penalty-challenge.json) |
@@ -15513,6 +15516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
+| Spriggan: Lunar Verse | 43768 | [43768-spriggan-lunar-verse.json](./43768-spriggan-lunar-verse.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
 | Sprill: Aqua Adventures | 297460 | [297460-sprill-aqua-adventures.json](./297460-sprill-aqua-adventures.json) |
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
