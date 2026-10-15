@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jack*Bot | 92155 | [92155-jack-bot.json](./92155-jack-bot.json) |
+| Jackal | 14133 | [14133-jackal.json](./14133-jackal.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
 | Jackal Squad: Classic Shooting | 197704 | [197704-jackal-squad-classic-shooting.json](./197704-jackal-squad-classic-shooting.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
 | Jeremy the Health Inspector | 353826 | [353826-jeremy-the-health-inspector.json](./353826-jeremy-the-health-inspector.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
+| Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
@@ -1071,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Hole | 220819 | [220819-jewels-hole.json](./220819-jewels-hole.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
+| Jewels of Babylon | 14136 | [14136-jewels-of-babylon.json](./14136-jewels-of-babylon.json) |
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
 | Jewels of Darkness: Dungeon Adventure | 39158 | [39158-jewels-of-darkness-dungeon-adventure.json](./39158-jewels-of-darkness-dungeon-adventure.json) |
@@ -1666,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
+| Jogger | 14137 | [14137-jogger.json](./14137-jogger.json) |
 | Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogging | 358834 | [358834-jogging.json](./358834-jogging.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
@@ -2210,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
+| Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
@@ -2381,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
+| Jumping Jack | 14139 | [14139-jumping-jack.json](./14139-jumping-jack.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
@@ -2478,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungle Adventure | 14140 | [14140-jungle-adventure.json](./14140-jungle-adventure.json) |
 | Jungle Adventure | 322073 | [322073-jungle-adventure.json](./322073-jungle-adventure.json) |
 | Jungle Adventures 2 | 362958 | [362958-jungle-adventures-2.json](./362958-jungle-adventures-2.json) |
 | Jungle Adventures 3 | 221705 | [221705-jungle-adventures-3.json](./221705-jungle-adventures-3.json) |
@@ -2492,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Defence | 116208 | [116208-jungle-defence.json](./116208-jungle-defence.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
+| Jungle Fever | 14141 | [14141-jungle-fever.json](./14141-jungle-fever.json) |
 | Jungle Gems VR | 250845 | [250845-jungle-gems-vr.json](./250845-jungle-gems-vr.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
 | Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
@@ -2523,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
 | Jungle Warfare | 13009 | [13009-jungle-warfare.json](./13009-jungle-warfare.json) |
+| Jungle Warrior | 14142 | [14142-jungle-warrior.json](./14142-jungle-warrior.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
 | Jungle Wars 2: Kodai Mahou Atimos no Nazo | 37972 | [37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json](./37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json) |
 | Jungle Z | 114923 | [114923-jungle-z.json](./114923-jungle-z.json) |
