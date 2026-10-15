@@ -4650,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomu | 188432 | [188432-gomu.json](./188432-gomu.json) |
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
+| Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
 | Gone Camping! | 286223 | [286223-gone-camping.json](./286223-gone-camping.json) |
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
+| Gun Dealer | 40064 | [40064-gun-dealer.json](./40064-gun-dealer.json) |
 | Gun Dealer '94 | 40151 | [40151-gun-dealer-94.json](./40151-gun-dealer-94.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
