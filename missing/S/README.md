@@ -4826,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
 | Shady Trial | 269467 | [269467-shady-trial.json](./269467-shady-trial.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
+| Shady's Poopong | 63786 | [63786-shadys-poopong.json](./63786-shadys-poopong.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
 | Shaftdiver | 218090 | [218090-shaftdiver.json](./218090-shaftdiver.json) |
@@ -5036,6 +5037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
+| Shapes7 | 63743 | [63743-shapes7.json](./63743-shapes7.json) |
+| Shapes8 | 63742 | [63742-shapes8.json](./63742-shapes8.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | ShapeShift Rush | 380176 | [380176-shapeshift-rush.json](./380176-shapeshift-rush.json) |
@@ -7188,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silt | 152261 | [152261-silt.json](./152261-silt.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
+| Silva Saga II: The Legend of Light and Darkness | 63758 | [63758-silva-saga-ii-the-legend-of-light-and-darkness.json](./63758-silva-saga-ii-the-legend-of-light-and-darkness.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silvanis | 365848 | [365848-silvanis.json](./365848-silvanis.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
@@ -9370,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Mach Go Go Go III | 98874 | [98874-slotter-mania-p-mach-go-go-go-iii.json](./98874-slotter-mania-p-mach-go-go-go-iii.json) |
 | Slotter Mania P: SanSan HanaHana & SanSan Oasis | 98875 | [98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json](./98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
+| Slotter Mania V: Zettai Shougeki II | 63764 | [63764-slotter-mania-v-zettai-shougeki-ii.json](./63764-slotter-mania-v-zettai-shougeki-ii.json) |
 | Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
 | Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
 | Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
@@ -12346,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
 | Soreike! Anpanman: 5-tsu no Tou no Ou-sama | 282640 | [282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json](./282640-soreike-anpanman-5-tsu-no-tou-no-ou-sama.json) |
+| Soreike! Anpanman: Baikinman no Daisakusen | 63751 | [63751-soreike-anpanman-baikinman-no-daisakusen.json](./63751-soreike-anpanman-baikinman-no-daisakusen.json) |
 | Soreike! Anpanman: Fushigi na Niko-niko Album | 282641 | [282641-soreike-anpanman-fushigi-na-niko-niko-album.json](./282641-soreike-anpanman-fushigi-na-niko-niko-album.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
@@ -13385,6 +13391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
+| Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
@@ -15858,6 +15865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
 | ST Wars | 44081 | [44081-st-wars.json](./44081-st-wars.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
+| St. Chicken | 63759 | [63759-st-chicken.json](./63759-st-chicken.json) |
 | St. Luminous Jogakuin | 274401 | [274401-st-luminous-jogakuin.json](./274401-st-luminous-jogakuin.json) |
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
@@ -24059,6 +24067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
+| Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
