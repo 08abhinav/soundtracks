@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warships Online | 23624 | [23624-warships-online.json](./23624-warships-online.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
+| Warside | 17785 | [17785-warside.json](./17785-warside.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
@@ -3729,10 +3730,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
+| Wildlife Park 2: Crazy Zoo | 17524 | [17524-wildlife-park-2-crazy-zoo.json](./17524-wildlife-park-2-crazy-zoo.json) |
 | Wildlife Park 2: Dino World | 17551 | [17551-wildlife-park-2-dino-world.json](./17551-wildlife-park-2-dino-world.json) |
 | Wildlife Park 2: Domestic Animals | 163273 | [163273-wildlife-park-2-domestic-animals.json](./163273-wildlife-park-2-domestic-animals.json) |
 | Wildlife Park 2: Fantasy | 17553 | [17553-wildlife-park-2-fantasy.json](./17553-wildlife-park-2-fantasy.json) |
 | Wildlife Park 2: Farm World | 17550 | [17550-wildlife-park-2-farm-world.json](./17550-wildlife-park-2-farm-world.json) |
+| Wildlife Park 2: Horses | 17547 | [17547-wildlife-park-2-horses.json](./17547-wildlife-park-2-horses.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 2: Marine World | 17549 | [17549-wildlife-park-2-marine-world.json](./17549-wildlife-park-2-marine-world.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
