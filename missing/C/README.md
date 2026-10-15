@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
+| Casus Belli | 23547 | [23547-casus-belli.json](./23547-casus-belli.json) |
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
+| Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
@@ -5650,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
+| Chronos Twins DX | 23362 | [23362-chronos-twins-dx.json](./23362-chronos-twins-dx.json) |
 | Chronos: A Tapestry of Time | 69554 | [69554-chronos-a-tapestry-of-time.json](./69554-chronos-a-tapestry-of-time.json) |
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
