@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
+| Empire Heroes: Sudoku Puzzle | 58135 | [58135-empire-heroes-sudoku-puzzle.json](./58135-empire-heroes-sudoku-puzzle.json) |
 | Empire Hike | 395767 | [395767-empire-hike.json](./395767-empire-hike.json) |
 | Empire I: World Builders | 24892 | [24892-empire-i-world-builders.json](./24892-empire-i-world-builders.json) |
 | Empire II: Interstellar Sharks | 24893 | [24893-empire-ii-interstellar-sharks.json](./24893-empire-ii-interstellar-sharks.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
+| EvenFlo | 58111 | [58111-evenflo.json](./58111-evenflo.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
 | Evening Star | 107700 | [107700-evening-star.json](./107700-evening-star.json) |
@@ -5482,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
