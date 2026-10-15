@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting It Up | 182383 | [182383-getting-it-up.json](./182383-getting-it-up.json) |
 | Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
+| Getting Over It with Bennett Foddy | 72373 | [72373-getting-over-it-with-bennett-foddy.json](./72373-getting-over-it-with-bennett-foddy.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
 | Getting to the Other Side!!! | 243565 | [243565-getting-to-the-other-side.json](./243565-getting-to-the-other-side.json) |
@@ -2772,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'N Demons | 139876 | [139876-ghosts-n-demons.json](./139876-ghosts-n-demons.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins | 307805 | [307805-ghosts-n-goblins.json](./307805-ghosts-n-goblins.json) |
+| Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
@@ -5255,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
+| Gran Turismo 5 | 1602 | [1602-gran-turismo-5.json](./1602-gran-turismo-5.json) |
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5 XL Edition | 45205 | [45205-gran-turismo-5-xl-edition.json](./45205-gran-turismo-5-xl-edition.json) |
@@ -6845,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gu-L | 277228 | [277228-gu-l.json](./277228-gu-l.json) |
 | Gua-Le-Ni | 186662 | [186662-gua-le-ni.json](./186662-gua-le-ni.json) |
 | Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
+| Guacamelee! 2 | 75234 | [75234-guacamelee-2.json](./75234-guacamelee-2.json) |
 | Guacamelee! 2 Complete | 119074 | [119074-guacamelee-2-complete.json](./119074-guacamelee-2-complete.json) |
 | Guacamelee! 2: The Proving Grounds | 144703 | [144703-guacamelee-2-the-proving-grounds.json](./144703-guacamelee-2-the-proving-grounds.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
@@ -7265,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumstein: The Awakening | 108333 | [108333-gumstein-the-awakening.json](./108333-gumstein-the-awakening.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun | 248547 | [248547-gun.json](./248547-gun.json) |
+| Gun | 3939 | [3939-gun.json](./3939-gun.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
