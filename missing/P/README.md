@@ -8574,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
+| Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
@@ -11467,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
+| Psychic Storm | 37618 | [37618-psychic-storm.json](./37618-psychic-storm.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psychical Madness | 54339 | [54339-psychical-madness.json](./54339-psychical-madness.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
