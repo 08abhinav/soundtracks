@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
 | Vacation Simulator | 76878 | [76878-vacation-simulator.json](./76878-vacation-simulator.json) |
 | Vacation Simulator: Back to Job | 135123 | [135123-vacation-simulator-back-to-job.json](./135123-vacation-simulator-back-to-job.json) |
+| Vacation Sports | 51106 | [51106-vacation-sports.json](./51106-vacation-sports.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vacation Vexation | 57155 | [57155-vacation-vexation.json](./57155-vacation-vexation.json) |
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
