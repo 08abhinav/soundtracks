@@ -6254,7 +6254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
-| Rochard | 5969 | [5969-rochard.json](./5969-rochard.json) |
 | Rochard: Hard Times | 10780 | [10780-rochard-hard-times.json](./10780-rochard-hard-times.json) |
 | Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
 | Roche Limit: The Death of CMK | 240370 | [240370-roche-limit-the-death-of-cmk.json](./240370-roche-limit-the-death-of-cmk.json) |
