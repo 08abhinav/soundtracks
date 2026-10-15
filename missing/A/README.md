@@ -6597,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
 | Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
 | Animal Jigsaw VR | 247971 | [247971-animal-jigsaw-vr.json](./247971-animal-jigsaw-vr.json) |
+| Animal Kaiser: The King of Animals | 56998 | [56998-animal-kaiser-the-king-of-animals.json](./56998-animal-kaiser-the-king-of-animals.json) |
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
@@ -8916,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
 | Arena of the Titans | 368365 | [368365-arena-of-the-titans.json](./368365-arena-of-the-titans.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Arena Quest RPG | 56990 | [56990-arena-quest-rpg.json](./56990-arena-quest-rpg.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
@@ -9944,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
 | Ashita Deatta Shoujo | 315209 | [315209-ashita-deatta-shoujo.json](./315209-ashita-deatta-shoujo.json) |
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
+| Ashita no Joe Touch: Typing Namida Hashi | 56996 | [56996-ashita-no-joe-touch-typing-namida-hashi.json](./56996-ashita-no-joe-touch-typing-namida-hashi.json) |
 | Ashita, Hajimete Kanojo to | 211648 | [211648-ashita-hajimete-kanojo-to.json](./211648-ashita-hajimete-kanojo-to.json) |
 | Ashkeep | 212748 | [212748-ashkeep.json](./212748-ashkeep.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
