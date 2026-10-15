@@ -680,7 +680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection | 23759 | [23759-natural-selection.json](./23759-natural-selection.json) |
-| Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
 | Natural Selection University | 335390 | [335390-natural-selection-university.json](./335390-natural-selection-university.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
@@ -1598,7 +1597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
 | Neo-Zero | 160271 | [160271-neo-zero.json](./160271-neo-zero.json) |
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
-| NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
