@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
+| Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
 | Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
@@ -5720,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingata Medarot Kabuto/Kuwagata | 65976 | [65976-shingata-medarot-kabuto-kuwagata.json](./65976-shingata-medarot-kabuto-kuwagata.json) |
 | Shingata Medarot: Kabuto Version | 49823 | [49823-shingata-medarot-kabuto-version.json](./49823-shingata-medarot-kabuto-version.json) |
 | Shingata Medarot: Kuwagata Version | 49822 | [49822-shingata-medarot-kuwagata-version.json](./49822-shingata-medarot-kuwagata-version.json) |
+| Shingeki no Kyojin Banda Attack on Typing | 55820 | [55820-shingeki-no-kyojin-banda-attack-on-typing.json](./55820-shingeki-no-kyojin-banda-attack-on-typing.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
 | Shingeki No Unity Chan | 297634 | [297634-shingeki-no-unity-chan.json](./297634-shingeki-no-unity-chan.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
@@ -7955,6 +7957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Legends | 191521 | [191521-six-legends.json](./191521-six-legends.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
+| Six Micro Stories | 55832 | [55832-six-micro-stories.json](./55832-six-micro-stories.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
 | Six Miles Under | 85378 | [85378-six-miles-under.json](./85378-six-miles-under.json) |
 | Six Minute Showdown | 279570 | [279570-six-minute-showdown.json](./279570-six-minute-showdown.json) |
@@ -13662,6 +13665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
+| Space Tunnel | 55823 | [55823-space-tunnel.json](./55823-space-tunnel.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
@@ -15746,6 +15750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
+| Square x Square | 55815 | [55815-square-x-square.json](./55815-square-x-square.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
@@ -17671,6 +17676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
+| Steampunk Syndicate 2 | 55797 | [55797-steampunk-syndicate-2.json](./55797-steampunk-syndicate-2.json) |
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
 | Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
