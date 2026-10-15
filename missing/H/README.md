@@ -6024,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
+| HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
 | Hololive Error | 186622 | [186622-hololive-error.json](./186622-hololive-error.json) |
@@ -7813,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
+| Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
