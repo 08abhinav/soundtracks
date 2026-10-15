@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch-Bot Meglilo | 33652 | [33652-witch-bot-meglilo.json](./33652-witch-bot-meglilo.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
+| Witch! | 70854 | [70854-witch.json](./70854-witch.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
 | Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
