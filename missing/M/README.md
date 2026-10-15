@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
+| Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
@@ -6343,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
+| Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
