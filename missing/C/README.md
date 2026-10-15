@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
+| Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
+| Cavernus | 32611 | [32611-cavernus.json](./32611-cavernus.json) |
 | Caves (Roguelike) | 141828 | [141828-caves-roguelike.json](./141828-caves-roguelike.json) |
 | Caves of Fear | 302602 | [302602-caves-of-fear.json](./302602-caves-of-fear.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
@@ -10019,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
+| Cosm | 32693 | [32693-cosm.json](./32693-cosm.json) |
 | Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
 | Cosmetic Paradise | 47871 | [47871-cosmetic-paradise.json](./47871-cosmetic-paradise.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
@@ -11887,6 +11890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Croneworld | 83815 | [83815-croneworld.json](./83815-croneworld.json) |
+| Crongdor the Barbarian | 32703 | [32703-crongdor-the-barbarian.json](./32703-crongdor-the-barbarian.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
