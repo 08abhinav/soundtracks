@@ -5407,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
 | Shelltered | 353359 | [353359-shelltered.json](./353359-shelltered.json) |
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
+| Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter 3 | 116905 | [116905-shelter-3.json](./116905-shelter-3.json) |
@@ -6792,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
+| Sid Meier's C.P.U. Bach | 38818 | [38818-sid-meiers-c-p-u-bach.json](./38818-sid-meiers-c-p-u-bach.json) |
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
 | Sid Meier's Civilization II | 634 | [634-sid-meiers-civilization-ii.json](./634-sid-meiers-civilization-ii.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
@@ -19411,6 +19413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Striker Zone | 252266 | [252266-striker-zone.json](./252266-striker-zone.json) |
+| Striker: World Cup Special | 38827 | [38827-striker-world-cup-special.json](./38827-striker-world-cup-special.json) |
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
 | Striker's Instinct | 406155 | [406155-strikers-instinct.json](./406155-strikers-instinct.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
