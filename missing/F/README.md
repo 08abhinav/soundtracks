@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
+| Favela Wars | 62612 | [62612-favela-wars.json](./62612-favela-wars.json) |
 | Favij: The Game | 383590 | [383590-favij-the-game.json](./383590-favij-the-game.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
@@ -3242,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
 | FIL | 160096 | [160096-fil.json](./160096-fil.json) |
+| Fila Decathlon | 62641 | [62641-fila-decathlon.json](./62641-fila-decathlon.json) |
 | Filament | 121885 | [121885-filament.json](./121885-filament.json) |
 | Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
