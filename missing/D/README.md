@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
+| Dachinko | 25484 | [25484-dachinko.json](./25484-dachinko.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | Dachs Hunter | 336757 | [336757-dachs-hunter.json](./336757-dachs-hunter.json) |
 | DACHStudio Jigsaw Puzzle Box | 289770 | [289770-dachstudio-jigsaw-puzzle-box.json](./289770-dachstudio-jigsaw-puzzle-box.json) |
@@ -7853,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
+| Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
@@ -8312,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
+| Don't Get Angry! 3 | 25493 | [25493-dont-get-angry-3.json](./25493-dont-get-angry-3.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Eaten! | 219751 | [219751-dont-get-eaten.json](./219751-dont-get-eaten.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
@@ -10387,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
+| Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
 | Dragoon Armor for Adult | 67259 | [67259-dragoon-armor-for-adult.json](./67259-dragoon-armor-for-adult.json) |
 | Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
