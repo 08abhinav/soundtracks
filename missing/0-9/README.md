@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
+| 1982 | 43126 | [43126-1982.json](./43126-1982.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
+| 4th of July VR | 43100 | [43100-4th-of-july-vr.json](./43100-4th-of-july-vr.json) |
 | 4th Super Industrial Revolution Wars | 129071 | [129071-4th-super-industrial-revolution-wars.json](./129071-4th-super-industrial-revolution-wars.json) |
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
 | 4Thewords | 137942 | [137942-4thewords.json](./137942-4thewords.json) |
