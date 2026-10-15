@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
+| Nanoscape | 55774 | [55774-nanoscape.json](./55774-nanoscape.json) |
 | Nanosmiles | 295669 | [295669-nanosmiles.json](./295669-nanosmiles.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
@@ -1583,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
+| NeoBoom | 55780 | [55780-neoboom.json](./55780-neoboom.json) |
 | NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
@@ -4196,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
+| Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Shouseiroku | 269520 | [269520-nobunagas-ambition-shouseiroku.json](./269520-nobunagas-ambition-shouseiroku.json) |
