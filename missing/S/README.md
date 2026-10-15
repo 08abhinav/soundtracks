@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor Jump | 120108 | [120108-sailor-jump.json](./120108-sailor-jump.json) |
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
+| Sailor Moon Drops | 59755 | [59755-sailor-moon-drops.json](./59755-sailor-moon-drops.json) |
 | Sailor Moon Fighter S | 140404 | [140404-sailor-moon-fighter-s.json](./140404-sailor-moon-fighter-s.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
@@ -5278,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
+| Sheep Dreams Are Made of This | 59832 | [59832-sheep-dreams-are-made-of-this.json](./59832-sheep-dreams-are-made-of-this.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep Gather | 290994 | [290994-sheep-gather.json](./290994-sheep-gather.json) |
 | Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
@@ -6615,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
+| Shuriken Sentai Ninninger: Game de Wasshoi!! | 59748 | [59748-shuriken-sentai-ninninger-game-de-wasshoi.json](./59748-shuriken-sentai-ninninger-game-de-wasshoi.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
 | Shurikoo Sprint | 308994 | [308994-shurikoo-sprint.json](./308994-shurikoo-sprint.json) |
 | Shuruka Boxing | 348844 | [348844-shuruka-boxing.json](./348844-shuruka-boxing.json) |
@@ -20171,6 +20174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
 | Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
+| Sumairu Cubic! -Suiheisen made Nan Mile? After & Another Stories- | 59772 | [59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json](./59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
@@ -22636,6 +22640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
 | Super Zombie Arcade | 110094 | [110094-super-zombie-arcade.json](./110094-super-zombie-arcade.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
+| Super Zugan 2: Tsukanpo Fighter | 59834 | [59834-super-zugan-2-tsukanpo-fighter.json](./59834-super-zugan-2-tsukanpo-fighter.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-B | 373220 | [373220-super-b.json](./373220-super-b.json) |
