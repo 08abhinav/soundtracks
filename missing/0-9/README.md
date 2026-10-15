@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Hits | 235752 | [235752-100-hits.json](./235752-100-hits.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
+| 100% Orange Juice: All Stars Collection | 52527 | [52527-100-orange-juice-all-stars-collection.json](./52527-100-orange-juice-all-stars-collection.json) |
 | 100% Orange Juice: Arnelle & Maynie | 164463 | [164463-100-orange-juice-arnelle-and-maynie.json](./164463-100-orange-juice-arnelle-and-maynie.json) |
 | 100% Orange Juice: Breaker Pack | 164464 | [164464-100-orange-juice-breaker-pack.json](./164464-100-orange-juice-breaker-pack.json) |
 | 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
