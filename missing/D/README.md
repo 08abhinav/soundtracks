@@ -8086,6 +8086,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin's Dream | 74704 | [74704-dolphins-dream.json](./74704-dolphins-dream.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
+| Dolucky no A.League Soccer | 38208 | [38208-dolucky-no-a-league-soccer.json](./38208-dolucky-no-a-league-soccer.json) |
+| Dolucky no Kusayakiu | 38209 | [38209-dolucky-no-kusayakiu.json](./38209-dolucky-no-kusayakiu.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Dom-2 | 366376 | [366376-dom-2.json](./366376-dom-2.json) |
