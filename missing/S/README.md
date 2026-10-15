@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Sword | 47247 | [47247-samurai-sword.json](./47247-samurai-sword.json) |
+| Samurai Sword Destiny | 65399 | [65399-samurai-sword-destiny.json](./65399-samurai-sword-destiny.json) |
 | Samurai Sword Stage | 236784 | [236784-samurai-sword-stage.json](./236784-samurai-sword-stage.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
@@ -2653,8 +2654,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Next: Unit & Map Collection | 234772 | [234772-sd-gundam-g-next-unit-and-map-collection.json](./234772-sd-gundam-g-next-unit-and-map-collection.json) |
 | SD Gundam G-Century | 159236 | [159236-sd-gundam-g-century.json](./159236-sd-gundam-g-century.json) |
 | SD Gundam G-Century S | 159235 | [159235-sd-gundam-g-century-s.json](./159235-sd-gundam-g-century-s.json) |
+| SD Gundam Gaiden 2: Entaku no Kishi | 65387 | [65387-sd-gundam-gaiden-2-entaku-no-kishi.json](./65387-sd-gundam-gaiden-2-entaku-no-kishi.json) |
 | SD Gundam Gaiden IV: Hikari no Knight Densetsu | 385788 | [385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json](./385788-sd-gundam-gaiden-iv-hikari-no-knight-densetsu.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
+| SD Gundam Gaiden: Knight Gundam Monogatari - Ooinaru Isan | 65379 | [65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json](./65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
@@ -2670,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
+| SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
@@ -8690,12 +8694,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
+| Slam Dunk 2: IH Yosen Kanzenban!! | 65428 | [65428-slam-dunk-2-ih-yosen-kanzenban.json](./65428-slam-dunk-2-ih-yosen-kanzenban.json) |
 | Slam Dunk 2: Zenkoku he no Tip Off | 228502 | [228502-slam-dunk-2-zenkoku-he-no-tip-off.json](./228502-slam-dunk-2-zenkoku-he-no-tip-off.json) |
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
+| Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
@@ -23050,6 +23056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
+| Survival 2: Get Lucky | 65417 | [65417-survival-2-get-lucky.json](./65417-survival-2-get-lucky.json) |
 | Survival 456 But It's Impostor | 223899 | [223899-survival-456-but-its-impostor.json](./223899-survival-456-but-its-impostor.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
 | Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
