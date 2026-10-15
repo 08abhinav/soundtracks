@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
 | Journey to Wild Divine | 23743 | [23743-journey-to-wild-divine.json](./23743-journey-to-wild-divine.json) |
+| Journey: Benjamin's Adventures | 29653 | [29653-journey-benjamins-adventures.json](./29653-journey-benjamins-adventures.json) |
 | Journey: The Heart of Gaia | 50463 | [50463-journey-the-heart-of-gaia.json](./50463-journey-the-heart-of-gaia.json) |
 | Journey: The Quest Begins | 12163 | [12163-journey-the-quest-begins.json](./12163-journey-the-quest-begins.json) |
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
