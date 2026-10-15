@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Robot Fighting | 334939 | [334939-ultimate-robot-fighting.json](./334939-ultimate-robot-fighting.json) |
 | Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate Royal Battlegrounds | 95311 | [95311-ultimate-royal-battlegrounds.json](./95311-ultimate-royal-battlegrounds.json) |
+| Ultimate Russian Zombie Rush | 29611 | [29611-ultimate-russian-zombie-rush.json](./29611-ultimate-russian-zombie-rush.json) |
 | Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate salmon simulator 2019 | 183312 | [183312-ultimate-salmon-simulator-2019.json](./183312-ultimate-salmon-simulator-2019.json) |
