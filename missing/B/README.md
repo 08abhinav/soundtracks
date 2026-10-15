@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad School Boy | 81160 | [81160-bad-school-boy.json](./81160-bad-school-boy.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Shooter 2 | 55284 | [55284-bad-shooter-2.json](./55284-bad-shooter-2.json) |
+| Bad Smell | 62083 | [62083-bad-smell.json](./62083-bad-smell.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary | 208640 | [208640-binary.json](./208640-binary.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
+| Binary Blitz | 62062 | [62062-binary-blitz.json](./62062-binary-blitz.json) |
 | Binary Blocks | 182894 | [182894-binary-blocks.json](./182894-binary-blocks.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
 | Binary Distortion | 142724 | [142724-binary-distortion.json](./142724-binary-distortion.json) |
@@ -6378,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
+| Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
