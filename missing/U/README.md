@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
+| Ultimate Adventure 4 | 41196 | [41196-ultimate-adventure-4.json](./41196-ultimate-adventure-4.json) |
 | Ultimate Anime Jigsaw Puzzle | 242015 | [242015-ultimate-anime-jigsaw-puzzle.json](./242015-ultimate-anime-jigsaw-puzzle.json) |
 | Ultimate Apocalypse | 252841 | [252841-ultimate-apocalypse.json](./252841-ultimate-apocalypse.json) |
 | Ultimate Arcade Games | 49262 | [49262-ultimate-arcade-games.json](./49262-ultimate-arcade-games.json) |
