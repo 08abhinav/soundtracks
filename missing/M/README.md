@@ -9603,6 +9603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | Mnemocyne Complex | 365813 | [365813-mnemocyne-complex.json](./365813-mnemocyne-complex.json) |
 | Mnemonic | 336488 | [336488-mnemonic.json](./336488-mnemonic.json) |
+| Mnemonic | 60438 | [60438-mnemonic.json](./60438-mnemonic.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
 | Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | Mnemosyne's Cube | 395159 | [395159-mnemosynes-cube.json](./395159-mnemosynes-cube.json) |
@@ -10831,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
 | Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
+| Monster Tale Ultimate | 60450 | [60450-monster-tale-ultimate.json](./60450-monster-tale-ultimate.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tamer | 366100 | [366100-monster-tamer.json](./366100-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
