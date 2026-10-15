@@ -5354,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
+| Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
