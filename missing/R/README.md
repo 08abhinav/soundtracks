@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain City | 120066 | [120066-rain-city.json](./120066-rain-city.json) |
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
+| Rain Drops | 69194 | [69194-rain-drops.json](./69194-rain-drops.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
@@ -6410,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
+| Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
