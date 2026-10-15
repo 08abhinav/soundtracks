@@ -9065,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
 | The Lord of the Rings Online: Quest Pack: Where Dragons Dwell | 384539 | [384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json](./384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json) |
+| The Lord of the Rings Online: Riders of Rohan | 19098 | [19098-the-lord-of-the-rings-online-riders-of-rohan.json](./19098-the-lord-of-the-rings-online-riders-of-rohan.json) |
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
@@ -11316,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case 2425: Deluxe Edition | 146185 | [146185-the-silver-case-2425-deluxe-edition.json](./146185-the-silver-case-2425-deluxe-edition.json) |
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
+| The SIlver Key | 19087 | [19087-the-silver-key.json](./19087-the-silver-key.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
