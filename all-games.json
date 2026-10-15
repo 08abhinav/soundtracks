@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:30:46.309Z",
-  "total_soundtracks": 1686,
+  "generated_at": "2026-10-15T19:30:58.838Z",
+  "total_soundtracks": 1687,
   "games": [
     {
       "igdb_id": 7522,
@@ -7290,6 +7290,20 @@
           "album_name": "GoldenEye 007, Iconic Themes",
           "spotify_url": "https://open.spotify.com/album/7wEcz0DKQrgR1R1f1dS782",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 30099,
+      "game_name": "Golf It!",
+      "game_url": "https://ostdb.net/games/golf-it",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27391e41d0b6471eef3b4cb7e75",
+      "albums": [
+        {
+          "album_name": "Golf It Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7oEVJkhjzuLQ5cOSsmqTzO",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
