@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
+| 8-Bit Mini Mayhem | 65418 | [65418-8-bit-mini-mayhem.json](./65418-8-bit-mini-mayhem.json) |
 | 8-Bit Panda | 136343 | [136343-8-bit-panda.json](./136343-8-bit-panda.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Rhythm Land | 195498 | [195498-8-bit-rhythm-land.json](./195498-8-bit-rhythm-land.json) |
