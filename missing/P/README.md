@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
+| Pathways into Darkness | 38747 | [38747-pathways-into-darkness.json](./38747-pathways-into-darkness.json) |
 | Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
