@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
+| The Berenstain Bears: Big Number Hunt | 65987 | [65987-the-berenstain-bears-big-number-hunt.json](./65987-the-berenstain-bears-big-number-hunt.json) |
 | The Berenstain Bears: Camping Adventure | 46539 | [46539-the-berenstain-bears-camping-adventure.json](./46539-the-berenstain-bears-camping-adventure.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
 | The Beresford family | 197101 | [197101-the-beresford-family.json](./197101-the-beresford-family.json) |
@@ -7013,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
+| The Green Hornet: Wheels of Justice | 66022 | [66022-the-green-hornet-wheels-of-justice.json](./66022-the-green-hornet-wheels-of-justice.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
@@ -16618,6 +16620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togainu no Chi: Typing | 237424 | [237424-togainu-no-chi-typing.json](./237424-togainu-no-chi-typing.json) |
 | Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
 | Togedemaru's Hop to the Top | 84121 | [84121-togedemarus-hop-to-the-top.json](./84121-togedemarus-hop-to-the-top.json) |
+| Togepi no Daibouken | 66024 | [66024-togepi-no-daibouken.json](./66024-togepi-no-daibouken.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
@@ -17683,6 +17686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
+| Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
@@ -18163,6 +18167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 298968 | [298968-touhou-shinpiroku-urban-legend-in-limbo.json](./298968-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
+| Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
 | Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
