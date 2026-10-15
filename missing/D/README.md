@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen Z: Tengoku-hen | 80141 | [80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json](./80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
+| Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiichi Dash | 132671 | [132671-daiichi-dash.json](./132671-daiichi-dash.json) |
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
+| Daikaiju no Gyakushu | 65393 | [65393-daikaiju-no-gyakushu.json](./65393-daikaiju-no-gyakushu.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
@@ -2288,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End City | 197176 | [197176-dead-end-city.json](./197176-dead-end-city.json) |
 | Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
+| Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
@@ -4381,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denizen | 227193 | [227193-denizen.json](./227193-denizen.json) |
+| Denizen's Den | 65382 | [65382-denizens-den.json](./65382-denizens-den.json) |
 | Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
