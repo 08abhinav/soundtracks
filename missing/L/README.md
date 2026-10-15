@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
+| Leiji Matsumoto 999: Story of Galaxy Express 999 | 70283 | [70283-leiji-matsumoto-999-story-of-galaxy-express-999.json](./70283-leiji-matsumoto-999-story-of-galaxy-express-999.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Léinǔ Jīshén | 266666 | [266666-leinu-jishen.json](./266666-leinu-jishen.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi and the Quest for Nothing Revisited | 381732 | [381732-luigi-and-the-quest-for-nothing-revisited.json](./381732-luigi-and-the-quest-for-nothing-revisited.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
+| Luigi en Circusland | 70304 | [70304-luigi-en-circusland.json](./70304-luigi-en-circusland.json) |
 | Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
 | Luigi Kaizo King | 218067 | [218067-luigi-kaizo-king.json](./218067-luigi-kaizo-king.json) |
@@ -6603,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
+| Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
