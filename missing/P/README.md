@@ -2206,12 +2206,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro GB | 229570 | [229570-pawapuro-gb.json](./229570-pawapuro-gb.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
+| Pawapuro-kun Pocket | 63219 | [63219-pawapuro-kun-pocket.json](./63219-pawapuro-kun-pocket.json) |
 | Pawapuro-kun Pocket 1 & 2 | 95361 | [95361-pawapuro-kun-pocket-1-and-2.json](./95361-pawapuro-kun-pocket-1-and-2.json) |
 | Pawapuro-kun Pocket 10 | 98516 | [98516-pawapuro-kun-pocket-10.json](./98516-pawapuro-kun-pocket-10.json) |
 | Pawapuro-kun Pocket 11 | 98517 | [98517-pawapuro-kun-pocket-11.json](./98517-pawapuro-kun-pocket-11.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawapuro-kun Pocket 13 | 98509 | [98509-pawapuro-kun-pocket-13.json](./98509-pawapuro-kun-pocket-13.json) |
+| Pawapuro-kun Pocket 14 | 63216 | [63216-pawapuro-kun-pocket-14.json](./63216-pawapuro-kun-pocket-14.json) |
+| Pawapuro-kun Pocket 2 | 63218 | [63218-pawapuro-kun-pocket-2.json](./63218-pawapuro-kun-pocket-2.json) |
+| Pawapuro-kun Pocket 3 | 63217 | [63217-pawapuro-kun-pocket-3.json](./63217-pawapuro-kun-pocket-3.json) |
 | Pawapuro-kun Pocket 4 | 79833 | [79833-pawapuro-kun-pocket-4.json](./79833-pawapuro-kun-pocket-4.json) |
+| Pawapuro-kun Pocket 5 | 63215 | [63215-pawapuro-kun-pocket-5.json](./63215-pawapuro-kun-pocket-5.json) |
 | Pawapuro-kun Pocket 6 | 237346 | [237346-pawapuro-kun-pocket-6.json](./237346-pawapuro-kun-pocket-6.json) |
 | Pawapuro-kun Pocket 7 | 237347 | [237347-pawapuro-kun-pocket-7.json](./237347-pawapuro-kun-pocket-7.json) |
 | Pawapuro-kun Pocket 8 | 98513 | [98513-pawapuro-kun-pocket-8.json](./98513-pawapuro-kun-pocket-8.json) |
@@ -6290,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
 | Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
+| Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
