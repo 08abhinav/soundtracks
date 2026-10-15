@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
+| CatchWord | 71420 | [71420-catchword.json](./71420-catchword.json) |
 | Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
@@ -7218,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
+| Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra Kai: Card Fighter | 143371 | [143371-cobra-kai-card-fighter.json](./143371-cobra-kai-card-fighter.json) |
@@ -10073,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmos no Sora ni | 395012 | [395012-cosmos-no-sora-ni.json](./395012-cosmos-no-sora-ni.json) |
 | Cosmos Quest | 395859 | [395859-cosmos-quest.json](./395859-cosmos-quest.json) |
+| Cosmos Quest I: To Find a Sun | 71405 | [71405-cosmos-quest-i-to-find-a-sun.json](./71405-cosmos-quest-i-to-find-a-sun.json) |
 | Cosmos Quest II: To Find a Sun | 98471 | [98471-cosmos-quest-ii-to-find-a-sun.json](./98471-cosmos-quest-ii-to-find-a-sun.json) |
 | Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
@@ -10796,6 +10799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
+| Crash Powertape September 1991 | 71383 | [71383-crash-powertape-september-1991.json](./71383-crash-powertape-september-1991.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
