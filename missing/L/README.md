@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny Loosejocks in Space | 199337 | [199337-lenny-loosejocks-in-space.json](./199337-lenny-loosejocks-in-space.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
+| Lenny's Music Toons | 71995 | [71995-lennys-music-toons.json](./71995-lennys-music-toons.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Explore the Farm | 35470 | [35470-lets-explore-the-farm.json](./35470-lets-explore-the-farm.json) |
 | Let's Explore the Jungle | 35471 | [35471-lets-explore-the-jungle.json](./35471-lets-explore-the-jungle.json) |
+| Let's Explore the Jungle | 72005 | [72005-lets-explore-the-jungle.json](./72005-lets-explore-the-jungle.json) |
 | Let’s Fall in Love | 392309 | [392309-let-s-fall-in-love.json](./392309-let-s-fall-in-love.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
