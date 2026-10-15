@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Chaves | 252904 | [252904-pac-chaves.json](./252904-pac-chaves.json) |
+| Pac-Chomp! | 62605 | [62605-pac-chomp.json](./62605-pac-chomp.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
@@ -4942,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
 | Pingu no Waku-waku Carnival | 72786 | [72786-pingu-no-waku-waku-carnival.json](./72786-pingu-no-waku-waku-carnival.json) |
 | Pingu: A Barrel of Fun! | 130681 | [130681-pingu-a-barrel-of-fun.json](./130681-pingu-a-barrel-of-fun.json) |
+| Pingu: Sekai de Ichiban Genki na Penguin | 62607 | [62607-pingu-sekai-de-ichiban-genki-na-penguin.json](./62607-pingu-sekai-de-ichiban-genki-na-penguin.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
