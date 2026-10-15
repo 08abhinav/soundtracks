@@ -7482,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
+| Midnight Outlaw: Illegal Street Drag | 71990 | [71990-midnight-outlaw-illegal-street-drag.json](./71990-midnight-outlaw-illegal-street-drag.json) |
 | Midnight Outlaw: Illegal Street Drag - Nitro Edition | 73194 | [73194-midnight-outlaw-illegal-street-drag-nitro-edition.json](./73194-midnight-outlaw-illegal-street-drag-nitro-edition.json) |
 | Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
@@ -7606,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
+| Might and Magic: Swords of Xeen | 72004 | [72004-might-and-magic-swords-of-xeen.json](./72004-might-and-magic-swords-of-xeen.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
@@ -7868,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
 | Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
+| Millie Meter's Nutrition Adventure | 71964 | [71964-millie-meters-nutrition-adventure.json](./71964-millie-meters-nutrition-adventure.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
@@ -11418,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: El Sulfato Atómico | 69909 | [69909-mortadelo-y-filemon-el-sulfato-atomico.json](./69909-mortadelo-y-filemon-el-sulfato-atomico.json) |
 | Mortadelo y Filemón: La Banda de Corvino | 115598 | [115598-mortadelo-y-filemon-la-banda-de-corvino.json](./115598-mortadelo-y-filemon-la-banda-de-corvino.json) |
 | Mortadelo y Filemón: La Sexta Secta | 277928 | [277928-mortadelo-y-filemon-la-sexta-secta.json](./277928-mortadelo-y-filemon-la-sexta-secta.json) |
+| Mortadelo y Filemón: Mamelucos a la Romana | 71979 | [71979-mortadelo-y-filemon-mamelucos-a-la-romana.json](./71979-mortadelo-y-filemon-mamelucos-a-la-romana.json) |
 | Mortadelo y Filemón: Operación Moscú | 77301 | [77301-mortadelo-y-filemon-operacion-moscu.json](./77301-mortadelo-y-filemon-operacion-moscu.json) |
 | Mortadelo y Filemón: Terror, Espanto y Pavor | 277925 | [277925-mortadelo-y-filemon-terror-espanto-y-pavor.json](./277925-mortadelo-y-filemon-terror-espanto-y-pavor.json) |
 | Mortadelo y Filemón: Una Aventura de Cine | 77211 | [77211-mortadelo-y-filemon-una-aventura-de-cine.json](./77211-mortadelo-y-filemon-una-aventura-de-cine.json) |
