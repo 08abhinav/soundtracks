@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
 | Legends of Draxia | 174612 | [174612-legends-of-draxia.json](./174612-legends-of-draxia.json) |
 | Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
+| Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
 | Legends of Exidia | 67152 | [67152-legends-of-exidia.json](./67152-legends-of-exidia.json) |
@@ -5271,9 +5272,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
+| Lords of the Realm: Royal Edition | 51841 | [51841-lords-of-the-realm-royal-edition.json](./51841-lords-of-the-realm-royal-edition.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
+| Lords of Xulima: Deluxe Edition | 51840 | [51840-lords-of-xulima-deluxe-edition.json](./51840-lords-of-xulima-deluxe-edition.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
 | Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
 | Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
@@ -6591,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
+| Lumo: Deluxe Edition | 51839 | [51839-lumo-deluxe-edition.json](./51839-lumo-deluxe-edition.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
