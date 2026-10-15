@@ -3529,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf II | 368635 | [368635-pga-tour-golf-ii.json](./368635-pga-tour-golf-ii.json) |
+| PGA Tour Golf III | 45781 | [45781-pga-tour-golf-iii.json](./45781-pga-tour-golf-iii.json) |
 | PGA Tour Golf Shootout | 137414 | [137414-pga-tour-golf-shootout.json](./137414-pga-tour-golf-shootout.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
@@ -6337,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
 | Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
 | Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
+| Planet Ring | 45805 | [45805-planet-ring.json](./45805-planet-ring.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
@@ -9295,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
 | Power's Out | 142150 | [142150-powers-out.json](./142150-powers-out.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
+| Powerball | 45779 | [45779-powerball.json](./45779-powerball.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
 | Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
@@ -10302,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
+| Pro Quarterback | 45778 | [45778-pro-quarterback.json](./45778-pro-quarterback.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
 | Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
