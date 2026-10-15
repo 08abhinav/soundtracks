@@ -11595,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
+| Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
 | Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
@@ -12095,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
+| Azada: in Libro | 63778 | [63778-azada-in-libro.json](./63778-azada-in-libro.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
 | Azalta | 165515 | [165515-azalta.json](./165515-azalta.json) |
