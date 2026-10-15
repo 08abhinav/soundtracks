@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego in a Coma | 141616 | [141616-ego-in-a-coma.json](./141616-ego-in-a-coma.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
+| Ego Protocol | 33930 | [33930-ego-protocol.json](./33930-ego-protocol.json) |
 | Ego Protocol: Remastered | 144688 | [144688-ego-protocol-remastered.json](./144688-ego-protocol-remastered.json) |
 | Ego's Spark | 280158 | [280158-egos-spark.json](./280158-egos-spark.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET: Legacy | 142954 | [142954-et-legacy.json](./142954-et-legacy.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
+| Etaria: Survival Adventure | 33951 | [33951-etaria-survival-adventure.json](./33951-etaria-survival-adventure.json) |
 | ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
 | Etcetera | 255000 | [255000-etcetera.json](./255000-etcetera.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
+| Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
 | Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
