@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
 | BiBi World | 174710 | [174710-bibi-world.json](./174710-bibi-world.json) |
 | Bibidi Bibidi! | 352229 | [352229-bibidi-bibidi.json](./352229-bibidi-bibidi.json) |
+| Bible Black: The Infection | 72571 | [72571-bible-black-the-infection.json](./72571-bible-black-the-infection.json) |
 | Bible Buffet | 11163 | [11163-bible-buffet.json](./11163-bible-buffet.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
