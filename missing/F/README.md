@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
+| Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
@@ -5364,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
+| Flip | 35356 | [35356-flip.json](./35356-flip.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
 | Flip & Flop | 41006 | [41006-flip-and-flop.json](./41006-flip-and-flop.json) |
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreshCharge Ruru | 250269 | [250269-freshcharge-ruru.json](./250269-freshcharge-ruru.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
+| Freshman Year | 35405 | [35405-freshman-year.json](./35405-freshman-year.json) |
 | Freshwater Fishing Simulator | 68987 | [68987-freshwater-fishing-simulator.json](./68987-freshwater-fishing-simulator.json) |
 | FreshWomen: Season 2 | 280136 | [280136-freshwomen-season-2.json](./280136-freshwomen-season-2.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
