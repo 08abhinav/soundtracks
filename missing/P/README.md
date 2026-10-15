@@ -10021,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
+| Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
@@ -11675,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
+| Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
