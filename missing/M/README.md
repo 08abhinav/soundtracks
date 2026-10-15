@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machinarium & Creaks Bundle | 164571 | [164571-machinarium-and-creaks-bundle.json](./164571-machinarium-and-creaks-bundle.json) |
 | Machinarium: Collector's Edition | 51838 | [51838-machinarium-collectors-edition.json](./51838-machinarium-collectors-edition.json) |
+| Machinations: Fog of War | 31582 | [31582-machinations-fog-of-war.json](./31582-machinations-fog-of-war.json) |
 | Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
