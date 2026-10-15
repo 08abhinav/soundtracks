@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
+| Tales of the Tiny Planet | 43123 | [43123-tales-of-the-tiny-planet.json](./43123-tales-of-the-tiny-planet.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394228 | [394228-tales-of-the-unknown-volume-i-the-bards-tale.json](./394228-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -10867,6 +10868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
+| The Safeguard Garrison: Space Colonies | 43159 | [43159-the-safeguard-garrison-space-colonies.json](./43159-the-safeguard-garrison-space-colonies.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Saga of the Candy Scroll | 345609 | [345609-the-saga-of-the-candy-scroll.json](./345609-the-saga-of-the-candy-scroll.json) |
 | The Sage of Twilight | 55256 | [55256-the-sage-of-twilight.json](./55256-the-sage-of-twilight.json) |
@@ -10965,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
+| The Seasons | 43129 | [43129-the-seasons.json](./43129-the-seasons.json) |
 | The Seasons Collection: Spring | 156576 | [156576-the-seasons-collection-spring.json](./156576-the-seasons-collection-spring.json) |
 | The Second Chance Strip Club | 392926 | [392926-the-second-chance-strip-club.json](./392926-the-second-chance-strip-club.json) |
 | The Second Circle | 333107 | [333107-the-second-circle.json](./333107-the-second-circle.json) |
@@ -13794,6 +13797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Not a Game About Catching Monsters | 181735 | [181735-this-is-not-a-game-about-catching-monsters.json](./181735-this-is-not-a-game-about-catching-monsters.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
+| This is not RPG | 43156 | [43156-this-is-not-rpg.json](./43156-this-is-not-rpg.json) |
 | This is Not the End | 129466 | [129466-this-is-not-the-end.json](./129466-this-is-not-the-end.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
@@ -18526,6 +18530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
+| Tower Bombarde | 43107 | [43107-tower-bombarde.json](./43107-tower-bombarde.json) |
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
 | Tower Builder | 105804 | [105804-tower-builder.json](./105804-tower-builder.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
@@ -19822,6 +19827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
+| Trainscape | 43175 | [43175-trainscape.json](./43175-trainscape.json) |
 | Trainspotting Simulator | 117555 | [117555-trainspotting-simulator.json](./117555-trainspotting-simulator.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Traintracks Combat | 298815 | [298815-traintracks-combat.json](./298815-traintracks-combat.json) |
@@ -21559,6 +21565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron 2.0: Discs of Tron | 23604 | [23604-tron-2-0-discs-of-tron.json](./23604-tron-2-0-discs-of-tron.json) |
 | Tron 2.0: Killer App | 79835 | [79835-tron-2-0-killer-app.json](./79835-tron-2-0-killer-app.json) |
 | Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
+| Tron Hockey | 43111 | [43111-tron-hockey.json](./43111-tron-hockey.json) |
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Cycle Extender Bundle | 170985 | [170985-tron-run-r-cycle-extender-bundle.json](./170985-tron-run-r-cycle-extender-bundle.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
@@ -21580,6 +21587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
+| Trophy Trout | 43150 | [43150-trophy-trout.json](./43150-trophy-trout.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
 | TrophyRC | 388307 | [388307-trophyrc.json](./388307-trophyrc.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
@@ -22125,6 +22133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
+| TublerVR | 43132 | [43132-tublervr.json](./43132-tublervr.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tubular Worlds | 71388 | [71388-tubular-worlds.json](./71388-tubular-worlds.json) |
@@ -22372,6 +22381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
+| Turn your Destiny | 43157 | [43157-turn-your-destiny.json](./43157-turn-your-destiny.json) |
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
@@ -22642,6 +22652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
+| Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
