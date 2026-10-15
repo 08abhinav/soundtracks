@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Happy Family | 143342 | [143342-not-a-happy-family.json](./143342-not-a-happy-family.json) |
 | Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
+| Not A Hero: Global MegaLord Edition | 51866 | [51866-not-a-hero-global-megalord-edition.json](./51866-not-a-hero-global-megalord-edition.json) |
 | Not a Hero: Super Snazzy Edition | 32038 | [32038-not-a-hero-super-snazzy-edition.json](./32038-not-a-hero-super-snazzy-edition.json) |
 | Not a Masterpıece | 311214 | [311214-not-a-masterp-ece.json](./311214-not-a-masterp-ece.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
