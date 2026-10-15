@@ -8895,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
+| Congo Cube | 69747 | [69747-congo-cube.json](./69747-congo-cube.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo the Movie: Descent into Zinj | 99690 | [99690-congo-the-movie-descent-into-zinj.json](./99690-congo-the-movie-descent-into-zinj.json) |
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
@@ -11131,6 +11132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy Music Tennis | 158611 | [158611-crazy-music-tennis.json](./158611-crazy-music-tennis.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
+| Crazy Nick's Picks: King Graham's Board Game Challenge | 69760 | [69760-crazy-nicks-picks-king-grahams-board-game-challenge.json](./69760-crazy-nicks-picks-king-grahams-board-game-challenge.json) |
 | Crazy Oafish Ultra Blocks: Big Sale | 30534 | [30534-crazy-oafish-ultra-blocks-big-sale.json](./30534-crazy-oafish-ultra-blocks-big-sale.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
@@ -12369,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
+| Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
 | Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
@@ -13650,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
+| Cybernetix | 69774 | [69774-cybernetix.json](./69774-cybernetix.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cybernoid: The Fighting Machine | 12024 | [12024-cybernoid-the-fighting-machine.json](./12024-cybernoid-the-fighting-machine.json) |
 | Cybernoir | 372239 | [372239-cybernoir.json](./372239-cybernoir.json) |
