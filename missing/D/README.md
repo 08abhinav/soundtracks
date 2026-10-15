@@ -4196,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Expert: The Simulation | 141617 | [141617-demolition-expert-the-simulation.json](./141617-demolition-expert-the-simulation.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
+| Demolition Herby | 40646 | [40646-demolition-herby.json](./40646-demolition-herby.json) |
 | Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
 | Dice Poker Chicken Battle | 184422 | [184422-dice-poker-chicken-battle.json](./184422-dice-poker-chicken-battle.json) |
 | Dice Puzzle | 220175 | [220175-dice-puzzle.json](./220175-dice-puzzle.json) |
+| Dice Puzzle | 40645 | [40645-dice-puzzle.json](./40645-dice-puzzle.json) |
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
 | Dice Rollers | 142273 | [142273-dice-rollers.json](./142273-dice-rollers.json) |
@@ -8432,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
+| Donald Duck's Speedboat | 40638 | [40638-donald-ducks-speedboat.json](./40638-donald-ducks-speedboat.json) |
 | Donald Fuck RPG | 255616 | [255616-donald-fuck-rpg.json](./255616-donald-fuck-rpg.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald Land | 48524 | [48524-donald-land.json](./48524-donald-land.json) |
@@ -9927,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
 | Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
+| Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
@@ -10190,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
 | Dragon Trail: Hunter World | 212501 | [212501-dragon-trail-hunter-world.json](./212501-dragon-trail-hunter-world.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
+| Dragon Treasure | 40643 | [40643-dragon-treasure.json](./40643-dragon-treasure.json) |
 | Dragon Trial | 212514 | [212514-dragon-trial.json](./212514-dragon-trial.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
@@ -11935,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
+| Dukes of Hazzard 2 | 40653 | [40653-dukes-of-hazzard-2.json](./40653-dukes-of-hazzard-2.json) |
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
@@ -11970,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
+| Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
