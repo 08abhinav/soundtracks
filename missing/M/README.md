@@ -14652,6 +14652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
 | Mystery Case Files: Ravenhearst Unlocked | 84144 | [84144-mystery-case-files-ravenhearst-unlocked.json](./84144-mystery-case-files-ravenhearst-unlocked.json) |
+| Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 22082 | [22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
@@ -14804,6 +14805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms - Collector's Edition | 381380 | [381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json](./381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
+| Mystery Trackers: Silent Hollow | 22110 | [22110-mystery-trackers-silent-hollow.json](./22110-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
