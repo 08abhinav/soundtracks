@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Avaronia | 293681 | [293681-lands-of-avaronia.json](./293681-lands-of-avaronia.json) |
+| Lands of Devastation | 32697 | [32697-lands-of-devastation.json](./32697-lands-of-devastation.json) |
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
+| Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
