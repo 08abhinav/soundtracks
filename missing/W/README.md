@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
+| Wappy Dog | 47852 | [47852-wappy-dog.json](./47852-wappy-dog.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
 | War | 54931 | [54931-war.json](./54931-war.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
+| Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
@@ -4404,6 +4406,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft: Candy Hunt | 244910 | [244910-witchcraft-candy-hunt.json](./244910-witchcraft-candy-hunt.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
+| Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
+| Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
