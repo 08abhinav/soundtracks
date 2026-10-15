@@ -12139,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
 | Motorcycle Biker Simulator | 169141 | [169141-motorcycle-biker-simulator.json](./169141-motorcycle-biker-simulator.json) |
 | Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
+| Motorcycle Club | 11959 | [11959-motorcycle-club.json](./11959-motorcycle-club.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
