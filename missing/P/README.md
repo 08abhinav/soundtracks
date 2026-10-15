@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet the Duck! | 180633 | [180633-pet-the-duck.json](./180633-pet-the-duck.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
+| Pet Vet 3D: Animal Hospital - Triple Treat | 54290 | [54290-pet-vet-3d-animal-hospital-triple-treat.json](./54290-pet-vet-3d-animal-hospital-triple-treat.json) |
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet.Net | 371131 | [371131-pet-net.json](./371131-pet-net.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer Racing | 338306 | [338306-pioneer-racing.json](./338306-pioneer-racing.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
 | Pioneer Trail | 92385 | [92385-pioneer-trail.json](./92385-pioneer-trail.json) |
+| Pioneering - Explore the Early American West | 54289 | [54289-pioneering-explore-the-early-american-west.json](./54289-pioneering-explore-the-early-american-west.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
 | Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
@@ -5169,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
 | Pirate Go: Bravo | 348445 | [348445-pirate-go-bravo.json](./348445-pirate-go-bravo.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
+| Pirate Griddles | 54288 | [54288-pirate-griddles.json](./54288-pirate-griddles.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
 | Pirate Hunter | 209954 | [209954-pirate-hunter.json](./209954-pirate-hunter.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
@@ -5248,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
 | Pirates of Heaven | 237240 | [237240-pirates-of-heaven.json](./237240-pirates-of-heaven.json) |
+| Pirates of New Horizons: Planet Buster | 54287 | [54287-pirates-of-new-horizons-planet-buster.json](./54287-pirates-of-new-horizons-planet-buster.json) |
 | Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
@@ -6055,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
+| Pizza Deliciozo | 54286 | [54286-pizza-deliciozo.json](./54286-pizza-deliciozo.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
 | Pizza Delivery Survivors | 320270 | [320270-pizza-delivery-survivors.json](./320270-pizza-delivery-survivors.json) |
@@ -8084,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Shootout | 132579 | [132579-police-shootout.json](./132579-police-shootout.json) |
 | Police Sim 2022 | 188335 | [188335-police-sim-2022.json](./188335-police-sim-2022.json) |
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
+| Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
@@ -8443,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
+| Pool House | 54284 | [54284-pool-house.json](./54284-pool-house.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Live Tour: Champions | 56390 | [56390-pool-live-tour-champions.json](./56390-pool-live-tour-champions.json) |
@@ -8548,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
 | Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
+| Pop Pop Pop | 54283 | [54283-pop-pop-pop.json](./54283-pop-pop-pop.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
@@ -8766,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
 | Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
+| Port Simulator 2012 - Hamburg | 54282 | [54282-port-simulator-2012-hamburg.json](./54282-port-simulator-2012-hamburg.json) |
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
@@ -10463,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
+| Project '88 | 54281 | [54281-project-88.json](./54281-project-88.json) |
 | Project 117 | 420551 | [420551-project-117.json](./420551-project-117.json) |
 | Project 13 | 281467 | [281467-project-13.json](./281467-project-13.json) |
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
@@ -10529,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
+| Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
@@ -10557,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
 | Project CARS: Audi Ruapuna Speedway Expansion | 120196 | [120196-project-cars-audi-ruapuna-speedway-expansion.json](./120196-project-cars-audi-ruapuna-speedway-expansion.json) |
 | Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
+| Project CARS: Complete Edition | 54279 | [54279-project-cars-complete-edition.json](./54279-project-cars-complete-edition.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
 | Project CARS: Japanese Car Pack | 120192 | [120192-project-cars-japanese-car-pack.json](./120192-project-cars-japanese-car-pack.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
@@ -11399,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
+| Psychical Madness | 54339 | [54339-psychical-madness.json](./54339-psychical-madness.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
 | Psycho | 192245 | [192245-psycho.json](./192245-psycho.json) |
 | Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
