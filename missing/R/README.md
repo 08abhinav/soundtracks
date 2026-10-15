@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
 | Relic Abyss | 307089 | [307089-relic-abyss.json](./307089-relic-abyss.json) |
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
+| Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
@@ -4316,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelations: The Demon Slayer | 265052 | [265052-revelations-the-demon-slayer.json](./265052-revelations-the-demon-slayer.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
+| ReVeN: XBridge | 33990 | [33990-reven-xbridge.json](./33990-reven-xbridge.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
@@ -5336,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
+| Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms | 113201 | [113201-rise-of-kingdoms.json](./113201-rise-of-kingdoms.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
