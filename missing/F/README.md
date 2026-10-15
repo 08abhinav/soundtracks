@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
 | Final Cut: Death on the Silver Screen - Collector's Edition | 31690 | [31690-final-cut-death-on-the-silver-screen-collectors-edition.json](./31690-final-cut-death-on-the-silver-screen-collectors-edition.json) |
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
+| Final Cut: Encore - Collector's Edition | 28680 | [28680-final-cut-encore-collectors-edition.json](./28680-final-cut-encore-collectors-edition.json) |
 | Final Cut: Fade to Black | 98370 | [98370-final-cut-fade-to-black.json](./98370-final-cut-fade-to-black.json) |
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
 | Final Cut: Fame Fatale - Collector's Edition | 111511 | [111511-final-cut-fame-fatale-collectors-edition.json](./111511-final-cut-fame-fatale-collectors-edition.json) |
@@ -6974,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
+| Fort Awesome | 28560 | [28560-fort-awesome.json](./28560-fort-awesome.json) |
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
 | Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
@@ -8001,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
+| Freeze Climbing | 28596 | [28596-freeze-climbing.json](./28596-freeze-climbing.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
