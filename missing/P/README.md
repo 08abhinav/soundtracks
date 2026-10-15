@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
+| Paladin Quest Disk: The Scrolls of Talmouth | 70284 | [70284-paladin-quest-disk-the-scrolls-of-talmouth.json](./70284-paladin-quest-disk-the-scrolls-of-talmouth.json) |
 | Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
@@ -2113,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pato & Lobo | 325690 | [325690-pato-and-lobo.json](./325690-pato-and-lobo.json) |
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
+| Patolli | 70280 | [70280-patolli.json](./70280-patolli.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patricia | 138541 | [138541-patricia.json](./138541-patricia.json) |
 | Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
@@ -3706,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
+| PhatPong 05 | 70276 | [70276-phatpong-05.json](./70276-phatpong-05.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
@@ -11258,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
+| Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze | 70314 | [70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json](./70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
 | Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
@@ -11921,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
+| Pursuit of Justice | 70315 | [70315-pursuit-of-justice.json](./70315-pursuit-of-justice.json) |
 | Pursuit of Laughter | 291900 | [291900-pursuit-of-laughter.json](./291900-pursuit-of-laughter.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
