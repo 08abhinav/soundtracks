@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicians & Looters | 17132 | [17132-magicians-and-looters.json](./17132-magicians-and-looters.json) |
 | Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
+| Magicians Lair | 66548 | [66548-magicians-lair.json](./66548-magicians-lair.json) |
 | Magicians: The Devil's Deal | 405080 | [405080-magicians-the-devils-deal.json](./405080-magicians-the-devils-deal.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
 | Marine Heavy Gunner | 54211 | [54211-marine-heavy-gunner.json](./54211-marine-heavy-gunner.json) |
 | Marine Heavy Gunner: Vietnam | 27563 | [27563-marine-heavy-gunner-vietnam.json](./27563-marine-heavy-gunner-vietnam.json) |
+| Marine Philt | 66545 | [66545-marine-philt.json](./66545-marine-philt.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Sharpshooter 3 | 27561 | [27561-marine-sharpshooter-3.json](./27561-marine-sharpshooter-3.json) |
@@ -4733,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
+| Medarot Cardrobottle: Kabuto Version | 66551 | [66551-medarot-cardrobottle-kabuto-version.json](./66551-medarot-cardrobottle-kabuto-version.json) |
 | Medarot Cardrobottle: Kuwagata Version | 228618 | [228618-medarot-cardrobottle-kuwagata-version.json](./228618-medarot-cardrobottle-kuwagata-version.json) |
 | Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
@@ -8703,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
 | Minigolf Maniacs | 209219 | [209219-minigolf-maniacs.json](./209219-minigolf-maniacs.json) |
 | Minigolf Party | 182200 | [182200-minigolf-party.json](./182200-minigolf-party.json) |
+| Minigolf the Game | 66598 | [66598-minigolf-the-game.json](./66598-minigolf-the-game.json) |
 | MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
@@ -9653,6 +9657,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
 | Mobile Suit Gundam Gihren's Greed: The Fear of Axis V | 75728 | [75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json](./75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json) |
 | Mobile Suit Gundam Gihren's Greed: Zeon Revolutionary War | 75727 | [75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json](./75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json) |
+| Mobile Suit Gundam SEED | 66591 | [66591-mobile-suit-gundam-seed.json](./66591-mobile-suit-gundam-seed.json) |
+| Mobile Suit Gundam SEED Destiny | 66594 | [66594-mobile-suit-gundam-seed-destiny.json](./66594-mobile-suit-gundam-seed-destiny.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
@@ -9664,6 +9670,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Unicorn | 7377 | [7377-mobile-suit-gundam-unicorn.json](./7377-mobile-suit-gundam-unicorn.json) |
 | Mobile Suit Gundam Version 2.0 | 159155 | [159155-mobile-suit-gundam-version-2-0.json](./159155-mobile-suit-gundam-version-2-0.json) |
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
+| Mobile Suit Gundam Vol. 2 - Jaburo | 66599 | [66599-mobile-suit-gundam-vol-2-jaburo.json](./66599-mobile-suit-gundam-vol-2-jaburo.json) |
+| Mobile Suit Gundam Vol. 3 - A Baoa Qu | 66597 | [66597-mobile-suit-gundam-vol-3-a-baoa-qu.json](./66597-mobile-suit-gundam-vol-3-a-baoa-qu.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
 | Mobile Suit Gundam: Advanced Operation | 112192 | [112192-mobile-suit-gundam-advanced-operation.json](./112192-mobile-suit-gundam-advanced-operation.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
@@ -14886,6 +14894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythwrecked: Ambrosia Island | 223097 | [223097-mythwrecked-ambrosia-island.json](./223097-mythwrecked-ambrosia-island.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
+| MyTown | 66593 | [66593-mytown.json](./66593-mytown.json) |
 | MyTP 2.5: Ski, Freeski and Snowboard | 89092 | [89092-mytp-2-5-ski-freeski-and-snowboard.json](./89092-mytp-2-5-ski-freeski-and-snowboard.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
