@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
+| Halo Online | 60459 | [60459-halo-online.json](./60459-halo-online.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
 | Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
+| Happy Margaret! | 60479 | [60479-happy-margaret.json](./60479-happy-margaret.json) |
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
@@ -1123,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
+| Happy Song | 60440 | [60440-happy-song.json](./60440-happy-song.json) |
 | Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
 | Happy Street | 63750 | [63750-happy-street.json](./63750-happy-street.json) |
@@ -2223,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 211814 | [211814-heartbeats.json](./211814-heartbeats.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
+| Heartbeats: A Galactic Requiem | 60473 | [60473-heartbeats-a-galactic-requiem.json](./60473-heartbeats-a-galactic-requiem.json) |
 | Heartbite: Dating by Daylight | 241852 | [241852-heartbite-dating-by-daylight.json](./241852-heartbite-dating-by-daylight.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
@@ -7900,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
+| Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
