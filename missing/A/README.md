@@ -4415,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
 | Alien Disco Safari | 63846 | [63846-alien-disco-safari.json](./63846-alien-disco-safari.json) |
 | Alien Dogfight | 38942 | [38942-alien-dogfight.json](./38942-alien-dogfight.json) |
+| Alien Dominion: The Acronian Encounter | 24756 | [24756-alien-dominion-the-acronian-encounter.json](./24756-alien-dominion-the-acronian-encounter.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
 | Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
 | Alien Earth | 11294 | [11294-alien-earth.json](./11294-alien-earth.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
 | Alkatria | 326709 | [326709-alkatria.json](./326709-alkatria.json) |
 | Alkemo: Kemomimi Alchemist | 82679 | [82679-alkemo-kemomimi-alchemist.json](./82679-alkemo-kemomimi-alchemist.json) |
+| Alkemstone | 24788 | [24788-alkemstone.json](./24788-alkemstone.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
