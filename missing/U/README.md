@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
 | UEFA 2001 | 237507 | [237507-uefa-2001.json](./237507-uefa-2001.json) |
+| UEFA Challenge | 47093 | [47093-uefa-challenge.json](./47093-uefa-challenge.json) |
 | UEFA Champions League 1996/97 | 80477 | [80477-uefa-champions-league-1996-97.json](./80477-uefa-champions-league-1996-97.json) |
 | UEFA Champions League 1998-1999 | 44835 | [44835-uefa-champions-league-1998-1999.json](./44835-uefa-champions-league-1998-1999.json) |
 | UEFA Champions League 2004-2005 | 22303 | [22303-uefa-champions-league-2004-2005.json](./22303-uefa-champions-league-2004-2005.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
 | Ultimate Puzzles 500 | 206622 | [206622-ultimate-puzzles-500.json](./206622-ultimate-puzzles-500.json) |
 | Ultimate Quest: Journey to the Far Side of Possible | 7513 | [7513-ultimate-quest-journey-to-the-far-side-of-possible.json](./7513-ultimate-quest-journey-to-the-far-side-of-possible.json) |
+| Ultimate Race Pro | 47121 | [47121-ultimate-race-pro.json](./47121-ultimate-race-pro.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
