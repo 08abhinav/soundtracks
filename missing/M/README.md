@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Bengal Tiger Adventure: Summer Majong Quest Deluxe | 235282 | [235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json](./235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json) |
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
+| Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
@@ -12867,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
+| Mummies Rising | 59733 | [59733-mummies-rising.json](./59733-mummies-rising.json) |
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
 | Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
 | Mummy Candies | 148857 | [148857-mummy-candies.json](./148857-mummy-candies.json) |
