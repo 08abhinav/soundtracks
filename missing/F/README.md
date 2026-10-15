@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Kart: Photo Finish | 65984 | [65984-face-kart-photo-finish.json](./65984-face-kart-photo-finish.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
+| Face Maker | 44394 | [44394-face-maker.json](./44394-face-maker.json) |
 | Face of Fear: The Forester | 373320 | [373320-face-of-fear-the-forester.json](./373320-face-of-fear-the-forester.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
@@ -3683,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
+| Final Set | 44430 | [44430-final-set.json](./44430-final-set.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
