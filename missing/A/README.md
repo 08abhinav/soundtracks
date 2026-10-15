@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
+| Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
 | Airplane Chefs | 142762 | [142762-airplane-chefs.json](./142762-airplane-chefs.json) |
@@ -8426,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202791 | [202791-arcade-gamer-classic.json](./202791-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202792 | [202792-arcade-gamer-classic.json](./202792-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
+| Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
@@ -9400,6 +9402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
+| Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
 | Army Men: World War | 201092 | [201092-army-men-world-war.json](./201092-army-men-world-war.json) |
