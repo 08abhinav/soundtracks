@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlikely Suspects | 63916 | [63916-unlikely-suspects.json](./63916-unlikely-suspects.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
+| Unlimited Adventures | 2531 | [2531-unlimited-adventures.json](./2531-unlimited-adventures.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
