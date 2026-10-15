@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
+| Kalzor: 2000 | 38773 | [38773-kalzor-2000.json](./38773-kalzor-2000.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
