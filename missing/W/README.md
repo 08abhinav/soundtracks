@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords DS | 79562 | [79562-warlords-ds.json](./79562-warlords-ds.json) |
 | Warlords I + II | 154234 | [154234-warlords-i-ii.json](./154234-warlords-i-ii.json) |
 | Warlords II | 50357 | [50357-warlords-ii.json](./50357-warlords-ii.json) |
+| Warlords II Deluxe | 50356 | [50356-warlords-ii-deluxe.json](./50356-warlords-ii-deluxe.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
