@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Klance Texting Game | 178471 | [178471-a-klance-texting-game.json](./178471-a-klance-texting-game.json) |
 | A Knife Made of Whispers | 134375 | [134375-a-knife-made-of-whispers.json](./134375-a-knife-made-of-whispers.json) |
 | A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
+| A Knight on the Town | 40650 | [40650-a-knight-on-the-town.json](./40650-a-knight-on-the-town.json) |
 | A Knight's Devotion | 238410 | [238410-a-knights-devotion.json](./238410-a-knights-devotion.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
 | A Knight's Move | 89689 | [89689-a-knights-move.json](./89689-a-knights-move.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Museum of Self & Space | 148950 | [148950-a-museum-of-self-and-space.json](./148950-a-museum-of-self-and-space.json) |
 | A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
 | A Mysterious Gallery | 148679 | [148679-a-mysterious-gallery.json](./148679-a-mysterious-gallery.json) |
+| A Mysterious Thief | 40613 | [40613-a-mysterious-thief.json](./40613-a-mysterious-thief.json) |
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
+| Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
@@ -7815,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
+| Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
 | Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
