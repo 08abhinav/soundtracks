@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoroba Cat | 330790 | [330790-mahoroba-cat.json](./330790-mahoroba-cat.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahoromatic Adventure | 214431 | [214431-mahoromatic-adventure.json](./214431-mahoromatic-adventure.json) |
+| Mahoromatic: Moetto! Kira Kira Maid-san | 72579 | [72579-mahoromatic-moetto-kira-kira-maid-san.json](./72579-mahoromatic-moetto-kira-kira-maid-san.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
+| Mainichi Issho | 72566 | [72566-mainichi-issho.json](./72566-mainichi-issho.json) |
 | Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
