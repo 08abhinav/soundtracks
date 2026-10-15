@@ -6152,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
 | Roche Limit: The Death of CMK | 240370 | [240370-roche-limit-the-death-of-cmk.json](./240370-roche-limit-the-death-of-cmk.json) |
 | Rocher no Nagai Yoru | 265215 | [265215-rocher-no-nagai-yoru.json](./265215-rocher-no-nagai-yoru.json) |
+| Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
