@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nankoku Shirei!! Spy vs. Spy | 48812 | [48812-nankoku-shirei-spy-vs-spy.json](./48812-nankoku-shirei-spy-vs-spy.json) |
 | Nankou Furaku Sangokuden: Shoku to Toki no Dou Jaku | 222464 | [222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json](./222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json) |
 | Nankou Furaku Sangokuden: Wu to Taiga no Eisha | 222440 | [222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json](./222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json) |
+| Nanna's Cats | 64884 | [64884-nannas-cats.json](./64884-nannas-cats.json) |
 | Nanny | 188976 | [188976-nanny.json](./188976-nanny.json) |
 | Nanny - Best Babysitter Game | 105855 | [105855-nanny-best-babysitter-game.json](./105855-nanny-best-babysitter-game.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
