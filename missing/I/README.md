@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
+| In Cubation | 73715 | [73715-in-cubation.json](./73715-in-cubation.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
 | In Darkness We Hide | 277779 | [277779-in-darkness-we-hide.json](./277779-in-darkness-we-hide.json) |
 | In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
+| Isles of Derek | 73726 | [73726-isles-of-derek.json](./73726-isles-of-derek.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
 | Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
