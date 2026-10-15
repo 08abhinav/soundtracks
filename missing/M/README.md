@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages | 115780 | [115780-mages.json](./115780-mages.json) |
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
+| MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
+| Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
 | Magic Castle | 142128 | [142128-magic-castle.json](./142128-magic-castle.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
@@ -4711,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechoEcho | 33730 | [33730-mechoecho.json](./33730-mechoecho.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechrunner | 19246 | [19246-mechrunner.json](./19246-mechrunner.json) |
+| Mechs and Mercs: Black Talons | 8721 | [8721-mechs-and-mercs-black-talons.json](./8721-mechs-and-mercs-black-talons.json) |
 | Mechs V Kaijus 2 | 400402 | [400402-mechs-v-kaijus-2.json](./400402-mechs-v-kaijus-2.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
@@ -7091,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
+| Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
 | Michael Schumacher World Tour Kart 2004 | 64863 | [64863-michael-schumacher-world-tour-kart-2004.json](./64863-michael-schumacher-world-tour-kart-2004.json) |
 | Michael Test | 390220 | [390220-michael-test.json](./390220-michael-test.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
