@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
+| Taking Care of Business | 69740 | [69740-taking-care-of-business.json](./69740-taking-care-of-business.json) |
 | Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
@@ -6551,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Flask | 323429 | [323429-the-forbidden-flask.json](./323429-the-forbidden-flask.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
+| The Ford Simulator | 69764 | [69764-the-ford-simulator.json](./69764-the-ford-simulator.json) |
 | The Foreigner | 128915 | [128915-the-foreigner.json](./128915-the-foreigner.json) |
 | The Foreigner | 343759 | [343759-the-foreigner.json](./343759-the-foreigner.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
@@ -18742,6 +18745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyMaker | 259495 | [259495-toymaker.json](./259495-toymaker.json) |
 | Toymaker: Threads of Joy | 388917 | [388917-toymaker-threads-of-joy.json](./388917-toymaker-threads-of-joy.json) |
 | Toynip | 219545 | [219545-toynip.json](./219545-toynip.json) |
+| Toyota Celica GT Rally | 69772 | [69772-toyota-celica-gt-rally.json](./69772-toyota-celica-gt-rally.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
 | Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
@@ -20145,6 +20149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
+| Traitors Gate | 69786 | [69786-traitors-gate.json](./69786-traitors-gate.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Traitors in Salem | 181143 | [181143-traitors-in-salem.json](./181143-traitors-in-salem.json) |
 | Traitors in the Hood | 258081 | [258081-traitors-in-the-hood.json](./258081-traitors-in-the-hood.json) |
@@ -20794,6 +20799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triad Volume 2 | 78888 | [78888-triad-volume-2.json](./78888-triad-volume-2.json) |
+| Triad Volume 3 | 69741 | [69741-triad-volume-3.json](./69741-triad-volume-3.json) |
 | Triad Wars | 7491 | [7491-triad-wars.json](./7491-triad-wars.json) |
 | Triadic | 184350 | [184350-triadic.json](./184350-triadic.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
@@ -21167,6 +21173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triptych Book I: Blockhead | 328400 | [328400-triptych-book-i-blockhead.json](./328400-triptych-book-i-blockhead.json) |
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
+| Tris | 69769 | [69769-tris.json](./69769-tris.json) |
 | Trisker | 130647 | [130647-trisker.json](./130647-trisker.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
