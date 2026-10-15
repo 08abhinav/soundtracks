@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
+| Catomic | 27432 | [27432-catomic.json](./27432-catomic.json) |
 | Catopia: Rush | 152070 | [152070-catopia-rush.json](./152070-catopia-rush.json) |
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catorize | 34043 | [34043-catorize.json](./34043-catorize.json) |
@@ -6509,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
+| Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
@@ -7004,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
+| Close Quarters Conflict | 27472 | [27472-close-quarters-conflict.json](./27472-close-quarters-conflict.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
@@ -7427,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
+| Code of Honor 3: Desperate Measures | 27473 | [27473-code-of-honor-3-desperate-measures.json](./27473-code-of-honor-3-desperate-measures.json) |
 | Code of Honor: The French Foreign Legion | 10099 | [10099-code-of-honor-the-french-foreign-legion.json](./10099-code-of-honor-the-french-foreign-legion.json) |
 | Code of Princess | 6751 | [6751-code-of-princess.json](./6751-code-of-princess.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
