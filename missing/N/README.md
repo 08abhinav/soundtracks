@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
+| Nam | 26288 | [26288-nam.json](./26288-nam.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
 | Nama Chuukei 68 | 98256 | [98256-nama-chuukei-68.json](./98256-nama-chuukei-68.json) |
 | Namachuukei 68 | 127787 | [127787-namachuukei-68.json](./127787-namachuukei-68.json) |
