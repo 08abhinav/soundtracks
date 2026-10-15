@@ -12941,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch | 304300 | [304300-munch.json](./304300-munch.json) |
+| Munch Man | 44389 | [44389-munch-man.json](./44389-munch-man.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
