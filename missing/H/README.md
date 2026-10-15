@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Deeper Down | 184288 | [184288-half-life-2-deeper-down.json](./184288-half-life-2-deeper-down.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
+| Half-Life 2: Lost Coast | 10395 | [10395-half-life-2-lost-coast.json](./10395-half-life-2-lost-coast.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode One | 271414 | [271414-half-life-2-mmod-half-life-2-episode-one.json](./271414-half-life-2-mmod-half-life-2-episode-one.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode Two | 271415 | [271415-half-life-2-mmod-half-life-2-episode-two.json](./271415-half-life-2-mmod-half-life-2-episode-two.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Science and Industry | 221791 | [221791-half-life-science-and-industry.json](./221791-half-life-science-and-industry.json) |
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Soldier | 221803 | [221803-half-life-soldier.json](./221803-half-life-soldier.json) |
+| Half-Life: Source | 6744 | [6744-half-life-source.json](./6744-half-life-source.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
 | Half-Life: The Alpha Unit | 221883 | [221883-half-life-the-alpha-unit.json](./221883-half-life-the-alpha-unit.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Online | 60459 | [60459-halo-online.json](./60459-halo-online.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
+| Halo Wars | 988 | [988-halo-wars.json](./988-halo-wars.json) |
 | Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
 | Halo Wars 2: Complete Edition | 84476 | [84476-halo-wars-2-complete-edition.json](./84476-halo-wars-2-complete-edition.json) |
 | Halo Wars 2: Operation Spearbreaker | 75417 | [75417-halo-wars-2-operation-spearbreaker.json](./75417-halo-wars-2-operation-spearbreaker.json) |
@@ -5633,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Go | 6073 | [6073-hitman-go.json](./6073-hitman-go.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
 | Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
@@ -8085,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
+| HuniePop | 9655 | [9655-huniepop.json](./9655-huniepop.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
 | Hunkenstein | 188967 | [188967-hunkenstein.json](./188967-hunkenstein.json) |
 | Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
