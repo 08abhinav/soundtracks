@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Waldo & Friends | 60242 | [60242-wheres-waldo-and-friends.json](./60242-wheres-waldo-and-friends.json) |
 | Where's Waldo at the Circus | 205123 | [205123-wheres-waldo-at-the-circus.json](./205123-wheres-waldo-at-the-circus.json) |
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
+| Where's Waldo? | 10618 | [10618-wheres-waldo.json](./10618-wheres-waldo.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
 | Where's Waldo? The Fantastic Journey | 21216 | [21216-wheres-waldo-the-fantastic-journey.json](./21216-wheres-waldo-the-fantastic-journey.json) |
