@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
+| Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gex 3: Deep Cover Gecko | 210294 | [210294-gex-3-deep-cover-gecko.json](./210294-gex-3-deep-cover-gecko.json) |
