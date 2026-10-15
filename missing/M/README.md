@@ -3893,7 +3893,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
 | Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
+| Math Blaster Mystery: The Great Brain Robbery | 10672 | [10672-math-blaster-mystery-the-great-brain-robbery.json](./10672-math-blaster-mystery-the-great-brain-robbery.json) |
+| Math Blaster Plus! | 10669 | [10669-math-blaster-plus.json](./10669-math-blaster-plus.json) |
+| Math Blaster: Episode Two - Secret of the Lost City | 10671 | [10671-math-blaster-episode-two-secret-of-the-lost-city.json](./10671-math-blaster-episode-two-secret-of-the-lost-city.json) |
 | Math Blaster: Master the Basics | 59343 | [59343-math-blaster-master-the-basics.json](./59343-math-blaster-master-the-basics.json) |
+| Math Blaster! | 10668 | [10668-math-blaster.json](./10668-math-blaster.json) |
 | Math Blazer | 92643 | [92643-math-blazer.json](./92643-math-blazer.json) |
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
@@ -5397,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Mash Mons | 414506 | [414506-mega-mash-mons.json](./414506-mega-mash-mons.json) |
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
+| Mega Math Blaster | 10675 | [10675-mega-math-blaster.json](./10675-mega-math-blaster.json) |
 | Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
@@ -7463,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
+| Microsoft Train Simulator 2 | 10739 | [10739-microsoft-train-simulator-2.json](./10739-microsoft-train-simulator-2.json) |
 | Microsoft Train Simulator: German Railroads Volume One: The Seventies - Along the Bigge Lake | 85987 | [85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json](./85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
