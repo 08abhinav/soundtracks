@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
 | Phantasmat: The Endless Night | 140317 | [140317-phantasmat-the-endless-night.json](./140317-phantasmat-the-endless-night.json) |
+| Phantasmat: The Endless Night - Collector's Edition | 28594 | [28594-phantasmat-the-endless-night-collectors-edition.json](./28594-phantasmat-the-endless-night-collectors-edition.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
@@ -11969,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Dog Pop: Bubble Shoot Mania | 166294 | [166294-puppy-dog-pop-bubble-shoot-mania.json](./166294-puppy-dog-pop-bubble-shoot-mania.json) |
 | Puppy Dog: Jigsaw Puzzles | 105994 | [105994-puppy-dog-jigsaw-puzzles.json](./105994-puppy-dog-jigsaw-puzzles.json) |
+| Puppy Doge VR | 28595 | [28595-puppy-doge-vr.json](./28595-puppy-doge-vr.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
