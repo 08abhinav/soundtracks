@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scritchy Scratchy | 371567 | [371567-scritchy-scratchy.json](./371567-scritchy-scratchy.json) |
+| Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
@@ -13681,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warp | 17905 | [17905-space-warp.json](./17905-space-warp.json) |
 | Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Warrior | 310126 | [310126-space-warrior.json](./310126-space-warrior.json) |
+| Space Warrior: The Origin | 58149 | [58149-space-warrior-the-origin.json](./58149-space-warrior-the-origin.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
 | Space Wars | 19372 | [19372-space-wars.json](./19372-space-wars.json) |
@@ -17424,6 +17426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
+| State of Matter | 58106 | [58106-state-of-matter.json](./58106-state-of-matter.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Mind | 230872 | [230872-state-of-mind.json](./230872-state-of-mind.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
@@ -23932,6 +23935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | Swingy boy | 150444 | [150444-swingy-boy.json](./150444-swingy-boy.json) |
 | Swingy Sword | 90210 | [90210-swingy-sword.json](./90210-swingy-sword.json) |
+| Swinth | 58154 | [58154-swinth.json](./58154-swinth.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
 | Swipe | 147928 | [147928-swipe.json](./147928-swipe.json) |
 | Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
