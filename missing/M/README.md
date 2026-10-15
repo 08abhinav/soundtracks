@@ -9337,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
+| Mission Control: NanoMech | 28585 | [28585-mission-control-nanomech.json](./28585-mission-control-nanomech.json) |
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical | 791 | [791-mission-critical.json](./791-mission-critical.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
@@ -12123,6 +12124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
+| Motörhead | 28568 | [28568-motorhead.json](./28568-motorhead.json) |
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
@@ -12542,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
+| Mr. Dig | 28561 | [28561-mr-dig.json](./28561-mr-dig.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
@@ -12643,6 +12646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pumpkin Adventure HD | 99172 | [99172-mr-pumpkin-adventure-hd.json](./99172-mr-pumpkin-adventure-hd.json) |
 | Mr. Pumpkin and a Cat Reporter: Adventure Bundle | 218512 | [218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json](./218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
+| Mr. Puniverse | 28563 | [28563-mr-puniverse.json](./28563-mr-puniverse.json) |
 | Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
