@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
+| Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
@@ -11182,6 +11183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
 | Soldier One | 366379 | [366379-soldier-one.json](./366379-soldier-one.json) |
+| Soldier Sortie: VR Agent 006 | 30613 | [30613-soldier-sortie-vr-agent-006.json](./30613-soldier-sortie-vr-agent-006.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
@@ -13311,6 +13313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
 | Space Geekz: The Crunchy Flakes Conspiracy | 74258 | [74258-space-geekz-the-crunchy-flakes-conspiracy.json](./74258-space-geekz-the-crunchy-flakes-conspiracy.json) |
 | Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
+| Space Ghost Pirate Zombie Slayer | 30603 | [30603-space-ghost-pirate-zombie-slayer.json](./30603-space-ghost-pirate-zombie-slayer.json) |
 | Space Girl Salon | 101001 | [101001-space-girl-salon.json](./101001-space-girl-salon.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
@@ -13619,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
+| Space Rift Non-VR - Episode 1 | 30622 | [30622-space-rift-non-vr-episode-1.json](./30622-space-rift-non-vr-episode-1.json) |
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Road | 125713 | [125713-space-road.json](./125713-space-road.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
@@ -14640,6 +14644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 296002 | [296002-sphere.json](./296002-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
+| Sphere Complex | 30661 | [30661-sphere-complex.json](./30661-sphere-complex.json) |
 | Sphere Frustration | 43170 | [43170-sphere-frustration.json](./43170-sphere-frustration.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
 | Sphere Game Epic | 164956 | [164956-sphere-game-epic.json](./164956-sphere-game-epic.json) |
@@ -15028,6 +15033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
+| Spirit of Revenge: Cursed Castle - Collector's Edition | 30675 | [30675-spirit-of-revenge-cursed-castle-collectors-edition.json](./30675-spirit-of-revenge-cursed-castle-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
@@ -18279,6 +18285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
+| Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
@@ -23408,6 +23415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Story | 291535 | [291535-survival-story.json](./291535-survival-story.json) |
 | Survival Tobita vs. Maniac-Man: Halloween Deathmatch Special!!! | 323419 | [323419-survival-tobita-vs-maniac-man-halloween-deathmatch-special.json](./323419-survival-tobita-vs-maniac-man-halloween-deathmatch-special.json) |
 | Survival Tycoon | 44094 | [44094-survival-tycoon.json](./44094-survival-tycoon.json) |
+| Survival VR | 30645 | [30645-survival-vr.json](./30645-survival-vr.json) |
 | Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
@@ -24124,6 +24132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
+| Swingin Swiggins | 30632 | [30632-swingin-swiggins.json](./30632-swingin-swiggins.json) |
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
