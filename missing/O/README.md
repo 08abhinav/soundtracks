@@ -908,6 +908,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okami + Kunitsu-Gami Bundle | 331481 | [331481-okami-kunitsu-gami-bundle.json](./331481-okami-kunitsu-gami-bundle.json) |
 | Okami HD: Limited Edition | 136788 | [136788-okami-hd-limited-edition.json](./136788-okami-hd-limited-edition.json) |
 | Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
+| Okamoto Ayako to Match Play Golf | 38163 | [38163-okamoto-ayako-to-match-play-golf.json](./38163-okamoto-ayako-to-match-play-golf.json) |
+| Okamoto Ayako to Match Play Golf | 38179 | [38179-okamoto-ayako-to-match-play-golf.json](./38179-okamoto-ayako-to-match-play-golf.json) |
 | Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Okashi Towers | 254991 | [254991-okashi-towers.json](./254991-okashi-towers.json) |
 | Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
