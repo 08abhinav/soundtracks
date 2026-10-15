@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gun Charlie | 70624 | [70624-tail-gun-charlie.json](./70624-tail-gun-charlie.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
+| Tail Gunner 2 | 59336 | [59336-tail-gunner-2.json](./59336-tail-gunner-2.json) |
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail Me | 179081 | [179081-tail-me.json](./179081-tail-me.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
@@ -7979,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Koopa Who Stole Christmas | 281018 | [281018-the-koopa-who-stole-christmas.json](./281018-the-koopa-who-stole-christmas.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
+| The Korean War | 59308 | [59308-the-korean-war.json](./59308-the-korean-war.json) |
 | The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
@@ -10268,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
 | The Protocons | 93758 | [93758-the-protocons.json](./93758-the-protocons.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
+| The Proud and the Few | 59321 | [59321-the-proud-and-the-few.json](./59321-the-proud-and-the-few.json) |
 | The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
@@ -18306,6 +18309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
+| Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
