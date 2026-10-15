@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
+| Laser Ball | 57556 | [57556-laser-ball.json](./57556-laser-ball.json) |
 | Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
 | Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
 | Laser Blast | 18034 | [18034-laser-blast.json](./18034-laser-blast.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
+| Laxius Power III | 57597 | [57597-laxius-power-iii.json](./57597-laxius-power-iii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay | 204978 | [204978-lay.json](./204978-lay.json) |
@@ -6042,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
+| Loved | 57559 | [57559-loved.json](./57559-loved.json) |
 | Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
