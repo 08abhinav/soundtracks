@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
 | Watashi ha Joyuu ni Naritai no | 202137 | [202137-watashi-ha-joyuu-ni-naritai-no.json](./202137-watashi-ha-joyuu-ni-naritai-no.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
+| Watashi no Kare ha Pilot 2012 | 64834 | [64834-watashi-no-kare-ha-pilot-2012.json](./64834-watashi-no-kare-ha-pilot-2012.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
+| Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
@@ -5105,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
 | Word Peaks | 194883 | [194883-word-peaks.json](./194883-word-peaks.json) |
+| Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
