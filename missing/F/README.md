@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Checkers | 147207 | [147207-fantasy-checkers.json](./147207-fantasy-checkers.json) |
+| Fantasy Chronicle | 63213 | [63213-fantasy-chronicle.json](./63213-fantasy-chronicle.json) |
 | Fantasy Clash | 283847 | [283847-fantasy-clash.json](./283847-fantasy-clash.json) |
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
 | Fantasy Clicker | 336642 | [336642-fantasy-clicker.json](./336642-fantasy-clicker.json) |
@@ -3874,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
+| Finger Foos | 63191 | [63191-finger-foos.json](./63191-finger-foos.json) |
 | Finger Football | 88556 | [88556-finger-football.json](./88556-finger-football.json) |
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
@@ -7748,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Fazbears: Security Replacement | 313248 | [313248-freddy-fazbears-security-replacement.json](./313248-freddy-fazbears-security-replacement.json) |
 | Freddy Fish | 94579 | [94579-freddy-fish.json](./94579-freddy-fish.json) |
+| Freddy Flintoff's Power Play Cricket | 63181 | [63181-freddy-flintoffs-power-play-cricket.json](./63181-freddy-flintoffs-power-play-cricket.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
@@ -9278,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Furtum Sacrum | 329767 | [329767-furtum-sacrum.json](./329767-furtum-sacrum.json) |
 | Furu Furu Park | 4875 | [4875-furu-furu-park.json](./4875-furu-furu-park.json) |
+| Furuiro Meikyuu Rondo | 63209 | [63209-furuiro-meikyuu-rondo.json](./63209-furuiro-meikyuu-rondo.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
