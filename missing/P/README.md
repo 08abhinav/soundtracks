@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
 | Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
+| Periodonica | 33938 | [33938-periodonica.json](./33938-periodonica.json) |
 | Peripeteia | 142186 | [142186-peripeteia.json](./142186-peripeteia.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Online | 207598 | [207598-periphery-online.json](./207598-periphery-online.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
+| Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
