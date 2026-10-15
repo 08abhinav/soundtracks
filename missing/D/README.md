@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
+| Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
+| Deep Sea Tycoon | 50451 | [50451-deep-sea-tycoon.json](./50451-deep-sea-tycoon.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
@@ -4490,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dep Brothers! | 133729 | [133729-dep-brothers.json](./133729-dep-brothers.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
+| Department 42: The Mystery of the Nine | 50464 | [50464-department-42-the-mystery-of-the-nine.json](./50464-department-42-the-mystery-of-the-nine.json) |
 | Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
@@ -6898,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
+| Disney Learning: Toddler | 50478 | [50478-disney-learning-toddler.json](./50478-disney-learning-toddler.json) |
 | Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Magical Dice: The Enchanted Board Game | 98240 | [98240-disney-magical-dice-the-enchanted-board-game.json](./98240-disney-magical-dice-the-enchanted-board-game.json) |
@@ -8406,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
+| Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
@@ -9543,6 +9548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
+| Dracula 13 | 50375 | [50375-dracula-13.json](./50375-dracula-13.json) |
 | Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
 | Dracula 4 & 5: Special Steam Edition | 90585 | [90585-dracula-4-and-5-special-steam-edition.json](./90585-dracula-4-and-5-special-steam-edition.json) |
@@ -12390,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
+| Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
