@@ -757,6 +757,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
+| Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
+| Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
