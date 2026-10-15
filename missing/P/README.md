@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
+| Paradise Killer | 127816 | [127816-paradise-killer.json](./127816-paradise-killer.json) |
 | Paradise Killer: Perfect 25 Edition | 154518 | [154518-paradise-killer-perfect-25-edition.json](./154518-paradise-killer-perfect-25-edition.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 134574 | [134574-paradise-lost.json](./134574-paradise-lost.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
+| Pirates of the Caribbean | 5982 | [5982-pirates-of-the-caribbean.json](./5982-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean Online | 81226 | [81226-pirates-of-the-caribbean-online.json](./81226-pirates-of-the-caribbean-online.json) |
 | Pirates of the Caribbean: Aegir's Fire | 72552 | [72552-pirates-of-the-caribbean-aegirs-fire.json](./72552-pirates-of-the-caribbean-aegirs-fire.json) |
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
