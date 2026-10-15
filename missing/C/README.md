@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
+| Chromophore: The Two Brothers Director's Cut | 61512 | [61512-chromophore-the-two-brothers-directors-cut.json](./61512-chromophore-the-two-brothers-directors-cut.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil 2 | 261720 | [261720-chromosome-evil-2.json](./261720-chromosome-evil-2.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
@@ -10538,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
 | CR Persona 4 the Pachinko | 59377 | [59377-cr-persona-4-the-pachinko.json](./59377-cr-persona-4-the-pachinko.json) |
+| CR Ring: Noroi no 7-Kakan | 61492 | [61492-cr-ring-noroi-no-7-kakan.json](./61492-cr-ring-noroi-no-7-kakan.json) |
 | CR Ring: Unmei no Hi | 60807 | [60807-cr-ring-unmei-no-hi.json](./60807-cr-ring-unmei-no-hi.json) |
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
@@ -11367,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy | 270744 | [270744-creepy.json](./270744-creepy.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
 | Creepy Balls | 186577 | [186577-creepy-balls.json](./186577-creepy-balls.json) |
+| Creepy Bird | 61516 | [61516-creepy-bird.json](./61516-creepy-bird.json) |
 | Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
@@ -12924,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
+| Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
