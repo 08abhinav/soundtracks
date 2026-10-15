@@ -5141,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colors of the Artifacts | 91528 | [91528-the-colors-of-the-artifacts.json](./91528-the-colors-of-the-artifacts.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
+| The Colour of Magic | 13508 | [13508-the-colour-of-magic.json](./13508-the-colour-of-magic.json) |
 | The Colour of Murder | 133253 | [133253-the-colour-of-murder.json](./133253-the-colour-of-murder.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
+| The Covenant | 13526 | [13526-the-covenant.json](./13526-the-covenant.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
@@ -5422,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
+| The Curse of Sherwood | 13538 | [13538-the-curse-of-sherwood.json](./13538-the-curse-of-sherwood.json) |
 | The Curse of Silent Marshes | 213327 | [213327-the-curse-of-silent-marshes.json](./213327-the-curse-of-silent-marshes.json) |
 | The Curse of Stuzhiy | 413876 | [413876-the-curse-of-stuzhiy.json](./413876-the-curse-of-stuzhiy.json) |
 | The Curse of Tencond | 225576 | [225576-the-curse-of-tencond.json](./225576-the-curse-of-tencond.json) |
@@ -13259,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
+| The World End Eclipse | 13546 | [13546-the-world-end-eclipse.json](./13546-the-world-end-eclipse.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
@@ -16666,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
+| To Love-Ru -Trouble- Darkness: True Princess | 13553 | [13553-to-love-ru-trouble-darkness-true-princess.json](./13553-to-love-ru-trouble-darkness-true-princess.json) |
 | To Love-ru Darkness Gravure Chance | 175683 | [175683-to-love-ru-darkness-gravure-chance.json](./175683-to-love-ru-darkness-gravure-chance.json) |
 | To Love-Ru Darkness: Battle Ecstasy | 62587 | [62587-to-love-ru-darkness-battle-ecstasy.json](./62587-to-love-ru-darkness-battle-ecstasy.json) |
 | To Love-Ru Trouble: Doki-doki! Rinkaigakkou-hen | 72594 | [72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json](./72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json) |
