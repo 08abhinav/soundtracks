@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onomastica 2 | 102046 | [102046-onomastica-2.json](./102046-onomastica-2.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
+| Onore no Shinzuru Michi wo Yuke | 69196 | [69196-onore-no-shinzuru-michi-wo-yuke.json](./69196-onore-no-shinzuru-michi-wo-yuke.json) |
 | Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
 | Onrush: Digital Deluxe Edition | 91319 | [91319-onrush-digital-deluxe-edition.json](./91319-onrush-digital-deluxe-edition.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
