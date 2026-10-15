@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu: Dreamcast Edition | 229577 | [229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json](./229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json) |
 | Jikkyou Pawafuru Puroyakyu: Premium-ban | 229581 | [229581-jikkyou-pawafuru-puroyakyu-premium-ban.json](./229581-jikkyou-pawafuru-puroyakyu-premium-ban.json) |
 | Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
+| Jikkyou Power Pro Wrestling '96: Max Voltage | 42415 | [42415-jikkyou-power-pro-wrestling-96-max-voltage.json](./42415-jikkyou-power-pro-wrestling-96-max-voltage.json) |
 | Jikkyou Powerful Soccer | 212513 | [212513-jikkyou-powerful-soccer.json](./212513-jikkyou-powerful-soccer.json) |
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
+| Joushou Mahjong Tenpai | 42423 | [42423-joushou-mahjong-tenpai.json](./42423-joushou-mahjong-tenpai.json) |
 | Joushou Mahjong Tenpai: Additional Data | 234782 | [234782-joushou-mahjong-tenpai-additional-data.json](./234782-joushou-mahjong-tenpai-additional-data.json) |
 | Joushou Mahjong Tenpai: Data | 234781 | [234781-joushou-mahjong-tenpai-data.json](./234781-joushou-mahjong-tenpai-data.json) |
 | Joushou Mahjong Tenpai: Kansen Data | 234783 | [234783-joushou-mahjong-tenpai-kansen-data.json](./234783-joushou-mahjong-tenpai-kansen-data.json) |
@@ -2054,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR's | 214134 | [214134-jrs.json](./214134-jrs.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
+| JRA PAT: Wide Taiou-ban | 42422 | [42422-jra-pat-wide-taiou-ban.json](./42422-jra-pat-wide-taiou-ban.json) |
 | Jrago II: Guardians of Eden | 277767 | [277767-jrago-ii-guardians-of-eden.json](./277767-jrago-ii-guardians-of-eden.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
@@ -2347,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
+| Jumpin' Derby | 42421 | [42421-jumpin-derby.json](./42421-jumpin-derby.json) |
 | Jumpin' Jack | 69489 | [69489-jumpin-jack.json](./69489-jumpin-jack.json) |
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
