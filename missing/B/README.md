@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
 | Baldur's Gate: Dark Alliance II | 84 | [84-baldurs-gate-dark-alliance-ii.json](./84-baldurs-gate-dark-alliance-ii.json) |
+| Baldur's Gate: Enhanced Edition | 1880 | [1880-baldurs-gate-enhanced-edition.json](./1880-baldurs-gate-enhanced-edition.json) |
 | Baldur's Gate: Enhanced Edition - Deluxe Edition | 169219 | [169219-baldurs-gate-enhanced-edition-deluxe-edition.json](./169219-baldurs-gate-enhanced-edition-deluxe-edition.json) |
 | Baldur's Gate: Siege of Dragonspear | 14292 | [14292-baldurs-gate-siege-of-dragonspear.json](./14292-baldurs-gate-siege-of-dragonspear.json) |
 | Baldur's Gate: Siege of Dragonspear - Collector's Edition | 21813 | [21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json](./21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
+| Batman: Arkham City - Game of the Year Edition | 21704 | [21704-batman-arkham-city-game-of-the-year-edition.json](./21704-batman-arkham-city-game-of-the-year-edition.json) |
 | Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
 | Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
@@ -2508,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
+| Battle City | 4596 | [4596-battle-city.json](./4596-battle-city.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
 | Battle Commander: Hachibushu Shura no Heihou | 44426 | [44426-battle-commander-hachibushu-shura-no-heihou.json](./44426-battle-commander-hachibushu-shura-no-heihou.json) |
@@ -7410,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blooby Block | 246862 | [246862-blooby-block.json](./246862-blooby-block.json) |
+| Blood | 7644 | [7644-blood.json](./7644-blood.json) |
 | Blood 'n Bikinis | 54815 | [54815-blood-n-bikinis.json](./54815-blood-n-bikinis.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
@@ -7672,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodpire | 216744 | [216744-bloodpire.json](./216744-bloodpire.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
+| BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
