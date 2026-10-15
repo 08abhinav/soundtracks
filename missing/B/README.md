@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
+| Black Lake | 63763 | [63763-black-lake.json](./63763-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
 | Black Licorice | 307677 | [307677-black-licorice.json](./307677-black-licorice.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
+| Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
