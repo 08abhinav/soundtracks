@@ -9146,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arising | 303676 | [303676-arising.json](./303676-arising.json) |
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
+| Aritana and the Harpy's Feather | 17660 | [17660-aritana-and-the-harpys-feather.json](./17660-aritana-and-the-harpys-feather.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
 | Aritas: The Demon Lord | 326294 | [326294-aritas-the-demon-lord.json](./326294-aritas-the-demon-lord.json) |
 | Arithmagic: Math Wizard Game | 197709 | [197709-arithmagic-math-wizard-game.json](./197709-arithmagic-math-wizard-game.json) |
@@ -11929,6 +11930,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond: Ean's Quest | 52437 | [52437-aveyond-eans-quest.json](./52437-aveyond-eans-quest.json) |
 | Aveyond: Gates of Night | 52436 | [52436-aveyond-gates-of-night.json](./52436-aveyond-gates-of-night.json) |
 | Aveyond: Rhen's Quest | 52435 | [52435-aveyond-rhens-quest.json](./52435-aveyond-rhens-quest.json) |
+| Aveyond: The Darkthrop Prophecy | 17821 | [17821-aveyond-the-darkthrop-prophecy.json](./17821-aveyond-the-darkthrop-prophecy.json) |
+| Aveyond: The Lost Orb | 17820 | [17820-aveyond-the-lost-orb.json](./17820-aveyond-the-lost-orb.json) |
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
@@ -12041,6 +12044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
 | Award Winning Game Pack | 266160 | [266160-award-winning-game-pack.json](./266160-award-winning-game-pack.json) |
 | Awarded Platformer Bundle | 273336 | [273336-awarded-platformer-bundle.json](./273336-awarded-platformer-bundle.json) |
+| Aware | 17667 | [17667-aware.json](./17667-aware.json) |
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
