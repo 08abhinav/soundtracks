@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Land TD | 414508 | [414508-war-land-td.json](./414508-war-land-td.json) |
 | War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
+| War Leaders: Clash of Nations | 53148 | [53148-war-leaders-clash-of-nations.json](./53148-war-leaders-clash-of-nations.json) |
 | War Legends | 250518 | [250518-war-legends.json](./250518-war-legends.json) |
 | War Link 2111 AD | 393527 | [393527-war-link-2111-ad.json](./393527-war-link-2111-ad.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
@@ -674,6 +675,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
+| War of the Human Tanks: Alter - Royal Edition | 53147 | [53147-war-of-the-human-tanks-alter-royal-edition.json](./53147-war-of-the-human-tanks-alter-royal-edition.json) |
+| War of the Human Tanks: Imperial Edition | 53146 | [53146-war-of-the-human-tanks-imperial-edition.json](./53146-war-of-the-human-tanks-imperial-edition.json) |
+| War of the Human Tanks: Limited Operations - Unlimited Edition | 53145 | [53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json](./53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
 | War of the Monsters | 3208 | [3208-war-of-the-monsters.json](./3208-war-of-the-monsters.json) |
@@ -772,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
+| War Train | 53144 | [53144-war-train.json](./53144-war-train.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
@@ -807,10 +812,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears Mission 02: Training Time | 237494 | [237494-warbears-mission-02-training-time.json](./237494-warbears-mission-02-training-time.json) |
 | Warbears Mission 03: An Oceanic Problem | 237499 | [237499-warbears-mission-03-an-oceanic-problem.json](./237499-warbears-mission-03-an-oceanic-problem.json) |
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
+| WarBirds 2012 | 53143 | [53143-warbirds-2012.json](./53143-warbirds-2012.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbirds of WWII | 68094 | [68094-warbirds-of-wwii.json](./68094-warbirds-of-wwii.json) |
 | WarBirds Red Baron | 50397 | [50397-warbirds-red-baron.json](./50397-warbirds-red-baron.json) |
+| Warbirds Red Baron 2012 | 53142 | [53142-warbirds-red-baron-2012.json](./53142-warbirds-red-baron-2012.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
@@ -1107,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Chaosbane - Tomb Kings | 154602 | [154602-warhammer-chaosbane-tomb-kings.json](./154602-warhammer-chaosbane-tomb-kings.json) |
 | Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
+| Warhammer: End Times - Vermintide Collector's Edition | 53139 | [53139-warhammer-end-times-vermintide-collectors-edition.json](./53139-warhammer-end-times-vermintide-collectors-edition.json) |
 | Warhammer: End Times - Vermintide Death on the Reik | 148715 | [148715-warhammer-end-times-vermintide-death-on-the-reik.json](./148715-warhammer-end-times-vermintide-death-on-the-reik.json) |
 | Warhammer: End Times - Vermintide Drachenfels | 148709 | [148709-warhammer-end-times-vermintide-drachenfels.json](./148709-warhammer-end-times-vermintide-drachenfels.json) |
 | Warhammer: End Times - Vermintide Karak Azgaraz | 148711 | [148711-warhammer-end-times-vermintide-karak-azgaraz.json](./148711-warhammer-end-times-vermintide-karak-azgaraz.json) |
@@ -1404,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
+| Wars Across the World: Classic Collection | 53138 | [53138-wars-across-the-world-classic-collection.json](./53138-wars-across-the-world-classic-collection.json) |
 | Wars Across the World: Columbus 1492 | 155185 | [155185-wars-across-the-world-columbus-1492.json](./155185-wars-across-the-world-columbus-1492.json) |
 | Wars Across the World: Cortenuova 1237 | 193188 | [193188-wars-across-the-world-cortenuova-1237.json](./193188-wars-across-the-world-cortenuova-1237.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
@@ -1541,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
+| Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
@@ -1720,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
 | Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
+| Waterpark Tycoon | 53133 | [53133-waterpark-tycoon.json](./53133-waterpark-tycoon.json) |
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
@@ -2052,11 +2063,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
 | Weather Dominance | 253452 | [253452-weather-dominance.json](./253452-weather-dominance.json) |
+| Weather Lord | 53132 | [53132-weather-lord.json](./53132-weather-lord.json) |
 | Weather Lord: Following the Princess | 96770 | [96770-weather-lord-following-the-princess.json](./96770-weather-lord-following-the-princess.json) |
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
 | Weather Lord: Graduation | 53920 | [53920-weather-lord-graduation.json](./53920-weather-lord-graduation.json) |
 | Weather Lord: Graduation - Collector's Edition | 53919 | [53919-weather-lord-graduation-collectors-edition.json](./53919-weather-lord-graduation-collectors-edition.json) |
 | Weather Lord: Hidden Realm | 46872 | [46872-weather-lord-hidden-realm.json](./46872-weather-lord-hidden-realm.json) |
+| Weather Lord: In Pursuit of the Shaman | 53131 | [53131-weather-lord-in-pursuit-of-the-shaman.json](./53131-weather-lord-in-pursuit-of-the-shaman.json) |
 | Weather Lord: In Search of the Shaman | 46873 | [46873-weather-lord-in-search-of-the-shaman.json](./46873-weather-lord-in-search-of-the-shaman.json) |
 | Weather Lord: Legendary Hero | 53918 | [53918-weather-lord-legendary-hero.json](./53918-weather-lord-legendary-hero.json) |
 | Weather Lord: Legendary Hero - Collector's Edition | 32114 | [32114-weather-lord-legendary-hero-collectors-edition.json](./32114-weather-lord-legendary-hero-collectors-edition.json) |
@@ -2189,6 +2202,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
+| Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
+| Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
 | Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
@@ -3277,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Murdered My Empress? | 291705 | [291705-who-murdered-my-empress.json](./291705-who-murdered-my-empress.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
+| Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
@@ -4076,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
+| Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
 | Winter Cold | 52297 | [52297-winter-cold.json](./52297-winter-cold.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Ember | 124002 | [124002-winter-ember.json](./124002-winter-ember.json) |
@@ -4666,6 +4683,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Władcy Ciemności | 85961 | [85961-w-adcy-ciemnosci.json](./85961-w-adcy-ciemnosci.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
+| WMS Rome and Egypt Slot Machine | 53120 | [53120-wms-rome-and-egypt-slot-machine.json](./53120-wms-rome-and-egypt-slot-machine.json) |
+| WMS Slots Adventure: War For Olympus | 53119 | [53119-wms-slots-adventure-war-for-olympus.json](./53119-wms-slots-adventure-war-for-olympus.json) |
+| WMS Slots: Ghost Stories | 53117 | [53117-wms-slots-ghost-stories.json](./53117-wms-slots-ghost-stories.json) |
+| WMS Slots: Quest for the Fountain | 53116 | [53116-wms-slots-quest-for-the-fountain.json](./53116-wms-slots-quest-for-the-fountain.json) |
+| WMS Slots: Reel'Em In | 53115 | [53115-wms-slots-reelem-in.json](./53115-wms-slots-reelem-in.json) |
+| WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
@@ -4733,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf: The Evolution Story | 108350 | [108350-wolf-the-evolution-story.json](./108350-wolf-the-evolution-story.json) |
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
 | Wolf's Wool | 176936 | [176936-wolfs-wool.json](./176936-wolfs-wool.json) |
+| Wolfan | 53160 | [53160-wolfan.json](./53160-wolfan.json) |
 | Wolfee Planet | 138473 | [138473-wolfee-planet.json](./138473-wolfee-planet.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
 | Wolfenstein 3D | 284304 | [284304-wolfenstein-3d.json](./284304-wolfenstein-3d.json) |
@@ -5380,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: Stalingrad | 98910 | [98910-world-at-war-stalingrad.json](./98910-world-at-war-stalingrad.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Basketball Manager 2 | 44284 | [44284-world-basketball-manager-2.json](./44284-world-basketball-manager-2.json) |
+| World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
@@ -5395,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
+| World Championship Poker 2 | 53110 | [53110-world-championship-poker-2.json](./53110-world-championship-poker-2.json) |
 | World Championship Pool 2004 | 6238 | [6238-world-championship-pool-2004.json](./6238-world-championship-pool-2004.json) |
 | World Championship Rugby | 6239 | [6239-world-championship-rugby.json](./6239-world-championship-rugby.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
@@ -5410,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
+| World Class Poker with T.J. Cloutier | 53112 | [53112-world-class-poker-with-t-j-cloutier.json](./53112-world-class-poker-with-t-j-cloutier.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Rugby: Five Nations Edition | 396768 | [396768-world-class-rugby-five-nations-edition.json](./396768-world-class-rugby-five-nations-edition.json) |
@@ -5507,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
 | World Mosaics 5 | 415909 | [415909-world-mosaics-5.json](./415909-world-mosaics-5.json) |
+| World Mosaics 6 | 53111 | [53111-world-mosaics-6.json](./53111-world-mosaics-6.json) |
 | World Mosaics 7 | 415947 | [415947-world-mosaics-7.json](./415947-world-mosaics-7.json) |
 | World Mosaics IV | 135249 | [135249-world-mosaics-iv.json](./135249-world-mosaics-iv.json) |
 | World Neverland 2: Pluto Kyouwakoku Monogatari - Experience of Fiction Life | 297750 | [297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json](./297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json) |
@@ -5783,10 +5811,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
+| World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
+| World War 2 Sniper | 53107 | [53107-world-war-2-sniper.json](./53107-world-war-2-sniper.json) |
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
@@ -5935,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
 | Worldwide Arts Society | 182865 | [182865-worldwide-arts-society.json](./182865-worldwide-arts-society.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
+| Worldwide Boxing Manager | 53106 | [53106-worldwide-boxing-manager.json](./53106-worldwide-boxing-manager.json) |
 | Worldwide Combos | 83427 | [83427-worldwide-combos.json](./83427-worldwide-combos.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
@@ -5996,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Pinball | 409028 | [409028-worms-pinball.json](./409028-worms-pinball.json) |
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
 | Worms Reloaded: Forts Pack | 164379 | [164379-worms-reloaded-forts-pack.json](./164379-worms-reloaded-forts-pack.json) |
+| Worms Reloaded: Game of the Year Edition | 53105 | [53105-worms-reloaded-game-of-the-year-edition.json](./53105-worms-reloaded-game-of-the-year-edition.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
 | Worms Reloaded: Retro Pack | 164380 | [164380-worms-reloaded-retro-pack.json](./164380-worms-reloaded-retro-pack.json) |
 | Worms Reloaded: Time Attack Pack | 164381 | [164381-worms-reloaded-time-attack-pack.json](./164381-worms-reloaded-time-attack-pack.json) |
