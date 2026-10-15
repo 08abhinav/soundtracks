@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man 2 | 4936 | [4936-iron-man-2.json](./4936-iron-man-2.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
+| Iron Man: Aerial Assault | 69167 | [69167-iron-man-aerial-assault.json](./69167-iron-man-aerial-assault.json) |
 | Iron Man: Mushroom Avenger | 308982 | [308982-iron-man-mushroom-avenger.json](./308982-iron-man-mushroom-avenger.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
