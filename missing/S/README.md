@@ -4839,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
 | Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
+| Shadows of Cairn | 2510 | [2510-shadows-of-cairn.json](./2510-shadows-of-cairn.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
@@ -15365,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Cosmic Shake - BFF Edition | 221329 | [221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json](./221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
+| SpongeBob SquarePants: The Yellow Avenger | 2770 | [2770-spongebob-squarepants-the-yellow-avenger.json](./2770-spongebob-squarepants-the-yellow-avenger.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob SquarePants: Titans of the Tide - Double Deluxe Costume Pack DLC | 376251 | [376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json](./376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json) |
 | SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack | 376252 | [376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json](./376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json) |
