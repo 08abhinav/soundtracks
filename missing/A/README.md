@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
+| Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
 | Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
+| Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
@@ -9195,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Champs II | 67876 | [67876-arm-champs-ii.json](./67876-arm-champs-ii.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
+| Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
