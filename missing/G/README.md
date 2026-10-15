@@ -6222,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
+| Greyhound Manager 2 Rebooted | 29606 | [29606-greyhound-manager-2-rebooted.json](./29606-greyhound-manager-2-rebooted.json) |
 | Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
