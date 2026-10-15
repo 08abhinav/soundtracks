@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udongein X: Seiran | 226367 | [226367-udongein-x-seiran.json](./226367-udongein-x-seiran.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
+| uDraw Pictionary | 5186 | [5186-udraw-pictionary.json](./5186-udraw-pictionary.json) |
 | uDraw Studio | 5185 | [5185-udraw-studio.json](./5185-udraw-studio.json) |
 | Uebergame | 34673 | [34673-uebergame.json](./34673-uebergame.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
