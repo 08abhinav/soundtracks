@@ -1699,6 +1699,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap To Jump On Time 3D | 254389 | [254389-tap-to-jump-on-time-3d.json](./254389-tap-to-jump-on-time-3d.json) |
 | Tap to Merge | 227164 | [227164-tap-to-merge.json](./227164-tap-to-merge.json) |
 | Tap Track Heroes | 241864 | [241864-tap-track-heroes.json](./241864-tap-track-heroes.json) |
+| Tap Transcend | 58137 | [58137-tap-transcend.json](./58137-tap-transcend.json) |
+| Tap Transcend: Rebirth | 58130 | [58130-tap-transcend-rebirth.json](./58130-tap-transcend-rebirth.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
@@ -2653,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
+| Temple of Cerberus | 58117 | [58117-temple-of-cerberus.json](./58117-temple-of-cerberus.json) |
 | Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
 | Temple of Endless Night | 189895 | [189895-temple-of-endless-night.json](./189895-temple-of-endless-night.json) |
@@ -3902,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
+| The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
@@ -5731,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Displacement | 316712 | [316712-the-displacement.json](./316712-the-displacement.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
+| The Ditty of Carmeana | 58592 | [58592-the-ditty-of-carmeana.json](./58592-the-ditty-of-carmeana.json) |
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
@@ -8535,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Tango | 34641 | [34641-the-legend-of-tango.json](./34641-the-legend-of-tango.json) |
 | The Legend of Thabor: Rise of the Mages | 329045 | [329045-the-legend-of-thabor-rise-of-the-mages.json](./329045-the-legend-of-thabor-rise-of-the-mages.json) |
 | The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
+| The Legend of the Artifact Remastered | 58596 | [58596-the-legend-of-the-artifact-remastered.json](./58596-the-legend-of-the-artifact-remastered.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
@@ -10799,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scheme | 62582 | [62582-the-scheme.json](./62582-the-scheme.json) |
 | The Schism | 291358 | [291358-the-schism.json](./291358-the-schism.json) |
 | The Schizophrenic Dynasty of Müller | 155847 | [155847-the-schizophrenic-dynasty-of-muller.json](./155847-the-schizophrenic-dynasty-of-muller.json) |
+| The School: Swan Song | 58578 | [58578-the-school-swan-song.json](./58578-the-school-swan-song.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
@@ -11482,6 +11489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
 | The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
 | The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
+| The Song of Seven: Chapter One | 58579 | [58579-the-song-of-seven-chapter-one.json](./58579-the-song-of-seven-chapter-one.json) |
 | The song of Star night | 150486 | [150486-the-song-of-star-night.json](./150486-the-song-of-star-night.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
 | The Song of Terminus | 84119 | [84119-the-song-of-terminus.json](./84119-the-song-of-terminus.json) |
@@ -13529,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves and Gold | 404359 | [404359-thieves-and-gold.json](./404359-thieves-and-gold.json) |
 | Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
+| Thieves Guild Tycoon | 58731 | [58731-thieves-guild-tycoon.json](./58731-thieves-guild-tycoon.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
 | Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
@@ -13935,6 +13944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
 | Through the Dust | 123893 | [123893-through-the-dust.json](./123893-through-the-dust.json) |
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
+| Through the Eyes of the Girls | 58153 | [58153-through-the-eyes-of-the-girls.json](./58153-through-the-eyes-of-the-girls.json) |
 | Through the Fog | 302095 | [302095-through-the-fog.json](./302095-through-the-fog.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
@@ -15630,6 +15640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Horn: Il Corno del Tempo | 356873 | [356873-time-horn-il-corno-del-tempo.json](./356873-time-horn-il-corno-del-tempo.json) |
 | Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
 | Time Hunters: Curse of the Golden Idol | 277373 | [277373-time-hunters-curse-of-the-golden-idol.json](./277373-time-hunters-curse-of-the-golden-idol.json) |
+| Time Is An Island | 58710 | [58710-time-is-an-island.json](./58710-time-is-an-island.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time Is Money | 183893 | [183893-time-is-money.json](./183893-time-is-money.json) |
@@ -15647,6 +15658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
+| Time Locker | 58145 | [58145-time-locker.json](./58145-time-locker.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
@@ -16597,6 +16609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
+| Toby's Nose | 58704 | [58704-tobys-nose.json](./58704-tobys-nose.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
@@ -21409,6 +21422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
+| Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
@@ -21439,6 +21453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
+| Tropical Wars | 58673 | [58673-tropical-wars.json](./58673-tropical-wars.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
@@ -21613,6 +21628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
+| Trucking 3D | 58156 | [58156-trucking-3d.json](./58156-trucking-3d.json) |
 | Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
 | Trucking Simulator | 292984 | [292984-trucking-simulator.json](./292984-trucking-simulator.json) |
 | Trucks | 145381 | [145381-trucks.json](./145381-trucks.json) |
