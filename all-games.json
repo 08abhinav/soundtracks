@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T19:37:09.982Z",
-  "total_soundtracks": 1695,
+  "generated_at": "2026-10-15T19:37:23.598Z",
+  "total_soundtracks": 1696,
   "games": [
     {
       "igdb_id": 7522,
@@ -14435,6 +14435,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/shenmue-iii-the-definitive-soundtrack/1547575397?uo=4",
           "album_link_url": "https://album.link/i/1547575397"
+        }
+      ]
+    },
+    {
+      "igdb_id": 21074,
+      "game_name": "Shin Megami Tensei",
+      "game_url": "https://ostdb.net/games/shin-megami-tensei",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273069cf7cc78b0f37b895c96b5",
+      "albums": [
+        {
+          "album_name": "Shin Megami Tensei Original Soundtrack (Super Famicom version)",
+          "spotify_url": "https://open.spotify.com/album/1zwRAaq0ZJBM4OcTZfvU4i",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
