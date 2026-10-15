@@ -292,6 +292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachislot Ring: Noroi no 7-Kakan | 60808 | [60808-pachislot-ring-noroi-no-7-kakan.json](./60808-pachislot-ring-noroi-no-7-kakan.json) |
 | Pachislot Ring: Shuen no Koku | 71569 | [71569-pachislot-ring-shuen-no-koku.json](./71569-pachislot-ring-shuen-no-koku.json) |
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
+| Pachislot Souten no Ken | 61493 | [61493-pachislot-souten-no-ken.json](./61493-pachislot-souten-no-ken.json) |
+| Pachislot Souten no Ken 2 | 61495 | [61495-pachislot-souten-no-ken-2.json](./61495-pachislot-souten-no-ken-2.json) |
 | Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
@@ -3736,6 +3738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Phenomenon: City of Cyan | 61531 | [61531-phenomenon-city-of-cyan.json](./61531-phenomenon-city-of-cyan.json) |
+| Phenomenon: Outcome | 61533 | [61533-phenomenon-outcome.json](./61533-phenomenon-outcome.json) |
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
 | Phero | 348817 | [348817-phero.json](./348817-phero.json) |
@@ -6528,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
 | Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
+| Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
@@ -10892,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
+| Project Tilt | 61532 | [61532-project-tilt.json](./61532-project-tilt.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
@@ -11309,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
+| Psikyo Shooting Collection Vol. 2: Sengoku Ace + Sengoku Blade | 61496 | [61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json](./61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json) |
 | Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze | 70314 | [70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json](./70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
 | Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
