@@ -6605,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
 | Clear the Train | 255247 | [255247-clear-the-train.json](./255247-clear-the-train.json) |
 | Clear Vision | 95568 | [95568-clear-vision.json](./95568-clear-vision.json) |
+| Clear Vision 2 | 63773 | [63773-clear-vision-2.json](./63773-clear-vision-2.json) |
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 3 | 343968 | [343968-clear-vision-3.json](./343968-clear-vision-3.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
@@ -9114,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
 | Constructed | 331908 | [331908-constructed.json](./331908-constructed.json) |
+| Construction Bob Escapes from Hell | 63791 | [63791-construction-bob-escapes-from-hell.json](./63791-construction-bob-escapes-from-hell.json) |
 | Construction Bob in the Bouncing Factory | 93158 | [93158-construction-bob-in-the-bouncing-factory.json](./93158-construction-bob-in-the-bouncing-factory.json) |
 | Construction Charlie | 108081 | [108081-construction-charlie.json](./108081-construction-charlie.json) |
 | Construction Crew | 391899 | [391899-construction-crew.json](./391899-construction-crew.json) |
@@ -9795,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
+| Corpse Craft | 63753 | [63753-corpse-craft.json](./63753-corpse-craft.json) |
 | Corpse Disaster: Survivors | 238372 | [238372-corpse-disaster-survivors.json](./238372-corpse-disaster-survivors.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
@@ -11858,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry North Dakota | 399071 | [399071-crosscountry-north-dakota.json](./399071-crosscountry-north-dakota.json) |
 | Crosscountry Texas | 399070 | [399070-crosscountry-texas.json](./399070-crosscountry-texas.json) |
 | Crosscountry USA | 399067 | [399067-crosscountry-usa.json](./399067-crosscountry-usa.json) |
+| Crosscountry USA | 63787 | [63787-crosscountry-usa.json](./63787-crosscountry-usa.json) |
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
 | CrossCraze | 140504 | [140504-crosscraze.json](./140504-crosscraze.json) |
@@ -12275,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
+| Cryamore | 63785 | [63785-cryamore.json](./63785-cryamore.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
@@ -13532,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
+| Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
