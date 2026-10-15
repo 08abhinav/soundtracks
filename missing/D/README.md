@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
+| Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
 | Deadly Balls Bounce | 364972 | [364972-deadly-balls-bounce.json](./364972-deadly-balls-bounce.json) |
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
