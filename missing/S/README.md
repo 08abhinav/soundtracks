@@ -3436,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
+| Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
+| Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega vs. Capcom: The Next Level | 314615 | [314615-sega-vs-capcom-the-next-level.json](./314615-sega-vs-capcom-the-next-level.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
+| Sega Worldwide Soccer 2000 | 45790 | [45790-sega-worldwide-soccer-2000.json](./45790-sega-worldwide-soccer-2000.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
 | Sega Yon-nin Uchi Mahjong MJ | 164282 | [164282-sega-yon-nin-uchi-mahjong-mj.json](./164282-sega-yon-nin-uchi-mahjong-mj.json) |
 | Sega-Galaga | 6131 | [6131-sega-galaga.json](./6131-sega-galaga.json) |
@@ -4173,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
+| Seventh Cross Evolution | 45788 | [45788-seventh-cross-evolution.json](./45788-seventh-cross-evolution.json) |
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
@@ -5700,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
+| Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
@@ -10349,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
+| Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
@@ -11669,6 +11675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure of the Generations | 334741 | [334741-sonic-adventure-of-the-generations.json](./334741-sonic-adventure-of-the-generations.json) |
 | Sonic Adventure Reloaded | 316978 | [316978-sonic-adventure-reloaded.json](./316978-sonic-adventure-reloaded.json) |
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
+| Sonic Adventure: Limited Edition | 45786 | [45786-sonic-adventure-limited-edition.json](./45786-sonic-adventure-limited-edition.json) |
 | Sonic Adventure: Neo | 330154 | [330154-sonic-adventure-neo.json](./330154-sonic-adventure-neo.json) |
 | Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
 | Sonic Adventure: Revolution | 317345 | [317345-sonic-adventure-revolution.json](./317345-sonic-adventure-revolution.json) |
@@ -12581,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
 | Soul Fantasy | 191079 | [191079-soul-fantasy.json](./191079-soul-fantasy.json) |
+| Soul Fighter | 45840 | [45840-soul-fighter.json](./45840-soul-fighter.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul for two | 81637 | [81637-soul-for-two.json](./81637-soul-for-two.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
@@ -13267,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
+| Space Griffon VF-9 | 45833 | [45833-space-griffon-vf-9.json](./45833-space-griffon-vf-9.json) |
 | Space Grind | 181182 | [181182-space-grind.json](./181182-space-grind.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
@@ -15430,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
 | Sports Illustrated for Kids: Football | 49220 | [49220-sports-illustrated-for-kids-football.json](./49220-sports-illustrated-for-kids-football.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
+| Sports Jam | 45841 | [45841-sports-jam.json](./45841-sports-jam.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
@@ -22290,6 +22300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
+| Super Runabout: San Francisco Edition | 45804 | [45804-super-runabout-san-francisco-edition.json](./45804-super-runabout-san-francisco-edition.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
 | Super Safe Spelunking | 372246 | [372246-super-safe-spelunking.json](./372246-super-safe-spelunking.json) |
@@ -23116,6 +23127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
+| Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
 | Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
 | Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
