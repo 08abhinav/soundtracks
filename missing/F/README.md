@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
 | F1 Manager | 213266 | [213266-f1-manager.json](./213266-f1-manager.json) |
+| F1 Manager | 46448 | [46448-f1-manager.json](./46448-f1-manager.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
 | F1 Manager 2023: Deluxe Edition | 252613 | [252613-f1-manager-2023-deluxe-edition.json](./252613-f1-manager-2023-deluxe-edition.json) |
 | F1 Manager 2024 | 290808 | [290808-f1-manager-2024.json](./290808-f1-manager-2024.json) |
@@ -371,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Light and Summer's Shadow | 411769 | [411769-fading-light-and-summers-shadow.json](./411769-fading-light-and-summers-shadow.json) |
 | Fading Light: Antiworld | 223425 | [223425-fading-light-antiworld.json](./223425-fading-light-antiworld.json) |
+| Fading of Zarya 7 | 46466 | [46466-fading-of-zarya-7.json](./46466-fading-of-zarya-7.json) |
 | Fading Remnants | 326844 | [326844-fading-remnants.json](./326844-fading-remnants.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
@@ -2394,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
+| FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FBI: Paranormal Case | 122102 | [122102-fbi-paranormal-case.json](./122102-fbi-paranormal-case.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
@@ -6597,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
+| Forest run | 46452 | [46452-forest-run.json](./46452-forest-run.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
