@@ -8944,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
+| Minotaur: The Labyrinths of Crete | 38779 | [38779-minotaur-the-labyrinths-of-crete.json](./38779-minotaur-the-labyrinths-of-crete.json) |
 | Minotauros | 296257 | [296257-minotauros.json](./296257-minotauros.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minschima | 215598 | [215598-minschima.json](./215598-minschima.json) |
