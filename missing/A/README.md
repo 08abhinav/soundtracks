@@ -11477,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
+| Austrian Truck Simulator | 61524 | [61524-austrian-truck-simulator.json](./61524-austrian-truck-simulator.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
 | Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
