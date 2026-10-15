@@ -6513,7 +6513,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
+| Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
+| Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
@@ -6725,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
+| Metamor Jupiter | 37631 | [37631-metamor-jupiter.json](./37631-metamor-jupiter.json) |
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
