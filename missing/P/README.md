@@ -6575,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmania | 94618 | [94618-plasmania.json](./94618-plasmania.json) |
+| PlasmArrow | 19104 | [19104-plasmarrow.json](./19104-plasmarrow.json) |
 | Plasmatic | 253338 | [253338-plasmatic.json](./253338-plasmatic.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play with the Teletubbies | 67183 | [67183-play-with-the-teletubbies.json](./67183-play-with-the-teletubbies.json) |
+| Play-Doh Create ABCs | 19161 | [19161-play-doh-create-abcs.json](./19161-play-doh-create-abcs.json) |
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
 | Play-Yan | 49765 | [49765-play-yan.json](./49765-play-yan.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
@@ -8265,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
 | Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
+| Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
 | Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
