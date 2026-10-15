@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
+| 1080° Snowboarding | 3328 | [3328-1080-snowboarding.json](./3328-1080-snowboarding.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
 | 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
 | 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
+| 60 Seconds! | 11709 | [11709-60-seconds.json](./11709-60-seconds.json) |
 | 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 60 Tons | 58671 | [58671-60-tons.json](./58671-60-tons.json) |
 | 60-in-1 Game Collection | 195520 | [195520-60-in-1-game-collection.json](./195520-60-in-1-game-collection.json) |
