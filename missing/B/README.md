@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCore Arena: Founder's Pack | 316391 | [316391-battlecore-arena-founders-pack.json](./316391-battlecore-arena-founders-pack.json) |
 | BattleCore Arena: Kaps Pack | 316375 | [316375-battlecore-arena-kaps-pack.json](./316375-battlecore-arena-kaps-pack.json) |
 | BattleCore Arena: Premium Founders Pack | 316380 | [316380-battlecore-arena-premium-founders-pack.json](./316380-battlecore-arena-premium-founders-pack.json) |
+| BattleCorps | 46423 | [46423-battlecorps.json](./46423-battlecorps.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | Battlecraft | 128947 | [128947-battlecraft.json](./128947-battlecraft.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleship: Online Game Hall | 88649 | [88649-battleship-online-game-hall.json](./88649-battleship-online-game-hall.json) |
 | Battleship: Surface Thunder | 9735 | [9735-battleship-surface-thunder.json](./9735-battleship-surface-thunder.json) |
+| Battleship: The Classic Naval Warfare Game | 46437 | [46437-battleship-the-classic-naval-warfare-game.json](./46437-battleship-the-classic-naval-warfare-game.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: Pacific War | 126315 | [126315-battleships-and-carriers-pacific-war.json](./126315-battleships-and-carriers-pacific-war.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
@@ -9288,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
+| Bouncers | 46422 | [46422-bouncers.json](./46422-bouncers.json) |
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
 | BounciBall | 78293 | [78293-bounciball.json](./78293-bounciball.json) |
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
@@ -11450,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
+| Building Simulator | 46454 | [46454-building-simulator.json](./46454-building-simulator.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
@@ -12272,6 +12276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
 | Button Board | 232349 | [232349-button-board.json](./232349-button-board.json) |
+| Button Bros | 46468 | [46468-button-bros.json](./46468-button-bros.json) |
 | Button Button Up! | 122868 | [122868-button-button-up.json](./122868-button-button-up.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
