@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 1 | 171375 | [171375-hacker-evolution-duality-inception-part-1.json](./171375-hacker-evolution-duality-inception-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker Evolution Duality: Inception Part 3 | 171506 | [171506-hacker-evolution-duality-inception-part-3.json](./171506-hacker-evolution-duality-inception-part-3.json) |
+| Hacker Evolution Source Code | 35416 | [35416-hacker-evolution-source-code.json](./35416-hacker-evolution-source-code.json) |
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
@@ -7448,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Maids | 189980 | [189980-house-of-maids.json](./189980-house-of-maids.json) |
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
+| House of Nightmares B-Movie Edition | 35388 | [35388-house-of-nightmares-b-movie-edition.json](./35388-house-of-nightmares-b-movie-edition.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
 | House of Pain | 211980 | [211980-house-of-pain.json](./211980-house-of-pain.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
