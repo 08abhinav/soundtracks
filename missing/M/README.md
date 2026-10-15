@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
+| Machine Head | 43762 | [43762-machine-head.json](./43762-machine-head.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Hunt | 30849 | [30849-machine-hunt.json](./30849-machine-hunt.json) |
@@ -6473,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
+| Meta-Ph-List: Gamma X 2097 | 43755 | [43755-meta-ph-list-gamma-x-2097.json](./43755-meta-ph-list-gamma-x-2097.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
 | Metaball: Diamond Bundle | 267835 | [267835-metaball-diamond-bundle.json](./267835-metaball-diamond-bundle.json) |
 | Metaball: Face Bundle | 310047 | [310047-metaball-face-bundle.json](./310047-metaball-face-bundle.json) |
@@ -8987,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
+| Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
 | Miracle Sweeper | 235492 | [235492-miracle-sweeper.json](./235492-miracle-sweeper.json) |
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
@@ -9689,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobg.io Survive Battle Royale | 95837 | [95837-mobg-io-survive-battle-royale.json](./95837-mobg-io-survive-battle-royale.json) |
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
+| Mobile Armor | 43777 | [43777-mobile-armor.json](./43777-mobile-armor.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
@@ -11760,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Mose Three Kingdoms | 120060 | [120060-mose-three-kingdoms.json](./120060-mose-three-kingdoms.json) |
 | Moses & Plato: Last Train to Clawville | 283084 | [283084-moses-and-plato-last-train-to-clawville.json](./283084-moses-and-plato-last-train-to-clawville.json) |
+| Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
@@ -11976,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
+| Motocross Mania | 43771 | [43771-motocross-mania.json](./43771-motocross-mania.json) |
 | Motocross Mania 2 | 45100 | [45100-motocross-mania-2.json](./45100-motocross-mania-2.json) |
 | Motocross Maniacs | 73130 | [73130-motocross-maniacs.json](./73130-motocross-maniacs.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
