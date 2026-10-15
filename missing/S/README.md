@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
 | Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
+| Seaside Racing | 64875 | [64875-seaside-racing.json](./64875-seaside-racing.json) |
 | Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
 | Seaside Sourcery | 230187 | [230187-seaside-sourcery.json](./230187-seaside-sourcery.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
@@ -14709,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Cycle | 403542 | [403542-spin-cycle.json](./403542-spin-cycle.json) |
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
+| Spin Deluxe | 64857 | [64857-spin-deluxe.json](./64857-spin-deluxe.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
 | Spin for Love | 134326 | [134326-spin-for-love.json](./134326-spin-for-love.json) |
@@ -15093,6 +15095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
 | SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
+| SpongeBob SquarePants: Diner Dash | 64860 | [64860-spongebob-squarepants-diner-dash.json](./64860-spongebob-squarepants-diner-dash.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
 | SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
@@ -16053,6 +16056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Breaker | 13082 | [13082-star-breaker.json](./13082-star-breaker.json) |
 | Star Bridge | 59917 | [59917-star-bridge.json](./59917-star-bridge.json) |
+| Star Burial Dragnir | 64848 | [64848-star-burial-dragnir.json](./64848-star-burial-dragnir.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
 | Star Castle | 198903 | [198903-star-castle.json](./198903-star-castle.json) |
@@ -17222,6 +17226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshard Brigands | 401860 | [401860-starshard-brigands.json](./401860-starshard-brigands.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
+| Starshatter: The Gathering Storm | 64855 | [64855-starshatter-the-gathering-storm.json](./64855-starshatter-the-gathering-storm.json) |
 | Starshield | 374752 | [374752-starshield.json](./374752-starshield.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
@@ -20659,6 +20664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
+| Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
@@ -23283,6 +23289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
+| Survivors of Ragnarök | 64835 | [64835-survivors-of-ragnarok.json](./64835-survivors-of-ragnarok.json) |
 | Survivors of the Dawn | 236928 | [236928-survivors-of-the-dawn.json](./236928-survivors-of-the-dawn.json) |
 | Survivors of the Mare Vitalis | 267434 | [267434-survivors-of-the-mare-vitalis.json](./267434-survivors-of-the-mare-vitalis.json) |
 | Survivors of the Plague | 259597 | [259597-survivors-of-the-plague.json](./259597-survivors-of-the-plague.json) |
@@ -23309,6 +23316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
 | Sushi Break | 135577 | [135577-sushi-break.json](./135577-sushi-break.json) |
 | Sushi Break: Head to Head | 214697 | [214697-sushi-break-head-to-head.json](./214697-sushi-break-head-to-head.json) |
+| Sushi Castle | 64879 | [64879-sushi-castle.json](./64879-sushi-castle.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
