@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
+| Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
@@ -1626,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
+| Elevators Amiss | 57580 | [57580-elevators-amiss.json](./57580-elevators-amiss.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
@@ -2791,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Enraged Red Ogre | 264080 | [264080-enraged-red-ogre.json](./264080-enraged-red-ogre.json) |
+| Enraged Rocket House | 57579 | [57579-enraged-rocket-house.json](./57579-enraged-rocket-house.json) |
 | Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
