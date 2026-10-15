@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Whisper | 238647 | [238647-last-whisper.json](./238647-last-whisper.json) |
 | Last Window: The Secret of Cape West | 22958 | [22958-last-window-the-secret-of-cape-west.json](./22958-last-window-the-secret-of-cape-west.json) |
+| Last Wings | 26365 | [26365-last-wings.json](./26365-last-wings.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 207042 | [207042-lemuria.json](./207042-lemuria.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
+| Lemuria: Lost in Space | 26355 | [26355-lemuria-lost-in-space.json](./26355-lemuria-lost-in-space.json) |
 | Lemurzin | 34116 | [34116-lemurzin.json](./34116-lemurzin.json) |
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Len'en Mugenri: Evanescent Existence | 125797 | [125797-lenen-mugenri-evanescent-existence.json](./125797-lenen-mugenri-evanescent-existence.json) |
@@ -5281,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords Mobile | 298167 | [298167-lords-mobile.json](./298167-lords-mobile.json) |
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
+| Lords of Conquest | 26391 | [26391-lords-of-conquest.json](./26391-lords-of-conquest.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
