@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
+| Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
 | TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | TankTrouble Classic | 200540 | [200540-tanktrouble-classic.json](./200540-tanktrouble-classic.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tek-Kids Flash-Ops: Mission - Data Island | 70023 | [70023-tek-kids-flash-ops-mission-data-island.json](./70023-tek-kids-flash-ops-mission-data-island.json) |
+| Tek-Kids Flash-Ops: Mission - Polar Challenge | 71427 | [71427-tek-kids-flash-ops-mission-polar-challenge.json](./71427-tek-kids-flash-ops-mission-polar-challenge.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
 | Teke Teke: Moonlit Dread | 274395 | [274395-teke-teke-moonlit-dread.json](./274395-teke-teke-moonlit-dread.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Number | 405629 | [405629-the-big-number.json](./405629-the-big-number.json) |
 | The Big One | 237259 | [237259-the-big-one.json](./237259-the-big-one.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
+| The Big One | 71410 | [71410-the-big-one.json](./71410-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big Red Adventure | 12404 | [12404-the-big-red-adventure.json](./12404-the-big-red-adventure.json) |
 | The Big Robot Project | 146089 | [146089-the-big-robot-project.json](./146089-the-big-robot-project.json) |
@@ -4827,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in 14a | 117805 | [117805-the-cat-in-14a.json](./117805-the-cat-in-14a.json) |
+| The Cat in the Hat | 71403 | [71403-the-cat-in-the-hat.json](./71403-the-cat-in-the-hat.json) |
 | The Cat in the Hat By Dr Seuss | 49507 | [49507-the-cat-in-the-hat-by-dr-seuss.json](./49507-the-cat-in-the-hat-by-dr-seuss.json) |
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
@@ -14059,6 +14063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TibiaMe | 115761 | [115761-tibiame.json](./115761-tibiame.json) |
 | TibiaScape | 320884 | [320884-tibiascape.json](./320884-tibiascape.json) |
 | Tibili et L'île de la Panthère | 261896 | [261896-tibili-et-lile-de-la-panthere.json](./261896-tibili-et-lile-de-la-panthere.json) |
+| Tibo's Tale | 71422 | [71422-tibos-tale.json](./71422-tibos-tale.json) |
 | Tibor: Tale Of A Kind Vampire | 274396 | [274396-tibor-tale-of-a-kind-vampire.json](./274396-tibor-tale-of-a-kind-vampire.json) |
 | Tic | 100258 | [100258-tic.json](./100258-tic.json) |
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
@@ -15430,6 +15435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
 | Tiles of Hope: Matching Games | 331373 | [331373-tiles-of-hope-matching-games.json](./331373-tiles-of-hope-matching-games.json) |
+| Tiles of the Dragon | 71416 | [71416-tiles-of-the-dragon.json](./71416-tiles-of-the-dragon.json) |
 | Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
 | Tiles Town | 240118 | [240118-tiles-town.json](./240118-tiles-town.json) |
@@ -16963,6 +16969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
+| Tom Landry Strategy Football | 71380 | [71380-tom-landry-strategy-football.json](./71380-tom-landry-strategy-football.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Mason's Dinosaurs for Hire | 46252 | [46252-tom-masons-dinosaurs-for-hire.json](./46252-tom-masons-dinosaurs-for-hire.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
@@ -17354,6 +17361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
+| Top Cat in Beverly Hills Cats | 71415 | [71415-top-cat-in-beverly-hills-cats.json](./71415-top-cat-in-beverly-hills-cats.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
@@ -21852,6 +21860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
+| Tubular Worlds | 71388 | [71388-tubular-worlds.json](./71388-tubular-worlds.json) |
 | TUBWT | 117554 | [117554-tubwt.json](./117554-tubwt.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuckerton Pool | 96288 | [96288-tuckerton-pool.json](./96288-tuckerton-pool.json) |
@@ -22018,6 +22027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sloths | 149199 | [149199-turbo-sloths.json](./149199-turbo-sloths.json) |
 | Turbo Snow Skiing | 257869 | [257869-turbo-snow-skiing.json](./257869-turbo-snow-skiing.json) |
 | Turbo Soccer VR | 102131 | [102131-turbo-soccer-vr.json](./102131-turbo-soccer-vr.json) |
+| Turbo Speedway | 71381 | [71381-turbo-speedway.json](./71381-turbo-speedway.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
