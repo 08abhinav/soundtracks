@@ -8486,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
+| Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
@@ -9560,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
+| Prey Invasion | 67860 | [67860-prey-invasion.json](./67860-prey-invasion.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey the Stars | 21337 | [21337-prey-the-stars.json](./21337-prey-the-stars.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
@@ -9651,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
+| Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
 | Prime Horror II | 215328 | [215328-prime-horror-ii.json](./215328-prime-horror-ii.json) |
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
@@ -10323,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Lumberjack 2016 | 84807 | [84807-professional-lumberjack-2016.json](./84807-professional-lumberjack-2016.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
+| Professional Offroad Transport Simulator | 67919 | [67919-professional-offroad-transport-simulator.json](./67919-professional-offroad-transport-simulator.json) |
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
