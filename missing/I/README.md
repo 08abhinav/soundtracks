@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have Low Stats But My Class is "Leader", So I Recruited Everyone I Know to Fight the Dark Lord | 123423 | [123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json](./123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json) |
 | I Have More Hours Than You | 340511 | [340511-i-have-more-hours-than-you.json](./340511-i-have-more-hours-than-you.json) |
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
+| I Have No Mouth, and I Must Scream | 7578 | [7578-i-have-no-mouth-and-i-must-scream.json](./7578-i-have-no-mouth-and-i-must-scream.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
 | I Have One Day | 320247 | [320247-i-have-one-day.json](./320247-i-have-one-day.json) |
 | I Hear the Forest | 414146 | [414146-i-hear-the-forest.json](./414146-i-hear-the-forest.json) |
