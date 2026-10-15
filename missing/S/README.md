@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
 | Samurai Elemental | 329098 | [329098-samurai-elemental.json](./329098-samurai-elemental.json) |
+| Samurai Evolution: Oukoku Geist | 49792 | [49792-samurai-evolution-oukoku-geist.json](./49792-samurai-evolution-oukoku-geist.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Frog | 359058 | [359058-samurai-frog.json](./359058-samurai-frog.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku-hime 2: Kouki Houkou, Mezameshi Taiga | 313993 | [313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json](./313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json) |
 | Sangoku-hime 2: Tenka Hatou, Shishi no Keishousha | 313994 | [313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json](./313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json) |
 | Sangoku-hime 4: Souha Hyakkei, Hanamamoru Chikai | 313995 | [313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json](./313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json) |
+| Sangokushi | 49790 | [49790-sangokushi.json](./49790-sangokushi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
@@ -1167,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi V: Power Up Kit | 350381 | [350381-sangokushi-v-power-up-kit.json](./350381-sangokushi-v-power-up-kit.json) |
 | Sangokushi VIII: Power Up Kit | 350379 | [350379-sangokushi-viii-power-up-kit.json](./350379-sangokushi-viii-power-up-kit.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
+| Sangokushi: Koumei-den | 49791 | [49791-sangokushi-koumei-den.json](./49791-sangokushi-koumei-den.json) |
 | Sangokushi: Shinsen | 218061 | [218061-sangokushi-shinsen.json](./218061-sangokushi-shinsen.json) |
 | Sangokushi: Strategy Edition | 188391 | [188391-sangokushi-strategy-edition.json](./188391-sangokushi-strategy-edition.json) |
 | Sangokutaisen Smash | 83431 | [83431-sangokutaisen-smash.json](./83431-sangokutaisen-smash.json) |
@@ -1229,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
+| Sanrio Puroland: All-Characters | 49789 | [49789-sanrio-puroland-all-characters.json](./49789-sanrio-puroland-all-characters.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Sanrio TimeNet: Mirai-hen | 229080 | [229080-sanrio-timenet-mirai-hen.json](./229080-sanrio-timenet-mirai-hen.json) |
 | Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
@@ -1237,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
+| Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
@@ -1808,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Alien | 238987 | [238987-scan-alien.json](./238987-scan-alien.json) |
+| Scan Hunter | 49788 | [49788-scan-hunter.json](./49788-scan-hunter.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scandal | 65027 | [65027-scandal.json](./65027-scandal.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
@@ -2659,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
 | SD Gundam G Generation-F | 75729 | [75729-sd-gundam-g-generation-f.json](./75729-sd-gundam-g-generation-f.json) |
 | SD Gundam G Generation-F IF | 75730 | [75730-sd-gundam-g-generation-f-if.json](./75730-sd-gundam-g-generation-f-if.json) |
+| SD Gundam G Generation: Advance | 49787 | [49787-sd-gundam-g-generation-advance.json](./49787-sd-gundam-g-generation-advance.json) |
 | SD Gundam G Generation: Gather Beat 2 | 37321 | [37321-sd-gundam-g-generation-gather-beat-2.json](./37321-sd-gundam-g-generation-gather-beat-2.json) |
 | SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
@@ -3691,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
+| Sengoku Kakumei Gaiden | 49786 | [49786-sengoku-kakumei-gaiden.json](./49786-sengoku-kakumei-gaiden.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime EX 1: Oushuu no Dokugan Ryuu-hen | 411691 | [411691-sengoku-koihime-ex-1-oushuu-no-dokugan-ryuu-hen.json](./411691-sengoku-koihime-ex-1-oushuu-no-dokugan-ryuu-hen.json) |
 | Sengoku Koihime EX 2: Oni no Kuni, Echizen-hen | 411692 | [411692-sengoku-koihime-ex-2-oni-no-kuni-echizen-hen.json](./411692-sengoku-koihime-ex-2-oni-no-kuni-echizen-hen.json) |
@@ -3840,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
 | Sentou Kokka: Air Land Battle | 166546 | [166546-sentou-kokka-air-land-battle.json](./166546-sentou-kokka-air-land-battle.json) |
+| Sentouin: Yamada Hajime | 49785 | [49785-sentouin-yamada-hajime.json](./49785-sentouin-yamada-hajime.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
@@ -4916,6 +4925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
 | Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
 | Shaman King: Asu he no Ishi | 68231 | [68231-shaman-king-asu-he-no-ishi.json](./68231-shaman-king-asu-he-no-ishi.json) |
+| Shaman King: Chou Senjiryakketsu 2 | 49784 | [49784-shaman-king-chou-senjiryakketsu-2.json](./49784-shaman-king-chou-senjiryakketsu-2.json) |
+| Shaman King: Chou Senjiryakketsu 3 | 49783 | [49783-shaman-king-chou-senjiryakketsu-3.json](./49783-shaman-king-chou-senjiryakketsu-3.json) |
 | Shaman King: Chou Senjiryakketsu 3 | 68232 | [68232-shaman-king-chou-senjiryakketsu-3.json](./68232-shaman-king-chou-senjiryakketsu-3.json) |
 | Shaman King: Funbari Spirits | 68246 | [68246-shaman-king-funbari-spirits.json](./68246-shaman-king-funbari-spirits.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
@@ -4943,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
+| Shanghai Advance | 49782 | [49782-shanghai-advance.json](./49782-shanghai-advance.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
@@ -5559,6 +5571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
+| Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
+| Shikakui Atama wo Maru Kusuru Advance: Kokugo Sansuu Shakai Rika-hen | 49780 | [49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json](./49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
@@ -5594,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
+| Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
@@ -5613,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Kaku Gi Kou and the 11 Destroyers | 110790 | [110790-shin-kaku-gi-kou-and-the-11-destroyers.json](./110790-shin-kaku-gi-kou-and-the-11-destroyers.json) |
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
 | Shin Kidou Senki Gundam Wing: Endless Duel | 42464 | [42464-shin-kidou-senki-gundam-wing-endless-duel.json](./42464-shin-kidou-senki-gundam-wing-endless-duel.json) |
+| Shin Kisekae Monogatari | 49777 | [49777-shin-kisekae-monogatari.json](./49777-shin-kisekae-monogatari.json) |
 | Shin Koihime Musou: Fighting Maidens of the Romance of the Three Kingdoms | 63253 | [63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json](./63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
@@ -5650,8 +5666,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
+| Shin Megami Tensei: Devil Children - Messiah Riser | 49774 | [49774-shin-megami-tensei-devil-children-messiah-riser.json](./49774-shin-megami-tensei-devil-children-messiah-riser.json) |
 | Shin Megami Tensei: Devil Children - Puzzle de Call! | 49821 | [49821-shin-megami-tensei-devil-children-puzzle-de-call.json](./49821-shin-megami-tensei-devil-children-puzzle-de-call.json) |
 | Shin Megami Tensei: Devil Children - Shiro no Sho | 71717 | [71717-shin-megami-tensei-devil-children-shiro-no-sho.json](./71717-shin-megami-tensei-devil-children-shiro-no-sho.json) |
+| Shin Megami Tensei: Devil Children 2 - Koori no Sho | 49775 | [49775-shin-megami-tensei-devil-children-2-koori-no-sho.json](./49775-shin-megami-tensei-devil-children-2-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Collection | 147169 | [147169-shin-megami-tensei-devil-collection.json](./147169-shin-megami-tensei-devil-collection.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
