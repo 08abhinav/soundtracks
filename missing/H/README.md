@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
 | Hard Work | 343766 | [343766-hard-work.json](./343766-hard-work.json) |
+| Hard-Hat Domo | 69134 | [69134-hard-hat-domo.json](./69134-hard-hat-domo.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | Hard, Fast, & Flashy | 128963 | [128963-hard-fast-and-flashy.json](./128963-hard-fast-and-flashy.json) |
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
+| Hexothermic | 69170 | [69170-hexothermic.json](./69170-hexothermic.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
 | Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
@@ -5167,7 +5169,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
 | Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
+| Higurashi no Naku Koro ni Kizuna Volume I: Tatari | 69157 | [69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json](./69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
+| Higurashi no Naku Koro ni Kizuna Volume III: Rasen | 69165 | [69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json](./69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json) |
 | Higurashi no Naku Koro ni Kizuna Volume IV: Kizuna | 67278 | [67278-higurashi-no-naku-koro-ni-kizuna-volume-iv-kizuna.json](./67278-higurashi-no-naku-koro-ni-kizuna-volume-iv-kizuna.json) |
 | Higurashi no Naku Koro ni Kizuna: Alternative Hirukowashi-hen | 262970 | [262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json](./262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Himatsubushi-hen | 262960 | [262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json](./262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json) |
@@ -8143,7 +8147,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
+| Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
+| Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
+| Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
