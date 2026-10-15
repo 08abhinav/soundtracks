@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Lost My Wife | 379144 | [379144-i-lost-my-wife.json](./379144-i-lost-my-wife.json) |
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
 | I Love Babies | 199994 | [199994-i-love-babies.json](./199994-i-love-babies.json) |
+| I Love Beauty: Hollywood Makeover | 47849 | [47849-i-love-beauty-hollywood-makeover.json](./47849-i-love-beauty-hollywood-makeover.json) |
 | I Love Dolphin | 123321 | [123321-i-love-dolphin.json](./123321-i-love-dolphin.json) |
 | I Love Finding 9-in-1 Bundle | 328514 | [328514-i-love-finding-9-in-1-bundle.json](./328514-i-love-finding-9-in-1-bundle.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
