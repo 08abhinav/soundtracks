@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
 | Dancing Stage Party Edition | 68981 | [68981-dancing-stage-party-edition.json](./68981-dancing-stage-party-edition.json) |
 | Dancing Stage Universe | 6956 | [6956-dancing-stage-universe.json](./6956-dancing-stage-universe.json) |
+| Dancing Stage Universe 2 | 6957 | [6957-dancing-stage-universe-2.json](./6957-dancing-stage-universe-2.json) |
 | Dancing Stage Unleashed | 5803 | [5803-dancing-stage-unleashed.json](./5803-dancing-stage-unleashed.json) |
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
 | Dancing Stage Unleashed 3 | 5806 | [5806-dancing-stage-unleashed-3.json](./5806-dancing-stage-unleashed-3.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
+| Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
 | Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
 | Diari | 272998 | [272998-diari.json](./272998-diari.json) |
+| Diario: Rebirth Moon Legend | 6965 | [6965-diario-rebirth-moon-legend.json](./6965-diario-rebirth-moon-legend.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
@@ -10683,7 +10686,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream City Psyche | 381948 | [381948-dream-city-psyche.json](./381948-dream-city-psyche.json) |
 | Dream City: Metropolis | 256352 | [256352-dream-city-metropolis.json](./256352-dream-city-metropolis.json) |
 | Dream Clovers | 226152 | [226152-dream-clovers.json](./226152-dream-clovers.json) |
+| Dream Club | 6971 | [6971-dream-club.json](./6971-dream-club.json) |
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
+| Dream Club Zero | 6972 | [6972-dream-club-zero.json](./6972-dream-club-zero.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
 | Dream Crafter | 317510 | [317510-dream-crafter.json](./317510-dream-crafter.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
@@ -12066,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
 | Dun Darach | 12578 | [12578-dun-darach.json](./12578-dun-darach.json) |
+| Dunamis 15 | 6974 | [6974-dunamis-15.json](./6974-dunamis-15.json) |
 | Dunc's Algomusic | 177441 | [177441-duncs-algomusic.json](./177441-duncs-algomusic.json) |
 | Duncade | 217305 | [217305-duncade.json](./217305-duncade.json) |
 | Duncan and Katy | 61112 | [61112-duncan-and-katy.json](./61112-duncan-and-katy.json) |
@@ -13012,6 +13018,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
+| Dynasty Tactics | 6842 | [6842-dynasty-tactics.json](./6842-dynasty-tactics.json) |
+| Dynasty Tactics 2 | 6843 | [6843-dynasty-tactics-2.json](./6843-dynasty-tactics-2.json) |
 | Dynasty Warriors | 100279 | [100279-dynasty-warriors.json](./100279-dynasty-warriors.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Complete Edition Remastered | 369991 | [369991-dynasty-warriors-3-complete-edition-remastered.json](./369991-dynasty-warriors-3-complete-edition-remastered.json) |
