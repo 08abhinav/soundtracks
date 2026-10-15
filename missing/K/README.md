@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
+| Kayalina | 67911 | [67911-kayalina.json](./67911-kayalina.json) |
 | Kayden Garth | 229608 | [229608-kayden-garth.json](./229608-kayden-garth.json) |
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
