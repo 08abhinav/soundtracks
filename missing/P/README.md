@@ -8003,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Tournament | 80399 | [80399-poker-tournament.json](./80399-poker-tournament.json) |
 | Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
+| Poker With Bob | 22102 | [22102-poker-with-bob.json](./22102-poker-with-bob.json) |
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
@@ -10715,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
+| Project Earth: Starmageddon | 22062 | [22062-project-earth-starmageddon.json](./22062-project-earth-starmageddon.json) |
 | Project Earth: Starmageddon | 71055 | [71055-project-earth-starmageddon.json](./71055-project-earth-starmageddon.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
