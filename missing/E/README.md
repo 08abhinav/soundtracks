@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Deep-sea Exploration | 116440 | [116440-echoes-deep-sea-exploration.json](./116440-echoes-deep-sea-exploration.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
+| Echoes+ | 28586 | [28586-echoes.json](./28586-echoes.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Commander | 168706 | [168706-elite-commander.json](./168706-elite-commander.json) |
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
+| Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
