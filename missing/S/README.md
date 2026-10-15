@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
+| Seawitch | 62064 | [62064-seawitch.json](./62064-seawitch.json) |
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWolf VR | 196676 | [196676-seawolf-vr.json](./196676-seawolf-vr.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
+| Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's A-to-Zoo Adventure the Videogame | 47920 | [47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json](./47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
+| Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
@@ -5722,6 +5725,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
 | Shining Force Classics | 112181 | [112181-shining-force-classics.json](./112181-shining-force-classics.json) |
 | Shining Force Cross | 65251 | [65251-shining-force-cross.json](./65251-shining-force-cross.json) |
+| Shining Force Cross Elysion | 62094 | [62094-shining-force-cross-elysion.json](./62094-shining-force-cross-elysion.json) |
+| Shining Force Cross Exlesia | 62090 | [62090-shining-force-cross-exlesia.json](./62090-shining-force-cross-exlesia.json) |
+| Shining Force Cross Raid | 62091 | [62091-shining-force-cross-raid.json](./62091-shining-force-cross-raid.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
@@ -13160,6 +13166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Galaga | 62563 | [62563-space-galaga.json](./62563-space-galaga.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
+| Space Game | 62104 | [62104-space-game.json](./62104-space-game.json) |
 | Space Game: Star We There Yet? | 236754 | [236754-space-game-star-we-there-yet.json](./236754-space-game-star-we-there-yet.json) |
 | Space Games: Galaxy Attack | 273313 | [273313-space-games-galaxy-attack.json](./273313-space-games-galaxy-attack.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
