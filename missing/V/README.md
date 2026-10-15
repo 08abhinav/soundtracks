@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgin Queen | 59740 | [59740-virgin-queen.json](./59740-virgin-queen.json) |
 | Virgin Queen Beauty | 59739 | [59739-virgin-queen-beauty.json](./59739-virgin-queen-beauty.json) |
+| Virginia | 21599 | [21599-virginia.json](./21599-virginia.json) |
 | Virgo and the Sparklings Game | 249662 | [249662-virgo-and-the-sparklings-game.json](./249662-virgo-and-the-sparklings-game.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
