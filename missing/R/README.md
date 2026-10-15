@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
 | Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
 | Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
+| Raise Your Own Clone | 32634 | [32634-raise-your-own-clone.json](./32634-raise-your-own-clone.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
@@ -1355,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
 | Rapid Rocket | 232886 | [232886-rapid-rocket.json](./232886-rapid-rocket.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
+| Rapid Squirrel | 32632 | [32632-rapid-squirrel.json](./32632-rapid-squirrel.json) |
 | Rapid Stream | 246363 | [246363-rapid-stream.json](./246363-rapid-stream.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
@@ -4562,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Verbi | 174318 | [174318-rex-verbi.json](./174318-rex-verbi.json) |
 | Rex: Another Island | 55295 | [55295-rex-another-island.json](./55295-rex-another-island.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
+| Rexodus: A VR Story Experience | 32665 | [32665-rexodus-a-vr-story-experience.json](./32665-rexodus-a-vr-story-experience.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
@@ -5454,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
 | Rising Robots | 90502 | [90502-rising-robots.json](./90502-rising-robots.json) |
+| Rising Runner | 32729 | [32729-rising-runner.json](./32729-rising-runner.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
