@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vie: Try Again | 382560 | [382560-vie-try-again.json](./382560-vie-try-again.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
+| Vietcong | 271 | [271-vietcong.json](./271-vietcong.json) |
 | Vietcong 2 | 3179 | [3179-vietcong-2.json](./3179-vietcong-2.json) |
 | VietDoom | 196013 | [196013-vietdoom.json](./196013-vietdoom.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
