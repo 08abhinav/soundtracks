@@ -3406,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
+| Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
