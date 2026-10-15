@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake4D | 215297 | [215297-cake4d.json](./215297-cake4d.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
+| Caketomino | 31599 | [31599-caketomino.json](./31599-caketomino.json) |
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
+| Cards of Chaos | 31624 | [31624-cards-of-chaos.json](./31624-cards-of-chaos.json) |
 | Cards of Cthulhu | 31146 | [31146-cards-of-cthulhu.json](./31146-cards-of-cthulhu.json) |
 | Cards of Curse | 97997 | [97997-cards-of-curse.json](./97997-cards-of-curse.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
+| Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
 | Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
@@ -10871,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
+| Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
 | Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
