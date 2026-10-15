@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in the Gulf | 80823 | [80823-war-in-the-gulf.json](./80823-war-in-the-gulf.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War in the Pacific: Admiral's Edition | 129538 | [129538-war-in-the-pacific-admirals-edition.json](./129538-war-in-the-pacific-admirals-edition.json) |
+| War in the South Pacific | 26397 | [26397-war-in-the-south-pacific.json](./26397-war-in-the-south-pacific.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War Inc InfantryZone | 125841 | [125841-war-inc-infantryzone.json](./125841-war-inc-infantryzone.json) |
 | War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
 | Watch Dogs 2: Psychedelic Pack | 263104 | [263104-watch-dogs-2-psychedelic-pack.json](./263104-watch-dogs-2-psychedelic-pack.json) |
+| Watch Dogs 2: T-Bone Content Bundle | 26362 | [26362-watch-dogs-2-t-bone-content-bundle.json](./26362-watch-dogs-2-t-bone-content-bundle.json) |
 | Watch Dogs 2: Zodiac Killer | 168214 | [168214-watch-dogs-2-zodiac-killer.json](./168214-watch-dogs-2-zodiac-killer.json) |
 | Watch Dogs: Access Granted Pack | 399905 | [399905-watch-dogs-access-granted-pack.json](./399905-watch-dogs-access-granted-pack.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
@@ -3277,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
+| Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
@@ -3519,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
+| Wild Arms: Million Memories | 26383 | [26383-wild-arms-million-memories.json](./26383-wild-arms-million-memories.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
@@ -3825,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow’s Descent: Into the Under | 374760 | [374760-willow-s-descent-into-the-under.json](./374760-willow-s-descent-into-the-under.json) |
 | Willowisp VR | 74957 | [74957-willowisp-vr.json](./74957-willowisp-vr.json) |
 | Willows: A Dream of Shadows | 385330 | [385330-willows-a-dream-of-shadows.json](./385330-willows-a-dream-of-shadows.json) |
+| Wills and Wonders | 26360 | [26360-wills-and-wonders.json](./26360-wills-and-wonders.json) |
 | Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
 | Willy Byte in the Digital Dimension | 319887 | [319887-willy-byte-in-the-digital-dimension.json](./319887-willy-byte-in-the-digital-dimension.json) |
