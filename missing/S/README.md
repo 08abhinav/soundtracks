@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
+| Sabre Team | 12757 | [12757-sabre-team.json](./12757-sabre-team.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
@@ -291,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Chef | 249732 | [249732-safari-chef.json](./249732-safari-chef.json) |
+| Safari Guns | 12758 | [12758-safari-guns.json](./12758-safari-guns.json) |
 | Safari Hunt | 94935 | [94935-safari-hunt.json](./94935-safari-hunt.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Islands | 241532 | [241532-safari-islands.json](./241532-safari-islands.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
+| Screaming Wings | 12759 | [12759-screaming-wings.json](./12759-screaming-wings.json) |
 | Screams from the Past | 256731 | [256731-screams-from-the-past.json](./256731-screams-from-the-past.json) |
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
@@ -3816,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senshijidaino Kyoryu: Dinoprehis! | 309612 | [309612-senshijidaino-kyoryu-dinoprehis.json](./309612-senshijidaino-kyoryu-dinoprehis.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
+| Sensible Golf | 12762 | [12762-sensible-golf.json](./12762-sensible-golf.json) |
 | Sensible Massacre | 71425 | [71425-sensible-massacre.json](./71425-sensible-massacre.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
@@ -4695,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
 | Shadow Siege | 326229 | [326229-shadow-siege.json](./326229-shadow-siege.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
+| Shadow Sorcerer | 12764 | [12764-shadow-sorcerer.json](./12764-shadow-sorcerer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
 | Shadow Stalker | 251721 | [251721-shadow-stalker.json](./251721-shadow-stalker.json) |
@@ -6744,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
+| Shuttle: The Space Flight Simulator | 12766 | [12766-shuttle-the-space-flight-simulator.json](./12766-shuttle-the-space-flight-simulator.json) |
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuttlecock-H: Covered Rematch | 390169 | [390169-shuttlecock-h-covered-rematch.json](./390169-shuttlecock-h-covered-rematch.json) |
@@ -6949,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder | 22558 | [22558-sidewinder.json](./22558-sidewinder.json) |
 | SideWinder | 12850 | [12850-sidewinder.json](./12850-sidewinder.json) |
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
+| SideWinder II | 12767 | [12767-sidewinder-ii.json](./12767-sidewinder-ii.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
@@ -8689,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
 | Skycat | 132751 | [132751-skycat.json](./132751-skycat.json) |
+| SkyChase | 12769 | [12769-skychase.json](./12769-skychase.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | Skyclimbers | 135823 | [135823-skyclimbers.json](./135823-skyclimbers.json) |
@@ -14698,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
+| Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
@@ -15785,6 +15794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
+| Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
 | Spy vs. Spy Trilogy | 71431 | [71431-spy-vs-spy-trilogy.json](./71431-spy-vs-spy-trilogy.json) |
 | Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
