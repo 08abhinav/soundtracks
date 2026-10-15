@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
+| Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
 | Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
