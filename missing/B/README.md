@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Chase Journey | 265561 | [265561-balloon-chase-journey.json](./265561-balloon-chase-journey.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
+| Balloon Diaspora | 60453 | [60453-balloon-diaspora.json](./60453-balloon-diaspora.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
+| Barbie Superpack: Secret Agent / Groovy Games | 60447 | [60447-barbie-superpack-secret-agent-groovy-games.json](./60447-barbie-superpack-secret-agent-groovy-games.json) |
 | Barbie: Dreamtopia - Magical Hair | 261704 | [261704-barbie-dreamtopia-magical-hair.json](./261704-barbie-dreamtopia-magical-hair.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
@@ -4597,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
+| Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverage Hills | 219203 | [219203-beverage-hills.json](./219203-beverage-hills.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
