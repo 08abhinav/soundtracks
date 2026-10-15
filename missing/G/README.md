@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
 | Gals Fighters (Best Collection) | 75466 | [75466-gals-fighters-best-collection.json](./75466-gals-fighters-best-collection.json) |
 | Gals Hustler | 40146 | [40146-gals-hustler.json](./40146-gals-hustler.json) |
+| Gals Panic | 39464 | [39464-gals-panic.json](./39464-gals-panic.json) |
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
 | Gals Panic 4 | 46848 | [46848-gals-panic-4.json](./46848-gals-panic-4.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
+| Get Bass: Sega Bass Fishing | 39462 | [39462-get-bass-sega-bass-fishing.json](./39462-get-bass-sega-bass-fishing.json) |
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
 | Get Beneath the Surface | 177783 | [177783-get-beneath-the-surface.json](./177783-get-beneath-the-surface.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
@@ -6634,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
+| Groove on Fight | 39420 | [39420-groove-on-fight.json](./39420-groove-on-fight.json) |
 | Groove Planet | 58279 | [58279-groove-planet.json](./58279-groove-planet.json) |
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
