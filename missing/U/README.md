@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled | 218540 | [218540-untitled.json](./218540-untitled.json) |
 | Untitled Block Platformer | 218384 | [218384-untitled-block-platformer.json](./218384-untitled-block-platformer.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
+| Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Dungeons & Dragons Game | 291609 | [291609-untitled-dungeons-and-dragons-game.json](./291609-untitled-dungeons-and-dragons-game.json) |
 | Untitled Experimental Platformer by KG | 316699 | [316699-untitled-experimental-platformer-by-kg.json](./316699-untitled-experimental-platformer-by-kg.json) |
