@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
+| WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
@@ -2105,6 +2106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
 | Wedge Lock Scaffolding VR Training | 282217 | [282217-wedge-lock-scaffolding-vr-training.json](./282217-wedge-lock-scaffolding-vr-training.json) |
 | Wedgie Simulator | 216842 | [216842-wedgie-simulator.json](./216842-wedgie-simulator.json) |
+| Wedgie Toss | 67890 | [67890-wedgie-toss.json](./67890-wedgie-toss.json) |
+| Wedgie Toss 2 | 67888 | [67888-wedgie-toss-2.json](./67888-wedgie-toss-2.json) |
 | Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
