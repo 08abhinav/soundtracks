@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
+| Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
@@ -6471,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
 | Metal Factions | 141558 | [141558-metal-factions.json](./141558-metal-factions.json) |
 | Metal Faith | 161166 | [161166-metal-faith.json](./161166-metal-faith.json) |
+| Metal Fight Beyblade DS | 69169 | [69169-metal-fight-beyblade-ds.json](./69169-metal-fight-beyblade-ds.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
@@ -12237,6 +12239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
+| Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
@@ -14511,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Mansion | 251102 | [251102-mystery-mansion.json](./251102-mystery-mansion.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
+| Mystery Mansion Pinball | 69141 | [69141-mystery-mansion-pinball.json](./69141-mystery-mansion-pinball.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masterpiece: The Moonstone | 53394 | [53394-mystery-masterpiece-the-moonstone.json](./53394-mystery-masterpiece-the-moonstone.json) |
 | Mystery Masters | 84148 | [84148-mystery-masters.json](./84148-mystery-masters.json) |
