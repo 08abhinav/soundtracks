@@ -1696,5 +1696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyxia: Neon Termination | 122797 | [122797-zyxia-neon-termination.json](./122797-zyxia-neon-termination.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
+| Zzzep | 60982 | [60982-zzzep.json](./60982-zzzep.json) |
 | Zzzz | 12975 | [12975-zzzz.json](./12975-zzzz.json) |
 | Zzzzz | 127026 | [127026-zzzzz.json](./127026-zzzzz.json) |
