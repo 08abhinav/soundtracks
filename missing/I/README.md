@@ -3915,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
+| Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
 | Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 297908 | [297908-iris.json](./297908-iris.json) |
