@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubersoldier II | 17120 | [17120-ubersoldier-ii.json](./17120-ubersoldier-ii.json) |
 | Ubi Soft: Happy New Year 2001 | 325568 | [325568-ubi-soft-happy-new-year-2001.json](./325568-ubi-soft-happy-new-year-2001.json) |
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
+| Ubinota | 17852 | [17852-ubinota.json](./17852-ubinota.json) |
 | Ubiquatopia | 187286 | [187286-ubiquatopia.json](./187286-ubiquatopia.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
 | Uncharted Waters Online: Cruz del Sur | 76896 | [76896-uncharted-waters-online-cruz-del-sur.json](./76896-uncharted-waters-online-cruz-del-sur.json) |
 | Uncharted Waters Online: Episode Atlantis | 36252 | [36252-uncharted-waters-online-episode-atlantis.json](./36252-uncharted-waters-online-episode-atlantis.json) |
+| Uncharted Waters Online: Gran Atlas | 17720 | [17720-uncharted-waters-online-gran-atlas.json](./17720-uncharted-waters-online-gran-atlas.json) |
 | Uncharted Waters Origin | 138704 | [138704-uncharted-waters-origin.json](./138704-uncharted-waters-origin.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
@@ -1773,6 +1775,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
+| Unlimited Escape | 17825 | [17825-unlimited-escape.json](./17825-unlimited-escape.json) |
+| Unlimited Escape 2 | 17748 | [17748-unlimited-escape-2.json](./17748-unlimited-escape-2.json) |
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
