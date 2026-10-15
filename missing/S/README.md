@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
+| Seven Weeks of Cat Monarchy | 59338 | [59338-seven-weeks-of-cat-monarchy.json](./59338-seven-weeks-of-cat-monarchy.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
 | Seven: Drowned Past | 280861 | [280861-seven-drowned-past.json](./280861-seven-drowned-past.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
@@ -6448,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
+| Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
 | Showdown Adventure | 31750 | [31750-showdown-adventure.json](./31750-showdown-adventure.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
@@ -12652,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
 | Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
+| SoulCraft 2 | 59339 | [59339-soulcraft-2.json](./59339-soulcraft-2.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
@@ -12882,6 +12885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Unterzoegersdorf: Sector II | 175776 | [175776-soviet-unterzoegersdorf-sector-ii.json](./175776-soviet-unterzoegersdorf-sector-ii.json) |
 | Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Soviet Village | 370879 | [370879-soviet-village.json](./370879-soviet-village.json) |
+| Soviet-Afghan War | 59310 | [59310-soviet-afghan-war.json](./59310-soviet-afghan-war.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Fantasy Warfare | 280735 | [280735-sovl-fantasy-warfare.json](./280735-sovl-fantasy-warfare.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
@@ -13865,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Span of Dream | 400328 | [400328-span-of-dream.json](./400328-span-of-dream.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
 | Spanish 101 | 93542 | [93542-spanish-101.json](./93542-spanish-101.json) |
+| Spanish Civil War | 59318 | [59318-spanish-civil-war.json](./59318-spanish-civil-war.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
@@ -20063,6 +20068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
 | Sugoi Girls: Vivacious Vampire | 320458 | [320458-sugoi-girls-vivacious-vampire.json](./320458-sugoi-girls-vivacious-vampire.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
+| Sugoro Chronicle | 59327 | [59327-sugoro-chronicle.json](./59327-sugoro-chronicle.json) |
 | Sugoro Quest: Dice Heroes | 330241 | [330241-sugoro-quest-dice-heroes.json](./330241-sugoro-quest-dice-heroes.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
