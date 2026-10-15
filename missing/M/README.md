@@ -12107,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Gladiators | 105168 | [105168-motor-gladiators.json](./105168-motor-gladiators.json) |
 | Motor Mania | 25574 | [25574-motor-mania.json](./25574-motor-mania.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
+| Motor Massacre | 12745 | [12745-motor-massacre.json](./12745-motor-massacre.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
 | Motor Racing Battle | 364981 | [364981-motor-racing-battle.json](./364981-motor-racing-battle.json) |
