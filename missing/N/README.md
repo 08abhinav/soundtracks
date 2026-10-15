@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
 | Nebulas Lasso | 116898 | [116898-nebulas-lasso.json](./116898-nebulas-lasso.json) |
+| Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
 | Neo Geo Battle Coliseum | 21518 | [21518-neo-geo-battle-coliseum.json](./21518-neo-geo-battle-coliseum.json) |
+| Neo Geo Battle Coliseum | 39437 | [39437-neo-geo-battle-coliseum.json](./39437-neo-geo-battle-coliseum.json) |
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
 | Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
@@ -3556,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
 | Ninja Master | 13021 | [13021-ninja-master.json](./13021-ninja-master.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
+| Ninja Master's: Haou Ninpou-ko | 39458 | [39458-ninja-masters-haou-ninpou-ko.json](./39458-ninja-masters-haou-ninpou-ko.json) |
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
 | Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
 | Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
@@ -3642,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
+| Ninja-kun: Majou no Bouken | 39457 | [39457-ninja-kun-majou-no-bouken.json](./39457-ninja-kun-majou-no-bouken.json) |
 | Ninja-kun: Majou no Bouken | 7561 | [7561-ninja-kun-majou-no-bouken.json](./7561-ninja-kun-majou-no-bouken.json) |
 | Ninja: Shadow of Darkness | 18941 | [18941-ninja-shadow-of-darkness.json](./18941-ninja-shadow-of-darkness.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
