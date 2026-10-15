@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
+| A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of D.I.C.E. | 373905 | [373905-a-game-of-d-i-c-e.json](./373905-a-game-of-d-i-c-e.json) |
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
@@ -7368,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
+| Antiflux | 32656 | [32656-antiflux.json](./32656-antiflux.json) |
 | AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
 | Antigrams | 98521 | [98521-antigrams.json](./98521-antigrams.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
