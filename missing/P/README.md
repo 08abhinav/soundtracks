@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pika Pika Nurse Monogatari 2 | 222443 | [222443-pika-pika-nurse-monogatari-2.json](./222443-pika-pika-nurse-monogatari-2.json) |
+| Pika Pika Nurse Monogatari: Hatsuratsu Nurse Ikusei Game | 49770 | [49770-pika-pika-nurse-monogatari-hatsuratsu-nurse-ikusei-game.json](./49770-pika-pika-nurse-monogatari-hatsuratsu-nurse-ikusei-game.json) |
 | Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky and the Brain: World Conquest | 65992 | [65992-pinky-and-the-brain-world-conquest.json](./65992-pinky-and-the-brain-world-conquest.json) |
 | Pinky Distortion | 202598 | [202598-pinky-distortion.json](./202598-pinky-distortion.json) |
+| Pinky Monkey Town | 49769 | [49769-pinky-monkey-town.json](./49769-pinky-monkey-town.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
 | Pinky The Phoenix | 252929 | [252929-pinky-the-phoenix.json](./252929-pinky-the-phoenix.json) |
@@ -5024,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinni and the Lost Voice | 186611 | [186611-pinni-and-the-lost-voice.json](./186611-pinni-and-the-lost-voice.json) |
 | Pino the Elemental | 240752 | [240752-pino-the-elemental.json](./240752-pino-the-elemental.json) |
 | Pinobee | 209960 | [209960-pinobee.json](./209960-pinobee.json) |
+| Pinobee & Phoebee | 49768 | [49768-pinobee-and-phoebee.json](./49768-pinobee-and-phoebee.json) |
 | Pinocchia no Miru Yume | 203288 | [203288-pinocchia-no-miru-yume.json](./203288-pinocchia-no-miru-yume.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
@@ -5922,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
 | Pixeline: for Fulde Sejl | 147880 | [147880-pixeline-for-fulde-sejl.json](./147880-pixeline-for-fulde-sejl.json) |
 | Pixeline: fuld af Fis og Ballade | 147881 | [147881-pixeline-fuld-af-fis-og-ballade.json](./147881-pixeline-fuld-af-fis-og-ballade.json) |
+| Pixeline: I Pixieland | 49766 | [49766-pixeline-i-pixieland.json](./49766-pixeline-i-pixieland.json) |
 | Pixeline: i Sommerhuset | 147877 | [147877-pixeline-i-sommerhuset.json](./147877-pixeline-i-sommerhuset.json) |
 | Pixeline: og Kong Gulerod | 147882 | [147882-pixeline-og-kong-gulerod.json](./147882-pixeline-og-kong-gulerod.json) |
 | Pixeline: Star Hotel | 64503 | [64503-pixeline-star-hotel.json](./64503-pixeline-star-hotel.json) |
@@ -6683,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play with the Teletubbies | 67183 | [67183-play-with-the-teletubbies.json](./67183-play-with-the-teletubbies.json) |
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
+| Play-Yan | 49765 | [49765-play-yan.json](./49765-play-yan.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
@@ -10271,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono 2 | 97869 | [97869-pro-mahjong-tsuwamono-2.json](./97869-pro-mahjong-tsuwamono-2.json) |
 | Pro Mahjong Tsuwamono 3 | 97865 | [97865-pro-mahjong-tsuwamono-3.json](./97865-pro-mahjong-tsuwamono-3.json) |
 | Pro Mahjong Tsuwamono 64 Jansou Battle ni Chousen | 97867 | [97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json](./97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json) |
+| Pro Mahjong Tsuwamono Advance | 49763 | [49763-pro-mahjong-tsuwamono-advance.json](./49763-pro-mahjong-tsuwamono-advance.json) |
 | Pro Mahjong Tsuwamono GB | 97870 | [97870-pro-mahjong-tsuwamono-gb.json](./97870-pro-mahjong-tsuwamono-gb.json) |
 | Pro Mahjong Tsuwamono GB 2 | 97868 | [97868-pro-mahjong-tsuwamono-gb-2.json](./97868-pro-mahjong-tsuwamono-gb-2.json) |
 | Pro Mahjong Tsuwamono GBA | 97866 | [97866-pro-mahjong-tsuwamono-gba.json](./97866-pro-mahjong-tsuwamono-gba.json) |
@@ -10337,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
+| Pro Yakyuu Team wo Tsukurou! Advance | 49762 | [49762-pro-yakyuu-team-wo-tsukurou-advance.json](./49762-pro-yakyuu-team-wo-tsukurou-advance.json) |
 | Pro Yakyuu Virtual Stadium: Professional Baseball | 268523 | [268523-pro-yakyuu-virtual-stadium-professional-baseball.json](./268523-pro-yakyuu-virtual-stadium-professional-baseball.json) |
 | Pro Yakyuu World Stadium '91 | 37660 | [37660-pro-yakyuu-world-stadium-91.json](./37660-pro-yakyuu-world-stadium-91.json) |
 | Pro Yakyuu: Family Stadium '90 | 218387 | [218387-pro-yakyuu-family-stadium-90.json](./218387-pro-yakyuu-family-stadium-90.json) |
@@ -11636,6 +11643,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
+| PukuPuku Tennen Kairanban | 49759 | [49759-pukupuku-tennen-kairanban.json](./49759-pukupuku-tennen-kairanban.json) |
+| PukuPuku Tennen Kairanban: Koi no Cupid Daisakusen | 49761 | [49761-pukupuku-tennen-kairanban-koi-no-cupid-daisakusen.json](./49761-pukupuku-tennen-kairanban-koi-no-cupid-daisakusen.json) |
+| PukuPuku Tennen Kairanban: Youkoso! Illusion Land e | 49760 | [49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json](./49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
 | Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
