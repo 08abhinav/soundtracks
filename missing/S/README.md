@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
+| Savaki | 62617 | [62617-savaki.json](./62617-savaki.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
 | Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
 | Savanna Story Diamond Edition | 274921 | [274921-savanna-story-diamond-edition.json](./274921-savanna-story-diamond-edition.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
+| Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
@@ -8958,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man Origins 3: Abandoned School | 101428 | [101428-slender-man-origins-3-abandoned-school.json](./101428-slender-man-origins-3-abandoned-school.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
+| Slender Man: Chapter 2 - Survive | 62629 | [62629-slender-man-chapter-2-survive.json](./62629-slender-man-chapter-2-survive.json) |
 | Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
 | Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
@@ -12292,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
 | Sora no Hiraketa Basho: Chord:OOC | 413830 | [413830-sora-no-hiraketa-basho-chord-ooc.json](./413830-sora-no-hiraketa-basho-chord-ooc.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
+| Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
@@ -15616,6 +15620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
+| Sqrxz 2 | 62642 | [62642-sqrxz-2.json](./62642-sqrxz-2.json) |
+| Sqrxz III | 62640 | [62640-sqrxz-iii.json](./62640-sqrxz-iii.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
 | Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
@@ -16156,6 +16162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cruiser | 19373 | [19373-star-cruiser.json](./19373-star-cruiser.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cruiser | 76911 | [76911-star-cruiser.json](./76911-star-cruiser.json) |
+| Star Cruiser II: The Odysseus Project | 62610 | [62610-star-cruiser-ii-the-odysseus-project.json](./62610-star-cruiser-ii-the-odysseus-project.json) |
 | Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
 | Star Crusader | 15566 | [15566-star-crusader.json](./15566-star-crusader.json) |
 | Star Crystal Episode 1: Mertactor - The Volentine Gambit | 25982 | [25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json](./25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json) |
@@ -19185,6 +19192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
 | Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
+| Strike Fighters 2 | 62632 | [62632-strike-fighters-2.json](./62632-strike-fighters-2.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
