@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
 | Seasons | 94938 | [94938-seasons.json](./94938-seasons.json) |
+| Seasons after Fall | 15821 | [15821-seasons-after-fall.json](./15821-seasons-after-fall.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Heaven | 26300 | [26300-seasons-of-heaven.json](./26300-seasons-of-heaven.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
+| Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakii the Wolf | 73195 | [73195-shakii-the-wolf.json](./73195-shakii-the-wolf.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
 | Shin Megami Tensei: Nocturne - Hardtype | 135678 | [135678-shin-megami-tensei-nocturne-hardtype.json](./135678-shin-megami-tensei-nocturne-hardtype.json) |
+| Shin Megami Tensei: Persona | 21842 | [21842-shin-megami-tensei-persona.json](./21842-shin-megami-tensei-persona.json) |
 | Shin Megami Tensei: Persona 2 - Innocent Sin | 250931 | [250931-shin-megami-tensei-persona-2-innocent-sin.json](./250931-shin-megami-tensei-persona-2-innocent-sin.json) |
 | Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
@@ -8780,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 11058 | [11058-skylanders-superchargers.json](./11058-skylanders-superchargers.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
+| Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
 | Skylar & Plux: Adventure on Clover Island | 28066 | [28066-skylar-and-plux-adventure-on-clover-island.json](./28066-skylar-and-plux-adventure-on-clover-island.json) |
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
@@ -12662,6 +12666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
+| Soul Blazer | 11616 | [11616-soul-blazer.json](./11616-soul-blazer.json) |
 | Soul Bound Saga | 235791 | [235791-soul-bound-saga.json](./235791-soul-bound-saga.json) |
 | Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
