@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
 | Farmquest | 186552 | [186552-farmquest.json](./186552-farmquest.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
+| Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
+| Fatal Zero Action | 50461 | [50461-fatal-zero-action.json](./50461-fatal-zero-action.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
@@ -2200,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate And Destiny: The Elonia Chronicles | 350388 | [350388-fate-and-destiny-the-elonia-chronicles.json](./350388-fate-and-destiny-the-elonia-chronicles.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Arena | 133696 | [133696-fate-arena.json](./133696-fate-arena.json) |
+| Fate by Numbers | 50371 | [50371-fate-by-numbers.json](./50371-fate-by-numbers.json) |
 | Fate Chapter 2: The Beginning | 178414 | [178414-fate-chapter-2-the-beginning.json](./178414-fate-chapter-2-the-beginning.json) |
 | Fate Chessboard | 247677 | [247677-fate-chessboard.json](./247677-fate-chessboard.json) |
 | Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
