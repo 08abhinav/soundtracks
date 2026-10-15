@@ -6360,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Day | 17599 | [17599-the-fifth-day.json](./17599-the-fifth-day.json) |
+| The Fifth Disciple | 73185 | [73185-the-fifth-disciple.json](./73185-the-fifth-disciple.json) |
 | The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
@@ -6892,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
+| The Grandest Fleet | 73182 | [73182-the-grandest-fleet.json](./73182-the-grandest-fleet.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
 | The Granstream Saga | 19156 | [19156-the-granstream-saga.json](./19156-the-granstream-saga.json) |
@@ -10298,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest Giver | 75960 | [75960-the-quest-giver.json](./75960-the-quest-giver.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Agravain | 74006 | [74006-the-quest-of-agravain.json](./74006-the-quest-of-agravain.json) |
+| The Quest of Kwirk's Castle | 73180 | [73180-the-quest-of-kwirks-castle.json](./73180-the-quest-of-kwirks-castle.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
 | The Quest Trio | 124083 | [124083-the-quest-trio.json](./124083-the-quest-trio.json) |
@@ -12691,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The Wapple Hous | 375363 | [375363-the-wapple-hous.json](./375363-the-wapple-hous.json) |
 | The War Between Chu & Han | 239549 | [239549-the-war-between-chu-and-han.json](./239549-the-war-between-chu-and-han.json) |
+| The War College: Universal Military Simulator 3 | 73167 | [73167-the-war-college-universal-military-simulator-3.json](./73167-the-war-college-universal-military-simulator-3.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
 | The war god : The artifact | 50516 | [50516-the-war-god-the-artifact.json](./50516-the-war-god-the-artifact.json) |
@@ -21285,6 +21289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
+| Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
@@ -22470,6 +22475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
+| Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
