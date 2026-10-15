@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: The Rise of Rome | 291 | [291-age-of-empires-the-rise-of-rome.json](./291-age-of-empires-the-rise-of-rome.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
+| Age of Enigma: The Secret of the Sixth Ghost | 22103 | [22103-age-of-enigma-the-secret-of-the-sixth-ghost.json](./22103-age-of-enigma-the-secret-of-the-sixth-ghost.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
@@ -5385,9 +5386,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: Legacy of the Guardians | 98344 | [98344-amaranthine-voyage-legacy-of-the-guardians.json](./98344-amaranthine-voyage-legacy-of-the-guardians.json) |
 | Amaranthine Voyage: Legacy of the Guardians - Collector's Edition | 416874 | [416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json](./416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json) |
 | Amaranthine Voyage: The Living Mountain | 58027 | [58027-amaranthine-voyage-the-living-mountain.json](./58027-amaranthine-voyage-the-living-mountain.json) |
+| Amaranthine Voyage: The Living Mountain - Collector's Edition | 22074 | [22074-amaranthine-voyage-the-living-mountain-collectors-edition.json](./22074-amaranthine-voyage-the-living-mountain-collectors-edition.json) |
 | Amaranthine Voyage: The Obsidian Book | 58028 | [58028-amaranthine-voyage-the-obsidian-book.json](./58028-amaranthine-voyage-the-obsidian-book.json) |
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
 | Amaranthine Voyage: The Orb of Purity | 58030 | [58030-amaranthine-voyage-the-orb-of-purity.json](./58030-amaranthine-voyage-the-orb-of-purity.json) |
+| Amaranthine Voyage: The Orb of Purity - Collector's Edition | 22075 | [22075-amaranthine-voyage-the-orb-of-purity-collectors-edition.json](./22075-amaranthine-voyage-the-orb-of-purity-collectors-edition.json) |
 | Amaranthine Voyage: The Shadow of Torment | 58032 | [58032-amaranthine-voyage-the-shadow-of-torment.json](./58032-amaranthine-voyage-the-shadow-of-torment.json) |
 | Amaranthine Voyage: The Shadow of Torment HD | 95910 | [95910-amaranthine-voyage-the-shadow-of-torment-hd.json](./95910-amaranthine-voyage-the-shadow-of-torment-hd.json) |
 | Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
