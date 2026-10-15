@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
+| Elex | 11567 | [11567-elex.json](./11567-elex.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily Archer and the Curse of Tutankhamun | 128290 | [128290-emily-archer-and-the-curse-of-tutankhamun.json](./128290-emily-archer-and-the-curse-of-tutankhamun.json) |
 | Emily Archer: The Curse of King Tut's Tomb | 209211 | [209211-emily-archer-the-curse-of-king-tuts-tomb.json](./209211-emily-archer-the-curse-of-king-tuts-tomb.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
+| Emily is Away | 14762 | [14762-emily-is-away.json](./14762-emily-is-away.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
 | Emily Wants to Play Too | 75074 | [75074-emily-wants-to-play-too.json](./75074-emily-wants-to-play-too.json) |
@@ -4597,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Flowers | 261194 | [261194-everlasting-flowers.json](./261194-everlasting-flowers.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Snooze | 297879 | [297879-everlasting-snooze.json](./297879-everlasting-snooze.json) |
+| Everlasting Summer | 8968 | [8968-everlasting-summer.json](./8968-everlasting-summer.json) |
 | Everlasting Summer 2 | 385888 | [385888-everlasting-summer-2.json](./385888-everlasting-summer-2.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
