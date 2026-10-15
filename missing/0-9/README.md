@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5Leaps (Space Tower Defense) | 117126 | [117126-5leaps-space-tower-defense.json](./117126-5leaps-space-tower-defense.json) |
 | 5omeday | 308954 | [308954-5omeday.json](./308954-5omeday.json) |
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
+| 5th Anniversary | 71960 | [71960-5th-anniversary.json](./71960-5th-anniversary.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
 | 5X | 100095 | [100095-5x.json](./100095-5x.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
 | 911 Paramedic | 72049 | [72049-911-paramedic.json](./72049-911-paramedic.json) |
+| 911 Tiger Shark | 71962 | [71962-911-tiger-shark.json](./71962-911-tiger-shark.json) |
 | 911 TS | 93487 | [93487-911-ts.json](./93487-911-ts.json) |
 | 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
