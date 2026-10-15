@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
+| Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
 | Legend of Grimrock 2 | 8456 | [8456-legend-of-grimrock-2.json](./8456-legend-of-grimrock-2.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
+| LEGO Marvel's Avengers | 11069 | [11069-lego-marvels-avengers.json](./11069-lego-marvels-avengers.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
@@ -2240,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Quest for R2-D2 | 74979 | [74979-lego-star-wars-the-quest-for-r2-d2.json](./74979-lego-star-wars-the-quest-for-r2-d2.json) |
+| LEGO Star Wars: The Skywalker Saga | 119305 | [119305-lego-star-wars-the-skywalker-saga.json](./119305-lego-star-wars-the-skywalker-saga.json) |
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
