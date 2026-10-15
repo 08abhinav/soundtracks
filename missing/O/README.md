@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello Millennium | 50552 | [50552-othello-millennium.json](./50552-othello-millennium.json) |
 | Othello World | 228628 | [228628-othello-world.json](./228628-othello-world.json) |
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
+| Othello World II: Yume to Michi e no Chousen | 54949 | [54949-othello-world-ii-yume-to-michi-e-no-chousen.json](./54949-othello-world-ii-yume-to-michi-e-no-chousen.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other People's Fiancee Became My Woman | 216965 | [216965-other-peoples-fiancee-became-my-woman.json](./216965-other-peoples-fiancee-became-my-woman.json) |
