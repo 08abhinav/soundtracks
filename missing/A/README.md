@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
+| Adorables | 35342 | [35342-adorables.json](./35342-adorables.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
 | Adore Picture Difference: Long Distance Love Lite | 88560 | [88560-adore-picture-difference-long-distance-love-lite.json](./88560-adore-picture-difference-long-distance-love-lite.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexey's Winter: Night Adventure | 160232 | [160232-alexeys-winter-night-adventure.json](./160232-alexeys-winter-night-adventure.json) |
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexia | 260863 | [260863-alexia.json](./260863-alexia.json) |
+| Alexia Crow | 35387 | [35387-alexia-crow.json](./35387-alexia-crow.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Almighty: Daughter of Hercules | 132553 | [132553-alexis-almighty-daughter-of-hercules.json](./132553-alexis-almighty-daughter-of-hercules.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
@@ -11853,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avengers: Damage Control | 122760 | [122760-avengers-damage-control.json](./122760-avengers-damage-control.json) |
 | Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
+| Avenging Angel | 35309 | [35309-avenging-angel.json](./35309-avenging-angel.json) |
 | Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
