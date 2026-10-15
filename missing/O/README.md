@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
+| Otocky | 41234 | [41234-otocky.json](./41234-otocky.json) |
 | Otogi Banashi Taisen | 228629 | [228629-otogi-banashi-taisen.json](./228629-otogi-banashi-taisen.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
 | Otogi: Spirit Agents | 28122 | [28122-otogi-spirit-agents.json](./28122-otogi-spirit-agents.json) |
