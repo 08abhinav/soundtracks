@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
+| FantasyGolf | 26387 | [26387-fantasygolf.json](./26387-fantasygolf.json) |
 | FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
 | Fantasyland 2041 A.D. | 282635 | [282635-fantasyland-2041-a-d.json](./282635-fantasyland-2041-a-d.json) |
 | Fantasyland: All Heroes | 170313 | [170313-fantasyland-all-heroes.json](./170313-fantasyland-all-heroes.json) |
@@ -6969,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
+| Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
@@ -8164,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
 | Friday the 13th: Return to Camp Blood | 176822 | [176822-friday-the-13th-return-to-camp-blood.json](./176822-friday-the-13th-return-to-camp-blood.json) |
 | Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
+| Friday the 13th: The Computer Game | 26287 | [26287-friday-the-13th-the-computer-game.json](./26287-friday-the-13th-the-computer-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
