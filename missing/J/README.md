@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyBugs | 175254 | [175254-jellybugs.json](./175254-jellybugs.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
+| JellyCar 2 | 67223 | [67223-jellycar-2.json](./67223-jellycar-2.json) |
 | JellyCar 3 | 228601 | [228601-jellycar-3.json](./228601-jellycar-3.json) |
 | JellyCod | 265540 | [265540-jellycod.json](./265540-jellycod.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
