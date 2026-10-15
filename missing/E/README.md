@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - The Swap Body Vehicle | 315608 | [315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json](./315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - Volunteer Firefighters | 315605 | [315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json](./315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json) |
+| Emergency Call Ambulance | 39446 | [39446-emergency-call-ambulance.json](./39446-emergency-call-ambulance.json) |
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
 | Emergency Call: The Firefighting Simulation 3 | 361828 | [361828-emergency-call-the-firefighting-simulation-3.json](./361828-emergency-call-the-firefighting-simulation-3.json) |
 | Emergency Crew 2: Global Warming | 235894 | [235894-emergency-crew-2-global-warming.json](./235894-emergency-crew-2-global-warming.json) |
@@ -5471,7 +5472,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
+| Extreme Hunting | 39429 | [39429-extreme-hunting.json](./39429-extreme-hunting.json) |
 | Extreme Hunting 2 | 83432 | [83432-extreme-hunting-2.json](./83432-extreme-hunting-2.json) |
+| Extreme Hunting 2: Tournament Edition | 39430 | [39430-extreme-hunting-2-tournament-edition.json](./39430-extreme-hunting-2-tournament-edition.json) |
 | Extreme Jump | 312188 | [312188-extreme-jump.json](./312188-extreme-jump.json) |
 | Extreme Karts | 232545 | [232545-extreme-karts.json](./232545-extreme-karts.json) |
 | Extreme Landings | 88296 | [88296-extreme-landings.json](./88296-extreme-landings.json) |
