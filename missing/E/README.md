@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
+| Echoes of the Fey Episode 0: The Immolation | 29634 | [29634-echoes-of-the-fey-episode-0-the-immolation.json](./29634-echoes-of-the-fey-episode-0-the-immolation.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
@@ -1294,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
+| Elaine | 29596 | [29596-elaine.json](./29596-elaine.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
@@ -1836,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
+| Elsewhere High: Chapter 1 - A Visual Novel | 29599 | [29599-elsewhere-high-chapter-1-a-visual-novel.json](./29599-elsewhere-high-chapter-1-a-visual-novel.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empathy: Path of Whispers | 29138 | [29138-empathy-path-of-whispers.json](./29138-empathy-path-of-whispers.json) |
 | Emperial Knights | 196581 | [196581-emperial-knights.json](./196581-emperial-knights.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
+| Emperor Kingdom | 29647 | [29647-emperor-kingdom.json](./29647-emperor-kingdom.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
 | Emperor of the Fading Suns Enhanced | 295355 | [295355-emperor-of-the-fading-suns-enhanced.json](./295355-emperor-of-the-fading-suns-enhanced.json) |
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
