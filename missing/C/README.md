@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Digital Deluxe Edition | 30717 | [30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json](./30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
+| Call of Duty: Black Ops III - Steelbook Edition | 8905 | [8905-call-of-duty-black-ops-iii-steelbook-edition.json](./8905-call-of-duty-black-ops-iii-steelbook-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Deluxe Edition | 285392 | [285392-call-of-duty-deluxe-edition.json](./285392-call-of-duty-deluxe-edition.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
+| Catacomb 3-D | 8705 | [8705-catacomb-3-d.json](./8705-catacomb-3-d.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
 | Catacomb Chase | 275255 | [275255-catacomb-chase.json](./275255-catacomb-chase.json) |
 | Catacomb Chess | 354050 | [354050-catacomb-chess.json](./354050-catacomb-chess.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
+| Chex Quest 2: Flemoids Take Chextropolis | 8718 | [8718-chex-quest-2-flemoids-take-chextropolis.json](./8718-chex-quest-2-flemoids-take-chextropolis.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
 | Chex Quest HD | 58136 | [58136-chex-quest-hd.json](./58136-chex-quest-hd.json) |
 | Chexs | 31753 | [31753-chexs.json](./31753-chexs.json) |
@@ -10013,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
+| Corridor 7: Alien Invasion | 8689 | [8689-corridor-7-alien-invasion.json](./8689-corridor-7-alien-invasion.json) |
 | Corridor 8: Galactic Wars | 218648 | [218648-corridor-8-galactic-wars.json](./218648-corridor-8-galactic-wars.json) |
 | Corridor Conflict | 13518 | [13518-corridor-conflict.json](./13518-corridor-conflict.json) |
 | Corridor Crusaders | 126535 | [126535-corridor-crusaders.json](./126535-corridor-crusaders.json) |
@@ -14085,6 +14089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycloManiacs Epic | 234698 | [234698-cyclomaniacs-epic.json](./234698-cyclomaniacs-epic.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
+| CyClones | 8693 | [8693-cyclones.json](./8693-cyclones.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
 | Cyclopong | 253251 | [253251-cyclopong.json](./253251-cyclopong.json) |
