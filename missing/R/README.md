@@ -5721,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
 | Road Rash: Jailbreak | 44897 | [44897-road-rash-jailbreak.json](./44897-road-rash-jailbreak.json) |
+| Road Rash: Jailbreak | 49178 | [49178-road-rash-jailbreak.json](./49178-road-rash-jailbreak.json) |
 | Road Redemption | 11602 | [11602-road-redemption.json](./11602-road-redemption.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
