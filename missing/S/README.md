@@ -20806,6 +20806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Bass | 207214 | [207214-super-black-bass.json](./207214-super-black-bass.json) |
 | Super Black Bass | 49085 | [49085-super-black-bass.json](./49085-super-black-bass.json) |
+| Super Black Bass 3 | 44434 | [44434-super-black-bass-3.json](./44434-super-black-bass-3.json) |
 | Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
 | Super Black Bass Pocket 2 | 61347 | [61347-super-black-bass-pocket-2.json](./61347-super-black-bass-pocket-2.json) |
 | Super Black Bass X2 | 61344 | [61344-super-black-bass-x2.json](./61344-super-black-bass-x2.json) |
@@ -22172,6 +22173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Postal | 375569 | [375569-super-postal.json](./375569-super-postal.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power 2 | 53687 | [53687-super-power-2.json](./53687-super-power-2.json) |
+| Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
