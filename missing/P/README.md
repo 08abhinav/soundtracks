@@ -6316,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
+| Planet of the Apes | 49358 | [49358-planet-of-the-apes.json](./49358-planet-of-the-apes.json) |
 | Planet of the Apes: Last Frontier | 54709 | [54709-planet-of-the-apes-last-frontier.json](./54709-planet-of-the-apes-last-frontier.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
@@ -7046,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
+| Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
@@ -11789,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Kidd | 193700 | [193700-punch-kidd.json](./193700-punch-kidd.json) |
+| Punch King | 49180 | [49180-punch-king.json](./49180-punch-king.json) |
 | Punch Line | 11775 | [11775-punch-line.json](./11775-punch-line.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
