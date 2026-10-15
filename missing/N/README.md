@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
+| Nemesis: The Wizardry Adventure | 2500 | [2500-nemesis-the-wizardry-adventure.json](./2500-nemesis-the-wizardry-adventure.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemire | 199306 | [199306-nemire.json](./199306-nemire.json) |
@@ -2805,11 +2806,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
 | Nicktoons Racing | 248733 | [248733-nicktoons-racing.json](./248733-nicktoons-racing.json) |
+| Nicktoons Racing | 2758 | [2758-nicktoons-racing.json](./2758-nicktoons-racing.json) |
 | Nicktoons Unite! | 202110 | [202110-nicktoons-unite.json](./202110-nicktoons-unite.json) |
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
+| Nicktoons Winners Cup Racing | 2771 | [2771-nicktoons-winners-cup-racing.json](./2771-nicktoons-winners-cup-racing.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
+| Nicktoons: Freeze Frame Frenzy | 2766 | [2766-nicktoons-freeze-frame-frenzy.json](./2766-nicktoons-freeze-frame-frenzy.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
