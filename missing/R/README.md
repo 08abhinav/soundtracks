@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
+| Rapala Tournament Fishing | 5115 | [5115-rapala-tournament-fishing.json](./5115-rapala-tournament-fishing.json) |
 | Rapala Trophies | 42806 | [42806-rapala-trophies.json](./42806-rapala-trophies.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
+| Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
+| Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
