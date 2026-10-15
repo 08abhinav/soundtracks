@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
+| Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
 | Ocean Driving: Boat Parking Simulator | 328510 | [328510-ocean-driving-boat-parking-simulator.json](./328510-ocean-driving-boat-parking-simulator.json) |
 | Ocean Explorer Tycoon | 209030 | [209030-ocean-explorer-tycoon.json](./209030-ocean-explorer-tycoon.json) |
