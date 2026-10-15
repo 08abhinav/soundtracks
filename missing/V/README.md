@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | VRLife | 116931 | [116931-vrlife.json](./116931-vrlife.json) |
+| VRNinja | 22041 | [22041-vrninja.json](./22041-vrninja.json) |
 | VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | VRogue | 264211 | [264211-vrogue.json](./264211-vrogue.json) |
