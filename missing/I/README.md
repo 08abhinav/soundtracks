@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
 | Infested | 262554 | [262554-infested.json](./262554-infested.json) |
+| Infested | 58714 | [58714-infested.json](./58714-infested.json) |
 | Infested DX | 414851 | [414851-infested-dx.json](./414851-infested-dx.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
 | Infested Inside Multiplayer Online | 119614 | [119614-infested-inside-multiplayer-online.json](./119614-infested-inside-multiplayer-online.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
 | IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
+| Ionic Wars | 58138 | [58138-ionic-wars.json](./58138-ionic-wars.json) |
 | Ionization | 316776 | [316776-ionization.json](./316776-ionization.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
@@ -4164,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
 | Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
 | Ishin no Arashi: Shippuu Ryoma-den | 186738 | [186738-ishin-no-arashi-shippuu-ryoma-den.json](./186738-ishin-no-arashi-shippuu-ryoma-den.json) |
+| Ishin Renka: Ryouma Gaiden | 58572 | [58572-ishin-renka-ryouma-gaiden.json](./58572-ishin-renka-ryouma-gaiden.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
@@ -4402,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Comes at Night | 412190 | [412190-it-comes-at-night.json](./412190-it-comes-at-night.json) |
 | It Comes in Waves | 242433 | [242433-it-comes-in-waves.json](./242433-it-comes-in-waves.json) |
 | It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
+| It Depends | 58669 | [58669-it-depends.json](./58669-it-depends.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Falls | 166299 | [166299-it-falls.json](./166299-it-falls.json) |
