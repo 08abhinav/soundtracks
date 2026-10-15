@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetPilot | 93138 | [93138-jetpilot.json](./93138-jetpilot.json) |
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
 | jetPin | 141166 | [141166-jetpin.json](./141166-jetpin.json) |
+| Jetracer | 43760 | [43760-jetracer.json](./43760-jetracer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
