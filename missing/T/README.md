@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou x Alice: All in One | 54926 | [54926-taishou-x-alice-all-in-one.json](./54926-taishou-x-alice-all-in-one.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
+| Taito Grand Prix | 65380 | [65380-taito-grand-prix.json](./65380-taito-grand-prix.json) |
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
 | Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Oshigoto: Their Wishes Afterward | 336494 | [336494-tenshi-no-oshigoto-their-wishes-afterward.json](./336494-tenshi-no-oshigoto-their-wishes-afterward.json) |
 | Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
+| Tenshi no Uta II: Datenshi no Sentaku | 65419 | [65419-tenshi-no-uta-ii-datenshi-no-sentaku.json](./65419-tenshi-no-uta-ii-datenshi-no-sentaku.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
@@ -4022,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
+| The Answer | 65431 | [65431-the-answer.json](./65431-the-answer.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Answer Is Behind You | 376037 | [376037-the-answer-is-behind-you.json](./376037-the-answer-is-behind-you.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
@@ -6617,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
 | The Fourth Sense Evolution: Stone Age | 270876 | [270876-the-fourth-sense-evolution-stone-age.json](./270876-the-fourth-sense-evolution-stone-age.json) |
+| The Fourth Wall | 65386 | [65386-the-fourth-wall.json](./65386-the-fourth-wall.json) |
 | The Fox Awaits Me | 131983 | [131983-the-fox-awaits-me.json](./131983-the-fox-awaits-me.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
@@ -7469,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Imperial Gatekeeper | 146764 | [146764-the-imperial-gatekeeper.json](./146764-the-imperial-gatekeeper.json) |
 | The Implant | 289991 | [289991-the-implant.json](./289991-the-implant.json) |
 | The Impossible Bottle | 216323 | [216323-the-impossible-bottle.json](./216323-the-impossible-bottle.json) |
+| The Impossible Dungeon | 65376 | [65376-the-impossible-dungeon.json](./65376-the-impossible-dungeon.json) |
 | The Impossible Game | 6777 | [6777-the-impossible-game.json](./6777-the-impossible-game.json) |
 | The Impossible Game 2 | 193311 | [193311-the-impossible-game-2.json](./193311-the-impossible-game-2.json) |
 | The Impossible Knight Runner | 215740 | [215740-the-impossible-knight-runner.json](./215740-the-impossible-knight-runner.json) |
@@ -11446,6 +11451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
+| The Solar System | 65405 | [65405-the-solar-system.json](./65405-the-solar-system.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
 | The soldier in the mine | 54458 | [54458-the-soldier-in-the-mine.json](./54458-the-soldier-in-the-mine.json) |
@@ -12608,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visible City | 139166 | [139166-the-visible-city.json](./139166-the-visible-city.json) |
+| The Vision of Escaflowne | 65406 | [65406-the-vision-of-escaflowne.json](./65406-the-vision-of-escaflowne.json) |
 | The Vision of the Ant | 186682 | [186682-the-vision-of-the-ant.json](./186682-the-vision-of-the-ant.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
@@ -18713,6 +18720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
+| Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
 | Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
@@ -18737,6 +18745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
+| Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
 | Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
 | Toy Swipe | 255007 | [255007-toy-swipe.json](./255007-toy-swipe.json) |
