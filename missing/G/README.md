@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Nibbles | 122778 | [122778-gnome-nibbles.json](./122778-gnome-nibbles.json) |
 | Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
+| Gnome Ranger II: Ingrid's Back | 47109 | [47109-gnome-ranger-ii-ingrids-back.json](./47109-gnome-ranger-ii-ingrids-back.json) |
 | Gnome Robots | 122779 | [122779-gnome-robots.json](./122779-gnome-robots.json) |
 | Gnome Sudoku | 122769 | [122769-gnome-sudoku.json](./122769-gnome-sudoku.json) |
 | Gnome Swell Foop | 122776 | [122776-gnome-swell-foop.json](./122776-gnome-swell-foop.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
 | Grand Emprise: Time Travel Survival | 229106 | [229106-grand-emprise-time-travel-survival.json](./229106-grand-emprise-time-travel-survival.json) |
+| Grand Fantasia | 47106 | [47106-grand-fantasia.json](./47106-grand-fantasia.json) |
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
