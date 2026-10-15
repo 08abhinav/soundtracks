@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Sorry To Keep You Waiting: Master Air Raider Joins the Fight | 325425 | [325425-earth-defense-force-world-brothers-2-sorry-to-keep-you-waiting-master-air-raider-joins-the-fight.json](./325425-earth-defense-force-world-brothers-2-sorry-to-keep-you-waiting-master-air-raider-joins-the-fight.json) |
 | Earth Defense Force: World Brothers 2 - World's Greatest Engineer, Air Raider (EDF5) Civilian Outfit: Reskin | 325424 | [325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json](./325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json) |
 | Earth Defense Forces 2 Portable | 42835 | [42835-earth-defense-forces-2-portable.json](./42835-earth-defense-forces-2-portable.json) |
+| Earth Dies Screaming | 40614 | [40614-earth-dies-screaming.json](./40614-earth-dies-screaming.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
 | Earth Impact | 99135 | [99135-earth-impact.json](./99135-earth-impact.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
+| Eli's Ladder | 40642 | [40642-elis-ladder.json](./40642-elis-ladder.json) |
 | Elibean Nights | 135718 | [135718-elibean-nights.json](./135718-elibean-nights.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elidriel | 252024 | [252024-elidriel.json](./252024-elidriel.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
+| Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exocraft | 115166 | [115166-exocraft.json](./115166-exocraft.json) |
