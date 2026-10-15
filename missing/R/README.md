@@ -5351,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
+| Rise of Titans | 58158 | [58158-rise-of-titans.json](./58158-rise-of-titans.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
@@ -6219,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
+| Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
