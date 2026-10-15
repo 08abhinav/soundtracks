@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario on Indigo Island | 218092 | [218092-mario-on-indigo-island.json](./218092-mario-on-indigo-island.json) |
 | Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
+| Mario Paint BS Ban | 65974 | [65974-mario-paint-bs-ban.json](./65974-mario-paint-bs-ban.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
 | Mario Party 1: Mambo Beach | 283633 | [283633-mario-party-1-mambo-beach.json](./283633-mario-party-1-mambo-beach.json) |
