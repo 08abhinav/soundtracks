@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T18:40:46.129Z",
-  "total_soundtracks": 1685,
+  "generated_at": "2026-10-15T19:30:46.309Z",
+  "total_soundtracks": 1686,
   "games": [
     {
       "igdb_id": 7522,
@@ -3392,6 +3392,20 @@
           "album_name": "Cookie Clicker",
           "spotify_url": "https://open.spotify.com/album/5VeKlnm3zx3y24HONzr6S9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143061,
+      "game_name": "Coral Island",
+      "game_url": "https://ostdb.net/games/coral-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2ff2e55d0fb5c9c02f7860b",
+      "albums": [
+        {
+          "album_name": "Coral Island (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5etXpYDldtmCfhfWzMOb42",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
