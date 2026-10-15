@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
+| Eclipse: Defending the motherland | 32643 | [32643-eclipse-defending-the-motherland.json](./32643-eclipse-defending-the-motherland.json) |
 | Eclipse: Echo of Dimension | 295490 | [295490-eclipse-echo-of-dimension.json](./295490-eclipse-echo-of-dimension.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Sheep: A Cyberpunk Dystopia | 121496 | [121496-electric-sheep-a-cyberpunk-dystopia.json](./121496-electric-sheep-a-cyberpunk-dystopia.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | Electric Trains | 197741 | [197741-electric-trains.json](./197741-electric-trains.json) |
+| Electric Zombies | 32610 | [32610-electric-zombies.json](./32610-electric-zombies.json) |
 | Electrician | 41304 | [41304-electrician.json](./41304-electrician.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
