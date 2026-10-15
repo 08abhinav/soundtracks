@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Index 1391 | 412217 | [412217-index-1391.json](./412217-index-1391.json) |
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
+| Indian Mission | 57018 | [57018-indian-mission.json](./57018-indian-mission.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
 | Indian Princess: Dress Up! | 320466 | [320466-indian-princess-dress-up.json](./320466-indian-princess-dress-up.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
