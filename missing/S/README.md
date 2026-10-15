@@ -2707,6 +2707,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Hiryuu no Ken Gaiden 2 | 78523 | [78523-sd-hiryuu-no-ken-gaiden-2.json](./78523-sd-hiryuu-no-ken-gaiden-2.json) |
 | SD Hiryuu no Ken Gaiden EX | 186595 | [186595-sd-hiryuu-no-ken-gaiden-ex.json](./186595-sd-hiryuu-no-ken-gaiden-ex.json) |
+| SD Kidou Senshi Gundam 2 | 38159 | [38159-sd-kidou-senshi-gundam-2.json](./38159-sd-kidou-senshi-gundam-2.json) |
+| SD Kidou Senshi Gundam: V Sakusen Shidou | 38160 | [38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json](./38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json) |
 | SD Lupin Sansei: Kinko Yaburi Daisakusen | 66206 | [66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json](./66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
@@ -5588,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
+| Shijou Saikyou League Serie A: Ace Striker | 38202 | [38202-shijou-saikyou-league-serie-a-ace-striker.json](./38202-shijou-saikyou-league-serie-a-ace-striker.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
@@ -21283,6 +21286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
+| Super Hockey '94 | 38193 | [38193-super-hockey-94.json](./38193-super-hockey-94.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
 | Super Holo Wars | 394807 | [394807-super-holo-wars.json](./394807-super-holo-wars.json) |
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
@@ -21302,6 +21306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Hyperactive Ninja | 68358 | [68358-super-hyperactive-ninja.json](./68358-super-hyperactive-ninja.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
+| Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
@@ -21472,6 +21477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Korotama | 125712 | [125712-super-korotama.json](./125712-super-korotama.json) |
 | Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
+| Super Kyoutei 2 | 38194 | [38194-super-kyoutei-2.json](./38194-super-kyoutei-2.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laser Fury | 240697 | [240697-super-laser-fury.json](./240697-super-laser-fury.json) |
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
@@ -22753,6 +22759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Usagi Rush!! | 335975 | [335975-super-ultra-usagi-rush.json](./335975-super-ultra-usagi-rush.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
+| Super V.G. | 38197 | [38197-super-v-g.json](./38197-super-v-g.json) |
 | Super Vadimka | 194310 | [194310-super-vadimka.json](./194310-super-vadimka.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
@@ -22770,6 +22777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
 | Super VR Trainer | 31907 | [31907-super-vr-trainer.json](./31907-super-vr-trainer.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
+| Super Wagyan Land 2 | 38195 | [38195-super-wagyan-land-2.json](./38195-super-wagyan-land-2.json) |
 | Super Waifu Tsunami | 403083 | [403083-super-waifu-tsunami.json](./403083-super-waifu-tsunami.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
