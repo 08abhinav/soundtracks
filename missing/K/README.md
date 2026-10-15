@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
+| Knockout City | 143615 | [143615-knockout-city.json](./143615-knockout-city.json) |
 | Knockout City: Block Party Edition | 169177 | [169177-knockout-city-block-party-edition.json](./169177-knockout-city-block-party-edition.json) |
 | Knockout City: Deluxe Block Party Edition | 169176 | [169176-knockout-city-deluxe-block-party-edition.json](./169176-knockout-city-deluxe-block-party-edition.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Jesus and the Search for Celestial Gold | 122254 | [122254-kung-fu-jesus-and-the-search-for-celestial-gold.json](./122254-kung-fu-jesus-and-the-search-for-celestial-gold.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
+| Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 200906 | [200906-kung-fu-panda-2.json](./200906-kung-fu-panda-2.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
