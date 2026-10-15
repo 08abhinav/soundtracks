@@ -268,6 +268,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
+| 10 out of 10: Dinosaurs | 14182 | [14182-10-out-of-10-dinosaurs.json](./14182-10-out-of-10-dinosaurs.json) |
+| 10 out of 10: Early Essentials | 14183 | [14183-10-out-of-10-early-essentials.json](./14183-10-out-of-10-early-essentials.json) |
+| 10 out of 10: English | 14184 | [14184-10-out-of-10-english.json](./14184-10-out-of-10-english.json) |
+| 10 out of 10: Essential Maths | 14185 | [14185-10-out-of-10-essential-maths.json](./14185-10-out-of-10-essential-maths.json) |
+| 10 out of 10: Essential Science | 14186 | [14186-10-out-of-10-essential-science.json](./14186-10-out-of-10-essential-science.json) |
+| 10 out of 10: French | 14187 | [14187-10-out-of-10-french.json](./14187-10-out-of-10-french.json) |
+| 10 out of 10: Geography | 14188 | [14188-10-out-of-10-geography.json](./14188-10-out-of-10-geography.json) |
+| 10 out of 10: German | 14189 | [14189-10-out-of-10-german.json](./14189-10-out-of-10-german.json) |
+| 10 out of 10: Junior Essentials | 14190 | [14190-10-out-of-10-junior-essentials.json](./14190-10-out-of-10-junior-essentials.json) |
+| 10 out of 10: Maths Algebra | 14191 | [14191-10-out-of-10-maths-algebra.json](./14191-10-out-of-10-maths-algebra.json) |
+| 10 out of 10: Maths Number | 14192 | [14192-10-out-of-10-maths-number.json](./14192-10-out-of-10-maths-number.json) |
+| 10 out of 10: Spelling & Punctuation | 14193 | [14193-10-out-of-10-spelling-and-punctuation.json](./14193-10-out-of-10-spelling-and-punctuation.json) |
+| 10 out of 10: Structured Spelling | 14194 | [14194-10-out-of-10-structured-spelling.json](./14194-10-out-of-10-structured-spelling.json) |
+| 10 out of 10: Tables | 14195 | [14195-10-out-of-10-tables.json](./14195-10-out-of-10-tables.json) |
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
 | 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
@@ -1459,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
+| 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
 | 3D Brick Breaker Revolution | 66431 | [66431-3d-brick-breaker-revolution.json](./66431-3d-brick-breaker-revolution.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
@@ -1864,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
 | 50 Years | 31641 | [31641-50-years.json](./31641-50-years.json) |
 | 50 Years Classic | 377391 | [377391-50-years-classic.json](./377391-50-years-classic.json) |
+| 500 c.c MotoManager | 14196 | [14196-500-c-c-motomanager.json](./14196-500-c-c-motomanager.json) |
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
@@ -2067,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
+| 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
 | 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
