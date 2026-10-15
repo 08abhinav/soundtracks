@@ -4999,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
 | Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
+| Gorkamorka | 32667 | [32667-gorkamorka.json](./32667-gorkamorka.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormiti: Agguato nella Valle | 137936 | [137936-gormiti-agguato-nella-valle.json](./137936-gormiti-agguato-nella-valle.json) |
