@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Closed Doors 4: Balrog's Day Out | 58846 | [58846-behind-closed-doors-4-balrogs-day-out.json](./58846-behind-closed-doors-4-balrogs-day-out.json) |
 | Behind Closed Doors: A Developer's Tale | 173211 | [173211-behind-closed-doors-a-developers-tale.json](./173211-behind-closed-doors-a-developers-tale.json) |
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
+| Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
@@ -9627,6 +9628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
+| Boxing Bugs | 39412 | [39412-boxing-bugs.json](./39412-boxing-bugs.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Coach | 156193 | [156193-boxing-coach.json](./156193-boxing-coach.json) |
@@ -11152,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
+| Bubble Symphony | 39422 | [39422-bubble-symphony.json](./39422-bubble-symphony.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Tanks 3 | 210291 | [210291-bubble-tanks-3.json](./210291-bubble-tanks-3.json) |
 | Bubble Tanks Arenas | 210293 | [210293-bubble-tanks-arenas.json](./210293-bubble-tanks-arenas.json) |
