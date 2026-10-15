@@ -12294,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Aldrin: Cycling Pathways to Mars | 170776 | [170776-buzz-aldrin-cycling-pathways-to-mars.json](./170776-buzz-aldrin-cycling-pathways-to-mars.json) |
+| Buzz Aldrins Race into Space | 50355 | [50355-buzz-aldrins-race-into-space.json](./50355-buzz-aldrins-race-into-space.json) |
 | Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
 | Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
