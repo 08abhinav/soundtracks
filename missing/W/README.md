@@ -4502,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz | 47151 | [47151-wiz.json](./47151-wiz.json) |
+| Wiz Anniversary Funta! feat. Ruru | 60480 | [60480-wiz-anniversary-funta-feat-ruru.json](./60480-wiz-anniversary-funta-feat-ruru.json) |
 | Wiz Biz | 13047 | [13047-wiz-biz.json](./13047-wiz-biz.json) |
 | Wiz Brochure | 403769 | [403769-wiz-brochure.json](./403769-wiz-brochure.json) |
 | Wiz Hunter | 385264 | [385264-wiz-hunter.json](./385264-wiz-hunter.json) |
