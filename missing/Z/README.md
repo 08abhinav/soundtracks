@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Drift | 315806 | [315806-zen-drift.json](./315806-zen-drift.json) |
 | Zen Dynamics | 145412 | [145412-zen-dynamics.json](./145412-zen-dynamics.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
+| Zen Fish SIM | 17801 | [17801-zen-fish-sim.json](./17801-zen-fish-sim.json) |
 | Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
 | Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone | 358929 | [358929-zone.json](./358929-zone.json) |
 | Zone 10 | 119559 | [119559-zone-10.json](./119559-zone-10.json) |
 | Zone 13 | 312655 | [312655-zone-13.json](./312655-zone-13.json) |
+| Zone 22 | 17806 | [17806-zone-22.json](./17806-zone-22.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 4: Fight District | 102252 | [102252-zone-4-fight-district.json](./102252-zone-4-fight-district.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
