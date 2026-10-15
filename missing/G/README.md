@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | googolChooChoo3D2 | 106990 | [106990-googolchoochoo3d2.json](./106990-googolchoochoo3d2.json) |
+| Googolplex | 64300 | [64300-googolplex.json](./64300-googolplex.json) |
 | Googoo: Bash! | 216728 | [216728-googoo-bash.json](./216728-googoo-bash.json) |
 | GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
 | GooHuebelets | 65792 | [65792-goohuebelets.json](./65792-goohuebelets.json) |
@@ -7067,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Sonic VS Mario | 310673 | [310673-guitar-hero-sonic-vs-mario.json](./310673-guitar-hero-sonic-vs-mario.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
+| Guitar Idol | 64329 | [64329-guitar-idol.json](./64329-guitar-idol.json) |
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
 | Guitar Life: Lesson 1 | 287887 | [287887-guitar-life-lesson-1.json](./287887-guitar-life-lesson-1.json) |
 | Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
