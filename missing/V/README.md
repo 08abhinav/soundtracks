@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Bowling | 354530 | [354530-virtua-bowling.json](./354530-virtua-bowling.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
+| Virtua Cop 3 | 66555 | [66555-virtua-cop-3.json](./66555-virtua-cop-3.json) |
 | Virtua Fighter | 19734 | [19734-virtua-fighter.json](./19734-virtua-fighter.json) |
 | Virtua Fighter | 199019 | [199019-virtua-fighter.json](./199019-virtua-fighter.json) |
 | Virtua Fighter 10th Anniversary | 1553 | [1553-virtua-fighter-10th-anniversary.json](./1553-virtua-fighter-10th-anniversary.json) |
