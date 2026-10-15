@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
+| Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
 | Call of Cthulhu: The Darkness Within Book 1 | 228320 | [228320-call-of-cthulhu-the-darkness-within-book-1.json](./228320-call-of-cthulhu-the-darkness-within-book-1.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
+| Castlevania III: Dracula's Curse | 1119 | [1119-castlevania-iii-draculas-curse.json](./1119-castlevania-iii-draculas-curse.json) |
 | Castlevania III: Dracula's Curse 2020 | 342089 | [342089-castlevania-iii-draculas-curse-2020.json](./342089-castlevania-iii-draculas-curse-2020.json) |
 | Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania Puzzle: Encore of the Night | 1148 | [1148-castlevania-puzzle-encore-of-the-night.json](./1148-castlevania-puzzle-encore-of-the-night.json) |
@@ -7833,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae: Dirt | 943 | [943-colin-mcrae-dirt.json](./943-colin-mcrae-dirt.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin McRae: Dirt 2 | 237839 | [237839-colin-mcrae-dirt-2.json](./237839-colin-mcrae-dirt-2.json) |
+| Colin McRae: Dirt 2 | 561 | [561-colin-mcrae-dirt-2.json](./561-colin-mcrae-dirt-2.json) |
 | Colin McRae: Dirt 2 - Access All Areas Pack | 237840 | [237840-colin-mcrae-dirt-2-access-all-areas-pack.json](./237840-colin-mcrae-dirt-2-access-all-areas-pack.json) |
 | Colin McRae: Dirt 2 - Trust Fund Pack | 237841 | [237841-colin-mcrae-dirt-2-trust-fund-pack.json](./237841-colin-mcrae-dirt-2-trust-fund-pack.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
@@ -8747,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos 5 | 9760 | [9760-commandos-5.json](./9760-commandos-5.json) |
 | Commandos Pro Simulator | 287761 | [287761-commandos-pro-simulator.json](./287761-commandos-pro-simulator.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
+| Commandos: Beyond the Call of Duty | 961 | [961-commandos-beyond-the-call-of-duty.json](./961-commandos-beyond-the-call-of-duty.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
@@ -9102,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
+| Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
 | Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Conker's Pocket Tales | 1424 | [1424-conkers-pocket-tales.json](./1424-conkers-pocket-tales.json) |
