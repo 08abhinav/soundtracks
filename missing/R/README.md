@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
+| Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
+| Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
+| Robinson's Requiem | 2511 | [2511-robinsons-requiem.json](./2511-robinsons-requiem.json) |
 | Robinson's Requiem Collection | 51871 | [51871-robinsons-requiem-collection.json](./51871-robinsons-requiem-collection.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
@@ -7340,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
+| Rome: AD 92 | 2525 | [2525-rome-ad-92.json](./2525-rome-ad-92.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
 | Rome: Card Battles | 414490 | [414490-rome-card-battles.json](./414490-rome-card-battles.json) |
 | Rome: Nightmares of Empire | 329206 | [329206-rome-nightmares-of-empire.json](./329206-rome-nightmares-of-empire.json) |
@@ -8161,11 +8165,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats: Adventures in Gameland | 264302 | [264302-rugrats-adventures-in-gameland.json](./264302-rugrats-adventures-in-gameland.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
+| Rugrats: Castle Capers | 2795 | [2795-rugrats-castle-capers.json](./2795-rugrats-castle-capers.json) |
+| Rugrats: I Gotta Go Party | 2794 | [2794-rugrats-i-gotta-go-party.json](./2794-rugrats-i-gotta-go-party.json) |
 | Rugrats: Match-Master | 273878 | [273878-rugrats-match-master.json](./273878-rugrats-match-master.json) |
 | Rugrats: Retro Rewind Collection | 399837 | [399837-rugrats-retro-rewind-collection.json](./399837-rugrats-retro-rewind-collection.json) |
 | Rugrats: Royal Ransom | 2793 | [2793-rugrats-royal-ransom.json](./2793-rugrats-royal-ransom.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Rugrats: Studio Tour | 2788 | [2788-rugrats-studio-tour.json](./2788-rugrats-studio-tour.json) |
+| Rugrats: Time Travelers | 2791 | [2791-rugrats-time-travelers.json](./2791-rugrats-time-travelers.json) |
+| Rugrats: Totally Angelica | 2789 | [2789-rugrats-totally-angelica.json](./2789-rugrats-totally-angelica.json) |
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
 | Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
