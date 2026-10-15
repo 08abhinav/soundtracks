@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liverpool | 94409 | [94409-liverpool.json](./94409-liverpool.json) |
 | Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
 | Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
+| Liverpool: the Computer Game | 71397 | [71397-liverpool-the-computer-game.json](./71397-liverpool-the-computer-game.json) |
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
+| Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
