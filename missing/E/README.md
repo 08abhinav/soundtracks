@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt City Builder | 364971 | [364971-egypt-city-builder.json](./364971-egypt-city-builder.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
+| Egypt II: The Heliopolis Prophecy | 43781 | [43781-egypt-ii-the-heliopolis-prophecy.json](./43781-egypt-ii-the-heliopolis-prophecy.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
 | Egypt Pharaoh Secret | 109213 | [109213-egypt-pharaoh-secret.json](./109213-egypt-pharaoh-secret.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
@@ -2945,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
 | EOS Black | 393554 | [393554-eos-black.json](./393554-eos-black.json) |
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
+| EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
+| Exector | 43797 | [43797-exector.json](./43797-exector.json) |
 | Executanks | 184880 | [184880-executanks.json](./184880-executanks.json) |
 | Execute | 373337 | [373337-execute.json](./373337-execute.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
@@ -5291,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Expert | 43796 | [43796-expert.json](./43796-expert.json) |
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
@@ -5407,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
 | Extra Bases | 100300 | [100300-extra-bases.json](./100300-extra-bases.json) |
+| Extra Bright | 43795 | [43795-extra-bright.json](./43795-extra-bright.json) |
 | Extra Case: My Girlfriend's Secrets | 234108 | [234108-extra-case-my-girlfriends-secrets.json](./234108-extra-case-my-girlfriends-secrets.json) |
 | Extra Cream | 310134 | [310134-extra-cream.json](./310134-extra-cream.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
@@ -5497,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Skiing VR | 30736 | [30736-extreme-skiing-vr.json](./30736-extreme-skiing-vr.json) |
 | Extreme Skill | 80466 | [80466-extreme-skill.json](./80466-extreme-skill.json) |
 | Extreme Skydiving | 175159 | [175159-extreme-skydiving.json](./175159-extreme-skydiving.json) |
+| Extreme Snow Break | 43791 | [43791-extreme-snow-break.json](./43791-extreme-snow-break.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
