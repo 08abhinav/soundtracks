@@ -8442,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
+| Pool Live Tour: Champions | 56390 | [56390-pool-live-tour-champions.json](./56390-pool-live-tour-champions.json) |
 | Pool Lounge | 264241 | [264241-pool-lounge.json](./264241-pool-lounge.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Nation | 294557 | [294557-pool-nation.json](./294557-pool-nation.json) |
