@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
 | R3: The Art of Rocketry | 231834 | [231834-r3-the-art-of-rocketry.json](./231834-r3-the-art-of-rocketry.json) |
 | R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
+| R4: Ridge Racer Type 4 | 18699 | [18699-r4-ridge-racer-type-4.json](./18699-r4-ridge-racer-type-4.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
@@ -3099,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
+| Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
 | Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
@@ -8464,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
+| Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
