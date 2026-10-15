@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 263376 | [263376-r-type.json](./263376-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
+| R-Type | 6840 | [6840-r-type.json](./6840-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Delta | 28397 | [28397-r-type-delta.json](./28397-r-type-delta.json) |
 | R-Type Dimensions III | 381109 | [381109-r-type-dimensions-iii.json](./381109-r-type-dimensions-iii.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Future: A Crack in Time | 1795 | [1795-ratchet-and-clank-future-a-crack-in-time.json](./1795-ratchet-and-clank-future-a-crack-in-time.json) |
 | Ratchet & Clank Future: Quest for Booty | 1794 | [1794-ratchet-and-clank-future-quest-for-booty.json](./1794-ratchet-and-clank-future-quest-for-booty.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
+| Ratchet & Clank: All 4 One | 1796 | [1796-ratchet-and-clank-all-4-one.json](./1796-ratchet-and-clank-all-4-one.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
 | Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
@@ -2609,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crucible: Able Archer | 154061 | [154061-red-crucible-able-archer.json](./154061-red-crucible-able-archer.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
+| Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
 | Red Dead Redemption | 260737 | [260737-red-dead-redemption.json](./260737-red-dead-redemption.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
 | Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
@@ -3852,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
 | Resident Evil: Degeneration | 25817 | [25817-resident-evil-degeneration.json](./25817-resident-evil-degeneration.json) |
 | Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
+| Resident Evil: Director's Cut | 23377 | [23377-resident-evil-directors-cut.json](./23377-resident-evil-directors-cut.json) |
 | Resident Evil: Director's Cut | 317968 | [317968-resident-evil-directors-cut.json](./317968-resident-evil-directors-cut.json) |
 | Resident Evil: Director's Cut Dual Shock Ver. | 145007 | [145007-resident-evil-directors-cut-dual-shock-ver.json](./145007-resident-evil-directors-cut-dual-shock-ver.json) |
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
@@ -5959,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
+| Robin Hood: The Legend of Sherwood | 851 | [851-robin-hood-the-legend-of-sherwood.json](./851-robin-hood-the-legend-of-sherwood.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
@@ -6349,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
 | Rock n' Rush Battle Racing | 103348 | [103348-rock-n-rush-battle-racing.json](./103348-rock-n-rush-battle-racing.json) |
+| Rock of Ages | 2284 | [2284-rock-of-ages.json](./2284-rock-of-ages.json) |
 | Rock of Ages 2: Complete Bundle | 118905 | [118905-rock-of-ages-2-complete-bundle.json](./118905-rock-of-ages-2-complete-bundle.json) |
 | Rock of Ages 3: Make & Break | 121714 | [121714-rock-of-ages-3-make-and-break.json](./121714-rock-of-ages-3-make-and-break.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
