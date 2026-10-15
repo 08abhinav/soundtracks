@@ -10203,6 +10203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on Proxima | 234213 | [234213-assault-on-proxima.json](./234213-assault-on-proxima.json) |
 | Assault on Tei Tenga | 144264 | [144264-assault-on-tei-tenga.json](./144264-assault-on-tei-tenga.json) |
 | Assault on the Necrospire | 32804 | [32804-assault-on-the-necrospire.json](./32804-assault-on-the-necrospire.json) |
+| Assault Ops | 59734 | [59734-assault-ops.json](./59734-assault-ops.json) |
+| Assault Ops: Warzone | 59741 | [59741-assault-ops-warzone.json](./59741-assault-ops-warzone.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
@@ -11712,7 +11714,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
+| Avatar Farm Online | 59731 | [59731-avatar-farm-online.json](./59731-avatar-farm-online.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Fear | 59732 | [59732-avatar-fear.json](./59732-avatar-fear.json) |
 | Avatar Generations | 235108 | [235108-avatar-generations.json](./235108-avatar-generations.json) |
 | Avatar Hamster Attack | 92430 | [92430-avatar-hamster-attack.json](./92430-avatar-hamster-attack.json) |
 | Avatar Hangman | 92379 | [92379-avatar-hangman.json](./92379-avatar-hangman.json) |
@@ -11753,6 +11757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 4685 | [4685-avatar-the-last-airbender-the-burning-earth.json](./4685-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
+| Avatar's Rock | 59727 | [59727-avatars-rock.json](./59727-avatars-rock.json) |
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
 | Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
