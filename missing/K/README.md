@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
+| Kidou Keisatsu Patlabor | 44435 | [44435-kidou-keisatsu-patlabor.json](./44435-kidou-keisatsu-patlabor.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
 | Kidou Keisatsu Patlabor: Dai-2-shoutai Shutsudou Seyo! | 41258 | [41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json](./41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json) |
 | Kidou Keisatsu Patlabor: Game Edition | 43814 | [43814-kidou-keisatsu-patlabor-game-edition.json](./43814-kidou-keisatsu-patlabor-game-edition.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman Nisei: Choujin Seisenshi | 37366 | [37366-kinnikuman-nisei-choujin-seisenshi.json](./37366-kinnikuman-nisei-choujin-seisenshi.json) |
 | Kinnikuman Nisei: Dream Tag Match | 37365 | [37365-kinnikuman-nisei-dream-tag-match.json](./37365-kinnikuman-nisei-dream-tag-match.json) |
 | Kinnikuman: Colosseum Deathmatch | 71803 | [71803-kinnikuman-colosseum-deathmatch.json](./71803-kinnikuman-colosseum-deathmatch.json) |
+| Kinnikuman: Dirty Challenger | 44412 | [44412-kinnikuman-dirty-challenger.json](./44412-kinnikuman-dirty-challenger.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Muscle Generations | 65998 | [65998-kinnikuman-muscle-generations.json](./65998-kinnikuman-muscle-generations.json) |
 | Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
