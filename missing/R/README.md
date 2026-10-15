@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
+| RectRacer | 43154 | [43154-rectracer.json](./43154-rectracer.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
+| Refract | 43162 | [43162-refract.json](./43162-refract.json) |
 | Refraction | 171338 | [171338-refraction.json](./171338-refraction.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
@@ -6983,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
+| Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
