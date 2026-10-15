@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
+| Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
@@ -9090,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
+| Funky Head Boxers | 54964 | [54964-funky-head-boxers.json](./54964-funky-head-boxers.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
