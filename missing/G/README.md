@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
+| Gear: Full Circle | 57010 | [57010-gear-full-circle.json](./57010-gear-full-circle.json) |
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
@@ -3496,6 +3497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
+| Glove on Fight | 56983 | [56983-glove-on-fight.json](./56983-glove-on-fight.json) |
+| Glove On Fight 2: Gleam of Force | 56984 | [56984-glove-on-fight-2-gleam-of-force.json](./56984-glove-on-fight-2-gleam-of-force.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
 | Glover | 193728 | [193728-glover.json](./193728-glover.json) |
 | Glover | 193729 | [193729-glover.json](./193729-glover.json) |
@@ -5178,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
+| Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
@@ -5746,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
 | Gravity At Its Finest | 57023 | [57023-gravity-at-its-finest.json](./57023-gravity-at-its-finest.json) |
+| Gravity At Its Finest 2 | 57022 | [57022-gravity-at-its-finest-2.json](./57022-gravity-at-its-finest-2.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
 | Gravity Badgers | 10376 | [10376-gravity-badgers.json](./10376-gravity-badgers.json) |
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
