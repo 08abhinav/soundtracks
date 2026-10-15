@@ -6544,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
+| Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Hunt | 175235 | [175235-clay-hunt.json](./175235-clay-hunt.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
@@ -7031,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
+| Clover Day's: Making for Happiness | 60433 | [60433-clover-days-making-for-happiness.json](./60433-clover-days-making-for-happiness.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover Party | 374936 | [374936-clover-party.json](./374936-clover-party.json) |
