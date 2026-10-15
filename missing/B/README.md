@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Manors | 327772 | [327772-bad-manors.json](./327772-bad-manors.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
 | Bad Meme | 158036 | [158036-bad-meme.json](./158036-bad-meme.json) |
+| Bad Milk | 69755 | [69755-bad-milk.json](./69755-bad-milk.json) |
 | Bad Mineral | 272246 | [272246-bad-mineral.json](./272246-bad-mineral.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bako | 190934 | [190934-bako.json](./190934-bako.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
+| Baku Baku | 69785 | [69785-baku-baku.json](./69785-baku-baku.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakuchou Retrieve Master | 228490 | [228490-bakuchou-retrieve-master.json](./228490-bakuchou-retrieve-master.json) |
@@ -8453,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Land Touch! 2 | 20774 | [20774-bomberman-land-touch-2.json](./20774-bomberman-land-touch-2.json) |
 | Bomberman Legends | 198215 | [198215-bomberman-legends.json](./198215-bomberman-legends.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
+| Bomberman Max 2 | 69781 | [69781-bomberman-max-2.json](./69781-bomberman-max-2.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Max: Blue Champion | 49839 | [49839-bomberman-max-blue-champion.json](./49839-bomberman-max-blue-champion.json) |
 | Bomberman Max: Red Challenger | 49838 | [49838-bomberman-max-red-challenger.json](./49838-bomberman-max-red-challenger.json) |
@@ -10305,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Dungeon | 256458 | [256458-brick-breaker-dungeon.json](./256458-brick-breaker-dungeon.json) |
 | Brick Breaker Hero | 235267 | [235267-brick-breaker-hero.json](./235267-brick-breaker-hero.json) |
+| Brick Breaker II Turbo | 69761 | [69761-brick-breaker-ii-turbo.json](./69761-brick-breaker-ii-turbo.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
