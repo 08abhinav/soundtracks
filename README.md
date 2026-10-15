@@ -996,6 +996,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4e/4f/7b/4e4f7b25-b18a-6401-7608-0040c964c9bc/192650213890_cover.jpg/1000x1000bb.jpg" width="60" /> | [Shadow of the Colossus](https://ostdb.net/games/shadow-of-the-colossus) | **Shadow of the Colossus - The Opened Way - Main Theme - Single** · [Apple Music](https://music.apple.com/us/album/shadow-of-the-colossus-the-opened-way-main-theme-single/1372563600?uo=4) · [Album](https://album.link/i/1372563600) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352154447630bb3ec2c8518ef" width="60" /> | [Shadowrun](https://ostdb.net/games/shadowrun) | **Shadowrun Original Soundtrack (Dark Cyberpunk)** · [Spotify](https://open.spotify.com/album/7FtTra9hdeS1NC19tmZdRf) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/1b/5f/9e1b5f78-8fd2-a745-ab45-9cc3eb393e15/3663729143570_cover.jpg/1000x1000bb.jpg" width="60" /> | [Shenmue III](https://ostdb.net/games/shenmue-iii) | **Shenmue III The Definitive Soundtrack** · [Apple Music](https://music.apple.com/us/album/shenmue-iii-the-definitive-soundtrack/1547575397?uo=4) · [Album](https://album.link/i/1547575397) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273069cf7cc78b0f37b895c96b5" width="60" /> | [Shin Megami Tensei](https://ostdb.net/games/shin-megami-tensei) | **Shin Megami Tensei Original Soundtrack (Super Famicom version)** · [Spotify](https://open.spotify.com/album/1zwRAaq0ZJBM4OcTZfvU4i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737582b1edfeac005f53f1a49d" width="60" /> | [Shin Megami Tensei V: Vengeance](https://ostdb.net/games/shin-megami-tensei-v-vengeance) | **Shin Megami Tensei V: Vengeance Original Soundtrack** · [Spotify](https://open.spotify.com/album/1zO2V5WtzAHLulAiRUoUcS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733759235f0bba18d3051dca54" width="60" /> | [Shovel Knight](https://ostdb.net/games/shovel-knight) | **Shovel Knight The Definitive Soundtrack** · [Spotify](https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332eaaf5e0282f4605d34536f" width="60" /> | [Sid Meier's Civilization VI](https://ostdb.net/games/sid-meiers-civilization-vi) | **Sid Meier's Civilization VI (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2) |
@@ -1378,4 +1379,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1695 soundtracks · last updated 2026-10-15T19:37:09.982Z_
+_1696 soundtracks · last updated 2026-10-15T19:37:23.598Z_
