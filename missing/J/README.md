@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joycoin | 323412 | [323412-joycoin.json](./323412-joycoin.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
+| Joyful Executions | 62069 | [62069-joyful-executions.json](./62069-joyful-executions.json) |
 | Joyful Masks | 373160 | [373160-joyful-masks.json](./373160-joyful-masks.json) |
 | Joyland: Horror Adventure Quest | 233437 | [233437-joyland-horror-adventure-quest.json](./233437-joyland-horror-adventure-quest.json) |
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
