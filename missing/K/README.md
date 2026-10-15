@@ -1690,7 +1690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
-| Kill It With Fire | 130508 | [130508-kill-it-with-fire.json](./130508-kill-it-with-fire.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
