@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Heroes: Rise of the Black Alliance | 274559 | [274559-galactic-heroes-rise-of-the-black-alliance.json](./274559-galactic-heroes-rise-of-the-black-alliance.json) |
+| Galactic Hitman | 59757 | [59757-galactic-hitman.json](./59757-galactic-hitman.json) |
 | Galactic Incoming | 111534 | [111534-galactic-incoming.json](./111534-galactic-incoming.json) |
 | Galactic Inferno | 336695 | [336695-galactic-inferno.json](./336695-galactic-inferno.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
 | Gem Jam | 333732 | [333732-gem-jam.json](./333732-gem-jam.json) |
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
+| Gem Legends | 59729 | [59729-gem-legends.json](./59729-gem-legends.json) |
 | Gem Master | 132581 | [132581-gem-master.json](./132581-gem-master.json) |
 | Gem Miner | 91839 | [91839-gem-miner.json](./91839-gem-miner.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
