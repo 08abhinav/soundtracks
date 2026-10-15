@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
 | Mainland | 274947 | [274947-mainland.json](./274947-mainland.json) |
+| Mainland | 35343 | [35343-mainland.json](./35343-mainland.json) |
 | Mainlining | 27568 | [27568-mainlining.json](./27568-mainlining.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
