@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
 | Genkai Tokki: Castle Panzers - Limited Edition | 167090 | [167090-genkai-tokki-castle-panzers-limited-edition.json](./167090-genkai-tokki-castle-panzers-limited-edition.json) |
+| Genkai Tokki: Seven Pirates | 58722 | [58722-genkai-tokki-seven-pirates.json](./58722-genkai-tokki-seven-pirates.json) |
 | Genkai Totsuki Monster Monpiece | 145407 | [145407-genkai-totsuki-monster-monpiece.json](./145407-genkai-totsuki-monster-monpiece.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters II | 218947 | [218947-ghostbusters-ii.json](./218947-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
+| Ghostbusters Pinball | 58665 | [58665-ghostbusters-pinball.json](./58665-ghostbusters-pinball.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
 | Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
@@ -3155,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
+| Give It Up! | 59302 | [59302-give-it-up.json](./59302-give-it-up.json) |
 | Give It Up! 3 | 260897 | [260897-give-it-up-3.json](./260897-give-it-up-3.json) |
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
@@ -3252,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
+| Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
@@ -3545,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
+| Glyde | 58663 | [58663-glyde.json](./58663-glyde.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
 | Glyder | 66754 | [66754-glyder.json](./66754-glyder.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
@@ -5951,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
+| Greed Knight | 58680 | [58680-greed-knight.json](./58680-greed-knight.json) |
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
@@ -7580,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
+| Guppy's Quest | 58698 | [58698-guppys-quest.json](./58698-guppys-quest.json) |
 | Gura Tambourine | 178885 | [178885-gura-tambourine.json](./178885-gura-tambourine.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Gura's Birthday | 161177 | [161177-guras-birthday.json](./161177-guras-birthday.json) |
