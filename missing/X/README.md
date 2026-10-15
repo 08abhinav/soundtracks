@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
+| Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
