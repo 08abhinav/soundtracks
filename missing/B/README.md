@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
+| Battle Commander: Hachibushu Shura no Heihou | 44426 | [44426-battle-commander-hachibushu-shura-no-heihou.json](./44426-battle-commander-hachibushu-shura-no-heihou.json) |
 | Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
 | Battle Copters | 348953 | [348953-battle-copters.json](./348953-battle-copters.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
@@ -2602,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
 | Battle Isle: The Andosia War | 9034 | [9034-battle-isle-the-andosia-war.json](./9034-battle-isle-the-andosia-war.json) |
 | Battle Isle: Threshold Run | 11103 | [11103-battle-isle-threshold-run.json](./11103-battle-isle-threshold-run.json) |
+| Battle Jockey | 44425 | [44425-battle-jockey.json](./44425-battle-jockey.json) |
 | Battle Jump | 83856 | [83856-battle-jump.json](./83856-battle-jump.json) |
 | Battle Junk | 274932 | [274932-battle-junk.json](./274932-battle-junk.json) |
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
@@ -2743,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
+| Battle Robot Retsuden | 44424 | [44424-battle-robot-retsuden.json](./44424-battle-robot-retsuden.json) |
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
@@ -2774,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Snails | 252912 | [252912-battle-snails.json](./252912-battle-snails.json) |
 | Battle Snakes | 190031 | [190031-battle-snakes.json](./190031-battle-snakes.json) |
 | Battle Snakes Arena | 82503 | [82503-battle-snakes-arena.json](./82503-battle-snakes-arena.json) |
+| Battle Soccer 2 | 44423 | [44423-battle-soccer-2.json](./44423-battle-soccer-2.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Sorcerer | 126959 | [126959-battle-sorcerer.json](./126959-battle-sorcerer.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
@@ -4539,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
 | Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
+| Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
