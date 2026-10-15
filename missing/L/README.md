@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Box Standing May Go On | 336625 | [336625-last-box-standing-may-go-on.json](./336625-last-box-standing-may-go-on.json) |
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
+| Last Bronx | 39451 | [39451-last-bronx.json](./39451-last-bronx.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
