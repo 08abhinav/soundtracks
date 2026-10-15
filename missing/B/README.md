@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
+| Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
 | Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
+| Board Defenders | 31648 | [31648-board-defenders.json](./31648-board-defenders.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
 | Board Game Cafe | 293522 | [293522-board-game-cafe.json](./293522-board-game-cafe.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
