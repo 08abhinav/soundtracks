@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
 | Oscar & Gems: Puzzle Quest | 163553 | [163553-oscar-and-gems-puzzle-quest.json](./163553-oscar-and-gems-puzzle-quest.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
+| Oscar in Toyland | 56364 | [56364-oscar-in-toyland.json](./56364-oscar-in-toyland.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Ballonist & The Secrets of the Forest | 208889 | [208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json](./208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json) |
 | Oscar the Ballonist flies into the Mountains | 208890 | [208890-oscar-the-ballonist-flies-into-the-mountains.json](./208890-oscar-the-ballonist-flies-into-the-mountains.json) |
