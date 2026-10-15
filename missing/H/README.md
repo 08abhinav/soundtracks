@@ -7600,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino Empire | 23765 | [23765-hoyle-casino-empire.json](./23765-hoyle-casino-empire.json) |
 | Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
 | Hoyle Casino Games 2013 | 46725 | [46725-hoyle-casino-games-2013.json](./46725-hoyle-casino-games-2013.json) |
+| Hoyle Children's Collection | 71428 | [71428-hoyle-childrens-collection.json](./71428-hoyle-childrens-collection.json) |
 | Hoyle Classic Board Game Collection 1 | 90884 | [90884-hoyle-classic-board-game-collection-1.json](./90884-hoyle-classic-board-game-collection-1.json) |
 | Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
 | Hoyle Classic Board Game Collection 3 | 90697 | [90697-hoyle-classic-board-game-collection-3.json](./90697-hoyle-classic-board-game-collection-3.json) |
