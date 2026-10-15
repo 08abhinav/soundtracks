@@ -4535,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance | 228374 | [228374-the-binding-of-isaac-repentance.json](./228374-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
+| The Binding of Isaac: Wrath of the Lamb | 14542 | [14542-the-binding-of-isaac-wrath-of-the-lamb.json](./14542-the-binding-of-isaac-wrath-of-the-lamb.json) |
 | The Binding of Survivors | 207593 | [207593-the-binding-of-survivors.json](./207593-the-binding-of-survivors.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Bingo Room | 143646 | [143646-the-bingo-room.json](./143646-the-bingo-room.json) |
@@ -7663,6 +7664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
+| The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
 | The Incredible Hulk | 94829 | [94829-the-incredible-hulk.json](./94829-the-incredible-hulk.json) |
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Hulk: Ultimate Destruction | 3954 | [3954-the-incredible-hulk-ultimate-destruction.json](./3954-the-incredible-hulk-ultimate-destruction.json) |
@@ -7803,7 +7805,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
+| The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
+| The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
 | The Jackbox Party Pack 5 | 96213 | [96213-the-jackbox-party-pack-5.json](./96213-the-jackbox-party-pack-5.json) |
 | The Jackbox Party Pack 6 | 125021 | [125021-the-jackbox-party-pack-6.json](./125021-the-jackbox-party-pack-6.json) |
@@ -8006,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
 | The King of Fighter XV: Characters - Team Awakened Orochi | 212988 | [212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json](./212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json) |
 | The King of Fighters | 207007 | [207007-the-king-of-fighters.json](./207007-the-king-of-fighters.json) |
+| The King of Fighters '94 | 15426 | [15426-the-king-of-fighters-94.json](./15426-the-king-of-fighters-94.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
@@ -8014,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
 | The King of Fighters '99: Millennium Battle | 15430 | [15430-the-king-of-fighters-99-millennium-battle.json](./15430-the-king-of-fighters-99-millennium-battle.json) |
 | The King of Fighters 02/03 | 78379 | [78379-the-king-of-fighters-02-03.json](./78379-the-king-of-fighters-02-03.json) |
+| The King of Fighters 2000 | 15431 | [15431-the-king-of-fighters-2000.json](./15431-the-king-of-fighters-2000.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters 2002 | 5884 | [5884-the-king-of-fighters-2002.json](./5884-the-king-of-fighters-2002.json) |
@@ -8647,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Knight Templar | 72567 | [72567-the-legend-of-knight-templar.json](./72567-the-legend-of-knight-templar.json) |
+| The Legend of Korra | 7877 | [7877-the-legend-of-korra.json](./7877-the-legend-of-korra.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
@@ -10345,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
+| The Plan | 11764 | [11764-the-plan.json](./11764-the-plan.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
@@ -11631,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Slush Force | 235691 | [235691-the-slush-force.json](./235691-the-slush-force.json) |
+| The Sly Collection | 7458 | [7458-the-sly-collection.json](./7458-the-sly-collection.json) |
 | The Sly Fox | 122948 | [122948-the-sly-fox.json](./122948-the-sly-fox.json) |
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
@@ -17460,6 +17469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Slider | 262358 | [262358-tomb-slider.json](./262358-tomb-slider.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
+| Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
@@ -20627,6 +20637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Mystery of Comvoy | 48563 | [48563-transformers-mystery-of-comvoy.json](./48563-transformers-mystery-of-comvoy.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
+| Transformers: Revenge of the Fallen | 7471 | [7471-transformers-revenge-of-the-fallen.json](./7471-transformers-revenge-of-the-fallen.json) |
 | Transformers: Revenge of the Fallen - Autobots | 206709 | [206709-transformers-revenge-of-the-fallen-autobots.json](./206709-transformers-revenge-of-the-fallen-autobots.json) |
 | Transformers: Revenge of the Fallen - Decepticons | 206710 | [206710-transformers-revenge-of-the-fallen-decepticons.json](./206710-transformers-revenge-of-the-fallen-decepticons.json) |
 | Transformers: Rise of the Dark Spark | 16583 | [16583-transformers-rise-of-the-dark-spark.json](./16583-transformers-rise-of-the-dark-spark.json) |
