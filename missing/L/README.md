@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
+| Lavi Quest | 55010 | [55010-lavi-quest.json](./55010-lavi-quest.json) |
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luma | 323981 | [323981-luma.json](./323981-luma.json) |
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
+| Lumak's Wraptiles | 55000 | [55000-lumaks-wraptiles.json](./55000-lumaks-wraptiles.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Hangover | 226876 | [226876-lumba-hangover.json](./226876-lumba-hangover.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
