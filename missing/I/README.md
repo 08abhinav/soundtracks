@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
+| Iggy's Zombie A-Pug-Alypse | 53152 | [53152-iggys-zombie-a-pug-alypse.json](./53152-iggys-zombie-a-pug-alypse.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | IgKnight Food Fight | 113535 | [113535-igknight-food-fight.json](./113535-igknight-food-fight.json) |
 | Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
