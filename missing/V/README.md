@@ -1885,6 +1885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Ricochet | 150756 | [150756-virtual-ricochet.json](./150756-virtual-ricochet.json) |
+| Virtual Rides | 56366 | [56366-virtual-rides.json](./56366-virtual-rides.json) |
+| Virtual Rides 2 | 56367 | [56367-virtual-rides-2.json](./56367-virtual-rides-2.json) |
 | Virtual Rides 3: Astronaut | 273583 | [273583-virtual-rides-3-astronaut.json](./273583-virtual-rides-3-astronaut.json) |
 | Virtual Rides 3: Bounce Machine | 273580 | [273580-virtual-rides-3-bounce-machine.json](./273580-virtual-rides-3-bounce-machine.json) |
 | Virtual Rides 3: Flipping Disc | 273582 | [273582-virtual-rides-3-flipping-disc.json](./273582-virtual-rides-3-flipping-disc.json) |
