@@ -22519,6 +22519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spamton 64 | 389025 | [389025-super-spamton-64.json](./389025-super-spamton-64.json) |
 | Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
 | Super Speed Ball | 331506 | [331506-super-speed-ball.json](./331506-super-speed-ball.json) |
+| Super Speed Machines | 47816 | [47816-super-speed-machines.json](./47816-super-speed-machines.json) |
 | Super Speed Race 64 | 136856 | [136856-super-speed-race-64.json](./136856-super-speed-race-64.json) |
 | Super Speed Race Jr. | 342139 | [342139-super-speed-race-jr.json](./342139-super-speed-race-jr.json) |
 | Super Spelling Ducks | 280341 | [280341-super-spelling-ducks.json](./280341-super-spelling-ducks.json) |
@@ -22878,6 +22879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
+| Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
 | Superman Returns: The Videogame | 6182 | [6182-superman-returns-the-videogame.json](./6182-superman-returns-the-videogame.json) |
 | Superman: Battle for Metropolis | 239553 | [239553-superman-battle-for-metropolis.json](./239553-superman-battle-for-metropolis.json) |
 | Superman: Countdown to Apokolips | 49216 | [49216-superman-countdown-to-apokolips.json](./49216-superman-countdown-to-apokolips.json) |
