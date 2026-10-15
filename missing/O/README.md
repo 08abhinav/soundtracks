@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san The Game: Hachamecha Shuushoku Advice - Dead or Work | 83420 | [83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json](./83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | Osomatsu-san: Matsumatsuri! | 83421 | [83421-osomatsu-san-matsumatsuri.json](./83421-osomatsu-san-matsumatsuri.json) |
+| OSP Entertainment Complete Archive | 63792 | [63792-osp-entertainment-complete-archive.json](./63792-osp-entertainment-complete-archive.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
@@ -3087,7 +3088,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
+| Otherworld: Omens of Summer | 63772 | [63772-otherworld-omens-of-summer.json](./63772-otherworld-omens-of-summer.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
+| Otherworld: Spring of Shadows | 63771 | [63771-otherworld-spring-of-shadows.json](./63771-otherworld-spring-of-shadows.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
 | Otherworld: Spring of Shadows & Otherworld: Omens of Summer | 200957 | [200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json](./200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json) |
 | Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
