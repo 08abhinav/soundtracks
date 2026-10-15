@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles I & II: Gothic wa Mahou Otome 5 Characters | 203958 | [203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json](./203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
+| Deathsmiles: Deluxe Edition | 23389 | [23389-deathsmiles-deluxe-edition.json](./23389-deathsmiles-deluxe-edition.json) |
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
 | DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
@@ -7244,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
+| District 187 | 23541 | [23541-district-187.json](./23541-district-187.json) |
 | District 7 | 74282 | [74282-district-7.json](./74282-district-7.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
@@ -7475,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Technika 2 | 66923 | [66923-djmax-technika-2.json](./66923-djmax-technika-2.json) |
 | DJMax Technika 3 | 80198 | [80198-djmax-technika-3.json](./80198-djmax-technika-3.json) |
 | DJMax Technika Q | 80199 | [80199-djmax-technika-q.json](./80199-djmax-technika-q.json) |
+| DJMax Technika Tune | 23430 | [23430-djmax-technika-tune.json](./23430-djmax-technika-tune.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK Challenge | 405439 | [405439-dk-challenge.json](./405439-dk-challenge.json) |
