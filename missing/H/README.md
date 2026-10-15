@@ -8413,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
 | Hyper Duel | 45459 | [45459-hyper-duel.json](./45459-hyper-duel.json) |
+| Hyper Dyne Side Arms Special | 37594 | [37594-hyper-dyne-side-arms-special.json](./37594-hyper-dyne-side-arms-special.json) |
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Empire | 333790 | [333790-hyper-empire.json](./333790-hyper-empire.json) |
