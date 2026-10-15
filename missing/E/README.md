@@ -4062,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
+| Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
