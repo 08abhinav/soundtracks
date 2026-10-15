@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
+| Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -8264,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
+| Don't Drop the Bass | 32660 | [32660-dont-drop-the-bass.json](./32660-dont-drop-the-bass.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drop the Soap | 343228 | [343228-dont-drop-the-soap.json](./343228-dont-drop-the-soap.json) |
 | Don't Drop the White Ball 2 | 252709 | [252709-dont-drop-the-white-ball-2.json](./252709-dont-drop-the-white-ball-2.json) |
@@ -12910,6 +12912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
+| Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
