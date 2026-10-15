@@ -9408,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
+| MiXem Delux | 70289 | [70289-mixem-delux.json](./70289-mixem-delux.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | Mixing Suns | 183389 | [183389-mixing-suns.json](./183389-mixing-suns.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
@@ -9593,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Hunter | 200493 | [200493-mob-hunter.json](./200493-mob-hunter.json) |
 | Mob Marathon | 401136 | [401136-mob-marathon.json](./401136-mob-marathon.json) |
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
+| Mob Rule | 70279 | [70279-mob-rule.json](./70279-mob-rule.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Ties: Tokyo | 22120 | [22120-mob-ties-tokyo.json](./22120-mob-ties-tokyo.json) |
