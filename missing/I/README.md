@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkafe | 372116 | [372116-inkafe.json](./372116-inkafe.json) |
 | Inkanians | 134520 | [134520-inkanians.json](./134520-inkanians.json) |
 | Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
+| InkBall | 66582 | [66582-inkball.json](./66582-inkball.json) |
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
