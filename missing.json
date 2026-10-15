@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T13:21:17.527Z",
-  "total_missing": 215422,
+  "generated_at": "2026-10-15T13:36:20.049Z",
+  "total_missing": 215472,
   "games": [
     {
       "igdb_id": 191680,
@@ -17332,6 +17332,11 @@
       "file": "missing/A/241448-abduction.json"
     },
     {
+      "igdb_id": 41192,
+      "game_name": "Abductor",
+      "file": "missing/A/41192-abductor.json"
+    },
+    {
       "igdb_id": 33117,
       "game_name": "Abe VR",
       "file": "missing/A/33117-abe-vr.json"
@@ -20172,6 +20177,11 @@
       "file": "missing/A/274437-acid-reflux.json"
     },
     {
+      "igdb_id": 41206,
+      "game_name": "Acid Runner",
+      "file": "missing/A/41206-acid-runner.json"
+    },
+    {
       "igdb_id": 102877,
       "game_name": "Acid Spy",
       "file": "missing/A/102877-acid-spy.json"
@@ -22370,6 +22380,11 @@
       "igdb_id": 305193,
       "game_name": "Adventure 3",
       "file": "missing/A/305193-adventure-3.json"
+    },
+    {
+      "igdb_id": 41189,
+      "game_name": "Adventure 3: Mission Impossible",
+      "file": "missing/A/41189-adventure-3-mission-impossible.json"
     },
     {
       "igdb_id": 231275,
@@ -27460,6 +27475,11 @@
       "igdb_id": 48668,
       "game_name": "Ai Sensei no Oshiete: Watashi no Hoshi",
       "file": "missing/A/48668-ai-sensei-no-oshiete-watashi-no-hoshi.json"
+    },
+    {
+      "igdb_id": 41237,
+      "game_name": "Ai Senshi Nicol",
+      "file": "missing/A/41237-ai-senshi-nicol.json"
     },
     {
       "igdb_id": 45445,
@@ -72832,6 +72852,11 @@
       "file": "missing/B/44127-b-24.json"
     },
     {
+      "igdb_id": 41205,
+      "game_name": "B-Bobs",
+      "file": "missing/B/41205-b-bobs.json"
+    },
+    {
       "igdb_id": 20565,
       "game_name": "B-Boy",
       "file": "missing/B/20565-b-boy.json"
@@ -97857,6 +97882,16 @@
       "file": "missing/B/41330-big-challenge-go-go-bowling.json"
     },
     {
+      "igdb_id": 41239,
+      "game_name": "Big Challenge! Gun Fighter",
+      "file": "missing/B/41239-big-challenge-gun-fighter.json"
+    },
+    {
+      "igdb_id": 41242,
+      "game_name": "Big Challenge! Judo Senshuken",
+      "file": "missing/B/41242-big-challenge-judo-senshuken.json"
+    },
+    {
       "igdb_id": 96342,
       "game_name": "Big Chief",
       "file": "missing/B/96342-big-chief.json"
@@ -98360,6 +98395,11 @@
       "igdb_id": 42640,
       "game_name": "Big Sky Trooper",
       "file": "missing/B/42640-big-sky-trooper.json"
+    },
+    {
+      "igdb_id": 41194,
+      "game_name": "Big Sports 12",
+      "file": "missing/B/41194-big-sports-12.json"
     },
     {
       "igdb_id": 62741,
@@ -101660,6 +101700,11 @@
       "igdb_id": 44442,
       "game_name": "Bishoujo Janshi Suchie-Pai",
       "file": "missing/B/44442-bishoujo-janshi-suchie-pai.json"
+    },
+    {
+      "igdb_id": 41207,
+      "game_name": "Bishoujo Kachinuki Renju: Gomoku Narabe",
+      "file": "missing/B/41207-bishoujo-kachinuki-renju-gomoku-narabe.json"
     },
     {
       "igdb_id": 379665,
@@ -113885,6 +113930,11 @@
       "igdb_id": 330807,
       "game_name": "Bodycam Shooter 2025",
       "file": "missing/B/330807-bodycam-shooter-2025.json"
+    },
+    {
+      "igdb_id": 41238,
+      "game_name": "BodyConQuest I: Abakareshi Musume-tachi",
+      "file": "missing/B/41238-bodyconquest-i-abakareshi-musume-tachi.json"
     },
     {
       "igdb_id": 245249,
@@ -127010,6 +127060,11 @@
       "igdb_id": 103926,
       "game_name": "Bruce Lee Dragon Run",
       "file": "missing/B/103926-bruce-lee-dragon-run.json"
+    },
+    {
+      "igdb_id": 41203,
+      "game_name": "Bruce Lee II",
+      "file": "missing/B/41203-bruce-lee-ii.json"
     },
     {
       "igdb_id": 66740,
@@ -171022,6 +171077,11 @@
       "file": "missing/C/72142-clydes-revenge.json"
     },
     {
+      "igdb_id": 41204,
+      "game_name": "Clystron",
+      "file": "missing/C/41204-clystron.json"
+    },
+    {
       "igdb_id": 386923,
       "game_name": "CM-SS13",
       "file": "missing/C/386923-cm-ss13.json"
@@ -184775,6 +184835,11 @@
       "igdb_id": 333789,
       "game_name": "Cosmi: Forbidden Forest & Beyond",
       "file": "missing/C/333789-cosmi-forbidden-forest-and-beyond.json"
+    },
+    {
+      "igdb_id": 41191,
+      "game_name": "Cosmiads",
+      "file": "missing/C/41191-cosmiads.json"
     },
     {
       "igdb_id": 234124,
@@ -231562,6 +231627,11 @@
       "file": "missing/D/269745-deviens-miss-france.json"
     },
     {
+      "igdb_id": 41197,
+      "game_name": "Devil Assault",
+      "file": "missing/D/41197-devil-assault.json"
+    },
+    {
       "igdb_id": 85079,
       "game_name": "Devil Band: Rock the Underworld",
       "file": "missing/D/85079-devil-band-rock-the-underworld.json"
@@ -238010,6 +238080,11 @@
       "igdb_id": 303481,
       "game_name": "Dirty Love",
       "file": "missing/D/303481-dirty-love.json"
+    },
+    {
+      "igdb_id": 41235,
+      "game_name": "Dirty Pair: Project Eden",
+      "file": "missing/D/41235-dirty-pair-project-eden.json"
     },
     {
       "igdb_id": 104718,
@@ -295027,6 +295102,11 @@
       "file": "missing/E/39834-exciting-soccer-ii.json"
     },
     {
+      "igdb_id": 41236,
+      "game_name": "Exciting Soccer: Konami Cup",
+      "file": "missing/E/41236-exciting-soccer-konami-cup.json"
+    },
+    {
       "igdb_id": 180098,
       "game_name": "Excive",
       "file": "missing/E/180098-excive.json"
@@ -310155,6 +310235,11 @@
       "igdb_id": 92271,
       "game_name": "Faxion",
       "file": "missing/F/92271-faxion.json"
+    },
+    {
+      "igdb_id": 41200,
+      "game_name": "Fay: That Math Woman!",
+      "file": "missing/F/41200-fay-that-math-woman.json"
     },
     {
       "igdb_id": 199440,
@@ -447097,6 +447182,11 @@
       "file": "missing/I/300011-invaders-of-the-mummys-tomb.json"
     },
     {
+      "igdb_id": 41195,
+      "game_name": "Invaders Revenge",
+      "file": "missing/I/41195-invaders-revenge.json"
+    },
+    {
       "igdb_id": 306416,
       "game_name": "Invaders X",
       "file": "missing/I/306416-invaders-x.json"
@@ -525827,6 +525917,11 @@
       "file": "missing/M/252162-madou-monogatari-tower-of-the-magician.json"
     },
     {
+      "igdb_id": 41232,
+      "game_name": "Madou Senki: Deep Dungeon",
+      "file": "missing/M/41232-madou-senki-deep-dungeon.json"
+    },
+    {
       "igdb_id": 235095,
       "game_name": "Madoushi Lulba",
       "file": "missing/M/235095-madoushi-lulba.json"
@@ -555767,6 +555862,11 @@
       "file": "missing/M/19321-metagal.json"
     },
     {
+      "igdb_id": 41188,
+      "game_name": "Metagalactic Llamas Battle at the Edge of Time",
+      "file": "missing/M/41188-metagalactic-llamas-battle-at-the-edge-of-time.json"
+    },
+    {
       "igdb_id": 224526,
       "game_name": "Metagates",
       "file": "missing/M/224526-metagates.json"
@@ -574797,6 +574897,11 @@
       "file": "missing/M/147895-monkey-business.json"
     },
     {
+      "igdb_id": 41198,
+      "game_name": "Monkey Business",
+      "file": "missing/M/41198-monkey-business.json"
+    },
+    {
       "igdb_id": 323162,
       "game_name": "Monkey Catapult",
       "file": "missing/M/323162-monkey-catapult.json"
@@ -575855,6 +575960,11 @@
       "igdb_id": 330940,
       "game_name": "Monster Blast Infinity",
       "file": "missing/M/330940-monster-blast-infinity.json"
+    },
+    {
+      "igdb_id": 41193,
+      "game_name": "Monster Block",
+      "file": "missing/M/41193-monster-block.json"
     },
     {
       "igdb_id": 235236,
@@ -624002,6 +624112,11 @@
       "file": "missing/N/221095-number-99.json"
     },
     {
+      "igdb_id": 41201,
+      "game_name": "Number Builder",
+      "file": "missing/N/41201-number-builder.json"
+    },
+    {
       "igdb_id": 96048,
       "game_name": "Number Chain - Logic Puzzle",
       "file": "missing/N/96048-number-chain-logic-puzzle.json"
@@ -640675,6 +640790,11 @@
       "igdb_id": 395764,
       "game_name": "Otoca D'or",
       "file": "missing/O/395764-otoca-dor.json"
+    },
+    {
+      "igdb_id": 41234,
+      "game_name": "Otocky",
+      "file": "missing/O/41234-otocky.json"
     },
     {
       "igdb_id": 228629,
@@ -671087,6 +671207,11 @@
       "file": "missing/P/132517-piracrash.json"
     },
     {
+      "igdb_id": 41199,
+      "game_name": "Piracy",
+      "file": "missing/P/41199-piracy.json"
+    },
+    {
       "igdb_id": 176290,
       "game_name": "Piradice",
       "file": "missing/P/176290-piradice.json"
@@ -696715,6 +696840,11 @@
       "igdb_id": 268386,
       "game_name": "Pro Golfer Saru",
       "file": "missing/P/268386-pro-golfer-saru.json"
+    },
+    {
+      "igdb_id": 41243,
+      "game_name": "Pro Golfer Saru: Kage no Tournament",
+      "file": "missing/P/41243-pro-golfer-saru-kage-no-tournament.json"
     },
     {
       "igdb_id": 128347,
@@ -743255,6 +743385,11 @@
       "igdb_id": 126898,
       "game_name": "Robber's Horror",
       "file": "missing/R/126898-robbers-horror.json"
+    },
+    {
+      "igdb_id": 41202,
+      "game_name": "Robbers of the Lost Tomb",
+      "file": "missing/R/41202-robbers-of-the-lost-tomb.json"
     },
     {
       "igdb_id": 86717,
@@ -998537,6 +998672,11 @@
       "file": "missing/U/186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json"
     },
     {
+      "igdb_id": 41196,
+      "game_name": "Ultimate Adventure 4",
+      "file": "missing/U/41196-ultimate-adventure-4.json"
+    },
+    {
       "igdb_id": 242015,
       "game_name": "Ultimate Anime Jigsaw Puzzle",
       "file": "missing/U/242015-ultimate-anime-jigsaw-puzzle.json"
@@ -1016847,9 +1016987,89 @@
       "file": "missing/V/18586-videocart-20-schach.json"
     },
     {
+      "igdb_id": 41222,
+      "game_name": "Videocart-1: Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle",
+      "file": "missing/V/41222-videocart-1-tic-tac-toe-and-shooting-gallery-and-doodle-and-quadra-doodle.json"
+    },
+    {
+      "igdb_id": 41212,
+      "game_name": "Videocart-10: Maze, Cat and Mouse",
+      "file": "missing/V/41212-videocart-10-maze-cat-and-mouse.json"
+    },
+    {
+      "igdb_id": 41211,
+      "game_name": "Videocart-11: Backgammon, Acey-Deucey",
+      "file": "missing/V/41211-videocart-11-backgammon-acey-deucey.json"
+    },
+    {
+      "igdb_id": 41210,
+      "game_name": "Videocart-12: Baseball",
+      "file": "missing/V/41210-videocart-12-baseball.json"
+    },
+    {
+      "igdb_id": 41209,
+      "game_name": "Videocart-13: Robot War, Torpedo Alley",
+      "file": "missing/V/41209-videocart-13-robot-war-torpedo-alley.json"
+    },
+    {
+      "igdb_id": 41215,
+      "game_name": "Videocart-14: Sonar Search",
+      "file": "missing/V/41215-videocart-14-sonar-search.json"
+    },
+    {
+      "igdb_id": 41208,
+      "game_name": "Videocart-15: Memory Match",
+      "file": "missing/V/41208-videocart-15-memory-match.json"
+    },
+    {
+      "igdb_id": 41230,
+      "game_name": "Videocart-16: Dodge-It",
+      "file": "missing/V/41230-videocart-16-dodge-it.json"
+    },
+    {
+      "igdb_id": 41224,
+      "game_name": "Videocart-17: Pinball Challenge",
+      "file": "missing/V/41224-videocart-17-pinball-challenge.json"
+    },
+    {
+      "igdb_id": 41226,
+      "game_name": "Videocart-18: Hangman",
+      "file": "missing/V/41226-videocart-18-hangman.json"
+    },
+    {
+      "igdb_id": 41225,
+      "game_name": "Videocart-19: Checkers",
+      "file": "missing/V/41225-videocart-19-checkers.json"
+    },
+    {
       "igdb_id": 41221,
       "game_name": "Videocart-2: Desert Fox & Shooting Gallery",
       "file": "missing/V/41221-videocart-2-desert-fox-and-shooting-gallery.json"
+    },
+    {
+      "igdb_id": 41227,
+      "game_name": "Videocart-20: Video Whizball",
+      "file": "missing/V/41227-videocart-20-video-whizball.json"
+    },
+    {
+      "igdb_id": 41231,
+      "game_name": "Videocart-21: Bowling",
+      "file": "missing/V/41231-videocart-21-bowling.json"
+    },
+    {
+      "igdb_id": 41223,
+      "game_name": "Videocart-22: Slot Machine",
+      "file": "missing/V/41223-videocart-22-slot-machine.json"
+    },
+    {
+      "igdb_id": 41229,
+      "game_name": "Videocart-23: Galactic Space Wars",
+      "file": "missing/V/41229-videocart-23-galactic-space-wars.json"
+    },
+    {
+      "igdb_id": 41228,
+      "game_name": "Videocart-24: Pro Football",
+      "file": "missing/V/41228-videocart-24-pro-football.json"
     },
     {
       "igdb_id": 18603,
@@ -1016865,6 +1017085,36 @@
       "igdb_id": 245385,
       "game_name": "Videocart-27: Pac-Man",
       "file": "missing/V/245385-videocart-27-pac-man.json"
+    },
+    {
+      "igdb_id": 41220,
+      "game_name": "Videocart-3: Video Blackjack",
+      "file": "missing/V/41220-videocart-3-video-blackjack.json"
+    },
+    {
+      "igdb_id": 41218,
+      "game_name": "Videocart-4: Spitfire",
+      "file": "missing/V/41218-videocart-4-spitfire.json"
+    },
+    {
+      "igdb_id": 41219,
+      "game_name": "Videocart-5: Space War",
+      "file": "missing/V/41219-videocart-5-space-war.json"
+    },
+    {
+      "igdb_id": 41216,
+      "game_name": "Videocart-7: Math Quiz II - Multiplication & Division",
+      "file": "missing/V/41216-videocart-7-math-quiz-ii-multiplication-and-division.json"
+    },
+    {
+      "igdb_id": 41214,
+      "game_name": "Videocart-8: Magic Numbers - Mind Reader & Nim",
+      "file": "missing/V/41214-videocart-8-magic-numbers-mind-reader-and-nim.json"
+    },
+    {
+      "igdb_id": 41213,
+      "game_name": "Videocart-9: Drag Strip",
+      "file": "missing/V/41213-videocart-9-drag-strip.json"
     },
     {
       "igdb_id": 339093,
