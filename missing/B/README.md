@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
+| Barney: On Location - All Around Town | 73702 | [73702-barney-on-location-all-around-town.json](./73702-barney-on-location-all-around-town.json) |
 | Barney's Dream Cruise | 120908 | [120908-barneys-dream-cruise.json](./120908-barneys-dream-cruise.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
 | Battle Isle | 9030 | [9030-battle-isle.json](./9030-battle-isle.json) |
+| Battle Isle '93: The Moon of Chromos | 73687 | [73687-battle-isle-93-the-moon-of-chromos.json](./73687-battle-isle-93-the-moon-of-chromos.json) |
 | Battle Isle 2: Scenery CD - Titan's Legacy | 11102 | [11102-battle-isle-2-scenery-cd-titans-legacy.json](./11102-battle-isle-2-scenery-cd-titans-legacy.json) |
 | Battle Isle 2200 | 9031 | [9031-battle-isle-2200.json](./9031-battle-isle-2200.json) |
 | Battle Isle 2220: Shadow of the Emperor | 9032 | [9032-battle-isle-2220-shadow-of-the-emperor.json](./9032-battle-isle-2220-shadow-of-the-emperor.json) |
@@ -4730,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
+| Beyond the Titanic | 73704 | [73704-beyond-the-titanic.json](./73704-beyond-the-titanic.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
 | Beyond the Wall | 241424 | [241424-beyond-the-wall.json](./241424-beyond-the-wall.json) |
@@ -7827,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
+| Blue Sky: Acceptable Casualties | 73706 | [73706-blue-sky-acceptable-casualties.json](./73706-blue-sky-acceptable-casualties.json) |
 | Blue Snake Adventures: Master Level | 171332 | [171332-blue-snake-adventures-master-level.json](./171332-blue-snake-adventures-master-level.json) |
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
