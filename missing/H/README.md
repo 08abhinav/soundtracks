@@ -6965,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
 | Horsez | 248608 | [248608-horsez.json](./248608-horsez.json) |
+| Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
