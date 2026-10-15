@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
+| Action Man: Raid on Island X | 72539 | [72539-action-man-raid-on-island-x.json](./72539-action-man-raid-on-island-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
 | Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
+| Aerial Strike: The Yager Missions | 72587 | [72587-aerial-strike-the-yager-missions.json](./72587-aerial-strike-the-yager-missions.json) |
 | Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
 | Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
@@ -9068,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
+| Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
