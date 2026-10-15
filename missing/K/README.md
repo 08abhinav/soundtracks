@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
+| Kart Drift | 36879 | [36879-kart-drift.json](./36879-kart-drift.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayalina | 67911 | [67911-kayalina.json](./67911-kayalina.json) |
 | Kayden Garth | 229608 | [229608-kayden-garth.json](./229608-kayden-garth.json) |
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
+| Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | KayserRotz | 235643 | [235643-kayserrotz.json](./235643-kayserrotz.json) |
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
@@ -2631,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
+| Kirel | 36917 | [36917-kirel.json](./36917-kirel.json) |
 | Kiri Desu ne | 220291 | [220291-kiri-desu-ne.json](./220291-kiri-desu-ne.json) |
 | Kirigami | 183384 | [183384-kirigami.json](./183384-kirigami.json) |
 | Kirikou | 220785 | [220785-kirikou.json](./220785-kirikou.json) |
@@ -4122,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
+| Kunio-kun no Dodgeball Da yo Zenin Shuugou!: Tournament Special | 36899 | [36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json](./36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json) |
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
@@ -4278,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
+| Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
