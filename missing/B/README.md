@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
+| B-Bobs | 41205 | [41205-b-bobs.json](./41205-b-bobs.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-Daman | 325729 | [325729-b-daman.json](./325729-b-daman.json) |
@@ -5029,6 +5030,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Challenge Golf: Tokyo Yomiuri Country Club-hen | 286049 | [286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json](./286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json) |
 | Big Challenge! Dogfight Spirit | 41331 | [41331-big-challenge-dogfight-spirit.json](./41331-big-challenge-dogfight-spirit.json) |
 | Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
+| Big Challenge! Gun Fighter | 41239 | [41239-big-challenge-gun-fighter.json](./41239-big-challenge-gun-fighter.json) |
+| Big Challenge! Judo Senshuken | 41242 | [41242-big-challenge-judo-senshuken.json](./41242-big-challenge-judo-senshuken.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
@@ -5130,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
 | Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
+| Big Sports 12 | 41194 | [41194-big-sports-12.json](./41194-big-sports-12.json) |
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Strike Bowling | 43892 | [43892-big-strike-bowling.json](./43892-big-strike-bowling.json) |
 | Big Striker | 39817 | [39817-big-striker.json](./39817-big-striker.json) |
@@ -5790,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Hanafuda Club Vol.2: Koikoi Bakappana-hen | 41279 | [41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json](./41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json) |
 | Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special | 45417 | [45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json](./45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json) |
 | Bishoujo Janshi Suchie-Pai | 44442 | [44442-bishoujo-janshi-suchie-pai.json](./44442-bishoujo-janshi-suchie-pai.json) |
+| Bishoujo Kachinuki Renju: Gomoku Narabe | 41207 | [41207-bishoujo-kachinuki-renju-gomoku-narabe.json](./41207-bishoujo-kachinuki-renju-gomoku-narabe.json) |
 | Bishoujo Mangekyou Ibun: Yuki Onna | 379665 | [379665-bishoujo-mangekyou-ibun-yuki-onna.json](./379665-bishoujo-mangekyou-ibun-yuki-onna.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
@@ -8235,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
+| BodyConQuest I: Abakareshi Musume-tachi | 41238 | [41238-bodyconquest-i-abakareshi-musume-tachi.json](./41238-bodyconquest-i-abakareshi-musume-tachi.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
 | Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
@@ -10860,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
 | Bruce Lee Dragon Run | 103926 | [103926-bruce-lee-dragon-run.json](./103926-bruce-lee-dragon-run.json) |
+| Bruce Lee II | 41203 | [41203-bruce-lee-ii.json](./41203-bruce-lee-ii.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
