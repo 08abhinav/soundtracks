@@ -3333,8 +3333,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
+| Remington Great American Bird Hunt | 51134 | [51134-remington-great-american-bird-hunt.json](./51134-remington-great-american-bird-hunt.json) |
 | Remington Super Slam Hunting Africa | 10764 | [10764-remington-super-slam-hunting-africa.json](./10764-remington-super-slam-hunting-africa.json) |
 | Remington Super Slam Hunting Alaska | 10765 | [10765-remington-super-slam-hunting-alaska.json](./10765-remington-super-slam-hunting-alaska.json) |
+| Remington Super Slam Hunting: North America | 51137 | [51137-remington-super-slam-hunting-north-america.json](./51137-remington-super-slam-hunting-north-america.json) |
 | Remington Upland Game Hunter | 319121 | [319121-remington-upland-game-hunter.json](./319121-remington-upland-game-hunter.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
@@ -5163,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
+| Ringling Brothers and Barnum & Bailey | 51136 | [51136-ringling-brothers-and-barnum-and-bailey.json](./51136-ringling-brothers-and-barnum-and-bailey.json) |
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
@@ -8341,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
+| Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
