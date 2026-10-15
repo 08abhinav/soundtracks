@@ -4510,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loadout: Premium Edition | 118718 | [118718-loadout-premium-edition.json](./118718-loadout-premium-edition.json) |
+| Loadstar: The Legend of Tully Bodine | 46424 | [46424-loadstar-the-legend-of-tully-bodine.json](./46424-loadstar-the-legend-of-tully-bodine.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Riders | 387547 | [387547-log-riders.json](./387547-log-riders.json) |
 | Log Run | 317429 | [317429-log-run.json](./317429-log-run.json) |
+| LOG the game! | 46470 | [46470-log-the-game.json](./46470-log-the-game.json) |
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
