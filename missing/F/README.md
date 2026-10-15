@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
+| Fight Knight | 41814 | [41814-fight-knight.json](./41814-fight-knight.json) |
 | Fight League | 55822 | [55822-fight-league.json](./55822-fight-league.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
+| Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 158981 | [158981-final-fantasy-ii.json](./158981-final-fantasy-ii.json) |
@@ -3470,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
+| Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
 | Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
 | Final Fantasy V | 158984 | [158984-final-fantasy-v.json](./158984-final-fantasy-v.json) |
@@ -3531,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 HD Remaster | 14144 | [14144-final-fantasy-x-x-2-hd-remaster.json](./14144-final-fantasy-x-x-2-hd-remaster.json) |
 | Final Fantasy X/X-2 HD Remaster: Collector's Edition | 147086 | [147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json](./147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json) |
+| Final Fantasy X/X-2 HD Remaster: Limited Edition | 41836 | [41836-final-fantasy-x-x-2-hd-remaster-limited-edition.json](./41836-final-fantasy-x-x-2-hd-remaster-limited-edition.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Braver | 176843 | [176843-final-fantasy-xi-braver.json](./176843-final-fantasy-xi-braver.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
@@ -3549,9 +3553,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
 | Final Fantasy XIII Trilogy | 112093 | [112093-final-fantasy-xiii-trilogy.json](./112093-final-fantasy-xiii-trilogy.json) |
+| Final Fantasy XIII-2: Collector's Edition | 41834 | [41834-final-fantasy-xiii-2-collectors-edition.json](./41834-final-fantasy-xiii-2-collectors-edition.json) |
 | Final Fantasy XIII-2: Limited Collector's Edition | 41845 | [41845-final-fantasy-xiii-2-limited-collectors-edition.json](./41845-final-fantasy-xiii-2-limited-collectors-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
+| Final Fantasy XIII: Limited Collector's Edition | 41840 | [41840-final-fantasy-xiii-limited-collectors-edition.json](./41840-final-fantasy-xiii-limited-collectors-edition.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Collector's Edition | 307776 | [307776-final-fantasy-xiv-online-complete-collectors-edition.json](./307776-final-fantasy-xiv-online-complete-collectors-edition.json) |
@@ -3605,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Dimensions II | 74965 | [74965-final-fantasy-dimensions-ii.json](./74965-final-fantasy-dimensions-ii.json) |
 | Final Fantasy: Economic Collapse | 345622 | [345622-final-fantasy-economic-collapse.json](./345622-final-fantasy-economic-collapse.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
+| Final Fantasy: Explorers - Collector's Edition | 41831 | [41831-final-fantasy-explorers-collectors-edition.json](./41831-final-fantasy-explorers-collectors-edition.json) |
 | Final Fantasy: Legend of Balance | 222978 | [222978-final-fantasy-legend-of-balance.json](./222978-final-fantasy-legend-of-balance.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
@@ -5182,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
 | Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
+| Fleet Commander II | 41805 | [41805-fleet-commander-ii.json](./41805-fleet-commander-ii.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
