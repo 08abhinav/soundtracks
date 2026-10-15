@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
+| The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
@@ -11772,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stalked 4 | 416802 | [416802-the-stalked-4.json](./416802-the-stalked-4.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
+| The Standing Stones | 24786 | [24786-the-standing-stones.json](./24786-the-standing-stones.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
@@ -13277,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
+| The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
@@ -17904,6 +17907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
+| Tortuga: Pirates of the New World | 24759 | [24759-tortuga-pirates-of-the-new-world.json](./24759-tortuga-pirates-of-the-new-world.json) |
 | Tortuga: Two Treasures | 21394 | [21394-tortuga-two-treasures.json](./21394-tortuga-two-treasures.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
@@ -20940,6 +20944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Isle | 92402 | [92402-treasure-isle.json](./92402-treasure-isle.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
+| Treasure Masters, Inc. | 24771 | [24771-treasure-masters-inc.json](./24771-treasure-masters-inc.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
@@ -21676,6 +21681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
+| Tropical Farm | 24738 | [24738-tropical-farm.json](./24738-tropical-farm.json) |
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
@@ -22603,6 +22609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
+| TV Manager 2: Premium version | 24733 | [24733-tv-manager-2-premium-version.json](./24733-tv-manager-2-premium-version.json) |
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV School House II: Math Fun | 94125 | [94125-tv-school-house-ii-math-fun.json](./94125-tv-school-house-ii-math-fun.json) |
