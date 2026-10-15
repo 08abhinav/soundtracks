@@ -5607,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
+| Lost Legends: The Pharaoh's Tomb | 43135 | [43135-lost-legends-the-pharaohs-tomb.json](./43135-lost-legends-the-pharaohs-tomb.json) |
 | Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Letters | 110909 | [110909-lost-letters.json](./110909-lost-letters.json) |
@@ -6611,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 120154 | [120154-luna.json](./120154-luna.json) |
 | Luna | 172058 | [172058-luna.json](./172058-luna.json) |
 | Luna | 197624 | [197624-luna.json](./197624-luna.json) |
+| Luna | 43166 | [43166-luna.json](./43166-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
 | Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
@@ -6879,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
 | Luxo Buddies | 106427 | [106427-luxo-buddies.json](./106427-luxo-buddies.json) |
 | Luxo Buddies: Expansion Pack 1 | 226877 | [226877-luxo-buddies-expansion-pack-1.json](./226877-luxo-buddies-expansion-pack-1.json) |
+| Luxocraft | 43168 | [43168-luxocraft.json](./43168-luxocraft.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
