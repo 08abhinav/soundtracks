@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
+| Saints Row Ultimate Franchise | 25500 | [25500-saints-row-ultimate-franchise.json](./25500-saints-row-ultimate-franchise.json) |
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
+| Screwball | 25498 | [25498-screwball.json](./25498-screwball.json) |
 | Screwball | 356589 | [356589-screwball.json](./356589-screwball.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
@@ -5367,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
+| Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
 | Sheepy: A Short Adventure | 152436 | [152436-sheepy-a-short-adventure.json](./152436-sheepy-a-short-adventure.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
@@ -5470,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd Planet | 280124 | [280124-shepherd-planet.json](./280124-shepherd-planet.json) |
+| Shepherd Slaughter | 25540 | [25540-shepherd-slaughter.json](./25540-shepherd-slaughter.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
@@ -9468,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
 | Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
+| Slot Quest: Wild West Shootout | 25537 | [25537-slot-quest-wild-west-shootout.json](./25537-slot-quest-wild-west-shootout.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
 | Slot Shots Pinball 2 | 235657 | [235657-slot-shots-pinball-2.json](./235657-slot-shots-pinball-2.json) |
 | Slot Shots Pinball Collection | 197571 | [197571-slot-shots-pinball-collection.json](./197571-slot-shots-pinball-collection.json) |
