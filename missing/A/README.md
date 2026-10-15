@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
+| A Topsy Turvy Life: Turvy Drops | 66578 | [66578-a-topsy-turvy-life-turvy-drops.json](./66578-a-topsy-turvy-life-turvy-drops.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Total War Saga: Troy - Ajax & Diomedes | 166274 | [166274-a-total-war-saga-troy-ajax-and-diomedes.json](./166274-a-total-war-saga-troy-ajax-and-diomedes.json) |
 | A Total War Saga: Troy - Amazons | 166273 | [166273-a-total-war-saga-troy-amazons.json](./166273-a-total-war-saga-troy-amazons.json) |
@@ -5049,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet | 370480 | [370480-alphabet.json](./370480-alphabet.json) |
+| Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
@@ -7850,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
 | AquaNimble | 32167 | [32167-aquanimble.json](./32167-aquanimble.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
+| Aquanoid 3: 3D | 66554 | [66554-aquanoid-3-3d.json](./66554-aquanoid-3-3d.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
@@ -8008,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
+| Arc of Doom | 66571 | [66571-arc-of-doom.json](./66571-arc-of-doom.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
