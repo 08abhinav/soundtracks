@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
+| Eternal Night: Realm of Souls | 25499 | [25499-eternal-night-realm-of-souls.json](./25499-eternal-night-realm-of-souls.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
+| Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
