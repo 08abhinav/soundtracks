@@ -1297,6 +1297,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative_Space | 114547 | [114547-negative-space.json](./114547-negative-space.json) |
 | Negative: The Way of Shinobi | 143331 | [143331-negative-the-way-of-shinobi.json](./143331-negative-the-way-of-shinobi.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
+| Negima! Magister Negi Magi: 1 Jikan-me - Okochama-sensei ha Mahoutsukai! | 59347 | [59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json](./59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json) |
+| Negima! Magister Negi Magi: 2 Jikan-me - Tatakau Otome-tachi! Mahora Daiundoukai SP | 59346 | [59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json](./59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json) |
 | Negima!? Magister Negi Magi: Chou Mahora Taisen Cut-iin, Keiyaku Shikkou Dechai-masuu | 79524 | [79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json](./79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
@@ -3625,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
 | NinjaFT | 237426 | [237426-ninjaft.json](./237426-ninjaft.json) |
+| NinjaGo Endless Runner | 59303 | [59303-ninjago-endless-runner.json](./59303-ninjago-endless-runner.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
