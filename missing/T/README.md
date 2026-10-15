@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
+| Tengai Makyou: Kabuki Ittou Ryoudan | 37604 | [37604-tengai-makyou-kabuki-ittou-ryoudan.json](./37604-tengai-makyou-kabuki-ittou-ryoudan.json) |
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
 | The Dwarves: Deluxe Edition | 53727 | [53727-the-dwarves-deluxe-edition.json](./53727-the-dwarves-deluxe-edition.json) |
 | The Dwarves: Digital Deluxe Edition | 53728 | [53728-the-dwarves-digital-deluxe-edition.json](./53728-the-dwarves-digital-deluxe-edition.json) |
+| The Dynastic Hero | 37601 | [37601-the-dynastic-hero.json](./37601-the-dynastic-hero.json) |
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
@@ -20732,6 +20734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine 3: The Sea of Flavours | 416180 | [416180-travel-cuisine-3-the-sea-of-flavours.json](./416180-travel-cuisine-3-the-sea-of-flavours.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
+| Travel Eple | 37621 | [37621-travel-eple.json](./37621-travel-eple.json) |
 | Travel Epuru | 309012 | [309012-travel-epuru.json](./309012-travel-epuru.json) |
 | Travel Games for Dummies | 84458 | [84458-travel-games-for-dummies.json](./84458-travel-games-for-dummies.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
