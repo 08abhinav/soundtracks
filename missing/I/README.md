@@ -1998,7 +1998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Silence Waits | 377211 | [377211-in-silence-waits.json](./377211-in-silence-waits.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
-| In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
 | In Sound Mind: Deluxe Edition | 146132 | [146132-in-sound-mind-deluxe-edition.json](./146132-in-sound-mind-deluxe-edition.json) |
 | In Sound Mind: Digital Deluxe Edition | 173101 | [173101-in-sound-mind-digital-deluxe-edition.json](./173101-in-sound-mind-digital-deluxe-edition.json) |
 | In Space | 237275 | [237275-in-space.json](./237275-in-space.json) |
