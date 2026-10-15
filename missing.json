@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T14:36:59.558Z",
-  "total_missing": 215672,
+  "generated_at": "2026-10-15T14:51:27.622Z",
+  "total_missing": 215722,
   "games": [
     {
       "igdb_id": 191680,
@@ -47942,6 +47942,11 @@
       "file": "missing/A/83146-anthesis.json"
     },
     {
+      "igdb_id": 38204,
+      "game_name": "Anthology",
+      "file": "missing/A/38204-anthology.json"
+    },
+    {
       "igdb_id": 120686,
       "game_name": "Anthology of Fear",
       "file": "missing/A/120686-anthology-of-fear.json"
@@ -86452,6 +86457,11 @@
       "file": "missing/B/370801-battle-puzzle-2048-wicked-witches.json"
     },
     {
+      "igdb_id": 38161,
+      "game_name": "Battle Racers",
+      "file": "missing/B/38161-battle-racers.json"
+    },
+    {
       "igdb_id": 138719,
       "game_name": "Battle Racing Stars",
       "file": "missing/B/138719-battle-racing-stars.json"
@@ -86820,6 +86830,11 @@
       "igdb_id": 336704,
       "game_name": "Battle Street",
       "file": "missing/B/336704-battle-street.json"
+    },
+    {
+      "igdb_id": 38185,
+      "game_name": "Battle Submarine",
+      "file": "missing/B/38185-battle-submarine.json"
     },
     {
       "igdb_id": 305021,
@@ -98210,6 +98225,16 @@
       "igdb_id": 212887,
       "game_name": "Big Ice Tower Tiny Square",
       "file": "missing/B/212887-big-ice-tower-tiny-square.json"
+    },
+    {
+      "igdb_id": 38158,
+      "game_name": "Big Ichigeki! Pachi-Slot Daikouryaku",
+      "file": "missing/B/38158-big-ichigeki-pachi-slot-daikouryaku.json"
+    },
+    {
+      "igdb_id": 38157,
+      "game_name": "Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection",
+      "file": "missing/B/38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json"
     },
     {
       "igdb_id": 137596,
@@ -127937,6 +127962,11 @@
       "file": "missing/B/322561-bs-zelda-restoration-map-2.json"
     },
     {
+      "igdb_id": 38156,
+      "game_name": "BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari",
+      "file": "missing/B/38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json"
+    },
+    {
       "igdb_id": 329932,
       "game_name": "BS2",
       "file": "missing/B/329932-bs2.json"
@@ -141267,6 +141297,11 @@
       "file": "missing/C/38340-captain-tsubasa-iii-koutei-no-chousen.json"
     },
     {
+      "igdb_id": 38184,
+      "game_name": "Captain Tsubasa IV: Pro no Rival-tachi",
+      "file": "missing/C/38184-captain-tsubasa-iv-pro-no-rival-tachi.json"
+    },
+    {
       "igdb_id": 45320,
       "game_name": "Captain Tsubasa J: Get in the Tomorrow",
       "file": "missing/C/45320-captain-tsubasa-j-get-in-the-tomorrow.json"
@@ -151372,6 +151407,11 @@
       "file": "missing/C/301803-cazzarion-zombie-drive.json"
     },
     {
+      "igdb_id": 38154,
+      "game_name": "CB Chara Wars: Ushinawareta Gag",
+      "file": "missing/C/38154-cb-chara-wars-ushinawareta-gag.json"
+    },
+    {
       "igdb_id": 321783,
       "game_name": "CBeebies Playtime Island: Game",
       "file": "missing/C/321783-cbeebies-playtime-island-game.json"
@@ -157947,9 +157987,19 @@
       "file": "missing/C/218369-chibi-maruko-chan-no-okashi-de-piihyarara.json"
     },
     {
+      "igdb_id": 38153,
+      "game_name": "Chibi Maruko-chan: Harikiri 365-nichi no Maki",
+      "file": "missing/C/38153-chibi-maruko-chan-harikiri-365-nichi-no-maki.json"
+    },
+    {
       "igdb_id": 284443,
       "game_name": "Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki",
       "file": "missing/C/284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json"
+    },
+    {
+      "igdb_id": 38152,
+      "game_name": "Chibi Maruko-chan: Mezase! Minami no Island!!",
+      "file": "missing/C/38152-chibi-maruko-chan-mezase-minami-no-island.json"
     },
     {
       "igdb_id": 79542,
@@ -159790,6 +159840,11 @@
       "igdb_id": 303730,
       "game_name": "ChingMing",
       "file": "missing/C/303730-chingming.json"
+    },
+    {
+      "igdb_id": 38151,
+      "game_name": "Chinhai",
+      "file": "missing/C/38151-chinhai.json"
     },
     {
       "igdb_id": 299821,
@@ -167662,6 +167717,11 @@
       "file": "missing/C/317238-classic-racing-pack-moto-roader-mc-riders-spirits.json"
     },
     {
+      "igdb_id": 38150,
+      "game_name": "Classic Road",
+      "file": "missing/C/38150-classic-road.json"
+    },
+    {
       "igdb_id": 86701,
       "game_name": "Classic Snake",
       "file": "missing/C/86701-classic-snake.json"
@@ -169600,6 +169660,11 @@
       "igdb_id": 285156,
       "game_name": "Clockwerk",
       "file": "missing/C/285156-clockwerk.json"
+    },
+    {
+      "igdb_id": 38198,
+      "game_name": "ClockWerx",
+      "file": "missing/C/38198-clockwerx.json"
     },
     {
       "igdb_id": 389546,
@@ -179092,6 +179157,11 @@
       "file": "missing/C/348901-computer-manufacturer.json"
     },
     {
+      "igdb_id": 38148,
+      "game_name": "Computer Nouryoku Kaiseki: Ultra Baken",
+      "file": "missing/C/38148-computer-nouryoku-kaiseki-ultra-baken.json"
+    },
+    {
       "igdb_id": 242573,
       "game_name": "Computer Othello",
       "file": "missing/C/242573-computer-othello.json"
@@ -182327,6 +182397,11 @@
       "file": "missing/C/58464-conveni-dream.json"
     },
     {
+      "igdb_id": 38147,
+      "game_name": "Conveni Wars: Barcode Battler Senki - Super Senshi Shutsugeki seyo!",
+      "file": "missing/C/38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json"
+    },
+    {
       "igdb_id": 123956,
       "game_name": "Convenience Store",
       "file": "missing/C/123956-convenience-store.json"
@@ -184315,6 +184390,11 @@
       "igdb_id": 315506,
       "game_name": "Coromon: Rogue Planet",
       "file": "missing/C/315506-coromon-rogue-planet.json"
+    },
+    {
+      "igdb_id": 38199,
+      "game_name": "Coron Land",
+      "file": "missing/C/38199-coron-land.json"
     },
     {
       "igdb_id": 32228,
@@ -190330,6 +190410,11 @@
       "igdb_id": 346024,
       "game_name": "Crayon Shin-chan: Guu Choki Panic",
       "file": "missing/C/346024-crayon-shin-chan-guu-choki-panic.json"
+    },
+    {
+      "igdb_id": 38203,
+      "game_name": "Crayon Shin-chan: Nagagutsu Dobon!!",
+      "file": "missing/C/38203-crayon-shin-chan-nagagutsu-dobon.json"
     },
     {
       "igdb_id": 269680,
@@ -245600,6 +245685,16 @@
       "igdb_id": 104003,
       "game_name": "Dolphy Dash",
       "file": "missing/D/104003-dolphy-dash.json"
+    },
+    {
+      "igdb_id": 38208,
+      "game_name": "Dolucky no A.League Soccer",
+      "file": "missing/D/38208-dolucky-no-a-league-soccer.json"
+    },
+    {
+      "igdb_id": 38209,
+      "game_name": "Dolucky no Kusayakiu",
+      "file": "missing/D/38209-dolucky-no-kusayakiu.json"
     },
     {
       "igdb_id": 248022,
@@ -346112,6 +346207,11 @@
       "file": "missing/F/86007-futbol.json"
     },
     {
+      "igdb_id": 38187,
+      "game_name": "Futbol Argentino 96",
+      "file": "missing/F/38187-futbol-argentino-96.json"
+    },
+    {
       "igdb_id": 194396,
       "game_name": "Futbol Break: Head to Head",
       "file": "missing/F/194396-futbol-break-head-to-head.json"
@@ -346120,6 +346220,11 @@
       "igdb_id": 217959,
       "game_name": "Fútbol Club Barcelona",
       "file": "missing/F/217959-futbol-club-barcelona.json"
+    },
+    {
+      "igdb_id": 38200,
+      "game_name": "Futbol Colombiano 96",
+      "file": "missing/F/38200-futbol-colombiano-96.json"
     },
     {
       "igdb_id": 324992,
@@ -387202,6 +387307,16 @@
       "file": "missing/H/115480-hakuisei-renai-shoukougun.json"
     },
     {
+      "igdb_id": 38173,
+      "game_name": "Hakunetsu Pro Yakyuu '94 Ganba League 3",
+      "file": "missing/H/38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json"
+    },
+    {
+      "igdb_id": 38174,
+      "game_name": "Hakunetsu Pro Yakyuu Ganba League '93",
+      "file": "missing/H/38174-hakunetsu-pro-yakyuu-ganba-league-93.json"
+    },
+    {
       "igdb_id": 287896,
       "game_name": "Hakuoki Ibun: Berezinskii no Majo",
       "file": "missing/H/287896-hakuoki-ibun-berezinskii-no-majo.json"
@@ -425137,6 +425252,16 @@
       "file": "missing/H/375935-human-farm.json"
     },
     {
+      "igdb_id": 38172,
+      "game_name": "Human Grand Prix III: F1 Triple Battle",
+      "file": "missing/H/38172-human-grand-prix-iii-f1-triple-battle.json"
+    },
+    {
+      "igdb_id": 38171,
+      "game_name": "Human Grand Prix IV: F1 Dream Battle",
+      "file": "missing/H/38171-human-grand-prix-iv-f1-dream-battle.json"
+    },
+    {
       "igdb_id": 346177,
       "game_name": "Human Heritage",
       "file": "missing/H/346177-human-heritage.json"
@@ -439727,6 +439852,11 @@
       "file": "missing/I/376247-inazuma-eleven-victory-road-deluxe-edition.json"
     },
     {
+      "igdb_id": 38170,
+      "game_name": "Inazuma Serve Da!! Super Beach Volley",
+      "file": "missing/I/38170-inazuma-serve-da-super-beach-volley.json"
+    },
+    {
       "igdb_id": 181387,
       "game_name": "Inbetween a Land of Grass",
       "file": "missing/I/181387-inbetween-a-land-of-grass.json"
@@ -454247,6 +454377,11 @@
       "file": "missing/J/214534-jaleco-arcade-1.json"
     },
     {
+      "igdb_id": 38169,
+      "game_name": "Jaleco Rally: Big Run - The Supreme 4WD Challenge",
+      "file": "missing/J/38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json"
+    },
+    {
       "igdb_id": 338551,
       "game_name": "Jaleco Sports: Bases Loaded",
       "file": "missing/J/338551-jaleco-sports-bases-loaded.json"
@@ -454625,6 +454760,11 @@
       "igdb_id": 177450,
       "game_name": "Jammery",
       "file": "missing/J/177450-jammery.json"
+    },
+    {
+      "igdb_id": 38168,
+      "game_name": "Jammes",
+      "file": "missing/J/38168-jammes.json"
     },
     {
       "igdb_id": 126016,
@@ -455895,6 +456035,11 @@
       "igdb_id": 223394,
       "game_name": "JB Hunter: Adventure",
       "file": "missing/J/223394-jb-hunter-adventure.json"
+    },
+    {
+      "igdb_id": 38167,
+      "game_name": "JB: The Super Bass",
+      "file": "missing/J/38167-jb-the-super-bass.json"
     },
     {
       "igdb_id": 222836,
@@ -469382,6 +469527,11 @@
       "file": "missing/K/44858-kamen-rider-ryuki.json"
     },
     {
+      "igdb_id": 38166,
+      "game_name": "Kamen Rider SD: Shutsugeki!! Rider Machine",
+      "file": "missing/K/38166-kamen-rider-sd-shutsugeki-rider-machine.json"
+    },
+    {
       "igdb_id": 43862,
       "game_name": "Kamen Rider V3",
       "file": "missing/K/43862-kamen-rider-v3.json"
@@ -473705,6 +473855,11 @@
       "igdb_id": 282500,
       "game_name": "Kenyuu Densetsu Yaiba",
       "file": "missing/K/282500-kenyuu-densetsu-yaiba.json"
+    },
+    {
+      "igdb_id": 38181,
+      "game_name": "Kenyuu Densetsu Yaiba",
+      "file": "missing/K/38181-kenyuu-densetsu-yaiba.json"
     },
     {
       "igdb_id": 168124,
@@ -588342,6 +588497,11 @@
       "file": "missing/M/140059-multi-theft-auto.json"
     },
     {
+      "igdb_id": 38192,
+      "game_name": "Multi-Purpose Arcade Combat Simulator",
+      "file": "missing/M/38192-multi-purpose-arcade-combat-simulator.json"
+    },
+    {
       "igdb_id": 300271,
       "game_name": "Multi's Going Out",
       "file": "missing/M/300271-multis-going-out.json"
@@ -599575,6 +599735,11 @@
       "igdb_id": 37914,
       "game_name": "Nakajima Satoru Kanshuu: F-1 Hero '94",
       "file": "missing/N/37914-nakajima-satoru-kanshuu-f-1-hero-94.json"
+    },
+    {
+      "igdb_id": 38205,
+      "game_name": "Nakajima Satoru Kanshuu: Super F-1 Hero",
+      "file": "missing/N/38205-nakajima-satoru-kanshuu-super-f-1-hero.json"
     },
     {
       "igdb_id": 48302,
@@ -612660,6 +612825,16 @@
       "igdb_id": 174298,
       "game_name": "Niche: Breed and Evolve",
       "file": "missing/N/174298-niche-breed-and-evolve.json"
+    },
+    {
+      "igdb_id": 38165,
+      "game_name": "Nichibutsu Arcade Classics",
+      "file": "missing/N/38165-nichibutsu-arcade-classics.json"
+    },
+    {
+      "igdb_id": 38180,
+      "game_name": "Nichibutsu Arcade Classics 2: Heiankyo Alien",
+      "file": "missing/N/38180-nichibutsu-arcade-classics-2-heiankyo-alien.json"
     },
     {
       "igdb_id": 37906,
@@ -630325,6 +630500,16 @@
       "igdb_id": 16618,
       "game_name": "Ōkamiden",
       "file": "missing/0-9/16618-okamiden.json"
+    },
+    {
+      "igdb_id": 38163,
+      "game_name": "Okamoto Ayako to Match Play Golf",
+      "file": "missing/O/38163-okamoto-ayako-to-match-play-golf.json"
+    },
+    {
+      "igdb_id": 38179,
+      "game_name": "Okamoto Ayako to Match Play Golf",
+      "file": "missing/O/38179-okamoto-ayako-to-match-play-golf.json"
     },
     {
       "igdb_id": 218955,
@@ -695767,6 +695952,11 @@
       "file": "missing/P/127847-princess-maker-faery-tales-come-true.json"
     },
     {
+      "igdb_id": 38182,
+      "game_name": "Princess Maker: Legend of Another World",
+      "file": "missing/P/38182-princess-maker-legend-of-another-world.json"
+    },
+    {
       "igdb_id": 383149,
       "game_name": "Princess Miner",
       "file": "missing/P/383149-princess-miner.json"
@@ -697620,6 +697810,11 @@
       "igdb_id": 37875,
       "game_name": "Pro Mahjong Kiwame II",
       "file": "missing/P/37875-pro-mahjong-kiwame-ii.json"
+    },
+    {
+      "igdb_id": 38201,
+      "game_name": "Pro Mahjong Kiwame III",
+      "file": "missing/P/38201-pro-mahjong-kiwame-iii.json"
     },
     {
       "igdb_id": 97879,
@@ -772587,6 +772782,16 @@
       "file": "missing/S/186595-sd-hiryuu-no-ken-gaiden-ex.json"
     },
     {
+      "igdb_id": 38159,
+      "game_name": "SD Kidou Senshi Gundam 2",
+      "file": "missing/S/38159-sd-kidou-senshi-gundam-2.json"
+    },
+    {
+      "igdb_id": 38160,
+      "game_name": "SD Kidou Senshi Gundam: V Sakusen Shidou",
+      "file": "missing/S/38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json"
+    },
+    {
       "igdb_id": 66206,
       "game_name": "SD Lupin Sansei: Kinko Yaburi Daisakusen",
       "file": "missing/S/66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json"
@@ -786990,6 +787195,11 @@
       "igdb_id": 373700,
       "game_name": "Shìjiè Zhīwài de Yúrén Chuán",
       "file": "missing/S/373700-shijie-zhiwai-de-yuren-chuan.json"
+    },
+    {
+      "igdb_id": 38202,
+      "game_name": "Shijou Saikyou League Serie A: Ace Striker",
+      "file": "missing/S/38202-shijou-saikyou-league-serie-a-ace-striker.json"
     },
     {
       "igdb_id": 64664,
@@ -865477,6 +865687,11 @@
       "file": "missing/S/34800-super-hipster-lumberjack.json"
     },
     {
+      "igdb_id": 38193,
+      "game_name": "Super Hockey '94",
+      "file": "missing/S/38193-super-hockey-94.json"
+    },
+    {
       "igdb_id": 109642,
       "game_name": "Super Hockey Ball",
       "file": "missing/S/109642-super-hockey-ball.json"
@@ -865570,6 +865785,11 @@
       "igdb_id": 291599,
       "game_name": "Super Icarus",
       "file": "missing/S/291599-super-icarus.json"
+    },
+    {
+      "igdb_id": 38196,
+      "game_name": "Super Ice Hockey",
+      "file": "missing/S/38196-super-ice-hockey.json"
     },
     {
       "igdb_id": 193502,
@@ -866420,6 +866640,11 @@
       "igdb_id": 71705,
       "game_name": "Super Kreml Kart Super Rally",
       "file": "missing/S/71705-super-kreml-kart-super-rally.json"
+    },
+    {
+      "igdb_id": 38194,
+      "game_name": "Super Kyoutei 2",
+      "file": "missing/S/38194-super-kyoutei-2.json"
     },
     {
       "igdb_id": 37815,
@@ -872827,6 +873052,11 @@
       "file": "missing/S/299173-super-uwol.json"
     },
     {
+      "igdb_id": 38197,
+      "game_name": "Super V.G.",
+      "file": "missing/S/38197-super-v-g.json"
+    },
+    {
       "igdb_id": 194310,
       "game_name": "Super Vadimka",
       "file": "missing/S/194310-super-vadimka.json"
@@ -872910,6 +873140,11 @@
       "igdb_id": 42539,
       "game_name": "Super Wagyan Land",
       "file": "missing/S/42539-super-wagyan-land.json"
+    },
+    {
+      "igdb_id": 38195,
+      "game_name": "Super Wagyan Land 2",
+      "file": "missing/S/38195-super-wagyan-land-2.json"
     },
     {
       "igdb_id": 403083,
@@ -896787,6 +897022,11 @@
       "file": "missing/T/365831-tenfold-tales.json"
     },
     {
+      "igdb_id": 38186,
+      "game_name": "Tengai Makyou Zero",
+      "file": "missing/T/38186-tengai-makyou-zero.json"
+    },
+    {
       "igdb_id": 186735,
       "game_name": "Tengai Makyou Zero: Shonen Jump no Shou",
       "file": "missing/T/186735-tengai-makyou-zero-shonen-jump-no-shou.json"
@@ -905705,6 +905945,11 @@
       "igdb_id": 124530,
       "game_name": "The Blue Contestant",
       "file": "missing/T/124530-the-blue-contestant.json"
+    },
+    {
+      "igdb_id": 38183,
+      "game_name": "The Blue Crystal Rod",
+      "file": "missing/T/38183-the-blue-crystal-rod.json"
     },
     {
       "igdb_id": 185122,
@@ -1065055,6 +1065300,11 @@
       "igdb_id": 254036,
       "game_name": "Yokai Art: Survival",
       "file": "missing/Y/254036-yokai-art-survival.json"
+    },
+    {
+      "igdb_id": 38190,
+      "game_name": "Yokai Buster: Ruka no Daibouken",
+      "file": "missing/Y/38190-yokai-buster-ruka-no-daibouken.json"
     },
     {
       "igdb_id": 320225,
