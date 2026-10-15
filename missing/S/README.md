@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
 | Sad Virus Western | 368286 | [368286-sad-virus-western.json](./368286-sad-virus-western.json) |
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
+| Sadakichi Seven: Hideyoshi no Ougon | 64289 | [64289-sadakichi-seven-hideyoshi-no-ougon.json](./64289-sadakichi-seven-hideyoshi-no-ougon.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
 | Samurai: Japan Warrior Fighter | 267869 | [267869-samurai-japan-warrior-fighter.json](./267869-samurai-japan-warrior-fighter.json) |
 | Samurai: Ronin's Path | 127764 | [127764-samurai-ronins-path.json](./127764-samurai-ronins-path.json) |
+| Samurai: Way of the Warrior | 64293 | [64293-samurai-way-of-the-warrior.json](./64293-samurai-way-of-the-warrior.json) |
 | Samurai's Odyssey | 372991 | [372991-samurais-odyssey.json](./372991-samurais-odyssey.json) |
 | Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
 | Samurai's Way | 295396 | [295396-samurais-way.json](./295396-samurais-way.json) |
@@ -3405,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
 | Sega Ages: I Love Mickey Mouse - Fushigi no Oshiro Daibouken/I Love Donald Duck: Guruzia Ou no Hihou | 79786 | [79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json](./79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json) |
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
+| Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
@@ -5546,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
+| Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
@@ -11854,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
+| Sonic PC Collection | 64327 | [64327-sonic-pc-collection.json](./64327-sonic-pc-collection.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
 | Sonic Pinball Party | 6601 | [6601-sonic-pinball-party.json](./6601-sonic-pinball-party.json) |
 | Sonic Point of Action | 326136 | [326136-sonic-point-of-action.json](./326136-sonic-point-of-action.json) |
@@ -18690,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
+| Strategery 2012 | 64333 | [64333-strategery-2012.json](./64333-strategery-2012.json) |
 | Strategic Bastion | 358231 | [358231-strategic-bastion.json](./358231-strategic-bastion.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
@@ -23983,6 +23989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Coast Legends: Rage of Demons | 19477 | [19477-sword-coast-legends-rage-of-demons.json](./19477-sword-coast-legends-rage-of-demons.json) |
 | Sword Collector | 245787 | [245787-sword-collector.json](./245787-sword-collector.json) |
 | Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
+| Sword Dancer Zoukangou | 64309 | [64309-sword-dancer-zoukangou.json](./64309-sword-dancer-zoukangou.json) |
 | Sword Dancer: Kyoujin no Megami | 343961 | [343961-sword-dancer-kyoujin-no-megami.json](./343961-sword-dancer-kyoujin-no-megami.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
