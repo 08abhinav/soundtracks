@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
 | League of Light: Justice | 96182 | [96182-league-of-light-justice.json](./96182-league-of-light-justice.json) |
+| League of Light: Silent Mountain | 59765 | [59765-league-of-light-silent-mountain.json](./59765-league-of-light-silent-mountain.json) |
 | League of Light: Silent Mountain - Collector's Edition | 76482 | [76482-league-of-light-silent-mountain-collectors-edition.json](./76482-league-of-light-silent-mountain-collectors-edition.json) |
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
