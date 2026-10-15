@@ -5239,7 +5239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise & Ironfall: VD-dev Legacy Pack | 351231 | [351231-rise-and-ironfall-vd-dev-legacy-pack.json](./351231-rise-and-ironfall-vd-dev-legacy-pack.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
-| Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise 2: Resurrection | 20256 | [20256-rise-2-resurrection.json](./20256-rise-2-resurrection.json) |
 | Rise 2.0 | 166841 | [166841-rise-2-0.json](./166841-rise-2-0.json) |
 | Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
@@ -7455,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
+| Rosario + Vampire: Tanabata no Miss Yokai Gakuen | 58727 | [58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json](./58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
 | Rose | 236374 | [236374-rose.json](./236374-rose.json) |
 | Rose | 275122 | [275122-rose.json](./275122-rose.json) |
