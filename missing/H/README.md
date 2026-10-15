@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
+| Handy Caps | 73728 | [73728-handy-caps.json](./73728-handy-caps.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
 | Hiryuu no Ken Retsuden GB | 186591 | [186591-hiryuu-no-ken-retsuden-gb.json](./186591-hiryuu-no-ken-retsuden-gb.json) |
+| Hiryuu no Ken S: Golden Fighter | 73683 | [73683-hiryuu-no-ken-s-golden-fighter.json](./73683-hiryuu-no-ken-s-golden-fighter.json) |
 | Hiryuu no Ken Special: Fighting Wars | 63936 | [63936-hiryuu-no-ken-special-fighting-wars.json](./63936-hiryuu-no-ken-special-fighting-wars.json) |
 | Hiryuu no Ken Stadium DD: Real Version | 351573 | [351573-hiryuu-no-ken-stadium-dd-real-version.json](./351573-hiryuu-no-ken-stadium-dd-real-version.json) |
 | Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
@@ -6957,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Champions: Dream Team | 111612 | [111612-hot-champions-dream-team.json](./111612-hot-champions-dream-team.json) |
 | Hot Chase | 39480 | [39480-hot-chase.json](./39480-hot-chase.json) |
+| Hot Chix 'n' Gear Stix | 73719 | [73719-hot-chix-n-gear-stix.json](./73719-hot-chix-n-gear-stix.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
