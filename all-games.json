@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T18:05:45.873Z",
-  "total_soundtracks": 1677,
+  "generated_at": "2026-10-15T18:06:00.187Z",
+  "total_soundtracks": 1678,
   "games": [
     {
       "igdb_id": 7522,
@@ -9923,6 +9923,20 @@
           "spotify_url": "https://open.spotify.com/album/0OKyZzH4nCkGIcVZoLwIcU",
           "apple_music_url": "https://music.apple.com/us/album/mario-rabbids-kingdom-battle-original-game-soundtrack/1594371377",
           "album_link_url": "https://album.link/i/1594371377"
+        }
+      ]
+    },
+    {
+      "igdb_id": 152201,
+      "game_name": "Mario + Rabbids Sparks of Hope",
+      "game_url": "https://ostdb.net/games/mario-rabbids-sparks-of-hope",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27344f12404eb56a1b47b3d6a1f",
+      "albums": [
+        {
+          "album_name": "Mario + Rabbids Sparks of Hope (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3yRSUGyx9gDlLgVrvpvGEc",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
