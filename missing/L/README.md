@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
+| Labyrinths of the World: Shattered Soul - Collector's Edition | 30674 | [30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json](./30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lothar Matthäus Super Soccer | 42491 | [42491-lothar-matthaus-super-soccer.json](./42491-lothar-matthaus-super-soccer.json) |
 | Lothgar Online | 56315 | [56315-lothgar-online.json](./56315-lothgar-online.json) |
+| Lotia | 30621 | [30621-lotia.json](./30621-lotia.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
