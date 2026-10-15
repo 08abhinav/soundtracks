@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lackgirl I: Astra Inclinant, sed Non Obligant. | 243225 | [243225-lackgirl-i-astra-inclinant-sed-non-obligant.json](./243225-lackgirl-i-astra-inclinant-sed-non-obligant.json) |
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
 | Lacrimal Eye | 312713 | [312713-lacrimal-eye.json](./312713-lacrimal-eye.json) |
+| Lacrosse 15 | 52529 | [52529-lacrosse-15.json](./52529-lacrosse-15.json) |
 | Lacrosse Arcade | 61040 | [61040-lacrosse-arcade.json](./61040-lacrosse-arcade.json) |
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
+| Landit Bandit | 52528 | [52528-landit-bandit.json](./52528-landit-bandit.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Landlady: The Lions Roar | 180627 | [180627-landlady-the-lions-roar.json](./180627-landlady-the-lions-roar.json) |
 | Landleven | 115542 | [115542-landleven.json](./115542-landleven.json) |
@@ -5012,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
+| Looney Tunes Galactic Sports | 52539 | [52539-looney-tunes-galactic-sports.json](./52539-looney-tunes-galactic-sports.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
@@ -5145,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot The Game | 377752 | [377752-loot-the-game.json](./377752-loot-the-game.json) |
+| Loot the Land | 52537 | [52537-loot-the-land.json](./52537-loot-the-land.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
 | Loot Ultimate Games Bundle | 82451 | [82451-loot-ultimate-games-bundle.json](./82451-loot-ultimate-games-bundle.json) |
