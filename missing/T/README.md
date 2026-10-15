@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
 | Tennistronic | 311630 | [311630-tennistronic.json](./311630-tennistronic.json) |
+| TennisVR | 28664 | [28664-tennisvr.json](./28664-tennisvr.json) |
 | Tennnes | 94146 | [94146-tennnes.json](./94146-tennnes.json) |
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
@@ -4580,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blades of Ashina | 317519 | [317519-the-blades-of-ashina.json](./317519-the-blades-of-ashina.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
+| The Blank Canvas - Hacking Nature | 28600 | [28600-the-blank-canvas-hacking-nature.json](./28600-the-blank-canvas-hacking-nature.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Bleeding Tree | 184849 | [184849-the-bleeding-tree.json](./184849-the-bleeding-tree.json) |
@@ -5256,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
+| The Crane Trials: Red Edition | 28662 | [28662-the-crane-trials-red-edition.json](./28662-the-crane-trials-red-edition.json) |
 | The Crank Gym | 230742 | [230742-the-crank-gym.json](./230742-the-crank-gym.json) |
 | The Crash: Storm Clouds of the Mind | 229564 | [229564-the-crash-storm-clouds-of-the-mind.json](./229564-the-crash-storm-clouds-of-the-mind.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
@@ -8814,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
+| The Legendary Blacksmith | 28651 | [28651-the-legendary-blacksmith.json](./28651-the-legendary-blacksmith.json) |
 | The Legendary Boy Run | 103913 | [103913-the-legendary-boy-run.json](./103913-the-legendary-boy-run.json) |
 | The Legendary Hero of Space | 53756 | [53756-the-legendary-hero-of-space.json](./53756-the-legendary-hero-of-space.json) |
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
@@ -10640,6 +10644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
+| The Red Stare | 28670 | [28670-the-red-stare.json](./28670-the-red-stare.json) |
 | The Red Strings Club | 75247 | [75247-the-red-strings-club.json](./75247-the-red-strings-club.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
@@ -13925,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
+| Thornyway | 28656 | [28656-thornyway.json](./28656-thornyway.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
 | Thoroughbred Breeder II Plus | 61016 | [61016-thoroughbred-breeder-ii-plus.json](./61016-thoroughbred-breeder-ii-plus.json) |
@@ -20663,6 +20669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Terrors | 299535 | [299535-trapped-terrors.json](./299535-trapped-terrors.json) |
 | Trapped with Ivy & Piper | 385859 | [385859-trapped-with-ivy-and-piper.json](./385859-trapped-with-ivy-and-piper.json) |
 | Trapped with Jester | 215188 | [215188-trapped-with-jester.json](./215188-trapped-with-jester.json) |
+| Trapped With the Dolls VR | 28666 | [28666-trapped-with-the-dolls-vr.json](./28666-trapped-with-the-dolls-vr.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
 | Trapped: Family Vacation | 328011 | [328011-trapped-family-vacation.json](./328011-trapped-family-vacation.json) |
 | Trapped: Forced To Kill | 402408 | [402408-trapped-forced-to-kill.json](./402408-trapped-forced-to-kill.json) |
@@ -20716,6 +20723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
+| Trashman | 28565 | [28565-trashman.json](./28565-trashman.json) |
 | Trashmania Trilogy | 61060 | [61060-trashmania-trilogy.json](./61060-trashmania-trilogy.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
