@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zetrya: Dungeon Dive | 406138 | [406138-zetrya-dungeon-dive.json](./406138-zetrya-dungeon-dive.json) |
 | Zettai Fukujuu Princess ~Kijoku Kakumeiroku~ | 133263 | [133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json](./133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json) |
 | Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm | 110334 | [110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json](./110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json) |
+| Zettai Karen Children DS: Dai-4 no Children | 72562 | [72562-zettai-karen-children-ds-dai-4-no-children.json](./72562-zettai-karen-children-ds-dai-4-no-children.json) |
 | Zettai Meikyuu Grimm Director's Cut: Nanatsu no Kagi to Rakuen no Otome | 221963 | [221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json](./221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome | 62459 | [62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json](./62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
