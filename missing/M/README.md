@@ -1862,6 +1862,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
 | Maltese's Fluffy Onsen: Horse DLC | 389545 | [389545-malteses-fluffy-onsen-horse-dlc.json](./389545-malteses-fluffy-onsen-horse-dlc.json) |
 | Malu the Princess | 324997 | [324997-malu-the-princess.json](./324997-malu-the-princess.json) |
+| Maluch Racer | 62652 | [62652-maluch-racer.json](./62652-maluch-racer.json) |
+| Maluch Racer 3 | 62644 | [62644-maluch-racer-3.json](./62644-maluch-racer-3.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malus | 133214 | [133214-malus.json](./133214-malus.json) |
 | Malus Code | 33557 | [33557-malus-code.json](./33557-malus-code.json) |
@@ -7137,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
+| MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
