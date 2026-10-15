@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
 | Magic Fluids | 168663 | [168663-magic-fluids.json](./168663-magic-fluids.json) |
+| Magic Fly | 15253 | [15253-magic-fly.json](./15253-magic-fly.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
 | Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
 | Magic Forest Escape 2 | 315653 | [315653-magic-forest-escape-2.json](./315653-magic-forest-escape-2.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic League - Castle Wars | 108214 | [108214-magic-league-castle-wars.json](./108214-magic-league-castle-wars.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
+| Magic Lines | 15254 | [15254-magic-lines.json](./15254-magic-lines.json) |
 | Magic Logic 3D | 206036 | [206036-magic-logic-3d.json](./206036-magic-logic-3d.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
@@ -1677,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
 | Major Mayhem | 16855 | [16855-major-mayhem.json](./16855-major-mayhem.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
+| Major Motion | 15255 | [15255-major-motion.json](./15255-major-motion.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
@@ -2157,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
 | Manipulus | 322631 | [322631-manipulus.json](./322631-manipulus.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
+| Manix | 15256 | [15256-manix.json](./15256-manix.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
 | Mankind | 92824 | [92824-mankind.json](./92824-mankind.json) |
@@ -2467,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
 | Maria: Kimitachi ga Umareta Wake | 73496 | [73496-maria-kimitachi-ga-umareta-wake.json](./73496-maria-kimitachi-ga-umareta-wake.json) |
+| Maria's Christmas Box | 15257 | [15257-marias-christmas-box.json](./15257-marias-christmas-box.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariachi Undead | 157413 | [157413-mariachi-undead.json](./157413-mariachi-undead.json) |
@@ -3677,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
 | Master Whip | 175658 | [175658-master-whip.json](./175658-master-whip.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
+| Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
@@ -4001,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
+| Matrix Marauders | 15259 | [15259-matrix-marauders.json](./15259-matrix-marauders.json) |
 | Matrix Runner | 62092 | [62092-matrix-runner.json](./62092-matrix-runner.json) |
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
@@ -4436,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
+| McDonaldland | 15261 | [15261-mcdonaldland.json](./15261-mcdonaldland.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDoomguy's Slaughterific Sample Platter | 307814 | [307814-mcdoomguys-slaughterific-sample-platter.json](./307814-mcdoomguys-slaughterific-sample-platter.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
@@ -7499,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midgard | 228323 | [228323-midgard.json](./228323-midgard.json) |
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
+| Midi Maze | 15265 | [15265-midi-maze.json](./15265-midi-maze.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midjungard | 127689 | [127689-midjungard.json](./127689-midjungard.json) |
@@ -7682,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
+| Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
 | Miegakure | 9729 | [9729-miegakure.json](./9729-miegakure.json) |
