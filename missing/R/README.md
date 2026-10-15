@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
 | Radial | 128945 | [128945-radial.json](./128945-radial.json) |
+| Radial 50 | 67215 | [67215-radial-50.json](./67215-radial-50.json) |
 | Radial Ascension | 273553 | [273553-radial-ascension.json](./273553-radial-ascension.json) |
 | Radial Flow | 208663 | [208663-radial-flow.json](./208663-radial-flow.json) |
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
 | Real Puzzles | 208841 | [208841-real-puzzles.json](./208841-real-puzzles.json) |
+| Real Racing | 67213 | [67213-real-racing.json](./67213-real-racing.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
 | Real Racing 3 | 22179 | [22179-real-racing-3.json](./22179-real-racing-3.json) |
@@ -2017,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2 | 91833 | [91833-real-soccer-2.json](./91833-real-soccer-2.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
+| Real Soccer 2010 | 67151 | [67151-real-soccer-2010.json](./67151-real-soccer-2010.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
