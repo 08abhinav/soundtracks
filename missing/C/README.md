@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
+| CastleAbra | 35334 | [35334-castleabra.json](./35334-castleabra.json) |
 | Castlebound | 335841 | [335841-castlebound.json](./335841-castlebound.json) |
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
 | Castleclysm TD | 200066 | [200066-castleclysm-td.json](./200066-castleclysm-td.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
+| Champions of Chaos 2 | 35372 | [35372-champions-of-chaos-2.json](./35372-champions-of-chaos-2.json) |
 | Champions of Chaos II: Ambassadors of the Arena | 62653 | [62653-champions-of-chaos-ii-ambassadors-of-the-arena.json](./62653-champions-of-chaos-ii-ambassadors-of-the-arena.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
@@ -3993,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
 | Chariot Racer | 241998 | [241998-chariot-racer.json](./241998-chariot-racer.json) |
+| Chariot Wars | 35397 | [35397-chariot-wars.json](./35397-chariot-wars.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
