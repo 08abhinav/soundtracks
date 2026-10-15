@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
 | Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
+| Nobunaga's Ambition: Tenshouki | 44402 | [44402-nobunagas-ambition-tenshouki.json](./44402-nobunagas-ambition-tenshouki.json) |
 | Nobunaga's Ambition: Tenshouki with Power Up Kit | 307166 | [307166-nobunagas-ambition-tenshouki-with-power-up-kit.json](./307166-nobunagas-ambition-tenshouki-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | Nobunaga's Shadow | 102840 | [102840-nobunagas-shadow.json](./102840-nobunagas-shadow.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
+| Nomark Baku Haitou: Shijou Saikyou no Jakushi Tatsu | 44401 | [44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json](./44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json) |
 | NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominader | 118244 | [118244-nominader.json](./118244-nominader.json) |
@@ -4503,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
 | Nonstop Knight 2 | 119432 | [119432-nonstop-knight-2.json](./119432-nonstop-knight-2.json) |
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
+| Nontan to Issho: Kuru-kuru Puzzle | 44400 | [44400-nontan-to-issho-kuru-kuru-puzzle.json](./44400-nontan-to-issho-kuru-kuru-puzzle.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
@@ -5178,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
+| Numbers Paradise | 44399 | [44399-numbers-paradise.json](./44399-numbers-paradise.json) |
 | Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
