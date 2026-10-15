@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole: Hydlide 3 - PC-8801mkIISR | 287588 | [287588-eggconsole-hydlide-3-pc-8801mkiisr.json](./287588-eggconsole-hydlide-3-pc-8801mkiisr.json) |
 | Eggerland | 41259 | [41259-eggerland.json](./41259-eggerland.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
+| Eggerland: Meikyuu no Fukkatsu | 48510 | [48510-eggerland-meikyuu-no-fukkatsu.json](./48510-eggerland-meikyuu-no-fukkatsu.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
+| Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
@@ -1878,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion | 100062 | [100062-elysion.json](./100062-elysion.json) |
+| Elysion | 48509 | [48509-elysion.json](./48509-elysion.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysion: Feeling of Release | 222366 | [222366-elysion-feeling-of-release.json](./222366-elysion-feeling-of-release.json) |
 | Elysium | 266763 | [266763-elysium.json](./266763-elysium.json) |
@@ -3242,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erik | 354577 | [354577-erik.json](./354577-erik.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
+| Erika to Satoru no Yume Bouken | 48508 | [48508-erika-to-satoru-no-yume-bouken.json](./48508-erika-to-satoru-no-yume-bouken.json) |
 | Eriksholm: The Stolen Dream | 305107 | [305107-eriksholm-the-stolen-dream.json](./305107-eriksholm-the-stolen-dream.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erina to Kima no Miyako | 304137 | [304137-erina-to-kima-no-miyako.json](./304137-erina-to-kima-no-miyako.json) |
@@ -3888,7 +3892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espen I Asmo | 91881 | [91881-espen-i-asmo.json](./91881-espen-i-asmo.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
+| Esper Boukentai | 48506 | [48506-esper-boukentai.json](./48506-esper-boukentai.json) |
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
+| Esper Dream 2: Aratanaru Tatakai | 48505 | [48505-esper-dream-2-aratanaru-tatakai.json](./48505-esper-dream-2-aratanaru-tatakai.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
@@ -4992,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Baseball | 41275 | [41275-exciting-baseball.json](./41275-exciting-baseball.json) |
 | Exciting Billiard | 41303 | [41303-exciting-billiard.json](./41303-exciting-billiard.json) |
+| Exciting Boxing | 48504 | [48504-exciting-boxing.json](./48504-exciting-boxing.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
 | Exciting Milk | 264788 | [264788-exciting-milk.json](./264788-exciting-milk.json) |
 | Exciting Soccer | 46851 | [46851-exciting-soccer.json](./46851-exciting-soccer.json) |
