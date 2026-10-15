@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
+| Hell Hole | 73173 | [73173-hell-hole.json](./73173-hell-hole.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
 | Hell Hunt | 138481 | [138481-hell-hunt.json](./138481-hell-hunt.json) |
 | Hell Hunter: Anti-Nomen | 270032 | [270032-hell-hunter-anti-nomen.json](./270032-hell-hunter-anti-nomen.json) |
@@ -4437,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexworld | 180794 | [180794-hexworld.json](./180794-hexworld.json) |
 | Hexxagon | 14479 | [14479-hexxagon.json](./14479-hexxagon.json) |
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
+| Hexxagon 2 | 73172 | [73172-hexxagon-2.json](./73172-hexxagon-2.json) |
 | Hexxaris | 301817 | [301817-hexxaris.json](./301817-hexxaris.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hexxon | 122839 | [122839-hexxon.json](./122839-hexxon.json) |
