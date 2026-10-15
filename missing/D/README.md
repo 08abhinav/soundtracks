@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
 | Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
+| Dagger's Rage | 73700 | [73700-daggers-rage.json](./73700-daggers-rage.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
 | Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
+| Dark Mist- The Wizard Vanishes | 73684 | [73684-dark-mist-the-wizard-vanishes.json](./73684-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
@@ -9312,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
 | Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
+| Dr. Blob's Organism | 73698 | [73698-dr-blobs-organism.json](./73698-dr-blobs-organism.json) |
 | Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Bowlatzo's Crazy Bowling | 413498 | [413498-dr-bowlatzos-crazy-bowling.json](./413498-dr-bowlatzos-crazy-bowling.json) |
@@ -9326,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Doe's Chemistry Quiz | 205624 | [205624-dr-does-chemistry-quiz.json](./205624-dr-does-chemistry-quiz.json) |
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
+| Dr. Drago's Madcap Chase | 73682 | [73682-dr-dragos-madcap-chase.json](./73682-dr-dragos-madcap-chase.json) |
 | Dr. Driving | 263404 | [263404-dr-driving.json](./263404-dr-driving.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
 | Dr. Dumont's Wild P.A.R.T.I. | 7563 | [7563-dr-dumonts-wild-p-a-r-t-i.json](./7563-dr-dumonts-wild-p-a-r-t-i.json) |
@@ -11215,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
+| Drop Mania | 73716 | [73716-drop-mania.json](./73716-drop-mania.json) |
 | Drop Not! | 103217 | [103217-drop-not.json](./103217-drop-not.json) |
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
