@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
 | Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
+| Malfunction | 43167 | [43167-malfunction.json](./43167-malfunction.json) |
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malfunction II | 167392 | [167392-malfunction-ii.json](./167392-malfunction-ii.json) |
 | Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Mania Quiz | 101106 | [101106-mania-quiz.json](./101106-mania-quiz.json) |
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
+| Maniac GO | 43137 | [43137-maniac-go.json](./43137-maniac-go.json) |
 | Maniac Inc. | 182162 | [182162-maniac-inc.json](./182162-maniac-inc.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
 | Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
+| MechaLeague | 43116 | [43116-mechaleague.json](./43116-mechaleague.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
