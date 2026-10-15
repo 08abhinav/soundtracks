@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
 | Ultraman Powered | 4307 | [4307-ultraman-powered.json](./4307-ultraman-powered.json) |
+| Ultraman Powered: Kaijuu Gekimetsu Sakusen | 65995 | [65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json](./65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json) |
 | Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpetrified: Echoes of Nature | 203925 | [203925-unpetrified-echoes-of-nature.json](./203925-unpetrified-echoes-of-nature.json) |
 | Unplagued | 307143 | [307143-unplagued.json](./307143-unplagued.json) |
 | Unplayable | 328969 | [328969-unplayable.json](./328969-unplayable.json) |
+| Unpleasant Horse | 66005 | [66005-unpleasant-horse.json](./66005-unpleasant-horse.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unpossess | 302429 | [302429-unpossess.json](./302429-unpossess.json) |
 | Unpossess 2 | 405731 | [405731-unpossess-2.json](./405731-unpossess-2.json) |
