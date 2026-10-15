@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
+| Actman | 41800 | [41800-actman.json](./41800-actman.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
 | Actraiser | 23597 | [23597-actraiser.json](./23597-actraiser.json) |
@@ -5076,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Sphere: Director's Cut | 223056 | [223056-alpha-sphere-directors-cut.json](./223056-alpha-sphere-directors-cut.json) |
 | Alpha Squad | 100260 | [100260-alpha-squad.json](./100260-alpha-squad.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
+| Alpha Squadron | 41783 | [41783-alpha-squadron.json](./41783-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
 | Alpha Storm | 98913 | [98913-alpha-storm.json](./98913-alpha-storm.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
+| American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
@@ -11078,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
+| Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
@@ -11267,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack Force | 250497 | [250497-attack-force.json](./250497-attack-force.json) |
+| Attack Four Volleyball | 41796 | [41796-attack-four-volleyball.json](./41796-attack-four-volleyball.json) |
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
