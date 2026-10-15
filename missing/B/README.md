@@ -9763,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
+| Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
 | Brain Teasers & Math Puzzles | 101975 | [101975-brain-teasers-and-math-puzzles.json](./101975-brain-teasers-and-math-puzzles.json) |
@@ -10372,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
 | Brick Blaster | 133326 | [133326-brick-blaster.json](./133326-brick-blaster.json) |
 | Brick Blaster | 281968 | [281968-brick-blaster.json](./281968-brick-blaster.json) |
+| Brick Blaster | 47087 | [47087-brick-blaster.json](./47087-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
