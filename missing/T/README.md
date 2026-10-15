@@ -12856,7 +12856,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Voices Games 3D Collection | 211776 | [211776-the-voices-games-3d-collection.json](./211776-the-voices-games-3d-collection.json) |
 | The Void | 261703 | [261703-the-void.json](./261703-the-void.json) |
-| The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
