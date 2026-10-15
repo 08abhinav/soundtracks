@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
+| HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
