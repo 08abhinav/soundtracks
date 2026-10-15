@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
 | Eden | 185365 | [185365-eden.json](./185365-eden.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
+| Eden Blue | 19139 | [19139-eden-blue.json](./19139-eden-blue.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Towers | 420598 | [420598-eternal-towers.json](./420598-eternal-towers.json) |
 | Eternal Tree | 199967 | [199967-eternal-tree.json](./199967-eternal-tree.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
+| Eternal Trinity | 19095 | [19095-eternal-trinity.json](./19095-eternal-trinity.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
 | Eternal Twilight | 124524 | [124524-eternal-twilight.json](./124524-eternal-twilight.json) |
 | Eternal Twilight | 384287 | [384287-eternal-twilight.json](./384287-eternal-twilight.json) |
