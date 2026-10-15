@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
 | Banmeng Yexing: A Journey on Limbus | 260864 | [260864-banmeng-yexing-a-journey-on-limbus.json](./260864-banmeng-yexing-a-journey-on-limbus.json) |
 | Banned From Equestria (Daily) | 148383 | [148383-banned-from-equestria-daily.json](./148383-banned-from-equestria-daily.json) |
+| Banned Memories: Yamanashi | 54981 | [54981-banned-memories-yamanashi.json](./54981-banned-memories-yamanashi.json) |
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
 | Banned Together | 350457 | [350457-banned-together.json](./350457-banned-together.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Sea 3D | 163895 | [163895-battle-for-sea-3d.json](./163895-battle-for-sea-3d.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
+| Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
 | Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
 | Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
@@ -2675,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
+| Battle of the Eras | 54965 | [54965-battle-of-the-eras.json](./54965-battle-of-the-eras.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
@@ -4901,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
+| Big 10 | 54993 | [54993-big-10.json](./54993-big-10.json) |
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
@@ -9533,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box To The Beat VR: Indie Electro Beats | 295260 | [295260-box-to-the-beat-vr-indie-electro-beats.json](./295260-box-to-the-beat-vr-indie-electro-beats.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box to the Box | 207896 | [207896-box-to-the-box.json](./207896-box-to-the-box.json) |
+| Box Up | 54958 | [54958-box-up.json](./54958-box-up.json) |
 | Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box World Greens | 338846 | [338846-box-world-greens.json](./338846-box-world-greens.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
