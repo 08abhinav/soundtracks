@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
+| Teenage Mutant Ninja Turtles III: The Manhattan Project | 14731 | [14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json](./14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
 | Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
@@ -4569,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Knight: Halloween | 274639 | [274639-the-black-knight-halloween.json](./274639-the-black-knight-halloween.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
+| The Black Mirror | 11261 | [11261-the-black-mirror.json](./11261-the-black-mirror.json) |
 | The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
@@ -5254,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cost of Recovery | 153859 | [153859-the-cost-of-recovery.json](./153859-the-cost-of-recovery.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
+| The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
 | The Council: Episode 5 - Checkmate | 120976 | [120976-the-council-episode-5-checkmate.json](./120976-the-council-episode-5-checkmate.json) |
@@ -6072,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
 | The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
 | The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
+| The Elder Scrolls V: Skyrim - Anniversary Edition | 165192 | [165192-the-elder-scrolls-v-skyrim-anniversary-edition.json](./165192-the-elder-scrolls-v-skyrim-anniversary-edition.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
 | The Elder Scrolls V: Skyrim - Legendary Edition | 47445 | [47445-the-elder-scrolls-v-skyrim-legendary-edition.json](./47445-the-elder-scrolls-v-skyrim-legendary-edition.json) |
@@ -6273,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
+| The Exit 8 | 275404 | [275404-the-exit-8.json](./275404-the-exit-8.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
@@ -16922,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
+| Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
@@ -17195,6 +17201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
 | Tom Clancy's Ghost Recon 2: Summit Strike | 1299 | [1299-tom-clancys-ghost-recon-2-summit-strike.json](./1299-tom-clancys-ghost-recon-2-summit-strike.json) |
+| Tom Clancy's Ghost Recon Advanced Warfighter | 1300 | [1300-tom-clancys-ghost-recon-advanced-warfighter.json](./1300-tom-clancys-ghost-recon-advanced-warfighter.json) |
 | Tom Clancy's Ghost Recon Advanced Warfighter 2 | 1301 | [1301-tom-clancys-ghost-recon-advanced-warfighter-2.json](./1301-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Ghost Recon Breakpoint: Digital Gold Edition | 118679 | [118679-tom-clancys-ghost-recon-breakpoint-digital-gold-edition.json](./118679-tom-clancys-ghost-recon-breakpoint-digital-gold-edition.json) |
 | Tom Clancy's Ghost Recon Breakpoint: Sentinel Corp. Pack | 399903 | [399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json](./399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json) |
@@ -17230,6 +17237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
+| Tom Clancy's Rainbow Six | 1842 | [1842-tom-clancys-rainbow-six.json](./1842-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six | 249139 | [249139-tom-clancys-rainbow-six.json](./249139-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six 3 | 9891 | [9891-tom-clancys-rainbow-six-3.json](./9891-tom-clancys-rainbow-six-3.json) |
 | Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
