@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | BassTour | 142320 | [142320-basstour.json](./142320-basstour.json) |
 | Bastard Little Zombie | 133697 | [133697-bastard-little-zombie.json](./133697-bastard-little-zombie.json) |
+| Bastard!! Ankoku no Hakaishin | 65403 | [65403-bastard-ankoku-no-hakaishin.json](./65403-bastard-ankoku-no-hakaishin.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
+| Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
@@ -6515,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
+| Blast Doors | 65401 | [65401-blast-doors.json](./65401-blast-doors.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
 | Blast em! | 10052 | [10052-blast-em.json](./10052-blast-em.json) |
 | Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
@@ -7102,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
+| Block Zombies! | 65415 | [65415-block-zombies.json](./65415-block-zombies.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
 | Block-ed | 276687 | [276687-block-ed.json](./276687-block-ed.json) |
