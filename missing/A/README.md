@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
+| Airliner Pilot | 46447 | [46447-airliner-pilot.json](./46447-airliner-pilot.json) |
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
