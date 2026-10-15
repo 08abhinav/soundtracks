@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's High Harmonizers | 156986 | [156986-hells-high-harmonizers.json](./156986-hells-high-harmonizers.json) |
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
 | Hell's Kitchen: The Game | 21358 | [21358-hells-kitchen-the-game.json](./21358-hells-kitchen-the-game.json) |
+| Hell'S Little Story | 29610 | [29610-hells-little-story.json](./29610-hells-little-story.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
@@ -5321,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hike Valley | 231319 | [231319-hike-valley.json](./231319-hike-valley.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
+| Hikibyou 2 | 29605 | [29605-hikibyou-2.json](./29605-hikibyou-2.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
@@ -5865,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
+| Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
