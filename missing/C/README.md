@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Shop Simulator | 322660 | [322660-car-mechanic-shop-simulator.json](./322660-car-mechanic-shop-simulator.json) |
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
+| Car Mechanic Simulator 2015: Gold Edition | 24753 | [24753-car-mechanic-simulator-2015-gold-edition.json](./24753-car-mechanic-simulator-2015-gold-edition.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO | 197181 | [197181-ceo.json](./197181-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
+| CEO Test | 24790 | [24790-ceo-test.json](./24790-ceo-test.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
@@ -8454,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Wings: The Great Battles of WWII | 47437 | [47437-combat-wings-the-great-battles-of-wwii.json](./47437-combat-wings-the-great-battles-of-wwii.json) |
 | Combat Zone | 265594 | [265594-combat-zone.json](./265594-combat-zone.json) |
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
+| Combat: Task Force 121 | 24745 | [24745-combat-task-force-121.json](./24745-combat-task-force-121.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
@@ -11418,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
+| Create City | 24750 | [24750-create-city.json](./24750-create-city.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
 | Create Your Own Caricature with Spitting Image | 66359 | [66359-create-your-own-caricature-with-spitting-image.json](./66359-create-your-own-caricature-with-spitting-image.json) |
@@ -11816,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
+| Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
