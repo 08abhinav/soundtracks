@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
+| Heroes of SoulCraft | 17770 | [17770-heroes-of-soulcraft.json](./17770-heroes-of-soulcraft.json) |
 | Heroes of Spyria | 250462 | [250462-heroes-of-spyria.json](./250462-heroes-of-spyria.json) |
 | Heroes of Steel RPG | 36360 | [36360-heroes-of-steel-rpg.json](./36360-heroes-of-steel-rpg.json) |
 | Heroes of Steel Tactics RPG | 53191 | [53191-heroes-of-steel-tactics-rpg.json](./53191-heroes-of-steel-tactics-rpg.json) |
@@ -5362,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillmain Hotel | 196668 | [196668-hillmain-hotel.json](./196668-hillmain-hotel.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
+| Hills of Glory 3D | 17735 | [17735-hills-of-glory-3d.json](./17735-hills-of-glory-3d.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
 | Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
