@@ -5140,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
+| Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
