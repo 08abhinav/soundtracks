@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T18:36:35.192Z",
-  "total_missing": 216462,
+  "generated_at": "2026-10-15T18:42:42.882Z",
+  "total_missing": 216461,
   "games": [
     {
       "igdb_id": 191680,
@@ -950235,11 +950235,6 @@
       "igdb_id": 261703,
       "game_name": "The Void",
       "file": "missing/T/261703-the-void.json"
-    },
-    {
-      "igdb_id": 3273,
-      "game_name": "The Void",
-      "file": "missing/T/3273-the-void.json"
     },
     {
       "igdb_id": 357725,
