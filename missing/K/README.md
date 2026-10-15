@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
+| Kids on Site | 46426 | [46426-kids-on-site.json](./46426-kids-on-site.json) |
 | Kids on Site: Hard Hat Edition | 209925 | [209925-kids-on-site-hard-hat-edition.json](./209925-kids-on-site-hard-hat-edition.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
