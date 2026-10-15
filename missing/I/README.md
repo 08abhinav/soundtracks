@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | IgKnight Food Fight | 113535 | [113535-igknight-food-fight.json](./113535-igknight-food-fight.json) |
 | Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
+| Ignarus | 27507 | [27507-ignarus.json](./27507-ignarus.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
 | Igneous | 91830 | [91830-igneous.json](./91830-igneous.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
+| Impulse! | 27449 | [27449-impulse.json](./27449-impulse.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Impulsers | 194270 | [194270-impulsers.json](./194270-impulsers.json) |
 | Impulsive Button | 7572 | [7572-impulsive-button.json](./7572-impulsive-button.json) |
