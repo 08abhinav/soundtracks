@@ -9417,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
+| Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
@@ -10854,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ozone 3 | 230348 | [230348-project-ozone-3.json](./230348-project-ozone-3.json) |
 | Project P | 341445 | [341445-project-p.json](./341445-project-p.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
+| Project Paradise | 47089 | [47089-project-paradise.json](./47089-project-paradise.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
