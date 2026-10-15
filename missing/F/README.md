@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
+| Falling Stars | 27489 | [27489-falling-stars.json](./27489-falling-stars.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling to Heaven | 197052 | [197052-falling-to-heaven.json](./197052-falling-to-heaven.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngyún Mahjong | 328410 | [328410-fengyun-mahjong.json](./328410-fengyun-mahjong.json) |
 | Fénhún zhī Mèng | 148684 | [148684-fenhun-zhi-meng.json](./148684-fenhun-zhi-meng.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
+| Fenimore Fillmore's Revenge | 27491 | [27491-fenimore-fillmores-revenge.json](./27491-fenimore-fillmores-revenge.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fenix Rage | 17295 | [17295-fenix-rage.json](./17295-fenix-rage.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
@@ -4421,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Farm 3 | 360097 | [360097-fish-farm-3.json](./360097-fish-farm-3.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fighter | 277422 | [277422-fish-fighter.json](./277422-fish-fighter.json) |
+| Fish Fillets | 27521 | [27521-fish-fillets.json](./27521-fish-fillets.json) |
 | Fish Flop | 272770 | [272770-fish-flop.json](./272770-fish-flop.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish for gold | 51584 | [51584-fish-for-gold.json](./51584-fish-for-gold.json) |
@@ -5009,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
+| Flappin Nutz | 27504 | [27504-flappin-nutz.json](./27504-flappin-nutz.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
@@ -6995,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
+| Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
 | Forthold | 390215 | [390215-forthold.json](./390215-forthold.json) |
 | Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
@@ -8482,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From Next Door | 56408 | [56408-from-next-door.json](./56408-from-next-door.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
+| From Other Suns | 27516 | [27516-from-other-suns.json](./27516-from-other-suns.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
