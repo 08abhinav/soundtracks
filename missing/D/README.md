@@ -8317,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
+| Don't Get Pinned | 26306 | [26306-dont-get-pinned.json](./26306-dont-get-pinned.json) |
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
@@ -10371,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
 | DragonShift | 249893 | [249893-dragonshift.json](./249893-dragonshift.json) |
+| Dragonskulle | 26393 | [26393-dragonskulle.json](./26393-dragonskulle.json) |
 | DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
 | DragonSky | 68251 | [68251-dragonsky.json](./68251-dragonsky.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
