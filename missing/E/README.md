@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
+| Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
@@ -4906,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
+| EX Monopoly | 59334 | [59334-ex-monopoly.json](./59334-ex-monopoly.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
 | Ex Nihilo | 416747 | [416747-ex-nihilo.json](./416747-ex-nihilo.json) |
 | Ex Oblivione | 61148 | [61148-ex-oblivione.json](./61148-ex-oblivione.json) |
