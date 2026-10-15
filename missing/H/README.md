@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
 | Hero for Hire | 192248 | [192248-hero-for-hire.json](./192248-hero-for-hire.json) |
+| Hero Forces | 19141 | [19141-hero-forces.json](./19141-hero-forces.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
@@ -6116,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
 | Holy Deadline | 354559 | [354559-holy-deadline.json](./354559-holy-deadline.json) |
+| Holy Diver | 19110 | [19110-holy-diver.json](./19110-holy-diver.json) |
 | Holy Dungeon | 287577 | [287577-holy-dungeon.json](./287577-holy-dungeon.json) |
 | Holy Fire Meow Meow: Special Forces | 370182 | [370182-holy-fire-meow-meow-special-forces.json](./370182-holy-fire-meow-meow-special-forces.json) |
 | Holy Ghost Story | 229808 | [229808-holy-ghost-story.json](./229808-holy-ghost-story.json) |
@@ -7075,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dish 2: Cross Country Cook-Off | 54083 | [54083-hot-dish-2-cross-country-cook-off.json](./54083-hot-dish-2-cross-country-cook-off.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
+| Hot Dog Champion | 19147 | [19147-hot-dog-champion.json](./19147-hot-dog-champion.json) |
 | Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
