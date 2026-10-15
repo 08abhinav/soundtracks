@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T23:06:37.147Z",
-  "total_missing": 217242,
+  "generated_at": "2026-10-15T23:22:19.595Z",
+  "total_missing": 217292,
   "games": [
     {
       "igdb_id": 191680,
@@ -11715,6 +11715,11 @@
       "igdb_id": 205931,
       "game_name": "A Bug's Life",
       "file": "missing/A/205931-a-bugs-life.json"
+    },
+    {
+      "igdb_id": 2847,
+      "game_name": "A Bug's Life",
+      "file": "missing/A/2847-a-bugs-life.json"
     },
     {
       "igdb_id": 49841,
@@ -101657,6 +101662,11 @@
       "file": "missing/B/374311-bioshock-2-kill-em-kindly.json"
     },
     {
+      "igdb_id": 14543,
+      "game_name": "BioShock 2: Minerva's Den",
+      "file": "missing/B/14543-bioshock-2-minervas-den.json"
+    },
+    {
       "igdb_id": 44571,
       "game_name": "Bioshock 2: Rapture Edition",
       "file": "missing/B/44571-bioshock-2-rapture-edition.json"
@@ -141077,6 +141087,11 @@
       "file": "missing/C/229022-cannon-fodder.json"
     },
     {
+      "igdb_id": 5519,
+      "game_name": "Cannon Fodder",
+      "file": "missing/C/5519-cannon-fodder.json"
+    },
+    {
       "igdb_id": 11986,
       "game_name": "Cannon Fodder 2",
       "file": "missing/C/11986-cannon-fodder-2.json"
@@ -148342,6 +148357,11 @@
       "file": "missing/C/314028-castlevania-dawn-of-sorrow-definitive-edition.json"
     },
     {
+      "igdb_id": 16476,
+      "game_name": "Castlevania: Dracula X",
+      "file": "missing/C/16476-castlevania-dracula-x.json"
+    },
+    {
       "igdb_id": 222418,
       "game_name": "Castlevania: Dracula X",
       "file": "missing/C/222418-castlevania-dracula-x.json"
@@ -153590,6 +153610,11 @@
       "igdb_id": 218804,
       "game_name": "Centipede",
       "file": "missing/C/218804-centipede.json"
+    },
+    {
+      "igdb_id": 2235,
+      "game_name": "Centipede",
+      "file": "missing/C/2235-centipede.json"
     },
     {
       "igdb_id": 245541,
@@ -183870,6 +183895,11 @@
       "igdb_id": 287303,
       "game_name": "Control the Body",
       "file": "missing/C/287303-control-the-body.json"
+    },
+    {
+      "igdb_id": 122313,
+      "game_name": "Control: AWE",
+      "file": "missing/C/122313-control-awe.json"
     },
     {
       "igdb_id": 298854,
@@ -235057,6 +235087,11 @@
       "file": "missing/D/136278-diablo-iii-reaper-of-souls-collectors-edition.json"
     },
     {
+      "igdb_id": 47452,
+      "game_name": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+      "file": "missing/D/47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json"
+    },
+    {
       "igdb_id": 405462,
       "game_name": "Diablo Island",
       "file": "missing/D/405462-diablo-island.json"
@@ -246082,6 +246117,11 @@
       "file": "missing/D/397178-dofbox.json"
     },
     {
+      "igdb_id": 18337,
+      "game_name": "Dofus",
+      "file": "missing/D/18337-dofus.json"
+    },
+    {
       "igdb_id": 110307,
       "game_name": "Dofus Émeraude",
       "file": "missing/D/110307-dofus-emeraude.json"
@@ -256592,6 +256632,11 @@
       "file": "missing/D/416627-dragon-ball-z-recompiled.json"
     },
     {
+      "igdb_id": 3896,
+      "game_name": "Dragon Ball Z: Sagas",
+      "file": "missing/D/3896-dragon-ball-z-sagas.json"
+    },
+    {
       "igdb_id": 2568,
       "game_name": "Dragon Ball Z: Shin Budokai - Another Road",
       "file": "missing/D/2568-dragon-ball-z-shin-budokai-another-road.json"
@@ -259395,6 +259440,11 @@
       "igdb_id": 257918,
       "game_name": "Draken's Shrine",
       "file": "missing/D/257918-drakens-shrine.json"
+    },
+    {
+      "igdb_id": 11635,
+      "game_name": "Drakengard",
+      "file": "missing/D/11635-drakengard.json"
     },
     {
       "igdb_id": 322841,
@@ -267175,6 +267225,11 @@
       "igdb_id": 8504,
       "game_name": "Duke Nukem: Land of the Babes",
       "file": "missing/D/8504-duke-nukem-land-of-the-babes.json"
+    },
+    {
+      "igdb_id": 8505,
+      "game_name": "Duke Nukem: Manhattan Project",
+      "file": "missing/D/8505-duke-nukem-manhattan-project.json"
     },
     {
       "igdb_id": 44885,
@@ -285550,6 +285605,11 @@
       "igdb_id": 169867,
       "game_name": "Endless Soul Light Solitaire",
       "file": "missing/E/169867-endless-soul-light-solitaire.json"
+    },
+    {
+      "igdb_id": 11550,
+      "game_name": "Endless Space 2",
+      "file": "missing/E/11550-endless-space-2.json"
     },
     {
       "igdb_id": 148837,
@@ -312055,6 +312115,11 @@
       "igdb_id": 5106,
       "game_name": "Fatal Frame",
       "file": "missing/F/5106-fatal-frame.json"
+    },
+    {
+      "igdb_id": 5105,
+      "game_name": "Fatal Frame II: Crimson Butterfly",
+      "file": "missing/F/5105-fatal-frame-ii-crimson-butterfly.json"
     },
     {
       "igdb_id": 24161,
@@ -385495,6 +385560,11 @@
       "igdb_id": 187448,
       "game_name": "Guitar Hero World Tour: Definitive Edition",
       "file": "missing/G/187448-guitar-hero-world-tour-definitive-edition.json"
+    },
+    {
+      "igdb_id": 2673,
+      "game_name": "Guitar Hero: Aerosmith",
+      "file": "missing/G/2673-guitar-hero-aerosmith.json"
     },
     {
       "igdb_id": 310674,
@@ -469452,6 +469522,11 @@
       "file": "missing/J/66354-jurassic-park-survival.json"
     },
     {
+      "igdb_id": 7025,
+      "game_name": "Jurassic Park: The Game",
+      "file": "missing/J/7025-jurassic-park-the-game.json"
+    },
+    {
       "igdb_id": 90866,
       "game_name": "Jurassic Park: The Game 3 HD",
       "file": "missing/J/90866-jurassic-park-the-game-3-hd.json"
@@ -482600,6 +482675,11 @@
       "igdb_id": 81206,
       "game_name": "Kingdom Hearts HD 1.5 Remix: Limited Edition",
       "file": "missing/K/81206-kingdom-hearts-hd-1-5-remix-limited-edition.json"
+    },
+    {
+      "igdb_id": 7841,
+      "game_name": "Kingdom Hearts HD 2.5 Remix",
+      "file": "missing/K/7841-kingdom-hearts-hd-2-5-remix.json"
     },
     {
       "igdb_id": 45159,
@@ -504222,6 +504302,11 @@
       "file": "missing/L/273982-lego-world-soccer.json"
     },
     {
+      "igdb_id": 10910,
+      "game_name": "LEGO Worlds",
+      "file": "missing/L/10910-lego-worlds.json"
+    },
+    {
       "igdb_id": 255377,
       "game_name": "Lego Worlds Showcase Collection #1",
       "file": "missing/L/255377-lego-worlds-showcase-collection-1.json"
@@ -525302,6 +525387,11 @@
       "file": "missing/L/96307-luft-onward-and-upward.json"
     },
     {
+      "igdb_id": 5628,
+      "game_name": "Luftrausers",
+      "file": "missing/L/5628-luftrausers.json"
+    },
+    {
       "igdb_id": 22840,
       "game_name": "Luftwaffe Commander",
       "file": "missing/L/22840-luftwaffe-commander.json"
@@ -539767,6 +539857,11 @@
       "file": "missing/M/137570-marble-racing.json"
     },
     {
+      "igdb_id": 388747,
+      "game_name": "Marble Racing Manager",
+      "file": "missing/M/388747-marble-racing-manager.json"
+    },
+    {
       "igdb_id": 87990,
       "game_name": "Marble Run 2D",
       "file": "missing/M/87990-marble-run-2d.json"
@@ -540967,6 +541062,11 @@
       "file": "missing/M/328590-mario-golf.json"
     },
     {
+      "igdb_id": 3401,
+      "game_name": "Mario Golf",
+      "file": "missing/M/3401-mario-golf.json"
+    },
+    {
       "igdb_id": 143609,
       "game_name": "Mario Golf: Super Rush",
       "file": "missing/M/143609-mario-golf-super-rush.json"
@@ -541792,6 +541892,11 @@
       "file": "missing/M/283421-mario-party-1-snes-rainbow-road.json"
     },
     {
+      "igdb_id": 7340,
+      "game_name": "Mario Party 10",
+      "file": "missing/M/7340-mario-party-10.json"
+    },
+    {
       "igdb_id": 2329,
       "game_name": "Mario Party 3",
       "file": "missing/M/2329-mario-party-3.json"
@@ -541840,6 +541945,11 @@
       "igdb_id": 328675,
       "game_name": "Mario Party 8",
       "file": "missing/M/328675-mario-party-8.json"
+    },
+    {
+      "igdb_id": 2336,
+      "game_name": "Mario Party 9",
+      "file": "missing/M/2336-mario-party-9.json"
     },
     {
       "igdb_id": 230168,
@@ -548565,6 +548675,11 @@
       "igdb_id": 168321,
       "game_name": "Max, an Autistic Journey: Max's Birthday",
       "file": "missing/M/168321-max-an-autistic-journey-maxs-birthday.json"
+    },
+    {
+      "igdb_id": 4848,
+      "game_name": "Max: The Curse of Brotherhood",
+      "file": "missing/M/4848-max-the-curse-of-brotherhood.json"
     },
     {
       "igdb_id": 390077,
@@ -561070,6 +561185,11 @@
       "igdb_id": 20196,
       "game_name": "Metal Gear Solid: The Legacy Collection",
       "file": "missing/M/20196-metal-gear-solid-the-legacy-collection.json"
+    },
+    {
+      "igdb_id": 18683,
+      "game_name": "Metal Gear Solid: VR Missions",
+      "file": "missing/M/18683-metal-gear-solid-vr-missions.json"
     },
     {
       "igdb_id": 22703,
@@ -581460,6 +581580,11 @@
       "igdb_id": 43668,
       "game_name": "Monster Hunter 2",
       "file": "missing/M/43668-monster-hunter-2.json"
+    },
+    {
+      "igdb_id": 2271,
+      "game_name": "Monster Hunter 3 Ultimate",
+      "file": "missing/M/2271-monster-hunter-3-ultimate.json"
     },
     {
       "igdb_id": 6440,
@@ -617657,6 +617782,11 @@
       "file": "missing/N/144330-nier-automata-day-one-edition.json"
     },
     {
+      "igdb_id": 113345,
+      "game_name": "Nier: Automata - Game of the Yorha Edition",
+      "file": "missing/N/113345-nier-automata-game-of-the-yorha-edition.json"
+    },
+    {
       "igdb_id": 44539,
       "game_name": "NieR: Automata - Limited Edition Steelbook",
       "file": "missing/N/44539-nier-automata-limited-edition-steelbook.json"
@@ -639232,6 +639362,11 @@
       "file": "missing/O/225688-one-piece-pirate-warriors-2-collectors-editon.json"
     },
     {
+      "igdb_id": 6804,
+      "game_name": "One Piece: Pirate Warriors 3",
+      "file": "missing/O/6804-one-piece-pirate-warriors-3.json"
+    },
+    {
       "igdb_id": 77177,
       "game_name": "One Piece: Pirate Warriors 3 - Deluxe Edition",
       "file": "missing/O/77177-one-piece-pirate-warriors-3-deluxe-edition.json"
@@ -657620,6 +657755,11 @@
       "igdb_id": 344008,
       "game_name": "Paradise Island: Exotic",
       "file": "missing/P/344008-paradise-island-exotic.json"
+    },
+    {
+      "igdb_id": 127816,
+      "game_name": "Paradise Killer",
+      "file": "missing/P/127816-paradise-killer.json"
     },
     {
       "igdb_id": 154518,
@@ -677555,6 +677695,11 @@
       "igdb_id": 21283,
       "game_name": "Pirates of the Burning Sea",
       "file": "missing/P/21283-pirates-of-the-burning-sea.json"
+    },
+    {
+      "igdb_id": 5982,
+      "game_name": "Pirates of the Caribbean",
+      "file": "missing/P/5982-pirates-of-the-caribbean.json"
     },
     {
       "igdb_id": 81226,
@@ -720317,6 +720462,11 @@
       "file": "missing/R/279221-r-type.json"
     },
     {
+      "igdb_id": 6840,
+      "game_name": "R-Type",
+      "file": "missing/R/6840-r-type.json"
+    },
+    {
       "igdb_id": 210583,
       "game_name": "R-Type Complete CD",
       "file": "missing/R/210583-r-type-complete-cd.json"
@@ -727512,6 +727662,11 @@
       "file": "missing/R/45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json"
     },
     {
+      "igdb_id": 1796,
+      "game_name": "Ratchet & Clank: All 4 One",
+      "file": "missing/R/1796-ratchet-and-clank-all-4-one.json"
+    },
+    {
       "igdb_id": 225652,
       "game_name": "Ratchet & Clank: Clone Home",
       "file": "missing/R/225652-ratchet-and-clank-clone-home.json"
@@ -733205,6 +733360,11 @@
       "igdb_id": 141338,
       "game_name": "Red Dead Online",
       "file": "missing/R/141338-red-dead-online.json"
+    },
+    {
+      "igdb_id": 260735,
+      "game_name": "Red Dead Redemption",
+      "file": "missing/R/260735-red-dead-redemption.json"
     },
     {
       "igdb_id": 260737,
@@ -739420,6 +739580,11 @@
       "igdb_id": 82423,
       "game_name": "Resident Evil: Deluxe Origins Bundle",
       "file": "missing/R/82423-resident-evil-deluxe-origins-bundle.json"
+    },
+    {
+      "igdb_id": 23377,
+      "game_name": "Resident Evil: Director's Cut",
+      "file": "missing/R/23377-resident-evil-directors-cut.json"
     },
     {
       "igdb_id": 317968,
@@ -749957,6 +750122,11 @@
       "file": "missing/R/192616-robin-hood-spring-of-life.json"
     },
     {
+      "igdb_id": 851,
+      "game_name": "Robin Hood: The Legend of Sherwood",
+      "file": "missing/R/851-robin-hood-the-legend-of-sherwood.json"
+    },
+    {
       "igdb_id": 141092,
       "game_name": "Robin Hood: The Siege",
       "file": "missing/R/141092-robin-hood-the-siege.json"
@@ -751905,6 +752075,11 @@
       "igdb_id": 103348,
       "game_name": "Rock n' Rush Battle Racing",
       "file": "missing/R/103348-rock-n-rush-battle-racing.json"
+    },
+    {
+      "igdb_id": 2284,
+      "game_name": "Rock of Ages",
+      "file": "missing/R/2284-rock-of-ages.json"
     },
     {
       "igdb_id": 118905,
@@ -769265,6 +769440,11 @@
       "igdb_id": 300426,
       "game_name": "Samsara Room",
       "file": "missing/S/300426-samsara-room.json"
+    },
+    {
+      "igdb_id": 75123,
+      "game_name": "Samsara Room",
+      "file": "missing/S/75123-samsara-room.json"
     },
     {
       "igdb_id": 174249,
@@ -794267,6 +794447,11 @@
       "file": "missing/S/242045-shinobi-harisenbo.json"
     },
     {
+      "igdb_id": 2623,
+      "game_name": "Shinobi III: Return of the Ninja Master",
+      "file": "missing/S/2623-shinobi-iii-return-of-the-ninja-master.json"
+    },
+    {
       "igdb_id": 332845,
       "game_name": "Shinobi Match",
       "file": "missing/S/332845-shinobi-match.json"
@@ -799050,6 +799235,11 @@
       "igdb_id": 9197,
       "game_name": "Sid Meier's Alien Crossfire",
       "file": "missing/S/9197-sid-meiers-alien-crossfire.json"
+    },
+    {
+      "igdb_id": 863,
+      "game_name": "Sid Meier's Alpha Centauri",
+      "file": "missing/S/863-sid-meiers-alpha-centauri.json"
     },
     {
       "igdb_id": 864,
@@ -823390,6 +823580,11 @@
       "igdb_id": 287013,
       "game_name": "Sonic & Sega All-Stars Racing",
       "file": "missing/S/287013-sonic-and-sega-all-stars-racing.json"
+    },
+    {
+      "igdb_id": 5165,
+      "game_name": "Sonic & Sega All-Stars Racing",
+      "file": "missing/S/5165-sonic-and-sega-all-stars-racing.json"
     },
     {
       "igdb_id": 280800,
@@ -876702,6 +876897,11 @@
       "file": "missing/S/139882-super-punch-patrol.json"
     },
     {
+      "igdb_id": 9151,
+      "game_name": "Super Punch-Out!!",
+      "file": "missing/S/9151-super-punch-out.json"
+    },
+    {
       "igdb_id": 9152,
       "game_name": "Super Punch-Out!!",
       "file": "missing/S/9152-super-punch-out.json"
@@ -878800,6 +879000,11 @@
       "igdb_id": 45195,
       "game_name": "Super Street Fighter II Turbo: Revival",
       "file": "missing/S/45195-super-street-fighter-ii-turbo-revival.json"
+    },
+    {
+      "igdb_id": 12860,
+      "game_name": "Super Street Fighter II: The New Challengers",
+      "file": "missing/S/12860-super-street-fighter-ii-the-new-challengers.json"
     },
     {
       "igdb_id": 198933,
@@ -902517,6 +902722,11 @@
       "file": "missing/T/336022-tellers-duty.json"
     },
     {
+      "igdb_id": 51528,
+      "game_name": "Telling Lies",
+      "file": "missing/T/51528-telling-lies.json"
+    },
+    {
       "igdb_id": 127560,
       "game_name": "Telltale Batman Shadows Edition",
       "file": "missing/T/127560-telltale-batman-shadows-edition.json"
@@ -919445,6 +919655,11 @@
       "igdb_id": 57,
       "game_name": "The Elder Scrolls III: Tribunal",
       "file": "missing/T/57-the-elder-scrolls-iii-tribunal.json"
+    },
+    {
+      "igdb_id": 7959,
+      "game_name": "The Elder Scrolls IV: Knights of the Nine",
+      "file": "missing/T/7959-the-elder-scrolls-iv-knights-of-the-nine.json"
     },
     {
       "igdb_id": 120642,
@@ -943217,6 +943432,11 @@
       "file": "missing/T/10222-the-revenge-of-shinobi.json"
     },
     {
+      "igdb_id": 3327,
+      "game_name": "The Revenge of Shinobi",
+      "file": "missing/T/3327-the-revenge-of-shinobi.json"
+    },
+    {
       "igdb_id": 260329,
       "game_name": "The Revenge of Tungsten",
       "file": "missing/T/260329-the-revenge-of-tungsten.json"
@@ -945185,6 +945405,11 @@
       "igdb_id": 2596,
       "game_name": "The Settlers II: Veni, Vidi, Vici",
       "file": "missing/T/2596-the-settlers-ii-veni-vidi-vici.json"
+    },
+    {
+      "igdb_id": 3696,
+      "game_name": "The Settlers III",
+      "file": "missing/T/3696-the-settlers-iii.json"
     },
     {
       "igdb_id": 125210,
@@ -950335,6 +950560,11 @@
       "igdb_id": 264859,
       "game_name": "The Thing",
       "file": "missing/T/264859-the-thing.json"
+    },
+    {
+      "igdb_id": 6199,
+      "game_name": "The Thing",
+      "file": "missing/T/6199-the-thing.json"
     },
     {
       "igdb_id": 221750,
@@ -975512,6 +975742,11 @@
       "file": "missing/T/264874-tom-clancys-h-a-w-x.json"
     },
     {
+      "igdb_id": 983,
+      "game_name": "Tom Clancy's H.A.W.X",
+      "file": "missing/T/983-tom-clancys-h-a-w-x.json"
+    },
+    {
       "igdb_id": 341328,
       "game_name": "Tom Clancy's H.A.W.X 2",
       "file": "missing/T/341328-tom-clancys-h-a-w-x-2.json"
@@ -998207,6 +998442,11 @@
       "file": "missing/T/104248-tropico.json"
     },
     {
+      "igdb_id": 2594,
+      "game_name": "Tropico 3",
+      "file": "missing/T/2594-tropico-3.json"
+    },
+    {
       "igdb_id": 8926,
       "game_name": "Tropico 3: Absolute Power",
       "file": "missing/T/8926-tropico-3-absolute-power.json"
@@ -1014710,6 +1014950,11 @@
       "igdb_id": 33438,
       "game_name": "UnnyWorld",
       "file": "missing/U/33438-unnyworld.json"
+    },
+    {
+      "igdb_id": 22739,
+      "game_name": "Uno",
+      "file": "missing/U/22739-uno.json"
     },
     {
       "igdb_id": 255867,
@@ -1065705,6 +1065950,11 @@
       "igdb_id": 6461,
       "game_name": "WWE SmackDown! Shut Your Mouth",
       "file": "missing/W/6461-wwe-smackdown-shut-your-mouth.json"
+    },
+    {
+      "igdb_id": 18323,
+      "game_name": "WWE SmackDown! vs. Raw 2006",
+      "file": "missing/W/18323-wwe-smackdown-vs-raw-2006.json"
     },
     {
       "igdb_id": 79072,
