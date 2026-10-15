@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outl1ned | 341522 | [341522-outl1ned.json](./341522-outl1ned.json) |
+| Outland | 8371 | [8371-outland.json](./8371-outland.json) |
 | Outland 17 | 60997 | [60997-outland-17.json](./60997-outland-17.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
