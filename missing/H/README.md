@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
+| Hexarden | 58586 | [58586-hexarden.json](./58586-hexarden.json) |
 | Hexarium | 266818 | [266818-hexarium.json](./266818-hexarium.json) |
 | Hexaroma: Village Builder | 319598 | [319598-hexaroma-village-builder.json](./319598-hexaroma-village-builder.json) |
 | HexaScape: Cyber Defense | 298662 | [298662-hexascape-cyber-defense.json](./298662-hexascape-cyber-defense.json) |
@@ -5729,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
 | Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
+| Hockey Agent | 58134 | [58134-hockey-agent.json](./58134-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Camp - Goaltender | 114930 | [114930-hockey-camp-goaltender.json](./114930-hockey-camp-goaltender.json) |
