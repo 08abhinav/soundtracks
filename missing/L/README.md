@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Fortress: Underground | 219164 | [219164-last-fortress-underground.json](./219164-last-fortress-underground.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Front | 374206 | [374206-last-front.json](./374206-last-front.json) |
+| Last Galaxy Hero | 69784 | [69784-last-galaxy-hero.json](./69784-last-galaxy-hero.json) |
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links LS 2000: 10 Course Pack | 131270 | [131270-links-ls-2000-10-course-pack.json](./131270-links-ls-2000-10-course-pack.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
+| Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Castlepines | 93225 | [93225-links-championship-course-castlepines.json](./93225-links-championship-course-castlepines.json) |
 | Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
@@ -6632,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
+| Lunar Rover Patrol | 69734 | [69734-lunar-rover-patrol.json](./69734-lunar-rover-patrol.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
