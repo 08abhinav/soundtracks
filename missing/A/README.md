@@ -5881,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
 | Among the Monolyths | 180786 | [180786-among-the-monolyths.json](./180786-among-the-monolyths.json) |
 | Among the Others | 313325 | [313325-among-the-others.json](./313325-among-the-others.json) |
+| Among the Sleep | 7642 | [7642-among-the-sleep.json](./7642-among-the-sleep.json) |
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
 | Among the Stones | 27985 | [27985-among-the-stones.json](./27985-among-the-stones.json) |
 | Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
@@ -7635,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape | 203212 | [203212-ape-escape.json](./203212-ape-escape.json) |
+| Ape Escape | 3762 | [3762-ape-escape.json](./3762-ape-escape.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
 | Ape Escape 4 | 511 | [511-ape-escape-4.json](./511-ape-escape-4.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
@@ -9868,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
+| As Dusk Falls | 135995 | [135995-as-dusk-falls.json](./135995-as-dusk-falls.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
