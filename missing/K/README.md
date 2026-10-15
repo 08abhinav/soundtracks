@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Kappa's Asylum | 304565 | [304565-kappas-asylum.json](./304565-kappas-asylum.json) |
+| Kapsul Infinite | 31576 | [31576-kapsul-infinite.json](./31576-kapsul-infinite.json) |
 | Kapsyljakt med Anki & Pytte | 225648 | [225648-kapsyljakt-med-anki-and-pytte.json](./225648-kapsyljakt-med-anki-and-pytte.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kara Legends | 133134 | [133134-kara-legends.json](./133134-kara-legends.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kill | 262596 | [262596-kill.json](./262596-kill.json) |
+| Kill | 31631 | [31631-kill.json](./31631-kill.json) |
 | Kill | 36446 | [36446-kill.json](./36446-kill.json) |
 | Kill a Million Rats | 265340 | [265340-kill-a-million-rats.json](./265340-kill-a-million-rats.json) |
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
