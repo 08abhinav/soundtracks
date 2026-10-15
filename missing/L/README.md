@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
+| Layla | 19112 | [19112-layla.json](./19112-layla.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
+| Like a Boss | 19079 | [19079-like-a-boss.json](./19079-like-a-boss.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
