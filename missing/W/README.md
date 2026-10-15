@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
+| Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
