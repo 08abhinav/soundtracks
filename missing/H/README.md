@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Crown | 214100 | [214100-heroes-of-crown.json](./214100-heroes-of-crown.json) |
 | Heroes of Delum | 27408 | [27408-heroes-of-delum.json](./27408-heroes-of-delum.json) |
 | Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
+| Heroes of Dire | 27524 | [27524-heroes-of-dire.json](./27524-heroes-of-dire.json) |
 | Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Dungeon | 170372 | [170372-heroes-of-dungeon.json](./170372-heroes-of-dungeon.json) |
