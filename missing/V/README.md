@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
+| Veilia | 31616 | [31616-veilia.json](./31616-veilia.json) |
 | VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
+| VHSoverdose | 31591 | [31591-vhsoverdose.json](./31591-vhsoverdose.json) |
 | Vi.Dange | 152802 | [152802-vi-dange.json](./152802-vi-dange.json) |
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
 | Via Mortis | 200937 | [200937-via-mortis.json](./200937-via-mortis.json) |
@@ -2616,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
 | VR Aim Trainer | 371590 | [371590-vr-aim-trainer.json](./371590-vr-aim-trainer.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
+| VR Amazing Files: Horror Hospital | 31588 | [31588-vr-amazing-files-horror-hospital.json](./31588-vr-amazing-files-horror-hospital.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
 | VR Another World | 152810 | [152810-vr-another-world.json](./152810-vr-another-world.json) |
