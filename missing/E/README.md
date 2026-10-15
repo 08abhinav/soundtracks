@@ -5247,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expansion Core | 201510 | [201510-expansion-core.json](./201510-expansion-core.json) |
+| Expect No Mercy | 47103 | [47103-expect-no-mercy.json](./47103-expect-no-mercy.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
@@ -5519,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exverse | 296810 | [296810-exverse.json](./296810-exverse.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
+| ExZeus 2 | 47129 | [47129-exzeus-2.json](./47129-exzeus-2.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
