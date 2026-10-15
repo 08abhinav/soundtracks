@@ -8661,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
 | Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
+| Popeye no Eigo Asobi | 48641 | [48641-popeye-no-eigo-asobi.json](./48641-popeye-no-eigo-asobi.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes 0 | 238963 | [238963-popgoes-0.json](./238963-popgoes-0.json) |
