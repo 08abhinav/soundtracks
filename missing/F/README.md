@@ -7933,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
+| Freedom Locomotion VR | 29651 | [29651-freedom-locomotion-vr.json](./29651-freedom-locomotion-vr.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Physics | 169354 | [169354-freedom-physics.json](./169354-freedom-physics.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
