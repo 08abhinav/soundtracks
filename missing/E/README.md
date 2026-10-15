@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
+| Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
 | Empire Hike | 395767 | [395767-empire-hike.json](./395767-empire-hike.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
 | Endless Alice Crysis: Ai to Dokuyaku | 204988 | [204988-endless-alice-crysis-ai-to-dokuyaku.json](./204988-endless-alice-crysis-ai-to-dokuyaku.json) |
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
 | Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
@@ -3152,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equipmentris | 184361 | [184361-equipmentris.json](./184361-equipmentris.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| ER | 69779 | [69779-er.json](./69779-er.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
