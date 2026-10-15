@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels: Under the Spell of Magic - Chapter 4 | 267285 | [267285-rebels-under-the-spell-of-magic-chapter-4.json](./267285-rebels-under-the-spell-of-magic-chapter-4.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
 | Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
+| Rebelstar Raiders | 36880 | [36880-rebelstar-raiders.json](./36880-rebelstar-raiders.json) |
 | Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
 | Rebirth | 116854 | [116854-rebirth.json](./116854-rebirth.json) |
 | Rebirth | 329796 | [329796-rebirth.json](./329796-rebirth.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth | 121566 | [121566-return-to-earth.json](./121566-return-to-earth.json) |
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
+| Return to Eden | 36844 | [36844-return-to-eden.json](./36844-return-to-eden.json) |
 | Return to Empire | 188336 | [188336-return-to-empire.json](./188336-return-to-empire.json) |
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
@@ -6870,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
 | Rogue Trooper | 292227 | [292227-rogue-trooper.json](./292227-rogue-trooper.json) |
+| Rogue Trooper | 36881 | [36881-rogue-trooper.json](./36881-rogue-trooper.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Trooper: Redux | 27519 | [27519-rogue-trooper-redux.json](./27519-rogue-trooper-redux.json) |
