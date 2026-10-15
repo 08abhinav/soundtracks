@@ -7506,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
+| Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
@@ -9257,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
+| Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
 | Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
@@ -10967,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
+| Project X | 54994 | [54994-project-x.json](./54994-project-x.json) |
 | Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
 | Project X Zone 2 | 9721 | [9721-project-x-zone-2.json](./9721-project-x-zone-2.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
