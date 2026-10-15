@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
 | Inmates | 27779 | [27779-inmates.json](./27779-inmates.json) |
+| InMind VR | 19024 | [19024-inmind-vr.json](./19024-inmind-vr.json) |
 | InMomentum | 10435 | [10435-inmomentum.json](./10435-inmomentum.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer Deluxe | 9862 | [9862-international-superstar-soccer-deluxe.json](./9862-international-superstar-soccer-deluxe.json) |
 | International Table Tennis | 194251 | [194251-international-table-tennis.json](./194251-international-table-tennis.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
+| International Tennis Open | 19078 | [19078-international-tennis-open.json](./19078-international-tennis-open.json) |
 | International Tennis Tour | 44453 | [44453-international-tennis-tour.json](./44453-international-tennis-tour.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
 | International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
