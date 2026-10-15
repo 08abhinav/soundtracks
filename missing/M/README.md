@@ -11755,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
 | Mortal Kombat: Outworld Assassins | 257336 | [257336-mortal-kombat-outworld-assassins.json](./257336-mortal-kombat-outworld-assassins.json) |
+| Mortal Kombat: Shaolin Monks | 1614 | [1614-mortal-kombat-shaolin-monks.json](./1614-mortal-kombat-shaolin-monks.json) |
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
@@ -12861,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
+| Muck | 148397 | [148397-muck.json](./148397-muck.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
