@@ -5608,6 +5608,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
+| Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
+| Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
@@ -9811,7 +9813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
 | Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
-| Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
 | Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
 | Coral Quest | 164269 | [164269-coral-quest.json](./164269-coral-quest.json) |
 | Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
