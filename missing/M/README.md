@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
+| Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
 | Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Goes Skateboarding 64 | 338307 | [338307-mario-goes-skateboarding-64.json](./338307-mario-goes-skateboarding-64.json) |
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
+| Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
@@ -2780,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
 | Mario Party 1: Mambo Beach | 283633 | [283633-mario-party-1-mambo-beach.json](./283633-mario-party-1-mambo-beach.json) |
 | Mario Party 1: SNES Rainbow Road | 283421 | [283421-mario-party-1-snes-rainbow-road.json](./283421-mario-party-1-snes-rainbow-road.json) |
+| Mario Party 10 | 7340 | [7340-mario-party-10.json](./7340-mario-party-10.json) |
 | Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
@@ -2790,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
+| Mario Party 9 | 2336 | [2336-mario-party-9.json](./2336-mario-party-9.json) |
 | Mario Party Challenge World | 230168 | [230168-mario-party-challenge-world.json](./230168-mario-party-challenge-world.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
 | Mario Party Kuru-kuru! Carnival | 230166 | [230166-mario-party-kuru-kuru-carnival.json](./230166-mario-party-kuru-kuru-carnival.json) |
@@ -4135,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
+| Max: The Curse of Brotherhood | 4848 | [4848-max-the-curse-of-brotherhood.json](./4848-max-the-curse-of-brotherhood.json) |
 | Max's Adventures: Summer Edition | 390077 | [390077-maxs-adventures-summer-edition.json](./390077-maxs-adventures-summer-edition.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
@@ -6636,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
+| Metal Gear Solid: VR Missions | 18683 | [18683-metal-gear-solid-vr-missions.json](./18683-metal-gear-solid-vr-missions.json) |
 | Metal Gear Survive | 22703 | [22703-metal-gear-survive.json](./22703-metal-gear-survive.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
@@ -10714,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter | 352353 | [352353-monster-hunter.json](./352353-monster-hunter.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
+| Monster Hunter 3 Ultimate | 2271 | [2271-monster-hunter-3-ultimate.json](./2271-monster-hunter-3-ultimate.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
