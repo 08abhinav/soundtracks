@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Trivia | 369751 | [369751-quick-trivia.json](./369751-quick-trivia.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
 | Quick Words | 195474 | [195474-quick-words.json](./195474-quick-words.json) |
+| Quick Yoga Training | 47877 | [47877-quick-yoga-training.json](./47877-quick-yoga-training.json) |
 | Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
 | Quick! Mom's Home! | 107013 | [107013-quick-moms-home.json](./107013-quick-moms-home.json) |
