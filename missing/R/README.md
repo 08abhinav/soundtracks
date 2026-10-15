@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
 | Real World Golf | 80386 | [80386-real-world-golf.json](./80386-real-world-golf.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
+| Real World Racing | 7028 | [7028-real-world-racing.json](./7028-real-world-racing.json) |
 | Real World Racing RWR: Z | 10756 | [10756-real-world-racing-rwr-z.json](./10756-real-world-racing-rwr-z.json) |
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real Wrestling Fighting Game | 266255 | [266255-real-wrestling-fighting-game.json](./266255-real-wrestling-fighting-game.json) |
@@ -7269,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IX: Power Up Kit | 350632 | [350632-romance-of-the-three-kingdoms-ix-power-up-kit.json](./350632-romance-of-the-three-kingdoms-ix-power-up-kit.json) |
 | Romance of the Three Kingdoms Maker | 34575 | [34575-romance-of-the-three-kingdoms-maker.json](./34575-romance-of-the-three-kingdoms-maker.json) |
 | Romance of the Three Kingdoms V with Power Up Kit | 91115 | [91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json](./91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json) |
+| Romance of the Three Kingdoms VI: Awakening of the Dragon | 7048 | [7048-romance-of-the-three-kingdoms-vi-awakening-of-the-dragon.json](./7048-romance-of-the-three-kingdoms-vi-awakening-of-the-dragon.json) |
 | Romance of the Three Kingdoms VI: Power Up Kit | 350630 | [350630-romance-of-the-three-kingdoms-vi-power-up-kit.json](./350630-romance-of-the-three-kingdoms-vi-power-up-kit.json) |
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
 | Romance of the Three Kingdoms VII: Power Up Kit | 350629 | [350629-romance-of-the-three-kingdoms-vii-power-up-kit.json](./350629-romance-of-the-three-kingdoms-vii-power-up-kit.json) |
