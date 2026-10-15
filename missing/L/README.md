@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Land of Zympaia: The New Light | 191047 | [191047-land-of-zympaia-the-new-light.json](./191047-land-of-zympaia-the-new-light.json) |
+| Land Sea Air Squad | 40085 | [40085-land-sea-air-squad.json](./40085-land-sea-air-squad.json) |
 | Land Snake.io | 87033 | [87033-land-snake-io.json](./87033-land-snake-io.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
 | Land-a Panda | 174620 | [174620-land-a-panda.json](./174620-land-a-panda.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
+| Lasso | 40084 | [40084-lasso.json](./40084-lasso.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Lasso Legend | 364655 | [364655-lasso-legend.json](./364655-lasso-legend.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
@@ -943,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
+| Last Mission | 40083 | [40083-last-mission.json](./40083-last-mission.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
@@ -4665,10 +4668,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lode Runner | 282565 | [282565-lode-runner.json](./282565-lode-runner.json) |
 | Lode Runner | 69179 | [69179-lode-runner.json](./69179-lode-runner.json) |
+| Lode Runner - Teikoku Karano Dasshutsu | 40081 | [40081-lode-runner-teikoku-karano-dasshutsu.json](./40081-lode-runner-teikoku-karano-dasshutsu.json) |
 | Lode Runner 2 | 73760 | [73760-lode-runner-2.json](./73760-lode-runner-2.json) |
 | Lode Runner Classic | 64881 | [64881-lode-runner-classic.json](./64881-lode-runner-classic.json) |
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
+| Lode Runner III - The Golden Labyrinth | 40082 | [40082-lode-runner-iii-the-golden-labyrinth.json](./40082-lode-runner-iii-the-golden-labyrinth.json) |
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
 | Lode Runner On-Line: The Mad Monks' Revenge | 72299 | [72299-lode-runner-on-line-the-mad-monks-revenge.json](./72299-lode-runner-on-line-the-mad-monks-revenge.json) |
 | Lode Runner Twin: Justy to Liberty no Daibouken | 38219 | [38219-lode-runner-twin-justy-to-liberty-no-daibouken.json](./38219-lode-runner-twin-justy-to-liberty-no-daibouken.json) |
