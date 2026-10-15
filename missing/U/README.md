@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S. Navy Fighters - Marine Fighters | 70463 | [70463-u-s-navy-fighters-marine-fighters.json](./70463-u-s-navy-fighters-marine-fighters.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
+| U.S.A.A.F. - United States Army Air Force | 26286 | [26286-u-s-a-a-f-united-states-army-air-force.json](./26286-u-s-a-a-f-united-states-army-air-force.json) |
 | U.S.G. A New Beginning | 216332 | [216332-u-s-g-a-new-beginning.json](./216332-u-s-g-a-new-beginning.json) |
 | U.S.S. Stinger | 93177 | [93177-u-s-s-stinger.json](./93177-u-s-s-stinger.json) |
 | U.S.Z.I.O.K. | 376061 | [376061-u-s-z-i-o-k.json](./376061-u-s-z-i-o-k.json) |
