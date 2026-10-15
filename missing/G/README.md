@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosthunter | 22279 | [22279-ghosthunter.json](./22279-ghosthunter.json) |
 | Ghosthunter | 305475 | [305475-ghosthunter.json](./305475-ghosthunter.json) |
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
+| Ghostie Quest | 51854 | [51854-ghostie-quest.json](./51854-ghostie-quest.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
+| Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
 | Gods, Death & Reapers | 328104 | [328104-gods-death-and-reapers.json](./328104-gods-death-and-reapers.json) |
 | Gods: Lands of Infinity - Special Edition | 54054 | [54054-gods-lands-of-infinity-special-edition.json](./54054-gods-lands-of-infinity-special-edition.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
@@ -4642,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
+| Gonner: Press Jump to Die Edition | 51831 | [51831-gonner-press-jump-to-die-edition.json](./51831-gonner-press-jump-to-die-edition.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Gonshit infarct | 253510 | [253510-gonshit-infarct.json](./253510-gonshit-infarct.json) |
@@ -5898,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
+| Great Battles Collector's Edition | 51830 | [51830-great-battles-collectors-edition.json](./51830-great-battles-collectors-edition.json) |
 | Great Battles of the American Civil War | 125773 | [125773-great-battles-of-the-american-civil-war.json](./125773-great-battles-of-the-american-civil-war.json) |
 | Great Battles of the American Civil War | 209776 | [209776-great-battles-of-the-american-civil-war.json](./209776-great-battles-of-the-american-civil-war.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
@@ -6622,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Control | 734 | [734-ground-control.json](./734-ground-control.json) |
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
+| Ground Control II: Operation Exodus - Special Edition | 51829 | [51829-ground-control-ii-operation-exodus-special-edition.json](./51829-ground-control-ii-operation-exodus-special-edition.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
@@ -6956,6 +6961,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Dragons | 217450 | [217450-guild-of-dragons.json](./217450-guild-of-dragons.json) |
 | Guild of Dungeoneering | 11447 | [11447-guild-of-dungeoneering.json](./11447-guild-of-dungeoneering.json) |
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
+| Guild of Dungeoneering: Deluxe Ice Cream Edition | 51828 | [51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json](./51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json) |
+| Guild of Dungeoneering: Ice Cream Headaches | 51827 | [51827-guild-of-dungeoneering-ice-cream-headaches.json](./51827-guild-of-dungeoneering-ice-cream-headaches.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
