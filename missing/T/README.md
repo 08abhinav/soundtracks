@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics 2: War | 61610 | [61610-tactics-2-war.json](./61610-tactics-2-war.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Despair: Falling Fellows | 82846 | [82846-tactics-despair-falling-fellows.json](./82846-tactics-despair-falling-fellows.json) |
+| Tactics Forever | 38785 | [38785-tactics-forever.json](./38785-tactics-forever.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
 | Tactics Greed | 258369 | [258369-tactics-greed.json](./258369-tactics-greed.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
@@ -2113,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
+| Teal | 38775 | [38775-teal.json](./38775-teal.json) |
 | Teal'c's Revenge | 62673 | [62673-tealcs-revenge.json](./62673-tealcs-revenge.json) |
 | Tealerland | 159129 | [159129-tealerland.json](./159129-tealerland.json) |
 | TealGrounds | 192649 | [192649-tealgrounds.json](./192649-tealgrounds.json) |
@@ -2232,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
+| Tearstone | 38760 | [38760-tearstone.json](./38760-tearstone.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
 | Tease and Please: Charlotte Edition | 367297 | [367297-tease-and-please-charlotte-edition.json](./367297-tease-and-please-charlotte-edition.json) |
@@ -6224,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
+| The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
@@ -6890,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
+| The Glade | 38806 | [38806-the-glade.json](./38806-the-glade.json) |
 | The Gladhollow Nasties | 128272 | [128272-the-gladhollow-nasties.json](./128272-the-gladhollow-nasties.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
 | The Gladiators of Rome | 27619 | [27619-the-gladiators-of-rome.json](./27619-the-gladiators-of-rome.json) |
@@ -8349,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Safe Place | 290000 | [290000-the-last-safe-place.json](./290000-the-last-safe-place.json) |
 | The Last Salvage Squad | 376277 | [376277-the-last-salvage-squad.json](./376277-the-last-salvage-squad.json) |
+| The Last Sanctuary VR | 38809 | [38809-the-last-sanctuary-vr.json](./38809-the-last-sanctuary-vr.json) |
 | The Last Saviour | 151073 | [151073-the-last-saviour.json](./151073-the-last-saviour.json) |
 | The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
@@ -8406,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
+| The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
 | The Last Vampire | 293315 | [293315-the-last-vampire.json](./293315-the-last-vampire.json) |
 | The Last Vampire | 77173 | [77173-the-last-vampire.json](./77173-the-last-vampire.json) |
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
@@ -21012,6 +21019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
 | Trenches of Europe 2 | 199945 | [199945-trenches-of-europe-2.json](./199945-trenches-of-europe-2.json) |
+| Trenches of War | 38758 | [38758-trenches-of-war.json](./38758-trenches-of-war.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
