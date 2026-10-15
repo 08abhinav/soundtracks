@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary Girl: Prequel | 253347 | [253347-imaginary-girl-prequel.json](./253347-imaginary-girl-prequel.json) |
 | Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
 | Imaginary Golf Game | 413176 | [413176-imaginary-golf-game.json](./413176-imaginary-golf-game.json) |
+| Imaginary Range | 65986 | [65986-imaginary-range.json](./65986-imaginary-range.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginary Spectacle Parade | 335425 | [335425-imaginary-spectacle-parade.json](./335425-imaginary-spectacle-parade.json) |
 | Imaginary Worlds Bundle | 125136 | [125136-imaginary-worlds-bundle.json](./125136-imaginary-worlds-bundle.json) |
