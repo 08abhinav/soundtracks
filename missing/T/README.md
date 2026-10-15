@@ -5211,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conundrum Collection | 327783 | [327783-the-conundrum-collection.json](./327783-the-conundrum-collection.json) |
+| The Conveni 200X | 6944 | [6944-the-conveni-200x.json](./6944-the-conveni-200x.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
@@ -7545,6 +7546,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idle Forces: Army Tycoon | 245288 | [245288-the-idle-forces-army-tycoon.json](./245288-the-idle-forces-army-tycoon.json) |
 | The Idle Undead | 210573 | [210573-the-idle-undead.json](./210573-the-idle-undead.json) |
 | The Idolmaster | 281482 | [281482-the-idolmaster.json](./281482-the-idolmaster.json) |
+| The Idolmaster | 7013 | [7013-the-idolmaster.json](./7013-the-idolmaster.json) |
+| The Idolmaster 2 | 7014 | [7014-the-idolmaster-2.json](./7014-the-idolmaster-2.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
 | The Idolmaster Tours | 241446 | [241446-the-idolmaster-tours.json](./241446-the-idolmaster-tours.json) |
@@ -7564,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Gravure for You! Vol. 9 | 56399 | [56399-the-idolmaster-gravure-for-you-vol-9.json](./56399-the-idolmaster-gravure-for-you-vol-9.json) |
+| The Idolmaster: Live For You! | 7015 | [7015-the-idolmaster-live-for-you.json](./7015-the-idolmaster-live-for-you.json) |
 | The Idolmaster: Live in Slot! | 77858 | [77858-the-idolmaster-live-in-slot.json](./77858-the-idolmaster-live-in-slot.json) |
 | The Idolmaster: Million Live! | 56398 | [56398-the-idolmaster-million-live.json](./56398-the-idolmaster-million-live.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
@@ -11828,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
+| The Stomping Land | 6731 | [6731-the-stomping-land.json](./6731-the-stomping-land.json) |
 | The Stone | 55448 | [55448-the-stone.json](./55448-the-stone.json) |
 | The Stone Cutter and the Mountain Spirit | 207352 | [207352-the-stone-cutter-and-the-mountain-spirit.json](./207352-the-stone-cutter-and-the-mountain-spirit.json) |
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
@@ -15973,6 +15978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
+| Time Travelers | 6903 | [6903-time-travelers.json](./6903-time-travelers.json) |
 | Time Traveling Raptors | 108336 | [108336-time-traveling-raptors.json](./108336-time-traveling-raptors.json) |
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
@@ -17764,6 +17770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Top Trumps: Doctor Who | 4814 | [4814-top-trumps-doctor-who.json](./4814-top-trumps-doctor-who.json) |
 | Top Trumps: Dogs & Dinosaurs | 64221 | [64221-top-trumps-dogs-and-dinosaurs.json](./64221-top-trumps-dogs-and-dinosaurs.json) |
+| Top Trumps: NBA All Stars | 6904 | [6904-top-trumps-nba-all-stars.json](./6904-top-trumps-nba-all-stars.json) |
 | Top Trumps: US Presidents | 57553 | [57553-top-trumps-us-presidents.json](./57553-top-trumps-us-presidents.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
