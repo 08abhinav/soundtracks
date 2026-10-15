@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws Regal Resort | 210015 | [210015-paws-and-claws-regal-resort.json](./210015-paws-and-claws-regal-resort.json) |
 | Paws & Claws: Dogs & Cats Best Friends | 47893 | [47893-paws-and-claws-dogs-and-cats-best-friends.json](./47893-paws-and-claws-dogs-and-cats-best-friends.json) |
+| Paws & Claws: Marine Rescue | 47851 | [47851-paws-and-claws-marine-rescue.json](./47851-paws-and-claws-marine-rescue.json) |
 | Paws & Claws: Pampered Pets | 29197 | [29197-paws-and-claws-pampered-pets.json](./29197-paws-and-claws-pampered-pets.json) |
 | Paws & Claws: Pampered Pets Resort 3D | 85336 | [85336-paws-and-claws-pampered-pets-resort-3d.json](./85336-paws-and-claws-pampered-pets-resort-3d.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Hamsterz Family | 85337 | [85337-petz-hamsterz-family.json](./85337-petz-hamsterz-family.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
+| Petz Monkeyz House | 47854 | [47854-petz-monkeyz-house.json](./47854-petz-monkeyz-house.json) |
 | Petz Nursery 2 | 47894 | [47894-petz-nursery-2.json](./47894-petz-nursery-2.json) |
 | Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
 | Petz Puppyz and Kittenz | 209990 | [209990-petz-puppyz-and-kittenz.json](./209990-petz-puppyz-and-kittenz.json) |
@@ -4287,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece It! | 295143 | [295143-piece-it.json](./295143-piece-it.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
+| Piece of Memory | 48014 | [48014-piece-of-memory.json](./48014-piece-of-memory.json) |
 | Piece of Memory 2: Prologue | 48010 | [48010-piece-of-memory-2-prologue.json](./48010-piece-of-memory-2-prologue.json) |
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Piece of the Pie Pursuit | 97155 | [97155-piece-of-the-pie-pursuit.json](./97155-piece-of-the-pie-pursuit.json) |
