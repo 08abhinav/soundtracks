@@ -589,6 +589,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 4: Limited Edition | 45148 | [45148-halo-4-limited-edition.json](./45148-halo-4-limited-edition.json) |
 | Halo 4: Majestic Map Pack | 75415 | [75415-halo-4-majestic-map-pack.json](./75415-halo-4-majestic-map-pack.json) |
 | Halo 5: Guardians - Digital Deluxe Edition | 75413 | [75413-halo-5-guardians-digital-deluxe-edition.json](./75413-halo-5-guardians-digital-deluxe-edition.json) |
+| Halo 5: Guardians - Limited Collector's Edition | 45144 | [45144-halo-5-guardians-limited-collectors-edition.json](./45144-halo-5-guardians-limited-collectors-edition.json) |
+| Halo 5: Guardians - Limited Edition | 45145 | [45145-halo-5-guardians-limited-edition.json](./45145-halo-5-guardians-limited-edition.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
@@ -624,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | Halo: Reach - Noble Map Pack | 176906 | [176906-halo-reach-noble-map-pack.json](./176906-halo-reach-noble-map-pack.json) |
+| Halo: Reach Limited Edition | 45146 | [45146-halo-reach-limited-edition.json](./45146-halo-reach-limited-edition.json) |
 | Halo: Recruit | 72766 | [72766-halo-recruit.json](./72766-halo-recruit.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
