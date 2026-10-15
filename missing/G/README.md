@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
 | God Hand | 114865 | [114865-god-hand.json](./114865-god-hand.json) |
+| God Hand | 8803 | [8803-god-hand.json](./8803-god-hand.json) |
 | God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
 | God is a Cube: Programming Robot Cubes | 58110 | [58110-god-is-a-cube-programming-robot-cubes.json](./58110-god-is-a-cube-programming-robot-cubes.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
