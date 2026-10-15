@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
+| Party Animals | 137989 | [137989-party-animals.json](./137989-party-animals.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
@@ -7822,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Generations | 259768 | [259768-pokemon-pinball-generations.json](./259768-pokemon-pinball-generations.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
+| Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
