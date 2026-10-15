@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | GasZilla | 226800 | [226800-gaszilla.json](./226800-gaszilla.json) |
+| Gat Life: Boyfriend Bar | 60451 | [60451-gat-life-boyfriend-bar.json](./60451-gat-life-boyfriend-bar.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
 | Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
+| Gems With Friends | 60469 | [60469-gems-with-friends.json](./60469-gems-with-friends.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstone Defense | 165760 | [165760-gemstone-defense.json](./165760-gemstone-defense.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
@@ -3062,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlfriends with Benefits | 206029 | [206029-girlfriends-with-benefits.json](./206029-girlfriends-with-benefits.json) |
 | GirlHub | 189982 | [189982-girlhub.json](./189982-girlhub.json) |
+| Girlish Grimoire Littlewitch Romanesque | 60425 | [60425-girlish-grimoire-littlewitch-romanesque.json](./60425-girlish-grimoire-littlewitch-romanesque.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
