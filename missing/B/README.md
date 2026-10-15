@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.C. Story | 40984 | [40984-b-c-story.json](./40984-b-c-story.json) |
 | B.C.'s Quest for Tires | 12294 | [12294-b-c-s-quest-for-tires.json](./12294-b-c-s-quest-for-tires.json) |
+| B.C.E. | 38748 | [38748-b-c-e.json](./38748-b-c-e.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
@@ -7130,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
+| Block Legend | 38801 | [38801-block-legend.json](./38801-block-legend.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Machine | 149901 | [149901-block-machine.json](./149901-block-machine.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
@@ -8415,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
+| Bomb Defense | 38774 | [38774-bomb-defense.json](./38774-bomb-defense.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Disposer | 59805 | [59805-bomb-disposer.json](./59805-bomb-disposer.json) |
@@ -11709,6 +11712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump N' Run | 221896 | [221896-bump-n-run.json](./221896-bump-n-run.json) |
 | Bump Over | 94655 | [94655-bump-over.json](./94655-bump-over.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
+| Bump+Smack | 38762 | [38762-bump-smack.json](./38762-bump-smack.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
