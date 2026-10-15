@@ -602,7 +602,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Piece | 266279 | [266279-zero-piece.json](./266279-zero-piece.json) |
 | Zero Pilot | 42754 | [42754-zero-pilot.json](./42754-zero-pilot.json) |
+| Zero Pilot Zero | 59350 | [59350-zero-pilot-zero.json](./59350-zero-pilot-zero.json) |
 | Zero Pilot: Dai-san-ji Sekai Taisen 1946 | 59359 | [59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json](./59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json) |
+| Zero Pilot: Fighter of Silver WIng | 59352 | [59352-zero-pilot-fighter-of-silver-wing.json](./59352-zero-pilot-fighter-of-silver-wing.json) |
+| Zero Pilot: Kosora no Kiseki | 59348 | [59348-zero-pilot-kosora-no-kiseki.json](./59348-zero-pilot-kosora-no-kiseki.json) |
 | Zero Point | 30378 | [30378-zero-point.json](./30378-zero-point.json) |
 | Zero point 2 | 39815 | [39815-zero-point-2.json](./39815-zero-point-2.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
