@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
+| End of Days | 63740 | [63740-end-of-days.json](./63740-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
 | End of End | 394122 | [394122-end-of-end.json](./394122-end-of-end.json) |
