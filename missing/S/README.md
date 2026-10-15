@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
 | Saki Zenkoku Hen Plus | 136751 | [136751-saki-zenkoku-hen-plus.json](./136751-saki-zenkoku-hen-plus.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
+| Sakigake!! Kuromati Koukou | 56960 | [56960-sakigake-kuromati-koukou.json](./56960-sakigake-kuromati-koukou.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
@@ -7422,12 +7423,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
+| Simple 2000 Series Ultimate Vol.19: Akagi - Yami ni Furitatta Tensai | 56958 | [56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json](./56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json) |
 | Simple 2000 Series Vol. 1: The Table Board | 203180 | [203180-simple-2000-series-vol-1-the-table-board.json](./203180-simple-2000-series-vol-1-the-table-board.json) |
 | Simple 2000 Series Vol. 100: The Otoko Tachi no Kijuu Houza | 203330 | [203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json](./203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json) |
 | Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight | 203334 | [203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json](./203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json) |
 | Simple 2000 Series Vol. 105: The Maid Fuku to Kikanjuu | 43478 | [43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json](./43478-simple-2000-series-vol-105-the-maid-fuku-to-kikanjuu.json) |
 | Simple 2000 Series Vol. 109: The Taxi 2 | 203335 | [203335-simple-2000-series-vol-109-the-taxi-2.json](./203335-simple-2000-series-vol-109-the-taxi-2.json) |
 | Simple 2000 Series Vol. 110: The Toubou Prisoner - Ross City Shinjitsu he no 10-Jikan | 60891 | [60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json](./60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json) |
+| Simple 2000 Series Vol. 114: The Onna Okappichi Torimonochou - Oharuchan Go Go Go! | 56965 | [56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json](./56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json) |
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
 | Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
@@ -7441,11 +7444,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
 | Simple 2000 Series Vol. 21: The Bishoujo Simulation RPG - Moonlight Tale | 203200 | [203200-simple-2000-series-vol-21-the-bishoujo-simulation-rpg-moonlight-tale.json](./203200-simple-2000-series-vol-21-the-bishoujo-simulation-rpg-moonlight-tale.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
+| Simple 2000 Series Vol. 25: The Menkyo Shutoku Simulation | 56966 | [56966-simple-2000-series-vol-25-the-menkyo-shutoku-simulation.json](./56966-simple-2000-series-vol-25-the-menkyo-shutoku-simulation.json) |
 | Simple 2000 Series Vol. 27: The Pro Yakyuu - 2003 Pennant Race | 203208 | [203208-simple-2000-series-vol-27-the-pro-yakyuu-2003-pennant-race.json](./203208-simple-2000-series-vol-27-the-pro-yakyuu-2003-pennant-race.json) |
 | Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio | 203257 | [203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json](./203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json) |
 | Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
 | Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo | 203260 | [203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json](./203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json) |
 | Simple 2000 Series Vol. 36: The Musume-Ikusei Simulation - Otousan to Issho | 203261 | [203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json](./203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json) |
+| Simple 2000 Series Vol. 40: The Touyou Sandai Uranjustsu | 56964 | [56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json](./56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json) |
 | Simple 2000 Series Vol. 44: The Hajimete no RPG - Densetsu no Keishousha | 203264 | [203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json](./203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json) |
 | Simple 2000 Series Vol. 45: The Koi to Namida to, Tsukioku to... - Thread Colors Sayonara no Mukougawa | 203265 | [203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json](./203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json) |
 | Simple 2000 Series Vol. 56: The Survival Game | 203275 | [203275-simple-2000-series-vol-56-the-survival-game.json](./203275-simple-2000-series-vol-56-the-survival-game.json) |
@@ -7470,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 98: The Roman Sabou | 203329 | [203329-simple-2000-series-vol-98-the-roman-sabou.json](./203329-simple-2000-series-vol-98-the-roman-sabou.json) |
 | Simple 2000 Series Vol.017: The Suiri Aratanaru 20 ni Jikenbo | 203197 | [203197-simple-2000-series-vol-017-the-suiri-aratanaru-20-ni-jikenbo.json](./203197-simple-2000-series-vol-017-the-suiri-aratanaru-20-ni-jikenbo.json) |
 | Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai | 203337 | [203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json](./203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json) |
+| Simple 2000 Series Vol.38: The Yuujou Adventure - Hotaru Soul | 56974 | [56974-simple-2000-series-vol-38-the-yuujou-adventure-hotaru-soul.json](./56974-simple-2000-series-vol-38-the-yuujou-adventure-hotaru-soul.json) |
 | Simple 2000 Series Vol.75: The Tokudane - Nippon Zenkoku Scoop Rettou | 203283 | [203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json](./203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json) |
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
 | Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
@@ -7760,6 +7766,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sinja UnityStory | 334344 | [334344-sinja-unitystory.json](./334344-sinja-unitystory.json) |
+| Sinjid | 57015 | [57015-sinjid.json](./57015-sinjid.json) |
+| Sinjid: Battle Arena | 57016 | [57016-sinjid-battle-arena.json](./57016-sinjid-battle-arena.json) |
+| Sinjid: Shadow of the Warrior | 57017 | [57017-sinjid-shadow-of-the-warrior.json](./57017-sinjid-shadow-of-the-warrior.json) |
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
@@ -15770,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
 | SquareWorld | 102964 | [102964-squareworld.json](./102964-squareworld.json) |
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
+| Squarez Deluxe! | 57014 | [57014-squarez-deluxe.json](./57014-squarez-deluxe.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
@@ -16110,6 +16120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
+| Star Billions | 56999 | [56999-star-billions.json](./56999-star-billions.json) |
 | Star Bind | 287241 | [287241-star-bind.json](./287241-star-bind.json) |
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
 | Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
@@ -16708,6 +16719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
+| Star Wars: Millennium Falcon CD-ROM Playset | 56979 | [56979-star-wars-millennium-falcon-cd-rom-playset.json](./56979-star-wars-millennium-falcon-cd-rom-playset.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
 | Star Wars: Original Trilogy | 220264 | [220264-star-wars-original-trilogy.json](./220264-star-wars-original-trilogy.json) |
@@ -18486,6 +18498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Casters Ultra | 57011 | [57011-storm-casters-ultra.json](./57011-storm-casters-ultra.json) |
 | Storm Chaser - Tornado Alley | 103958 | [103958-storm-chaser-tornado-alley.json](./103958-storm-chaser-tornado-alley.json) |
 | Storm Chasers | 117083 | [117083-storm-chasers.json](./117083-storm-chasers.json) |
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
