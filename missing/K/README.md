@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
+| Kamen Rider SD: Shutsugeki!! Rider Machine | 38166 | [38166-kamen-rider-sd-shutsugeki-rider-machine.json](./38166-kamen-rider-sd-shutsugeki-rider-machine.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Kenyuu Densetsu Yaiba | 282499 | [282499-kenyuu-densetsu-yaiba.json](./282499-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
+| Kenyuu Densetsu Yaiba | 38181 | [38181-kenyuu-densetsu-yaiba.json](./38181-kenyuu-densetsu-yaiba.json) |
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
 | Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
