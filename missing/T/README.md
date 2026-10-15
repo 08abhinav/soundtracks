@@ -9103,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
+| The Magic Obelisk | 67182 | [67182-the-magic-obelisk.json](./67182-the-magic-obelisk.json) |
 | The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magic School Bus Explores Bugs | 70312 | [70312-the-magic-school-bus-explores-bugs.json](./70312-the-magic-school-bus-explores-bugs.json) |
@@ -12415,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
+| The Ultimate Red Ball Challenge | 67210 | [67210-the-ultimate-red-ball-challenge.json](./67210-the-ultimate-red-ball-challenge.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
@@ -20937,6 +20939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribulation | 160105 | [160105-tribulation.json](./160105-tribulation.json) |
+| Tribulation Knights | 67176 | [67176-tribulation-knights.json](./67176-tribulation-knights.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribunal 45 | 381978 | [381978-tribunal-45.json](./381978-tribunal-45.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
