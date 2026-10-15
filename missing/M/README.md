@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
+| Mall of America Tycoon | 67895 | [67895-mall-of-america-tycoon.json](./67895-mall-of-america-tycoon.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Rivals | 390743 | [390743-mall-rivals.json](./390743-mall-rivals.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
@@ -2884,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
+| Mark After Dark | 67903 | [67903-mark-after-dark.json](./67903-mark-after-dark.json) |
 | Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
@@ -6755,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
 | Metits Magic 3: The Revenge of Luli | 341453 | [341453-metits-magic-3-the-revenge-of-luli.json](./341453-metits-magic-3-the-revenge-of-luli.json) |
+| Metonymy | 67898 | [67898-metonymy.json](./67898-metonymy.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metrail | 125108 | [125108-metrail.json](./125108-metrail.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
@@ -13465,6 +13468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
 | My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
+| My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
