@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation Get Bike Back 2: Pedal Recall | 330766 | [330766-operation-get-bike-back-2-pedal-recall.json](./330766-operation-get-bike-back-2-pedal-recall.json) |
+| Operation Gunship | 72585 | [72585-operation-gunship.json](./72585-operation-gunship.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Blossoms | 311755 | [311755-orange-blossoms.json](./311755-orange-blossoms.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
+| Orange Honey: Boku ha Kimi ni Koishiteru | 72580 | [72580-orange-honey-boku-ha-kimi-ni-koishiteru.json](./72580-orange-honey-boku-ha-kimi-ni-koishiteru.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Island | 116936 | [116936-orange-island.json](./116936-orange-island.json) |
 | Orange Life | 360496 | [360496-orange-life.json](./360496-orange-life.json) |
@@ -3054,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
 | Othercide | 107140 | [107140-othercide.json](./107140-othercide.json) |
 | Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
+| Otherland | 72560 | [72560-otherland.json](./72560-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
 | Others | 125933 | [125933-others.json](./125933-others.json) |
