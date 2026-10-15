@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
 | Baby Hazel Newborn Baby | 89814 | [89814-baby-hazel-newborn-baby.json](./89814-baby-hazel-newborn-baby.json) |
+| Baby Jack | 71386 | [71386-baby-jack.json](./71386-baby-jack.json) |
 | Baby Jungle Animal Hair Salon | 101004 | [101004-baby-jungle-animal-hair-salon.json](./101004-baby-jungle-animal-hair-salon.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
+| Bifrost Spire | 71387 | [71387-bifrost-spire.json](./71387-bifrost-spire.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
@@ -5252,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy 2 | 79120 | [79120-billy-2.json](./79120-billy-2.json) |
+| Billy Blade and the Temple of Time | 71421 | [71421-billy-blade-and-the-temple-of-time.json](./71421-billy-blade-and-the-temple-of-time.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Bomber | 124521 | [124521-billy-bomber.json](./124521-billy-bomber.json) |
 | Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
@@ -10410,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
+| Bridge Olympiad | 71382 | [71382-bridge-olympiad.json](./71382-bridge-olympiad.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
