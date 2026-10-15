@@ -7497,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
 | Cohort Chess | 232881 | [232881-cohort-chess.json](./232881-cohort-chess.json) |
+| Cohort II | 73198 | [73198-cohort-ii.json](./73198-cohort-ii.json) |
 | Còi to cho Vượt | 131238 | [131238-coi-to-cho-vuot.json](./131238-coi-to-cho-vuot.json) |
 | Coil | 92635 | [92635-coil.json](./92635-coil.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
@@ -8727,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
+| Conan | 73158 | [73158-conan.json](./73158-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
 | Conan Chronicles 1 | 356210 | [356210-conan-chronicles-1.json](./356210-conan-chronicles-1.json) |
 | Conan Chronicles 2 | 356211 | [356211-conan-chronicles-2.json](./356211-conan-chronicles-2.json) |
@@ -9006,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
 | Conquest Emperor | 369745 | [369745-conquest-emperor.json](./369745-conquest-emperor.json) |
 | Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
+| Conquest of Chesterwoode | 73204 | [73204-conquest-of-chesterwoode.json](./73204-conquest-of-chesterwoode.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
@@ -12457,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
 | Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
+| Crystal Towers | 73164 | [73164-crystal-towers.json](./73164-crystal-towers.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
@@ -13571,6 +13575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
+| Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
 | Cyberchess | 94930 | [94930-cyberchess.json](./94930-cyberchess.json) |
