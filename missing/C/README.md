@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
+| Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
@@ -8622,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
 | Communication Breakdown | 266294 | [266294-communication-breakdown.json](./266294-communication-breakdown.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
+| Communication Logic Battle Daisessen | 55001 | [55001-communication-logic-battle-daisessen.json](./55001-communication-logic-battle-daisessen.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Communist Mutants from Space | 11154 | [11154-communist-mutants-from-space.json](./11154-communist-mutants-from-space.json) |
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
@@ -13752,6 +13754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
+| Cyberpunk Dodgeball | 54966 | [54966-cyberpunk-dodgeball.json](./54966-cyberpunk-dodgeball.json) |
 | Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
 | Cyberpunk Girls | 190053 | [190053-cyberpunk-girls.json](./190053-cyberpunk-girls.json) |
 | Cyberpunk Hacker | 317565 | [317565-cyberpunk-hacker.json](./317565-cyberpunk-hacker.json) |
