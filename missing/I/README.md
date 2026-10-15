@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
 | Infested Planet | 8795 | [8795-infested-planet.json](./8795-infested-planet.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
+| Infested Planet: Trickster's Arsenal | 51850 | [51850-infested-planet-tricksters-arsenal.json](./51850-infested-planet-tricksters-arsenal.json) |
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
 | InfestStation | 275535 | [275535-infeststation.json](./275535-infeststation.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironbound | 36982 | [36982-ironbound.json](./36982-ironbound.json) |
 | Ironcast: The Stirling Pack | 170296 | [170296-ironcast-the-stirling-pack.json](./170296-ironcast-the-stirling-pack.json) |
 | Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
+| Ironclad Tactics: Deluxe Edition | 51849 | [51849-ironclad-tactics-deluxe-edition.json](./51849-ironclad-tactics-deluxe-edition.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
