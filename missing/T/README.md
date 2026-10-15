@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Poppe | 194906 | [194906-the-adventures-of-poppe.json](./194906-the-adventures-of-poppe.json) |
+| The Adventures of Quik & Silva | 14155 | [14155-the-adventures-of-quik-and-silva.json](./14155-the-adventures-of-quik-and-silva.json) |
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
@@ -8113,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
+| The L.E.D. Wars | 14198 | [14198-the-l-e-d-wars.json](./14198-the-l-e-d-wars.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
