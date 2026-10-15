@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Island: Part Two | 18524 | [18524-savage-island-part-two.json](./18524-savage-island-part-two.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Moon | 20396 | [20396-savage-moon.json](./20396-savage-moon.json) |
+| Savage Moon: The Hera Campaign | 67209 | [67209-savage-moon-the-hera-campaign.json](./67209-savage-moon-the-hera-campaign.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
@@ -7736,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
 | Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
+| Sins of a Solar Empire: Diplomacy | 67208 | [67208-sins-of-a-solar-empire-diplomacy.json](./67208-sins-of-a-solar-empire-diplomacy.json) |
 | Sins of a Solar Empire: Entrenchment | 84330 | [84330-sins-of-a-solar-empire-entrenchment.json](./84330-sins-of-a-solar-empire-entrenchment.json) |
 | Sins of a Solar Empire: Rebellion | 9924 | [9924-sins-of-a-solar-empire-rebellion.json](./9924-sins-of-a-solar-empire-rebellion.json) |
 | Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
@@ -15645,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
+| Squareball | 67212 | [67212-squareball.json](./67212-squareball.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
@@ -17213,6 +17216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Danger! | 267315 | [267315-starship-danger.json](./267315-starship-danger.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
+| Starship Defense | 67153 | [67153-starship-defense.json](./67153-starship-defense.json) |
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
 | Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
@@ -19855,6 +19859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Samurai | 216127 | [216127-sudoku-samurai.json](./216127-sudoku-samurai.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
+| Sudoku Sensei | 67180 | [67180-sudoku-sensei.json](./67180-sudoku-sensei.json) |
 | Sudoku Slam | 142153 | [142153-sudoku-slam.json](./142153-sudoku-slam.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
@@ -23178,6 +23183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
+| Surviving High School | 67148 | [67148-surviving-high-school.json](./67148-surviving-high-school.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: All New In Bundle | 227392 | [227392-surviving-mars-all-new-in-bundle.json](./227392-surviving-mars-all-new-in-bundle.json) |
