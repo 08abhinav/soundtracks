@@ -9820,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
+| Modern War: Somalian Pirates | 64321 | [64321-modern-war-somalian-pirates.json](./64321-modern-war-somalian-pirates.json) |
 | Modern War: Tank Battle | 214682 | [214682-modern-war-tank-battle.json](./214682-modern-war-tank-battle.json) |
 | Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
 | Modern Warplanes Sky Fighters | 296770 | [296770-modern-warplanes-sky-fighters.json](./296770-modern-warplanes-sky-fighters.json) |
