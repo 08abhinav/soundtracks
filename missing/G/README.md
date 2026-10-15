@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galcon Labs | 67216 | [67216-galcon-labs.json](./67216-galcon-labs.json) |
+| Galcon Legends | 8918 | [8918-galcon-legends.json](./8918-galcon-legends.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galdregon's Domain | 13066 | [13066-galdregons-domain.json](./13066-galdregons-domain.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game of Thrones: War for Westeros | 347638 | [347638-game-of-thrones-war-for-westeros.json](./347638-game-of-thrones-war-for-westeros.json) |
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
+| Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
@@ -1653,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearbits: Gear Angels | 287029 | [287029-gearbits-gear-angels.json](./287029-gearbits-gear-angels.json) |
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
+| Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
@@ -6685,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
 | Ground Control II: Operation Exodus - Special Edition | 51829 | [51829-ground-control-ii-operation-exodus-special-edition.json](./51829-ground-control-ii-operation-exodus-special-edition.json) |
 | Ground Control Simulator | 25528 | [25528-ground-control-simulator.json](./25528-ground-control-simulator.json) |
+| Ground Control: Dark Conspiracy | 8786 | [8786-ground-control-dark-conspiracy.json](./8786-ground-control-dark-conspiracy.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
