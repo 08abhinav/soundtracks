@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
 | Quodan: Treachery on the Arheid | 333137 | [333137-quodan-treachery-on-the-arheid.json](./333137-quodan-treachery-on-the-arheid.json) |
 | Quote Codes | 80855 | [80855-quote-codes.json](./80855-quote-codes.json) |
+| Quote Unquote: Crossword puzzles meet famous quotations! | 70899 | [70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json](./70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json) |
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
 | QuoVadis | 125792 | [125792-quovadis.json](./125792-quovadis.json) |
