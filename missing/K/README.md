@@ -330,7 +330,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
+| Kamaitachi no Yoru 2: Kangokujima no Warabe Uta | 64840 | [64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json](./64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json) |
 | Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
+| Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou | 64839 | [64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json](./64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
+| Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
 | Kenka Banchou Otome: Kanzen Muketsu no My Honey | 54743 | [54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json](./54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json) |
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
@@ -3238,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
 | Know | 272745 | [272745-know.json](./272745-know.json) |
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
+| Know How 2: Think and Play outside the box! | 64844 | [64844-know-how-2-think-and-play-outside-the-box.json](./64844-know-how-2-think-and-play-outside-the-box.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
 | Know What I Meme | 254442 | [254442-know-what-i-meme.json](./254442-know-what-i-meme.json) |
