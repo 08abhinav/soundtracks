@@ -8453,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
+| Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
@@ -10890,6 +10891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
+| Socxel \| Pixel Soccer | 29628 | [29628-socxel-pixel-soccer.json](./29628-socxel-pixel-soccer.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda City Tycoon | 106739 | [106739-soda-city-tycoon.json](./106739-soda-city-tycoon.json) |
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
@@ -15095,6 +15097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
 | Spirits of Mystery: Illusions | 103560 | [103560-spirits-of-mystery-illusions.json](./103560-spirits-of-mystery-illusions.json) |
 | Spirits of Mystery: Song of the Phoenix | 62822 | [62822-spirits-of-mystery-song-of-the-phoenix.json](./62822-spirits-of-mystery-song-of-the-phoenix.json) |
+| Spirits of Mystery: Song of the Phoenix - Collector's Edition | 29620 | [29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json](./29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json) |
 | Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
@@ -23249,6 +23252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Game of Gods - Collector's Edition | 55661 | [55661-surface-game-of-gods-collectors-edition.json](./55661-surface-game-of-gods-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
+| Surface: Reel Life - Collector's Edition | 29619 | [29619-surface-reel-life-collectors-edition.json](./29619-surface-reel-life-collectors-edition.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
@@ -23260,6 +23264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
+| Surfasaurus | 29659 | [29659-surfasaurus.json](./29659-surfasaurus.json) |
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surfer's Paradise | 40691 | [40691-surfers-paradise.json](./40691-surfers-paradise.json) |
@@ -23362,6 +23367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
+| Survival Driver | 29637 | [29637-survival-driver.json](./29637-survival-driver.json) |
 | Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
 | Survival Engine | 167561 | [167561-survival-engine.json](./167561-survival-engine.json) |
 | Survival Epoch | 215704 | [215704-survival-epoch.json](./215704-survival-epoch.json) |
