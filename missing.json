@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T10:06:36.543Z",
-  "total_missing": 214772,
+  "generated_at": "2026-10-15T10:20:47.599Z",
+  "total_missing": 214822,
   "games": [
     {
       "igdb_id": 191680,
@@ -20655,6 +20655,11 @@
       "igdb_id": 72539,
       "game_name": "Action Man: Raid on Island X",
       "file": "missing/A/72539-action-man-raid-on-island-x.json"
+    },
+    {
+      "igdb_id": 49868,
+      "game_name": "Action Man: Search For Base X",
+      "file": "missing/A/49868-action-man-search-for-base-x.json"
     },
     {
       "igdb_id": 255866,
@@ -391577,6 +391582,11 @@
       "file": "missing/H/37932-harukanaru-augusta-3-masters-new.json"
     },
     {
+      "igdb_id": 49749,
+      "game_name": "Harukanaru Toki no Naka de",
+      "file": "missing/H/49749-harukanaru-toki-no-naka-de.json"
+    },
+    {
       "igdb_id": 70658,
       "game_name": "Harukanaru Toki no Naka de 2",
       "file": "missing/H/70658-harukanaru-toki-no-naka-de-2.json"
@@ -470012,6 +470022,11 @@
       "file": "missing/K/362204-kawaii-girls-venice-crush.json"
     },
     {
+      "igdb_id": 49756,
+      "game_name": "Kawaii Hamster",
+      "file": "missing/K/49756-kawaii-hamster.json"
+    },
+    {
       "igdb_id": 203553,
       "game_name": "Kawaii Hentai Girls 2",
       "file": "missing/K/203553-kawaii-hentai-girls-2.json"
@@ -470030,6 +470045,16 @@
       "igdb_id": 255890,
       "game_name": "Kawaii Kingdom",
       "file": "missing/K/255890-kawaii-kingdom.json"
+    },
+    {
+      "igdb_id": 49755,
+      "game_name": "Kawaii Koinu",
+      "file": "missing/K/49755-kawaii-koinu.json"
+    },
+    {
+      "igdb_id": 49754,
+      "game_name": "Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu",
+      "file": "missing/K/49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json"
     },
     {
       "igdb_id": 130729,
@@ -538262,6 +538287,11 @@
       "file": "missing/M/15837-marvelous-mouhitotsu-no-takarajima.json"
     },
     {
+      "igdb_id": 49854,
+      "game_name": "Marvin Strikes Back!",
+      "file": "missing/M/49854-marvin-strikes-back.json"
+    },
+    {
       "igdb_id": 116937,
       "game_name": "Marvin the Hatter",
       "file": "missing/M/116937-marvin-the-hatter.json"
@@ -550020,6 +550050,11 @@
       "igdb_id": 78533,
       "game_name": "Meine Tierklinik",
       "file": "missing/M/78533-meine-tierklinik.json"
+    },
+    {
+      "igdb_id": 49758,
+      "game_name": "Meine Tierklinik in Afrika",
+      "file": "missing/M/49758-meine-tierklinik-in-afrika.json"
     },
     {
       "igdb_id": 179201,
@@ -597137,6 +597172,11 @@
       "file": "missing/N/210297-nakayoshi-chao.json"
     },
     {
+      "igdb_id": 49757,
+      "game_name": "Nakayoshi Mahjong: Kapu Richi",
+      "file": "missing/N/49757-nakayoshi-mahjong-kapu-richi.json"
+    },
+    {
       "igdb_id": 217820,
       "game_name": "Nakayoshi Pet Series 2: Kawaii Usagi",
       "file": "missing/N/217820-nakayoshi-pet-series-2-kawaii-usagi.json"
@@ -597150,6 +597190,11 @@
       "igdb_id": 130614,
       "game_name": "Nakayoshi Pet Series 4: Kawaii Koneko",
       "file": "missing/N/130614-nakayoshi-pet-series-4-kawaii-koneko.json"
+    },
+    {
+      "igdb_id": 49753,
+      "game_name": "Nakayoshi Youchien",
+      "file": "missing/N/49753-nakayoshi-youchien.json"
     },
     {
       "igdb_id": 121468,
@@ -598752,6 +598797,11 @@
       "file": "missing/N/79255-naruto-mobile.json"
     },
     {
+      "igdb_id": 49751,
+      "game_name": "Naruto RPG: Uketsugareshi Hi no Ishi",
+      "file": "missing/N/49751-naruto-rpg-uketsugareshi-hi-no-ishi.json"
+    },
+    {
       "igdb_id": 243415,
       "game_name": "Naruto Shinobi Breakdown",
       "file": "missing/N/243415-naruto-shinobi-breakdown.json"
@@ -599840,6 +599890,11 @@
       "igdb_id": 189065,
       "game_name": "Natural",
       "file": "missing/N/189065-natural.json"
+    },
+    {
+      "igdb_id": 49750,
+      "game_name": "Natural 2: Duo",
+      "file": "missing/N/49750-natural-2-duo.json"
     },
     {
       "igdb_id": 82123,
@@ -615382,6 +615437,11 @@
       "file": "missing/N/269518-nippon-no-asoko-de.json"
     },
     {
+      "igdb_id": 49748,
+      "game_name": "Nippon Pro Mahjong Renmei Kounin: Tetsuman Advance ~Menkyo Kaiden Series~",
+      "file": "missing/N/49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json"
+    },
+    {
       "igdb_id": 125913,
       "game_name": "Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen",
       "file": "missing/N/125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json"
@@ -617362,6 +617422,11 @@
       "file": "missing/N/383934-nobu-jump.json"
     },
     {
+      "igdb_id": 49746,
+      "game_name": "Nobunaga Ibun",
+      "file": "missing/N/49746-nobunaga-ibun.json"
+    },
+    {
       "igdb_id": 133794,
       "game_name": "Nobunaga Mahjong",
       "file": "missing/N/133794-nobunaga-mahjong.json"
@@ -618900,6 +618965,11 @@
       "igdb_id": 85977,
       "game_name": "Nonomura Byouin no Hitobito",
       "file": "missing/N/85977-nonomura-byouin-no-hitobito.json"
+    },
+    {
+      "igdb_id": 49747,
+      "game_name": "Nonono Puzzle Chalien",
+      "file": "missing/N/49747-nonono-puzzle-chalien.json"
     },
     {
       "igdb_id": 343313,
@@ -638037,9 +638107,29 @@
       "file": "missing/O/327600-oshare-ni-henshin-heartcatch-precure.json"
     },
     {
+      "igdb_id": 49773,
+      "game_name": "Oshare Princess",
+      "file": "missing/O/49773-oshare-princess.json"
+    },
+    {
+      "igdb_id": 49767,
+      "game_name": "Oshare Princess 2 + Doubutsu Kyaranabi Uranai",
+      "file": "missing/O/49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json"
+    },
+    {
       "igdb_id": 97962,
       "game_name": "Oshare Princess 2 + Doubutsu Kyaranabi Uranai",
       "file": "missing/O/97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json"
+    },
+    {
+      "igdb_id": 49772,
+      "game_name": "Oshare Princess 3",
+      "file": "missing/O/49772-oshare-princess-3.json"
+    },
+    {
+      "igdb_id": 49771,
+      "game_name": "Oshare Princess 5",
+      "file": "missing/O/49771-oshare-princess-5.json"
     },
     {
       "igdb_id": 123371,
@@ -665417,6 +665507,11 @@
       "file": "missing/P/222443-pika-pika-nurse-monogatari-2.json"
     },
     {
+      "igdb_id": 49770,
+      "game_name": "Pika Pika Nurse Monogatari: Hatsuratsu Nurse Ikusei Game",
+      "file": "missing/P/49770-pika-pika-nurse-monogatari-hatsuratsu-nurse-ikusei-game.json"
+    },
+    {
       "igdb_id": 136932,
       "game_name": "Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi",
       "file": "missing/P/136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json"
@@ -668447,6 +668542,11 @@
       "file": "missing/P/202598-pinky-distortion.json"
     },
     {
+      "igdb_id": 49769,
+      "game_name": "Pinky Monkey Town",
+      "file": "missing/P/49769-pinky-monkey-town.json"
+    },
+    {
       "igdb_id": 176440,
       "game_name": "Pinky Promise Manifesto",
       "file": "missing/P/176440-pinky-promise-manifesto.json"
@@ -668490,6 +668590,11 @@
       "igdb_id": 209960,
       "game_name": "Pinobee",
       "file": "missing/P/209960-pinobee.json"
+    },
+    {
+      "igdb_id": 49768,
+      "game_name": "Pinobee & Phoebee",
+      "file": "missing/P/49768-pinobee-and-phoebee.json"
     },
     {
       "igdb_id": 203288,
@@ -672982,6 +673087,11 @@
       "file": "missing/P/147881-pixeline-fuld-af-fis-og-ballade.json"
     },
     {
+      "igdb_id": 49766,
+      "game_name": "Pixeline: I Pixieland",
+      "file": "missing/P/49766-pixeline-i-pixieland.json"
+    },
+    {
       "igdb_id": 147877,
       "game_name": "Pixeline: i Sommerhuset",
       "file": "missing/P/147877-pixeline-i-sommerhuset.json"
@@ -676785,6 +676895,11 @@
       "igdb_id": 270611,
       "game_name": "Play-Doh Creations",
       "file": "missing/P/270611-play-doh-creations.json"
+    },
+    {
+      "igdb_id": 49765,
+      "game_name": "Play-Yan",
+      "file": "missing/P/49765-play-yan.json"
     },
     {
       "igdb_id": 290991,
@@ -694727,6 +694842,11 @@
       "file": "missing/P/97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json"
     },
     {
+      "igdb_id": 49763,
+      "game_name": "Pro Mahjong Tsuwamono Advance",
+      "file": "missing/P/49763-pro-mahjong-tsuwamono-advance.json"
+    },
+    {
       "igdb_id": 97870,
       "game_name": "Pro Mahjong Tsuwamono GB",
       "file": "missing/P/97870-pro-mahjong-tsuwamono-gb.json"
@@ -695055,6 +695175,11 @@
       "igdb_id": 69271,
       "game_name": "Pro Yakyuu Team wo Tsukurou! 2",
       "file": "missing/P/69271-pro-yakyuu-team-wo-tsukurou-2.json"
+    },
+    {
+      "igdb_id": 49762,
+      "game_name": "Pro Yakyuu Team wo Tsukurou! Advance",
+      "file": "missing/P/49762-pro-yakyuu-team-wo-tsukurou-advance.json"
     },
     {
       "igdb_id": 268523,
@@ -701550,6 +701675,21 @@
       "igdb_id": 71023,
       "game_name": "Pukunpa: Joshikousei No Houkago",
       "file": "missing/P/71023-pukunpa-joshikousei-no-houkago.json"
+    },
+    {
+      "igdb_id": 49759,
+      "game_name": "PukuPuku Tennen Kairanban",
+      "file": "missing/P/49759-pukupuku-tennen-kairanban.json"
+    },
+    {
+      "igdb_id": 49761,
+      "game_name": "PukuPuku Tennen Kairanban: Koi no Cupid Daisakusen",
+      "file": "missing/P/49761-pukupuku-tennen-kairanban-koi-no-cupid-daisakusen.json"
+    },
+    {
+      "igdb_id": 49760,
+      "game_name": "PukuPuku Tennen Kairanban: Youkoso! Illusion Land e",
+      "file": "missing/P/49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json"
     },
     {
       "igdb_id": 117769,
@@ -732762,6 +732902,11 @@
       "file": "missing/R/40961-return-of-the-mutant-camels.json"
     },
     {
+      "igdb_id": 49858,
+      "game_name": "Return of the Ninja",
+      "file": "missing/R/49858-return-of-the-ninja.json"
+    },
+    {
       "igdb_id": 69869,
       "game_name": "Return of the Phantom",
       "file": "missing/R/69869-return-of-the-phantom.json"
@@ -760432,6 +760577,11 @@
       "file": "missing/S/329098-samurai-elemental.json"
     },
     {
+      "igdb_id": 49792,
+      "game_name": "Samurai Evolution: Oukoku Geist",
+      "file": "missing/S/49792-samurai-evolution-oukoku-geist.json"
+    },
+    {
       "igdb_id": 108475,
       "game_name": "Samurai Fighter",
       "file": "missing/S/108475-samurai-fighter.json"
@@ -761667,6 +761817,11 @@
       "file": "missing/S/313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json"
     },
     {
+      "igdb_id": 49790,
+      "game_name": "Sangokushi",
+      "file": "missing/S/49790-sangokushi.json"
+    },
+    {
       "igdb_id": 350410,
       "game_name": "Sangokushi 11: Power Up Kit",
       "file": "missing/S/350410-sangokushi-11-power-up-kit.json"
@@ -761760,6 +761915,11 @@
       "igdb_id": 64448,
       "game_name": "Sangokushi: Chuugen no Hasha",
       "file": "missing/S/64448-sangokushi-chuugen-no-hasha.json"
+    },
+    {
+      "igdb_id": 49791,
+      "game_name": "Sangokushi: Koumei-den",
+      "file": "missing/S/49791-sangokushi-koumei-den.json"
     },
     {
       "igdb_id": 218061,
@@ -762072,6 +762232,11 @@
       "file": "missing/S/408855-sanrio-kawaii-me-live.json"
     },
     {
+      "igdb_id": 49789,
+      "game_name": "Sanrio Puroland: All-Characters",
+      "file": "missing/S/49789-sanrio-puroland-all-characters.json"
+    },
+    {
       "igdb_id": 302682,
       "game_name": "Sanrio Timenet World",
       "file": "missing/S/302682-sanrio-timenet-world.json"
@@ -762110,6 +762275,11 @@
       "igdb_id": 341472,
       "game_name": "Sansara Naga 1",
       "file": "missing/S/341472-sansara-naga-1.json"
+    },
+    {
+      "igdb_id": 49793,
+      "game_name": "Sansara Naga 1x2",
+      "file": "missing/S/49793-sansara-naga-1x2.json"
     },
     {
       "igdb_id": 341473,
@@ -764965,6 +765135,11 @@
       "igdb_id": 238987,
       "game_name": "Scan Alien",
       "file": "missing/S/238987-scan-alien.json"
+    },
+    {
+      "igdb_id": 49788,
+      "game_name": "Scan Hunter",
+      "file": "missing/S/49788-scan-hunter.json"
     },
     {
       "igdb_id": 56528,
@@ -769220,6 +769395,11 @@
       "igdb_id": 75730,
       "game_name": "SD Gundam G Generation-F IF",
       "file": "missing/S/75730-sd-gundam-g-generation-f-if.json"
+    },
+    {
+      "igdb_id": 49787,
+      "game_name": "SD Gundam G Generation: Advance",
+      "file": "missing/S/49787-sd-gundam-g-generation-advance.json"
     },
     {
       "igdb_id": 37321,
@@ -774382,6 +774562,11 @@
       "file": "missing/S/34582-sengoku-jidai-shadow-of-the-shogun.json"
     },
     {
+      "igdb_id": 49786,
+      "game_name": "Sengoku Kakumei Gaiden",
+      "file": "missing/S/49786-sengoku-kakumei-gaiden.json"
+    },
+    {
       "igdb_id": 339636,
       "game_name": "Sengoku Koihime + Sengoku Koihime X Set",
       "file": "missing/S/339636-sengoku-koihime-sengoku-koihime-x-set.json"
@@ -775125,6 +775310,11 @@
       "igdb_id": 166546,
       "game_name": "Sentou Kokka: Air Land Battle",
       "file": "missing/S/166546-sentou-kokka-air-land-battle.json"
+    },
+    {
+      "igdb_id": 49785,
+      "game_name": "Sentouin: Yamada Hajime",
+      "file": "missing/S/49785-sentouin-yamada-hajime.json"
     },
     {
       "igdb_id": 18281,
@@ -780507,6 +780697,16 @@
       "file": "missing/S/68231-shaman-king-asu-he-no-ishi.json"
     },
     {
+      "igdb_id": 49784,
+      "game_name": "Shaman King: Chou Senjiryakketsu 2",
+      "file": "missing/S/49784-shaman-king-chou-senjiryakketsu-2.json"
+    },
+    {
+      "igdb_id": 49783,
+      "game_name": "Shaman King: Chou Senjiryakketsu 3",
+      "file": "missing/S/49783-shaman-king-chou-senjiryakketsu-3.json"
+    },
+    {
       "igdb_id": 68232,
       "game_name": "Shaman King: Chou Senjiryakketsu 3",
       "file": "missing/S/68232-shaman-king-chou-senjiryakketsu-3.json"
@@ -780640,6 +780840,11 @@
       "igdb_id": 64739,
       "game_name": "Shanghai",
       "file": "missing/S/64739-shanghai.json"
+    },
+    {
+      "igdb_id": 49782,
+      "game_name": "Shanghai Advance",
+      "file": "missing/S/49782-shanghai-advance.json"
     },
     {
       "igdb_id": 128644,
@@ -783722,6 +783927,16 @@
       "file": "missing/S/100291-shikaku-i-atama-o-maru-kusuru.json"
     },
     {
+      "igdb_id": 49781,
+      "game_name": "Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen",
+      "file": "missing/S/49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json"
+    },
+    {
+      "igdb_id": 49780,
+      "game_name": "Shikakui Atama wo Maru Kusuru Advance: Kokugo Sansuu Shakai Rika-hen",
+      "file": "missing/S/49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json"
+    },
+    {
       "igdb_id": 409001,
       "game_name": "Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen",
       "file": "missing/S/409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json"
@@ -783897,6 +784112,11 @@
       "file": "missing/S/38253-shimono-masaki-no-fishing-to-bassing.json"
     },
     {
+      "igdb_id": 49779,
+      "game_name": "Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game",
+      "file": "missing/S/49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json"
+    },
+    {
       "igdb_id": 141122,
       "game_name": "Shin Egokoro Kyoushitsu",
       "file": "missing/S/141122-shin-egokoro-kyoushitsu.json"
@@ -783990,6 +784210,11 @@
       "igdb_id": 42464,
       "game_name": "Shin Kidou Senki Gundam Wing: Endless Duel",
       "file": "missing/S/42464-shin-kidou-senki-gundam-wing-endless-duel.json"
+    },
+    {
+      "igdb_id": 49777,
+      "game_name": "Shin Kisekae Monogatari",
+      "file": "missing/S/49777-shin-kisekae-monogatari.json"
     },
     {
       "igdb_id": 63253,
@@ -784177,6 +784402,11 @@
       "file": "missing/S/92475-shin-megami-tensei-devil-children-koori-no-sho.json"
     },
     {
+      "igdb_id": 49774,
+      "game_name": "Shin Megami Tensei: Devil Children - Messiah Riser",
+      "file": "missing/S/49774-shin-megami-tensei-devil-children-messiah-riser.json"
+    },
+    {
       "igdb_id": 49821,
       "game_name": "Shin Megami Tensei: Devil Children - Puzzle de Call!",
       "file": "missing/S/49821-shin-megami-tensei-devil-children-puzzle-de-call.json"
@@ -784185,6 +784415,11 @@
       "igdb_id": 71717,
       "game_name": "Shin Megami Tensei: Devil Children - Shiro no Sho",
       "file": "missing/S/71717-shin-megami-tensei-devil-children-shiro-no-sho.json"
+    },
+    {
+      "igdb_id": 49775,
+      "game_name": "Shin Megami Tensei: Devil Children 2 - Koori no Sho",
+      "file": "missing/S/49775-shin-megami-tensei-devil-children-2-koori-no-sho.json"
     },
     {
       "igdb_id": 147169,
@@ -886645,6 +886880,11 @@
       "igdb_id": 49824,
       "game_name": "Tantei Gakuen Q: Kyuukyoku no Trick ni Idome!",
       "file": "missing/T/49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json"
+    },
+    {
+      "igdb_id": 49853,
+      "game_name": "Tantei Gakuen Q: Meitantei Hakimida!",
+      "file": "missing/T/49853-tantei-gakuen-q-meitantei-hakimida.json"
     },
     {
       "igdb_id": 343979,
@@ -1033097,6 +1033337,11 @@
       "file": "missing/W/98949-wendy-der-traum-von-arizona.json"
     },
     {
+      "igdb_id": 49855,
+      "game_name": "Wendy: Every Witch Way",
+      "file": "missing/W/49855-wendy-every-witch-way.json"
+    },
+    {
       "igdb_id": 233594,
       "game_name": "Wendy's Quest",
       "file": "missing/W/233594-wendys-quest.json"
@@ -1065255,6 +1065500,11 @@
       "igdb_id": 41326,
       "game_name": "Yuushi no Monshou: Deep Dungeon",
       "file": "missing/Y/41326-yuushi-no-monshou-deep-dungeon.json"
+    },
+    {
+      "igdb_id": 49752,
+      "game_name": "Yuushun Rhapsody",
+      "file": "missing/Y/49752-yuushun-rhapsody.json"
     },
     {
       "igdb_id": 195074,
