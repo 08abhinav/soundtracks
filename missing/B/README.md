@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Tunnels of Terror | 197488 | [197488-back-4-blood-tunnels-of-terror.json](./197488-back-4-blood-tunnels-of-terror.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
+| Back 40 III | 70842 | [70842-back-40-iii.json](./70842-back-40-iii.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
 | Back Alley Chronicle | 244394 | [244394-back-alley-chronicle.json](./244394-back-alley-chronicle.json) |
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
@@ -8664,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
+| Boogie Bum | 70849 | [70849-boogie-bum.json](./70849-boogie-bum.json) |
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
@@ -9674,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Overload: Calculate | 275519 | [275519-brain-overload-calculate.json](./275519-brain-overload-calculate.json) |
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Please Don't | 135563 | [135563-brain-please-dont.json](./135563-brain-please-dont.json) |
+| Brain Power | 70868 | [70868-brain-power.json](./70868-brain-power.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Puzzle: Tricky Quest | 354394 | [354394-brain-puzzle-tricky-quest.json](./354394-brain-puzzle-tricky-quest.json) |
