@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
+| Obsession | 15327 | [15327-obsession.json](./15327-obsession.json) |
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsession | 268658 | [268658-obsession.json](./268658-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oiche Mhaith | 142248 | [142248-oiche-mhaith.json](./142248-oiche-mhaith.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
+| Oids | 15328 | [15328-oids.json](./15328-oids.json) |
 | Oiia The Game | 346198 | [346198-oiia-the-game.json](./346198-oiia-the-game.json) |
 | Oik | 27338 | [27338-oik.json](./27338-oik.json) |
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
@@ -2651,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
+| Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
 | Orbitmine | 398502 | [398502-orbitmine.json](./398502-orbitmine.json) |
@@ -3539,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outburst | 47130 | [47130-outburst.json](./47130-outburst.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
+| Outcast | 15331 | [15331-outcast.json](./15331-outcast.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast Odyssey | 59877 | [59877-outcast-odyssey.json](./59877-outcast-odyssey.json) |
@@ -3744,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
 | Outworld Defence | 383652 | [383652-outworld-defence.json](./383652-outworld-defence.json) |
 | Outworld Station | 322692 | [322692-outworld-station.json](./322692-outworld-station.json) |
+| Outzone | 15332 | [15332-outzone.json](./15332-outzone.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
 | Oval Office: Commander In Chief | 146202 | [146202-oval-office-commander-in-chief.json](./146202-oval-office-commander-in-chief.json) |
 | Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
