@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellowtoy | 118116 | [118116-yellowtoy.json](./118116-yellowtoy.json) |
 | Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
+| Yendorian Tales Book I | 2514 | [2514-yendorian-tales-book-i.json](./2514-yendorian-tales-book-i.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeolhyeol Kangho W | 215830 | [215830-yeolhyeol-kangho-w.json](./215830-yeolhyeol-kangho-w.json) |
