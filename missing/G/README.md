@@ -6680,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Control | 734 | [734-ground-control.json](./734-ground-control.json) |
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
 | Ground Control II: Operation Exodus - Special Edition | 51829 | [51829-ground-control-ii-operation-exodus-special-edition.json](./51829-ground-control-ii-operation-exodus-special-edition.json) |
+| Ground Control Simulator | 25528 | [25528-ground-control-simulator.json](./25528-ground-control-simulator.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
