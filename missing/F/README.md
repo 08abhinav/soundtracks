@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
 | Flunkerne: Superskurke | 132064 | [132064-flunkerne-superskurke.json](./132064-flunkerne-superskurke.json) |
+| Flunky | 15252 | [15252-flunky.json](./15252-flunky.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
@@ -8641,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
+| Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
