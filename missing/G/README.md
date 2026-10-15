@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
+| Galactic Battle | 73707 | [73707-galactic-battle.json](./73707-galactic-battle.json) |
 | Galactic Battles | 81951 | [81951-galactic-battles.json](./81951-galactic-battles.json) |
 | Galactic Blasters D: Future Darkness | 336165 | [336165-galactic-blasters-d-future-darkness.json](./336165-galactic-blasters-d-future-darkness.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
