@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
 | Darksiders II: Season Pass | 343755 | [343755-darksiders-ii-season-pass.json](./343755-darksiders-ii-season-pass.json) |
+| Darksiders III | 28380 | [28380-darksiders-iii.json](./28380-darksiders-iii.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
+| Dawn of Discovery | 662 | [662-dawn-of-discovery.json](./662-dawn-of-discovery.json) |
 | Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
@@ -2529,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
+| Dead Rising 3 | 3199 | [3199-dead-rising-3.json](./3199-dead-rising-3.json) |
 | Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
 | Dead Rising 3: Fallen Angel | 20938 | [20938-dead-rising-3-fallen-angel.json](./20938-dead-rising-3-fallen-angel.json) |
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
@@ -2879,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Elonai | 302490 | [302490-dear-elonai.json](./302490-dear-elonai.json) |
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 273899 | [273899-dear-esther.json](./273899-dear-esther.json) |
+| Dear Esther: Landmark Edition | 24051 | [24051-dear-esther-landmark-edition.json](./24051-dear-esther-landmark-edition.json) |
 | Dear Friend | 226167 | [226167-dear-friend.json](./226167-dear-friend.json) |
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
@@ -3101,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Stare | 176220 | [176220-death-stare.json](./176220-death-stare.json) |
 | Death Stranding: Digital Deluxe Edition | 136160 | [136160-death-stranding-digital-deluxe-edition.json](./136160-death-stranding-digital-deluxe-edition.json) |
+| Death Stranding: Director's Cut | 152063 | [152063-death-stranding-directors-cut.json](./152063-death-stranding-directors-cut.json) |
 | Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
@@ -12297,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
 | Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
+| Dungeon Keeper 2 | 36 | [36-dungeon-keeper-2.json](./36-dungeon-keeper-2.json) |
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
 | Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
