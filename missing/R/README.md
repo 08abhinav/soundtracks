@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
+| Red Thunder | 69751 | [69751-red-thunder.json](./69751-red-thunder.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
