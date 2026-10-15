@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xwung | 77017 | [77017-xwung.json](./77017-xwung.json) |
 | XX Delicto | 297336 | [297336-xx-delicto.json](./297336-xx-delicto.json) |
 | XX Game: The Evolution Merge Puzzle | 411133 | [411133-xx-game-the-evolution-merge-puzzle.json](./411133-xx-game-the-evolution-merge-puzzle.json) |
+| XX Mission | 39423 | [39423-xx-mission.json](./39423-xx-mission.json) |
 | XXL | 400570 | [400570-xxl.json](./400570-xxl.json) |
 | XxU | 389627 | [389627-xxu.json](./389627-xxu.json) |
 | XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
