@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Parigami | 256182 | [256182-parigami.json](./256182-parigami.json) |
 | Parina's Demon Lair Adventure | 310130 | [310130-parinas-demon-lair-adventure.json](./310130-parinas-demon-lair-adventure.json) |
+| Paris 1313: The Mystery of Notre-Dame Cathedral | 71411 | [71411-paris-1313-the-mystery-of-notre-dame-cathedral.json](./71411-paris-1313-the-mystery-of-notre-dame-cathedral.json) |
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Chase | 144046 | [144046-paris-chase.json](./144046-paris-chase.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
 | Periapsis: Eclipse | 348215 | [348215-periapsis-eclipse.json](./348215-periapsis-eclipse.json) |
+| Perico Delgado Maillot Amarillo | 71406 | [71406-perico-delgado-maillot-amarillo.json](./71406-perico-delgado-maillot-amarillo.json) |
 | Periculum | 317542 | [317542-periculum.json](./317542-periculum.json) |
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
