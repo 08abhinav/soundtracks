@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
+| Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
 | Little Racers + Red Wings: American Aces | 287884 | [287884-little-racers-red-wings-american-aces.json](./287884-little-racers-red-wings-american-aces.json) |
 | Little Races | 115148 | [115148-little-races.json](./115148-little-races.json) |
+| Little Raiders: Robin's Revenge | 60971 | [60971-little-raiders-robins-revenge.json](./60971-little-raiders-robins-revenge.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Reaper | 111523 | [111523-little-reaper.json](./111523-little-reaper.json) |
