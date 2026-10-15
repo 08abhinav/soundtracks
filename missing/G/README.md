@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganja Quest RPG | 368359 | [368359-ganja-quest-rpg.json](./368359-ganja-quest-rpg.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
+| Ganso Saiyuuki: Super Monkey Daibouken | 48487 | [48487-ganso-saiyuuki-super-monkey-daibouken.json](./48487-ganso-saiyuuki-super-monkey-daibouken.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
+| GeGeGe no Kitaro 2: Yokai Gundan no Chousen | 48485 | [48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json](./48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json) |
 | GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
 | GeGeGe no Kitaro: Ibun Yokai Kitan | 64108 | [64108-gegege-no-kitaro-ibun-yokai-kitan.json](./64108-gegege-no-kitaro-ibun-yokai-kitan.json) |
 | GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou | 49609 | [49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json](./49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
+| Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
@@ -2955,8 +2958,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gincana | 286059 | [286059-gincana.json](./286059-gincana.json) |
 | Gindama Oyakata no Jissen Pachinko Hisshouhou | 65199 | [65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json](./65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json) |
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
+| Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
+| Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
 | Ginger | 328946 | [328946-ginger.json](./328946-ginger.json) |
@@ -4491,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Club Architect | 190909 | [190909-golf-club-architect.json](./190909-golf-club-architect.json) |
 | Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
+| Golf Club: Birdie Rush | 48482 | [48482-golf-club-birdie-rush.json](./48482-golf-club-birdie-rush.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
 | Golf Dreams | 193708 | [193708-golf-dreams.json](./193708-golf-dreams.json) |
@@ -4902,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
+| Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
@@ -5091,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
 | Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
+| Gozonji: Yaji Kita Chin Douchuu | 48480 | [48480-gozonji-yaji-kita-chin-douchuu.json](./48480-gozonji-yaji-kita-chin-douchuu.json) |
 | GP 500 | 93475 | [93475-gp-500.json](./93475-gp-500.json) |
 | GP Challenge | 137890 | [137890-gp-challenge.json](./137890-gp-challenge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
