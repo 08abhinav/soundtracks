@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
 | Sea Horizon | 199477 | [199477-sea-horizon.json](./199477-sea-horizon.json) |
 | Sea Horse Hide'n Seek | 114788 | [114788-sea-horse-hiden-seek.json](./114788-sea-horse-hiden-seek.json) |
+| Sea Hunt | 40620 | [40620-sea-hunt.json](./40620-sea-hunt.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea King | 119515 | [119515-sea-king.json](./119515-sea-king.json) |
 | Sea King Hunter | 129514 | [129514-sea-king-hunter.json](./129514-sea-king-hunter.json) |
@@ -6235,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shootin Star | 174257 | [174257-shootin-star.json](./174257-shootin-star.json) |
+| Shootin' Gallery | 40651 | [40651-shootin-gallery.json](./40651-shootin-gallery.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
 | Shootinator | 303821 | [303821-shootinator.json](./303821-shootinator.json) |
 | Shooting Aircraft | 323846 | [323846-shooting-aircraft.json](./323846-shooting-aircraft.json) |
@@ -8086,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate 3: Recompiled | 404797 | [404797-skate-3-recompiled.json](./404797-skate-3-recompiled.json) |
 | Skate 3: San Van Party Pack | 367274 | [367274-skate-3-san-van-party-pack.json](./367274-skate-3-san-van-party-pack.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
+| Skate Boardin' | 40624 | [40624-skate-boardin.json](./40624-skate-boardin.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
 | Skate City Heroes | 21120 | [21120-skate-city-heroes.json](./21120-skate-city-heroes.json) |
@@ -8159,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeasy | 85376 | [85376-skeasy.json](./85376-skeasy.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
+| Skeet Shoot | 40615 | [40615-skeet-shoot.json](./40615-skeet-shoot.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter | 254978 | [254978-skeeter.json](./254978-skeeter.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
@@ -13593,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Rocks | 40654 | [40654-space-rocks.json](./40654-space-rocks.json) |
 | Space Rocks Blaster | 181049 | [181049-space-rocks-blaster.json](./181049-space-rocks-blaster.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
@@ -14793,6 +14798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
+| Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiderling | 316746 | [316746-spiderling.json](./316746-spiderling.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
@@ -16776,6 +16782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
+| Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
