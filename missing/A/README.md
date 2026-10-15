@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
 | A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
+| A Dark and Stormy Entry | 73691 | [73691-a-dark-and-stormy-entry.json](./73691-a-dark-and-stormy-entry.json) |
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
@@ -2393,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of JoJo & ToTo | 253261 | [253261-adventures-of-jojo-and-toto.json](./253261-adventures-of-jojo-and-toto.json) |
 | Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
+| Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
@@ -3140,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
+| AH-64D Longbow: Flash Point Korea | 73686 | [73686-ah-64d-longbow-flash-point-korea.json](./73686-ah-64d-longbow-flash-point-korea.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
@@ -4558,6 +4561,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
 | Aliens: Thanatos Encounter | 49863 | [49863-aliens-thanatos-encounter.json](./49863-aliens-thanatos-encounter.json) |
 | Aliens: The Computer Game | 12939 | [12939-aliens-the-computer-game.json](./12939-aliens-the-computer-game.json) |
+| Aliens: The Roguelike | 73710 | [73710-aliens-the-roguelike.json](./73710-aliens-the-roguelike.json) |
+| Aliens: The Roguelike | 73712 | [73712-aliens-the-roguelike.json](./73712-aliens-the-roguelike.json) |
 | Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
 | AlienSunny | 393539 | [393539-aliensunny.json](./393539-aliensunny.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
@@ -11057,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
+| Atomic Driver | 73731 | [73731-atomic-driver.json](./73731-atomic-driver.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
