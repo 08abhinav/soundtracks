@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Order | 413028 | [413028-lawn-order.json](./413028-lawn-order.json) |
 | Lawn Purge | 247019 | [247019-lawn-purge.json](./247019-lawn-purge.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
+| Lawnmower Challenge | 65390 | [65390-lawnmower-challenge.json](./65390-lawnmower-challenge.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
 | Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
@@ -4190,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
+| Little Strategy | 65384 | [65384-little-strategy.json](./65384-little-strategy.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
@@ -5554,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Kingdom | 269183 | [269183-lost-kingdom.json](./269183-lost-kingdom.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
+| Lost Labyrinth | 65402 | [65402-lost-labyrinth.json](./65402-lost-labyrinth.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
