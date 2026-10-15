@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T17:50:45.719Z",
-  "total_soundtracks": 1675,
+  "generated_at": "2026-10-15T17:51:03.060Z",
+  "total_soundtracks": 1676,
   "games": [
     {
       "igdb_id": 7522,
@@ -14085,6 +14085,20 @@
           "spotify_url": "https://music.apple.com/us/album/serious-sam-4-video-game-soundtrack/1555315981?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1555315981"
+        }
+      ]
+    },
+    {
+      "igdb_id": 187112,
+      "game_name": "Serious Sam: Siberian Mayhem",
+      "game_url": "https://ostdb.net/games/serious-sam-siberian-mayhem",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307b46bdce3857f4c4a7b1aca",
+      "albums": [
+        {
+          "album_name": "Serious Sam: Siberian Mayhem (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2yR5eTAN8UveVAAB2Ig53m",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
