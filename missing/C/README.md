@@ -5677,6 +5677,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
 | Chutes and Ladders | 92928 | [92928-chutes-and-ladders.json](./92928-chutes-and-ladders.json) |
+| Chuugaku Hisshuu Ei Bunpou: Chuugaku 1 Nensei You | 65994 | [65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json](./65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json) |
+| Chuugaku Hisshuu Ei Bunpou: Chuugaku 2 Nensei You | 65993 | [65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json](./65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
@@ -6233,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civiballs 2 | 335475 | [335475-civiballs-2.json](./335475-civiballs-2.json) |
 | Civics Scribble | 380760 | [380760-civics-scribble.json](./380760-civics-scribble.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
+| Civil Disturbance | 65973 | [65973-civil-disturbance.json](./65973-civil-disturbance.json) |
 | Civil Engineering Simulator | 62428 | [62428-civil-engineering-simulator.json](./62428-civil-engineering-simulator.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
