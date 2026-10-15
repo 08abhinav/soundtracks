@@ -1403,10 +1403,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video World | 142746 | [142746-video-world.json](./142746-video-world.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
+| Videocart-1: Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle | 41222 | [41222-videocart-1-tic-tac-toe-and-shooting-gallery-and-doodle-and-quadra-doodle.json](./41222-videocart-1-tic-tac-toe-and-shooting-gallery-and-doodle-and-quadra-doodle.json) |
+| Videocart-10: Maze, Cat and Mouse | 41212 | [41212-videocart-10-maze-cat-and-mouse.json](./41212-videocart-10-maze-cat-and-mouse.json) |
+| Videocart-11: Backgammon, Acey-Deucey | 41211 | [41211-videocart-11-backgammon-acey-deucey.json](./41211-videocart-11-backgammon-acey-deucey.json) |
+| Videocart-12: Baseball | 41210 | [41210-videocart-12-baseball.json](./41210-videocart-12-baseball.json) |
+| Videocart-13: Robot War, Torpedo Alley | 41209 | [41209-videocart-13-robot-war-torpedo-alley.json](./41209-videocart-13-robot-war-torpedo-alley.json) |
+| Videocart-14: Sonar Search | 41215 | [41215-videocart-14-sonar-search.json](./41215-videocart-14-sonar-search.json) |
+| Videocart-15: Memory Match | 41208 | [41208-videocart-15-memory-match.json](./41208-videocart-15-memory-match.json) |
+| Videocart-16: Dodge-It | 41230 | [41230-videocart-16-dodge-it.json](./41230-videocart-16-dodge-it.json) |
+| Videocart-17: Pinball Challenge | 41224 | [41224-videocart-17-pinball-challenge.json](./41224-videocart-17-pinball-challenge.json) |
+| Videocart-18: Hangman | 41226 | [41226-videocart-18-hangman.json](./41226-videocart-18-hangman.json) |
+| Videocart-19: Checkers | 41225 | [41225-videocart-19-checkers.json](./41225-videocart-19-checkers.json) |
 | Videocart-2: Desert Fox & Shooting Gallery | 41221 | [41221-videocart-2-desert-fox-and-shooting-gallery.json](./41221-videocart-2-desert-fox-and-shooting-gallery.json) |
+| Videocart-20: Video Whizball | 41227 | [41227-videocart-20-video-whizball.json](./41227-videocart-20-video-whizball.json) |
+| Videocart-21: Bowling | 41231 | [41231-videocart-21-bowling.json](./41231-videocart-21-bowling.json) |
+| Videocart-22: Slot Machine | 41223 | [41223-videocart-22-slot-machine.json](./41223-videocart-22-slot-machine.json) |
+| Videocart-23: Galactic Space Wars | 41229 | [41229-videocart-23-galactic-space-wars.json](./41229-videocart-23-galactic-space-wars.json) |
+| Videocart-24: Pro Football | 41228 | [41228-videocart-24-pro-football.json](./41228-videocart-24-pro-football.json) |
 | Videocart-25: Casino Poker | 18603 | [18603-videocart-25-casino-poker.json](./18603-videocart-25-casino-poker.json) |
 | Videocart-26: Alien Invasion | 18604 | [18604-videocart-26-alien-invasion.json](./18604-videocart-26-alien-invasion.json) |
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
+| Videocart-3: Video Blackjack | 41220 | [41220-videocart-3-video-blackjack.json](./41220-videocart-3-video-blackjack.json) |
+| Videocart-4: Spitfire | 41218 | [41218-videocart-4-spitfire.json](./41218-videocart-4-spitfire.json) |
+| Videocart-5: Space War | 41219 | [41219-videocart-5-space-war.json](./41219-videocart-5-space-war.json) |
+| Videocart-7: Math Quiz II - Multiplication & Division | 41216 | [41216-videocart-7-math-quiz-ii-multiplication-and-division.json](./41216-videocart-7-math-quiz-ii-multiplication-and-division.json) |
+| Videocart-8: Magic Numbers - Mind Reader & Nim | 41214 | [41214-videocart-8-magic-numbers-mind-reader-and-nim.json](./41214-videocart-8-magic-numbers-mind-reader-and-nim.json) |
+| Videocart-9: Drag Strip | 41213 | [41213-videocart-9-drag-strip.json](./41213-videocart-9-drag-strip.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videogame 12 Jogos | 287573 | [287573-videogame-12-jogos.json](./287573-videogame-12-jogos.json) |
 | Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
