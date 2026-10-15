@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Scan Command | 72570 | [72570-jurassic-park-scan-command.json](./72570-jurassic-park-scan-command.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
+| Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
 | Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
