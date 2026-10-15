@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
+| Operation: Black Mesa | 6740 | [6740-operation-black-mesa.json](./6740-operation-black-mesa.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Desert City | 177271 | [177271-operation-desert-city.json](./177271-operation-desert-city.json) |
 | Operation: Desert Storm | 8712 | [8712-operation-desert-storm.json](./8712-operation-desert-storm.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc and Hypnotized Femdogs | 98543 | [98543-orc-and-hypnotized-femdogs.json](./98543-orc-and-hypnotized-femdogs.json) |
 | Orc Attack | 23944 | [23944-orc-attack.json](./23944-orc-attack.json) |
+| Orc Attack: Flatulent Rebellion | 7044 | [7044-orc-attack-flatulent-rebellion.json](./7044-orc-attack-flatulent-rebellion.json) |
 | Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
