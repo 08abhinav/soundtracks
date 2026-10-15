@@ -3391,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
+| Dedektif Firtina | 19153 | [19153-dedektif-firtina.json](./19153-dedektif-firtina.json) |
 | DeDrive | 102267 | [102267-dedrive.json](./102267-dedrive.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
@@ -9388,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down in Flames | 64139 | [64139-down-in-flames.json](./64139-down-in-flames.json) |
 | Down in the Dark | 149920 | [149920-down-in-the-dark.json](./149920-down-in-the-dark.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
+| Down in the Dumps | 19151 | [19151-down-in-the-dumps.json](./19151-down-in-the-dumps.json) |
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
 | Down In The Dungeon | 307684 | [307684-down-in-the-dungeon.json](./307684-down-in-the-dungeon.json) |
 | Down is Relative | 286220 | [286220-down-is-relative.json](./286220-down-is-relative.json) |
