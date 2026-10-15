@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
+| Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Escape -1st Chapter | 16940 | [16940-reversion-the-escape-1st-chapter.json](./16940-reversion-the-escape-1st-chapter.json) |
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
+| Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
@@ -5812,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
+| Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
