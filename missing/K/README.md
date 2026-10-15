@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Guard | 194919 | [194919-kingdom-guard.json](./194919-kingdom-guard.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
+| Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage | 26676 | [26676-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage.json](./26676-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance | 1226 | [1226-kingdom-hearts-3d-dream-drop-distance.json](./1226-kingdom-hearts-3d-dream-drop-distance.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
