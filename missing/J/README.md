@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Cameron's Dark Angel | 5868 | [5868-james-camerons-dark-angel.json](./5868-james-camerons-dark-angel.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
+| James Noir's Hollywood Crimes | 6830 | [6830-james-noirs-hollywood-crimes.json](./6830-james-noirs-hollywood-crimes.json) |
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
 | Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
+| Jewelpet: Magical Dance in Style Deco! | 6831 | [6831-jewelpet-magical-dance-in-style-deco.json](./6831-jewelpet-magical-dance-in-style-deco.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
