@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
+| A Foretold Affair | 29614 | [29614-a-foretold-affair.json](./29614-a-foretold-affair.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Forgetful Loop | 140905 | [140905-a-forgetful-loop.json](./140905-a-forgetful-loop.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
@@ -9379,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
+| Armored Freedom | 29625 | [29625-armored-freedom.json](./29625-armored-freedom.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
@@ -12001,6 +12003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
+| Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
