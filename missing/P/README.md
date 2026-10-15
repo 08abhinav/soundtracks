@@ -6467,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
+| Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
