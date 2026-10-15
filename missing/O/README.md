@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Ombra | 120894 | [120894-ombra.json](./120894-ombra.json) |
 | OMD, Noobs! | 303826 | [303826-omd-noobs.json](./303826-omd-noobs.json) |
+| Omega | 12707 | [12707-omega.json](./12707-omega.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega 13 | 250434 | [250434-omega-13.json](./250434-omega-13.json) |
 | Omega Assault | 94867 | [94867-omega-assault.json](./94867-omega-assault.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
+| Omnicron Conspiracy | 12708 | [12708-omnicron-conspiracy.json](./12708-omnicron-conspiracy.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
@@ -2915,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Orixo Wormhole | 132119 | [132119-orixo-wormhole.json](./132119-orixo-wormhole.json) |
 | Oriza | 119633 | [119633-oriza.json](./119633-oriza.json) |
+| Ork | 12709 | [12709-ork.json](./12709-ork.json) |
 | Ork | 385386 | [385386-ork.json](./385386-ork.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orken | 384839 | [384839-orken.json](./384839-orken.json) |
@@ -3837,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverDrift Festival | 155984 | [155984-overdrift-festival.json](./155984-overdrift-festival.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
+| Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
@@ -3880,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
+| Overlander | 12711 | [12711-overlander.json](./12711-overlander.json) |
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
