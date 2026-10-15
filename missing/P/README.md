@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
 | Paper Toss | 67692 | [67692-paper-toss.json](./67692-paper-toss.json) |
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
+| Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
@@ -5985,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixies 'n Crafts | 204218 | [204218-pixies-n-crafts.json](./204218-pixies-n-crafts.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
+| Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
 | Pixletters | 356582 | [356582-pixletters.json](./356582-pixletters.json) |
 | Pixoban | 187790 | [187790-pixoban.json](./187790-pixoban.json) |
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
@@ -8559,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
 | Pop'n Music: Usagi to Neko to Shounen no Yume | 134404 | [134404-popn-music-usagi-to-neko-to-shounen-no-yume.json](./134404-popn-music-usagi-to-neko-to-shounen-no-yume.json) |
 | Pop'n Pop | 209956 | [209956-popn-pop.json](./209956-popn-pop.json) |
+| Pop'n Pop | 64307 | [64307-popn-pop.json](./64307-popn-pop.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
 | Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
@@ -12193,8 +12196,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble 2X & Space Invaders | 79528 | [79528-puzzle-bobble-2x-and-space-invaders.json](./79528-puzzle-bobble-2x-and-space-invaders.json) |
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
+| Puzzle Bobble Online | 64297 | [64297-puzzle-bobble-online.json](./64297-puzzle-bobble-online.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
+| Puzzle Bobble: Disney Edition | 64308 | [64308-puzzle-bobble-disney-edition.json](./64308-puzzle-bobble-disney-edition.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
