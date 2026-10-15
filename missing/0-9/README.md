@@ -1336,7 +1336,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
+| 3-D Ultra NASCAR Pinball | 50469 | [50469-3-d-ultra-nascar-pinball.json](./50469-3-d-ultra-nascar-pinball.json) |
+| 3-D Ultra Pinball: Creep Night | 50471 | [50471-3-d-ultra-pinball-creep-night.json](./50471-3-d-ultra-pinball-creep-night.json) |
+| 3-D Ultra Pinball: The Lost Continent | 50470 | [50470-3-d-ultra-pinball-the-lost-continent.json](./50470-3-d-ultra-pinball-the-lost-continent.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
+| 3-D Ultra Pinball: Thrillride | 50468 | [50468-3-d-ultra-pinball-thrillride.json](./50468-3-d-ultra-pinball-thrillride.json) |
 | 3-D Vector Pong | 78746 | [78746-3-d-vector-pong.json](./78746-3-d-vector-pong.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
