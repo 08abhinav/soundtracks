@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty: Isolation | 139320 | [139320-kitty-isolation.json](./139320-kitty-isolation.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Catch | 210227 | [210227-kittys-catch.json](./210227-kittys-catch.json) |
+| Kitty's Great Adventure | 41791 | [41791-kittys-great-adventure.json](./41791-kittys-great-adventure.json) |
 | Kitty's Hungry Adventure | 367550 | [367550-kittys-hungry-adventure.json](./367550-kittys-hungry-adventure.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
