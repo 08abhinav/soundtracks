@@ -5428,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
+| Exterminator | 12733 | [12733-exterminator.json](./12733-exterminator.json) |
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
