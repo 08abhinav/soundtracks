@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
+| Cannon Fodder | 5519 | [5519-cannon-fodder.json](./5519-cannon-fodder.json) |
 | Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
 | Cannon Fodder and Green Game Bundle | 214664 | [214664-cannon-fodder-and-green-game-bundle.json](./214664-cannon-fodder-and-green-game-bundle.json) |
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
+| Castlevania: Dracula X | 16476 | [16476-castlevania-dracula-x.json](./16476-castlevania-dracula-x.json) |
 | Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
 | Castlevania: Eternity of Sorrow | 383624 | [383624-castlevania-eternity-of-sorrow.json](./383624-castlevania-eternity-of-sorrow.json) |
 | Castlevania: Galactic Panic | 297583 | [297583-castlevania-galactic-panic.json](./297583-castlevania-galactic-panic.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede | 151643 | [151643-centipede.json](./151643-centipede.json) |
 | Centipede | 199424 | [199424-centipede.json](./199424-centipede.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
+| Centipede | 2235 | [2235-centipede.json](./2235-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede | 289407 | [289407-centipede.json](./289407-centipede.json) |
@@ -9547,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Shift | 176224 | [176224-control-shift.json](./176224-control-shift.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
+| Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: Ultimate Asia Limited Edition | 167088 | [167088-control-ultimate-asia-limited-edition.json](./167088-control-ultimate-asia-limited-edition.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
