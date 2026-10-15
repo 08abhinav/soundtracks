@@ -8644,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
+| Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
