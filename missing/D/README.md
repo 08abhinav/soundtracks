@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
+| Dear Leader | 60442 | [60442-dear-leader.json](./60442-dear-leader.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
+| Derby Jockey: Kishou he no Michi | 60463 | [60463-derby-jockey-kishou-he-no-michi.json](./60463-derby-jockey-kishou-he-no-michi.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Musou | 61544 | [61544-derby-musou.json](./61544-derby-musou.json) |
 | Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 314399 | [314399-dog.json](./314399-dog.json) |
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
+| Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Couple | 334803 | [334803-dog-couple.json](./334803-dog-couple.json) |
@@ -11133,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Simulator Life | 245211 | [245211-driver-simulator-life.json](./245211-driver-simulator-life.json) |
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
+| Driver: Speedboat Paradise | 60464 | [60464-driver-speedboat-paradise.json](./60464-driver-speedboat-paradise.json) |
 | Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
@@ -11383,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumKit | 76469 | [76469-drumkit.json](./76469-drumkit.json) |
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
+| DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
