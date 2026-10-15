@@ -6169,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
 | Shooting Gallery | 18587 | [18587-shooting-gallery.json](./18587-shooting-gallery.json) |
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
+| Shooting Gallery | 68566 | [68566-shooting-gallery.json](./68566-shooting-gallery.json) |
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
@@ -7509,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Gomoku Online | 261318 | [261318-simply-gomoku-online.json](./261318-simply-gomoku-online.json) |
+| Simply HangMan | 68525 | [68525-simply-hangman.json](./68525-simply-hangman.json) |
 | Simply Mahjong | 85370 | [85370-simply-mahjong.json](./85370-simply-mahjong.json) |
 | Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
 | Simply Mazes | 105806 | [105806-simply-mazes.json](./105806-simply-mazes.json) |
@@ -11002,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Failure: Operation Zombie | 75653 | [75653-soldier-of-failure-operation-zombie.json](./75653-soldier-of-failure-operation-zombie.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
+| Soldier of Fortune | 68562 | [68562-soldier-of-fortune.json](./68562-soldier-of-fortune.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
