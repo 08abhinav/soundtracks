@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
+| Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
@@ -13124,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Between Worlds | 108306 | [108306-space-between-worlds.json](./108306-space-between-worlds.json) |
+| Space Bit Attack | 19046 | [19046-space-bit-attack.json](./19046-space-bit-attack.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
 | Space Blasters | 346769 | [346769-space-blasters.json](./346769-space-blasters.json) |
@@ -14990,6 +14992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
+| Spiral Destiny | 19144 | [19144-spiral-destiny.json](./19144-spiral-destiny.json) |
 | Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
 | Spiral Helix: Jump down the tower | 104445 | [104445-spiral-helix-jump-down-the-tower.json](./104445-spiral-helix-jump-down-the-tower.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
@@ -15852,6 +15855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
+| Squadron 42 | 19128 | [19128-squadron-42.json](./19128-squadron-42.json) |
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
 | Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
@@ -17037,6 +17041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
+| StarCraft Universe | 19177 | [19177-starcraft-universe.json](./19177-starcraft-universe.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
 | StarCraft: Insurrection | 75401 | [75401-starcraft-insurrection.json](./75401-starcraft-insurrection.json) |
@@ -18755,6 +18760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Machine | 42170 | [42170-story-machine.json](./42170-story-machine.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
+| Story of a Cube | 19108 | [19108-story-of-a-cube.json](./19108-story-of-a-cube.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
@@ -19903,6 +19909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
+| SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
@@ -23035,6 +23042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
+| Superman Returns: Fortress of Solitude | 19074 | [19074-superman-returns-fortress-of-solitude.json](./19074-superman-returns-fortress-of-solitude.json) |
 | Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
 | Superman Returns: The Videogame | 6182 | [6182-superman-returns-the-videogame.json](./6182-superman-returns-the-videogame.json) |
 | Superman: Battle for Metropolis | 239553 | [239553-superman-battle-for-metropolis.json](./239553-superman-battle-for-metropolis.json) |
@@ -23835,6 +23843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
+| Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
