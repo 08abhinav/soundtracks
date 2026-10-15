@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk the dog | 183319 | [183319-walk-the-dog.json](./183319-walk-the-dog.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
+| Walk the Light | 33916 | [33916-walk-the-light.json](./33916-walk-the-light.json) |
 | Walk the Past VR | 239742 | [239742-walk-the-past-vr.json](./239742-walk-the-past-vr.json) |
 | Walk the Times | 258020 | [258020-walk-the-times.json](./258020-walk-the-times.json) |
 | Walk to the Woods | 202667 | [202667-walk-to-the-woods.json](./202667-walk-to-the-woods.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
+| World of Fishing | 33988 | [33988-world-of-fishing.json](./33988-world-of-fishing.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
 | World of Fundo | 164083 | [164083-world-of-fundo.json](./164083-world-of-fundo.json) |
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
