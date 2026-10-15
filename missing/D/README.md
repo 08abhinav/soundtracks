@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
 | Deliverance & Reign | 239699 | [239699-deliverance-and-reign.json](./239699-deliverance-and-reign.json) |
 | Deliverance Protocol: Ironrot | 371044 | [371044-deliverance-protocol-ironrot.json](./371044-deliverance-protocol-ironrot.json) |
+| Deliverance: Stormlord II | 71998 | [71998-deliverance-stormlord-ii.json](./71998-deliverance-stormlord-ii.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivered on Time | 357172 | [357172-delivered-on-time.json](./357172-delivered-on-time.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
 | Densha de Go! Final | 78576 | [78576-densha-de-go-final.json](./78576-densha-de-go-final.json) |
+| Densha de Go! Nagoya Tetsudou-hen | 72000 | [72000-densha-de-go-nagoya-tetsudou-hen.json](./72000-densha-de-go-nagoya-tetsudou-hen.json) |
 | Densha de Go! Plug & Play | 146557 | [146557-densha-de-go-plug-and-play.json](./146557-densha-de-go-plug-and-play.json) |
 | Densha de Go! Pocket: Chuuousen-hen | 146558 | [146558-densha-de-go-pocket-chuuousen-hen.json](./146558-densha-de-go-pocket-chuuousen-hen.json) |
 | Densha de Go! Pocket: Osakakanjousen-hen | 146559 | [146559-densha-de-go-pocket-osakakanjousen-hen.json](./146559-densha-de-go-pocket-osakakanjousen-hen.json) |
@@ -6999,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid | 198804 | [198804-disneys-the-little-mermaid.json](./198804-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 19900 | [19900-disneys-the-little-mermaid.json](./19900-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
+| Disney's The Little Mermaid | 71987 | [71987-disneys-the-little-mermaid.json](./71987-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
@@ -8865,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Barnyard Buddies | 73175 | [73175-dora-the-explorer-barnyard-buddies.json](./73175-dora-the-explorer-barnyard-buddies.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
+| Dora the Explorer: Dance to the Rescue | 71970 | [71970-dora-the-explorer-dance-to-the-rescue.json](./71970-dora-the-explorer-dance-to-the-rescue.json) |
 | Dora the Explorer: Dora Saves the Crystal Kingdom | 7977 | [7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json](./7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
@@ -9308,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
+| Dr Carter and the Wheels of Salvation | 71977 | [71977-dr-carter-and-the-wheels-of-salvation.json](./71977-dr-carter-and-the-wheels-of-salvation.json) |
 | Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
