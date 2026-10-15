@@ -12707,6 +12707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
 | SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
+| SoulCalibur VI: Collector's Edition | 47071 | [47071-soulcalibur-vi-collectors-edition.json](./47071-soulcalibur-vi-collectors-edition.json) |
 | SoulCalibur VI: Deluxe Edition | 103299 | [103299-soulcalibur-vi-deluxe-edition.json](./103299-soulcalibur-vi-deluxe-edition.json) |
 | SoulCalibur VI: Haohmaru | 168726 | [168726-soulcalibur-vi-haohmaru.json](./168726-soulcalibur-vi-haohmaru.json) |
 | SoulCalibur VI: Hilde | 168725 | [168725-soulcalibur-vi-hilde.json](./168725-soulcalibur-vi-hilde.json) |
