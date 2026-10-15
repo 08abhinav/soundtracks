@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keribato | 250277 | [250277-keribato.json](./250277-keribato.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
+| Keriotosse! | 58728 | [58728-keriotosse.json](./58728-keriotosse.json) |
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
 | Kernel Panic | 110886 | [110886-kernel-panic.json](./110886-kernel-panic.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
 | Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
+| Knight Solitaire | 58719 | [58719-knight-solitaire.json](./58719-knight-solitaire.json) |
 | Knight Solitaire 3 | 212987 | [212987-knight-solitaire-3.json](./212987-knight-solitaire-3.json) |
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
@@ -3383,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
 | Koi Zen: Opposite Colors | 253306 | [253306-koi-zen-opposite-colors.json](./253306-koi-zen-opposite-colors.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
+| Koibana Days | 58571 | [58571-koibana-days.json](./58571-koibana-days.json) |
 | Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
 | Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
@@ -3953,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
 | Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
+| Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
 | Kubikon 3D: Arctic DLC | 372539 | [372539-kubikon-3d-arctic-dlc.json](./372539-kubikon-3d-arctic-dlc.json) |
 | Kubikon 3D: Complete Edition | 401780 | [401780-kubikon-3d-complete-edition.json](./401780-kubikon-3d-complete-edition.json) |
