@@ -1079,6 +1079,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
+| Dark Hunter: Jou Ijigen Gakuen | 60968 | [60968-dark-hunter-jou-ijigen-gakuen.json](./60968-dark-hunter-jou-ijigen-gakuen.json) |
+| Dark Hunter: Shita Youma no Mori | 60970 | [60970-dark-hunter-shita-youma-no-mori.json](./60970-dark-hunter-shita-youma-no-mori.json) |
 | Dark Hunting Ground | 296239 | [296239-dark-hunting-ground.json](./296239-dark-hunting-ground.json) |
 | Dark Hyrule Fantasy | 199422 | [199422-dark-hyrule-fantasy.json](./199422-dark-hyrule-fantasy.json) |
 | Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
