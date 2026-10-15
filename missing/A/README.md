@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
+| Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
@@ -3182,6 +3183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
+| Aha! I Found It! Hidden Object Game | 51099 | [51099-aha-i-found-it-hidden-object-game.json](./51099-aha-i-found-it-hidden-object-game.json) |
+| Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
@@ -4368,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
+| Alien Crush Returns | 51097 | [51097-alien-crush-returns.json](./51097-alien-crush-returns.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dawn | 141582 | [141582-alien-dawn.json](./141582-alien-dawn.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
@@ -7931,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
+| AquaSpace | 51095 | [51095-aquaspace.json](./51095-aquaspace.json) |
 | Aquasplendere | 346208 | [346208-aquasplendere.json](./346208-aquasplendere.json) |
 | Aquasquad | 293246 | [293246-aquasquad.json](./293246-aquasquad.json) |
 | Aquatia | 272791 | [272791-aquatia.json](./272791-aquatia.json) |
@@ -8396,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
+| Arcade Essentials | 51094 | [51094-arcade-essentials.json](./51094-arcade-essentials.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
@@ -8458,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
+| Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
 | Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
@@ -9439,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
+| Around the World | 51092 | [51092-around-the-world.json](./51092-around-the-world.json) |
 | Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
@@ -10595,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy: Brick Breaker | 109916 | [109916-astro-boy-brick-breaker.json](./109916-astro-boy-brick-breaker.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
+| Astro Bugz Revenge | 51091 | [51091-astro-bugz-revenge.json](./51091-astro-bugz-revenge.json) |
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase | 282088 | [282088-astro-chase.json](./282088-astro-chase.json) |
@@ -12098,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
 | Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
+| Aya and the Cubes of Light | 51090 | [51090-aya-and-the-cubes-of-light.json](./51090-aya-and-the-cubes-of-light.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
