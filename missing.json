@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T08:35:31.108Z",
-  "total_missing": 214472,
+  "generated_at": "2026-10-15T08:49:57.307Z",
+  "total_missing": 214522,
   "games": [
     {
       "igdb_id": 191680,
@@ -885047,6 +885047,11 @@
       "file": "missing/T/137554-tank-off.json"
     },
     {
+      "igdb_id": 53720,
+      "game_name": "Tank on Tank Digital: Bundle West - East Front",
+      "file": "missing/T/53720-tank-on-tank-digital-bundle-west-east-front.json"
+    },
+    {
       "igdb_id": 147811,
       "game_name": "Tank Onslaught",
       "file": "missing/T/147811-tank-onslaught.json"
@@ -885222,6 +885227,11 @@
       "file": "missing/T/154531-tank-warfare-el-guettar.json"
     },
     {
+      "igdb_id": 53719,
+      "game_name": "Tank Warfare: Longstop Hill",
+      "file": "missing/T/53719-tank-warfare-longstop-hill.json"
+    },
+    {
       "igdb_id": 155088,
       "game_name": "Tank Warfare: Operation Pugilist",
       "file": "missing/T/155088-tank-warfare-operation-pugilist.json"
@@ -885315,6 +885325,11 @@
       "igdb_id": 383147,
       "game_name": "Tankegeddon!",
       "file": "missing/T/383147-tankegeddon.json"
+    },
+    {
+      "igdb_id": 53718,
+      "game_name": "Tanker Truck Simulator 2011",
+      "file": "missing/T/53718-tanker-truck-simulator-2011.json"
     },
     {
       "igdb_id": 207282,
@@ -891257,6 +891272,11 @@
       "file": "missing/T/329640-tempest-evolved.json"
     },
     {
+      "igdb_id": 53716,
+      "game_name": "Tempest: Pirate Edition",
+      "file": "missing/T/53716-tempest-pirate-edition.json"
+    },
+    {
       "igdb_id": 151542,
       "game_name": "Tempest: Treasure Lands",
       "file": "missing/T/151542-tempest-treasure-lands.json"
@@ -894865,6 +894885,11 @@
       "igdb_id": 25336,
       "game_name": "Tethered",
       "file": "missing/T/25336-tethered.json"
+    },
+    {
+      "igdb_id": 53715,
+      "game_name": "Tethered: Deluxe Edition",
+      "file": "missing/T/53715-tethered-deluxe-edition.json"
     },
     {
       "igdb_id": 361756,
@@ -898697,6 +898722,11 @@
       "file": "missing/T/245732-the-artist-act-one.json"
     },
     {
+      "igdb_id": 53714,
+      "game_name": "The Arys Expedition: Special Edition",
+      "file": "missing/T/53714-the-arys-expedition-special-edition.json"
+    },
+    {
       "igdb_id": 220672,
       "game_name": "The Asafo Journey",
       "file": "missing/T/220672-the-asafo-journey.json"
@@ -900712,6 +900742,11 @@
       "file": "missing/T/170485-the-black-watchmen-mother-russia.json"
     },
     {
+      "igdb_id": 53713,
+      "game_name": "The Black Watchmen: Occult Agent Edition",
+      "file": "missing/T/53713-the-black-watchmen-occult-agent-edition.json"
+    },
+    {
       "igdb_id": 170486,
       "game_name": "The Black Watchmen: Season 2 - Enduring Conflict",
       "file": "missing/T/170486-the-black-watchmen-season-2-enduring-conflict.json"
@@ -901182,6 +901217,11 @@
       "file": "missing/T/79561-the-book-of-three.json"
     },
     {
+      "igdb_id": 53712,
+      "game_name": "The Book of Unwritten Tales Collection",
+      "file": "missing/T/53712-the-book-of-unwritten-tales-collection.json"
+    },
+    {
       "igdb_id": 250259,
       "game_name": "The Book of Warriors",
       "file": "missing/T/250259-the-book-of-warriors.json"
@@ -901400,6 +901440,11 @@
       "igdb_id": 231456,
       "game_name": "The Branch",
       "file": "missing/T/231456-the-branch.json"
+    },
+    {
+      "igdb_id": 53711,
+      "game_name": "The Brave Furries",
+      "file": "missing/T/53711-the-brave-furries.json"
     },
     {
       "igdb_id": 415480,
@@ -901872,6 +901917,11 @@
       "file": "missing/T/51038-the-cages-pro-style-batting-practice.json"
     },
     {
+      "igdb_id": 53709,
+      "game_name": "The Caiysware Collection",
+      "file": "missing/T/53709-the-caiysware-collection.json"
+    },
+    {
       "igdb_id": 330811,
       "game_name": "The Cake is Alive",
       "file": "missing/T/330811-the-cake-is-alive.json"
@@ -901985,6 +902035,11 @@
       "igdb_id": 272560,
       "game_name": "The Callisto Protocol: Riot Bundle",
       "file": "missing/T/272560-the-callisto-protocol-riot-bundle.json"
+    },
+    {
+      "igdb_id": 53708,
+      "game_name": "The Cameron Files - Loch Ness",
+      "file": "missing/T/53708-the-cameron-files-loch-ness.json"
     },
     {
       "igdb_id": 36457,
@@ -904357,6 +904412,11 @@
       "file": "missing/T/219002-the-crew-silver-pack.json"
     },
     {
+      "igdb_id": 53721,
+      "game_name": "The Crew: Ultimate Edition",
+      "file": "missing/T/53721-the-crew-ultimate-edition.json"
+    },
+    {
       "igdb_id": 11158,
       "game_name": "The Crew: Wild Run",
       "file": "missing/T/11158-the-crew-wild-run.json"
@@ -904660,6 +904720,11 @@
       "igdb_id": 88652,
       "game_name": "The Cube",
       "file": "missing/T/88652-the-cube.json"
+    },
+    {
+      "igdb_id": 53722,
+      "game_name": "The Cube and His Adventure",
+      "file": "missing/T/53722-the-cube-and-his-adventure.json"
     },
     {
       "igdb_id": 147365,
@@ -905157,6 +905222,11 @@
       "file": "missing/T/379173-the-da-vinci-cryptex-4.json"
     },
     {
+      "igdb_id": 53723,
+      "game_name": "The Daedalic Comedy Selection",
+      "file": "missing/T/53723-the-daedalic-comedy-selection.json"
+    },
+    {
       "igdb_id": 4237,
       "game_name": "The Daedalus Encounter",
       "file": "missing/T/4237-the-daedalus-encounter.json"
@@ -905340,6 +905410,11 @@
       "igdb_id": 7168,
       "game_name": "The Dark Eye: Memoria",
       "file": "missing/T/7168-the-dark-eye-memoria.json"
+    },
+    {
+      "igdb_id": 53724,
+      "game_name": "The Dark Eye: Skilltree Saga",
+      "file": "missing/T/53724-the-dark-eye-skilltree-saga.json"
     },
     {
       "igdb_id": 254454,
@@ -905665,6 +905740,11 @@
       "igdb_id": 331150,
       "game_name": "The Darkness",
       "file": "missing/T/331150-the-darkness.json"
+    },
+    {
+      "igdb_id": 53725,
+      "game_name": "The Darkness Assault",
+      "file": "missing/T/53725-the-darkness-assault.json"
     },
     {
       "igdb_id": 398687,
@@ -906992,6 +907072,11 @@
       "file": "missing/T/109202-the-dope-game-android-edition.json"
     },
     {
+      "igdb_id": 53726,
+      "game_name": "The Dope Game: Dope Fiend Edition",
+      "file": "missing/T/53726-the-dope-game-dope-fiend-edition.json"
+    },
+    {
       "igdb_id": 226205,
       "game_name": "The Dot",
       "file": "missing/T/226205-the-dot.json"
@@ -907512,6 +907597,16 @@
       "file": "missing/T/13164-the-dwarves.json"
     },
     {
+      "igdb_id": 53727,
+      "game_name": "The Dwarves: Deluxe Edition",
+      "file": "missing/T/53727-the-dwarves-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53728,
+      "game_name": "The Dwarves: Digital Deluxe Edition",
+      "file": "missing/T/53728-the-dwarves-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 258009,
       "game_name": "The Dynasty Of Cats",
       "file": "missing/T/258009-the-dynasty-of-cats.json"
@@ -907915,6 +908010,11 @@
       "igdb_id": 136339,
       "game_name": "The Elder Scrolls Online: Morrowind - Collector's Edition",
       "file": "missing/T/136339-the-elder-scrolls-online-morrowind-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53729,
+      "game_name": "The Elder Scrolls Online: Morrowind - Digital Collector's Edition",
+      "file": "missing/T/53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json"
     },
     {
       "igdb_id": 233587,
@@ -908747,6 +908847,11 @@
       "file": "missing/T/121534-the-escapists-2-game-of-the-year-edition.json"
     },
     {
+      "igdb_id": 53732,
+      "game_name": "The Escapists: Alcatraz",
+      "file": "missing/T/53732-the-escapists-alcatraz.json"
+    },
+    {
       "igdb_id": 51927,
       "game_name": "The Escapists: Duct Tapes Are Forever",
       "file": "missing/T/51927-the-escapists-duct-tapes-are-forever.json"
@@ -908775,6 +908880,11 @@
       "igdb_id": 11744,
       "game_name": "The Escapists: The Walking Dead",
       "file": "missing/T/11744-the-escapists-the-walking-dead.json"
+    },
+    {
+      "igdb_id": 53735,
+      "game_name": "The Escapists: The Walking Dead - Deluxe Edition",
+      "file": "missing/T/53735-the-escapists-the-walking-dead-deluxe-edition.json"
     },
     {
       "igdb_id": 353501,
@@ -909195,6 +909305,11 @@
       "igdb_id": 57341,
       "game_name": "The Eye of Typhoon",
       "file": "missing/T/57341-the-eye-of-typhoon.json"
+    },
+    {
+      "igdb_id": 53736,
+      "game_name": "The Eyes of Ara: Deluxe Edition",
+      "file": "missing/T/53736-the-eyes-of-ara-deluxe-edition.json"
     },
     {
       "igdb_id": 219256,
@@ -910282,6 +910397,11 @@
       "file": "missing/T/16136-the-final-station.json"
     },
     {
+      "igdb_id": 53737,
+      "game_name": "The Final Station: Collector's Edition",
+      "file": "missing/T/53737-the-final-station-collectors-edition.json"
+    },
+    {
       "igdb_id": 124810,
       "game_name": "The Final Station: The Only Traitor",
       "file": "missing/T/124810-the-final-station-the-only-traitor.json"
@@ -910905,6 +911025,11 @@
       "igdb_id": 386221,
       "game_name": "The Fog Fall 2",
       "file": "missing/T/386221-the-fog-fall-2.json"
+    },
+    {
+      "igdb_id": 53738,
+      "game_name": "The Fog: Trap for Moths",
+      "file": "missing/T/53738-the-fog-trap-for-moths.json"
     },
     {
       "igdb_id": 34193,
@@ -912562,6 +912687,11 @@
       "file": "missing/T/184460-the-golden-tulip.json"
     },
     {
+      "igdb_id": 53740,
+      "game_name": "The Golden Years: Way Out West",
+      "file": "missing/T/53740-the-golden-years-way-out-west.json"
+    },
+    {
       "igdb_id": 138674,
       "game_name": "The Golem",
       "file": "missing/T/138674-the-golem.json"
@@ -912720,6 +912850,11 @@
       "igdb_id": 36496,
       "game_name": "The Grand Ball",
       "file": "missing/T/36496-the-grand-ball.json"
+    },
+    {
+      "igdb_id": 53741,
+      "game_name": "The Grand Ball: Deluxe Edition",
+      "file": "missing/T/53741-the-grand-ball-deluxe-edition.json"
     },
     {
       "igdb_id": 415246,
@@ -913517,6 +913652,11 @@
       "file": "missing/T/391890-the-guiding-spirit.json"
     },
     {
+      "igdb_id": 53742,
+      "game_name": "The Guild 2: Platinium Edition",
+      "file": "missing/T/53742-the-guild-2-platinium-edition.json"
+    },
+    {
       "igdb_id": 11620,
       "game_name": "The Guild 2: Renaissance",
       "file": "missing/T/11620-the-guild-2-renaissance.json"
@@ -913580,6 +913720,11 @@
       "igdb_id": 234051,
       "game_name": "The Hacker 2.0",
       "file": "missing/T/234051-the-hacker-2-0.json"
+    },
+    {
+      "igdb_id": 53743,
+      "game_name": "The Hacking Intern",
+      "file": "missing/T/53743-the-hacking-intern.json"
     },
     {
       "igdb_id": 124076,
@@ -914322,6 +914467,11 @@
       "file": "missing/T/146730-the-hidden-object-collection.json"
     },
     {
+      "igdb_id": 53744,
+      "game_name": "The Hidden Object Show",
+      "file": "missing/T/53744-the-hidden-object-show.json"
+    },
+    {
       "igdb_id": 207010,
       "game_name": "The Hidden Object Show Seasons 1 & 2",
       "file": "missing/T/207010-the-hidden-object-show-seasons-1-and-2.json"
@@ -914670,6 +914820,21 @@
       "igdb_id": 31633,
       "game_name": "The Horus Heresy: Battle of Tallarn",
       "file": "missing/T/31633-the-horus-heresy-battle-of-tallarn.json"
+    },
+    {
+      "igdb_id": 53746,
+      "game_name": "The Horus Heresy: Battle of Tallarn - Ascendance Campaign",
+      "file": "missing/T/53746-the-horus-heresy-battle-of-tallarn-ascendance-campaign.json"
+    },
+    {
+      "igdb_id": 53747,
+      "game_name": "The Horus Heresy: Battle of Tallarn - Iron Edition",
+      "file": "missing/T/53747-the-horus-heresy-battle-of-tallarn-iron-edition.json"
+    },
+    {
+      "igdb_id": 53748,
+      "game_name": "The Horus Heresy: Battle of Tallarn - Underworld Campaign",
+      "file": "missing/T/53748-the-horus-heresy-battle-of-tallarn-underworld-campaign.json"
     },
     {
       "igdb_id": 30791,
@@ -916437,6 +916602,11 @@
       "file": "missing/T/376263-the-jackbox-big-bang-bundle.json"
     },
     {
+      "igdb_id": 53750,
+      "game_name": "The Jackbox Bundle",
+      "file": "missing/T/53750-the-jackbox-bundle.json"
+    },
+    {
       "igdb_id": 295644,
       "game_name": "The Jackbox Decade Bundle",
       "file": "missing/T/295644-the-jackbox-decade-bundle.json"
@@ -916630,6 +916800,16 @@
       "igdb_id": 45888,
       "game_name": "The Joker's Wild Jr.",
       "file": "missing/T/45888-the-jokers-wild-jr.json"
+    },
+    {
+      "igdb_id": 53751,
+      "game_name": "The Jolly Gang's Misadventures in Africa",
+      "file": "missing/T/53751-the-jolly-gangs-misadventures-in-africa.json"
+    },
+    {
+      "igdb_id": 53752,
+      "game_name": "The Jolly Gangs Spooky Adventure",
+      "file": "missing/T/53752-the-jolly-gangs-spooky-adventure.json"
     },
     {
       "igdb_id": 401025,
@@ -916980,6 +917160,11 @@
       "igdb_id": 204344,
       "game_name": "The Jumping Fries: Turbo",
       "file": "missing/T/204344-the-jumping-fries-turbo.json"
+    },
+    {
+      "igdb_id": 53753,
+      "game_name": "The Jumping Gent",
+      "file": "missing/T/53753-the-jumping-gent.json"
     },
     {
       "igdb_id": 228330,
@@ -918702,6 +918887,11 @@
       "file": "missing/T/35149-the-last-dogma.json"
     },
     {
+      "igdb_id": 53754,
+      "game_name": "The Last Dogma - Complete Experience",
+      "file": "missing/T/53754-the-last-dogma-complete-experience.json"
+    },
+    {
       "igdb_id": 235984,
       "game_name": "The Last Door",
       "file": "missing/T/235984-the-last-door.json"
@@ -919865,6 +920055,11 @@
       "igdb_id": 389956,
       "game_name": "The Last Wizard: A Goblin Detective Mystery",
       "file": "missing/T/389956-the-last-wizard-a-goblin-detective-mystery.json"
+    },
+    {
+      "igdb_id": 53755,
+      "game_name": "The Last Word",
+      "file": "missing/T/53755-the-last-word.json"
     },
     {
       "igdb_id": 275821,
@@ -921657,6 +921852,11 @@
       "file": "missing/T/103913-the-legendary-boy-run.json"
     },
     {
+      "igdb_id": 53756,
+      "game_name": "The Legendary Hero of Space",
+      "file": "missing/T/53756-the-legendary-hero-of-space.json"
+    },
+    {
       "igdb_id": 68612,
       "game_name": "The Legendary Player - Make Your Reputation",
       "file": "missing/T/68612-the-legendary-player-make-your-reputation.json"
@@ -921915,6 +922115,11 @@
       "igdb_id": 108320,
       "game_name": "The Lift",
       "file": "missing/T/108320-the-lift.json"
+    },
+    {
+      "igdb_id": 53757,
+      "game_name": "The Light",
+      "file": "missing/T/53757-the-light.json"
     },
     {
       "igdb_id": 168635,
@@ -923642,6 +923847,11 @@
       "file": "missing/T/138678-the-love-boat-puzzle-cruise.json"
     },
     {
+      "igdb_id": 53758,
+      "game_name": "The Love Bot",
+      "file": "missing/T/53758-the-love-bot.json"
+    },
+    {
       "igdb_id": 183049,
       "game_name": "The Love Interests get their Own Game",
       "file": "missing/T/183049-the-love-interests-get-their-own-game.json"
@@ -923962,6 +924172,11 @@
       "file": "missing/T/12285-the-magicians-curse.json"
     },
     {
+      "igdb_id": 53759,
+      "game_name": "The Magician's Handbook II: BlackLore",
+      "file": "missing/T/53759-the-magicians-handbook-ii-blacklore.json"
+    },
+    {
       "igdb_id": 118180,
       "game_name": "The Magician's Handbook: Cursed Valley",
       "file": "missing/T/118180-the-magicians-handbook-cursed-valley.json"
@@ -923990,6 +924205,11 @@
       "igdb_id": 148534,
       "game_name": "The Magnets",
       "file": "missing/T/148534-the-magnets.json"
+    },
+    {
+      "igdb_id": 53760,
+      "game_name": "The Magnificent Fragments",
+      "file": "missing/T/53760-the-magnificent-fragments.json"
     },
     {
       "igdb_id": 144508,
@@ -924782,6 +925002,11 @@
       "file": "missing/T/191806-the-meteorite.json"
     },
     {
+      "igdb_id": 53761,
+      "game_name": "The Metronomicon: Deluxe Edition",
+      "file": "missing/T/53761-the-metronomicon-deluxe-edition.json"
+    },
+    {
       "igdb_id": 225230,
       "game_name": "The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1",
       "file": "missing/T/225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json"
@@ -925510,6 +925735,11 @@
       "igdb_id": 27358,
       "game_name": "The Mooseman",
       "file": "missing/T/27358-the-mooseman.json"
+    },
+    {
+      "igdb_id": 53762,
+      "game_name": "The Mooseman: Mythic Edition",
+      "file": "missing/T/53762-the-mooseman-mythic-edition.json"
     },
     {
       "igdb_id": 177286,
@@ -927067,6 +927297,11 @@
       "file": "missing/T/220695-the-ocean-will-have-us-all.json"
     },
     {
+      "igdb_id": 53766,
+      "game_name": "The Odaiba Box",
+      "file": "missing/T/53766-the-odaiba-box.json"
+    },
+    {
       "igdb_id": 218705,
       "game_name": "The Odarian Accounts",
       "file": "missing/T/218705-the-odarian-accounts.json"
@@ -927655,6 +927890,11 @@
       "igdb_id": 161402,
       "game_name": "The other side: My own horror",
       "file": "missing/T/161402-the-other-side-my-own-horror.json"
+    },
+    {
+      "igdb_id": 53765,
+      "game_name": "The Other Side: Tower of Souls",
+      "file": "missing/T/53765-the-other-side-tower-of-souls.json"
     },
     {
       "igdb_id": 310066,
@@ -928895,6 +929135,11 @@
       "igdb_id": 406744,
       "game_name": "The Planetary Archive",
       "file": "missing/T/406744-the-planetary-archive.json"
+    },
+    {
+      "igdb_id": 53764,
+      "game_name": "The Planner: Farming",
+      "file": "missing/T/53764-the-planner-farming.json"
     },
     {
       "igdb_id": 105135,
@@ -976225,6 +976470,11 @@
       "igdb_id": 154255,
       "game_name": "Train Simulator: Tauernbahn: Schwarzach-Sankt Veit - Spittal an der Drau Route Add-On",
       "file": "missing/T/154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json"
+    },
+    {
+      "igdb_id": 53745,
+      "game_name": "Train Simulator: The Holiday Express",
+      "file": "missing/T/53745-train-simulator-the-holiday-express.json"
     },
     {
       "igdb_id": 156396,
