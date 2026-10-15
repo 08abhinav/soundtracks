@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
+| Absolute Force Online | 64311 | [64311-absolute-force-online.json](./64311-absolute-force-online.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
@@ -6518,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
+| Animal Breeder 2 | 64295 | [64295-animal-breeder-2.json](./64295-animal-breeder-2.json) |
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
@@ -7057,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
+| Anonymous Agony | 64317 | [64317-anonymous-agony.json](./64317-anonymous-agony.json) |
 | Anonymous Animal | 200361 | [200361-anonymous-animal.json](./200361-anonymous-animal.json) |
 | Anonymous Hacker Simulator | 258607 | [258607-anonymous-hacker-simulator.json](./258607-anonymous-hacker-simulator.json) |
 | Anonymous Hunting Simulator | 274537 | [274537-anonymous-hunting-simulator.json](./274537-anonymous-hunting-simulator.json) |
