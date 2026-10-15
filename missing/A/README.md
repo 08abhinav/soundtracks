@@ -5543,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America Against Ants | 338224 | [338224-america-against-ants.json](./338224-america-against-ants.json) |
+| America Double Barrel Collection | 57561 | [57561-america-double-barrel-collection.json](./57561-america-double-barrel-collection.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz | 268631 | [268631-america-oudan-ultra-quiz.json](./268631-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
@@ -5941,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
 | Anachronism\> | 151304 | [151304-anachronism.json](./151304-anachronism.json) |
+| Anacreon: Imperial Conquest in the Far Future | 57582 | [57582-anacreon-imperial-conquest-in-the-far-future.json](./57582-anacreon-imperial-conquest-in-the-far-future.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
 | Anagramarama | 390701 | [390701-anagramarama.json](./390701-anagramarama.json) |
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
 | Ancient Dino Runner | 156227 | [156227-ancient-dino-runner.json](./156227-ancient-dino-runner.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
+| Ancient Egyptian Mehen: The Forbidden Game of the Snake | 57567 | [57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json](./57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json) |
 | Ancient Empires Reloaded | 207866 | [207866-ancient-empires-reloaded.json](./207866-ancient-empires-reloaded.json) |
 | Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
@@ -9704,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | Artpartment | 128425 | [128425-artpartment.json](./128425-artpartment.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
+| ArtRageous! | 57564 | [57564-artrageous.json](./57564-artrageous.json) |
 | Arts & Hearts Academy | 275098 | [275098-arts-and-hearts-academy.json](./275098-arts-and-hearts-academy.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
