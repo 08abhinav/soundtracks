@@ -12454,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Jellies | 9731 | [9731-puzzle-of-jellies.json](./9731-puzzle-of-jellies.json) |
 | Puzzle of Santa Girl VR | 81932 | [81932-puzzle-of-santa-girl-vr.json](./81932-puzzle-of-santa-girl-vr.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
+| Puzzle One | 46465 | [46465-puzzle-one.json](./46465-puzzle-one.json) |
 | Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Pandemonium | 68544 | [68544-puzzle-pandemonium.json](./68544-puzzle-pandemonium.json) |
