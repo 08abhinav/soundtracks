@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack | 288900 | [288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json](./288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json) |
 | Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
 | Jigsaw Puzzle DS: DS de Meguru Sekai Isan no Tabi | 269785 | [269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json](./269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json) |
+| Jigsaw Puzzle Express | 68547 | [68547-jigsaw-puzzle-express.json](./68547-jigsaw-puzzle-express.json) |
 | Jigsaw Puzzle Nature | 272755 | [272755-jigsaw-puzzle-nature.json](./272755-jigsaw-puzzle-nature.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
+| Joint Strike Future | 68545 | [68545-joint-strike-future.json](./68545-joint-strike-future.json) |
 | Joint Task Force | 19354 | [19354-joint-task-force.json](./19354-joint-task-force.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
