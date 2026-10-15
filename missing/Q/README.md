@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
 | Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
 | Quarterback Attack | 4282 | [4282-quarterback-attack.json](./4282-quarterback-attack.json) |
+| Quarterback Attack with Mike Ditka | 38828 | [38828-quarterback-attack-with-mike-ditka.json](./38828-quarterback-attack-with-mike-ditka.json) |
 | Quartermain and the Cult of Cthulhu | 332389 | [332389-quartermain-and-the-cult-of-cthulhu.json](./332389-quartermain-and-the-cult-of-cthulhu.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
