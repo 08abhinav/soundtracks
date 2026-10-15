@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Silent Mountain - Collector's Edition | 76482 | [76482-league-of-light-silent-mountain-collectors-edition.json](./76482-league-of-light-silent-mountain-collectors-edition.json) |
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
+| League of Maidens | 38786 | [38786-league-of-maidens.json](./38786-league-of-maidens.json) |
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
