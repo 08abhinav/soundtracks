@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VanySlash | 297333 | [297333-vanyslash.json](./297333-vanyslash.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vape Store Miami | 406824 | [406824-vape-store-miami.json](./406824-vape-store-miami.json) |
+| Vaping Simulator: Pepe Edition | 55787 | [55787-vaping-simulator-pepe-edition.json](./55787-vaping-simulator-pepe-edition.json) |
 | Vapinupituru | 393537 | [393537-vapinupituru.json](./393537-vapinupituru.json) |
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
