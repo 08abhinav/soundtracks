@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man: New Game Plus Update | 251543 | [251543-marvels-spider-man-new-game-plus-update.json](./251543-marvels-spider-man-new-game-plus-update.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
 | Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
+| Marvel's Spider-Man: Turf Wars | 109421 | [109421-marvels-spider-man-turf-wars.json](./109421-marvels-spider-man-turf-wars.json) |
 | Marvel's The Invincible Iron Man | 49231 | [49231-marvels-the-invincible-iron-man.json](./49231-marvels-the-invincible-iron-man.json) |
 | Marvel's Wolverine: Digital Deluxe Edition | 407453 | [407453-marvels-wolverine-digital-deluxe-edition.json](./407453-marvels-wolverine-digital-deluxe-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
@@ -3488,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
+| Mass Effect 3: Omega | 13912 | [13912-mass-effect-3-omega.json](./13912-mass-effect-3-omega.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect Datapad | 77200 | [77200-mass-effect-datapad.json](./77200-mass-effect-datapad.json) |
 | Mass Effect: Andromeda - Deluxe Edition | 27766 | [27766-mass-effect-andromeda-deluxe-edition.json](./27766-mass-effect-andromeda-deluxe-edition.json) |
@@ -6897,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Master Artyom Edition | 113629 | [113629-metro-exodus-master-artyom-edition.json](./113629-metro-exodus-master-artyom-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Exodus: Spartan Collector's Edition | 112094 | [112094-metro-exodus-spartan-collectors-edition.json](./112094-metro-exodus-spartan-collectors-edition.json) |
+| Metro Exodus: The Two Colonels | 121753 | [121753-metro-exodus-the-two-colonels.json](./121753-metro-exodus-the-two-colonels.json) |
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
@@ -7107,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
 | Michael Jackson: The Experience 3D | 85288 | [85288-michael-jackson-the-experience-3d.json](./85288-michael-jackson-the-experience-3d.json) |
+| Michael Jackson's Moonwalker | 18139 | [18139-michael-jacksons-moonwalker.json](./18139-michael-jacksons-moonwalker.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Jordan in Flight | 198814 | [198814-michael-jordan-in-flight.json](./198814-michael-jordan-in-flight.json) |
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
@@ -7570,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Cipher | 155879 | [155879-midnight-cipher.json](./155879-midnight-cipher.json) |
 | Midnight Club 3: DUB Edition | 5928 | [5928-midnight-club-3-dub-edition.json](./5928-midnight-club-3-dub-edition.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
+| Midnight Club II | 4631 | [4631-midnight-club-ii.json](./4631-midnight-club-ii.json) |
 | Midnight Club L.A. Remix | 42857 | [42857-midnight-club-l-a-remix.json](./42857-midnight-club-l-a-remix.json) |
 | Midnight Club: Los Angeles | 7071 | [7071-midnight-club-los-angeles.json](./7071-midnight-club-los-angeles.json) |
 | Midnight Club: Los Angeles - Complete Edition | 44581 | [44581-midnight-club-los-angeles-complete-edition.json](./44581-midnight-club-los-angeles-complete-edition.json) |
@@ -10786,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
 | Monster Hunter Stories Deluxe Collection | 306546 | [306546-monster-hunter-stories-deluxe-collection.json](./306546-monster-hunter-stories-deluxe-collection.json) |
+| Monster Hunter Tri | 2268 | [2268-monster-hunter-tri.json](./2268-monster-hunter-tri.json) |
 | Monster Hunter Tri G | 85616 | [85616-monster-hunter-tri-g.json](./85616-monster-hunter-tri-g.json) |
 | Monster Hunter Tri: Classic Controller Pro Pack | 78629 | [78629-monster-hunter-tri-classic-controller-pro-pack.json](./78629-monster-hunter-tri-classic-controller-pro-pack.json) |
 | Monster Hunter Tri: Limited Edition | 78631 | [78631-monster-hunter-tri-limited-edition.json](./78631-monster-hunter-tri-limited-edition.json) |
@@ -12201,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
+| MotorStorm | 2553 | [2553-motorstorm.json](./2553-motorstorm.json) |
 | Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
 | Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
