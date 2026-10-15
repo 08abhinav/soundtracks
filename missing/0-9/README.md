@@ -1656,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 In 1 Indie Bundle | 118738 | [118738-4-in-1-indie-bundle.json](./118738-4-in-1-indie-bundle.json) |
 | 4 in 1 Row | 41534 | [41534-4-in-1-row.json](./41534-4-in-1-row.json) |
 | 4 in 1 Sports Bundle Vol. 3 | 395222 | [395222-4-in-1-sports-bundle-vol-3.json](./395222-4-in-1-sports-bundle-vol-3.json) |
+| 4 In 1 Super CD | 37602 | [37602-4-in-1-super-cd.json](./37602-4-in-1-super-cd.json) |
 | 4 in 1 Vol.17 | 138695 | [138695-4-in-1-vol-17.json](./138695-4-in-1-vol-17.json) |
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
 | 4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd | 269535 | [269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json](./269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json) |
