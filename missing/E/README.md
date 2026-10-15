@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
+| Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
