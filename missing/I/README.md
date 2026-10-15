@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
 | Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
+| Illumina! | 63762 | [63762-illumina.json](./63762-illumina.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
