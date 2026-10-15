@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Nikki | 229648 | [229648-kaizo-nikki.json](./229648-kaizo-nikki.json) |
 | Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
+| Kaizou Choujin Schbibinman 3: Ikai no Princess | 37583 | [37583-kaizou-choujin-schbibinman-3-ikai-no-princess.json](./37583-kaizou-choujin-schbibinman-3-ikai-no-princess.json) |
 | Kaizou Shoujo: Robokko to no Ichaicha Seikatsu! | 77617 | [77617-kaizou-shoujo-robokko-to-no-ichaicha-seikatsu.json](./77617-kaizou-shoujo-robokko-to-no-ichaicha-seikatsu.json) |
 | Kajipeet | 316769 | [316769-kajipeet.json](./316769-kajipeet.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuro | 264552 | [264552-kakuro.json](./264552-kakuro.json) |
 | Kakuro Blend | 150442 | [150442-kakuro-blend.json](./150442-kakuro-blend.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
+| Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm-hen | 228570 | [228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json](./228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json) |
 | Kakwitene VR | 118806 | [118806-kakwitene-vr.json](./118806-kakwitene-vr.json) |
@@ -956,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
+| Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
@@ -4300,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
+| Kyousouba Ikusei Simulation: Keiba | 37577 | [37577-kyousouba-ikusei-simulation-keiba.json](./37577-kyousouba-ikusei-simulation-keiba.json) |
 | Kyoutabi | 236776 | [236776-kyoutabi.json](./236776-kyoutabi.json) |
 | Kyoutei Wars Makuru 6 | 98530 | [98530-kyoutei-wars-makuru-6.json](./98530-kyoutei-wars-makuru-6.json) |
 | Kyoutou Kotoba RPG: Kotodaman | 208239 | [208239-kyoutou-kotoba-rpg-kotodaman.json](./208239-kyoutou-kotoba-rpg-kotodaman.json) |
