@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoujin Guru-guru | 44440 | [44440-mahoujin-guru-guru.json](./44440-mahoujin-guru-guru.json) |
 | Mahoujin Guru-guru 2 | 44439 | [44439-mahoujin-guru-guru-2.json](./44439-mahoujin-guru-guru-2.json) |
+| Mahouka Koukou no Rettousei: Lost Zero | 60965 | [60965-mahouka-koukou-no-rettousei-lost-zero.json](./60965-mahouka-koukou-no-rettousei-lost-zero.json) |
 | Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
@@ -5785,7 +5786,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
 | Meltylancer Re-inforce | 340415 | [340415-meltylancer-re-inforce.json](./340415-meltylancer-re-inforce.json) |
+| Meltylancer Re-inforce | 60976 | [60976-meltylancer-re-inforce.json](./60976-meltylancer-re-inforce.json) |
 | Meltylancer Re-inforce: Special Edition | 340482 | [340482-meltylancer-re-inforce-special-edition.json](./340482-meltylancer-re-inforce-special-edition.json) |
+| Meltylancer: Ginga Shoujo Keisatsu 2086 | 60977 | [60977-meltylancer-ginga-shoujo-keisatsu-2086.json](./60977-meltylancer-ginga-shoujo-keisatsu-2086.json) |
+| Meltylancer: The 3rd Planet | 60973 | [60973-meltylancer-the-3rd-planet.json](./60973-meltylancer-the-3rd-planet.json) |
 | Meltylancer: The Melting Pot Police | 340399 | [340399-meltylancer-the-melting-pot-police.json](./340399-meltylancer-the-melting-pot-police.json) |
 | MeltyMoment Mini Fandisc: Aoi & Kagami Version | 413642 | [413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json](./413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json) |
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
@@ -6660,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metalborne | 196562 | [196562-metalborne.json](./196562-metalborne.json) |
 | MetalCore | 216171 | [216171-metalcore.json](./216171-metalcore.json) |
+| Metalhead Tycoon | 60975 | [60975-metalhead-tycoon.json](./60975-metalhead-tycoon.json) |
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
@@ -11368,6 +11373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
+| Morf | 60986 | [60986-morf.json](./60986-morf.json) |
 | MorFits Farm | 143680 | [143680-morfits-farm.json](./143680-morfits-farm.json) |
 | Morfosi | 135684 | [135684-morfosi.json](./135684-morfosi.json) |
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
@@ -13272,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
+| Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
