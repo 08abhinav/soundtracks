@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
+| Gladiator | 28566 | [28566-gladiator.json](./28566-gladiator.json) |
 | Gladiator | 320853 | [320853-gladiator.json](./320853-gladiator.json) |
 | Gladiator | 401715 | [401715-gladiator.json](./401715-gladiator.json) |
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
@@ -7696,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
+| Gus Track Adventures VR | 28672 | [28672-gus-track-adventures-vr.json](./28672-gus-track-adventures-vr.json) |
 | Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gussun Oyoyo | 64740 | [64740-gussun-oyoyo.json](./64740-gussun-oyoyo.json) |
