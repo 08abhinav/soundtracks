@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Chance | 184499 | [184499-second-chance.json](./184499-second-chance.json) |
 | Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
 | Second Coat | 357185 | [357185-second-coat.json](./357185-second-coat.json) |
+| Second Coming | 32606 | [32606-second-coming.json](./32606-second-coming.json) |
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
@@ -10227,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
+| SnarfQuest Tales, Episode 1: The Beginning | 32689 | [32689-snarfquest-tales-episode-1-the-beginning.json](./32689-snarfquest-tales-episode-1-the-beginning.json) |
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
@@ -19881,6 +19883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
+| Subterrarium | 32730 | [32730-subterrarium.json](./32730-subterrarium.json) |
 | Subterror | 282522 | [282522-subterror.json](./282522-subterror.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
@@ -21031,6 +21034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Combat Fighter | 109558 | [109558-super-combat-fighter.json](./109558-super-combat-fighter.json) |
 | Super Comboman | 63550 | [63550-super-comboman.json](./63550-super-comboman.json) |
 | Super ComboMan: Don't Mash Edition | 30231 | [30231-super-comboman-dont-mash-edition.json](./30231-super-comboman-dont-mash-edition.json) |
+| Super ComboMan: Smash Edition | 32674 | [32674-super-comboman-smash-edition.json](./32674-super-comboman-smash-edition.json) |
 | Super Commander XL | 110516 | [110516-super-commander-xl.json](./110516-super-commander-xl.json) |
 | Super Company | 219580 | [219580-super-company.json](./219580-super-company.json) |
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
