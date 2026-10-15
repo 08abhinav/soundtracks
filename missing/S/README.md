@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
 | Santa Claus no Takara-bako | 41250 | [41250-santa-claus-no-takara-bako.json](./41250-santa-claus-no-takara-bako.json) |
+| Santa Claus Saves The Earth | 49237 | [49237-santa-claus-saves-the-earth.json](./49237-santa-claus-saves-the-earth.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
@@ -2220,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
+| Scooby-Doo!: Mystery Mayhem | 49225 | [49225-scooby-doo-mystery-mayhem.json](./49225-scooby-doo-mystery-mayhem.json) |
 | Scooby-Doo!: Pirate Ghost of the Barbary Coast | 137540 | [137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json](./137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
 | Scoop it! Goldfish | 308500 | [308500-scoop-it-goldfish.json](./308500-scoop-it-goldfish.json) |
@@ -2648,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Eiyuden: Daikessen!! Kishi vs Musha | 223046 | [223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json](./223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json) |
 | SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
+| SD Gundam Force | 49224 | [49224-sd-gundam-force.json](./49224-sd-gundam-force.json) |
 | SD Gundam Force: Showdown! | 44720 | [44720-sd-gundam-force-showdown.json](./44720-sd-gundam-force-showdown.json) |
 | SD Gundam G Generation | 66588 | [66588-sd-gundam-g-generation.json](./66588-sd-gundam-g-generation.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
@@ -6531,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek 2 | 248501 | [248501-shrek-2.json](./248501-shrek-2.json) |
 | Shrek 2 | 3668 | [3668-shrek-2.json](./3668-shrek-2.json) |
 | Shrek 2 Activity Center: Twisted Fairy Tale Fun | 208994 | [208994-shrek-2-activity-center-twisted-fairy-tale-fun.json](./208994-shrek-2-activity-center-twisted-fairy-tale-fun.json) |
+| Shrek 2: Beg for Mercy! | 49223 | [49223-shrek-2-beg-for-mercy.json](./49223-shrek-2-beg-for-mercy.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
@@ -6549,7 +6553,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Treasure Hunt | 44967 | [44967-shrek-treasure-hunt.json](./44967-shrek-treasure-hunt.json) |
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
+| Shrek: Hassle at the Castle | 49241 | [49241-shrek-hassle-at-the-castle.json](./49241-shrek-hassle-at-the-castle.json) |
 | Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
+| Shrek: Reekin' Havoc | 49222 | [49222-shrek-reekin-havoc.json](./49222-shrek-reekin-havoc.json) |
+| Shrek: Swamp Kart Speedway | 49240 | [49240-shrek-swamp-kart-speedway.json](./49240-shrek-swamp-kart-speedway.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrew | 320265 | [320265-shrew.json](./320265-shrew.json) |
@@ -7137,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Scale | 265846 | [265846-silent-scale.json](./265846-silent-scale.json) |
 | Silent Scope | 248779 | [248779-silent-scope.json](./248779-silent-scope.json) |
+| Silent Scope | 49182 | [49182-silent-scope.json](./49182-silent-scope.json) |
 | Silent Scope 3 | 329121 | [329121-silent-scope-3.json](./329121-silent-scope-3.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scope Complete | 6052 | [6052-silent-scope-complete.json](./6052-silent-scope-complete.json) |
@@ -15409,6 +15417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
+| Sports Illustrated for Kids: Football | 49220 | [49220-sports-illustrated-for-kids-football.json](./49220-sports-illustrated-for-kids-football.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
@@ -19145,6 +19154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
+| Street Jam Basketball | 49219 | [49219-street-jam-basketball.json](./49219-street-jam-basketball.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
@@ -19490,6 +19500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
+| Stuart Little 2 | 49218 | [49218-stuart-little-2.json](./49218-stuart-little-2.json) |
 | Stuart Little 3: Big Photo Adventure | 43455 | [43455-stuart-little-3-big-photo-adventure.json](./43455-stuart-little-3-big-photo-adventure.json) |
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
@@ -19970,6 +19981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
 | Sudoku Epic | 83413 | [83413-sudoku-epic.json](./83413-sudoku-epic.json) |
+| Sudoku Fever | 49233 | [49233-sudoku-fever.json](./49233-sudoku-fever.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku for Kids | 88625 | [88625-sudoku-for-kids.json](./88625-sudoku-for-kids.json) |
@@ -21066,6 +21078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
+| Super Duper Sumos | 49217 | [49217-super-duper-sumos.json](./49217-super-duper-sumos.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super DX-Ball | 73985 | [73985-super-dx-ball.json](./73985-super-dx-ball.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
@@ -22863,6 +22876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: The Videogame | 6182 | [6182-superman-returns-the-videogame.json](./6182-superman-returns-the-videogame.json) |
 | Superman: Battle for Metropolis | 239553 | [239553-superman-battle-for-metropolis.json](./239553-superman-battle-for-metropolis.json) |
+| Superman: Countdown to Apokolips | 49216 | [49216-superman-countdown-to-apokolips.json](./49216-superman-countdown-to-apokolips.json) |
 | Superman: Luther no Yabou | 349440 | [349440-superman-luther-no-yabou.json](./349440-superman-luther-no-yabou.json) |
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
