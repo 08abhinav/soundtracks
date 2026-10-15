@@ -12430,10 +12430,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons Online: Keep on the Borderlands | 338764 | [338764-dungeons-and-dragons-online-keep-on-the-borderlands.json](./338764-dungeons-and-dragons-online-keep-on-the-borderlands.json) |
 | Dungeons & Dragons Online: Masterminds of Sharn | 258926 | [258926-dungeons-and-dragons-online-masterminds-of-sharn.json](./258926-dungeons-and-dragons-online-masterminds-of-sharn.json) |
+| Dungeons & Dragons Online: Menace of the Underdark | 47126 | [47126-dungeons-and-dragons-online-menace-of-the-underdark.json](./47126-dungeons-and-dragons-online-menace-of-the-underdark.json) |
 | Dungeons & Dragons Online: Mists of Ravenloft | 258925 | [258925-dungeons-and-dragons-online-mists-of-ravenloft.json](./258925-dungeons-and-dragons-online-mists-of-ravenloft.json) |
 | Dungeons & Dragons Online: Premium Archetype - Wild Mage | 338767 | [338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json](./338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json) |
 | Dungeons & Dragons Online: Premium Race - Tabaxi | 338769 | [338769-dungeons-and-dragons-online-premium-race-tabaxi.json](./338769-dungeons-and-dragons-online-premium-race-tabaxi.json) |
 | Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
+| Dungeons & Dragons Online: Shadowfell Conspiracy | 47127 | [47127-dungeons-and-dragons-online-shadowfell-conspiracy.json](./47127-dungeons-and-dragons-online-shadowfell-conspiracy.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
