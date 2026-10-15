@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
 | 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
+| 3 Point Contest | 64319 | [64319-3-point-contest.json](./64319-3-point-contest.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
 | 3 Shapes | 252715 | [252715-3-shapes.json](./252715-3-shapes.json) |
