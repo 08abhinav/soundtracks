@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
+| Cheerios Play Time | 57593 | [57593-cheerios-play-time.json](./57593-cheerios-play-time.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
+| Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
@@ -9897,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
+| Corsarios | 57563 | [57563-corsarios.json](./57563-corsarios.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
 | Cortex Chronicles 1: The Trial of Rowan Reed | 290987 | [290987-cortex-chronicles-1-the-trial-of-rowan-reed.json](./290987-cortex-chronicles-1-the-trial-of-rowan-reed.json) |
@@ -12771,6 +12774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
+| CubeDrift | 57568 | [57568-cubedrift.json](./57568-cubedrift.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
 | Cubefall | 134934 | [134934-cubefall.json](./134934-cubefall.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
