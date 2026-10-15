@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeachCricket | 90523 | [90523-beachcricket.json](./90523-beachcricket.json) |
 | Beached | 169905 | [169905-beached.json](./169905-beached.json) |
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
+| Beached | 43134 | [43134-beached.json](./43134-beached.json) |
 | Beached II | 169906 | [169906-beached-ii.json](./169906-beached-ii.json) |
 | Beachfront | 334227 | [334227-beachfront.json](./334227-beachfront.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
@@ -8778,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Mormon Scripix | 102274 | [102274-book-of-mormon-scripix.json](./102274-book-of-mormon-scripix.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
+| Book of Potentia 2 | 43161 | [43161-book-of-potentia-2.json](./43161-book-of-potentia-2.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
 | Book of the Abyss | 392319 | [392319-book-of-the-abyss.json](./392319-book-of-the-abyss.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
@@ -10192,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Block | 384279 | [384279-break-the-block.json](./384279-break-the-block.json) |
+| Break the Cookie | 43164 | [43164-break-the-cookie.json](./43164-break-the-cookie.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
