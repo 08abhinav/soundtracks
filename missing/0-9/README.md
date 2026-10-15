@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | !mrak | 335389 | [335389-mrak.json](./335389-mrak.json) |
 | !Pattern | 225575 | [225575-pattern.json](./225575-pattern.json) |
 | !Peace Phantom 2! | 89658 | [89658-peace-phantom-2.json](./89658-peace-phantom-2.json) |
+| !Sqrxz! | 62643 | [62643-sqrxz.json](./62643-sqrxz.json) |
 | ¡Alla tú!: juego interactivo de DVD | 319740 | [319740-alla-tu-juego-interactivo-de-dvd.json](./319740-alla-tu-juego-interactivo-de-dvd.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
