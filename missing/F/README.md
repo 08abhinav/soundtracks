@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
+| Fight League | 55822 | [55822-fight-league.json](./55822-fight-league.json) |
 | Fight Legends | 316068 | [316068-fight-legends.json](./316068-fight-legends.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
