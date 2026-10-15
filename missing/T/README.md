@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.G.I.F. | 292131 | [292131-t-g-i-f.json](./292131-t-g-i-f.json) |
 | T.I. Toad | 377832 | [377832-t-i-toad.json](./377832-t-i-toad.json) |
 | T.K. Punk: G.O.L.D | 289945 | [289945-t-k-punk-g-o-l-d.json](./289945-t-k-punk-g-o-l-d.json) |
+| T.N.T | 41778 | [41778-t-n-t.json](./41778-t-n-t.json) |
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
@@ -8270,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
+| The Last Mission | 41798 | [41798-the-last-mission.json](./41798-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Moments of a Doomed Spaceship | 178925 | [178925-the-last-moments-of-a-doomed-spaceship.json](./178925-the-last-moments-of-a-doomed-spaceship.json) |
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
