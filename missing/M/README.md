@@ -9205,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Cecilia | 201475 | [201475-miss-cecilia.json](./201475-miss-cecilia.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
+| Miss Chic Disco | 25518 | [25518-miss-chic-disco.json](./25518-miss-chic-disco.json) |
 | Miss Chic Romantic | 54235 | [54235-miss-chic-romantic.json](./54235-miss-chic-romantic.json) |
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
@@ -10534,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
+| Monster Ball | 25501 | [25501-monster-ball.json](./25501-monster-ball.json) |
 | Monster Ball PC | 54231 | [54231-monster-ball-pc.json](./54231-monster-ball-pc.json) |
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Band | 47915 | [47915-monster-band.json](./47915-monster-band.json) |
