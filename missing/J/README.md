@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J8 Hero | 370761 | [370761-j8-hero.json](./370761-j8-hero.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
+| Jabbertalky | 57562 | [57562-jabbertalky.json](./57562-jabbertalky.json) |
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
