@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
+| A Goo Adventure | 38769 | [38769-a-goo-adventure.json](./38769-a-goo-adventure.json) |
 | A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
 | A Good Day to Pie | 185398 | [185398-a-good-day-to-pie.json](./185398-a-good-day-to-pie.json) |
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
