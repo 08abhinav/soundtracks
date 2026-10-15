@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiligenstadt no Uta | 131908 | [131908-heiligenstadt-no-uta.json](./131908-heiligenstadt-no-uta.json) |
 | Heim | 131959 | [131959-heim.json](./131959-heim.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
+| Heimdall 2: Into the Hall of Worlds | 2509 | [2509-heimdall-2-into-the-hall-of-worlds.json](./2509-heimdall-2-into-the-hall-of-worlds.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
 | Heinz Honor and Revenge | 327279 | [327279-heinz-honor-and-revenge.json](./327279-heinz-honor-and-revenge.json) |
 | Heir | 191566 | [191566-heir.json](./191566-heir.json) |
@@ -4503,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
 | Hexworld | 180794 | [180794-hexworld.json](./180794-hexworld.json) |
+| Hexx: Heresy of the Wizard | 2513 | [2513-hexx-heresy-of-the-wizard.json](./2513-hexx-heresy-of-the-wizard.json) |
 | Hexxagon | 14479 | [14479-hexxagon.json](./14479-hexxagon.json) |
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxagon 2 | 73172 | [73172-hexxagon-2.json](./73172-hexxagon-2.json) |
