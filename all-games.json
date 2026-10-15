@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T12:40:46.631Z",
-  "total_soundtracks": 1674,
+  "generated_at": "2026-10-15T17:50:45.719Z",
+  "total_soundtracks": 1675,
   "games": [
     {
       "igdb_id": 7522,
@@ -7353,6 +7353,20 @@
           "spotify_url": "https://music.apple.com/us/album/granblue-fantasy-relink-original-soundtrack/1730691892?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1730691892"
+        }
+      ]
+    },
+    {
+      "igdb_id": 113378,
+      "game_name": "Granblue Fantasy: Versus",
+      "game_url": "https://ostdb.net/games/granblue-fantasy-versus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273445a0821f4063dbf654f5dd4",
+      "albums": [
+        {
+          "album_name": "GRANBLUE FANTASY: Versus ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/7e9xD8fMR6Zt5fujDx7t6i",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
