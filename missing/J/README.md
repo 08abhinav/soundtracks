@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
 | Jack of Spades | 182861 | [182861-jack-of-spades.json](./182861-jack-of-spades.json) |
 | Jack Pilgrim: Space Within | 195150 | [195150-jack-pilgrim-space-within.json](./195150-jack-pilgrim-space-within.json) |
+| Jack Rabbit | 40052 | [40052-jack-rabbit.json](./40052-jack-rabbit.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
+| Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
@@ -2521,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JungleKnight | 149206 | [149206-jungleknight.json](./149206-jungleknight.json) |
 | Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
+| Jungler | 40050 | [40050-jungler.json](./40050-jungler.json) |
 | Jungles of Maxtheria | 139403 | [139403-jungles-of-maxtheria.json](./139403-jungles-of-maxtheria.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
@@ -2626,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 217956 | [217956-jurassic-park.json](./217956-jurassic-park.json) |
 | Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
+| Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
