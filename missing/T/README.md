@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
+| Tetra Bash | 59742 | [59742-tetra-bash.json](./59742-tetra-bash.json) |
 | Tetra Block | 292774 | [292774-tetra-block.json](./292774-tetra-block.json) |
 | Tetra Cube | 144871 | [144871-tetra-cube.json](./144871-tetra-cube.json) |
 | Tetra Dungeon | 184391 | [184391-tetra-dungeon.json](./184391-tetra-dungeon.json) |
@@ -21887,6 +21888,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
+| Tsunoda Thunder | 59747 | [59747-tsunoda-thunder.json](./59747-tsunoda-thunder.json) |
+| Tsunoda Thunder Love!! | 59745 | [59745-tsunoda-thunder-love.json](./59745-tsunoda-thunder-love.json) |
+| Tsunoda Thunder Love!! Evolution!! | 59743 | [59743-tsunoda-thunder-love-evolution.json](./59743-tsunoda-thunder-love-evolution.json) |
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
 | Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
