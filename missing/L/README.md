@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
+| Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
 | Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
+| Leylines | 29640 | [29640-leylines.json](./29640-leylines.json) |
 | Lez | 144955 | [144955-lez.json](./144955-lez.json) |
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
 | Lezorub | 286002 | [286002-lezorub.json](./286002-lezorub.json) |
@@ -5213,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
 | Loptice | 41939 | [41939-loptice.json](./41939-loptice.json) |
+| LOR - League of Runners | 29592 | [29592-lor-league-of-runners.json](./29592-lor-league-of-runners.json) |
 | Lorax Garden | 175136 | [175136-lorax-garden.json](./175136-lorax-garden.json) |
 | Lorcan the Leprechaun | 149550 | [149550-lorcan-the-leprechaun.json](./149550-lorcan-the-leprechaun.json) |
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
