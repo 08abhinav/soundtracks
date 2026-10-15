@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
+| Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
 | Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
@@ -4074,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
+| Seven Haunted Seas | 69148 | [69148-seven-haunted-seas.json](./69148-seven-haunted-seas.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
 | Seven Hotties, All My Husbands | 417577 | [417577-seven-hotties-all-my-husbands.json](./417577-seven-hotties-all-my-husbands.json) |
@@ -7309,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
 | Simon the Sorcerer: Origins - Digital Deluxe Edition | 365551 | [365551-simon-the-sorcerer-origins-digital-deluxe-edition.json](./365551-simon-the-sorcerer-origins-digital-deluxe-edition.json) |
+| Simon the Sorcerer's Pinball | 69186 | [69186-simon-the-sorcerers-pinball.json](./69186-simon-the-sorcerers-pinball.json) |
 | Simon the Sorcerer's Puzzle Pack | 77254 | [77254-simon-the-sorcerers-puzzle-pack.json](./77254-simon-the-sorcerers-puzzle-pack.json) |
 | Simon: The Memory Game | 227848 | [227848-simon-the-memory-game.json](./227848-simon-the-memory-game.json) |
 | Simon's Cat Dash | 87001 | [87001-simons-cat-dash.json](./87001-simons-cat-dash.json) |
@@ -14345,6 +14348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Blizzard | 98573 | [98573-spelling-blizzard.json](./98573-spelling-blizzard.json) |
 | Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
+| Spelling Challenges and More | 69188 | [69188-spelling-challenges-and-more.json](./69188-spelling-challenges-and-more.json) |
 | Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
 | Spelling Jungle | 98561 | [98561-spelling-jungle.json](./98561-spelling-jungle.json) |
 | Spelling Quest Online | 127169 | [127169-spelling-quest-online.json](./127169-spelling-quest-online.json) |
