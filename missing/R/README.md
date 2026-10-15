@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raygun Chess | 174063 | [174063-raygun-chess.json](./174063-raygun-chess.json) |
 | Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
+| Rayless | 29655 | [29655-rayless.json](./29655-rayless.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
 | Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
 | Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
@@ -8557,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
+| RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
