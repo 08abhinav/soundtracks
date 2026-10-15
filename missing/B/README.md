@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
+| Batman & The Flash: Hero Run | 61546 | [61546-batman-and-the-flash-hero-run.json](./61546-batman-and-the-flash-hero-run.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
 | Batman Begins | 229719 | [229719-batman-begins.json](./229719-batman-begins.json) |
 | Batman Begins: Batarang | 245556 | [245556-batman-begins-batarang.json](./245556-batman-begins-batarang.json) |
@@ -6623,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Entropy Effect X: Nintendo Switch 2 Edition Upgrade Pack | 410400 | [410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json](./410400-blazblue-entropy-effect-x-nintendo-switch-2-edition-upgrade-pack.json) |
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
+| BlazBlue: Battle Cards | 61502 | [61502-blazblue-battle-cards.json](./61502-blazblue-battle-cards.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
@@ -12070,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
+| Bush's Bean Dash | 61541 | [61541-bushs-bean-dash.json](./61541-bushs-bean-dash.json) |
 | Bushfire | 180498 | [180498-bushfire.json](./180498-bushfire.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
