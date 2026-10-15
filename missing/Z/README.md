@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhouyi Six Lines Divination Game | 337753 | [337753-zhouyi-six-lines-divination-game.json](./337753-zhouyi-six-lines-divination-game.json) |
 | Zhù Mèng Sānguó | 157219 | [157219-zhu-meng-sanguo.json](./157219-zhu-meng-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
+| Zhu Zhu Pets 2: The Wild Bunch | 47878 | [47878-zhu-zhu-pets-2-the-wild-bunch.json](./47878-zhu-zhu-pets-2-the-wild-bunch.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
