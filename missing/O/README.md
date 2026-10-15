@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord | 154250 | [154250-overlord.json](./154250-overlord.json) |
 | Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
+| Overlord II | 46 | [46-overlord-ii.json](./46-overlord-ii.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
