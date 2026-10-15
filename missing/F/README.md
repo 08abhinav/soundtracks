@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
+| F.E.A.R. Perseus Mandate | 519 | [519-f-e-a-r-perseus-mandate.json](./519-f-e-a-r-perseus-mandate.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Online | 77192 | [77192-fallout-online.json](./77192-fallout-online.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
+| Fallout Tactics: Brotherhood of Steel | 17 | [17-fallout-tactics-brotherhood-of-steel.json](./17-fallout-tactics-brotherhood-of-steel.json) |
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
@@ -3043,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 08 | 240316 | [240316-fifa-soccer-08.json](./240316-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240319 | [240319-fifa-soccer-08.json](./240319-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240320 | [240320-fifa-soccer-08.json](./240320-fifa-soccer-08.json) |
+| FIFA Soccer 08 | 3135 | [3135-fifa-soccer-08.json](./3135-fifa-soccer-08.json) |
 | FIFA Soccer 09 | 240323 | [240323-fifa-soccer-09.json](./240323-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 240325 | [240325-fifa-soccer-09.json](./240325-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 240327 | [240327-fifa-soccer-09.json](./240327-fifa-soccer-09.json) |
@@ -3056,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 11 | 240380 | [240380-fifa-soccer-11.json](./240380-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240381 | [240381-fifa-soccer-11.json](./240381-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
+| FIFA Soccer 12 | 2946 | [2946-fifa-soccer-12.json](./2946-fifa-soccer-12.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
@@ -3492,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Sonic X: Episode 5 | 274410 | [274410-final-fantasy-sonic-x-episode-5.json](./274410-final-fantasy-sonic-x-episode-5.json) |
 | Final Fantasy Sonic X: Episode 6 | 274411 | [274411-final-fantasy-sonic-x-episode-6.json](./274411-final-fantasy-sonic-x-episode-6.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
+| Final Fantasy Tactics Advance | 414 | [414-final-fantasy-tactics-advance.json](./414-final-fantasy-tactics-advance.json) |
 | Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
 | Final Fantasy Tactics Advanced Battle | 222345 | [222345-final-fantasy-tactics-advanced-battle.json](./222345-final-fantasy-tactics-advanced-battle.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
@@ -3575,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
 | Final Fantasy XII: Collector's Edition | 41851 | [41851-final-fantasy-xii-collectors-edition.json](./41851-final-fantasy-xii-collectors-edition.json) |
+| Final Fantasy XII: The Zodiac Age | 19455 | [19455-final-fantasy-xii-the-zodiac-age.json](./19455-final-fantasy-xii-the-zodiac-age.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
 | Final Fantasy XIII Trilogy | 112093 | [112093-final-fantasy-xiii-trilogy.json](./112093-final-fantasy-xiii-trilogy.json) |
@@ -3644,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
 | Final Fantasy: Unlimited with U | 66433 | [66433-final-fantasy-unlimited-with-u.json](./66433-final-fantasy-unlimited-with-u.json) |
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
+| Final Fight | 1655 | [1655-final-fight.json](./1655-final-fight.json) |
 | Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight CD | 1664 | [1664-final-fight-cd.json](./1664-final-fight-cd.json) |
@@ -4050,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
+| Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
@@ -7232,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
 | Forza Horizon | 3047 | [3047-forza-horizon.json](./3047-forza-horizon.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
+| Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
 | Forza Horizon 3: Hoonigan Car Pack | 140380 | [140380-forza-horizon-3-hoonigan-car-pack.json](./140380-forza-horizon-3-hoonigan-car-pack.json) |
