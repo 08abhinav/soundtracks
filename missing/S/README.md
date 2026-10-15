@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
+| Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
+| SinkSub | 61013 | [61013-sinksub.json](./61013-sinksub.json) |
 | Sinless: Remastered | 197237 | [197237-sinless-remastered.json](./197237-sinless-remastered.json) |
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
@@ -8294,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
+| Skippy Cat | 60999 | [60999-skippy-cat.json](./60999-skippy-cat.json) |
 | Skippy Saves the Day | 326676 | [326676-skippy-saves-the-day.json](./326676-skippy-saves-the-day.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skippy: The Curse Of The Temple Of Ock | 132042 | [132042-skippy-the-curse-of-the-temple-of-ock.json](./132042-skippy-the-curse-of-the-temple-of-ock.json) |
@@ -12351,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery Slam | 333150 | [333150-sorcery-slam.json](./333150-sorcery-slam.json) |
 | Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
+| Sorcery! 2 | 60990 | [60990-sorcery-2.json](./60990-sorcery-2.json) |
 | Sorcery! Parts 1 & 2 | 24618 | [24618-sorcery-parts-1-and-2.json](./24618-sorcery-parts-1-and-2.json) |
 | Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
@@ -16106,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
 | Star Chronicles: Delta Quadrant | 34953 | [34953-star-chronicles-delta-quadrant.json](./34953-star-chronicles-delta-quadrant.json) |
+| Star Clash | 60992 | [60992-star-clash.json](./60992-star-clash.json) |
 | Star Clash | 88463 | [88463-star-clash.json](./88463-star-clash.json) |
 | Star Climber | 317455 | [317455-star-climber.json](./317455-star-climber.json) |
 | Star Combat Online | 187775 | [187775-star-combat-online.json](./187775-star-combat-online.json) |
@@ -21314,6 +21319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
+| Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
+| Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
