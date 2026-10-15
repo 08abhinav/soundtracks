@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
+| Wet Attack: The Empire Cums Back | 73159 | [73159-wet-attack-the-empire-cums-back.json](./73159-wet-attack-the-empire-cums-back.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet City | 347204 | [347204-wet-city.json](./347204-wet-city.json) |
 | Wet Cute Girls | 286752 | [286752-wet-cute-girls.json](./286752-wet-cute-girls.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
+| Wilberforce: The Sorcerer's Apprentice | 73201 | [73201-wilberforce-the-sorcerers-apprentice.json](./73201-wilberforce-the-sorcerers-apprentice.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wilbur's Quest | 152659 | [152659-wilburs-quest.json](./152659-wilburs-quest.json) |
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
