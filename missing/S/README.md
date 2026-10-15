@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.C.I.: Special Criminal Investigation | 11999 | [11999-s-c-i-special-criminal-investigation.json](./11999-s-c-i-special-criminal-investigation.json) |
 | S.C.I.: Special Criminal Investigation | 230755 | [230755-s-c-i-special-criminal-investigation.json](./230755-s-c-i-special-criminal-investigation.json) |
 | S.C.I.M.M.A.R.'s | 291976 | [291976-s-c-i-m-m-a-r-s.json](./291976-s-c-i-m-m-a-r-s.json) |
+| S.D.I. | 8666 | [8666-s-d-i.json](./8666-s-d-i.json) |
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 361621 | [361621-shadowbound.json](./361621-shadowbound.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
+| ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
@@ -7756,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
+| Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
 | Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
@@ -16028,6 +16031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
+| Squinkies | 8679 | [8679-squinkies.json](./8679-squinkies.json) |
+| Squinkies 2: Adventure Mall Surprize! | 8910 | [8910-squinkies-2-adventure-mall-surprize.json](./8910-squinkies-2-adventure-mall-surprize.json) |
 | Squirbs | 17455 | [17455-squirbs.json](./17455-squirbs.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
@@ -16967,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
+| Star Wars: TIE Fighter - Enemies of the Empire | 8799 | [8799-star-wars-tie-fighter-enemies-of-the-empire.json](./8799-star-wars-tie-fighter-enemies-of-the-empire.json) |
 | Star Wars: TIE Fighter - Special Edition | 35968 | [35968-star-wars-tie-fighter-special-edition.json](./35968-star-wars-tie-fighter-special-edition.json) |
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
 | Star Wars: Trench Run | 21743 | [21743-star-wars-trench-run.json](./21743-star-wars-trench-run.json) |
@@ -24395,6 +24401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
+| Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
