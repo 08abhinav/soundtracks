@@ -9836,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
 | Corridors | 418277 | [418277-corridors.json](./418277-corridors.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
+| Corril Slayer | 64312 | [64312-corril-slayer.json](./64312-corril-slayer.json) |
 | Corroded | 28060 | [28060-corroded.json](./28060-corroded.json) |
 | Corrosion | 219229 | [219229-corrosion.json](./219229-corrosion.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
@@ -9919,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
+| Cosmic Clean-Up | 64314 | [64314-cosmic-clean-up.json](./64314-cosmic-clean-up.json) |
 | Cosmic Cleaner | 261726 | [261726-cosmic-cleaner.json](./261726-cosmic-cleaner.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
 | Cosmic Coliseum | 223515 | [223515-cosmic-coliseum.json](./223515-cosmic-coliseum.json) |
@@ -12594,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
 | CTU: Marine Sharpshooter | 27560 | [27560-ctu-marine-sharpshooter.json](./27560-ctu-marine-sharpshooter.json) |
 | Cu-On-Pa BS Ban | 134436 | [134436-cu-on-pa-bs-ban.json](./134436-cu-on-pa-bs-ban.json) |
+| Cu-On-Pa SFC | 64338 | [64338-cu-on-pa-sfc.json](./64338-cu-on-pa-sfc.json) |
 | Cu63 | 183934 | [183934-cu63.json](./183934-cu63.json) |
 | Cuadradito y Circulito: El Videojuego | 133982 | [133982-cuadradito-y-circulito-el-videojuego.json](./133982-cuadradito-y-circulito-el-videojuego.json) |
 | Cuadro | 84444 | [84444-cuadro.json](./84444-cuadro.json) |
