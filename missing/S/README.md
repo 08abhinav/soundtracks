@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
+| Santa's Xmas Caper | 71400 | [71400-santas-xmas-caper.json](./71400-santas-xmas-caper.json) |
 | Santaclautchi | 229849 | [229849-santaclautchi.json](./229849-santaclautchi.json) |
 | SantaCorps: Snow Patrol | 210837 | [210837-santacorps-snow-patrol.json](./210837-santacorps-snow-patrol.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senshijidaino Kyoryu: Dinoprehis! | 309612 | [309612-senshijidaino-kyoryu-dinoprehis.json](./309612-senshijidaino-kyoryu-dinoprehis.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
+| Sensible Massacre | 71425 | [71425-sensible-massacre.json](./71425-sensible-massacre.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
@@ -15495,6 +15497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
+| Spy vs. Spy Trilogy | 71431 | [71431-spy-vs-spy-trilogy.json](./71431-spy-vs-spy-trilogy.json) |
 | Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories | 266678 | [266678-spy-x-anya-operation-memories.json](./266678-spy-x-anya-operation-memories.json) |
@@ -16428,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
+| Star Trek: Starfleet Command Volume II - Empires at War | 71404 | [71404-star-trek-starfleet-command-volume-ii-empires-at-war.json](./71404-star-trek-starfleet-command-volume-ii-empires-at-war.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
