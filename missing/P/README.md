@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
+| Pacific Liberation Force | 17627 | [17627-pacific-liberation-force.json](./17627-pacific-liberation-force.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb: Across the Second Dimension | 291548 | [291548-phineas-and-ferb-across-the-second-dimension.json](./291548-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Across the Second Dimension | 52668 | [52668-phineas-and-ferb-across-the-second-dimension.json](./52668-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Day of Doofenshmirtz | 23476 | [23476-phineas-and-ferb-day-of-doofenshmirtz.json](./23476-phineas-and-ferb-day-of-doofenshmirtz.json) |
+| Phineas and Ferb: New Inventions | 17743 | [17743-phineas-and-ferb-new-inventions.json](./17743-phineas-and-ferb-new-inventions.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
@@ -5213,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
 | Pirate Griddles | 54288 | [54288-pirate-griddles.json](./54288-pirate-griddles.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
+| Pirate Hell | 17796 | [17796-pirate-hell.json](./17796-pirate-hell.json) |
 | Pirate Hunter | 209954 | [209954-pirate-hunter.json](./209954-pirate-hunter.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
 | Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
@@ -7103,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
+| Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
@@ -12174,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push³ | 371407 | [371407-push3.json](./371407-push3.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
+| Pushcat | 17562 | [17562-pushcat.json](./17562-pushcat.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
