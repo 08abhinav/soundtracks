@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
 | Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
+| Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
 | Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
 | Jewel Match Aquascapes: Collector's Edition | 244845 | [244845-jewel-match-aquascapes-collectors-edition.json](./244845-jewel-match-aquascapes-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
