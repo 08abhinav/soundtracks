@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho Gaiden | 45606 | [45606-yuyu-hakusho-gaiden.json](./45606-yuyu-hakusho-gaiden.json) |
 | YuYu Hakusho II: Gekitou! Nanakyou no Tatakai | 46552 | [46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json](./46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json) |
 | YuYu Hakusho: Ankoku Bujutsukai-hen | 186653 | [186653-yuyu-hakusho-ankoku-bujutsukai-hen.json](./186653-yuyu-hakusho-ankoku-bujutsukai-hen.json) |
+| YuYu Hakusho: Bakutou Ankoku Bujutsu Kai | 48517 | [48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json](./48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json) |
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
 | YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
