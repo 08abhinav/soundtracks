@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
 | Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
+| Retrobooster | 17574 | [17574-retrobooster.json](./17574-retrobooster.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
@@ -4387,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
+| Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
@@ -5452,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Angels: Fates | 60441 | [60441-rising-angels-fates.json](./60441-rising-angels-fates.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
+| Rising Angels: Reborn | 17817 | [17817-rising-angels-reborn.json](./17817-rising-angels-reborn.json) |
 | Rising Angels: The Red Rose | 60424 | [60424-rising-angels-the-red-rose.json](./60424-rising-angels-the-red-rose.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Blood | 263408 | [263408-rising-blood.json](./263408-rising-blood.json) |
@@ -5938,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin of the Wood | 26434 | [26434-robin-of-the-wood.json](./26434-robin-of-the-wood.json) |
 | Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
+| Robin's Island Adventure | 17844 | [17844-robins-island-adventure.json](./17844-robins-island-adventure.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
@@ -8296,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
+| Run For Rum: A Pirate Tale | 17542 | [17542-run-for-rum-a-pirate-tale.json](./17542-run-for-rum-a-pirate-tale.json) |
 | Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
 | Run for the Money | 401793 | [401793-run-for-the-money.json](./401793-run-for-the-money.json) |
 | Run for Your Life | 138476 | [138476-run-for-your-life.json](./138476-run-for-your-life.json) |
