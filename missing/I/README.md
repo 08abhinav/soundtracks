@@ -3973,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
 | Iron Maiden Quiz | 220805 | [220805-iron-maiden-quiz.json](./220805-iron-maiden-quiz.json) |
+| Iron Maiden: Ed Hunter | 50360 | [50360-iron-maiden-ed-hunter.json](./50360-iron-maiden-ed-hunter.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
