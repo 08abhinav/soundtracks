@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagyan Land | 48550 | [48550-wagyan-land.json](./48550-wagyan-land.json) |
 | Wagyan Land 2 | 48549 | [48549-wagyan-land-2.json](./48549-wagyan-land-2.json) |
 | Wagyan Land 3 | 48548 | [48548-wagyan-land-3.json](./48548-wagyan-land-3.json) |
+| Wagyan Paradise | 42425 | [42425-wagyan-paradise.json](./42425-wagyan-paradise.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai Wai Mahjong | 37652 | [37652-wai-wai-mahjong.json](./37652-wai-wai-mahjong.json) |
@@ -2720,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
+| Wheel of Fortune: Deluxe Edition | 42424 | [42424-wheel-of-fortune-deluxe-edition.json](./42424-wheel-of-fortune-deluxe-edition.json) |
 | Wheel of Fortune: Featuring Vanna White | 182279 | [182279-wheel-of-fortune-featuring-vanna-white.json](./182279-wheel-of-fortune-featuring-vanna-white.json) |
 | Wheel of Fortune: Junior Edition | 48094 | [48094-wheel-of-fortune-junior-edition.json](./48094-wheel-of-fortune-junior-edition.json) |
 | Wheel of Fortune: New 3rd Edition | 47182 | [47182-wheel-of-fortune-new-3rd-edition.json](./47182-wheel-of-fortune-new-3rd-edition.json) |
@@ -5784,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
 | World Soccer | 13087 | [13087-world-soccer.json](./13087-world-soccer.json) |
+| World Soccer 94: Road to Glory | 42428 | [42428-world-soccer-94-road-to-glory.json](./42428-world-soccer-94-road-to-glory.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
 | World Soccer Champs | 261178 | [261178-world-soccer-champs.json](./261178-world-soccer-champs.json) |
 | World Soccer Cup 2022 | 221691 | [221691-world-soccer-cup-2022.json](./221691-world-soccer-cup-2022.json) |
