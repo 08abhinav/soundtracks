@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency | 249915 | [249915-emergency.json](./249915-emergency.json) |
 | Emergency | 346073 | [346073-emergency.json](./346073-emergency.json) |
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
+| Emergency 2012 | 27485 | [27485-emergency-2012.json](./27485-emergency-2012.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
 | Emergency 2017 | 31411 | [31411-emergency-2017.json](./31411-emergency-2017.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
+| Europa Universalis IV: Mandate of Heaven | 27520 | [27520-europa-universalis-iv-mandate-of-heaven.json](./27520-europa-universalis-iv-mandate-of-heaven.json) |
 | Europa Universalis IV: Mandate of Heaven Content Pack | 227345 | [227345-europa-universalis-iv-mandate-of-heaven-content-pack.json](./227345-europa-universalis-iv-mandate-of-heaven-content-pack.json) |
 | Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
