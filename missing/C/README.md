@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
+| C'est pas Sorcier: Menace sur le Volcan Tamakou | 46455 | [46455-cest-pas-sorcier-menace-sur-le-volcan-tamakou.json](./46455-cest-pas-sorcier-menace-sur-le-volcan-tamakou.json) |
 | C'est pas Sorcier: Mystérieuse Disparition en Amazonie | 56970 | [56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json](./56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
 | C&T | 197267 | [197267-c-and-t.json](./197267-c-and-t.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
+| Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
