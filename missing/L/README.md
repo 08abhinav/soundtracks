@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Line / Dash | 32187 | [32187-line-dash.json](./32187-line-dash.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
+| Line Attack Heroes | 4971 | [4971-line-attack-heroes.json](./4971-line-attack-heroes.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Birds | 403227 | [403227-line-birds.json](./403227-line-birds.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
+| Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
 | Littlest Pet Shop 3: Biggest Stars - Purple Team | 122205 | [122205-littlest-pet-shop-3-biggest-stars-purple-team.json](./122205-littlest-pet-shop-3-biggest-stars-purple-team.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
@@ -4882,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Ripper | 195581 | [195581-london-ripper.json](./195581-london-ripper.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
+| London Taxi: Rushour | 4976 | [4976-london-taxi-rushour.json](./4976-london-taxi-rushour.json) |
 | London Underground Simulator - World of Subways Vol.3 | 50410 | [50410-london-underground-simulator-world-of-subways-vol-3.json](./50410-london-underground-simulator-world-of-subways-vol-3.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
