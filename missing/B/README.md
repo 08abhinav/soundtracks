@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
+| Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
@@ -4613,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betomis | 263943 | [263943-betomis.json](./263943-betomis.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
+| Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
+| Better Dead Than Alien! | 11955 | [11955-better-dead-than-alien.json](./11955-better-dead-than-alien.json) |
 | Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
 | Better in Dreams | 327251 | [327251-better-in-dreams.json](./327251-better-in-dreams.json) |
@@ -4676,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverage Hills | 219203 | [219203-beverage-hills.json](./219203-beverage-hills.json) |
+| Beverly Hills Cop | 11956 | [11956-beverly-hills-cop.json](./11956-beverly-hills-cop.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
@@ -4732,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Dark | 54916 | [54916-beyond-dark.json](./54916-beyond-dark.json) |
+| Beyond Dark Castle | 11957 | [11957-beyond-dark-castle.json](./11957-beyond-dark-castle.json) |
 | Beyond Dark Castle | 334220 | [334220-beyond-dark-castle.json](./334220-beyond-dark-castle.json) |
 | Beyond Dark Castle | 334221 | [334221-beyond-dark-castle.json](./334221-beyond-dark-castle.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
@@ -4804,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
 | Beyond the Heavens | 104535 | [104535-beyond-the-heavens.json](./104535-beyond-the-heavens.json) |
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
+| Beyond the Ice Palace | 11958 | [11958-beyond-the-ice-palace.json](./11958-beyond-the-ice-palace.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
 | Beyond the Invisible: Darkness Came | 88008 | [88008-beyond-the-invisible-darkness-came.json](./88008-beyond-the-invisible-darkness-came.json) |
@@ -5141,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
+| Big Nose the Caveman | 11960 | [11960-big-nose-the-caveman.json](./11960-big-nose-the-caveman.json) |
 | Big Oil | 91864 | [91864-big-oil.json](./91864-big-oil.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
@@ -5153,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
 | Big Rumble Boxing: Creed Champions - Day One Edition | 153022 | [153022-big-rumble-boxing-creed-champions-day-one-edition.json](./153022-big-rumble-boxing-creed-champions-day-one-edition.json) |
+| Big Run | 11961 | [11961-big-run.json](./11961-big-run.json) |
 | Big Scale Racing | 69842 | [69842-big-scale-racing.json](./69842-big-scale-racing.json) |
 | Big Scary | 372271 | [372271-big-scary.json](./372271-big-scary.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
@@ -5767,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of a Feather | 284590 | [284590-birds-of-a-feather.json](./284590-birds-of-a-feather.json) |
 | Birds of a Feather | 350569 | [350569-birds-of-a-feather.json](./350569-birds-of-a-feather.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
+| Birds of Prey | 11962 | [11962-birds-of-prey.json](./11962-birds-of-prey.json) |
 | Birds of Prey | 15673 | [15673-birds-of-prey.json](./15673-birds-of-prey.json) |
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
 | Birds on a Wire | 52457 | [52457-birds-on-a-wire.json](./52457-birds-on-a-wire.json) |
@@ -6251,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
 | Black Sea: Treasure Hunters | 311671 | [311671-black-sea-treasure-hunters.json](./311671-black-sea-treasure-hunters.json) |
+| Black Sect | 11965 | [11965-black-sect.json](./11965-black-sect.json) |
 | Black Sector | 384777 | [384777-black-sector.json](./384777-black-sector.json) |
 | Black Shades | 26832 | [26832-black-shades.json](./26832-black-shades.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
@@ -7879,9 +7889,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue | 246314 | [246314-blue.json](./246314-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue | 408640 | [408640-blue.json](./408640-blue.json) |
+| Blue Angel 69 | 11970 | [11970-blue-angel-69.json](./11970-blue-angel-69.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Angels: Aerobatic Sim | 110206 | [110206-blue-angels-aerobatic-sim.json](./110206-blue-angels-aerobatic-sim.json) |
+| Blue Angels: Formation Flight Simulation | 11971 | [11971-blue-angels-formation-flight-simulation.json](./11971-blue-angels-formation-flight-simulation.json) |
 | Blue Angels: Ready, Break! | 110207 | [110207-blue-angels-ready-break.json](./110207-blue-angels-ready-break.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
@@ -7939,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
+| Blue Max: Aces of the Great War | 11972 | [11972-blue-max-aces-of-the-great-war.json](./11972-blue-max-aces-of-the-great-war.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Monster: Rainbow Survival | 221339 | [221339-blue-monster-rainbow-survival.json](./221339-blue-monster-rainbow-survival.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
@@ -8272,6 +8285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodies Left Behind | 357437 | [357437-bodies-left-behind.json](./357437-bodies-left-behind.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
+| Body Blows | 11974 | [11974-body-blows.json](./11974-body-blows.json) |
+| Body Blows Galactic | 11975 | [11975-body-blows-galactic.json](./11975-body-blows-galactic.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
 | Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
 | Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
@@ -8648,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
+| Bombuzal | 11976 | [11976-bombuzal.json](./11976-bombuzal.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
@@ -8681,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone App the Teeth | 179076 | [179076-bone-app-the-teeth.json](./179076-bone-app-the-teeth.json) |
 | Bone Born | 258367 | [258367-bone-born.json](./258367-bone-born.json) |
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
+| Bone Cruncher | 11977 | [11977-bone-cruncher.json](./11977-bone-cruncher.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
 | Bone Marrow 2 | 410830 | [410830-bone-marrow-2.json](./410830-bone-marrow-2.json) |
@@ -9969,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brassheart | 119650 | [119650-brassheart.json](./119650-brassheart.json) |
 | Brassica: A Marry Tale | 134660 | [134660-brassica-a-marry-tale.json](./134660-brassica-a-marry-tale.json) |
 | Brat | 14343 | [14343-brat.json](./14343-brat.json) |
+| Brataccas | 11978 | [11978-brataccas.json](./11978-brataccas.json) |
 | Bratavism | 254577 | [254577-bratavism.json](./254577-bratavism.json) |
 | Brath: Brain and Math | 104834 | [104834-brath-brain-and-math.json](./104834-brath-brain-and-math.json) |
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
@@ -10453,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
+| Brian the Lion | 11979 | [11979-brian-the-lion.json](./11979-brian-the-lion.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Brian's Soccer Simulator | 182146 | [182146-brians-soccer-simulator.json](./182146-brians-soccer-simulator.json) |
@@ -11158,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
+| Bubble Dizzy | 11981 | [11981-bubble-dizzy.json](./11981-bubble-dizzy.json) |
 | Bubble Dogs | 298403 | [298403-bubble-dogs.json](./298403-bubble-dogs.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
@@ -12343,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butasan | 39131 | [39131-butasan.json](./39131-butasan.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
+| Butcher Hill | 11982 | [11982-butcher-hill.json](./11982-butcher-hill.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | Butcher of the North | 379043 | [379043-butcher-of-the-north.json](./379043-butcher-of-the-north.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
