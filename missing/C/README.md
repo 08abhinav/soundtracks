@@ -7239,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
+| Clystron | 41204 | [41204-clystron.json](./41204-clystron.json) |
 | CM-SS13 | 386923 | [386923-cm-ss13.json](./386923-cm-ss13.json) |
 | CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
 | CMD 2048 | 107791 | [107791-cmd-2048.json](./107791-cmd-2048.json) |
@@ -9990,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
+| Cosmiads | 41191 | [41191-cosmiads.json](./41191-cosmiads.json) |
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
