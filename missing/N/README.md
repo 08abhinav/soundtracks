@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Fastbreak '98 | 43780 | [43780-nba-fastbreak-98.json](./43780-nba-fastbreak-98.json) |
 | NBA Give 'n Go | 42482 | [42482-nba-give-n-go.json](./42482-nba-give-n-go.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
+| NBA Hoopz | 10634 | [10634-nba-hoopz.json](./10634-nba-hoopz.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
 | NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Magic Sword | 163906 | [163906-new-magic-sword.json](./163906-new-magic-sword.json) |
 | New Mario Kart Deluxe | 314574 | [314574-new-mario-kart-deluxe.json](./314574-new-mario-kart-deluxe.json) |
 | New Master Quest | 252059 | [252059-new-master-quest.json](./252059-new-master-quest.json) |
+| New Math Blaster Plus! | 10670 | [10670-new-math-blaster-plus.json](./10670-new-math-blaster-plus.json) |
 | New Meaning | 165761 | [165761-new-meaning.json](./165761-new-meaning.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
