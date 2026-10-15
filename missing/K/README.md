@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
+| Knightfall: Rivals | 29595 | [29595-knightfall-rivals.json](./29595-knightfall-rivals.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
+| Kult of Ktulu: Olympic | 29629 | [29629-kult-of-ktulu-olympic.json](./29629-kult-of-ktulu-olympic.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
 | Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
