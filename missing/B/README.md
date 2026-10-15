@@ -9309,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hounds | 38471 | [38471-bounty-hounds.json](./38471-bounty-hounds.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
+| Bounty Hunter | 72008 | [72008-bounty-hunter.json](./72008-bounty-hunter.json) |
 | Bounty Hunter 2099 Pinball | 206469 | [206469-bounty-hunter-2099-pinball.json](./206469-bounty-hunter-2099-pinball.json) |
 | Bounty Hunter: Ocean Diver | 95617 | [95617-bounty-hunter-ocean-diver.json](./95617-bounty-hunter-ocean-diver.json) |
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
@@ -11605,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
 | Bunderkin: The Ocular Eclipse | 406671 | [406671-bunderkin-the-ocular-eclipse.json](./406671-bunderkin-the-ocular-eclipse.json) |
 | Bundesliga 99 | 92947 | [92947-bundesliga-99.json](./92947-bundesliga-99.json) |
+| Bundesliga Manager | 71985 | [71985-bundesliga-manager.json](./71985-bundesliga-manager.json) |
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
