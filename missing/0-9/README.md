@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1943: The Battle of Midway | 272545 | [272545-1943-the-battle-of-midway.json](./272545-1943-the-battle-of-midway.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
+| 1944 D-Day | 67896 | [67896-1944-d-day.json](./67896-1944-d-day.json) |
 | 1944: The Loop Master | 6079 | [6079-1944-the-loop-master.json](./6079-1944-the-loop-master.json) |
 | 1945 Air Strike | 76464 | [76464-1945-air-strike.json](./76464-1945-air-strike.json) |
 | 1945 Air Strike Classic | 88622 | [88622-1945-air-strike-classic.json](./88622-1945-air-strike-classic.json) |
