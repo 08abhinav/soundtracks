@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advanced Sorcerian | 182238 | [182238-advanced-sorcerian.json](./182238-advanced-sorcerian.json) |
 | Advanced Spanner-X: Endless Fire | 268388 | [268388-advanced-spanner-x-endless-fire.json](./268388-advanced-spanner-x-endless-fire.json) |
+| Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
+| Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
@@ -5571,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
 | American Civil War Battles | 101433 | [101433-american-civil-war-battles.json](./101433-american-civil-war-battles.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
+| American Civil War: Gettysburg | 63180 | [63180-american-civil-war-gettysburg.json](./63180-american-civil-war-gettysburg.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Conquest: Divided Nation | 9361 | [9361-american-conquest-divided-nation.json](./9361-american-conquest-divided-nation.json) |
 | American Cooking Simulator | 330850 | [330850-american-cooking-simulator.json](./330850-american-cooking-simulator.json) |
