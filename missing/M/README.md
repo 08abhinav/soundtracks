@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machinarium & Creaks Bundle | 164571 | [164571-machinarium-and-creaks-bundle.json](./164571-machinarium-and-creaks-bundle.json) |
+| Machinarium: Collector's Edition | 51838 | [51838-machinarium-collectors-edition.json](./51838-machinarium-collectors-edition.json) |
 | Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
@@ -6068,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men of War: Condemned Heroes | 10546 | [10546-men-of-war-condemned-heroes.json](./10546-men-of-war-condemned-heroes.json) |
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
+| Men of War: Vietnam - Special Edition | 51835 | [51835-men-of-war-vietnam-special-edition.json](./51835-men-of-war-vietnam-special-edition.json) |
 | Men on the Flying Trapeze | 250217 | [250217-men-on-the-flying-trapeze.json](./250217-men-on-the-flying-trapeze.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
@@ -11827,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
 | Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
+| Mother Russia Bleeds: Dealer Edition | 51834 | [51834-mother-russia-bleeds-dealer-edition.json](./51834-mother-russia-bleeds-dealer-edition.json) |
 | Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
@@ -14473,6 +14476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
 | Myst Trilogy | 111547 | [111547-myst-trilogy.json](./111547-myst-trilogy.json) |
 | Myst V: End of Ages | 8475 | [8475-myst-v-end-of-ages.json](./8475-myst-v-end-of-ages.json) |
+| Myst V: End of Ages - Limited Edition | 51833 | [51833-myst-v-end-of-ages-limited-edition.json](./51833-myst-v-end-of-ages-limited-edition.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
