@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Cathy Cassidy | 66668 | [66668-flips-cathy-cassidy.json](./66668-flips-cathy-cassidy.json) |
 | Flips: Enid Blyton - Faraway Tree Stories | 66665 | [66665-flips-enid-blyton-faraway-tree-stories.json](./66665-flips-enid-blyton-faraway-tree-stories.json) |
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
+| Flips: More Bloody Horowitz | 66577 | [66577-flips-more-bloody-horowitz.json](./66577-flips-more-bloody-horowitz.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
 | Flips: Terror in Cubicle Four | 66966 | [66966-flips-terror-in-cubicle-four.json](./66966-flips-terror-in-cubicle-four.json) |
 | Flips: The Bubonic Builders | 66911 | [66911-flips-the-bubonic-builders.json](./66911-flips-the-bubonic-builders.json) |
@@ -7353,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
 | Fox in the Woods | 164936 | [164936-fox-in-the-woods.json](./164936-fox-in-the-woods.json) |
+| Fox Jones and the Treasures of el Dorado | 66553 | [66553-fox-jones-and-the-treasures-of-el-dorado.json](./66553-fox-jones-and-the-treasures-of-el-dorado.json) |
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
