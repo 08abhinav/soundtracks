@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T18:11:02.694Z",
-  "total_soundtracks": 1681,
+  "generated_at": "2026-10-15T18:11:16.472Z",
+  "total_soundtracks": 1682,
   "games": [
     {
       "igdb_id": 7522,
@@ -12215,6 +12215,20 @@
         {
           "album_name": "Peggle 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4waHwHtoD9iFkYDMAFjZYw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 133512,
+      "game_name": "Peglin",
+      "game_url": "https://ostdb.net/games/peglin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273438f6aad6615bd034763f1f2",
+      "albums": [
+        {
+          "album_name": "Peglin (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2fIkozOGIY6mW6aoqUPn2K",
           "apple_music_url": "",
           "album_link_url": ""
         }
