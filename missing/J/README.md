@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
 | Jane's Realty | 34154 | [34154-janes-realty.json](./34154-janes-realty.json) |
 | Jane's USAF | 71409 | [71409-janes-usaf.json](./71409-janes-usaf.json) |
+| Jane's Zoo | 25486 | [25486-janes-zoo.json](./25486-janes-zoo.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
+| Jessica: Secret of the Caribbean | 24735 | [24735-jessica-secret-of-the-caribbean.json](./24735-jessica-secret-of-the-caribbean.json) |
 | Jessica's Cupcake Cafe | 66375 | [66375-jessicas-cupcake-cafe.json](./66375-jessicas-cupcake-cafe.json) |
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
 | Jessica's Plight | 385894 | [385894-jessicas-plight.json](./385894-jessicas-plight.json) |
@@ -1797,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jojo's Fashion Show | 27549 | [27549-jojos-fashion-show.json](./27549-jojos-fashion-show.json) |
 | JoJo's Venture | 46815 | [46815-jojos-venture.json](./46815-jojos-venture.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
+| Jojos Fashion Show 3: World Tour | 25512 | [25512-jojos-fashion-show-3-world-tour.json](./25512-jojos-fashion-show-3-world-tour.json) |
 | JojoVsDio | 220690 | [220690-jojovsdio.json](./220690-jojovsdio.json) |
 | Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
@@ -2381,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
+| Jumping Jupingo | 22107 | [22107-jumping-jupingo.json](./22107-jumping-jupingo.json) |
 | Jumping Knight | 159755 | [159755-jumping-knight.json](./159755-jumping-knight.json) |
 | Jumping Knight | 343743 | [343743-jumping-knight.json](./343743-jumping-knight.json) |
 | Jumping Line | 62417 | [62417-jumping-line.json](./62417-jumping-line.json) |
@@ -2754,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
 | Just Cause 3: Day One Edition | 89844 | [89844-just-cause-3-day-one-edition.json](./89844-just-cause-3-day-one-edition.json) |
+| Just Cause 3: Gold Edition | 25483 | [25483-just-cause-3-gold-edition.json](./25483-just-cause-3-gold-edition.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
 | Just Cause 3: Multiplayer Mod | 153016 | [153016-just-cause-3-multiplayer-mod.json](./153016-just-cause-3-multiplayer-mod.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
