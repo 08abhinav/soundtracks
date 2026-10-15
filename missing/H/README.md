@@ -6644,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
+| Hopeless | 36863 | [36863-hopeless.json](./36863-hopeless.json) |
 | Hopeless 2: Cave Escape | 56271 | [56271-hopeless-2-cave-escape.json](./56271-hopeless-2-cave-escape.json) |
 | Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
