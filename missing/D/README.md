@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
+| Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
+| Deadly Dozen: Pacific Theater | 27480 | [27480-deadly-dozen-pacific-theater.json](./27480-deadly-dozen-pacific-theater.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
@@ -4065,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Manifold | 201509 | [201509-delta-manifold.json](./201509-delta-manifold.json) |
 | Delta MMORPG | 274944 | [274944-delta-mmorpg.json](./274944-delta-mmorpg.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
+| Delta Ops: Army Special Forces | 27481 | [27481-delta-ops-army-special-forces.json](./27481-delta-ops-army-special-forces.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
@@ -7502,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ | 275542 | [275542-dmz.json](./275542-dmz.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
+| DMZ: North Korea | 27482 | [27482-dmz-north-korea.json](./27482-dmz-north-korea.json) |
 | DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
 | DNA | 126523 | [126523-dna.json](./126523-dna.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
@@ -8998,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
+| Dora the Explorer: Backpack Adventure | 27483 | [27483-dora-the-explorer-backpack-adventure.json](./27483-dora-the-explorer-backpack-adventure.json) |
 | Dora the Explorer: Barnyard Buddies | 73175 | [73175-dora-the-explorer-barnyard-buddies.json](./73175-dora-the-explorer-barnyard-buddies.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
@@ -11304,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
+| Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
@@ -11762,6 +11768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
 | Duck Hunt Pro | 326693 | [326693-duck-hunt-pro.json](./326693-duck-hunt-pro.json) |
 | Duck Hunt Remake | 254462 | [254462-duck-hunt-remake.json](./254462-duck-hunt-remake.json) |
+| Duck Hunt VR | 27517 | [27517-duck-hunt-vr.json](./27517-duck-hunt-vr.json) |
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
