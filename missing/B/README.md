@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ground Training | 98769 | [98769-battle-ground-training.json](./98769-battle-ground-training.json) |
 | Battle Grounds | 221923 | [221923-battle-grounds.json](./221923-battle-grounds.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
+| Battle Group | 26378 | [26378-battle-group.json](./26378-battle-group.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Havoc | 92618 | [92618-battle-havoc.json](./92618-battle-havoc.json) |
