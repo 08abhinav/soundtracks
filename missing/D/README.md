@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan the Man | 38946 | [38946-dan-the-man.json](./38946-dan-the-man.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
+| Danball Senki | 72572 | [72572-danball-senki.json](./72572-danball-senki.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear My Friend | 119466 | [119466-dear-my-friend.json](./119466-dear-my-friend.json) |
 | Dear My Friend: Love Like Powdery Snow | 380665 | [380665-dear-my-friend-love-like-powdery-snow.json](./380665-dear-my-friend-love-like-powdery-snow.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
+| Dear My Sun!! Musuko Ikusei Capriccio | 72592 | [72592-dear-my-sun-musuko-ikusei-capriccio.json](./72592-dear-my-sun-musuko-ikusei-capriccio.json) |
 | Dear Otome | 228354 | [228354-dear-otome.json](./228354-dear-otome.json) |
 | Dear Pretentiousness | 259668 | [259668-dear-pretentiousness.json](./259668-dear-pretentiousness.json) |
 | Dear Reader | 124034 | [124034-dear-reader.json](./124034-dear-reader.json) |
@@ -7157,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
+| Dive: The Conquest of Silver Eye | 72538 | [72538-dive-the-conquest-of-silver-eye.json](./72538-dive-the-conquest-of-silver-eye.json) |
 | Dive: The Medes Islands Secret | 50723 | [50723-dive-the-medes-islands-secret.json](./50723-dive-the-medes-islands-secret.json) |
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
@@ -7886,7 +7889,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
+| Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
+| Doko Demo Issyo | 72565 | [72565-doko-demo-issyo.json](./72565-doko-demo-issyo.json) |
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
@@ -9974,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
+| Dragon Quest: Monster Battle Road | 72551 | [72551-dragon-quest-monster-battle-road.json](./72551-dragon-quest-monster-battle-road.json) |
 | Dragon Quest: Monster Battle Road II Legends | 70667 | [70667-dragon-quest-monster-battle-road-ii-legends.json](./70667-dragon-quest-monster-battle-road-ii-legends.json) |
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
 | Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
