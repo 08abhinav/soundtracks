@@ -5713,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meliora | 210848 | [210848-meliora.json](./210848-meliora.json) |
 | Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
 | Melissa | 225798 | [225798-melissa.json](./225798-melissa.json) |
+| Melissa K. and the Heart of Gold | 58148 | [58148-melissa-k-and-the-heart-of-gold.json](./58148-melissa-k-and-the-heart-of-gold.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkhior's Mansion | 183289 | [183289-melkhiors-mansion.json](./183289-melkhiors-mansion.json) |
 | Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
@@ -7570,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Spooks 2: The Photo | 95930 | [95930-midnight-spooks-2-the-photo.json](./95930-midnight-spooks-2-the-photo.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
 | Midnight Star | 61713 | [61713-midnight-star.json](./61713-midnight-star.json) |
+| Midnight Star: Renegade | 58159 | [58159-midnight-star-renegade.json](./58159-midnight-star-renegade.json) |
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
 | Midnight Stories 5 | 196047 | [196047-midnight-stories-5.json](./196047-midnight-stories-5.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
@@ -7724,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Tank | 221890 | [221890-mighty-tank.json](./221890-mighty-tank.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
+| Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
@@ -10077,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
 | Momentum Missile Mayhem 3 | 388202 | [388202-momentum-missile-mayhem-3.json](./388202-momentum-missile-mayhem-3.json) |
 | Momentum Missile Mayhem 4 | 388203 | [388203-momentum-missile-mayhem-4.json](./388203-momentum-missile-mayhem-4.json) |
+| Momentum Mod | 58157 | [58157-momentum-mod.json](./58157-momentum-mod.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
@@ -10907,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterLife | 310132 | [310132-monsterlife.json](./310132-monsterlife.json) |
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
+| Monsterpocalypse | 58108 | [58108-monsterpocalypse.json](./58108-monsterpocalypse.json) |
 | Monsterra | 235266 | [235266-monsterra.json](./235266-monsterra.json) |
 | MonsterReaver | 209913 | [209913-monsterreaver.json](./209913-monsterreaver.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
