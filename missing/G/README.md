@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaiares | 280324 | [280324-gaiares.json](./280324-gaiares.json) |
 | Gaiares | 93373 | [93373-gaiares.json](./93373-gaiares.json) |
 | Gaias Lord | 92292 | [92292-gaias-lord.json](./92292-gaias-lord.json) |
+| GaiaSeed: Project Seed Trap | 43758 | [43758-gaiaseed-project-seed-trap.json](./43758-gaiaseed-project-seed-trap.json) |
 | Gaiflame | 43189 | [43189-gaiflame.json](./43189-gaiflame.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gailardia 2: The One That Survived | 376696 | [376696-gailardia-2-the-one-that-survived.json](./376696-gailardia-2-the-one-that-survived.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian Wars: Alien Shooter | 411525 | [411525-galaxian-wars-alien-shooter.json](./411525-galaxian-wars-alien-shooter.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
+| Galaxian3 | 43774 | [43774-galaxian3.json](./43774-galaxian3.json) |
 | Galaxian3: Project Dragoon | 140478 | [140478-galaxian3-project-dragoon.json](./140478-galaxian3-project-dragoon.json) |
 | Galaxians | 308354 | [308354-galaxians.json](./308354-galaxians.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
@@ -1700,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
 | GeGeGe no Kitaro 2: Yokai Gundan no Chousen | 48485 | [48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json](./48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json) |
 | GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
+| GeGeGe no Kitaro: Gyakushuu! Youma Daikessen | 43772 | [43772-gegege-no-kitaro-gyakushuu-youma-daikessen.json](./43772-gegege-no-kitaro-gyakushuu-youma-daikessen.json) |
 | GeGeGe no Kitaro: Ibun Yokai Kitan | 64108 | [64108-gegege-no-kitaro-ibun-yokai-kitan.json](./64108-gegege-no-kitaro-ibun-yokai-kitan.json) |
 | GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou | 49609 | [49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json](./49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json) |
 | GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan | 64110 | [64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json](./64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json) |
@@ -4290,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
+| Gokuu Densetsu: Magic Beast Warriors | 43775 | [43775-gokuu-densetsu-magic-beast-warriors.json](./43775-gokuu-densetsu-magic-beast-warriors.json) |
 | Gol Show | 248822 | [248822-gol-show.json](./248822-gol-show.json) |
 | GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
@@ -4406,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Mine Pickaxe | 187190 | [187190-golden-mine-pickaxe.json](./187190-golden-mine-pickaxe.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
+| Golden Nugget | 43751 | [43751-golden-nugget.json](./43751-golden-nugget.json) |
 | Golden Nugget 64 | 3374 | [3374-golden-nugget-64.json](./3374-golden-nugget-64.json) |
 | Golden Nugget Casino | 128368 | [128368-golden-nugget-casino.json](./128368-golden-nugget-casino.json) |
 | Golden Nugget Casino DS | 128369 | [128369-golden-nugget-casino-ds.json](./128369-golden-nugget-casino-ds.json) |
