@@ -4336,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Person Shouter | 332978 | [332978-first-person-shouter.json](./332978-first-person-shouter.json) |
 | First Person Tennis - The Real Tennis Simulator | 33434 | [33434-first-person-tennis-the-real-tennis-simulator.json](./33434-first-person-tennis-the-real-tennis-simulator.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
+| First Queen | 42432 | [42432-first-queen.json](./42432-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
@@ -4643,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Heaven & Hell | 120117 | [120117-fist-of-heaven-and-hell.json](./120117-fist-of-heaven-and-hell.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
+| Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
@@ -9394,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Dungeon: Fuurai no Shiren GB - Tsukikage-mura no Kaibutsu | 130810 | [130810-fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu.json](./130810-fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu.json) |
 | Fushigi no Dungeon: Fuurai no Shiren GB2 - Sabaku no Majou | 85949 | [85949-fushigi-no-dungeon-fuurai-no-shiren-gb2-sabaku-no-majou.json](./85949-fushigi-no-dungeon-fuurai-no-shiren-gb2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
+| Fushigi no Dungeon: Torneko no Daibouken | 42439 | [42439-fushigi-no-dungeon-torneko-no-daibouken.json](./42439-fushigi-no-dungeon-torneko-no-daibouken.json) |
 | Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
 | Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
 | Fushigi no Gensoukyou 3 Plus | 206959 | [206959-fushigi-no-gensoukyou-3-plus.json](./206959-fushigi-no-gensoukyou-3-plus.json) |
