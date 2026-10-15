@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Wanda | 293352 | [293352-queen-wanda.json](./293352-queen-wanda.json) |
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
+| Queen: The Eye | 71958 | [71958-queen-the-eye.json](./71958-queen-the-eye.json) |
 | Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
 | Queen's Brothel | 237460 | [237460-queens-brothel.json](./237460-queens-brothel.json) |
 | Queen's Cards | 348209 | [348209-queens-cards.json](./348209-queens-cards.json) |
