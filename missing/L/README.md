@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
 | Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
+| Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather | 105814 | [105814-leather.json](./105814-leather.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
+| Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
@@ -6383,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
 | Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
+| Luftwaffe: Doitsu Kuugun o Shiki Seyo | 66014 | [66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json](./66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
