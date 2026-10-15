@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
 | G-Type | 241496 | [241496-g-type.json](./241496-g-type.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
+| G-Vector | 54953 | [54953-g-vector.json](./54953-g-vector.json) |
 | G-Zero | 248762 | [248762-g-zero.json](./248762-g-zero.json) |
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
