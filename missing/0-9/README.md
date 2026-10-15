@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
+| .Exe | 32666 | [32666-exe.json](./32666-exe.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
 | .Fall | 126441 | [126441-fall.json](./126441-fall.json) |
 | .G | 369381 | [369381-g.json](./369381-g.json) |
