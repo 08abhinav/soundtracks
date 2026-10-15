@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
 | Fall of Gorithia: Nym's Fate | 342597 | [342597-fall-of-gorithia-nyms-fate.json](./342597-fall-of-gorithia-nyms-fate.json) |
+| Fall of Gyes | 22098 | [22098-fall-of-gyes.json](./22098-fall-of-gyes.json) |
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
@@ -2500,6 +2501,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
+| Fearful Tales: Hansel and Gretel | 22108 | [22108-fearful-tales-hansel-and-gretel.json](./22108-fearful-tales-hansel-and-gretel.json) |
+| Fearful Tales: Hansel and Gretel - Collector's Edition | 22078 | [22078-fearful-tales-hansel-and-gretel-collectors-edition.json](./22078-fearful-tales-hansel-and-gretel-collectors-edition.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
@@ -3392,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
 | Final Cut: Encore - Collector's Edition | 28680 | [28680-final-cut-encore-collectors-edition.json](./28680-final-cut-encore-collectors-edition.json) |
 | Final Cut: Fade to Black | 98370 | [98370-final-cut-fade-to-black.json](./98370-final-cut-fade-to-black.json) |
+| Final Cut: Fade to Black - Collector's Edition | 22079 | [22079-final-cut-fade-to-black-collectors-edition.json](./22079-final-cut-fade-to-black-collectors-edition.json) |
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
 | Final Cut: Fame Fatale - Collector's Edition | 111511 | [111511-final-cut-fame-fatale-collectors-edition.json](./111511-final-cut-fame-fatale-collectors-edition.json) |
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
@@ -9059,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Colors 3D | 110200 | [110200-fun-colors-3d.json](./110200-fun-colors-3d.json) |
 | Fun Cube | 255894 | [255894-fun-cube.json](./255894-fun-cube.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
+| Fun Football Tournament | 22073 | [22073-fun-football-tournament.json](./22073-fun-football-tournament.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
