@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Between Games | 82003 | [82003-in-between-games.json](./82003-in-between-games.json) |
 | In Blood | 120749 | [120749-in-blood.json](./120749-in-blood.json) |
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
+| In Case of Emergency, Release Raptor | 32619 | [32619-in-case-of-emergency-release-raptor.json](./32619-in-case-of-emergency-release-raptor.json) |
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
