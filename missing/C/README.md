@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
+| Champions of Chaos II: Ambassadors of the Arena | 62653 | [62653-champions-of-chaos-ii-ambassadors-of-the-arena.json](./62653-champions-of-chaos-ii-ambassadors-of-the-arena.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | Chikyuu no Arukikata DS: Shanghai, Hangzhou, Suzhou '07-'08 | 269750 | [269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json](./269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json) |
+| Chikyuu Senshi Rayieza | 62614 | [62614-chikyuu-senshi-rayieza.json](./62614-chikyuu-senshi-rayieza.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
@@ -10014,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
+| Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
@@ -11175,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Plant Shop | 17214 | [17214-crazy-plant-shop.json](./17214-crazy-plant-shop.json) |
 | Crazy Plus | 264781 | [264781-crazy-plus.json](./264781-crazy-plus.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
+| Crazy Power Disc Perfect | 62661 | [62661-crazy-power-disc-perfect.json](./62661-crazy-power-disc-perfect.json) |
 | Crazy Prisoner | 243579 | [243579-crazy-prisoner.json](./243579-crazy-prisoner.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
@@ -13885,6 +13889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
+| Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
