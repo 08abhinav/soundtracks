@@ -5834,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
+| Robby's Adventure | 55806 | [55806-robbys-adventure.json](./55806-robbys-adventure.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert E. Lee: Civil War General | 51377 | [51377-robert-e-lee-civil-war-general.json](./51377-robert-e-lee-civil-war-general.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms VI: Power Up Kit | 350630 | [350630-romance-of-the-three-kingdoms-vi-power-up-kit.json](./350630-romance-of-the-three-kingdoms-vi-power-up-kit.json) |
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
 | Romance of the Three Kingdoms VII: Power Up Kit | 350629 | [350629-romance-of-the-three-kingdoms-vii-power-up-kit.json](./350629-romance-of-the-three-kingdoms-vii-power-up-kit.json) |
+| Romance of the Three Kingdoms VIII with Power Up Kit | 55811 | [55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json](./55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms X: Power Up Kit | 350631 | [350631-romance-of-the-three-kingdoms-x-power-up-kit.json](./350631-romance-of-the-three-kingdoms-x-power-up-kit.json) |
 | Romance of the Three Kingdoms XII with Power Up Kit | 82407 | [82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json](./82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
