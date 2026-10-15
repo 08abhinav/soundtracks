@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma 1/2: Hard Battle | 44462 | [44462-ranma-1-2-hard-battle.json](./44462-ranma-1-2-hard-battle.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
 | Ranma 1/2: Kakuren Bodesu Match | 75852 | [75852-ranma-1-2-kakuren-bodesu-match.json](./75852-ranma-1-2-kakuren-bodesu-match.json) |
+| Ranma 1/2: Ougi Jaanken | 42410 | [42410-ranma-1-2-ougi-jaanken.json](./42410-ranma-1-2-ougi-jaanken.json) |
 | Ranma 1/2: Toraware no Hanayome | 72691 | [72691-ranma-1-2-toraware-no-hanayome.json](./72691-ranma-1-2-toraware-no-hanayome.json) |
 | Ranma ½: Aka Neko-dan Teki Hihou | 38278 | [38278-ranma-1-2-aka-neko-dan-teki-hihou.json](./38278-ranma-1-2-aka-neko-dan-teki-hihou.json) |
 | Ranma ½: Chougi Ranbu-hen | 42739 | [42739-ranma-1-2-chougi-ranbu-hen.json](./42739-ranma-1-2-chougi-ranbu-hen.json) |
@@ -4592,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
+| RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
@@ -5604,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Ransom | 376654 | [376654-river-city-ransom.json](./376654-river-city-ransom.json) |
 | River City Ransom | 6558 | [6558-river-city-ransom.json](./6558-river-city-ransom.json) |
+| River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River City Super Sports Challenge | 47973 | [47973-river-city-super-sports-challenge.json](./47973-river-city-super-sports-challenge.json) |
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
@@ -7901,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RPGolf | 98161 | [98161-rpgolf.json](./98161-rpgolf.json) |
+| RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
 | RPS play | 144615 | [144615-rps-play.json](./144615-rps-play.json) |
