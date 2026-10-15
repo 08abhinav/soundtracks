@@ -3988,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
 | God Hand | 114865 | [114865-god-hand.json](./114865-god-hand.json) |
 | God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
+| God is a Cube: Programming Robot Cubes | 58110 | [58110-god-is-a-cube-programming-robot-cubes.json](./58110-god-is-a-cube-programming-robot-cubes.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
@@ -4325,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
+| Goldcraft | 58132 | [58132-goldcraft.json](./58132-goldcraft.json) |
 | Golden 8bits | 112205 | [112205-golden-8bits.json](./112205-golden-8bits.json) |
 | Golden Age | 193661 | [193661-golden-age.json](./193661-golden-age.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
