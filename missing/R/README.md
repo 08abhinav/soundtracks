@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Jumping DX | 344478 | [344478-rabbit-jumping-dx.json](./344478-rabbit-jumping-dx.json) |
 | Rabbit Knight | 205598 | [205598-rabbit-knight.json](./205598-rabbit-knight.json) |
 | Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
+| Rabbit Punch | 64330 | [64330-rabbit-punch.json](./64330-rabbit-punch.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
 | Rabbit Rampage | 293536 | [293536-rabbit-rampage.json](./293536-rabbit-rampage.json) |
 | Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
