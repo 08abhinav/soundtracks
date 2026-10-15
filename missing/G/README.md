@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga: Demons of Death | 84558 | [84558-galaga-demons-of-death.json](./84558-galaga-demons-of-death.json) |
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
 | Galaga: Destination Earth | 281474 | [281474-galaga-destination-earth.json](./281474-galaga-destination-earth.json) |
+| Galaga: Special Edition | 61014 | [61014-galaga-special-edition.json](./61014-galaga-special-edition.json) |
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
 | Galagan's Island: Reprymian Rising - Metagalactic Monstrosities | 171934 | [171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json](./171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
@@ -5414,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
 | Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
+| Grand Truckismo | 61012 | [61012-grand-truckismo.json](./61012-grand-truckismo.json) |
 | Grand Unified Game | 212692 | [212692-grand-unified-game.json](./212692-grand-unified-game.json) |
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
