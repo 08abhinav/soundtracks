@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
 | The Adventures of Valdo and Marie | 56968 | [56968-the-adventures-of-valdo-and-marie.json](./56968-the-adventures-of-valdo-and-marie.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
+| The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
+| The Amazing Meatbot | 22090 | [22090-the-amazing-meatbot.json](./22090-the-amazing-meatbot.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Shrinking Giraffe | 260775 | [260775-the-amazing-shrinking-giraffe.json](./260775-the-amazing-shrinking-giraffe.json) |
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
@@ -7933,7 +7935,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
+| The Keepers 2: The Order's Last Secret - Collector's Edition | 22088 | [22088-the-keepers-2-the-orders-last-secret-collectors-edition.json](./22088-the-keepers-2-the-orders-last-secret-collectors-edition.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
+| The Keepers: Lost Progeny - Collector's Edition | 22087 | [22087-the-keepers-lost-progeny-collectors-edition.json](./22087-the-keepers-lost-progeny-collectors-edition.json) |
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
@@ -10052,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other: Rosie's Road of Love | 147394 | [147394-the-other-rosies-road-of-love.json](./147394-the-other-rosies-road-of-love.json) |
 | The Others | 218667 | [218667-the-others.json](./218667-the-others.json) |
 | The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
+| The Others by Paprikari Games | 22086 | [22086-the-others-by-paprikari-games.json](./22086-the-others-by-paprikari-games.json) |
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
@@ -14228,6 +14233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force II | 6033 | [6033-thunder-force-ii.json](./6033-thunder-force-ii.json) |
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
+| Thunder Force V | 22021 | [22021-thunder-force-v.json](./22021-thunder-force-v.json) |
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Force: Gold Pack 2 | 80164 | [80164-thunder-force-gold-pack-2.json](./80164-thunder-force-gold-pack-2.json) |
@@ -16075,6 +16081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
 | Timmy's Nightmare | 149873 | [149873-timmys-nightmare.json](./149873-timmys-nightmare.json) |
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
+| Timo-T | 22024 | [22024-timo-t.json](./22024-timo-t.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
 | Timore 5: The Flood | 171942 | [171942-timore-5-the-flood.json](./171942-timore-5-the-flood.json) |
@@ -21106,6 +21113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trev to the Rescue! | 263667 | [263667-trev-to-the-rescue.json](./263667-trev-to-the-rescue.json) |
 | Trevor Daison in Outer Space: Chapter One | 233130 | [233130-trevor-daison-in-outer-space-chapter-one.json](./233130-trevor-daison-in-outer-space-chapter-one.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
+| Trex and Muscle Sam: A New Kickstart! | 22042 | [22042-trex-and-muscle-sam-a-new-kickstart.json](./22042-trex-and-muscle-sam-a-new-kickstart.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
 | Tri City Monsters | 253816 | [253816-tri-city-monsters.json](./253816-tri-city-monsters.json) |
