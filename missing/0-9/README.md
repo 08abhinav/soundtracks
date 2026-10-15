@@ -1600,7 +1600,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
+| 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
+| 3DO Interactive Sampler 3 | 38822 | [38822-3do-interactive-sampler-3.json](./38822-3do-interactive-sampler-3.json) |
 | 3DSCraft | 253796 | [253796-3dscraft.json](./253796-3dscraft.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
