@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
+| Days of Dawn | 63770 | [63770-days-of-dawn.json](./63770-days-of-dawn.json) |
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
@@ -6845,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Epic Quest | 123397 | [123397-disney-epic-quest.json](./123397-disney-epic-quest.json) |
 | Disney Face Chase | 243813 | [243813-disney-face-chase.json](./243813-disney-face-chase.json) |
 | Disney Fairies | 131394 | [131394-disney-fairies.json](./131394-disney-fairies.json) |
+| Disney Fairies: Hidden Treasures | 63748 | [63748-disney-fairies-hidden-treasures.json](./63748-disney-fairies-hidden-treasures.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Fairies: Tinker Bell and the Lost Treasure | 230409 | [230409-disney-fairies-tinker-bell-and-the-lost-treasure.json](./230409-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
