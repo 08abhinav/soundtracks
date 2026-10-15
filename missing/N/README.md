@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
+| Nintendo Switch Sports | 191408 | [191408-nintendo-switch-sports.json](./191408-nintendo-switch-sports.json) |
 | Nintendo Switch Sports Resort | 405451 | [405451-nintendo-switch-sports-resort.json](./405451-nintendo-switch-sports-resort.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships 1990 | 9250 | [9250-nintendo-world-championships-1990.json](./9250-nintendo-world-championships-1990.json) |
