@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
+| Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
+| Ranger Mission | 39436 | [39436-ranger-mission.json](./39436-ranger-mission.json) |
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
