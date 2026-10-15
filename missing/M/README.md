@@ -6873,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
+| Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
 | Metro: Last Light - Faction Pack | 128647 | [128647-metro-last-light-faction-pack.json](./128647-metro-last-light-faction-pack.json) |
@@ -8184,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mind, Body & Soul: Nutrition Matters | 209013 | [209013-mind-body-and-soul-nutrition-matters.json](./209013-mind-body-and-soul-nutrition-matters.json) |
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
+| Mind: Path to Thalamus - Enhanced Edition | 19049 | [19049-mind-path-to-thalamus-enhanced-edition.json](./19049-mind-path-to-thalamus-enhanced-edition.json) |
 | Mind's Descent Bundle | 278328 | [278328-minds-descent-bundle.json](./278328-minds-descent-bundle.json) |
 | Mind's Eye | 71151 | [71151-minds-eye.json](./71151-minds-eye.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
@@ -10385,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
+| Monkey Quest | 19100 | [19100-monkey-quest.json](./19100-monkey-quest.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
 | Monkey Shines 2: Gorilla Warfare | 397411 | [397411-monkey-shines-2-gorilla-warfare.json](./397411-monkey-shines-2-gorilla-warfare.json) |
@@ -10660,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster Hearts | 133731 | [133731-monster-hearts.json](./133731-monster-hearts.json) |
 | Monster Hearts R | 268394 | [268394-monster-hearts-r.json](./268394-monster-hearts-r.json) |
+| Monster Hero | 19127 | [19127-monster-hero.json](./19127-monster-hero.json) |
 | Monster Hero | 303057 | [303057-monster-hero.json](./303057-monster-hero.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: 13 Wishes | 25142 | [25142-monster-high-13-wishes.json](./25142-monster-high-13-wishes.json) |
@@ -10916,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Stalker | 236164 | [236164-monster-stalker.json](./236164-monster-stalker.json) |
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
+| Monster Strike | 19166 | [19166-monster-strike.json](./19166-monster-strike.json) |
 | Monster Stunts | 197677 | [197677-monster-stunts.json](./197677-monster-stunts.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
