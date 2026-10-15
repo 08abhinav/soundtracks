@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
 | Raptor Territory | 143449 | [143449-raptor-territory.json](./143449-raptor-territory.json) |
+| Raptor: Call of the Shadows - 2010 Edition | 51880 | [51880-raptor-call-of-the-shadows-2010-edition.json](./51880-raptor-call-of-the-shadows-2010-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
 | Rayman Designer | 61351 | [61351-rayman-designer.json](./61351-rayman-designer.json) |
 | Rayman Fiesta Run | 19726 | [19726-rayman-fiesta-run.json](./19726-rayman-fiesta-run.json) |
+| Rayman Forever | 51879 | [51879-rayman-forever.json](./51879-rayman-forever.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
@@ -2866,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
+| Redneck Rampage Collection | 51877 | [51877-redneck-rampage-collection.json](./51877-redneck-rampage-collection.json) |
 | Redneck Rampage Rides Again | 9004 | [9004-redneck-rampage-rides-again.json](./9004-redneck-rampage-rides-again.json) |
 | Redneck Rampage: Possum Bayou | 44096 | [44096-redneck-rampage-possum-bayou.json](./44096-redneck-rampage-possum-bayou.json) |
 | Redneck Rampage: Suckin' Grits on Route 66 | 9003 | [9003-redneck-rampage-suckin-grits-on-route-66.json](./9003-redneck-rampage-suckin-grits-on-route-66.json) |
@@ -3466,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renown | 152656 | [152656-renown.json](./152656-renown.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
 | Renowned Explorers: International Society - More to Explore | 19387 | [19387-renowned-explorers-international-society-more-to-explore.json](./19387-renowned-explorers-international-society-more-to-explore.json) |
+| Renowned Explorers: The Emperor's Challenge | 51876 | [51876-renowned-explorers-the-emperors-challenge.json](./51876-renowned-explorers-the-emperors-challenge.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
@@ -3568,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République | 17719 | [17719-republique.json](./17719-republique.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
+| République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
 | République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | République: Episode 4 - God's Acre | 127129 | [127129-republique-episode-4-gods-acre.json](./127129-republique-episode-4-gods-acre.json) |
@@ -5387,10 +5392,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
 | Risen 2: Dark Waters | 3802 | [3802-risen-2-dark-waters.json](./3802-risen-2-dark-waters.json) |
 | Risen 2: Dark Waters - A Pirate's Clothes | 53511 | [53511-risen-2-dark-waters-a-pirates-clothes.json](./53511-risen-2-dark-waters-a-pirates-clothes.json) |
+| Risen 2: Dark Waters - Gold Edition | 51874 | [51874-risen-2-dark-waters-gold-edition.json](./51874-risen-2-dark-waters-gold-edition.json) |
 | Risen 2: Dark Waters - The Air Temple | 53512 | [53512-risen-2-dark-waters-the-air-temple.json](./53512-risen-2-dark-waters-the-air-temple.json) |
 | Risen 2: Dark Waters - Treasure Isle | 53513 | [53513-risen-2-dark-waters-treasure-isle.json](./53513-risen-2-dark-waters-treasure-isle.json) |
 | Risen 3: Fog Island | 238516 | [238516-risen-3-fog-island.json](./238516-risen-3-fog-island.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
+| Risen 3: Titan Lords - Complete Edition | 51872 | [51872-risen-3-titan-lords-complete-edition.json](./51872-risen-3-titan-lords-complete-edition.json) |
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
@@ -5884,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
+| Robinson's Requiem Collection | 51871 | [51871-robinsons-requiem-collection.json](./51871-robinsons-requiem-collection.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
