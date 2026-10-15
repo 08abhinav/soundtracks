@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
 | Venus Meets Venus | 128592 | [128592-venus-meets-venus.json](./128592-venus-meets-venus.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
+| Venus Project | 60430 | [60430-venus-project.json](./60430-venus-project.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
 | Venus Senki | 48552 | [48552-venus-senki.json](./48552-venus-senki.json) |
