@@ -5460,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
 | Sherlock Holmes and the Mystery of Osborne House | 47926 | [47926-sherlock-holmes-and-the-mystery-of-osborne-house.json](./47926-sherlock-holmes-and-the-mystery-of-osborne-house.json) |
+| Sherlock Holmes Collection | 46440 | [46440-sherlock-holmes-collection.json](./46440-sherlock-holmes-collection.json) |
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
@@ -7377,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimEarth: The Living Planet | 5438 | [5438-simearth-the-living-planet.json](./5438-simearth-the-living-planet.json) |
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
 | Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
+| SimGolf | 46438 | [46438-simgolf.json](./46438-simgolf.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
@@ -7597,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
+| Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
@@ -12780,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
+| Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
@@ -14343,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
 | Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
+| Speedway Challenge League | 46477 | [46477-speedway-challenge-league.json](./46477-speedway-challenge-league.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
@@ -15201,6 +15206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
+| SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 133910 | [133910-spongebob-squarepants-battle-for-bikini-bottom.json](./133910-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
@@ -15657,6 +15663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids Learning Adventures: Mission - The Nightmare Machine | 77641 | [77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
 | Spy Kids: All the Time in the World | 124058 | [124058-spy-kids-all-the-time-in-the-world.json](./124058-spy-kids-all-the-time-in-the-world.json) |
+| Spy Kids: Mega Mission Zone | 46435 | [46435-spy-kids-mega-mission-zone.json](./46435-spy-kids-mega-mission-zone.json) |
 | Spy Mouse | 92300 | [92300-spy-mouse.json](./92300-spy-mouse.json) |
 | Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
 | Spy Muppets: License to Croak | 3261 | [3261-spy-muppets-license-to-croak.json](./3261-spy-muppets-license-to-croak.json) |
@@ -16922,6 +16929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
+| Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
