@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! All Techbase | 259493 | [259493-oops-all-techbase.json](./259493-oops-all-techbase.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! No Brakes | 181618 | [181618-oops-no-brakes.json](./181618-oops-no-brakes.json) |
+| Oops! Prank Party | 51104 | [51104-oops-prank-party.json](./51104-oops-prank-party.json) |
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
