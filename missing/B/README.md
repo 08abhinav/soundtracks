@@ -7760,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
+| Blue Blaster | 67858 | [67858-blue-blaster.json](./67858-blue-blaster.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
@@ -8246,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
+| Boku no Natsuyasumi 4 | 67897 | [67897-boku-no-natsuyasumi-4.json](./67897-boku-no-natsuyasumi-4.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Shokora | 169273 | [169273-boku-no-shokora.json](./169273-boku-no-shokora.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
@@ -8445,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Hero | 3453 | [3453-bomberman-hero.json](./3453-bomberman-hero.json) |
 | Bomberman II | 3447 | [3447-bomberman-ii.json](./3447-bomberman-ii.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
+| Bomberman Jetters: Densetsu no Bomberman | 67859 | [67859-bomberman-jetters-densetsu-no-bomberman.json](./67859-bomberman-jetters-densetsu-no-bomberman.json) |
 | Bomberman Jetters: Game Collection | 49528 | [49528-bomberman-jetters-game-collection.json](./49528-bomberman-jetters-game-collection.json) |
 | Bomberman Kart | 198189 | [198189-bomberman-kart.json](./198189-bomberman-kart.json) |
 | Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
@@ -11780,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
 | Burger Impact: Solar Strike | 246868 | [246868-burger-impact-solar-strike.json](./246868-burger-impact-solar-strike.json) |
+| Burger in Hyperland | 67917 | [67917-burger-in-hyperland.json](./67917-burger-in-hyperland.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
 | Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
