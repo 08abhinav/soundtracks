@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yopaz Icestar | 330267 | [330267-yopaz-icestar.json](./330267-yopaz-icestar.json) |
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
 | Yoram: Question Arc | 348899 | [348899-yoram-question-arc.json](./348899-yoram-question-arc.json) |
+| Yorbie | 60468 | [60468-yorbie.json](./60468-yorbie.json) |
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
+| Yukikoi Melt | 60458 | [60458-yukikoi-melt.json](./60458-yukikoi-melt.json) |
 | Yukinas Diary | 114254 | [114254-yukinas-diary.json](./114254-yukinas-diary.json) |
 | Yukinko Burning | 167122 | [167122-yukinko-burning.json](./167122-yukinko-burning.json) |
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
@@ -1444,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
+| Yuugen Gaisha Brave Company | 60465 | [60465-yuugen-gaisha-brave-company.json](./60465-yuugen-gaisha-brave-company.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Gaisha London Star: Koi no Double Click | 77874 | [77874-yuugen-gaisha-london-star-koi-no-double-click.json](./77874-yuugen-gaisha-london-star-koi-no-double-click.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
