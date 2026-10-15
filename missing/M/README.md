@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
+| Marker Man Adventures | 47843 | [47843-marker-man-adventures.json](./47843-marker-man-adventures.json) |
 | Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
@@ -5681,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | Meister2 | 192639 | [192639-meister2.json](./192639-meister2.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
+| Meitantei Conan & Kindaichi Shounen no Jikenbo: Meguri au Futari no Meitantei | 47858 | [47858-meitantei-conan-and-kindaichi-shounen-no-jikenbo-meguri-au-futari-no-meitantei.json](./47858-meitantei-conan-and-kindaichi-shounen-no-jikenbo-meguri-au-futari-no-meitantei.json) |
 | Meitantei Conan: Tantei-ryoku Trainer | 78712 | [78712-meitantei-conan-tantei-ryoku-trainer.json](./78712-meitantei-conan-tantei-ryoku-trainer.json) |
 | Meitantei Holmes: Kiri no London Satsujin Jiken | 48778 | [48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json](./48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json) |
 | Meitantei Holmes: M kara no Chousenjou | 48777 | [48777-meitantei-holmes-m-kara-no-chousenjou.json](./48777-meitantei-holmes-m-kara-no-chousenjou.json) |
@@ -8128,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
+| Mind Your Language: Learn English | 47825 | [47825-mind-your-language-learn-english.json](./47825-mind-your-language-learn-english.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
 | Mind-Blowing Girls | 158148 | [158148-mind-blowing-girls.json](./158148-mind-blowing-girls.json) |
 | Mind-Blowing Girls 2 | 171027 | [171027-mind-blowing-girls-2.json](./171027-mind-blowing-girls-2.json) |
@@ -8177,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
+| MindStorm | 47861 | [47861-mindstorm.json](./47861-mindstorm.json) |
 | MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
@@ -10899,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
 | Monster Trucks | 92416 | [92416-monster-trucks.json](./92416-monster-trucks.json) |
+| Monster Trucks DS | 47864 | [47864-monster-trucks-ds.json](./47864-monster-trucks-ds.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
@@ -13850,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice: Playable Character - Pro Hero Endeavor | 168252 | [168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json](./168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json) |
 | My Hero: Astronaut | 68093 | [68093-my-hero-astronaut.json](./68093-my-hero-astronaut.json) |
 | My Hero: Doctor | 206773 | [206773-my-hero-doctor.json](./206773-my-hero-doctor.json) |
+| My Hero: Firefighter | 47862 | [47862-my-hero-firefighter.json](./47862-my-hero-firefighter.json) |
 | My Hero: Tiny Ninja | 232544 | [232544-my-hero-tiny-ninja.json](./232544-my-hero-tiny-ninja.json) |
 | My Hero's One Justice 2: Itsuka Kendo Cheerleader Costume | 333233 | [333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json](./333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json) |
 | My Heroes | 188341 | [188341-my-heroes.json](./188341-my-heroes.json) |
