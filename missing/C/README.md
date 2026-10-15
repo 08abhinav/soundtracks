@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa II: World Fighters - DLC Character Pack 2 | 407289 | [407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json](./407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json) |
 | Captain Tsubasa II: World Fighters - DLC Character Pack 3 | 407290 | [407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json](./407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
+| Captain Tsubasa IV: Pro no Rival-tachi | 38184 | [38184-captain-tsubasa-iv-pro-no-rival-tachi.json](./38184-captain-tsubasa-iv-pro-no-rival-tachi.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
+| CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
@@ -4585,7 +4587,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Maruko-chan 2: Deluxe Maruko World | 79543 | [79543-chibi-maruko-chan-2-deluxe-maruko-world.json](./79543-chibi-maruko-chan-2-deluxe-maruko-world.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
 | Chibi Maruko-chan no Okashi de Piihyarara | 218369 | [218369-chibi-maruko-chan-no-okashi-de-piihyarara.json](./218369-chibi-maruko-chan-no-okashi-de-piihyarara.json) |
+| Chibi Maruko-chan: Harikiri 365-nichi no Maki | 38153 | [38153-chibi-maruko-chan-harikiri-365-nichi-no-maki.json](./38153-chibi-maruko-chan-harikiri-365-nichi-no-maki.json) |
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
+| Chibi Maruko-chan: Mezase! Minami no Island!! | 38152 | [38152-chibi-maruko-chan-mezase-minami-no-island.json](./38152-chibi-maruko-chan-mezase-minami-no-island.json) |
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
 | Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
@@ -4954,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
+| Chinhai | 38151 | [38151-chinhai.json](./38151-chinhai.json) |
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
 | Chio Hero | 97266 | [97266-chio-hero.json](./97266-chio-hero.json) |
@@ -6528,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
 | Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
+| Classic Road | 38150 | [38150-classic-road.json](./38150-classic-road.json) |
 | Classic Snake | 86701 | [86701-classic-snake.json](./86701-classic-snake.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
@@ -6916,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
+| ClockWerx | 38198 | [38198-clockwerx.json](./38198-clockwerx.json) |
 | Clockwillows Voy Quest | 389546 | [389546-clockwillows-voy-quest.json](./389546-clockwillows-voy-quest.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
@@ -8814,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
+| Computer Nouryoku Kaiseki: Ultra Baken | 38148 | [38148-computer-nouryoku-kaiseki-ultra-baken.json](./38148-computer-nouryoku-kaiseki-ultra-baken.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
 | Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
@@ -9461,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
 | Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
+| Conveni Wars: Barcode Battler Senki - Super Senshi Shutsugeki seyo! | 38147 | [38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json](./38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json) |
 | Convenience Store | 123956 | [123956-convenience-store.json](./123956-convenience-store.json) |
 | Convenience Store Simulator | 382972 | [382972-convenience-store-simulator.json](./382972-convenience-store-simulator.json) |
 | Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
@@ -9859,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
 | Coromon | 123269 | [123269-coromon.json](./123269-coromon.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
+| Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
@@ -11062,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
+| Crayon Shin-chan: Nagagutsu Dobon!! | 38203 | [38203-crayon-shin-chan-nagagutsu-dobon.json](./38203-crayon-shin-chan-nagagutsu-dobon.json) |
 | Crayon Shin-chan: Obaka Dainin Den - Susume! Kasukabe Ninja Tai! | 269680 | [269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json](./269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json) |
 | Crayon Shin-Chan: Ora to Poi Poi | 48533 | [48533-crayon-shin-chan-ora-to-poi-poi.json](./48533-crayon-shin-chan-ora-to-poi-poi.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
