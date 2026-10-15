@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
 | Algator Speedrun | 412887 | [412887-algator-speedrun.json](./412887-algator-speedrun.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
+| Alge-Blaster 3 | 10673 | [10673-alge-blaster-3.json](./10673-alge-blaster-3.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
