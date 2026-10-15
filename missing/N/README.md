@@ -122,9 +122,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Chao! | 210297 | [210297-nakayoshi-chao.json](./210297-nakayoshi-chao.json) |
+| Nakayoshi Mahjong: Kapu Richi | 49757 | [49757-nakayoshi-mahjong-kapu-richi.json](./49757-nakayoshi-mahjong-kapu-richi.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Nakayoshi Pet Series 3: Kawaii Koinu | 130615 | [130615-nakayoshi-pet-series-3-kawaii-koinu.json](./130615-nakayoshi-pet-series-3-kawaii-koinu.json) |
 | Nakayoshi Pet Series 4: Kawaii Koneko | 130614 | [130614-nakayoshi-pet-series-4-kawaii-koneko.json](./130614-nakayoshi-pet-series-4-kawaii-koneko.json) |
+| Nakayoshi Youchien | 49753 | [49753-nakayoshi-youchien.json](./49753-nakayoshi-youchien.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
@@ -444,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
+| Naruto RPG: Uketsugareshi Hi no Ishi | 49751 | [49751-naruto-rpg-uketsugareshi-hi-no-ishi.json](./49751-naruto-rpg-uketsugareshi-hi-no-ishi.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Clash of Ninja Revolution 3 | 19656 | [19656-naruto-shippuden-clash-of-ninja-revolution-3.json](./19656-naruto-shippuden-clash-of-ninja-revolution-3.json) |
 | Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
@@ -662,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natto-Cat | 68776 | [68776-natto-cat.json](./68776-natto-cat.json) |
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
+| Natural 2: Duo | 49750 | [49750-natural-2-duo.json](./49750-natural-2-duo.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
@@ -3770,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
 | Nippon no Asoko de | 269518 | [269518-nippon-no-asoko-de.json](./269518-nippon-no-asoko-de.json) |
+| Nippon Pro Mahjong Renmei Kounin: Tetsuman Advance ~Menkyo Kaiden Series~ | 49748 | [49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json](./49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
@@ -4166,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
 | Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
+| Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
@@ -4474,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
 | Nonomura Byouin no Hitobito | 85977 | [85977-nonomura-byouin-no-hitobito.json](./85977-nonomura-byouin-no-hitobito.json) |
+| Nonono Puzzle Chalien | 49747 | [49747-nonono-puzzle-chalien.json](./49747-nonono-puzzle-chalien.json) |
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
