@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
+| Bad Machine | 73165 | [73165-bad-machine.json](./73165-bad-machine.json) |
 | Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
 | Bad Manors | 327772 | [327772-bad-manors.json](./327772-bad-manors.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Knight | 197220 | [197220-balance-knight.json](./197220-balance-knight.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
+| Balance of Power | 73206 | [73206-balance-of-power.json](./73206-balance-of-power.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
@@ -4519,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
 | Betrayal of Blood | 243585 | [243585-betrayal-of-blood.json](./243585-betrayal-of-blood.json) |
+| Betrayal of the Obsidian Baboon | 73168 | [73168-betrayal-of-the-obsidian-baboon.json](./73168-betrayal-of-the-obsidian-baboon.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
@@ -4742,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wire | 131957 | [131957-beyond-the-wire.json](./131957-beyond-the-wire.json) |
 | Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
+| Beyond Time | 73207 | [73207-beyond-time.json](./73207-beyond-time.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
@@ -5198,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Belichick Offseason Simulator | 139151 | [139151-bill-belichick-offseason-simulator.json](./139151-bill-belichick-offseason-simulator.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
+| Bill Elliott's NASCAR Fast Tracks | 73154 | [73154-bill-elliotts-nascar-fast-tracks.json](./73154-bill-elliotts-nascar-fast-tracks.json) |
 | Bill Hates Videogames | 219206 | [219206-bill-hates-videogames.json](./219206-bill-hates-videogames.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
 | Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
@@ -6559,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
+| Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
