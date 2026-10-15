@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza 6: Song of Life - Clan Creator Card Bundle | 224152 | [224152-yakuza-6-song-of-life-clan-creator-card-bundle.json](./224152-yakuza-6-song-of-life-clan-creator-card-bundle.json) |
+| Yakuza 6: The Song of Life | 12527 | [12527-yakuza-6-the-song-of-life.json](./12527-yakuza-6-the-song-of-life.json) |
 | Yakuza 6: The Song of Life - After Hours Premium Edition | 97247 | [97247-yakuza-6-the-song-of-life-after-hours-premium-edition.json](./97247-yakuza-6-the-song-of-life-after-hours-premium-edition.json) |
 | Yakuza 6: The Song of Life - Digital Deluxe | 97248 | [97248-yakuza-6-the-song-of-life-digital-deluxe.json](./97248-yakuza-6-the-song-of-life-digital-deluxe.json) |
 | Yakuza 6: The Song of Life - Essence of Art Edition | 97249 | [97249-yakuza-6-the-song-of-life-essence-of-art-edition.json](./97249-yakuza-6-the-song-of-life-essence-of-art-edition.json) |
