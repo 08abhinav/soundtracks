@@ -7111,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
+| Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
