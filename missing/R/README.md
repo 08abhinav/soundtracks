@@ -8488,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
+| Running High | 43769 | [43769-running-high.json](./43769-running-high.json) |
 | Running in the Y2K | 200506 | [200506-running-in-the-y2k.json](./200506-running-in-the-y2k.json) |
 | Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
