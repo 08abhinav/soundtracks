@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
+| Gakkou de Atta Kowai Hanashi | 44408 | [44408-gakkou-de-atta-kowai-hanashi.json](./44408-gakkou-de-atta-kowai-hanashi.json) |
 | Gakkou no Kaidan DS | 269606 | [269606-gakkou-no-kaidan-ds.json](./269606-gakkou-no-kaidan-ds.json) |
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
+| Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
@@ -873,7 +875,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
+| Game no Tatsujin | 44404 | [44404-game-no-tatsujin.json](./44404-game-no-tatsujin.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
+| Game no Tetsujin: The Shanghai | 44413 | [44413-game-no-tetsujin-the-shanghai.json](./44413-game-no-tetsujin-the-shanghai.json) |
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
@@ -1037,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
+| Gamera: Gyaos Gekimetsu Sakusen | 44403 | [44403-gamera-gyaos-gekimetsu-sakusen.json](./44403-gamera-gyaos-gekimetsu-sakusen.json) |
 | Gamera: The Time Adventure | 66081 | [66081-gamera-the-time-adventure.json](./66081-gamera-the-time-adventure.json) |
 | Gamerbots: Third-Robot Shooting | 144036 | [144036-gamerbots-third-robot-shooting.json](./144036-gamerbots-third-robot-shooting.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
@@ -6773,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Pro Series | 4899 | [4899-gt-pro-series.json](./4899-gt-pro-series.json) |
 | GT Racers | 64222 | [64222-gt-racers.json](./64222-gt-racers.json) |
+| GT Racing | 44432 | [44432-gt-racing.json](./44432-gt-racing.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
