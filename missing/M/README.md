@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
 | Masters of Sound | 73882 | [73882-masters-of-sound.json](./73882-masters-of-sound.json) |
+| Masters of the Broken World | 65398 | [65398-masters-of-the-broken-world.json](./65398-masters-of-the-broken-world.json) |
 | Masters of the Elements | 70117 | [70117-masters-of-the-elements.json](./70117-masters-of-the-elements.json) |
 | Masters of the Universe | 245451 | [245451-masters-of-the-universe.json](./245451-masters-of-the-universe.json) |
 | Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
@@ -9683,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 3 | 182244 | [182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json](./182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json) |
 | Mobile Suit Gundam: Battlefield Record U.C.0081 | 79530 | [79530-mobile-suit-gundam-battlefield-record-u-c-0081.json](./79530-mobile-suit-gundam-battlefield-record-u-c-0081.json) |
 | Mobile Suit Gundam: Bonds of the Battlefield | 68079 | [68079-mobile-suit-gundam-bonds-of-the-battlefield.json](./68079-mobile-suit-gundam-bonds-of-the-battlefield.json) |
+| Mobile Suit Gundam: Char's Counterattack | 65381 | [65381-mobile-suit-gundam-chars-counterattack.json](./65381-mobile-suit-gundam-chars-counterattack.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
 | Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
