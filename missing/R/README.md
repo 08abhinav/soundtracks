@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
+| Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
@@ -7453,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
+| Rose Guns Days | 65427 | [65427-rose-guns-days.json](./65427-rose-guns-days.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
