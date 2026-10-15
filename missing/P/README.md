@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday: Wolf Pack | 240931 | [240931-payday-wolf-pack.json](./240931-payday-wolf-pack.json) |
 | Paydirt | 387036 | [387036-paydirt.json](./387036-paydirt.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
+| Payload | 41787 | [41787-payload.json](./41787-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peerless Beauty Detective: Alice | 406885 | [406885-peerless-beauty-detective-alice.json](./406885-peerless-beauty-detective-alice.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | Peestal 6: With Cheese | 366704 | [366704-peestal-6-with-cheese.json](./366704-peestal-6-with-cheese.json) |
+| Peetan | 41786 | [41786-peetan.json](./41786-peetan.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg | 68823 | [68823-peg.json](./68823-peg.json) |
