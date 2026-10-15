@@ -8731,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
 | Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
+| Computer Foosball | 59768 | [59768-computer-foosball.json](./59768-computer-foosball.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
@@ -9663,6 +9664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
@@ -9720,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
+| Core Online | 59767 | [59767-core-online.json](./59767-core-online.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
@@ -13848,6 +13851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyclingArcadeRaceSimulator | 368598 | [368598-cyclingarcaderacesimulator.json](./368598-cyclingarcaderacesimulator.json) |
 | Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
+| Cyclod | 59754 | [59754-cyclod.json](./59754-cyclod.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
 | CycloManiacs | 234694 | [234694-cyclomaniacs.json](./234694-cyclomaniacs.json) |
 | CycloManiacs 2 | 234696 | [234696-cyclomaniacs-2.json](./234696-cyclomaniacs-2.json) |
