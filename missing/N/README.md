@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
 | Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
+| Not Without You | 65389 | [65389-not-without-you.json](./65389-not-without-you.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Not Your Mind | 201104 | [201104-not-your-mind.json](./201104-not-your-mind.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
