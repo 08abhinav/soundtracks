@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeez | 171441 | [171441-jubeez.json](./171441-jubeez.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Jubilee | 366357 | [366357-jubilee.json](./366357-jubilee.json) |
+| Jubilee's Journey: A Jane Goodall Environmental Adventure | 59345 | [59345-jubilees-journey-a-jane-goodall-environmental-adventure.json](./59345-jubilees-journey-a-jane-goodall-environmental-adventure.json) |
 | JuBox | 334809 | [334809-jubox.json](./334809-jubox.json) |
 | Jubox 2 | 334819 | [334819-jubox-2.json](./334819-jubox-2.json) |
 | Juda | 120780 | [120780-juda.json](./120780-juda.json) |
