@@ -1404,6 +1404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off | 15240 | [15240-kick-off.json](./15240-kick-off.json) |
 | Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
+| Kick Off 2: The Final Whistle | 71966 | [71966-kick-off-2-the-final-whistle.json](./71966-kick-off-2-the-final-whistle.json) |
+| Kick Off 2002 | 71996 | [71996-kick-off-2002.json](./71996-kick-off-2002.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick Off 97 | 94954 | [94954-kick-off-97.json](./94954-kick-off-97.json) |
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
