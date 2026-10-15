@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jägermörder 1: Chemical Lab | 310622 | [310622-jagermorder-1-chemical-lab.json](./310622-jagermorder-1-chemical-lab.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
+| Jagged Alliance 2 | 9 | [9-jagged-alliance-2.json](./9-jagged-alliance-2.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
 | Jagged Alliance 3 | 72767 | [72767-jagged-alliance-3.json](./72767-jagged-alliance-3.json) |
