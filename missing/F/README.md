@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail 2: Lucy Outfit - "Miss Fairy Tail Contest" | 324462 | [324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json](./324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail 2: Ultimate Edition | 324378 | [324378-fairy-tail-2-ultimate-edition.json](./324378-fairy-tail-2-ultimate-edition.json) |
+| Fairy Tail Gekitou! Madoushi Kessen | 47827 | [47827-fairy-tail-gekitou-madoushi-kessen.json](./47827-fairy-tail-gekitou-madoushi-kessen.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail Portable Guild 2 | 42834 | [42834-fairy-tail-portable-guild-2.json](./42834-fairy-tail-portable-guild-2.json) |
 | Fairy Tail: Additional Dungeon - Rift in Time and Space | 238053 | [238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json](./238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
+| Freedom Wings | 47820 | [47820-freedom-wings.json](./47820-freedom-wings.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom: Diegesis | 58685 | [58685-freedom-diegesis.json](./58685-freedom-diegesis.json) |
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
