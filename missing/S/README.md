@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
 | School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
+| School Rumble: Neru Musume ha Sodatsu | 72583 | [72583-school-rumble-neru-musume-ha-sodatsu.json](./72583-school-rumble-neru-musume-ha-sodatsu.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -3632,8 +3633,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Asuka Zero | 104532 | [104532-sengoku-asuka-zero.json](./104532-sengoku-asuka-zero.json) |
+| Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
+| Sengoku Basara: Battle Heroes | 72563 | [72563-sengoku-basara-battle-heroes.json](./72563-sengoku-basara-battle-heroes.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
@@ -22259,6 +22262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Sokoban | 38291 | [38291-super-sokoban.json](./38291-super-sokoban.json) |
 | Super Solitaire: Card Game | 277890 | [277890-super-solitaire-card-game.json](./277890-super-solitaire-card-game.json) |
+| Super Solvers: Challenge of the Ancient Empires! | 72543 | [72543-super-solvers-challenge-of-the-ancient-empires.json](./72543-super-solvers-challenge-of-the-ancient-empires.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Solvers: Spellbound! | 69941 | [69941-super-solvers-spellbound.json](./69941-super-solvers-spellbound.json) |
