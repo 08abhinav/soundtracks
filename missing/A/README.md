@@ -1081,6 +1081,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
 | A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
+| A320 | 14151 | [14151-a320.json](./14151-a320.json) |
+| A320 Airbus Vol. 2 | 14201 | [14201-a320-airbus-vol-2.json](./14201-a320-airbus-vol-2.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
 | A3P | 108819 | [108819-a3p.json](./108819-a3p.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
@@ -1213,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
+| Abduction | 14202 | [14202-abduction.json](./14202-abduction.json) |
 | Abduction | 288123 | [288123-abduction.json](./288123-abduction.json) |
 | Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
@@ -1994,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
+| Addictaball | 14152 | [14152-addictaball.json](./14152-addictaball.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addictive | 94660 | [94660-addictive.json](./94660-addictive.json) |
 | Addie no Okurimono: To Moze from Addie | 64903 | [64903-addie-no-okurimono-to-moze-from-addie.json](./64903-addie-no-okurimono-to-moze-from-addie.json) |
@@ -2207,9 +2211,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced PET: Battle Chip - Super Vulcan | 354036 | [354036-advanced-pet-battle-chip-super-vulcan.json](./354036-advanced-pet-battle-chip-super-vulcan.json) |
 | Advanced PET: Battle Chip - WindMan DS | 354041 | [354041-advanced-pet-battle-chip-windman-ds.json](./354041-advanced-pet-battle-chip-windman-ds.json) |
 | Advanced Power Dolls 2 | 56170 | [56170-advanced-power-dolls-2.json](./56170-advanced-power-dolls-2.json) |
+| Advanced Rugby Simulator | 14153 | [14153-advanced-rugby-simulator.json](./14153-advanced-rugby-simulator.json) |
 | Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
+| Advanced Ski Simulator | 14154 | [14154-advanced-ski-simulator.json](./14154-advanced-ski-simulator.json) |
 | Advanced Sorcerian | 182238 | [182238-advanced-sorcerian.json](./182238-advanced-sorcerian.json) |
 | Advanced Spanner-X: Endless Fire | 268388 | [268388-advanced-spanner-x-endless-fire.json](./268388-advanced-spanner-x-endless-fire.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
@@ -3510,6 +3516,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
+| Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
+| Air Support | 14157 | [14157-air-support.json](./14157-air-support.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
 | Air Taxi | 94633 | [94633-air-taxi.json](./94633-air-taxi.json) |
@@ -3994,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
+| Albedo | 14161 | [14161-albedo.json](./14161-albedo.json) |
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
@@ -4016,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-Punkan Eigo Master: Chuukyuu | 269545 | [269545-alc-no-10-punkan-eigo-master-chuukyuu.json](./269545-alc-no-10-punkan-eigo-master-chuukyuu.json) |
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
+| Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: Prison Escape | 27452 | [27452-alcatraz-prison-escape.json](./27452-alcatraz-prison-escape.json) |
@@ -6035,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
+| Anarchy | 14163 | [14163-anarchy.json](./14163-anarchy.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
 | Anarchy Arcade | 30373 | [30373-anarchy-arcade.json](./30373-anarchy-arcade.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
@@ -6134,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
 | Ancient Game Treasures: Mill | 59220 | [59220-ancient-game-treasures-mill.json](./59220-ancient-game-treasures-mill.json) |
+| Ancient Games | 14164 | [14164-ancient-games.json](./14164-ancient-games.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
@@ -7571,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
+| Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
@@ -7878,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AppPack | 131261 | [131261-apppack.json](./131261-apppack.json) |
 | Apprehend: Girlfriend | 161580 | [161580-apprehend-girlfriend.json](./161580-apprehend-girlfriend.json) |
 | Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
+| Apprentice | 14167 | [14167-apprentice.json](./14167-apprentice.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
@@ -7955,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
+| Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
@@ -8959,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
+| Arena | 14169 | [14169-arena.json](./14169-arena.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
@@ -9748,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
+| Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
 | Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Fashionista: Summer Collection | 336694 | [336694-artificial-fashionista-summer-collection.json](./336694-artificial-fashionista-summer-collection.json) |
@@ -10389,6 +10406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
+| Astaroth: The Angel of Death | 14171 | [14171-astaroth-the-angel-of-death.json](./14171-astaroth-the-angel-of-death.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Astatos | 186111 | [186111-astatos.json](./186111-astatos.json) |
 | Astebreed | 8356 | [8356-astebreed.json](./8356-astebreed.json) |
