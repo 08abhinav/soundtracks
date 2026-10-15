@@ -259,6 +259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
+| Daibakushou: Jinsei Gekijoh | 44415 | [44415-daibakushou-jinsei-gekijoh.json](./44415-daibakushou-jinsei-gekijoh.json) |
+| Daibakushou: Jinsei Gekijoh - Zukkoke Salaryman-hen | 44416 | [44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json](./44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
@@ -276,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaiju no Gyakushu | 65393 | [65393-daikaiju-no-gyakushu.json](./65393-daikaiju-no-gyakushu.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
+| Daikaijuu Monogatari II | 44414 | [44414-daikaijuu-monogatari-ii.json](./44414-daikaijuu-monogatari-ii.json) |
 | Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
@@ -323,6 +326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisenryaku Daitoua Kouboushi: Tora Tora Tora Ware Kishuu ni Seikou Seri | 140284 | [140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json](./140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json) |
+| Daisenryaku Expert | 44421 | [44421-daisenryaku-expert.json](./44421-daisenryaku-expert.json) |
+| Daisenryaku Expert WWII: War in Europe | 44420 | [44420-daisenryaku-expert-wwii-war-in-europe.json](./44420-daisenryaku-expert-wwii-war-in-europe.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
@@ -2833,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Agony Aunt | 173073 | [173073-dear-agony-aunt.json](./173073-dear-agony-aunt.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
+| Dear Boys | 44419 | [44419-dear-boys.json](./44419-dear-boys.json) |
 | Dear Boys: Fast Break! | 334860 | [334860-dear-boys-fast-break.json](./334860-dear-boys-fast-break.json) |
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Brother | 264790 | [264790-dear-brother.json](./264790-dear-brother.json) |
@@ -3905,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekiai Heart Candy Kun. | 327899 | [327899-dekiai-heart-candy-kun.json](./327899-dekiai-heart-candy-kun.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
+| Dekitate High School | 44418 | [44418-dekitate-high-school.json](./44418-dekitate-high-school.json) |
 | Dekitayo Mama! Mitsugo no Kuma-San - Onna no Ko | 124664 | [124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json](./124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
 | Dekonstrukt | 148132 | [148132-dekonstrukt.json](./148132-dekonstrukt.json) |
@@ -4605,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Jockey: Kishou he no Michi | 60463 | [60463-derby-jockey-kishou-he-no-michi.json](./60463-derby-jockey-kishou-he-no-michi.json) |
+| Derby Jockey: Kishu-ou he no Michi | 44417 | [44417-derby-jockey-kishu-ou-he-no-michi.json](./44417-derby-jockey-kishu-ou-he-no-michi.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Musou | 61544 | [61544-derby-musou.json](./61544-derby-musou.json) |
 | Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
