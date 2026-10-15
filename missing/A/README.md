@@ -8434,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
+| Arcadia Saga | 67189 | [67189-arcadia-saga.json](./67189-arcadia-saga.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
