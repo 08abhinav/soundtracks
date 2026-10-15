@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
+| The Black Glove | 61530 | [61530-the-black-glove.json](./61530-the-black-glove.json) |
 | The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
 | The Black Hole | 93483 | [93483-the-black-hole.json](./93483-the-black-hole.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
@@ -9668,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
+| The Next Penelope: Race to Odysseus | 61538 | [61538-the-next-penelope-race-to-odysseus.json](./61538-the-next-penelope-race-to-odysseus.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
@@ -13729,6 +13731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
+| Thorium Wars: Attack of the Skyfighter | 61511 | [61511-thorium-wars-attack-of-the-skyfighter.json](./61511-thorium-wars-attack-of-the-skyfighter.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
@@ -15999,6 +16002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
+| Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
 | Tiny Hell | 373069 | [373069-tiny-hell.json](./373069-tiny-hell.json) |
@@ -20730,6 +20734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
+| Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
 | Treasures of Persia | 416187 | [416187-treasures-of-persia.json](./416187-treasures-of-persia.json) |
 | Treasures of the Aegan | 169239 | [169239-treasures-of-the-aegan.json](./169239-treasures-of-the-aegan.json) |
