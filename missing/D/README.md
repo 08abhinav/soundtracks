@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
+| Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
@@ -4726,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
+| Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
 | Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
@@ -5069,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
+| Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
 | Destiny: The Taken King - Digital Collector's Edition | 118881 | [118881-destiny-the-taken-king-digital-collectors-edition.json](./118881-destiny-the-taken-king-digital-collectors-edition.json) |
 | Destiny: World Domination From Stone Age to Space Age | 51363 | [51363-destiny-world-domination-from-stone-age-to-space-age.json](./51363-destiny-world-domination-from-stone-age-to-space-age.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
@@ -5124,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
+| Destruction Derby | 1168 | [1168-destruction-derby.json](./1168-destruction-derby.json) |
 | Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
