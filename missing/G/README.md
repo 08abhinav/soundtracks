@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geras | 301883 | [301883-geras.json](./301883-geras.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
+| Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
@@ -7682,6 +7683,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guren | 79784 | [79784-guren.json](./79784-guren.json) |
 | Gurgosus Wunderbar | 124718 | [124718-gurgosus-wunderbar.json](./124718-gurgosus-wunderbar.json) |
 | Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
+| Gurk | 19115 | [19115-gurk.json](./19115-gurk.json) |
+| Gurk II | 19125 | [19125-gurk-ii.json](./19125-gurk-ii.json) |
+| Gurk III | 19126 | [19126-gurk-iii.json](./19126-gurk-iii.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
 | Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
