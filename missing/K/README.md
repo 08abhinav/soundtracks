@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 297322 | [297322-karsus.json](./297322-karsus.json) |
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
+| Kart Attack | 52533 | [52533-kart-attack.json](./52533-kart-attack.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
+| King Oddball Ends the World | 52532 | [52532-king-oddball-ends-the-world.json](./52532-king-oddball-ends-the-world.json) |
 | King of Avalon | 265517 | [265517-king-of-avalon.json](./265517-king-of-avalon.json) |
 | King of Avalon: Dragon Warfare | 74962 | [74962-king-of-avalon-dragon-warfare.json](./74962-king-of-avalon-dragon-warfare.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
@@ -3335,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS 2010 Nendo-ban | 124528 | [124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json](./124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
+| Kodoku | 52531 | [52531-kodoku.json](./52531-kodoku.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | Kodomo Chousadan Mighty Pockets | 134461 | [134461-kodomo-chousadan-mighty-pockets.json](./134461-kodomo-chousadan-mighty-pockets.json) |
 | Kodomo Chousadan Mighty Pockets: Chousa 1 - Junk-ya Black no Ie | 179964 | [179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json](./179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json) |
@@ -4064,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
+| Kung-Fu Live | 52530 | [52530-kung-fu-live.json](./52530-kung-fu-live.json) |
 | Kung-Fu Master | 214459 | [214459-kung-fu-master.json](./214459-kung-fu-master.json) |
 | Kung-Fu Master | 214460 | [214460-kung-fu-master.json](./214460-kung-fu-master.json) |
 | Kung-Fu Master | 214461 | [214461-kung-fu-master.json](./214461-kung-fu-master.json) |
