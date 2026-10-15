@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
 | Manorvania | 178894 | [178894-manorvania.json](./178894-manorvania.json) |
 | Manos - The Revenge of Torgo | 50379 | [50379-manos-the-revenge-of-torgo.json](./50379-manos-the-revenge-of-torgo.json) |
+| Manos: Hands of Fate | 47095 | [47095-manos-hands-of-fate.json](./47095-manos-hands-of-fate.json) |
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
@@ -11319,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 3 | 320462 | [320462-moorhuhn-jump-and-run-traps-and-treasures-3.json](./320462-moorhuhn-jump-and-run-traps-and-treasures-3.json) |
+| Moorhuhn Kart | 47070 | [47070-moorhuhn-kart.json](./47070-moorhuhn-kart.json) |
 | Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
