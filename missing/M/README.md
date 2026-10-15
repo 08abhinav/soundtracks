@@ -6330,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
+| Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
 | Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
@@ -14439,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
+| Mystereet: Fukagyaku Sekai no Tantei Shinshi | 61540 | [61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json](./61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json) |
 | Mystereet: Other Side of Church | 122856 | [122856-mystereet-other-side-of-church.json](./122856-mystereet-other-side-of-church.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
