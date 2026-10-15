@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
+| Hachoo! | 40065 | [40065-hachoo.json](./40065-hachoo.json) |
 | Hack | 171890 | [171890-hack.json](./171890-hack.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
+| High Impact Football | 40061 | [40061-high-impact-football.json](./40061-high-impact-football.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
@@ -5132,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
+| High Way Race | 40060 | [40060-high-way-race.json](./40060-high-way-race.json) |
 | High Way Star | 41804 | [41804-high-way-star.json](./41804-high-way-star.json) |
 | High/Low 2 | 263417 | [263417-high-low-2.json](./263417-high-low-2.json) |
 | High/Low 5 | 263414 | [263414-high-low-5.json](./263414-high-low-5.json) |
@@ -6665,10 +6668,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
+| Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
+| Hopping Mappy | 40056 | [40056-hopping-mappy.json](./40056-hopping-mappy.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
@@ -7109,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
 | Hot Sento Girls and love | 208869 | [208869-hot-sento-girls-and-love.json](./208869-hot-sento-girls-and-love.json) |
+| Hot Shocker | 40055 | [40055-hot-shocker.json](./40055-hot-shocker.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
@@ -8268,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
 | Husker | 342584 | [342584-husker.json](./342584-husker.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
+| Hustle | 40054 | [40054-hustle.json](./40054-hustle.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
