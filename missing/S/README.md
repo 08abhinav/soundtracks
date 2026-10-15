@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
+| Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
@@ -6728,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick | 168694 | [168694-sick.json](./168694-sick.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
+| Sick City | 55007 | [55007-sick-city.json](./55007-sick-city.json) |
 | Sick Coaster | 82321 | [82321-sick-coaster.json](./82321-sick-coaster.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
 | Sick Love | 179080 | [179080-sick-love.json](./179080-sick-love.json) |
@@ -15284,6 +15286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
+| Spookyman | 54951 | [54951-spookyman.json](./54951-spookyman.json) |
 | Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
 | Spookytale | 331934 | [331934-spookytale.json](./331934-spookytale.json) |
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
@@ -22820,6 +22823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
+| Superluminal Vagrant Twin | 54961 | [54961-superluminal-vagrant-twin.json](./54961-superluminal-vagrant-twin.json) |
 | Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
 | SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
