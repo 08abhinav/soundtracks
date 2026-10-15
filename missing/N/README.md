@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
+| Namco Classic Collection Vol. 1 | 72575 | [72575-namco-classic-collection-vol-1.json](./72575-namco-classic-collection-vol-1.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune: Arena FPS | 30468 | [30468-neptune-arena-fps.json](./30468-neptune-arena-fps.json) |
 | Neptune's Daughters | 40958 | [40958-neptunes-daughters.json](./40958-neptunes-daughters.json) |
 | Neptune's Garden | 231340 | [231340-neptunes-garden.json](./231340-neptunes-garden.json) |
+| Neptune's Nasties | 72545 | [72545-neptunes-nasties.json](./72545-neptunes-nasties.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
@@ -2691,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
+| Nick Bounty: The Goat in the Grey Fedora | 72541 | [72541-nick-bounty-the-goat-in-the-grey-fedora.json](./72541-nick-bounty-the-goat-in-the-grey-fedora.json) |
 | Nick Bounty: The Goat in the Grey Fedora - Remastered | 212968 | [212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json](./212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
 | Nick Carter: Il Mistero del Tesoro Degli Incaz! | 77186 | [77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json](./77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json) |
