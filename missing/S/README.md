@@ -3688,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
 | Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
+| Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
@@ -14907,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit: Stallion of the Cimarron | 49257 | [49257-spirit-stallion-of-the-cimarron.json](./49257-spirit-stallion-of-the-cimarron.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
+| Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
@@ -15610,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro the Dragon 8 | 253357 | [253357-spyro-the-dragon-8.json](./253357-spyro-the-dragon-8.json) |
 | Spyro the Dragon: Cavern Escape | 350059 | [350059-spyro-the-dragon-cavern-escape.json](./350059-spyro-the-dragon-cavern-escape.json) |
+| Spyro the Dragon: Wings of Fury | 61505 | [61505-spyro-the-dragon-wings-of-fury.json](./61505-spyro-the-dragon-wings-of-fury.json) |
 | Spyro: A Hero's Tail | 1580 | [1580-spyro-a-heros-tail.json](./1580-spyro-a-heros-tail.json) |
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
@@ -24188,6 +24191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
+| SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
