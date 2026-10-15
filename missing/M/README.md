@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
+| Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Superstar Baseball Fantasy League | 342262 | [342262-mario-superstar-baseball-fantasy-league.json](./342262-mario-superstar-baseball-fantasy-league.json) |
 | Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
+| Mario Teaches Typing 2 | 46445 | [46445-mario-teaches-typing-2.json](./46445-mario-teaches-typing-2.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
 | Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
@@ -4869,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Merchants - A historical trading simulation | 95298 | [95298-medieval-merchants-a-historical-trading-simulation.json](./95298-medieval-merchants-a-historical-trading-simulation.json) |
 | Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
+| Medieval Mystery Match | 46473 | [46473-medieval-mystery-match.json](./46473-medieval-mystery-match.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Pathfinder | 336050 | [336050-medieval-pathfinder.json](./336050-medieval-pathfinder.json) |
 | Medieval Playground | 33708 | [33708-medieval-playground.json](./33708-medieval-playground.json) |
@@ -7419,6 +7422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
 | Microspace Invaders | 97442 | [97442-microspace-invaders.json](./97442-microspace-invaders.json) |
+| MicroSpy | 46486 | [46486-microspy.json](./46486-microspy.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
