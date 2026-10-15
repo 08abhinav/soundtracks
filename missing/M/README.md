@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Michikusa Ibun | 146652 | [146652-madou-monogatari-michikusa-ibun.json](./146652-madou-monogatari-michikusa-ibun.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
+| Madou Senki: Deep Dungeon | 41232 | [41232-madou-senki-deep-dungeon.json](./41232-madou-senki-deep-dungeon.json) |
 | Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaflora | 280704 | [280704-metaflora.json](./280704-metaflora.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
+| Metagalactic Llamas Battle at the Edge of Time | 41188 | [41188-metagalactic-llamas-battle-at-the-edge-of-time.json](./41188-metagalactic-llamas-battle-at-the-edge-of-time.json) |
 | Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
 | MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
@@ -10307,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
+| Monkey Business | 41198 | [41198-monkey-business.json](./41198-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
 | Monkey Doo | 234551 | [234551-monkey-doo.json](./234551-monkey-doo.json) |
@@ -10519,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
+| Monster Block | 41193 | [41193-monster-block.json](./41193-monster-block.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
