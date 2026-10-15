@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Parigami | 256182 | [256182-parigami.json](./256182-parigami.json) |
+| Parigi Dakar | 69767 | [69767-parigi-dakar.json](./69767-parigi-dakar.json) |
 | Parina's Demon Lair Adventure | 310130 | [310130-parinas-demon-lair-adventure.json](./310130-parinas-demon-lair-adventure.json) |
 | Paris 1313: The Mystery of Notre-Dame Cathedral | 71411 | [71411-paris-1313-the-mystery-of-notre-dame-cathedral.json](./71411-paris-1313-the-mystery-of-notre-dame-cathedral.json) |
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
+| Pesco | 69748 | [69748-pesco.json](./69748-pesco.json) |
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pesky Humans | 169912 | [169912-pesky-humans.json](./169912-pesky-humans.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
