@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Engaged: Comanche vs Hokum | 20374 | [20374-enemy-engaged-comanche-vs-hokum.json](./20374-enemy-engaged-comanche-vs-hokum.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
+| Enemy Infestation | 52526 | [52526-enemy-infestation.json](./52526-enemy-infestation.json) |
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy Mind | 17157 | [17157-enemy-mind.json](./17157-enemy-mind.json) |
