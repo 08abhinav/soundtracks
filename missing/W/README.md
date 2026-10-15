@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
+| Wasps! | 31654 | [31654-wasps.json](./31654-wasps.json) |
 | Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
 | Why I Don't Have a Country Any More | 350557 | [350557-why-i-dont-have-a-country-any-more.json](./350557-why-i-dont-have-a-country-any-more.json) |
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
+| Why is the Princess in a Magic Forest?! | 31577 | [31577-why-is-the-princess-in-a-magic-forest.json](./31577-why-is-the-princess-in-a-magic-forest.json) |
 | Why Is There A Girl In My House?! | 128418 | [128418-why-is-there-a-girl-in-my-house.json](./128418-why-is-there-a-girl-in-my-house.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
 | Why Jeff | 183297 | [183297-why-jeff.json](./183297-why-jeff.json) |
