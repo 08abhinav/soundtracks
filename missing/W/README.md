@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendigo's Outside | 341525 | [341525-wendigos-outside.json](./341525-wendigos-outside.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
+| Wendy: Every Witch Way | 49855 | [49855-wendy-every-witch-way.json](./49855-wendy-every-witch-way.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
