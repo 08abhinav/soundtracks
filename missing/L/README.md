@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava Pool | 108031 | [108031-lava-pool.json](./108031-lava-pool.json) |
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
 | Lava Runner | 184899 | [184899-lava-runner.json](./184899-lava-runner.json) |
+| Lava Rush | 60472 | [60472-lava-rush.json](./60472-lava-rush.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | LavaCat | 77413 | [77413-lavacat.json](./77413-lavacat.json) |
 | LavaCat Fly | 77415 | [77415-lavacat-fly.json](./77415-lavacat-fly.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Picnic | 412806 | [412806-little-picnic.json](./412806-little-picnic.json) |
 | Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
+| Little Pink Best Buds | 60439 | [60439-little-pink-best-buds.json](./60439-little-pink-best-buds.json) |
 | Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
