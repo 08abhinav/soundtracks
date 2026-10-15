@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Hours to Die | 146790 | [146790-12-hours-to-die.json](./146790-12-hours-to-die.json) |
+| 12 is Better than 6 | 14688 | [14688-12-is-better-than-6.json](./14688-12-is-better-than-6.json) |
 | 12 Labors | 134998 | [134998-12-labors.json](./134998-12-labors.json) |
 | 12 Labours of Hercules | 35932 | [35932-12-labours-of-hercules.json](./35932-12-labours-of-hercules.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
