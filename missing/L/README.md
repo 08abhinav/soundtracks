@@ -6425,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
 | Ludo XXL | 173136 | [173136-ludo-xxl.json](./173136-ludo-xxl.json) |
 | Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
+| Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminleaf Chronicles | 301068 | [301068-luminleaf-chronicles.json](./301068-luminleaf-chronicles.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
+| Luminoso | 35410 | [35410-luminoso.json](./35410-luminoso.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
 | Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
