@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
+| VBS3 | 60994 | [60994-vbs3.json](./60994-vbs3.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
 | VCB: Why City - The Ballad Of Drunk Khovansky | 69510 | [69510-vcb-why-city-the-ballad-of-drunk-khovansky.json](./69510-vcb-why-city-the-ballad-of-drunk-khovansky.json) |
 | VCB: Why City 4k | 116467 | [116467-vcb-why-city-4k.json](./116467-vcb-why-city-4k.json) |
