@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Dodger: The Hidden Cargo | 242039 | [242039-captain-dodger-the-hidden-cargo.json](./242039-captain-dodger-the-hidden-cargo.json) |
+| Captain Dynamo | 11990 | [11990-captain-dynamo.json](./11990-captain-dynamo.json) |
 | Captain Earth: Mind Labyrinth | 60987 | [60987-captain-earth-mind-labyrinth.json](./60987-captain-earth-mind-labyrinth.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
 | Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
+| Captain Planet and the Planeteers | 11991 | [11991-captain-planet-and-the-planeteers.json](./11991-captain-planet-and-the-planeteers.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
@@ -2023,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
 | Carved Out | 251724 | [251724-carved-out.json](./251724-carved-out.json) |
 | Carvival | 271650 | [271650-carvival.json](./271650-carvival.json) |
+| CarVup | 11993 | [11993-carvup.json](./11993-carvup.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
@@ -2277,6 +2280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
+| Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
+| Castle Master II: The Crypt | 11995 | [11995-castle-master-ii-the-crypt.json](./11995-castle-master-ii-the-crypt.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
 | Castle Nevermore | 274154 | [274154-castle-nevermore.json](./274154-castle-nevermore.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
@@ -3469,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
+| Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
 | Centipede | 151643 | [151643-centipede.json](./151643-centipede.json) |
@@ -3733,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion of the Raj | 11998 | [11998-champion-of-the-raj.json](./11998-champion-of-the-raj.json) |
 | Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
@@ -4625,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
+| Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
@@ -5690,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Cats | 348886 | [348886-chubby-cats.json](./348886-chubby-cats.json) |
 | Chubby Cherub | 48031 | [48031-chubby-cherub.json](./48031-chubby-cherub.json) |
+| Chubby Gristle | 12002 | [12002-chubby-gristle.json](./12002-chubby-gristle.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
 | Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
@@ -5959,10 +5968,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
+| Circus Attractions | 12003 | [12003-circus-attractions.json](./12003-circus-attractions.json) |
 | Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
+| Circus Games | 12004 | [12004-circus-games.json](./12004-circus-games.json) |
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
@@ -5982,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
+| Cisco Heat | 12005 | [12005-cisco-heat.json](./12005-cisco-heat.json) |
 | Citadale Resurrection | 234583 | [234583-citadale-resurrection.json](./234583-citadale-resurrection.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
@@ -6371,6 +6383,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivWorld | 58121 | [58121-civworld.json](./58121-civworld.json) |
 | Ciying | 284265 | [284265-ciying.json](./284265-ciying.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| CJ in the USA | 12006 | [12006-cj-in-the-usa.json](./12006-cj-in-the-usa.json) |
+| CJ's Elephant Antics | 12007 | [12007-cjs-elephant-antics.json](./12007-cjs-elephant-antics.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
@@ -8921,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
+| Conan the Cimmerian | 12009 | [12009-conan-the-cimmerian.json](./12009-conan-the-cimmerian.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conan: Hall of Volta | 25820 | [25820-conan-hall-of-volta.json](./25820-conan-hall-of-volta.json) |
@@ -10031,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
+| Corruption | 12012 | [12012-corruption.json](./12012-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
@@ -11673,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
 | Crime Car Driving Simulator | 68531 | [68531-crime-car-driving-simulator.json](./68531-crime-car-driving-simulator.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
+| Crime City | 12016 | [12016-crime-city.json](./12016-crime-city.json) |
 | Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
@@ -11705,6 +11722,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Solitaire 2: The Smoking Gun | 22125 | [22125-crime-solitaire-2-the-smoking-gun.json](./22125-crime-solitaire-2-the-smoking-gun.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
+| Crime Time | 12017 | [12017-crime-time.json](./12017-crime-time.json) |
+| Crime Wave | 12018 | [12018-crime-wave.json](./12018-crime-wave.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | Crime Zone | 262240 | [262240-crime-zone.json](./262240-crime-zone.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
@@ -12668,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Defense | 120683 | [120683-crystal-defense.json](./120683-crystal-defense.json) |
+| Crystal Dragon | 12019 | [12019-crystal-dragon.json](./12019-crystal-dragon.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
 | Crystal Eyes | 291887 | [291887-crystal-eyes.json](./291887-crystal-eyes.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
@@ -12687,6 +12707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
+| Crystal Kingdom Dizzy | 12020 | [12020-crystal-kingdom-dizzy.json](./12020-crystal-kingdom-dizzy.json) |
 | Crystal Kingdom Dizzy 2017 | 45238 | [45238-crystal-kingdom-dizzy-2017.json](./45238-crystal-kingdom-dizzy-2017.json) |
 | Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
@@ -13859,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
+| Cybercon III | 12023 | [12023-cybercon-iii.json](./12023-cybercon-iii.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
