@@ -1456,6 +1456,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
+| Fantasy Mosaics 17: New Palette | 38777 | [38777-fantasy-mosaics-17-new-palette.json](./38777-fantasy-mosaics-17-new-palette.json) |
+| Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
 | Fantasy Mosaics 21: On the Movie Set | 86398 | [86398-fantasy-mosaics-21-on-the-movie-set.json](./86398-fantasy-mosaics-21-on-the-movie-set.json) |
 | Fantasy Mosaics 22: Summer Vacation | 86399 | [86399-fantasy-mosaics-22-summer-vacation.json](./86399-fantasy-mosaics-22-summer-vacation.json) |
