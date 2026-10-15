@@ -9477,7 +9477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Headlights! | 181066 | [181066-control-headlights.json](./181066-control-headlights.json) |
 | Control Monger | 300497 | [300497-control-monger.json](./300497-control-monger.json) |
 | Control Over | 150437 | [150437-control-over.json](./150437-control-over.json) |
-| Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
