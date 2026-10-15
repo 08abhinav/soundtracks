@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Overdrive | 342206 | [342206-neon-overdrive.json](./342206-neon-overdrive.json) |
 | Neon Overdrive | 361857 | [361857-neon-overdrive.json](./361857-neon-overdrive.json) |
+| Neon Paddles | 68558 | [68558-neon-paddles.json](./68558-neon-paddles.json) |
 | Neon Paddles: Revenge of the Ball | 372140 | [372140-neon-paddles-revenge-of-the-ball.json](./372140-neon-paddles-revenge-of-the-ball.json) |
 | Neon Parasite | 139347 | [139347-neon-parasite.json](./139347-neon-parasite.json) |
 | Neon Parkour | 154919 | [154919-neon-parkour.json](./154919-neon-parkour.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
+| No Frills Cross Sums | 68559 | [68559-no-frills-cross-sums.json](./68559-no-frills-cross-sums.json) |
 | No Frills Sudoku | 70619 | [70619-no-frills-sudoku.json](./70619-no-frills-sudoku.json) |
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
@@ -5037,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Land | 188961 | [188961-nuke-land.json](./188961-nuke-land.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
+| Nuke Your Neighbor | 68535 | [68535-nuke-your-neighbor.json](./68535-nuke-your-neighbor.json) |
 | Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
 | Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
