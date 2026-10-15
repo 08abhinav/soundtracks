@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
+| Tesla's Electric Mist | 70897 | [70897-teslas-electric-mist.json](./70897-teslas-electric-mist.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Tesla8 | 95985 | [95985-tesla8.json](./95985-tesla8.json) |
 | Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
 | The Great Tsunami | 180662 | [180662-the-great-tsunami.json](./180662-the-great-tsunami.json) |
 | The Great Unborn | 156723 | [156723-the-great-unborn.json](./156723-the-great-unborn.json) |
+| The Great Unknown: Houdini's Castle | 70898 | [70898-the-great-unknown-houdinis-castle.json](./70898-the-great-unknown-houdinis-castle.json) |
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
 | The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
 | The Great Voyage | 109363 | [109363-the-great-voyage.json](./109363-the-great-voyage.json) |
@@ -9237,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
+| The Mean Checkers Machine 2 | 70841 | [70841-the-mean-checkers-machine-2.json](./70841-the-mean-checkers-machine-2.json) |
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
 | The Mean Green 2 | 263416 | [263416-the-mean-green-2.json](./263416-the-mean-green-2.json) |
@@ -9489,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
+| The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
 | The Murder of Dale Decker | 290105 | [290105-the-murder-of-dale-decker.json](./290105-the-murder-of-dale-decker.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
@@ -15951,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
+| Tiny Hope | 70895 | [70895-tiny-hope.json](./70895-tiny-hope.json) |
 | Tiny House | 182858 | [182858-tiny-house.json](./182858-tiny-house.json) |
 | Tiny House Finds | 383676 | [383676-tiny-house-finds.json](./383676-tiny-house-finds.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
@@ -17003,6 +17008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
+| Tomb of Doom | 70873 | [70873-tomb-of-doom.json](./70873-tomb-of-doom.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Friends + | 114280 | [114280-tomb-of-friends.json](./114280-tomb-of-friends.json) |
@@ -17165,6 +17171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
+| Tonari ni Kanojo no Iru Shiawase: Two Farce | 70892 | [70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json](./70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
 | Tonari no My Teacher | 98017 | [98017-tonari-no-my-teacher.json](./98017-tonari-no-my-teacher.json) |
