@@ -3342,6 +3342,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Magician Clicker | 107106 | [107106-lightning-magician-clicker.json](./107106-lightning-magician-clicker.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
+| Lightning Returns: Final Fantasy XIII - Collector's Edition | 41833 | [41833-lightning-returns-final-fantasy-xiii-collectors-edition.json](./41833-lightning-returns-final-fantasy-xiii-collectors-edition.json) |
+| Lightning Returns: Final Fantasy XIII - Steelbook Edition | 41838 | [41838-lightning-returns-final-fantasy-xiii-steelbook-edition.json](./41838-lightning-returns-final-fantasy-xiii-steelbook-edition.json) |
+| Lightning Returns: Final Fantasy XIII - Target Steelbook Edition | 41837 | [41837-lightning-returns-final-fantasy-xiii-target-steelbook-edition.json](./41837-lightning-returns-final-fantasy-xiii-target-steelbook-edition.json) |
 | Lightning Swords | 46757 | [46757-lightning-swords.json](./46757-lightning-swords.json) |
 | Lightning Wings II | 123482 | [123482-lightning-wings-ii.json](./123482-lightning-wings-ii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
