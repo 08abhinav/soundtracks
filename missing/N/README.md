@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Kakutou Densetsu | 191679 | [191679-nekketsu-kakutou-densetsu.json](./191679-nekketsu-kakutou-densetsu.json) |
 | Nekketsu Kouha Kunio-kun | 40969 | [40969-nekketsu-kouha-kunio-kun.json](./40969-nekketsu-kouha-kunio-kun.json) |
 | Nekketsu Kouha Kunio-kun Special | 86385 | [86385-nekketsu-kouha-kunio-kun-special.json](./86385-nekketsu-kouha-kunio-kun-special.json) |
+| Nekketsu Kouha Kunio-kun TD | 62624 | [62624-nekketsu-kouha-kunio-kun-td.json](./62624-nekketsu-kouha-kunio-kun-td.json) |
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
