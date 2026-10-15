@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's A-to-Zoo Adventure the Videogame | 47920 | [47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json](./47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
+| Sesame Street: Elmo's Letter Adventure | 10611 | [10611-sesame-street-elmos-letter-adventure.json](./10611-sesame-street-elmos-letter-adventure.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
+| Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
