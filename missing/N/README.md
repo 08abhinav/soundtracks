@@ -5003,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Nick | 125891 | [125891-nuclear-nick.json](./125891-nuclear-nick.json) |
 | Nuclear Nightmare | 297163 | [297163-nuclear-nightmare.json](./297163-nuclear-nightmare.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
+| Nuclear Pizza War | 63200 | [63200-nuclear-pizza-war.json](./63200-nuclear-pizza-war.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
 | Nuclear Power Station Creator | 111595 | [111595-nuclear-power-station-creator.json](./111595-nuclear-power-station-creator.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Land | 188961 | [188961-nuke-land.json](./188961-nuke-land.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
+| Nuke the Dinosaurs Blueprint Prototype | 63197 | [63197-nuke-the-dinosaurs-blueprint-prototype.json](./63197-nuke-the-dinosaurs-blueprint-prototype.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
 | Nuke Your Neighbor | 68535 | [68535-nuke-your-neighbor.json](./68535-nuke-your-neighbor.json) |
 | Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
