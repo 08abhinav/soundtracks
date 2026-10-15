@@ -8993,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: All-American Racing | 159174 | [159174-full-throttle-all-american-racing.json](./159174-full-throttle-all-american-racing.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
+| Full Tilt Poker | 33940 | [33940-full-tilt-poker.json](./33940-full-tilt-poker.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Full Void: Special Edition | 260078 | [260078-full-void-special-edition.json](./260078-full-void-special-edition.json) |
