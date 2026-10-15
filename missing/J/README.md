@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
 | Jane's Realty | 34154 | [34154-janes-realty.json](./34154-janes-realty.json) |
+| Jane's USAF | 71409 | [71409-janes-usaf.json](./71409-janes-usaf.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
