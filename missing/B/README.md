@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
 | Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
+| Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
@@ -9700,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
+| Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Booster | 206480 | [206480-brain-booster.json](./206480-brain-booster.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
@@ -9882,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
+| Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
@@ -11409,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
+| Build-A-Bear Workshop | 47811 | [47811-build-a-bear-workshop.json](./47811-build-a-bear-workshop.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
