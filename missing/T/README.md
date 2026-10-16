@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
+| Tac-Scan | 18667 | [18667-tac-scan.json](./18667-tac-scan.json) |
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crow | 315684 | [315684-the-crow.json](./315684-the-crow.json) |
 | The Crow: City of Angels | 8538 | [8538-the-crow-city-of-angels.json](./8538-the-crow-city-of-angels.json) |
+| The Crow's Eye | 6730 | [6730-the-crows-eye.json](./6730-the-crows-eye.json) |
 | The Crow's Eye: Deluxe Edition | 187854 | [187854-the-crows-eye-deluxe-edition.json](./187854-the-crows-eye-deluxe-edition.json) |
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
@@ -9254,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Episodes | 276387 | [276387-the-lost-episodes.json](./276387-the-lost-episodes.json) |
 | The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
 | The Lost Fear | 273992 | [273992-the-lost-fear.json](./273992-the-lost-fear.json) |
+| The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo | 6762 | [6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json](./6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json) |
 | The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel | 4316 | [4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json](./4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
@@ -14250,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
+| Threshold | 18477 | [18477-threshold.json](./18477-threshold.json) |
 | Threshold | 202336 | [202336-threshold.json](./202336-threshold.json) |
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
