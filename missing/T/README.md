@@ -6443,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Falconeer: Revolution Remaster | 121709 | [121709-the-falconeer-revolution-remaster.json](./121709-the-falconeer-revolution-remaster.json) |
 | The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
+| The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
@@ -7191,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
+| The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
@@ -10160,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
 | The Oni Taiji: Mezase! Nidaime Momotarou | 257855 | [257855-the-oni-taiji-mezase-nidaime-momotarou.json](./257855-the-oni-taiji-mezase-nidaime-momotarou.json) |
+| The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
@@ -14282,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: Shu-han Chronicles | 345028 | [345028-three-kingdoms-shu-han-chronicles.json](./345028-three-kingdoms-shu-han-chronicles.json) |
 | Three Kingdoms: The Blood Moon | 290842 | [290842-three-kingdoms-the-blood-moon.json](./290842-three-kingdoms-the-blood-moon.json) |
+| Three Kingdoms: The Last Warlord | 29826 | [29826-three-kingdoms-the-last-warlord.json](./29826-three-kingdoms-the-last-warlord.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Kingdoms: Zhuge Liang | 311712 | [311712-three-kingdoms-zhuge-liang.json](./311712-three-kingdoms-zhuge-liang.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
@@ -22062,6 +22066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Pacifica | 331288 | [331288-trouble-in-pacifica.json](./331288-trouble-in-pacifica.json) |
 | Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
+| Trouble in the Manor | 28577 | [28577-trouble-in-the-manor.json](./28577-trouble-in-the-manor.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
