@@ -3638,7 +3638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
-| Gnog | 26102 | [26102-gnog.json](./26102-gnog.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
@@ -7076,7 +7075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: End of Dragons - Deluxe Edition | 161181 | [161181-guild-wars-2-end-of-dragons-deluxe-edition.json](./161181-guild-wars-2-end-of-dragons-deluxe-edition.json) |
-| Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Heart of Thorns - Deluxe Edition | 53067 | [53067-guild-wars-2-heart-of-thorns-deluxe-edition.json](./53067-guild-wars-2-heart-of-thorns-deluxe-edition.json) |
 | Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
