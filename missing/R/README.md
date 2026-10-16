@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
+| Rats Invasion 3 - Physics Puzzle Game | 87203 | [87203-rats-invasion-3-physics-puzzle-game.json](./87203-rats-invasion-3-physics-puzzle-game.json) |
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
+| Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
 | Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
