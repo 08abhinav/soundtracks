@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:42:07.852Z",
-  "total_soundtracks": 1911,
+  "generated_at": "2026-10-16T14:42:23.433Z",
+  "total_soundtracks": 1912,
   "games": [
     {
       "igdb_id": 7522,
@@ -12959,6 +12959,20 @@
         {
           "album_name": "Mutazione (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1HWxyoTah0smeJHdiLh3K4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27192,
+      "game_name": "My Memory of Us",
+      "game_url": "https://ostdb.net/games/my-memory-of-us",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273441dc3be8d4147bc669ce073",
+      "albums": [
+        {
+          "album_name": "My Memory of Us (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2NQ9b8hBx43M4AzhwQLfxv",
           "apple_music_url": "",
           "album_link_url": ""
         }
