@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
+| Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
@@ -5233,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate | 305469 | [305469-pirate.json](./305469-pirate.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
+| Pirate Adventure | 18512 | [18512-pirate-adventure.json](./18512-pirate-adventure.json) |
 | Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
@@ -12568,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Detective | 209370 | [209370-puzzle-detective.json](./209370-puzzle-detective.json) |
+| Puzzle Dimension | 10263 | [10263-puzzle-dimension.json](./10263-puzzle-dimension.json) |
 | Puzzle Dozer | 107051 | [107051-puzzle-dozer.json](./107051-puzzle-dozer.json) |
 | Puzzle Drop Carnival | 310616 | [310616-puzzle-drop-carnival.json](./310616-puzzle-drop-carnival.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
@@ -12952,6 +12955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Builder | 183276 | [183276-pyramid-builder.json](./183276-pyramid-builder.json) |
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
