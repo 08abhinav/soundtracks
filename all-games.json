@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:46:47.052Z",
-  "total_soundtracks": 1920,
+  "generated_at": "2026-10-16T14:47:01.156Z",
+  "total_soundtracks": 1921,
   "games": [
     {
       "igdb_id": 7522,
@@ -13282,6 +13282,20 @@
           "album_name": "Need for Speed: Underground (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 103319,
+      "game_name": "Neo Cab",
+      "game_url": "https://ostdb.net/games/neo-cab",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27323a815b9bc4e5bb6b07df27f",
+      "albums": [
+        {
+          "album_name": "Neo Cab (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3x2knhsDNvWSf6cXnTJswT",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
