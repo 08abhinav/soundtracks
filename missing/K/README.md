@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
+| Keys of Fury | 356993 | [356993-keys-of-fury.json](./356993-keys-of-fury.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keyspace | 321040 | [321040-keyspace.json](./321040-keyspace.json) |
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
