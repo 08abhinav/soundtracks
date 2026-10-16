@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
+| 1Boss1Battle1Button | 421219 | [421219-1boss1battle1button.json](./421219-1boss1battle1button.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
+| 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
 | 3D Mega Rides Avenger | 56918 | [56918-3d-mega-rides-avenger.json](./56918-3d-mega-rides-avenger.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
 | 3D Miner | 242978 | [242978-3d-miner.json](./242978-3d-miner.json) |
@@ -1643,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tennis | 260858 | [260858-3d-tennis.json](./260858-3d-tennis.json) |
 | 3D Thunder Ceptor II | 146255 | [146255-3d-thunder-ceptor-ii.json](./146255-3d-thunder-ceptor-ii.json) |
 | 3D Tic Tac Toe | 366976 | [366976-3d-tic-tac-toe.json](./366976-3d-tic-tac-toe.json) |
+| 3D Tic-Tac-Toe | 421224 | [421224-3d-tic-tac-toe.json](./421224-3d-tic-tac-toe.json) |
 | 3D Train Studio V9 | 376272 | [376272-3d-train-studio-v9.json](./376272-3d-train-studio-v9.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
