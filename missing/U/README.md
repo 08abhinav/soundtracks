@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League 2006–2007 | 7225 | [7225-uefa-champions-league-2006-2007.json](./7225-uefa-champions-league-2006-2007.json) |
 | UEFA Champions League Season 1999/2000 | 43782 | [43782-uefa-champions-league-season-1999-2000.json](./43782-uefa-champions-league-season-1999-2000.json) |
 | UEFA Champions League Season 2000/2001 | 389035 | [389035-uefa-champions-league-season-2000-2001.json](./389035-uefa-champions-league-season-2000-2001.json) |
+| UEFA Champions League Season 2001/2002 | 22058 | [22058-uefa-champions-league-season-2001-2002.json](./22058-uefa-champions-league-season-2001-2002.json) |
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
