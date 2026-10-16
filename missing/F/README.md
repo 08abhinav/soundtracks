@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Arena | 226347 | [226347-fallen-arena.json](./226347-fallen-arena.json) |
 | Fallen Beast (Project Ora) | 105748 | [105748-fallen-beast-project-ora.json](./105748-fallen-beast-project-ora.json) |
 | Fallen Bird | 101337 | [101337-fallen-bird.json](./101337-fallen-bird.json) |
+| Fallen Blades | 420016 | [420016-fallen-blades.json](./420016-fallen-blades.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
@@ -7655,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| Foxtrot Creamery | 419877 | [419877-foxtrot-creamery.json](./419877-foxtrot-creamery.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
