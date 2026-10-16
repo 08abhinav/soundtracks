@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
 | Beasts & Monsters | 261840 | [261840-beasts-and-monsters.json](./261840-beasts-and-monsters.json) |
+| Beasts Battle | 32398 | [32398-beasts-battle.json](./32398-beasts-battle.json) |
 | Beasts From Beyond | 238622 | [238622-beasts-from-beyond.json](./238622-beasts-from-beyond.json) |
 | Beasts of Bermuda: Archelon Supporter Warpaint | 294936 | [294936-beasts-of-bermuda-archelon-supporter-warpaint.json](./294936-beasts-of-bermuda-archelon-supporter-warpaint.json) |
 | Beasts of Bermuda: Kaprosuchus Supporter Warpaint | 379580 | [379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json](./379580-beasts-of-bermuda-kaprosuchus-supporter-warpaint.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
 | Belly Dance Girl | 367028 | [367028-belly-dance-girl.json](./367028-belly-dance-girl.json) |
+| BellyBots | 32329 | [32329-bellybots.json](./32329-bellybots.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Beloved Nightmare | 267595 | [267595-beloved-nightmare.json](./267595-beloved-nightmare.json) |
@@ -9690,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
+| Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
@@ -10708,6 +10711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
+| Brick Stack VR | 32128 | [32128-brick-stack-vr.json](./32128-brick-stack-vr.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
 | Brick Zone | 64459 | [64459-brick-zone.json](./64459-brick-zone.json) |
 | Brick-Ball | 97437 | [97437-brick-ball.json](./97437-brick-ball.json) |
