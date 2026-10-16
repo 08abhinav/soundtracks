@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
+| A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
 | Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
+| Advanced Dungeons & Dragons: Dragons of Flame | 8602 | [8602-advanced-dungeons-and-dragons-dragons-of-flame.json](./8602-advanced-dungeons-and-dragons-dragons-of-flame.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Dungeons & Dragons: Heroes of the Lance | 8603 | [8603-advanced-dungeons-and-dragons-heroes-of-the-lance.json](./8603-advanced-dungeons-and-dragons-heroes-of-the-lance.json) |
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
@@ -12348,6 +12350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
+| Azada | 6747 | [6747-azada.json](./6747-azada.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
 | Azada: in Libro | 63778 | [63778-azada-in-libro.json](./63778-azada-in-libro.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
