@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
+| Magical Mysteries: Path of the Sorceress | 30714 | [30714-magical-mysteries-path-of-the-sorceress.json](./30714-magical-mysteries-path-of-the-sorceress.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
 | Magical Otoge Anholly | 57905 | [57905-magical-otoge-anholly.json](./57905-magical-otoge-anholly.json) |
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
@@ -2052,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
+| Manastorm | 30709 | [30709-manastorm.json](./30709-manastorm.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manatsu no Zangai | 285385 | [285385-manatsu-no-zangai.json](./285385-manatsu-no-zangai.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
@@ -3081,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Horizon 2: The Search for Life | 244142 | [244142-mars-horizon-2-the-search-for-life.json](./244142-mars-horizon-2-the-search-for-life.json) |
+| Mars Industries | 30778 | [30778-mars-industries.json](./30778-mars-industries.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
@@ -11044,6 +11047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
+| Monster Maze VR | 30772 | [30772-monster-maze-vr.json](./30772-monster-maze-vr.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
 | Monster Memory | 247498 | [247498-monster-memory.json](./247498-monster-memory.json) |
@@ -12940,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Scientist | 295159 | [295159-mr-scientist.json](./295159-mr-scientist.json) |
 | Mr. Semmel | 267838 | [267838-mr-semmel.json](./267838-mr-semmel.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
+| Mr. Shadow | 30760 | [30760-mr-shadow.json](./30760-mr-shadow.json) |
 | Mr. Shifty | 19729 | [19729-mr-shifty.json](./19729-mr-shifty.json) |
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
@@ -13272,6 +13277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch | 304300 | [304300-munch.json](./304300-munch.json) |
+| Munch | 30728 | [30728-munch.json](./30728-munch.json) |
 | Munch Man | 44389 | [44389-munch-man.json](./44389-munch-man.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
