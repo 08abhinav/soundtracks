@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
+| Villages on Wheels | 420496 | [420496-villages-on-wheels.json](./420496-villages-on-wheels.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
 | Villain Boys: Date the Dark Side | 418321 | [418321-villain-boys-date-the-dark-side.json](./418321-villain-boys-date-the-dark-side.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyage to Fantasy | 53151 | [53151-voyage-to-fantasy.json](./53151-voyage-to-fantasy.json) |
 | Voyage to Farland | 35418 | [35418-voyage-to-farland.json](./35418-voyage-to-farland.json) |
+| Voyage Trader | 420482 | [420482-voyage-trader.json](./420482-voyage-trader.json) |
 | Voyage: A Sorceress' Vacation | 146629 | [146629-voyage-a-sorceress-vacation.json](./146629-voyage-a-sorceress-vacation.json) |
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
