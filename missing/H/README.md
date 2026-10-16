@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
 | Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
+| Harvest life | 75078 | [75078-harvest-life.json](./75078-harvest-life.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
 | Harvest Mall | 361644 | [361644-harvest-mall.json](./361644-harvest-mall.json) |
