@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
 | Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
+| Labyrinth of the Demon King | 188867 | [188867-labyrinth-of-the-demon-king.json](./188867-labyrinth-of-the-demon-king.json) |
 | Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
 | LEGO Star Wars: Castaways | 182441 | [182441-lego-star-wars-castaways.json](./182441-lego-star-wars-castaways.json) |
 | LEGO Star Wars: Microfighters | 288100 | [288100-lego-star-wars-microfighters.json](./288100-lego-star-wars-microfighters.json) |
+| LEGO Star Wars: The Complete Saga | 194935 | [194935-lego-star-wars-the-complete-saga.json](./194935-lego-star-wars-the-complete-saga.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
 | LEGO Star Wars: The Force Awakens - Escape From Starkiller Base | 138165 | [138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json](./138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json) |
 | LEGO Star Wars: The Force Awakens - First Order Siege of Takodana | 138164 | [138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json](./138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json) |
