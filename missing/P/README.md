@@ -5719,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
+| Pixel Miner | 423237 | [423237-pixel-miner.json](./423237-pixel-miner.json) |
 | Pixel Miners | 105720 | [105720-pixel-miners.json](./105720-pixel-miners.json) |
 | Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
