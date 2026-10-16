@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
 | Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
+| Taito Legends 2 | 6187 | [6187-taito-legends-2.json](./6187-taito-legends-2.json) |
 | Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
+| Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
@@ -3017,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
+| Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
@@ -13267,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
 | The Watching Woods: The Louse | 385331 | [385331-the-watching-woods-the-louse.json](./385331-the-watching-woods-the-louse.json) |
+| The Watchmaker | 2945 | [2945-the-watchmaker.json](./2945-the-watchmaker.json) |
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
 | The Water Ghost | 179557 | [179557-the-water-ghost.json](./179557-the-water-ghost.json) |
 | The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
@@ -16535,6 +16539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
+| Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
 | Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
@@ -18005,6 +18010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
+| Top Angler: Real Bass Fishing | 4206 | [4206-top-angler-real-bass-fishing.json](./4206-top-angler-real-bass-fishing.json) |
 | Top Banana | 69564 | [69564-top-banana.json](./69564-top-banana.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
