@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:03:00.868Z",
-  "total_soundtracks": 1849,
+  "generated_at": "2026-10-16T06:05:58.835Z",
+  "total_soundtracks": 1850,
   "games": [
     {
       "igdb_id": 7522,
@@ -1320,6 +1320,20 @@
           "album_name": "Assassin's Creed Origins (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1tGG9ggFTIX8LZt8lH9hqF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17783,
+      "game_name": "Assassin's Creed Origins: The Curse of the Pharaohs",
+      "game_url": "https://ostdb.net/games/assassins-creed-origins-the-curse-of-the-pharaohs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27337f9cadbecd10c97bfccb833",
+      "albums": [
+        {
+          "album_name": "Assassin's Creed Origins: The Curse of the Pharaohs (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6FWlbnb3MJaFak5LY5Tlyl",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
