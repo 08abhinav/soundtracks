@@ -9794,7 +9794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
-| The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
