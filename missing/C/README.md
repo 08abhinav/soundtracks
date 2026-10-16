@@ -5954,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
+| Cine Game | 106152 | [106152-cine-game.json](./106152-cine-game.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
@@ -6208,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
 | CitronRapide | 146071 | [146071-citronrapide.json](./146071-citronrapide.json) |
+| Citrouille: Sweet Witches | 106531 | [106531-citrouille-sweet-witches.json](./106531-citrouille-sweet-witches.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | Citrus Summer | 373888 | [373888-citrus-summer.json](./373888-citrus-summer.json) |
@@ -13597,6 +13599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
+| Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
