@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Small Favor | 176929 | [176929-one-small-favor.json](./176929-one-small-favor.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
+| One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
 | One Step From Eden | 111717 | [111717-one-step-from-eden.json](./111717-one-step-from-eden.json) |
 | One Step Further | 348820 | [348820-one-step-further.json](./348820-one-step-further.json) |
