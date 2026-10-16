@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:58:25.314Z",
-  "total_soundtracks": 1840,
+  "generated_at": "2026-10-16T06:01:04.647Z",
+  "total_soundtracks": 1841,
   "games": [
     {
       "igdb_id": 7522,
@@ -759,6 +759,20 @@
         {
           "album_name": "Alto's Odyssey (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6cSKoN9FYxH3tRfM6AkAKE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 74904,
+      "game_name": "Amid Evil",
+      "game_url": "https://ostdb.net/games/amid-evil",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8bc078dc384fb1331c873c6",
+      "albums": [
+        {
+          "album_name": "Amid Evil (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/28gQZQwcBWDcRLELHBvDqA",
           "apple_music_url": "",
           "album_link_url": ""
         }
