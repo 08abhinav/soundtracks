@@ -5904,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
+| The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
@@ -10636,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
 | The Punisher | 307746 | [307746-the-punisher.json](./307746-the-punisher.json) |
+| The Punisher | 4447 | [4447-the-punisher.json](./4447-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
@@ -18258,6 +18260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
+| Total Eclipse | 4347 | [4347-total-eclipse.json](./4347-total-eclipse.json) |
 | Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
