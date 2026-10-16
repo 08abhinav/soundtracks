@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
+| Daisenryaku Perfect 4.0 | 113395 | [113395-daisenryaku-perfect-4-0.json](./113395-daisenryaku-perfect-4-0.json) |
 | Daisenryaku Perfect: Senjou no Hasha | 65049 | [65049-daisenryaku-perfect-senjou-no-hasha.json](./65049-daisenryaku-perfect-senjou-no-hasha.json) |
 | Daisenryaku Portable | 56396 | [56396-daisenryaku-portable.json](./56396-daisenryaku-portable.json) |
 | Daisenryaku Portable 2 | 56397 | [56397-daisenryaku-portable-2.json](./56397-daisenryaku-portable-2.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
+| Darkness and Flame: The Dark Side | 113410 | [113410-darkness-and-flame-the-dark-side.json](./113410-darkness-and-flame-the-dark-side.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
@@ -3528,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 255609 | [255609-deep-dive.json](./255609-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
+| Deep Diving Simulator | 113427 | [113427-deep-diving-simulator.json](./113427-deep-diving-simulator.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Diving VR | 122040 | [122040-deep-diving-vr.json](./122040-deep-diving-vr.json) |
 | Deep Diving VR: Adventure Pack | 227158 | [227158-deep-diving-vr-adventure-pack.json](./227158-deep-diving-vr-adventure-pack.json) |
@@ -5128,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
+| Destiny or Fate | 113311 | [113311-destiny-or-fate.json](./113311-destiny-or-fate.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
@@ -7868,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
+| Dodgeball Simulator VR | 113605 | [113605-dodgeball-simulator-vr.json](./113605-dodgeball-simulator-vr.json) |
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
@@ -9658,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
+| Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
 | Dr. Chaos | 48174 | [48174-dr-chaos.json](./48174-dr-chaos.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
