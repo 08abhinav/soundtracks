@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
+| Heroes Rise: The Hero Project | 17490 | [17490-heroes-rise-the-hero-project.json](./17490-heroes-rise-the-hero-project.json) |
 | Heroes Rush: Tactics | 54093 | [54093-heroes-rush-tactics.json](./54093-heroes-rush-tactics.json) |
 | Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
@@ -6399,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicide Squad: Hidden Crimes | 96323 | [96323-homicide-squad-hidden-crimes.json](./96323-homicide-squad-hidden-crimes.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
+| Homie Rollerz | 21493 | [21493-homie-rollerz.json](./21493-homie-rollerz.json) |
 | Homing | 134979 | [134979-homing.json](./134979-homing.json) |
 | Homing Instinct | 296913 | [296913-homing-instinct.json](./296913-homing-instinct.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
