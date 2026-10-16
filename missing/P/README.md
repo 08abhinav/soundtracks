@@ -7908,6 +7908,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
+| Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
+| Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
@@ -9495,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
+| PowerWash Simulator: SpongeBob SquarePants Special Pack | 250898 | [250898-powerwash-simulator-spongebob-squarepants-special-pack.json](./250898-powerwash-simulator-spongebob-squarepants-special-pack.json) |
 | PowerWash Simulator: The Muckingham Files | 246901 | [246901-powerwash-simulator-the-muckingham-files.json](./246901-powerwash-simulator-the-muckingham-files.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Ultimate Satisfaction Bundle | 361640 | [361640-powerwash-simulator-ultimate-satisfaction-bundle.json](./361640-powerwash-simulator-ultimate-satisfaction-bundle.json) |
