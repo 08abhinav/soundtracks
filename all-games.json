@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:42:06.579Z",
-  "total_soundtracks": 1774,
+  "generated_at": "2026-10-16T05:42:18.639Z",
+  "total_soundtracks": 1775,
   "games": [
     {
       "igdb_id": 7522,
@@ -8671,6 +8671,20 @@
         {
           "album_name": "Hard West (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5AaJEEiXLiq8H8fnSxO2Xb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 130216,
+      "game_name": "Hardspace: Shipbreaker",
+      "game_url": "https://ostdb.net/games/hardspace-shipbreaker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735797e75da04464fc4b638849",
+      "albums": [
+        {
+          "album_name": "Hardspace: Shipbreaker (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6RpXswMAN808e4apXHMlQ2",
           "apple_music_url": "",
           "album_link_url": ""
         }
