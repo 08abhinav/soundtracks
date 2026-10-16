@@ -4580,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
+| Shadow Fight 3 | 68391 | [68391-shadow-fight-3.json](./68391-shadow-fight-3.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Fighter | 5524 | [5524-shadow-fighter.json](./5524-shadow-fighter.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
@@ -5424,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Out Showdown | 148437 | [148437-shell-out-showdown.json](./148437-shell-out-showdown.json) |
 | Shell Racers | 116463 | [116463-shell-racers.json](./116463-shell-racers.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
+| Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
@@ -10621,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
 | Snowboard Kids | 3342 | [3342-snowboard-kids.json](./3342-snowboard-kids.json) |
+| Snowboard Kids 2 | 3343 | [3343-snowboard-kids-2.json](./3343-snowboard-kids-2.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard League | 250822 | [250822-snowboard-league.json](./250822-snowboard-league.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -12305,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
+| Sonic the Hedgehog: Triple Trouble | 19556 | [19556-sonic-the-hedgehog-triple-trouble.json](./19556-sonic-the-hedgehog-triple-trouble.json) |
 | Sonic the Hedgehog: Very Hard Mode | 241881 | [241881-sonic-the-hedgehog-very-hard-mode.json](./241881-sonic-the-hedgehog-very-hard-mode.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
@@ -20614,6 +20618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
+| Summertime Saga | 112257 | [112257-summertime-saga.json](./112257-summertime-saga.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit | 312638 | [312638-summit.json](./312638-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
@@ -22735,6 +22740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer | 235103 | [235103-super-soccer.json](./235103-super-soccer.json) |
 | Super Soccer | 292605 | [292605-super-soccer.json](./292605-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
+| Super Soccer | 77457 | [77457-super-soccer.json](./77457-super-soccer.json) |
 | Super Soccer Blast | 135585 | [135585-super-soccer-blast.json](./135585-super-soccer-blast.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
