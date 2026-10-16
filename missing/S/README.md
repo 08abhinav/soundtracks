@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
+| Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
@@ -8151,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixth Sense Investigations | 22026 | [22026-sixth-sense-investigations.json](./22026-sixth-sense-investigations.json) |
 | Sixth Sun | 297365 | [297365-sixth-sun.json](./297365-sixth-sun.json) |
+| Sixtieth Kilometer | 33359 | [33359-sixtieth-kilometer.json](./33359-sixtieth-kilometer.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
@@ -9042,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
+| Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
@@ -20617,6 +20620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '92 Alzadick | 56374 | [56374-summer-carnival-92-alzadick.json](./56374-summer-carnival-92-alzadick.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
+| Summer Catchers | 106435 | [106435-summer-catchers.json](./106435-summer-catchers.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
