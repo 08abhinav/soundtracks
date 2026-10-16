@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
+| Dark Strokes: The Legend of the Snow Kingdom - Collector's Edition | 81726 | [81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json](./81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json) |
 | Dark Succubus | 417401 | [417401-dark-succubus.json](./417401-dark-succubus.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles I & II | 139183 | [139183-deathsmiles-i-and-ii.json](./139183-deathsmiles-i-and-ii.json) |
 | Deathsmiles I & II: Gothic wa Mahou Otome 5 Characters | 203958 | [203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json](./203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
+| Deathsmiles IIX: Makai no Merry Christmas | 80459 | [80459-deathsmiles-iix-makai-no-merry-christmas.json](./80459-deathsmiles-iix-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathsmiles: Deluxe Edition | 23389 | [23389-deathsmiles-deluxe-edition.json](./23389-deathsmiles-deluxe-edition.json) |
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
