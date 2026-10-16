@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Death on the Nile - Deluxe Edition | 406328 | [406328-agatha-christie-death-on-the-nile-deluxe-edition.json](./406328-agatha-christie-death-on-the-nile-deluxe-edition.json) |
 | Agatha Christie: Evil Under the Sun | 4664 | [4664-agatha-christie-evil-under-the-sun.json](./4664-agatha-christie-evil-under-the-sun.json) |
 | Agatha Christie: Hercule Poirot - The First Cases | 159123 | [159123-agatha-christie-hercule-poirot-the-first-cases.json](./159123-agatha-christie-hercule-poirot-the-first-cases.json) |
+| Agatha Christie: Hercule Poirot - The London Case | 246262 | [246262-agatha-christie-hercule-poirot-the-london-case.json](./246262-agatha-christie-hercule-poirot-the-london-case.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
@@ -11131,6 +11132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Meruru: The Apprentice of Arland DX | 105032 | [105032-atelier-meruru-the-apprentice-of-arland-dx.json](./105032-atelier-meruru-the-apprentice-of-arland-dx.json) |
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
+| Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator | 260817 | [260817-atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator.json](./260817-atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian | 318001 | [318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json](./318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Atelier Series Legacy BGM Pack | 380622 | [380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json](./380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json) |
