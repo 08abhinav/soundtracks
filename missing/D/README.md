@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Enchanting Storybooks | 5187 | [5187-disney-princess-enchanting-storybooks.json](./5187-disney-princess-enchanting-storybooks.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
 | Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
+| Disney Princess: My Fairytale Adventure | 36228 | [36228-disney-princess-my-fairytale-adventure.json](./36228-disney-princess-my-fairytale-adventure.json) |
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Royal Horse Show | 50426 | [50426-disney-princess-royal-horse-show.json](./50426-disney-princess-royal-horse-show.json) |
