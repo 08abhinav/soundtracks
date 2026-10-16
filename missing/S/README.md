@@ -20099,7 +20099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 281343 | [281343-subsurface.json](./281343-subsurface.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
-| Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subtera Puzlo | 300803 | [300803-subtera-puzlo.json](./300803-subtera-puzlo.json) |
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
