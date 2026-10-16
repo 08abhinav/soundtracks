@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:33:33.627Z",
-  "total_soundtracks": 1939,
+  "generated_at": "2026-10-16T19:33:48.399Z",
+  "total_soundtracks": 1940,
   "games": [
     {
       "igdb_id": 7522,
@@ -17086,6 +17086,20 @@
           "album_name": "Singularity",
           "spotify_url": "https://open.spotify.com/album/71jzI7W70aASd7bDIN2jxN",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9924,
+      "game_name": "Sins of a Solar Empire: Rebellion",
+      "game_url": "https://ostdb.net/games/sins-of-a-solar-empire-rebellion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ec43b9b2e39ab9d4e38c07bf",
+      "albums": [
+        {
+          "album_name": "Sins of a Solar Empire: Rebellion Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7xuAvuOZH36yFfosvVy6wM",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
