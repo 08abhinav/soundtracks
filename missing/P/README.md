@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
+| Piecework: The Jigsaw Museum | 421788 | [421788-piecework-the-jigsaw-museum.json](./421788-piecework-the-jigsaw-museum.json) |
 | PieClicker | 245740 | [245740-pieclicker.json](./245740-pieclicker.json) |
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
 | Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
@@ -5155,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
 | Pinky The Phoenix | 252929 | [252929-pinky-the-phoenix.json](./252929-pinky-the-phoenix.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
+| Pinly: A Plinko Roguelike | 421839 | [421839-pinly-a-plinko-roguelike.json](./421839-pinly-a-plinko-roguelike.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
 | Pinni and the Lost Voice | 186611 | [186611-pinni-and-the-lost-voice.json](./186611-pinni-and-the-lost-voice.json) |
