@@ -4224,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
+| Severed Steel | 152172 | [152172-severed-steel.json](./152172-severed-steel.json) |
 | Severed Steel: Digital Deluxe Edition | 173103 | [173103-severed-steel-digital-deluxe-edition.json](./173103-severed-steel-digital-deluxe-edition.json) |
 | Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
+| Shady Part of Me | 121404 | [121404-shady-part-of-me.json](./121404-shady-part-of-me.json) |
 | Shady Trial | 269467 | [269467-shady-trial.json](./269467-shady-trial.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong | 63786 | [63786-shadys-poopong.json](./63786-shadys-poopong.json) |
@@ -5141,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeuku - Shape Puzzle Game | 108289 | [108289-shapeuku-shape-puzzle-game.json](./108289-shapeuku-shape-puzzle-game.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
+| Shapez | 134826 | [134826-shapez.json](./134826-shapez.json) |
 | Shapez 2: Factory | 225512 | [225512-shapez-2-factory.json](./225512-shapez-2-factory.json) |
 | Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
 | shapez.io: Puzzle DLC | 163537 | [163537-shapez-io-puzzle-dlc.json](./163537-shapez-io-puzzle-dlc.json) |
@@ -10395,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
 | Sniper Elite: Nazi Zombie Army | 7637 | [7637-sniper-elite-nazi-zombie-army.json](./7637-sniper-elite-nazi-zombie-army.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
+| Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
 | Sniper Ghost Warrior 3: Season Pass Edition | 82416 | [82416-sniper-ghost-warrior-3-season-pass-edition.json](./82416-sniper-ghost-warrior-3-season-pass-edition.json) |
 | Sniper Ghost Warrior Contracts | 107155 | [107155-sniper-ghost-warrior-contracts.json](./107155-sniper-ghost-warrior-contracts.json) |
@@ -15146,6 +15150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
 | Spiritfarer: Digital Deluxe Edition | 204982 | [204982-spiritfarer-digital-deluxe-edition.json](./204982-spiritfarer-digital-deluxe-edition.json) |
+| Spiritfarer: Farewell Edition | 187506 | [187506-spiritfarer-farewell-edition.json](./187506-spiritfarer-farewell-edition.json) |
 | Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritlands | 28253 | [28253-spiritlands.json](./28253-spiritlands.json) |
@@ -23796,6 +23801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzaku Shijuusou: "Saikyou" no Katana Hime | 371586 | [371586-suzaku-shijuusou-saikyou-no-katana-hime.json](./371586-suzaku-shijuusou-saikyou-no-katana-hime.json) |
 | Suzan's Potion Workshop | 273817 | [273817-suzans-potion-workshop.json](./273817-suzans-potion-workshop.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
+| Suzerain | 115309 | [115309-suzerain.json](./115309-suzerain.json) |
 | Suzu ga Utau Hi | 263400 | [263400-suzu-ga-utau-hi.json](./263400-suzu-ga-utau-hi.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
