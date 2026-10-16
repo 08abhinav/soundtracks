@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Battle Offline: Extra Scenario 3 | 126301 | [126301-ragnarok-battle-offline-extra-scenario-3.json](./126301-ragnarok-battle-offline-extra-scenario-3.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Chess | 151035 | [151035-ragnarok-chess.json](./151035-ragnarok-chess.json) |
+| Ragnarok Clicker | 32331 | [32331-ragnarok-clicker.json](./32331-ragnarok-clicker.json) |
 | Ragnarok Console Project | 403762 | [403762-ragnarok-console-project.json](./403762-ragnarok-console-project.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok DS | 21097 | [21097-ragnarok-ds.json](./21097-ragnarok-ds.json) |
@@ -7123,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
+| Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Rogues of Titan | 366346 | [366346-rogues-of-titan.json](./366346-rogues-of-titan.json) |
 | Rogues' Tales | 174779 | [174779-rogues-tales.json](./174779-rogues-tales.json) |
