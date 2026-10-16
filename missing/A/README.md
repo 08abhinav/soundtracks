@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
+| Abyssal Guardians | 423275 | [423275-abyssal-guardians.json](./423275-abyssal-guardians.json) |
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - The Storm is Coming! | 283292 | [283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json](./283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
+| All Eyes on Me | 423240 | [423240-all-eyes-on-me.json](./423240-all-eyes-on-me.json) |
 | All Fall Down | 34675 | [34675-all-fall-down.json](./34675-all-fall-down.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All For One | 111201 | [111201-all-for-one.json](./111201-all-for-one.json) |
@@ -8845,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcane: The Armor Collector | 62270 | [62270-arcane-the-armor-collector.json](./62270-arcane-the-armor-collector.json) |
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
+| ArcaneBound | 423283 | [423283-arcanebound.json](./423283-arcanebound.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
@@ -12267,6 +12270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
 | Awaken Infinity | 319841 | [319841-awaken-infinity.json](./319841-awaken-infinity.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
+| Awaken, Empress of the Night | 423255 | [423255-awaken-empress-of-the-night.json](./423255-awaken-empress-of-the-night.json) |
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
@@ -12415,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
+| Axis Fall | 423280 | [423280-axis-fall.json](./423280-axis-fall.json) |
 | Axis Football 2015 | 35276 | [35276-axis-football-2015.json](./35276-axis-football-2015.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
