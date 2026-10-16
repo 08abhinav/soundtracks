@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy School Days | 247469 | [247469-i-spy-school-days.json](./247469-i-spy-school-days.json) |
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
+| I Spy Spooky Mansion Deluxe | 141372 | [141372-i-spy-spooky-mansion-deluxe.json](./141372-i-spy-spooky-mansion-deluxe.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
 | I Spy With Lola: A Fun Word Game for Kids! | 88606 | [88606-i-spy-with-lola-a-fun-word-game-for-kids.json](./88606-i-spy-with-lola-a-fun-word-game-for-kids.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitevania | 217229 | [217229-infinitevania.json](./217229-infinitevania.json) |
 | Infiniti VR | 29051 | [29051-infiniti-vr.json](./29051-infiniti-vr.json) |
 | Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
+| Infinitode 2: Infinite Tower Defense | 139491 | [139491-infinitode-2-infinite-tower-defense.json](./139491-infinitode-2-infinite-tower-defense.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum | 82010 | [82010-infinitum.json](./82010-infinitum.json) |
