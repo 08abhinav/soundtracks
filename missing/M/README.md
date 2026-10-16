@@ -6964,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metris Soccer | 33295 | [33295-metris-soccer.json](./33295-metris-soccer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
+| Metro 2033 Wars: Born in the Dark | 23973 | [23973-metro-2033-wars-born-in-the-dark.json](./23973-metro-2033-wars-born-in-the-dark.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
