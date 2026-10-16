@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
 | EquiMagic: Galashow of Horses | 76988 | [76988-equimagic-galashow-of-horses.json](./76988-equimagic-galashow-of-horses.json) |
 | Equin 2: The Warren Peace | 153939 | [153939-equin-2-the-warren-peace.json](./153939-equin-2-the-warren-peace.json) |
+| Equin: The Lantern | 30796 | [30796-equin-the-lantern.json](./30796-equin-the-lantern.json) |
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 13644 | [13644-equinox.json](./13644-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
@@ -5007,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
+| Evolution VR | 30688 | [30688-evolution-vr.json](./30688-evolution-vr.json) |
 | Evolution Worlds | 3910 | [3910-evolution-worlds.json](./3910-evolution-worlds.json) |
 | Evolution: Battle for Utopia | 131458 | [131458-evolution-battle-for-utopia.json](./131458-evolution-battle-for-utopia.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
