@@ -7258,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
+| The Guided Fate Paradox | 19802 | [19802-the-guided-fate-paradox.json](./19802-the-guided-fate-paradox.json) |
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
 | The Guiding Spirit | 391890 | [391890-the-guiding-spirit.json](./391890-the-guiding-spirit.json) |
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
@@ -7266,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild DS | 47880 | [47880-the-guild-ds.json](./47880-the-guild-ds.json) |
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
+| The Guild: Gold Edition | 29208 | [29208-the-guild-gold-edition.json](./29208-the-guild-gold-edition.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
@@ -13312,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight 2: Limited Edition | 167070 | [167070-the-witch-and-the-hundred-knight-2-limited-edition.json](./167070-the-witch-and-the-hundred-knight-2-limited-edition.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
+| The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch Eye | 169770 | [169770-the-witch-eye.json](./169770-the-witch-eye.json) |
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
