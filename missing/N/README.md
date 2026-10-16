@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Most Wanted U | 21699 | [21699-need-for-speed-most-wanted-u.json](./21699-need-for-speed-most-wanted-u.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
+| Need for Speed Ultimate Bundle | 91300 | [91300-need-for-speed-ultimate-bundle.json](./91300-need-for-speed-ultimate-bundle.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed Unbound: Trick or Street Swag Pack | 271923 | [271923-need-for-speed-unbound-trick-or-street-swag-pack.json](./271923-need-for-speed-unbound-trick-or-street-swag-pack.json) |
 | Need for Speed Unbound: Ultimate Collection | 324852 | [324852-need-for-speed-unbound-ultimate-collection.json](./324852-need-for-speed-unbound-ultimate-collection.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell | 243025 | [243025-neighbours-from-hell.json](./243025-neighbours-from-hell.json) |
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
 | Neighbours from Hell Compilation | 53411 | [53411-neighbours-from-hell-compilation.json](./53411-neighbours-from-hell-compilation.json) |
+| Neighbours from Hell: Season 1 | 91248 | [91248-neighbours-from-hell-season-1.json](./91248-neighbours-from-hell-season-1.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
