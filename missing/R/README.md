@@ -7625,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
 | Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
+| Room13 | 17669 | [17669-room13.json](./17669-room13.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
@@ -8132,6 +8133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
 | RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
+| RPG Tycoon | 17654 | [17654-rpg-tycoon.json](./17654-rpg-tycoon.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
