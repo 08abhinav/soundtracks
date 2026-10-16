@@ -8785,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer's story | 96644 | [96644-archers-story.json](./96644-archers-story.json) |
 | ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
 | Archerio | 391860 | [391860-archerio.json](./391860-archerio.json) |
+| Archero | 119062 | [119062-archero.json](./119062-archero.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
@@ -12010,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviatrix | 279044 | [279044-aviatrix.json](./279044-aviatrix.json) |
 | Avici | 208672 | [208672-avici.json](./208672-avici.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
+| Avicii Invector | 75245 | [75245-avicii-invector.json](./75245-avicii-invector.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
