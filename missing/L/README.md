@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
+| LEGO Batman 2: DC Super Heroes | 196417 | [196417-lego-batman-2-dc-super-heroes.json](./196417-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
 | LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
 | Lily's Memories | 259462 | [259462-lilys-memories.json](./259462-lilys-memories.json) |
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
+| Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Black Sun | 10522 | [10522-lords-of-the-black-sun.json](./10522-lords-of-the-black-sun.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
+| Lords of the Fallen | 194987 | [194987-lords-of-the-fallen.json](./194987-lords-of-the-fallen.json) |
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
