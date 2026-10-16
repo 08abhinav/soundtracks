@@ -5012,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
+| Novadrome | 21941 | [21941-novadrome.json](./21941-novadrome.json) |
 | Novalance | 128954 | [128954-novalance.json](./128954-novalance.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
 | Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
@@ -5405,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
+| NY Race | 22047 | [22047-ny-race.json](./22047-ny-race.json) |
 | Ny Rex | 101025 | [101025-ny-rex.json](./101025-ny-rex.json) |
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
