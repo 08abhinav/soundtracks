@@ -1216,6 +1216,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273213de0d8704205a65eef4a85" width="60" /> | [Sonic Rush Adventure](https://ostdb.net/games/sonic-rush-adventure) | **SONIC RUSH ADVENTURE Original Soundtrack (Bonus Track Version)** · [Spotify](https://open.spotify.com/album/16Vc29Y6JniVjfHI8Tk8W4) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/6e/70/356e7098-065d-69d1-2383-52ce9f1af067/artwork.jpg/600x600bb.jpg" width="60" /> | [Sons of the Forest](https://ostdb.net/games/sons-of-the-forest) | **Sons Of The Forest (Main Theme) Epic Cover - Single** · [Spotify](https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4) · [Album](https://album.link/i/1841096732) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/71/cf/5f71cfb4-79b8-c2f0-49cf-cc5140b0127f/PA00175364_0_212141_jacket.jpg/600x600bb.jpg" width="60" /> | [SoulCalibur II](https://ostdb.net/games/soulcalibur-ii) | **SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N) · [Apple Music](https://music.apple.com/us/album/soulcalibur-original-soundtrack/1791656213) · [Album](https://album.link/i/1791656213) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc1175829acccddc0b126b41" width="60" /> | [SoulCalibur II](https://ostdb.net/games/soulcalibur-ii) | **SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aedb0ab8c3dbbc11a76941fe" width="60" /> | [SoulCalibur IV](https://ostdb.net/games/soulcalibur-iv) | **SOULCALIBUR Ⅳ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2KXbLwn7OWdJMTPzTCJwhv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cf29a235d958a3cb7f40e5e" width="60" /> | [South of Midnight](https://ostdb.net/games/south-of-midnight) | **South of Midnight (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4qYOy49shZKUGUtjRhy1Lo) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/e6/e2/b6e6e2b3-0590-9b7d-e100-c004b42d58e9/5053760057918.png/600x600bb.jpg" width="60" /> | [Space Hulk: Deathwing](https://ostdb.net/games/space-hulk-deathwing) | **Space Hulk: Deathwing (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/space-hulk-deathwing-original-soundtrack/1745114592?uo=4) · [Album](https://album.link/i/1745114592) |
@@ -1624,4 +1625,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1941 soundtracks · last updated 2026-10-16T19:34:02.072Z_
+_1942 soundtracks · last updated 2026-10-16T19:34:16.242Z_
