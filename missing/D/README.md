@@ -7310,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
+| Distant Space | 30060 | [30060-distant-space.json](./30060-distant-space.json) |
 | Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
