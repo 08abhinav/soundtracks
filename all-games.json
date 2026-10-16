@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:11:26.818Z",
-  "total_soundtracks": 1864,
+  "generated_at": "2026-10-16T06:11:40.867Z",
+  "total_soundtracks": 1865,
   "games": [
     {
       "igdb_id": 7522,
@@ -1849,6 +1849,20 @@
           "spotify_url": "https://music.apple.com/us/album/ball-x-pit-original-game-soundtrack/1839128069?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1839128069"
+        }
+      ]
+    },
+    {
+      "igdb_id": 27344,
+      "game_name": "Barotrauma",
+      "game_url": "https://ostdb.net/games/barotrauma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c405c6ef22ca063d465a156f",
+      "albums": [
+        {
+          "album_name": "Barotrauma Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4mpf6eRGe5RlTCXgIWqrEz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
