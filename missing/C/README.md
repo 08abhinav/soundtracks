@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
 | Castle in the Sky: Clash of Sky Palace | 192753 | [192753-castle-in-the-sky-clash-of-sky-palace.json](./192753-castle-in-the-sky-clash-of-sky-palace.json) |
 | Castle Infinity | 63576 | [63576-castle-infinity.json](./63576-castle-infinity.json) |
+| Castle Invasion: Throne Out | 32127 | [32127-castle-invasion-throne-out.json](./32127-castle-invasion-throne-out.json) |
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
@@ -5345,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
+| Chopper: Lethal darkness | 31281 | [31281-chopper-lethal-darkness.json](./31281-chopper-lethal-darkness.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
