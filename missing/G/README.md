@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
+| Geneforge 2 | 8363 | [8363-geneforge-2.json](./8363-geneforge-2.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
 | Genei Tougi: Shadow Struggle | 43815 | [43815-genei-tougi-shadow-struggle.json](./43815-genei-tougi-shadow-struggle.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
