@@ -1405,6 +1405,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12" width="60" /> | [The Sims 3](https://ostdb.net/games/the-sims-3) | **The Sims 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec8b11d58c6650cc3dff10f" width="60" /> | [The Sims 4](https://ostdb.net/games/the-sims-4) | **The Sims 4** · [Spotify](https://open.spotify.com/album/1EPkfmIAZtQdYuieEgaDud)<br>**The Sims 4, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310e44593c13796757fc20594" width="60" /> | [The Sims Medieval](https://ostdb.net/games/the-sims-medieval) | **The Sims Medieval, Vol. 1 (Original Score Soundtrack)** · [Spotify](https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a5f5dc46cf88a3c3407b706" width="60" /> | [The Sims: Hot Date](https://ostdb.net/games/the-sims-hot-date) | **The Sims: Hot Date (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4d4nWbNUHaMXlSNDPdbXdJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a" width="60" /> | [The Stanley Parable](https://ostdb.net/games/the-stanley-parable) | **The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26yMmck9922U47xc62MbOw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a" width="60" /> | [The Stanley Parable: Ultra Deluxe](https://ostdb.net/games/the-stanley-parable-ultra-deluxe) | **The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26yMmck9922U47xc62MbOw) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/c3/01/56c3011b-6230-4b5f-93bd-c83908288cd7/cover.jpg/600x600bb.jpg" width="60" /> | [The Surge 2](https://ostdb.net/games/the-surge-2) | **The Surge 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-surge-2-original-game-soundtrack/1571149387?uo=4) · [Album](https://album.link/i/1571149387) |
@@ -1628,4 +1629,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1945 soundtracks · last updated 2026-10-16T19:35:57.403Z_
+_1946 soundtracks · last updated 2026-10-16T19:36:13.054Z_
