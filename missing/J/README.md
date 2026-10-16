@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
 | Jugular | 179120 | [179120-jugular.json](./179120-jugular.json) |
+| Juh | 419310 | [419310-juh.json](./419310-juh.json) |
 | Juice | 139264 | [139264-juice.json](./139264-juice.json) |
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
