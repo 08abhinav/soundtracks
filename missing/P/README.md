@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
+| Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
 | Panzer General 3D Assault | 51856 | [51856-panzer-general-3d-assault.json](./51856-panzer-general-3d-assault.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
+| Pictionary: Ultimate Edition (uDraw) | 21725 | [21725-pictionary-ultimate-edition-udraw.json](./21725-pictionary-ultimate-edition-udraw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | Pictlogica: Final Fantasy | 36998 | [36998-pictlogica-final-fantasy.json](./36998-pictlogica-final-fantasy.json) |
 | Pictoglyph | 157920 | [157920-pictoglyph.json](./157920-pictoglyph.json) |
@@ -5594,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
+| Pixel Defenders Puzzle | 22154 | [22154-pixel-defenders-puzzle.json](./22154-pixel-defenders-puzzle.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Devil and the Broken Cartridge | 113610 | [113610-pixel-devil-and-the-broken-cartridge.json](./113610-pixel-devil-and-the-broken-cartridge.json) |
@@ -7306,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Souls | 317523 | [317523-pocket-souls.json](./317523-pocket-souls.json) |
 | Pocket Spouse | 366114 | [366114-pocket-spouse.json](./366114-pocket-spouse.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
+| Pocket Stables | 22155 | [22155-pocket-stables.json](./22155-pocket-stables.json) |
 | Pocket Stadium | 337256 | [337256-pocket-stadium.json](./337256-pocket-stadium.json) |
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
@@ -9321,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
+| Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
 | Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
 | Power Dolls 2 Dash | 228976 | [228976-power-dolls-2-dash.json](./228976-power-dolls-2-dash.json) |
 | Power Dolls 3 | 228977 | [228977-power-dolls-3.json](./228977-power-dolls-3.json) |
@@ -10425,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
+| Pro Cycling Manager 2008 | 21940 | [21940-pro-cycling-manager-2008.json](./21940-pro-cycling-manager-2008.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2011 | 10720 | [10720-pro-cycling-manager-2011.json](./10720-pro-cycling-manager-2011.json) |
 | Pro Cycling Manager 2012 | 10721 | [10721-pro-cycling-manager-2012.json](./10721-pro-cycling-manager-2012.json) |
