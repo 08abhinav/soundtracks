@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
+| One More Cup | 421810 | [421810-one-more-cup.json](./421810-one-more-cup.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
 | One More Day | 291885 | [291885-one-more-day.json](./291885-one-more-day.json) |
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oopstacles | 174648 | [174648-oopstacles.json](./174648-oopstacles.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
+| Oortbound | 421824 | [421824-oortbound.json](./421824-oortbound.json) |
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
