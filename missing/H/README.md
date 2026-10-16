@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Excalibur | 301632 | [301632-hardware-excalibur.json](./301632-hardware-excalibur.json) |
 | Hardware Store Simulator | 322819 | [322819-hardware-store-simulator.json](./322819-hardware-store-simulator.json) |
+| Hardware Store: Tidy Up | 419885 | [419885-hardware-store-tidy-up.json](./419885-hardware-store-tidy-up.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
 | Hardware: Online Arena | 15697 | [15697-hardware-online-arena.json](./15697-hardware-online-arena.json) |
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
