@@ -1345,7 +1345,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
+| 3 out of 10: EP 2 - "Foundation 101" | 136572 | [136572-3-out-of-10-ep-2-foundation-101.json](./136572-3-out-of-10-ep-2-foundation-101.json) |
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
+| 3 out of 10: EP 5 - "The Rig Is Up!" | 138228 | [138228-3-out-of-10-ep-5-the-rig-is-up.json](./138228-3-out-of-10-ep-5-the-rig-is-up.json) |
 | 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Player Battle | 58720 | [58720-3-player-battle.json](./58720-3-player-battle.json) |
@@ -1924,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
 | 59049 | 95672 | [95672-59049.json](./95672-59049.json) |
+| 5D Chess With Multiverse Time Travel | 136045 | [136045-5d-chess-with-multiverse-time-travel.json](./136045-5d-chess-with-multiverse-time-travel.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
@@ -2202,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
+| 8Doors: Arum's Afterlife Adventure | 137635 | [137635-8doors-arums-afterlife-adventure.json](./137635-8doors-arums-afterlife-adventure.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 part 2 | 331451 | [331451-8floor-bundle-4-in-1-part-2.json](./331451-8floor-bundle-4-in-1-part-2.json) |
