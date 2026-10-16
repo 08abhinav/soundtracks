@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista Master: Café Empire | 333713 | [333713-barista-master-cafe-empire.json](./333713-barista-master-cafe-empire.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
+| Bark & Blade | 420015 | [420015-bark-and-blade.json](./420015-bark-and-blade.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
@@ -6681,8 +6682,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | BladeShield | 30566 | [30566-bladeshield.json](./30566-bladeshield.json) |
+| Bladesmith Shop Simulator | 420007 | [420007-bladesmith-shop-simulator.json](./420007-bladesmith-shop-simulator.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
+| Bladeweave | 420011 | [420011-bladeweave.json](./420011-bladeweave.json) |
 | Blagmoz | 271672 | [271672-blagmoz.json](./271672-blagmoz.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
