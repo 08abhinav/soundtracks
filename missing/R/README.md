@@ -7260,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Thunder | 219018 | [219018-rolling-thunder.json](./219018-rolling-thunder.json) |
+| Rolling Thunder 2 | 18401 | [18401-rolling-thunder-2.json](./18401-rolling-thunder-2.json) |
 | Rolling Thunder 3 | 46243 | [46243-rolling-thunder-3.json](./46243-rolling-thunder-3.json) |
 | Rolling Thunder: Vietnam | 343950 | [343950-rolling-thunder-vietnam.json](./343950-rolling-thunder-vietnam.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
