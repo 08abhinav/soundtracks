@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
 | Five Nights at Freddy’s Abandoning | 275253 | [275253-five-nights-at-freddy-s-abandoning.json](./275253-five-nights-at-freddy-s-abandoning.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
+| Five Nights at Freddy's AR: Special Delivery | 126473 | [126473-five-nights-at-freddys-ar-special-delivery.json](./126473-five-nights-at-freddys-ar-special-delivery.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
 | Five Nights at Freddy's Doom | 277526 | [277526-five-nights-at-freddys-doom.json](./277526-five-nights-at-freddys-doom.json) |
@@ -7153,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
 | Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
 | Fortnite: Chapter 2 - Season 2 | 129912 | [129912-fortnite-chapter-2-season-2.json](./129912-fortnite-chapter-2-season-2.json) |
+| Fortnite: Chapter 2 - Season 3 | 135138 | [135138-fortnite-chapter-2-season-3.json](./135138-fortnite-chapter-2-season-3.json) |
 | Fortnite: Chapter 2 - Season 5 | 140974 | [140974-fortnite-chapter-2-season-5.json](./140974-fortnite-chapter-2-season-5.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
