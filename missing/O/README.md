@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
 | One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
+| One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 2 | 8372 | [8372-orcs-must-die-2.json](./8372-orcs-must-die-2.json) |
 | Orcs Must Die! 2: Are We There Yeti? | 14537 | [14537-orcs-must-die-2-are-we-there-yeti.json](./14537-orcs-must-die-2-are-we-there-yeti.json) |
 | Orcs Must Die! 2: Family Ties Booster Pack | 14538 | [14538-orcs-must-die-2-family-ties-booster-pack.json](./14538-orcs-must-die-2-family-ties-booster-pack.json) |
+| Orcs Must Die! 2: Fire and Water Booster Pack | 14539 | [14539-orcs-must-die-2-fire-and-water-booster-pack.json](./14539-orcs-must-die-2-fire-and-water-booster-pack.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
