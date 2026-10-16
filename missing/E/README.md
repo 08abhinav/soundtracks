@@ -4731,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
 | Everybody's Golf Mobile | 44075 | [44075-everybodys-golf-mobile.json](./44075-everybodys-golf-mobile.json) |
 | Everybody's Golf Portable: Coca Cola Special Edition | 73361 | [73361-everybodys-golf-portable-coca-cola-special-edition.json](./73361-everybodys-golf-portable-coca-cola-special-edition.json) |
+| Everybody's Golf VR | 109273 | [109273-everybodys-golf-vr.json](./109273-everybodys-golf-vr.json) |
 | Everybody's Golf VR: Digital Deluxe Edition | 118935 | [118935-everybodys-golf-vr-digital-deluxe-edition.json](./118935-everybodys-golf-vr-digital-deluxe-edition.json) |
 | Everybody’s Golf: Hot Shots | 337034 | [337034-everybody-s-golf-hot-shots.json](./337034-everybody-s-golf-hot-shots.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
@@ -4964,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
+| Evolution Worlds | 3910 | [3910-evolution-worlds.json](./3910-evolution-worlds.json) |
 | Evolution: Battle for Utopia | 131458 | [131458-evolution-battle-for-utopia.json](./131458-evolution-battle-for-utopia.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
