@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
+| Adventure in the Tower of Flight | 35295 | [35295-adventure-in-the-tower-of-flight.json](./35295-adventure-in-the-tower-of-flight.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
+| Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
 | Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Clouds | 397421 | [397421-among-the-clouds.json](./397421-among-the-clouds.json) |
 | Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
+| Among the Heavens | 34313 | [34313-among-the-heavens.json](./34313-among-the-heavens.json) |
 | Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
 | Among the Monolyths | 180786 | [180786-among-the-monolyths.json](./180786-among-the-monolyths.json) |
 | Among the Others | 313325 | [313325-among-the-others.json](./313325-among-the-others.json) |
@@ -7889,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Zombie Race | 98367 | [98367-apocalypse-zombie-race.json](./98367-apocalypse-zombie-race.json) |
 | Apocalypse: Desire Next | 5487 | [5487-apocalypse-desire-next.json](./5487-apocalypse-desire-next.json) |
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
+| Apocalypse: Party's Over | 35294 | [35294-apocalypse-partys-over.json](./35294-apocalypse-partys-over.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
@@ -10100,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
+| ASCII Attack | 35239 | [35239-ascii-attack.json](./35239-ascii-attack.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
@@ -12393,6 +12398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
+| Axis Football 2015 | 35276 | [35276-axis-football-2015.json](./35276-axis-football-2015.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
 | Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
