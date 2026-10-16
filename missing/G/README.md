@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Attack of the Mutant Lasagna | 73339 | [73339-garfield-attack-of-the-mutant-lasagna.json](./73339-garfield-attack-of-the-mutant-lasagna.json) |
 | Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
 | Garfield: Bound For Home | 234566 | [234566-garfield-bound-for-home.json](./234566-garfield-bound-for-home.json) |
+| Garfield: Caught in the Act | 19736 | [19736-garfield-caught-in-the-act.json](./19736-garfield-caught-in-the-act.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
@@ -1936,7 +1937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
-| Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
 | Generation Zero: Apparel Crafting | 170971 | [170971-generation-zero-apparel-crafting.json](./170971-generation-zero-apparel-crafting.json) |
 | Generation Zero: Base Defense Pack | 226796 | [226796-generation-zero-base-defense-pack.json](./226796-generation-zero-base-defense-pack.json) |
@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 5 - Shokuzai | 318054 | [318054-grauen-no-torikago-kapitel-5-shokuzai.json](./318054-grauen-no-torikago-kapitel-5-shokuzai.json) |
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
+| Grav | 18290 | [18290-grav.json](./18290-grav.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | Grav Blazer Squared | 55716 | [55716-grav-blazer-squared.json](./55716-grav-blazer-squared.json) |
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
