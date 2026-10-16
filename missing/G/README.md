@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godwreath: Chapter 1 | 384280 | [384280-godwreath-chapter-1.json](./384280-godwreath-chapter-1.json) |
 | GodWright | 414172 | [414172-godwright.json](./414172-godwright.json) |
 | Godzilla | 135594 | [135594-godzilla.json](./135594-godzilla.json) |
+| Godzilla | 75887 | [75887-godzilla.json](./75887-godzilla.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
 | Godzilla | 77247 | [77247-godzilla.json](./77247-godzilla.json) |
