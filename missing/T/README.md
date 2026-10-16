@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crow | 315684 | [315684-the-crow.json](./315684-the-crow.json) |
+| The Crow: City of Angels | 8538 | [8538-the-crow-city-of-angels.json](./8538-the-crow-city-of-angels.json) |
 | The Crow's Eye: Deluxe Edition | 187854 | [187854-the-crows-eye-deluxe-edition.json](./187854-the-crows-eye-deluxe-edition.json) |
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
@@ -6365,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye of the Beheld | 184874 | [184874-the-eye-of-the-beheld.json](./184874-the-eye-of-the-beheld.json) |
 | The Eye of the Goddess | 196649 | [196649-the-eye-of-the-goddess.json](./196649-the-eye-of-the-goddess.json) |
 | The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
+| The Eyes of Ara | 20789 | [20789-the-eyes-of-ara.json](./20789-the-eyes-of-ara.json) |
 | The Eyes of Ara: Deluxe Edition | 53736 | [53736-the-eyes-of-ara-deluxe-edition.json](./53736-the-eyes-of-ara-deluxe-edition.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
@@ -17303,6 +17305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Chase | 137415 | [137415-tom-and-jerry-chase.json](./137415-tom-and-jerry-chase.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
+| Tom and Jerry: Frantic Antics! | 8028 | [8028-tom-and-jerry-frantic-antics.json](./8028-tom-and-jerry-frantic-antics.json) |
 | Tom and Jerry: Mouse Hunt | 8031 | [8031-tom-and-jerry-mouse-hunt.json](./8031-tom-and-jerry-mouse-hunt.json) |
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
