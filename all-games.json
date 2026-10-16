@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T08:25:58.215Z",
-  "total_soundtracks": 1905,
+  "generated_at": "2026-10-16T14:35:59.454Z",
+  "total_soundtracks": 1906,
   "games": [
     {
       "igdb_id": 7522,
@@ -3867,6 +3867,20 @@
         {
           "album_name": "Coral Island (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5etXpYDldtmCfhfWzMOb42",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 123269,
+      "game_name": "Coromon",
+      "game_url": "https://ostdb.net/games/coromon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273977669ed90b9847c1e2e2f20",
+      "albums": [
+        {
+          "album_name": "Coromon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0D6Nb28CcvBZj5Q2Z5NxsT",
           "apple_music_url": "",
           "album_link_url": ""
         }
