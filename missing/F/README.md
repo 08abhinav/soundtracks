@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
 | Far Cry Anthology Bundle | 188049 | [188049-far-cry-anthology-bundle.json](./188049-far-cry-anthology-bundle.json) |
+| Far Cry Classic | 95013 | [95013-far-cry-classic.json](./95013-far-cry-classic.json) |
 | Far Cry Compilation | 163874 | [163874-far-cry-compilation.json](./163874-far-cry-compilation.json) |
 | Far Cry Insanity Bundle | 164798 | [164798-far-cry-insanity-bundle.json](./164798-far-cry-insanity-bundle.json) |
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
@@ -7299,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
 | Forza Horizon 4: LEGO Speed Champions | 121517 | [121517-forza-horizon-4-lego-speed-champions.json](./121517-forza-horizon-4-lego-speed-champions.json) |
 | Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
+| Forza Horizon 4: Ultimate Edition | 110392 | [110392-forza-horizon-4-ultimate-edition.json](./110392-forza-horizon-4-ultimate-edition.json) |
 | Forza Horizon 4: VIP | 153720 | [153720-forza-horizon-4-vip.json](./153720-forza-horizon-4-vip.json) |
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
 | Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
