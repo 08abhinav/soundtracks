@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Ghost Revenge | 385925 | [385925-samurai-ghost-revenge.json](./385925-samurai-ghost-revenge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
+| Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
+| Shark Simulator | 68769 | [68769-shark-simulator.json](./68769-shark-simulator.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
@@ -6670,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Reekin' Havoc | 49222 | [49222-shrek-reekin-havoc.json](./49222-shrek-reekin-havoc.json) |
 | Shrek: Swamp Kart Speedway | 49240 | [49240-shrek-swamp-kart-speedway.json](./49240-shrek-swamp-kart-speedway.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
+| Shrek's Carnival Craze | 70684 | [70684-shreks-carnival-craze.json](./70684-shreks-carnival-craze.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrew | 320265 | [320265-shrew.json](./320265-shrew.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
@@ -7193,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
+| Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
 | Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
 | Silent Dragon | 39417 | [39417-silent-dragon.json](./39417-silent-dragon.json) |
@@ -9124,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Swimmer | 298645 | [298645-sleep-swimmer.json](./298645-sleep-swimmer.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
+| Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
@@ -22739,6 +22744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sized Mario Bros | 286640 | [286640-super-sized-mario-bros.json](./286640-super-sized-mario-bros.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Skateboardin' | 12341 | [12341-super-skateboardin.json](./12341-super-skateboardin.json) |
+| Super Skelemania | 74875 | [74875-super-skelemania.json](./74875-super-skelemania.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
@@ -24589,6 +24595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Hunter | 174588 | [174588-sword-hunter.json](./174588-sword-hunter.json) |
 | Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
+| Sword Legacy: Omen | 74734 | [74734-sword-legacy-omen.json](./74734-sword-legacy-omen.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Man - Monster Hunter | 107026 | [107026-sword-man-monster-hunter.json](./107026-sword-man-monster-hunter.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
