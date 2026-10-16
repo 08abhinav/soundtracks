@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
+| Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
 | Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affairs of the Court: Deluxe Edition | 52574 | [52574-affairs-of-the-court-deluxe-edition.json](./52574-affairs-of-the-court-deluxe-edition.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
+| Affected: The Manor | 72421 | [72421-affected-the-manor.json](./72421-affected-the-manor.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
+| After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
@@ -7719,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
+| Apex Construct | 75283 | [75283-apex-construct.json](./75283-apex-construct.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
