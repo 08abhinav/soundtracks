@@ -8287,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
 | Friday the 13th: The Computer Game | 26287 | [26287-friday-the-13th-the-computer-game.json](./26287-friday-the-13th-the-computer-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
+| Friday the 13th: The Game - Ultimate Slasher Edition | 115835 | [115835-friday-the-13th-the-game-ultimate-slasher-edition.json](./115835-friday-the-13th-the-game-ultimate-slasher-edition.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
@@ -9042,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
+| Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
 | Fukakutei Sekai no Tantei Shinshi Hardcore! | 122874 | [122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json](./122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json) |
