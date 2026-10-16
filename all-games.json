@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:08:19.639Z",
-  "total_soundtracks": 1860,
+  "generated_at": "2026-10-16T06:08:32.944Z",
+  "total_soundtracks": 1861,
   "games": [
     {
       "igdb_id": 7522,
@@ -22173,6 +22173,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/hyper-commission-2-0-zenless-zone-zero-original-soundtrack/1873964895?uo=4",
           "album_link_url": "https://album.link/i/1873964895"
+        }
+      ]
+    },
+    {
+      "igdb_id": 119234,
+      "game_name": "Zombie Army 4: Dead War",
+      "game_url": "https://ostdb.net/games/zombie-army-4-dead-war",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ad40a6380762833d59d1548",
+      "albums": [
+        {
+          "album_name": "Zombie Army 4: Dead War (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3CqXiVrkvWxbjhddXWz4jn",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
