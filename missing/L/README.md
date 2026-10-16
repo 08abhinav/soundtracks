@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
+| Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
 | Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
+| Log Away: Halloween DLC | 422470 | [422470-log-away-halloween-dlc.json](./422470-log-away-halloween-dlc.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Riders | 387547 | [387547-log-riders.json](./387547-log-riders.json) |
