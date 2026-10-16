@@ -6577,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
+| Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
 | Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
@@ -13257,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Definitive Edition | 273326 | [273326-dyschronia-chronos-alternate-definitive-edition.json](./273326-dyschronia-chronos-alternate-definitive-edition.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
+| Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
 | Dyskairos | 374771 | [374771-dyskairos.json](./374771-dyskairos.json) |
 | Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
