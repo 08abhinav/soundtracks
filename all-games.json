@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:04:04.965Z",
-  "total_soundtracks": 1714,
+  "generated_at": "2026-10-16T05:04:18.204Z",
+  "total_soundtracks": 1715,
   "games": [
     {
       "igdb_id": 7522,
@@ -11629,6 +11629,20 @@
         {
           "album_name": "Natural Selection 2 Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5RWOSybHZSQiIAxxuYVgLk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144725,
+      "game_name": "Necromunda: Hired Gun",
+      "game_url": "https://ostdb.net/games/necromunda-hired-gun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27378d69416d11f904e028f08bb",
+      "albums": [
+        {
+          "album_name": "Necromunda: Hired Gun (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1av9eFy7zycBghnEFcZscm",
           "apple_music_url": "",
           "album_link_url": ""
         }
