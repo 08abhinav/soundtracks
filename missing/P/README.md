@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Girl | 109878 | [109878-pixel-girl.json](./109878-pixel-girl.json) |
 | Pixel Golf Club | 304836 | [304836-pixel-golf-club.json](./304836-pixel-golf-club.json) |
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
+| Pixel Gun 3D | 79993 | [79993-pixel-gun-3d.json](./79993-pixel-gun-3d.json) |
 | Pixel Gun 3D: Critical Strike Set | 294953 | [294953-pixel-gun-3d-critical-strike-set.json](./294953-pixel-gun-3d-critical-strike-set.json) |
 | Pixel Gun 3D: Dark Fire Set | 294954 | [294954-pixel-gun-3d-dark-fire-set.json](./294954-pixel-gun-3d-dark-fire-set.json) |
 | Pixel Gun 3D: Deadly Toys Set | 322630 | [322630-pixel-gun-3d-deadly-toys-set.json](./322630-pixel-gun-3d-deadly-toys-set.json) |
@@ -9168,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Tycoon | 167183 | [167183-potion-tycoon.json](./167183-potion-tycoon.json) |
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
+| Potionomics | 75994 | [75994-potionomics.json](./75994-potionomics.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potionomics: Masterwork Edition | 300482 | [300482-potionomics-masterwork-edition.json](./300482-potionomics-masterwork-edition.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
