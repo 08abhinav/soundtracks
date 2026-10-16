@@ -5197,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
+| Choo-Choo Charles | 173432 | [173432-choo-choo-charles.json](./173432-choo-choo-charles.json) |
 | Chooche | 175163 | [175163-chooche.json](./175163-chooche.json) |
 | Chooing | 303732 | [303732-chooing.json](./303732-chooing.json) |
 | Chook & Sosig | 134410 | [134410-chook-and-sosig.json](./134410-chook-and-sosig.json) |
@@ -7242,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Clubhouse Games Express: Family Favorites | 67714 | [67714-clubhouse-games-express-family-favorites.json](./67714-clubhouse-games-express-family-favorites.json) |
+| Clubhouse Games: 51 Worldwide Classics | 131961 | [131961-clubhouse-games-51-worldwide-classics.json](./131961-clubhouse-games-51-worldwide-classics.json) |
 | ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
@@ -9214,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
+| Conqueror's Blade | 70985 | [70985-conquerors-blade.json](./70985-conquerors-blade.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
