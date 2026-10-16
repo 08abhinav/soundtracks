@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:42:27.589Z",
-  "total_soundtracks": 1955,
+  "generated_at": "2026-10-16T19:42:45.553Z",
+  "total_soundtracks": 1956,
   "games": [
     {
       "igdb_id": 7522,
@@ -19152,6 +19152,20 @@
     },
     {
       "igdb_id": 1249,
+      "game_name": "Tekken Tag Tournament",
+      "game_url": "https://ostdb.net/games/tekken-tag-tournament",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b",
+      "albums": [
+        {
+          "album_name": "TEKKEN TAG TOURNAMENT (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3gswfNdvotlgcoCTGC3r4A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 289037,
       "game_name": "Tekken Tag Tournament",
       "game_url": "https://ostdb.net/games/tekken-tag-tournament",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b",
