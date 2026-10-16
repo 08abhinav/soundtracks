@@ -6311,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
+| Wreckless: The Yakuza Missions | 4568 | [4568-wreckless-the-yakuza-missions.json](./4568-wreckless-the-yakuza-missions.json) |
 | Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
