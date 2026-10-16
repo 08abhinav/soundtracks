@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
 | Kintsukuroi | 57744 | [57744-kintsukuroi.json](./57744-kintsukuroi.json) |
 | Kinu Shoku Ryuu Hana: Weaving The Blue Orient | 314448 | [314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json](./314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json) |
+| Kio's Adventure | 29084 | [29084-kios-adventure.json](./29084-kios-adventure.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
+| Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
 | Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
