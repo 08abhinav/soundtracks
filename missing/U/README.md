@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
+| Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
