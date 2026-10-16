@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
+| Cefore | 28647 | [28647-cefore.json](./28647-cefore.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
+| Cheap Golf | 28948 | [28948-cheap-golf.json](./28948-cheap-golf.json) |
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
@@ -6523,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
+| Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
@@ -11645,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
+| Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
@@ -11946,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of Passion 3 | 323994 | [323994-crimes-of-passion-3.json](./323994-crimes-of-passion-3.json) |
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
+| Crimes of War | 21369 | [21369-crimes-of-war.json](./21369-crimes-of-war.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
 | CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
 | CrimeTrip | 240866 | [240866-crimetrip.json](./240866-crimetrip.json) |
@@ -11990,6 +11995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
+| Crimson Earth | 28945 | [28945-crimson-earth.json](./28945-crimson-earth.json) |
 | Crimson Earth 2 | 74682 | [74682-crimson-earth-2.json](./74682-crimson-earth-2.json) |
 | Crimson Empire: Circumstances to Serve a Noble | 58056 | [58056-crimson-empire-circumstances-to-serve-a-noble.json](./58056-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
