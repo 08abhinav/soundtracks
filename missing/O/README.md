@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Abe's Exoddus | 306055 | [306055-oddworld-abes-exoddus.json](./306055-oddworld-abes-exoddus.json) |
 | Oddworld: Hand of Odd | 66007 | [66007-oddworld-hand-of-odd.json](./66007-oddworld-hand-of-odd.json) |
+| Oddworld: Munch's Oddysee | 1001 | [1001-oddworld-munchs-oddysee.json](./1001-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee | 289405 | [289405-oddworld-munchs-oddysee.json](./289405-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - Deluxe Edition | 77177 | [77177-one-piece-pirate-warriors-3-deluxe-edition.json](./77177-one-piece-pirate-warriors-3-deluxe-edition.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
+| One Piece: Pirate Warriors 4 | 120436 | [120436-one-piece-pirate-warriors-4.json](./120436-one-piece-pirate-warriors-4.json) |
 | One Piece: Pirate Warriors 4 - Additional Episodes Pack | 266741 | [266741-one-piece-pirate-warriors-4-additional-episodes-pack.json](./266741-one-piece-pirate-warriors-4-additional-episodes-pack.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
+| Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overlords | 77196 | [77196-overlords.json](./77196-overlords.json) |
 | Overlords of Oblivion | 112153 | [112153-overlords-of-oblivion.json](./112153-overlords-of-oblivion.json) |
