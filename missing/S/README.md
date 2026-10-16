@@ -8307,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skateboard Gravity | 289250 | [289250-skateboard-gravity.json](./289250-skateboard-gravity.json) |
 | Skateboard Jam | 324848 | [324848-skateboard-jam.json](./324848-skateboard-jam.json) |
+| Skateboard Joust | 420522 | [420522-skateboard-joust.json](./420522-skateboard-joust.json) |
 | Skateboard Kidz | 78881 | [78881-skateboard-kidz.json](./78881-skateboard-kidz.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
@@ -8592,6 +8593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skrach.it | 345450 | [345450-skrach-it.json](./345450-skrach-it.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
+| Skramble | 420523 | [420523-skramble.json](./420523-skramble.json) |
+| Skramble | 420524 | [420524-skramble.json](./420524-skramble.json) |
 | Skribbl.io | 76565 | [76565-skribbl-io.json](./76565-skribbl-io.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
@@ -10136,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
+| SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
@@ -14738,6 +14742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Slinger | 238562 | [238562-spell-slinger.json](./238562-spell-slinger.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Slingin' Tower Defense | 270145 | [270145-spell-slingin-tower-defense.json](./270145-spell-slingin-tower-defense.json) |
+| Spell Sniffers | 420512 | [420512-spell-sniffers.json](./420512-spell-sniffers.json) |
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
@@ -18791,6 +18796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Splats Matchup | 359437 | [359437-sticky-splats-matchup.json](./359437-sticky-splats-matchup.json) |
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Sticky Struggles | 286599 | [286599-sticky-struggles.json](./286599-sticky-struggles.json) |
+| Sticky Sword | 420510 | [420510-sticky-sword.json](./420510-sticky-sword.json) |
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
