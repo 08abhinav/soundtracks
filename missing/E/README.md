@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden | 185365 | [185365-eden.json](./185365-eden.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Blue | 19139 | [19139-eden-blue.json](./19139-eden-blue.json) |
+| Eden Camp | 419334 | [419334-eden-camp.json](./419334-eden-camp.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin Clay | 189904 | [189904-elfin-clay.json](./189904-elfin-clay.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
+| Elfin Paradise | 419383 | [419383-elfin-paradise.json](./419383-elfin-paradise.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | ElfLand | 79982 | [79982-elfland.json](./79982-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Estellium Legends | 114224 | [114224-estellium-legends.json](./114224-estellium-legends.json) |
+| Estellium Legends II | 419378 | [419378-estellium-legends-ii.json](./419378-estellium-legends-ii.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
