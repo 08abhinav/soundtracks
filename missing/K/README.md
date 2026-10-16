@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Milk Replacer | 260080 | [260080-kitten-milk-replacer.json](./260080-kitten-milk-replacer.json) |
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
 | Kitten Rampage | 33688 | [33688-kitten-rampage.json](./33688-kitten-rampage.json) |
+| Kitten Squad | 30825 | [30825-kitten-squad.json](./30825-kitten-squad.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
 | Kitten'd | 104860 | [104860-kittend.json](./104860-kittend.json) |
@@ -3069,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Light | 335278 | [335278-knight-light.json](./335278-knight-light.json) |
 | Knight Lobster | 346239 | [346239-knight-lobster.json](./346239-knight-lobster.json) |
 | Knight Lolita | 303615 | [303615-knight-lolita.json](./303615-knight-lolita.json) |
+| Knight Lore | 12359 | [12359-knight-lore.json](./12359-knight-lore.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
 | Knight Maker | 175741 | [175741-knight-maker.json](./175741-knight-maker.json) |
 | Knight Move | 339229 | [339229-knight-move.json](./339229-knight-move.json) |
