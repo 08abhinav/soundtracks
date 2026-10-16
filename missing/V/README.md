@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venetica: Gold Edition | 53932 | [53932-venetica-gold-edition.json](./53932-venetica-gold-edition.json) |
 | Venge | 143958 | [143958-venge.json](./143958-venge.json) |
 | Venge.io | 137531 | [137531-venge-io.json](./137531-venge-io.json) |
+| Vengeance | 34876 | [34876-vengeance.json](./34876-vengeance.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
 | Vengeance is Mine | 173089 | [173089-vengeance-is-mine.json](./173089-vengeance-is-mine.json) |
