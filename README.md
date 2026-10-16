@@ -696,6 +696,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273706d196a31a51dacea189378" width="60" /> | [Into the Breach](https://ostdb.net/games/into-the-breach) | **Into the Breach Soundtrack** · [Spotify](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/bc/de/22bcde47-554f-3494-2d2d-b8e10381855e/8721466136646.png/600x600bb.jpg" width="60" /> | [Invincible Vs.](https://ostdb.net/games/invincible-vs) | **Invincible VS (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/invincible-vs-original-game-soundtrack/1884287801?uo=4) · [Album](https://album.link/i/1884287801) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364f81b5b57ae9d53c07ec567" width="60" /> | [Inzoi](https://ostdb.net/games/inzoi) | **inZOI : Island Getaway Soundtrack (DLC)** · [Spotify](https://open.spotify.com/album/0qGZT9xgqUspvx0mOvbqDu)<br>**inZOI: Original Soundtrack (Early Access)** · [Spotify](https://open.spotify.com/album/56iJ3GVdTvvhZJfMqZdzxb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8956a8f79cec4a271b00a39" width="60" /> | [Ion Fury](https://ostdb.net/games/ion-fury) | **Ion Fury (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4usS9aMCNW9IVplwVdL1Re) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332a6d40dbba577e0b793ad4f" width="60" /> | [Iron Harvest](https://ostdb.net/games/iron-harvest) | **Iron Harvest (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3hAnNJYcctcZyemQFNvKe5) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/dc/15/83dc1556-8a1e-43f4-95f1-2147845b9cd4/199538137606.jpg/600x600bb.jpg" width="60" /> | [Is This Seat Taken?](https://ostdb.net/games/is-this-seat-taken) | **Is This Seat Taken? (Original Game Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4) · [Album](https://album.link/i/1830248552) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e4094996e6638715e1c26d6" width="60" /> | [It Takes Two](https://ostdb.net/games/it-takes-two) | **It Takes Two (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV) |
@@ -1577,4 +1578,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1894 soundtracks · last updated 2026-10-16T06:31:02.250Z_
+_1895 soundtracks · last updated 2026-10-16T06:31:17.056Z_
