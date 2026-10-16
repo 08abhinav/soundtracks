@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Art & Puzzle | 205110 | [205110-kids-art-and-puzzle.json](./205110-kids-art-and-puzzle.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
+| Kid's EduPack | 87091 | [87091-kids-edupack.json](./87091-kids-edupack.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Safety With George Blessure | 120988 | [120988-kids-safety-with-george-blessure.json](./120988-kids-safety-with-george-blessure.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
 | Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
+| Kids dinosaur puzzles and number games | 87086 | [87086-kids-dinosaur-puzzles-and-number-games.json](./87086-kids-dinosaur-puzzles-and-number-games.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids doctor : veterinarian | 99388 | [99388-kids-doctor-veterinarian.json](./99388-kids-doctor-veterinarian.json) |
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
@@ -2298,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
+| Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - Band of Bastards | 115030 | [115030-kingdom-come-deliverance-band-of-bastards.json](./115030-kingdom-come-deliverance-band-of-bastards.json) |
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
@@ -3003,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
+| Klondike Planet | 87229 | [87229-klondike-planet.json](./87229-klondike-planet.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire | 73183 | [73183-klondike-solitaire.json](./73183-klondike-solitaire.json) |
 | Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
