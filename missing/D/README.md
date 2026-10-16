@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
 | Dave in Danger | 94884 | [94884-dave-in-danger.json](./94884-dave-in-danger.json) |
 | Dave Microwaves Games Trilogy I | 177974 | [177974-dave-microwaves-games-trilogy-i.json](./177974-dave-microwaves-games-trilogy-i.json) |
+| Dave Mirra Freestyle BMX | 26012 | [26012-dave-mirra-freestyle-bmx.json](./26012-dave-mirra-freestyle-bmx.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
@@ -2020,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
+| Daymare: 1998 | 23891 | [23891-daymare-1998.json](./23891-daymare-1998.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
@@ -4977,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
+| Despicable Me: Minion Rush | 39188 | [39188-despicable-me-minion-rush.json](./39188-despicable-me-minion-rush.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despicable Me: The Game - Minion Mayhem | 80085 | [80085-despicable-me-the-game-minion-mayhem.json](./80085-despicable-me-the-game-minion-mayhem.json) |
 | Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
@@ -7233,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
+| Dissidia Final Fantasy NT | 36831 | [36831-dissidia-final-fantasy-nt.json](./36831-dissidia-final-fantasy-nt.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
 | Dissimilar | 293516 | [293516-dissimilar.json](./293516-dissimilar.json) |
@@ -10730,6 +10734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Club Zero | 6972 | [6972-dream-club-zero.json](./6972-dream-club-zero.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
 | Dream Crafter | 317510 | [317510-dream-crafter.json](./317510-dream-crafter.json) |
+| Dream Daddy: A Dad Dating Simulator | 38045 | [38045-dream-daddy-a-dad-dating-simulator.json](./38045-dream-daddy-a-dad-dating-simulator.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
@@ -12026,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: 20th Anniversary World Tour | 23596 | [23596-duke-nukem-3d-20th-anniversary-world-tour.json](./23596-duke-nukem-3d-20th-anniversary-world-tour.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
+| Duke Nukem 3D: Megaton Edition | 20868 | [20868-duke-nukem-3d-megaton-edition.json](./20868-duke-nukem-3d-megaton-edition.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
@@ -12366,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
 | Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
+| Dungeon Master | 3798 | [3798-dungeon-master.json](./3798-dungeon-master.json) |
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
 | Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
 | Dungeon Master Nexus | 3801 | [3801-dungeon-master-nexus.json](./3801-dungeon-master-nexus.json) |
