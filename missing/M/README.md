@@ -360,9 +360,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
+| Madden NFL 06 | 243002 | [243002-madden-nfl-06.json](./243002-madden-nfl-06.json) |
+| Madden NFL 06 | 243003 | [243003-madden-nfl-06.json](./243003-madden-nfl-06.json) |
 | Madden NFL 06 | 243004 | [243004-madden-nfl-06.json](./243004-madden-nfl-06.json) |
 | Madden NFL 06 | 243005 | [243005-madden-nfl-06.json](./243005-madden-nfl-06.json) |
 | Madden NFL 06 | 243006 | [243006-madden-nfl-06.json](./243006-madden-nfl-06.json) |
+| Madden NFL 06 | 243007 | [243007-madden-nfl-06.json](./243007-madden-nfl-06.json) |
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243008 | [243008-madden-nfl-07.json](./243008-madden-nfl-07.json) |
 | Madden NFL 07 | 243009 | [243009-madden-nfl-07.json](./243009-madden-nfl-07.json) |
@@ -425,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2005 | 243179 | [243179-madden-nfl-2005.json](./243179-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243180 | [243180-madden-nfl-2005.json](./243180-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
+| Madden NFL 2005 | 243182 | [243182-madden-nfl-2005.json](./243182-madden-nfl-2005.json) |
 | Madden NFL 2005 | 778 | [778-madden-nfl-2005.json](./778-madden-nfl-2005.json) |
 | Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
@@ -6106,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
 | Memory Lane | 62065 | [62065-memory-lane.json](./62065-memory-lane.json) |
 | Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
+| Memory Lost | 172897 | [172897-memory-lost.json](./172897-memory-lost.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match IQ Brain Training | 232477 | [232477-memory-match-iq-brain-training.json](./232477-memory-match-iq-brain-training.json) |
@@ -10954,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Jam: Maximum Destruction | 242805 | [242805-monster-jam-maximum-destruction.json](./242805-monster-jam-maximum-destruction.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
 | Monster Jam: Path of Destruction | 5016 | [5016-monster-jam-path-of-destruction.json](./5016-monster-jam-path-of-destruction.json) |
 | Monster Jam: Urban Assault | 5017 | [5017-monster-jam-urban-assault.json](./5017-monster-jam-urban-assault.json) |
@@ -12268,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
+| MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
