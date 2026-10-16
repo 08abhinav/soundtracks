@@ -14560,7 +14560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shops | 241530 | [241530-my-shops.json](./241530-my-shops.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
-| My Singing Monsters | 16305 | [16305-my-singing-monsters.json](./16305-my-singing-monsters.json) |
 | My Singing Monsters Composer | 99181 | [99181-my-singing-monsters-composer.json](./99181-my-singing-monsters-composer.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
