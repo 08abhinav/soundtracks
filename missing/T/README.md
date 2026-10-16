@@ -7215,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
+| The Guardian Legend | 48058 | [48058-the-guardian-legend.json](./48058-the-guardian-legend.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
@@ -8036,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
+| The King of Fighters '98: Ultimate Match | 43643 | [43643-the-king-of-fighters-98-ultimate-match.json](./43643-the-king-of-fighters-98-ultimate-match.json) |
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
 | The King of Fighters '99: Millennium Battle | 15430 | [15430-the-king-of-fighters-99-millennium-battle.json](./15430-the-king-of-fighters-99-millennium-battle.json) |
 | The King of Fighters 02/03 | 78379 | [78379-the-king-of-fighters-02-03.json](./78379-the-king-of-fighters-02-03.json) |
@@ -16464,6 +16466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
 | Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
+| Tiny Toon Adventures 2: Trouble in Wackyland | 8047 | [8047-tiny-toon-adventures-2-trouble-in-wackyland.json](./8047-tiny-toon-adventures-2-trouble-in-wackyland.json) |
 | Tiny Toon Adventures Cartoon Workshop | 8045 | [8045-tiny-toon-adventures-cartoon-workshop.json](./8045-tiny-toon-adventures-cartoon-workshop.json) |
 | Tiny Toon Adventures: Acme All-Stars | 8052 | [8052-tiny-toon-adventures-acme-all-stars.json](./8052-tiny-toon-adventures-acme-all-stars.json) |
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
@@ -16974,6 +16977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
+| Todd McFarlane's Spawn: The Video Game | 42580 | [42580-todd-mcfarlanes-spawn-the-video-game.json](./42580-todd-mcfarlanes-spawn-the-video-game.json) |
 | Todd:Howard - You can (not) play forever | 113540 | [113540-todd-howard-you-can-not-play-forever.json](./113540-todd-howard-you-can-not-play-forever.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
@@ -18486,6 +18490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gensou Eclipse | 266899 | [266899-touhou-gensou-eclipse.json](./266899-touhou-gensou-eclipse.json) |
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gensou Rambu: Yuujou, Uragiri, Shouri | 204997 | [204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json](./204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json) |
+| Touhou Gensoukyou: Lotus Land Story | 45964 | [45964-touhou-gensoukyou-lotus-land-story.json](./45964-touhou-gensoukyou-lotus-land-story.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hack and Slash | 417458 | [417458-touhou-hack-and-slash.json](./417458-touhou-hack-and-slash.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
@@ -18620,6 +18625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
+| Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
@@ -18654,6 +18660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden 2: Mission Collection Set 2 | 167919 | [167919-toukiden-2-mission-collection-set-2.json](./167919-toukiden-2-mission-collection-set-2.json) |
 | Toukiden 2: Mission Collection Set 3 | 167918 | [167918-toukiden-2-mission-collection-set-3.json](./167918-toukiden-2-mission-collection-set-3.json) |
 | Toukiden 2: Mission Collection Set 4 | 167917 | [167917-toukiden-2-mission-collection-set-4.json](./167917-toukiden-2-mission-collection-set-4.json) |
+| Toukiden: Kiwami | 8657 | [8657-toukiden-kiwami.json](./8657-toukiden-kiwami.json) |
 | Toukiden: Kiwami - Mission Collection 1-3 | 171916 | [171916-toukiden-kiwami-mission-collection-1-3.json](./171916-toukiden-kiwami-mission-collection-1-3.json) |
 | Toukiden: Kiwami - Mission Collection 4-7 | 171917 | [171917-toukiden-kiwami-mission-collection-4-7.json](./171917-toukiden-kiwami-mission-collection-4-7.json) |
 | Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
