@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximize | 110253 | [110253-maximize.json](./110253-maximize.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
+| Maximo: Ghosts to Glory | 22054 | [22054-maximo-ghosts-to-glory.json](./22054-maximo-ghosts-to-glory.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
@@ -7867,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
+| Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
@@ -9975,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
+| Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
@@ -10504,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monobot | 127817 | [127817-monobot.json](./127817-monobot.json) |
 | Monoch Room | 315600 | [315600-monoch-room.json](./315600-monoch-room.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
+| Monochroma | 16873 | [16873-monochroma.json](./16873-monochroma.json) |
 | Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
@@ -11058,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
+| Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
