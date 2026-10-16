@@ -3173,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
+| Hellsplit: Arena | 117599 | [117599-hellsplit-arena.json](./117599-hellsplit-arena.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
 | Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinatazaka46 to Fushigi na Toshoshitsu | 223967 | [223967-hinatazaka46-to-fushigi-na-toshoshitsu.json](./223967-hinatazaka46-to-fushigi-na-toshoshitsu.json) |
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
+| Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
