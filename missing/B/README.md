@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
 | Backspace | 343467 | [343467-backspace.json](./343467-backspace.json) |
 | Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
+| Backspace Bouken | 119820 | [119820-backspace-bouken.json](./119820-backspace-bouken.json) |
 | Backspin Billards | 205901 | [205901-backspin-billards.json](./205901-backspin-billards.json) |
 | Backstab | 271663 | [271663-backstab.json](./271663-backstab.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
+| Ballex | 120937 | [120937-ballex.json](./120937-ballex.json) |
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballgame | 393571 | [393571-ballgame.json](./393571-ballgame.json) |
@@ -7416,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks Tracks Trains | 224594 | [224594-blocks-tracks-trains.json](./224594-blocks-tracks-trains.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
+| Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | BlockShip Wars: Roguelike | 81689 | [81689-blockship-wars-roguelike.json](./81689-blockship-wars-roguelike.json) |
@@ -8432,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
 | Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
+| Boet Fighter | 120999 | [120999-boet-fighter.json](./120999-boet-fighter.json) |
 | Boffin | 15682 | [15682-boffin.json](./15682-boffin.json) |
 | Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
 | Boffo's Breakfast | 367619 | [367619-boffos-breakfast.json](./367619-boffos-breakfast.json) |
@@ -11117,6 +11121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruken | 116173 | [116173-bruken.json](./116173-bruken.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
+| Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
@@ -11839,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
+| Bullet Roulette VR | 121064 | [121064-bullet-roulette-vr.json](./121064-bullet-roulette-vr.json) |
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
