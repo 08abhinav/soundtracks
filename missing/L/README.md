@@ -6623,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
 | Lumber Duck: Sky Saw Mill | 28104 | [28104-lumber-duck-sky-saw-mill.json](./28104-lumber-duck-sky-saw-mill.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
+| Lumber Island: That Special Place | 34444 | [34444-lumber-island-that-special-place.json](./34444-lumber-island-that-special-place.json) |
 | Lumber jacked | 62081 | [62081-lumber-jacked.json](./62081-lumber-jacked.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
