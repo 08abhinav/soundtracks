@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
+| Fariwalk: The Prelude | 74997 | [74997-fariwalk-the-prelude.json](./74997-fariwalk-the-prelude.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
@@ -6290,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Girls | 112956 | [112956-food-girls.json](./112956-food-girls.json) |
 | Food Girls: Civil War | 127701 | [127701-food-girls-civil-war.json](./127701-food-girls-civil-war.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
+| Food Hunter | 74438 | [74438-food-hunter.json](./74438-food-hunter.json) |
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
