@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
+| Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
@@ -4038,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
+| ReStory: Chill Electronics Repairs | 380960 | [380960-restory-chill-electronics-repairs.json](./380960-restory-chill-electronics-repairs.json) |
 | Restrain | 286750 | [286750-restrain.json](./286750-restrain.json) |
 | ReStreamed | 179608 | [179608-restreamed.json](./179608-restreamed.json) |
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
