@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
+| Gambler Jiko Chuushinha: Ippatsu Shoubu! | 420493 | [420493-gambler-jiko-chuushinha-ippatsu-shoubu.json](./420493-gambler-jiko-chuushinha-ippatsu-shoubu.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
 | Garage | 108875 | [108875-garage.json](./108875-garage.json) |
+| Garage Chaos | 420481 | [420481-garage-chaos.json](./420481-garage-chaos.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
@@ -1234,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Day | 11785 | [11785-garbage-day.json](./11785-garbage-day.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
+| Garbage Incident | 420487 | [420487-garbage-incident.json](./420487-garbage-incident.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
