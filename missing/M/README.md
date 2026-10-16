@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Mansion | 25826 | [25826-maid-mansion.json](./25826-maid-mansion.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
+| Maid of Sker | 111544 | [111544-maid-of-sker.json](./111544-maid-of-sker.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
@@ -6605,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Force: Tank Shooter | 87113 | [87113-metal-force-tank-shooter.json](./87113-metal-force-tank-shooter.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
+| Metal Gear | 133917 | [133917-metal-gear.json](./133917-metal-gear.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
 | Metal Gear | 374 | [374-metal-gear.json](./374-metal-gear.json) |
 | Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
@@ -8949,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
+| Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
@@ -13524,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation of J.B. | 186582 | [186582-mutation-of-j-b.json](./186582-mutation-of-j-b.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
+| Mutazione | 64957 | [64957-mutazione.json](./64957-mutazione.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
@@ -13988,6 +13992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero Holiday | 184330 | [184330-my-hero-holiday.json](./184330-my-hero-holiday.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
+| My Hero One's Justice | 76428 | [76428-my-hero-ones-justice.json](./76428-my-hero-ones-justice.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hero One's Justice 2: Collector's Edition | 136129 | [136129-my-hero-ones-justice-2-collectors-edition.json](./136129-my-hero-ones-justice-2-collectors-edition.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
