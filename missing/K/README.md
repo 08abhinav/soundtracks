@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Solitaire 3 | 212987 | [212987-knight-solitaire-3.json](./212987-knight-solitaire-3.json) |
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
+| Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
