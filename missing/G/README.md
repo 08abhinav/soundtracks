@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie | 373632 | [373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json](./373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json) |
+| Granblue Fantasy Versus: Rising | 232699 | [232699-granblue-fantasy-versus-rising.json](./232699-granblue-fantasy-versus-rising.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Set - Sandalphon | 339965 | [339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json](./339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Vane | 294977 | [294977-granblue-fantasy-versus-rising-additional-character-vane.json](./294977-granblue-fantasy-versus-rising-additional-character-vane.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Beatrix | 301988 | [301988-granblue-fantasy-versus-rising-additional-character-beatrix.json](./301988-granblue-fantasy-versus-rising-additional-character-beatrix.json) |
@@ -5478,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto V: Special Edition | 45131 | [45131-grand-theft-auto-v-special-edition.json](./45131-grand-theft-auto-v-special-edition.json) |
+| Grand Theft Auto V: Story Mode | 239060 | [239060-grand-theft-auto-v-story-mode.json](./239060-grand-theft-auto-v-story-mode.json) |
 | Grand Theft Auto VI: Ultimate Edition | 407999 | [407999-grand-theft-auto-vi-ultimate-edition.json](./407999-grand-theft-auto-vi-ultimate-edition.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
