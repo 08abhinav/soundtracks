@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
+| Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
@@ -9346,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
+| Conquer the Labyrinth | 422462 | [422462-conquer-the-labyrinth.json](./422462-conquer-the-labyrinth.json) |
 | Conquer the Skies | 207017 | [207017-conquer-the-skies.json](./207017-conquer-the-skies.json) |
 | Conquer the Universe | 207019 | [207019-conquer-the-universe.json](./207019-conquer-the-universe.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
@@ -9391,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
 | Conquest of the New World | 655 | [655-conquest-of-the-new-world.json](./655-conquest-of-the-new-world.json) |
 | Conquest of the New World: Deluxe Edition | 2616 | [2616-conquest-of-the-new-world-deluxe-edition.json](./2616-conquest-of-the-new-world-deluxe-edition.json) |
+| Conquest of the Realms | 422488 | [422488-conquest-of-the-realms.json](./422488-conquest-of-the-realms.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
@@ -12865,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
+| Cryptward Online | 422493 | [422493-cryptward-online.json](./422493-cryptward-online.json) |
 | Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
 | Crysis 2: Maximum Edition | 28722 | [28722-crysis-2-maximum-edition.json](./28722-crysis-2-maximum-edition.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
