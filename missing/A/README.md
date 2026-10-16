@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition | 89898 | [89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json](./89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
+| Adventure Time: Pirates of the Enchiridion | 78149 | [78149-adventure-time-pirates-of-the-enchiridion.json](./78149-adventure-time-pirates-of-the-enchiridion.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
 | Adventure Time: Treasure Fetch | 96186 | [96186-adventure-time-treasure-fetch.json](./96186-adventure-time-treasure-fetch.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
+| Age of Empires III: Complete Collection | 28723 | [28723-age-of-empires-iii-complete-collection.json](./28723-age-of-empires-iii-complete-collection.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
@@ -3260,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Kiss FD: Nanase After | 396021 | [396021-ai-kiss-fd-nanase-after.json](./396021-ai-kiss-fd-nanase-after.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
+| AI Limit | 115846 | [115846-ai-limit.json](./115846-ai-limit.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
@@ -9508,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
+| Army Men: Sarge's Heroes 2 | 3441 | [3441-army-men-sarges-heroes-2.json](./3441-army-men-sarges-heroes-2.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
 | Army Men: World War | 201092 | [201092-army-men-world-war.json](./201092-army-men-world-war.json) |
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
