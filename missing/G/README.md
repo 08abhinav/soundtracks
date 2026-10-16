@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantes Ex Machina | 360052 | [360052-gigantes-ex-machina.json](./360052-gigantes-ex-machina.json) |
+| Gigantic Army | 10363 | [10363-gigantic-army.json](./10363-gigantic-army.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
 | Global Infection | 117433 | [117433-global-infection.json](./117433-global-infection.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
+| Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
@@ -7219,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
 | Guitar Hero: Brazucas | 275229 | [275229-guitar-hero-brazucas.json](./275229-guitar-hero-brazucas.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
+| Guitar Hero: On Tour - Modern Hits | 7090 | [7090-guitar-hero-on-tour-modern-hits.json](./7090-guitar-hero-on-tour-modern-hits.json) |
 | Guitar Hero: Smash Hits | 2677 | [2677-guitar-hero-smash-hits.json](./2677-guitar-hero-smash-hits.json) |
 | Guitar Hero: Sonic VS Mario | 310673 | [310673-guitar-hero-sonic-vs-mario.json](./310673-guitar-hero-sonic-vs-mario.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
