@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
 | Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
+| Wario's Woods | 190013 | [190013-warios-woods.json](./190013-warios-woods.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | WarioWare, Inc.: Mega Microgame$! | 1703 | [1703-warioware-inc-mega-microgame.json](./1703-warioware-inc-mega-microgame.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
+| Wizball | 12234 | [12234-wizball.json](./12234-wizball.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizbirds Online | 145943 | [145943-wizbirds-online.json](./145943-wizbirds-online.json) |
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
