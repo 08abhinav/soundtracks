@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
+| Fears to Fathom: Norwood Hitchhike | 186437 | [186437-fears-to-fathom-norwood-hitchhike.json](./186437-fears-to-fathom-norwood-hitchhike.json) |
 | Fears to Fathom: Scratch Creek | 348971 | [348971-fears-to-fathom-scratch-creek.json](./348971-fears-to-fathom-scratch-creek.json) |
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240181 | [240181-fifa-soccer-97.json](./240181-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240191 | [240191-fifa-soccer-97.json](./240191-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
+| FIFA Soccer 97 | 45582 | [45582-fifa-soccer-97.json](./45582-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
@@ -7437,6 +7439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
+| Four Last Things | 27308 | [27308-four-last-things.json](./27308-four-last-things.json) |
 | Four Legerior | 118878 | [118878-four-legerior.json](./118878-four-legerior.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
