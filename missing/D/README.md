@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
+| Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
 | Dark Resolve | 358238 | [358238-dark-resolve.json](./358238-dark-resolve.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver us the Moon: Digital Deluxe | 227351 | [227351-deliver-us-the-moon-digital-deluxe.json](./227351-deliver-us-the-moon-digital-deluxe.json) |
 | Deliverace | 97101 | [97101-deliverace.json](./97101-deliverace.json) |
 | Deliverage | 406212 | [406212-deliverage.json](./406212-deliverage.json) |
+| Deliverance | 14639 | [14639-deliverance.json](./14639-deliverance.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 221655 | [221655-deliverance.json](./221655-deliverance.json) |
 | Deliverance | 322670 | [322670-deliverance.json](./322670-deliverance.json) |
@@ -4122,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
 | Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
+| Delta | 13839 | [13839-delta.json](./13839-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
@@ -5566,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
 | DeviloutionX | 374214 | [374214-deviloutionx.json](./374214-deviloutionx.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
+| Devils & Demons | 13170 | [13170-devils-and-demons.json](./13170-devils-and-demons.json) |
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
@@ -9045,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
+| Doomsday Castle | 14038 | [14038-doomsday-castle.json](./14038-doomsday-castle.json) |
 | Doomsday Cave | 258125 | [258125-doomsday-cave.json](./258125-doomsday-cave.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Clicker | 58406 | [58406-doomsday-clicker.json](./58406-doomsday-clicker.json) |
@@ -13177,6 +13182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
+| Dynamite Dan | 13616 | [13616-dynamite-dan.json](./13616-dynamite-dan.json) |
 | Dynamite Dan II | 13617 | [13617-dynamite-dan-ii.json](./13617-dynamite-dan-ii.json) |
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
