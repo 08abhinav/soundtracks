@@ -101,9 +101,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter III: The Next Harvest | 73693 | [73693-cabelas-big-game-hunter-iii-the-next-harvest.json](./73693-cabelas-big-game-hunter-iii-the-next-harvest.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
+| Cabela's Big Game Hunter: 2005 Adventures | 3842 | [3842-cabelas-big-game-hunter-2005-adventures.json](./3842-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
+| Cabela's Dangerous Hunts 2009 | 4737 | [4737-cabelas-dangerous-hunts-2009.json](./4737-cabelas-dangerous-hunts-2009.json) |
 | Cabela's Dangerous Hunts 2011 | 4738 | [4738-cabelas-dangerous-hunts-2011.json](./4738-cabelas-dangerous-hunts-2011.json) |
 | Cabela's Dangerous Hunts: Ultimate Challenge | 80845 | [80845-cabelas-dangerous-hunts-ultimate-challenge.json](./80845-cabelas-dangerous-hunts-ultimate-challenge.json) |
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
@@ -7975,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
+| College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
@@ -13208,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
+| Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
