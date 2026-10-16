@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Detective | 160107 | [160107-kid-detective.json](./160107-kid-detective.json) |
+| Kid Dracula | 1120 | [1120-kid-dracula.json](./1120-kid-dracula.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
 | Kid Fit: Island Resort | 51070 | [51070-kid-fit-island-resort.json](./51070-kid-fit-island-resort.json) |
 | Kid Funky | 134506 | [134506-kid-funky.json](./134506-kid-funky.json) |
