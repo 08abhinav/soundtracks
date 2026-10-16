@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
+| Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
 | Teo 64 | 299564 | [299564-teo-64.json](./299564-teo-64.json) |
@@ -4352,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banana Saved the World | 157902 | [157902-the-banana-saved-the-world.json](./157902-the-banana-saved-the-world.json) |
 | The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
+| The Banished Vault | 242009 | [242009-the-banished-vault.json](./242009-the-banished-vault.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
@@ -5610,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
+| The Dark Pictures: Switchback VR | 224413 | [224413-the-dark-pictures-switchback-vr.json](./224413-the-dark-pictures-switchback-vr.json) |
 | The Dark Pictures: Volume 1 | 249739 | [249739-the-dark-pictures-volume-1.json](./249739-the-dark-pictures-volume-1.json) |
 | The Dark Plague | 399151 | [399151-the-dark-plague.json](./399151-the-dark-plague.json) |
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
@@ -13889,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
+| Thick as Thieves | 224511 | [224511-thick-as-thieves.json](./224511-thick-as-thieves.json) |
 | Thick Light | 334794 | [334794-thick-light.json](./334794-thick-light.json) |
 | Thick Light 2 | 334814 | [334814-thick-light-2.json](./334814-thick-light-2.json) |
 | Thick Light 3 | 334837 | [334837-thick-light-3.json](./334837-thick-light-3.json) |
@@ -15835,6 +15839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2000 | 8811 | [8811-tiger-woods-pga-tour-2000.json](./8811-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2001 | 8812 | [8812-tiger-woods-pga-tour-2001.json](./8812-tiger-woods-pga-tour-2001.json) |
 | Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
+| Tiger Woods PGA Tour 2004 | 243022 | [243022-tiger-woods-pga-tour-2004.json](./243022-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 243023 | [243023-tiger-woods-pga-tour-2004.json](./243023-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
@@ -18754,6 +18759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
 | Touhou: Lost Branch of Legend | 208635 | [208635-touhou-lost-branch-of-legend.json](./208635-touhou-lost-branch-of-legend.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
+| Touhou: New World | 242038 | [242038-touhou-new-world.json](./242038-touhou-new-world.json) |
 | Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Shooting Star | 150753 | [150753-touhou-shooting-star.json](./150753-touhou-shooting-star.json) |
