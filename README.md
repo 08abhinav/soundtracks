@@ -734,6 +734,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27372feca5d2c710e76a7bd1615" width="60" /> | [Little Nightmares II](https://ostdb.net/games/little-nightmares-ii) | **Little Nightmares II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3g2LMrn6Ds7NfKWeiQe8ep)<br>**Little Nightmares II - Bonus Tracks (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/11O60opCZS2stzblfvZnWx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f1061d97cf021dc977b9a55c" width="60" /> | [Little Nightmares III](https://ostdb.net/games/little-nightmares-iii) | **Little Nightmares III (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7mgGfenwgDd2R2H9fUNpgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273483587d9073df60885738f9d" width="60" /> | [LittleBigPlanet](https://ostdb.net/games/littlebigplanet) | **LittleBigPlanet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273483587d9073df60885738f9d" width="60" /> | [LittleBigPlanet](https://ostdb.net/games/littlebigplanet) | **LittleBigPlanet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/1a/3e/721a3e1e-b1a1-849c-54c9-747d6f1c310b/196872922295.jpg/600x600bb.jpg" width="60" /> | [LittleBigPlanet 2](https://ostdb.net/games/littlebigplanet-2) | **LittleBigPlanet 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1tZqXH48vp932kY9ZuHDbU) · [Apple Music](https://music.apple.com/us/album/littlebigplanet-2-original-game-soundtrack/1798272955) · [Album](https://album.link/i/1798272955) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfece20d4dde263abed658d5" width="60" /> | [LittleBigPlanet 3](https://ostdb.net/games/littlebigplanet-3) | **LittleBigPlanet 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5nwloVlGgbHIu4noBGGBf7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cd229a097fd284700e2c25a" width="60" /> | [Live A Live](https://ostdb.net/games/live-a-live) | **LIVE A LIVE Original Soundtrack Re-Release** · [Spotify](https://open.spotify.com/album/6PMCmi6QQjdedrkFrPDrAT) |
@@ -1496,4 +1497,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1813 soundtracks · last updated 2026-10-16T05:51:49.967Z_
+_1814 soundtracks · last updated 2026-10-16T05:52:03.054Z_
