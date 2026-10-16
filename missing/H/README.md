@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
 | Harsh | 81994 | [81994-harsh.json](./81994-harsh.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
+| Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
 | Haru | 148855 | [148855-haru.json](./148855-haru.json) |
