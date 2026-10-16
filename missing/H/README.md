@@ -5153,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Frontier 4 All | 404412 | [404412-high-frontier-4-all.json](./404412-high-frontier-4-all.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Für 3 Score | 243019 | [243019-high-fur-3-score.json](./243019-high-fur-3-score.json) |
+| High Gravity | 421218 | [421218-high-gravity.json](./421218-high-gravity.json) |
 | High Heat Baseball 1999 | 68250 | [68250-high-heat-baseball-1999.json](./68250-high-heat-baseball-1999.json) |
 | High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
@@ -7283,7 +7284,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
 | Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
 | Hot Wheels Infinite Rush: Feel the Heat Pack | 411831 | [411831-hot-wheels-infinite-rush-feel-the-heat-pack.json](./411831-hot-wheels-infinite-rush-feel-the-heat-pack.json) |
+| Hot Wheels Infinite Rush: Just for Fun Pack | 421206 | [421206-hot-wheels-infinite-rush-just-for-fun-pack.json](./421206-hot-wheels-infinite-rush-just-for-fun-pack.json) |
 | Hot Wheels Infinite Rush: Power & Pace Pack | 411830 | [411830-hot-wheels-infinite-rush-power-and-pace-pack.json](./411830-hot-wheels-infinite-rush-power-and-pace-pack.json) |
+| Hot Wheels Infinite Rush: Vehicle Pass | 421207 | [421207-hot-wheels-infinite-rush-vehicle-pass.json](./421207-hot-wheels-infinite-rush-vehicle-pass.json) |
 | Hot Wheels Let's Race: Ultimate Speed - Deluxe Edition | 371436 | [371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json](./371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json) |
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
