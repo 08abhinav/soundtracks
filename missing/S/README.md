@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
+| ScrapCrew: Running on Fumes | 418623 | [418623-scrapcrew-running-on-fumes.json](./418623-scrapcrew-running-on-fumes.json) |
 | ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
 | Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Grade Learning Games | 89083 | [89083-second-grade-learning-games.json](./89083-second-grade-learning-games.json) |
 | Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
+| Second Heart | 418605 | [418605-second-heart.json](./418605-second-heart.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Period Chemistry | 181660 | [181660-second-period-chemistry.json](./181660-second-period-chemistry.json) |
@@ -6236,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Wave 2: Beyond the Gate | 4280 | [4280-shock-wave-2-beyond-the-gate.json](./4280-shock-wave-2-beyond-the-gate.json) |
 | Shock Wave: Operation JumpGate | 4310 | [4310-shock-wave-operation-jumpgate.json](./4310-shock-wave-operation-jumpgate.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
+| Shockface | 418621 | [418621-shockface.json](./418621-shockface.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shocklane | 176226 | [176226-shocklane.json](./176226-shocklane.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
@@ -7026,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
 | Sid Meier's Civilization VII: Tides of Power Collection | 376099 | [376099-sid-meiers-civilization-vii-tides-of-power-collection.json](./376099-sid-meiers-civilization-vii-tides-of-power-collection.json) |
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
+| Sid Meier's Civilization VII: Update 1.5.0 | 418618 | [418618-sid-meiers-civilization-vii-update-1-5-0.json](./418618-sid-meiers-civilization-vii-update-1-5-0.json) |
 | Sid Meier's Civilization VII: VR | 330781 | [330781-sid-meiers-civilization-vii-vr.json](./330781-sid-meiers-civilization-vii-vr.json) |
 | Sid Meier's Civilization VII: Xerxes (The Achaemenid) Persona | 360537 | [360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json](./360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json) |
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
@@ -11122,6 +11126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
+| Soda Slinger | 418595 | [418595-soda-slinger.json](./418595-soda-slinger.json) |
 | Soda Splash | 340356 | [340356-soda-splash.json](./340356-soda-splash.json) |
 | Soda Star | 35496 | [35496-soda-star.json](./35496-soda-star.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
@@ -14499,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
+| Spectrakin | 418636 | [418636-spectrakin.json](./418636-spectrakin.json) |
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
@@ -16723,6 +16729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
+| Star Duality | 418603 | [418603-star-duality.json](./418603-star-duality.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
