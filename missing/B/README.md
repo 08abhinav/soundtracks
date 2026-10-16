@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
+| Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
 | Barnyard | 3794 | [3794-barnyard.json](./3794-barnyard.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
@@ -7931,6 +7932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
+| Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Tales: The Sleeping King | 27994 | [27994-blossom-tales-the-sleeping-king.json](./27994-blossom-tales-the-sleeping-king.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
