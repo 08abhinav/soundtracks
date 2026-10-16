@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
+| Wolf of the Battlefield: Commando 3 | 21342 | [21342-wolf-of-the-battlefield-commando-3.json](./21342-wolf-of-the-battlefield-commando-3.json) |
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
@@ -6253,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
+| WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
 | WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
