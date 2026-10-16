@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
 | Lily's Memories | 259462 | [259462-lilys-memories.json](./259462-lilys-memories.json) |
+| Lily's Night Off | 104845 | [104845-lilys-night-off.json](./104845-lilys-night-off.json) |
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
@@ -5697,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
+| Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
 | Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
@@ -6490,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy | 175119 | [175119-lucy.json](./175119-lucy.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
+| Lucy Got Problems | 105099 | [105099-lucy-got-problems.json](./105099-lucy-got-problems.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
 | Lucy's Adventure | 334349 | [334349-lucys-adventure.json](./334349-lucys-adventure.json) |
 | Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
