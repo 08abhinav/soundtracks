@@ -6315,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
 | Black Sailors | 381172 | [381172-black-sailors.json](./381172-black-sailors.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
+| Black Sails: The Ghost Ship | 12692 | [12692-black-sails-the-ghost-ship.json](./12692-black-sails-the-ghost-ship.json) |
 | Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
