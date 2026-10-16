@@ -9015,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
 | Slash It | 30129 | [30129-slash-it.json](./30129-slash-it.json) |
+| Slash It 2 | 29694 | [29694-slash-it-2.json](./29694-slash-it-2.json) |
 | Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash Ninja | 147651 | [147651-slash-ninja.json](./147651-slash-ninja.json) |
@@ -10660,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
+| Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
 | Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
@@ -11302,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarix | 17146 | [17146-solarix.json](./17146-solarix.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
+| Solaroids: Prologue | 29314 | [29314-solaroids-prologue.json](./29314-solaroids-prologue.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
@@ -11618,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solward | 335468 | [335468-solward.json](./335468-solward.json) |
 | SoM Soul of Mask | 75424 | [75424-som-soul-of-mask.json](./75424-som-soul-of-mask.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
+| Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
@@ -13573,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
+| Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
@@ -17856,6 +17861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
+| State of Anarchy: Master of Mayhem | 29889 | [29889-state-of-anarchy-master-of-mayhem.json](./29889-state-of-anarchy-master-of-mayhem.json) |
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
@@ -20013,6 +20019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
 | Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
+| Stupid Raft Battle Simulator | 29375 | [29375-stupid-raft-battle-simulator.json](./29375-stupid-raft-battle-simulator.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
 | Stupid Stories | 149689 | [149689-stupid-stories.json](./149689-stupid-stories.json) |
