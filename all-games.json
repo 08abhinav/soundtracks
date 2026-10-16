@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:56:25.452Z",
-  "total_soundtracks": 1831,
+  "generated_at": "2026-10-16T05:56:38.972Z",
+  "total_soundtracks": 1832,
   "games": [
     {
       "igdb_id": 7522,
@@ -11859,6 +11859,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-gravewalker-from-middle-earth-shadow-of-mordor/946042331?uo=4",
           "album_link_url": "https://album.link/i/946042331"
+        }
+      ]
+    },
+    {
+      "igdb_id": 159720,
+      "game_name": "Milk Outside a Bag of Milk Outside a Bag of Milk",
+      "game_url": "https://ostdb.net/games/milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27378054df2c3d30e34c828a1e5",
+      "albums": [
+        {
+          "album_name": "Milk Outside a Bag of Milk Outside a Bag of Milk (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2YBs94INDcFjQZ3GtJt23e",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
