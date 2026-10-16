@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
 | Targets | 234656 | [234656-targets.json](./234656-targets.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
+| Tarim | 55314 | [55314-tarim.json](./55314-tarim.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
@@ -16891,6 +16892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
+| TNT Racers: Nitro Machines Edition | 51152 | [51152-tnt-racers-nitro-machines-edition.json](./51152-tnt-racers-nitro-machines-edition.json) |
 | TNT: Evilution | 313169 | [313169-tnt-evilution.json](./313169-tnt-evilution.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT: Renascence | 260860 | [260860-tnt-renascence.json](./260860-tnt-renascence.json) |
