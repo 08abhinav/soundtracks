@@ -9519,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
+| The Masterplan | 10995 | [10995-the-masterplan.json](./10995-the-masterplan.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
 | The Match | 301545 | [301545-the-match.json](./301545-the-match.json) |
@@ -13893,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief Simulator: Shopping Center | 260570 | [260570-thief-simulator-shopping-center.json](./260570-thief-simulator-shopping-center.json) |
+| Thief Town | 11223 | [11223-thief-town.json](./11223-thief-town.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
@@ -16677,6 +16679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
+| Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
 | Titanfall: IMC Rising | 20225 | [20225-titanfall-imc-rising.json](./20225-titanfall-imc-rising.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74237 | [74237-titanic.json](./74237-titanic.json) |
@@ -17742,6 +17745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
 | Tony Hawk's Existential Nightmare | 178029 | [178029-tony-hawks-existential-nightmare.json](./178029-tony-hawks-existential-nightmare.json) |
+| Tony Hawk's Motion | 21929 | [21929-tony-hawks-motion.json](./21929-tony-hawks-motion.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
@@ -21601,6 +21605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | Triggered: Assault | 110493 | [110493-triggered-assault.json](./110493-triggered-assault.json) |
+| Triggerheart Exelica | 21850 | [21850-triggerheart-exelica.json](./21850-triggerheart-exelica.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | TriggerHeart Exelica Enhanced | 348965 | [348965-triggerheart-exelica-enhanced.json](./348965-triggerheart-exelica-enhanced.json) |
 | Triggering Simulator | 129110 | [129110-triggering-simulator.json](./129110-triggering-simulator.json) |
@@ -22661,6 +22666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tunnel | 102348 | [102348-turbo-tunnel.json](./102348-turbo-tunnel.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
 | Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
+| Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
 | Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
