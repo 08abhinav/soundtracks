@@ -7896,6 +7896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 75974 | [75974-mighty-morphin-power-rangers.json](./75974-mighty-morphin-power-rangers.json) |
+| Mighty Morphin Power Rangers | 75978 | [75978-mighty-morphin-power-rangers.json](./75978-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 75979 | [75979-mighty-morphin-power-rangers.json](./75979-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
 | Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
