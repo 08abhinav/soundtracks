@@ -6263,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
+| Wrath of Loki: VR Adventure | 23892 | [23892-wrath-of-loki-vr-adventure.json](./23892-wrath-of-loki-vr-adventure.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
