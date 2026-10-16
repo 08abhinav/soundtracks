@@ -697,6 +697,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273853d9d9db6ac202a4af5fc50" width="60" /> | [Jetpack Joyride](https://ostdb.net/games/jetpack-joyride) | **Jetpack Joyride (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d9e31d06b87b1a6d4065fc1" width="60" /> | [John Carpenter's Toxic Commando](https://ostdb.net/games/john-carpenters-toxic-commando) | **In the Hall of the Zombie King (Toxic Commando Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/5k8uX7ZJzTI4FFyUNdugjg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273408d222041f4a60f7d38b223" width="60" /> | [Journey](https://ostdb.net/games/journey) | **Journey (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327947471425a3933946f464a" width="60" /> | [Jurassic Park: Operation Genesis](https://ostdb.net/games/jurassic-park-operation-genesis) | **Jurassic Park Operation Genesis (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3xXxmEL4M96QXo7I9zFpIi) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/90/37/7090374b-db22-7331-9cca-84f17814e56c/7575.jpg/600x600bb.jpg" width="60" /> | [Jurassic World Evolution](https://ostdb.net/games/jurassic-world-evolution) | **Jurassic World Evolution (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/jurassic-world-evolution-official-game-soundtrack/1701111795?uo=4) · [Album](https://album.link/i/1701111795) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f23c85162d6e196899853ab4" width="60" /> | [Jötunnslayer: Hordes of Hel](https://ostdb.net/games/jotunnslayer-hordes-of-hel) | **Jotunnslayer: Hordes of Hel (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6WC66wleUNZAZRmhwCI5Xg) |
 
@@ -1550,4 +1551,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1867 soundtracks · last updated 2026-10-16T06:12:08.620Z_
+_1868 soundtracks · last updated 2026-10-16T06:12:22.305Z_
