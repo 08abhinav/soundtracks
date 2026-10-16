@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's be architects | 81659 | [81659-lets-be-architects.json](./81659-lets-be-architects.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
+| Let's Bowl VR | 55424 | [55424-lets-bowl-vr.json](./55424-lets-bowl-vr.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Dungeon | 314389 | [314389-lets-build-a-dungeon.json](./314389-lets-build-a-dungeon.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logo Quiz: Guess the Image | 232483 | [232483-logo-quiz-guess-the-image.json](./232483-logo-quiz-guess-the-image.json) |
+| Logos | 55401 | [55401-logos.json](./55401-logos.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Logout | 96856 | [96856-logout.json](./96856-logout.json) |
