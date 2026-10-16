@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
+| The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
@@ -7330,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
+| The Hardest Dungeon | 99040 | [99040-the-hardest-dungeon.json](./99040-the-hardest-dungeon.json) |
 | The Hardest Game Ever | 265045 | [265045-the-hardest-game-ever.json](./265045-the-hardest-game-ever.json) |
 | The hardest game in the universe 2 | 197201 | [197201-the-hardest-game-in-the-universe-2.json](./197201-the-hardest-game-in-the-universe-2.json) |
 | The Hardest Game in the Universe 2: Bridging to the Third Chapter | 310404 | [310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json](./310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json) |
@@ -10979,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Road To Harvest: Food From Across The Ocean | 328105 | [328105-the-road-to-harvest-food-from-across-the-ocean.json](./328105-the-road-to-harvest-food-from-across-the-ocean.json) |
 | The Road to Recovery: A Personal 2D Adventure Game | 259174 | [259174-the-road-to-recovery-a-personal-2d-adventure-game.json](./259174-the-road-to-recovery-a-personal-2d-adventure-game.json) |
+| The Road Trip | 100460 | [100460-the-road-trip.json](./100460-the-road-trip.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
@@ -16286,6 +16289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
+| TimeTekker | 100423 | [100423-timetekker.json](./100423-timetekker.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeTravelers | 74925 | [74925-timetravelers.json](./74925-timetravelers.json) |
@@ -17066,9 +17070,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
+| Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
+| Toca Kitchen 2 | 95708 | [95708-toca-kitchen-2.json](./95708-toca-kitchen-2.json) |
 | Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
@@ -22586,6 +22592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
+| Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
@@ -23393,6 +23400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon of Steel | 47115 | [47115-typhoon-of-steel.json](./47115-typhoon-of-steel.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
+| Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
