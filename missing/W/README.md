@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Online: Age of Reckoning | 215 | [215-warhammer-online-age-of-reckoning.json](./215-warhammer-online-age-of-reckoning.json) |
 | Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
 | Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
 | What Misaki holds in her hand is her deduction | 401725 | [401725-what-misaki-holds-in-her-hand-is-her-deduction.json](./401725-what-misaki-holds-in-her-hand-is-her-deduction.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
+| What Never Was | 113512 | [113512-what-never-was.json](./113512-what-never-was.json) |
 | What Never Was: Chapter II | 154275 | [154275-what-never-was-chapter-ii.json](./154275-what-never-was-chapter-ii.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
@@ -6102,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Revolution: Gold Edition | 52111 | [52111-worms-revolution-gold-edition.json](./52111-worms-revolution-gold-edition.json) |
 | Worms Revolution: Mars Pack | 168925 | [168925-worms-revolution-mars-pack.json](./168925-worms-revolution-mars-pack.json) |
 | Worms Revolution: Medieval Tales | 168926 | [168926-worms-revolution-medieval-tales.json](./168926-worms-revolution-medieval-tales.json) |
+| Worms Rumble | 135554 | [135554-worms-rumble.json](./135554-worms-rumble.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
