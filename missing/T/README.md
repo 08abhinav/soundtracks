@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
+| Technomancer | 423231 | [423231-technomancer.json](./423231-technomancer.json) |
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
 | Technophobia: Do Androids go to Heaven? | 253838 | [253838-technophobia-do-androids-go-to-heaven.json](./253838-technophobia-do-androids-go-to-heaven.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
+| Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
 | Terraformers & Moonshine Inc.: Mars and Moon Bundle | 273006 | [273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json](./273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json) |
@@ -16176,6 +16178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
 | Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
 | Time Navigator | 152022 | [152022-time-navigator.json](./152022-time-navigator.json) |
+| Time O'Clock: The Mask of Crime | 423245 | [423245-time-oclock-the-mask-of-crime.json](./423245-time-oclock-the-mask-of-crime.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
@@ -19334,6 +19337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
 | Toy Bot Mini Missions | 80622 | [80622-toy-bot-mini-missions.json](./80622-toy-bot-mini-missions.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
+| Toy Box | 423238 | [423238-toy-box.json](./423238-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
