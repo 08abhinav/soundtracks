@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
 | Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
+| Bad House | 418601 | [418601-bad-house.json](./418601-bad-house.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella: The girl in the Woods | 148836 | [148836-bella-the-girl-in-the-woods.json](./148836-bella-the-girl-in-the-woods.json) |
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
+| Bellagarth's Quest | 418569 | [418569-bellagarths-quest.json](./418569-bellagarths-quest.json) |
 | Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
@@ -7635,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Impact | 173003 | [173003-blood-impact.json](./173003-blood-impact.json) |
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
+| Blood in the Water | 418555 | [418555-blood-in-the-water.json](./418555-blood-in-the-water.json) |
 | Blood Island | 113898 | [113898-blood-island.json](./113898-blood-island.json) |
 | Blood Island | 191035 | [191035-blood-island.json](./191035-blood-island.json) |
 | Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
@@ -8451,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
+| Body Harvest: Recompiled | 418633 | [418633-body-harvest-recompiled.json](./418633-body-harvest-recompiled.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
@@ -8798,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
+| Bombernaut 67 | 418602 | [418602-bombernaut-67.json](./418602-bombernaut-67.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
@@ -12058,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
+| Bunco With Clara | 418598 | [418598-bunco-with-clara.json](./418598-bunco-with-clara.json) |
 | Bunderkin: The Ocular Eclipse | 406671 | [406671-bunderkin-the-ocular-eclipse.json](./406671-bunderkin-the-ocular-eclipse.json) |
 | Bundesliga 99 | 92947 | [92947-bundesliga-99.json](./92947-bundesliga-99.json) |
 | Bundesliga Manager | 71985 | [71985-bundesliga-manager.json](./71985-bundesliga-manager.json) |
