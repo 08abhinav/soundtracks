@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
+| eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
+| Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldest Souls | 116403 | [116403-eldest-souls.json](./116403-eldest-souls.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
@@ -3837,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
+| Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
@@ -5007,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
+| Evotinction | 115848 | [115848-evotinction.json](./115848-evotinction.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EvoWorld.io | 360508 | [360508-evoworld-io.json](./360508-evoworld-io.json) |
