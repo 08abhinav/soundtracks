@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi Driver Simulator: Car Parking | 234515 | [234515-taxi-driver-simulator-car-parking.json](./234515-taxi-driver-simulator-car-parking.json) |
 | Taxi Driver: The Simulation | 147760 | [147760-taxi-driver-the-simulation.json](./147760-taxi-driver-the-simulation.json) |
+| Taxi Game 2 | 100807 | [100807-taxi-game-2.json](./100807-taxi-game-2.json) |
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
+| Teva | 100242 | [100242-teva.json](./100242-teva.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
 | Tex Atomic's Big Bot Battles | 70268 | [70268-tex-atomics-big-bot-battles.json](./70268-tex-atomics-big-bot-battles.json) |
