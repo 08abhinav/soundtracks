@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:31:43.903Z",
-  "total_soundtracks": 1897,
+  "generated_at": "2026-10-16T06:31:57.397Z",
+  "total_soundtracks": 1898,
   "games": [
     {
       "igdb_id": 7522,
@@ -17048,6 +17048,20 @@
           "album_name": "Sonic Mania Remixed",
           "spotify_url": "https://open.spotify.com/album/3mMmasSVKlms5xBrShauPh",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19091,
+      "game_name": "Sonic R",
+      "game_url": "https://ostdb.net/games/sonic-r",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a505531c5594201aba56ef58",
+      "albums": [
+        {
+          "album_name": "Sonic R Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
