@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
 | Battlezone | 14368 | [14368-battlezone.json](./14368-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
+| Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
