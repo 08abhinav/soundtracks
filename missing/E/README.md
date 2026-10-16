@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Sanity | 214504 | [214504-edge-of-sanity.json](./214504-edge-of-sanity.json) |
 | Edge of Sanity: Supporter Pack | 324416 | [324416-edge-of-sanity-supporter-pack.json](./324416-edge-of-sanity-supporter-pack.json) |
 | Edge of Soul: Ragnarok | 284919 | [284919-edge-of-soul-ragnarok.json](./284919-edge-of-soul-ragnarok.json) |
+| Edge of Space | 16533 | [16533-edge-of-space.json](./16533-edge-of-space.json) |
 | Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Day's Different | 126930 | [126930-every-days-different.json](./126930-every-days-different.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
+| Every Extend Extra Extreme | 21835 | [21835-every-extend-extra-extreme.json](./21835-every-extend-extra-extreme.json) |
 | Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
