@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man All-Stars | 27587 | [27587-pac-man-all-stars.json](./27587-pac-man-all-stars.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
+| Pac-Man Arrangement | 178228 | [178228-pac-man-arrangement.json](./178228-pac-man-arrangement.json) |
 | Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
