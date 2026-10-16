@@ -5812,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
+| Dibaro: CryptoHunter Dice Battle Royal | 423273 | [423273-dibaro-cryptohunter-dice-battle-royal.json](./423273-dibaro-cryptohunter-dice-battle-royal.json) |
 | Dibbles 2: Winter Woes | 403112 | [403112-dibbles-2-winter-woes.json](./403112-dibbles-2-winter-woes.json) |
 | Dibbles 3: Desert Despair | 403113 | [403113-dibbles-3-desert-despair.json](./403113-dibbles-3-desert-despair.json) |
 | Dibbles Pro Pack | 403114 | [403114-dibbles-pro-pack.json](./403114-dibbles-pro-pack.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
+| Divided Empire: Sengoku | 423235 | [423235-divided-empire-sengoku.json](./423235-divided-empire-sengoku.json) |
 | Divided Ground: Middle East Conflict | 61987 | [61987-divided-ground-middle-east-conflict.json](./61987-divided-ground-middle-east-conflict.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
@@ -12487,6 +12489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
+| Dungeon Explorers 2 | 423293 | [423293-dungeon-explorers-2.json](./423293-dungeon-explorers-2.json) |
 | Dungeon Falan | 187792 | [187792-dungeon-falan.json](./187792-dungeon-falan.json) |
 | Dungeon Faster | 318132 | [318132-dungeon-faster.json](./318132-dungeon-faster.json) |
 | Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
