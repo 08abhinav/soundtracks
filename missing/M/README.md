@@ -9332,7 +9332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
-| Miscreated | 17379 | [17379-miscreated.json](./17379-miscreated.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
@@ -11527,7 +11526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
-| Moons of Madness | 22499 | [22499-moons-of-madness.json](./22499-moons-of-madness.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons of Ventocia | 122137 | [122137-moons-of-ventocia.json](./122137-moons-of-ventocia.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
@@ -14376,7 +14374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
-| My Memory of Us | 27192 | [27192-my-memory-of-us.json](./27192-my-memory-of-us.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
