@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
+| Knightfall: A Daring Journey | 195019 | [195019-knightfall-a-daring-journey.json](./195019-knightfall-a-daring-journey.json) |
 | Knightfall: Rivals | 29595 | [29595-knightfall-rivals.json](./29595-knightfall-rivals.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
