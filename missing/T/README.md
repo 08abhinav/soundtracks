@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
 | Tales of Demagost: Exodus | 373326 | [373326-tales-of-demagost-exodus.json](./373326-tales-of-demagost-exodus.json) |
 | Tales of Demons and Gods | 232898 | [232898-tales-of-demons-and-gods.json](./232898-tales-of-demons-and-gods.json) |
+| Tales of Destiny | 1201 | [1201-tales-of-destiny.json](./1201-tales-of-destiny.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
 | Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
+| Tex Murphy: Under a Killing Moon | 955 | [955-tex-murphy-under-a-killing-moon.json](./955-tex-murphy-under-a-killing-moon.json) |
 | Tex'em | 253287 | [253287-texem.json](./253287-texem.json) |
 | Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
@@ -5693,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decimation of Olarath | 57761 | [57761-the-decimation-of-olarath.json](./57761-the-decimation-of-olarath.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
+| The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
@@ -7102,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Chain of Being | 174603 | [174603-the-great-chain-of-being.json](./174603-the-great-chain-of-being.json) |
 | The Great Chicken Thief | 163876 | [163876-the-great-chicken-thief.json](./163876-the-great-chicken-thief.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
+| The Great Circus Mystery Starring Mickey & Minnie | 4407 | [4407-the-great-circus-mystery-starring-mickey-and-minnie.json](./4407-the-great-circus-mystery-starring-mickey-and-minnie.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
@@ -11454,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
+| The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
@@ -16426,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
 | Tiny Time Travellers | 122119 | [122119-tiny-time-travellers.json](./122119-tiny-time-travellers.json) |
+| Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure | 180298 | [180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json](./180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
 | Tiny Tina's Wonderlands: Coiled Captors | 204919 | [204919-tiny-tinas-wonderlands-coiled-captors.json](./204919-tiny-tinas-wonderlands-coiled-captors.json) |
