@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Limited Edition | 82432 | [82432-life-is-strange-before-the-storm-limited-edition.json](./82432-life-is-strange-before-the-storm-limited-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
+| Life is Strange: Episode 1 - Chrysalis | 93914 | [93914-life-is-strange-episode-1-chrysalis.json](./93914-life-is-strange-episode-1-chrysalis.json) |
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
 | Life is Strange: Episode 4 - Dark Room | 94087 | [94087-life-is-strange-episode-4-dark-room.json](./94087-life-is-strange-episode-4-dark-room.json) |
 | Life is Strange: Episode 5 - Polarized | 93915 | [93915-life-is-strange-episode-5-polarized.json](./93915-life-is-strange-episode-5-polarized.json) |
