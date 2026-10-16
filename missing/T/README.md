@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
+| Talent Not Included | 32469 | [32469-talent-not-included.json](./32469-talent-not-included.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
+| Tennis Masters Series 2003 | 23698 | [23698-tennis-masters-series-2003.json](./23698-tennis-masters-series-2003.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama 2003: Cool Blue | 49849 | [49849-tennis-no-ouji-sama-2003-cool-blue.json](./49849-tennis-no-ouji-sama-2003-cool-blue.json) |
 | Tennis no Ouji-sama 2003: Passion Red | 49848 | [49848-tennis-no-ouji-sama-2003-passion-red.json](./49848-tennis-no-ouji-sama-2003-passion-red.json) |
@@ -6333,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
+| The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
 | The Exit 8 | 275404 | [275404-the-exit-8.json](./275404-the-exit-8.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
@@ -8042,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keep | 36254 | [36254-the-keep.json](./36254-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
+| The Keeper of 4 Elements | 26237 | [26237-the-keeper-of-4-elements.json](./26237-the-keeper-of-4-elements.json) |
 | The Keepers 2: The Order's Last Secret - Collector's Edition | 22088 | [22088-the-keepers-2-the-orders-last-secret-collectors-edition.json](./22088-the-keepers-2-the-orders-last-secret-collectors-edition.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
 | The Keepers: Lost Progeny - Collector's Edition | 22087 | [22087-the-keepers-lost-progeny-collectors-edition.json](./22087-the-keepers-lost-progeny-collectors-edition.json) |
@@ -14460,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
+| ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | ThunderCats: The Lost Eye of Thundera | 8059 | [8059-thundercats-the-lost-eye-of-thundera.json](./8059-thundercats-the-lost-eye-of-thundera.json) |
