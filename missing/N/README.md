@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
+| Night Watch | 418613 | [418613-night-watch.json](./418613-night-watch.json) |
 | Night Watcher | 72751 | [72751-night-watcher.json](./72751-night-watcher.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
