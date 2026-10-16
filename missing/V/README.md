@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
 | Vanakatu | 302066 | [302066-vanakatu.json](./302066-vanakatu.json) |
 | VanBay: Mosh it Up | 268935 | [268935-vanbay-mosh-it-up.json](./268935-vanbay-mosh-it-up.json) |
+| Vancouver 2010 | 2709 | [2709-vancouver-2010.json](./2709-vancouver-2010.json) |
 | Vandaan | 249076 | [249076-vandaan.json](./249076-vandaan.json) |
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
