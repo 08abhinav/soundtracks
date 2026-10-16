@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
+| Tesla Force | 124029 | [124029-tesla-force.json](./124029-tesla-force.json) |
 | Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
@@ -4707,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones of You | 266720 | [266720-the-bones-of-you.json](./266720-the-bones-of-you.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
+| The Bonfire 2: Uncharted Shores | 123570 | [123570-the-bonfire-2-uncharted-shores.json](./123570-the-bonfire-2-uncharted-shores.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
@@ -6658,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fish Shack | 398010 | [398010-the-fish-shack.json](./398010-the-fish-shack.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
+| The Fisherman: Fishing Planet | 122433 | [122433-the-fisherman-fishing-planet.json](./122433-the-fisherman-fishing-planet.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
 | The Fissure | 407277 | [407277-the-fissure.json](./407277-the-fissure.json) |
@@ -11142,6 +11145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
+| The Scroll of Taiwu | 103616 | [103616-the-scroll-of-taiwu.json](./103616-the-scroll-of-taiwu.json) |
 | The Scrolling Enigma | 288685 | [288685-the-scrolling-enigma.json](./288685-the-scrolling-enigma.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
@@ -11236,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Da Vinci: The Forbidden Manuscript | 23145 | [23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json](./23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
+| The Secrets of Jesus | 122495 | [122495-the-secrets-of-jesus.json](./122495-the-secrets-of-jesus.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
@@ -23321,6 +23326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Her to Sleep | 366032 | [366032-type-her-to-sleep.json](./366032-type-her-to-sleep.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
+| Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
