@@ -8714,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
+| Sky Kingdoms - Castle Siege | 100842 | [100842-sky-kingdoms-castle-siege.json](./100842-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
 | Sky Labyrinth | 114922 | [114922-sky-labyrinth.json](./114922-sky-labyrinth.json) |
 | Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
@@ -10234,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Couple | 334805 | [334805-snake-couple.json](./334805-snake-couple.json) |
+| Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
@@ -15199,6 +15201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
+| Spiral 3D | 99854 | [99854-spiral-3d.json](./99854-spiral-3d.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral Destiny | 19144 | [19144-spiral-destiny.json](./19144-spiral-destiny.json) |
 | Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
@@ -16236,6 +16239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
+| Squidward Neighbor. Sponge Revenge of Bob | 100791 | [100791-squidward-neighbor-sponge-revenge-of-bob.json](./100791-squidward-neighbor-sponge-revenge-of-bob.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
@@ -18627,6 +18631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Fighter Infinity | 256172 | [256172-stickman-fighter-infinity.json](./256172-stickman-fighter-infinity.json) |
+| Stickman Flatout Epic | 96779 | [96779-stickman-flatout-epic.json](./96779-stickman-flatout-epic.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
@@ -18637,6 +18642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
 | Stickman in the portal | 108401 | [108401-stickman-in-the-portal.json](./108401-stickman-in-the-portal.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
+| Stickman jailbreak 2018 | 100798 | [100798-stickman-jailbreak-2018.json](./100798-stickman-jailbreak-2018.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman Jetpack | 81701 | [81701-stickman-jetpack.json](./81701-stickman-jetpack.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
@@ -20267,6 +20273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
+| Subway Ladybug and Cat Noir | 100802 | [100802-subway-ladybug-and-cat-noir.json](./100802-subway-ladybug-and-cat-noir.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
@@ -21046,6 +21053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
+| Sunny School Stories | 100843 | [100843-sunny-school-stories.json](./100843-sunny-school-stories.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
@@ -21454,6 +21462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
+| Super Crossbar Challenge | 100790 | [100790-super-crossbar-challenge.json](./100790-super-crossbar-challenge.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
@@ -21961,6 +21970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
 | Super Marble Brothers | 169352 | [169352-super-marble-brothers.json](./169352-super-marble-brothers.json) |
+| Super Mari All Star - Mari Collection Games | 100809 | [100809-super-mari-all-star-mari-collection-games.json](./100809-super-mari-all-star-mari-collection-games.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
