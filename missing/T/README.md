@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
+| The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
 | The Bear, the Cat and the Rabbit | 12936 | [12936-the-bear-the-cat-and-the-rabbit.json](./12936-the-bear-the-cat-and-the-rabbit.json) |
+| The Beard in the Mirror | 34873 | [34873-the-beard-in-the-mirror.json](./34873-the-beard-in-the-mirror.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
@@ -7636,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
 | The Huntsman: Winter's Curse (Book 5) | 164440 | [164440-the-huntsman-winters-curse-book-5.json](./164440-the-huntsman-winters-curse-book-5.json) |
+| The Hurricane of the Varstray: Collateral hazard | 34088 | [34088-the-hurricane-of-the-varstray-collateral-hazard.json](./34088-the-hurricane-of-the-varstray-collateral-hazard.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
@@ -7931,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jolly Gangs Spooky Adventure | 53752 | [53752-the-jolly-gangs-spooky-adventure.json](./53752-the-jolly-gangs-spooky-adventure.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
+| The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
 | The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
@@ -9861,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
+| The Musketeers: Victoria's Quest | 34759 | [34759-the-musketeers-victorias-quest.json](./34759-the-musketeers-victorias-quest.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
 | The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
@@ -10113,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Ohio Weedeater Mishap | 277488 | [277488-the-ohio-weedeater-mishap.json](./277488-the-ohio-weedeater-mishap.json) |
+| The Oil Blue | 34861 | [34861-the-oil-blue.json](./34861-the-oil-blue.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old City: Leviathan | 14437 | [14437-the-old-city-leviathan.json](./14437-the-old-city-leviathan.json) |
@@ -12240,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle: Reawakened | 324927 | [324927-the-talos-principle-reawakened.json](./324927-the-talos-principle-reawakened.json) |
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
 | The Tangled Tapestry | 364681 | [364681-the-tangled-tapestry.json](./364681-the-tangled-tapestry.json) |
+| The Tape | 34820 | [34820-the-tape.json](./34820-the-tape.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarnishing of Juxtia | 138535 | [138535-the-tarnishing-of-juxtia.json](./138535-the-tarnishing-of-juxtia.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
@@ -21633,6 +21640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
+| Tricone Lab | 34686 | [34686-tricone-lab.json](./34686-tricone-lab.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
@@ -22232,6 +22240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
+| True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
@@ -22705,6 +22714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
+| Turbo Pug | 34074 | [34074-turbo-pug.json](./34074-turbo-pug.json) |
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
@@ -23166,6 +23176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
+| Twisted Lands Trilogy: Collector's Edition | 34540 | [34540-twisted-lands-trilogy-collectors-edition.json](./34540-twisted-lands-trilogy-collectors-edition.json) |
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
 | Twisted Lands: Insomniac - Collector's Edition | 53863 | [53863-twisted-lands-insomniac-collectors-edition.json](./53863-twisted-lands-insomniac-collectors-edition.json) |
 | Twisted Lands: Origin | 50228 | [50228-twisted-lands-origin.json](./50228-twisted-lands-origin.json) |
