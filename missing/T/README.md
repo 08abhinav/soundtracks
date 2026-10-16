@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
 | The Afterwoods | 72352 | [72352-the-afterwoods.json](./72352-the-afterwoods.json) |
 | The Age of Bhaarat | 342228 | [342228-the-age-of-bhaarat.json](./342228-the-age-of-bhaarat.json) |
+| The Age of Decadence | 4641 | [4641-the-age-of-decadence.json](./4641-the-age-of-decadence.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
@@ -7467,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
+| The House in Fata Morgana | 36278 | [36278-the-house-in-fata-morgana.json](./36278-the-house-in-fata-morgana.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
 | The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
 | The House in Fata Morgana: Novectacle Collection | 144844 | [144844-the-house-in-fata-morgana-novectacle-collection.json](./144844-the-house-in-fata-morgana-novectacle-collection.json) |
@@ -11422,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
+| The Sims 2: Nightlife | 5534 | [5534-the-sims-2-nightlife.json](./5534-the-sims-2-nightlife.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 192108 | [192108-the-sims-2-pets.json](./192108-the-sims-2-pets.json) |
 | The Sims 2: Pets | 192109 | [192109-the-sims-2-pets.json](./192109-the-sims-2-pets.json) |
@@ -14204,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
+| Thronefall | 236547 | [236547-thronefall.json](./236547-thronefall.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
