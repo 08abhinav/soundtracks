@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:23:03.516Z",
-  "total_soundtracks": 1881,
+  "generated_at": "2026-10-16T06:23:18.604Z",
+  "total_soundtracks": 1882,
   "games": [
     {
       "igdb_id": 7522,
@@ -14457,6 +14457,20 @@
         {
           "album_name": "Postal Redux (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7nnAFcactY1tDgNX7wnrAy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 142941,
+      "game_name": "Potion Craft",
+      "game_url": "https://ostdb.net/games/potion-craft",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735a9c19ad90a59ee522ddbd79",
+      "albums": [
+        {
+          "album_name": "Potion Craft (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jQzneucwEsCtGm6RXbwDB",
           "apple_music_url": "",
           "album_link_url": ""
         }
