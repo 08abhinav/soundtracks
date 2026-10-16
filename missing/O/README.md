@@ -3710,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
+| Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
