@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Racer | 291901 | [291901-card-racer.json](./291901-card-racer.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
+| Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
 | Card Sharks | 92862 | [92862-card-sharks.json](./92862-card-sharks.json) |
@@ -10974,9 +10975,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
+| Cradle of Empires | 88749 | [88749-cradle-of-empires.json](./88749-cradle-of-empires.json) |
 | Cradle of Links VR | 109527 | [109527-cradle-of-links-vr.json](./109527-cradle-of-links-vr.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
+| Cradle of Persia | 88794 | [88794-cradle-of-persia.json](./88794-cradle-of-persia.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
 | Cradle of Sins VR | 130651 | [130651-cradle-of-sins-vr.json](./130651-cradle-of-sins-vr.json) |
 | Cradle of Souls | 188886 | [188886-cradle-of-souls.json](./188886-cradle-of-souls.json) |
