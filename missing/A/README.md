@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
+| A to Z | 88792 | [88792-a-to-z.json](./88792-a-to-z.json) |
 | A to Zap! Featuring the Sunbuddies | 293313 | [293313-a-to-zap-featuring-the-sunbuddies.json](./293313-a-to-zap-featuring-the-sunbuddies.json) |
 | A toad well travelled | 207190 | [207190-a-toad-well-travelled.json](./207190-a-toad-well-travelled.json) |
 | A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
@@ -8913,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
 | Archery King | 401135 | [401135-archery-king.json](./401135-archery-king.json) |
+| Archery King | 88765 | [88765-archery-king.json](./88765-archery-king.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
