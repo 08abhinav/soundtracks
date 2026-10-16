@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Online | 19795 | [19795-knight-online.json](./19795-knight-online.json) |
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
