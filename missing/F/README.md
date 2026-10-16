@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearmonium | 118100 | [118100-fearmonium.json](./118100-fearmonium.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
+| Fears to Fathom: Carson House | 215569 | [215569-fears-to-fathom-carson-house.json](./215569-fears-to-fathom-carson-house.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
 | Fears to Fathom: Norwood Hitchhike | 186437 | [186437-fears-to-fathom-norwood-hitchhike.json](./186437-fears-to-fathom-norwood-hitchhike.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
+| Fireboy & Watergirl in the Forest Temple | 122941 | [122941-fireboy-and-watergirl-in-the-forest-temple.json](./122941-fireboy-and-watergirl-in-the-forest-temple.json) |
 | Fireboy & Watergirl: Elements | 113679 | [113679-fireboy-and-watergirl-elements.json](./113679-fireboy-and-watergirl-elements.json) |
 | Fireboy & Watergirl: Fairy Tales | 195980 | [195980-fireboy-and-watergirl-fairy-tales.json](./195980-fireboy-and-watergirl-fairy-tales.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
@@ -5408,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
+| Flinthook | 20330 | [20330-flinthook.json](./20330-flinthook.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
@@ -7047,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forthold | 390215 | [390215-forthold.json](./390215-forthold.json) |
 | Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
+| Fortified | 18009 | [18009-fortified.json](./18009-fortified.json) |
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
