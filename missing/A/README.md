@@ -2918,7 +2918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
 | Against the Moon | 121493 | [121493-against-the-moon.json](./121493-against-the-moon.json) |
-| Against the Storm | 147519 | [147519-against-the-storm.json](./147519-against-the-storm.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
@@ -5317,7 +5316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto | 403811 | [403811-alto.json](./403811-alto.json) |
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
 | Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
-| Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
@@ -9552,7 +9550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
-| Army of Two: The Devil's Cartel | 1832 | [1832-army-of-two-the-devils-cartel.json](./1832-army-of-two-the-devils-cartel.json) |
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
