@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
 | Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
+| Heiress II | 417969 | [417969-heiress-ii.json](./417969-heiress-ii.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
 | Hellkick | 418557 | [418557-hellkick.json](./418557-hellkick.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
+| Hellkranye | 417982 | [417982-hellkranye.json](./417982-hellkranye.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
 | Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
