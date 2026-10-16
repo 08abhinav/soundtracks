@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | B99 | 133265 | [133265-b99.json](./133265-b99.json) |
 | B99 Overclocked | 288664 | [288664-b99-overclocked.json](./288664-b99-overclocked.json) |
+| Ba Da Bump | 88789 | [88789-ba-da-bump.json](./88789-ba-da-bump.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
 | Backgammon Reloaded 3D | 93821 | [93821-backgammon-reloaded-3d.json](./93821-backgammon-reloaded-3d.json) |
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
+| Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
@@ -8028,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blaster | 67858 | [67858-blue-blaster.json](./67858-blue-blaster.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
+| Blue Block | 88848 | [88848-blue-block.json](./88848-blue-block.json) |
 | Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
