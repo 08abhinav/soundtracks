@@ -4537,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey, Girlie! | 342819 | [342819-hey-girlie.json](./342819-hey-girlie.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
 | Hey, That's My Fish! HD | 103930 | [103930-hey-thats-my-fish-hd.json](./103930-hey-thats-my-fish-hd.json) |
+| Hey! Pikmin | 28124 | [28124-hey-pikmin.json](./28124-hey-pikmin.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
