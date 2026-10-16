@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:46:00.875Z",
-  "total_soundtracks": 1917,
+  "generated_at": "2026-10-16T14:46:16.677Z",
+  "total_soundtracks": 1918,
   "games": [
     {
       "igdb_id": 7522,
@@ -6348,6 +6348,20 @@
           "album_name": "Total War: Empire (Original Soundtrack) [Remastered]",
           "spotify_url": "https://open.spotify.com/album/7wz81TdNzkRAoh5whQvQki",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 104970,
+      "game_name": "En Garde!",
+      "game_url": "https://ostdb.net/games/en-garde",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377f5bcd05e83a82eff2f5dab",
+      "albums": [
+        {
+          "album_name": "En Garde! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2AhdN8VejNjyyueLx5SIeJ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
