@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T18:45:57.763Z",
-  "total_soundtracks": 1927,
+  "generated_at": "2026-10-16T19:30:58.349Z",
+  "total_soundtracks": 1928,
   "games": [
     {
       "igdb_id": 7522,
@@ -1809,6 +1809,20 @@
           "spotify_url": "https://music.apple.com/us/album/babylons-fall-original-soundtrack/1610985916?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1610985916"
+        }
+      ]
+    },
+    {
+      "igdb_id": 178264,
+      "game_name": "Bad End Theater",
+      "game_url": "https://ostdb.net/games/bad-end-theater",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735b6c13de5e1f4c5f153b6002",
+      "albums": [
+        {
+          "album_name": "Bad End Theater (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6SjvGJK45Pud5e8kC3SEQS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
