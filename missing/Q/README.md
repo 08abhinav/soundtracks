@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Sports | 48216 | [48216-quattro-sports.json](./48216-quattro-sports.json) |
 | Quattro Super Hits | 57617 | [57617-quattro-super-hits.json](./57617-quattro-super-hits.json) |
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
+| Quaver | 109068 | [109068-quaver.json](./109068-quaver.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
