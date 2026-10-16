@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elaine | 29596 | [29596-elaine.json](./29596-elaine.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
+| Elandrake | 421837 | [421837-elandrake.json](./421837-elandrake.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
+| Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
