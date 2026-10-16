@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
+| A Hole New World | 31557 | [31557-a-hole-new-world.json](./31557-a-hole-new-world.json) |
 | A Hole New World: Deluxe Edition | 52536 | [52536-a-hole-new-world-deluxe-edition.json](./52536-a-hole-new-world-deluxe-edition.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
+| Agent Awesome | 26839 | [26839-agent-awesome.json](./26839-agent-awesome.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
@@ -3387,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim Gods | 133724 | [133724-aim-gods.json](./133724-aim-gods.json) |
+| Aim Hero | 31547 | [31547-aim-hero.json](./31547-aim-hero.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Llama | 256191 | [256191-aim-llama.json](./256191-aim-llama.json) |
@@ -4203,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
+| Alex Hunter: Lord of the Mind | 30374 | [30374-alex-hunter-lord-of-the-mind.json](./30374-alex-hunter-lord-of-the-mind.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
