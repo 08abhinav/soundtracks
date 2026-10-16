@@ -422,7 +422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikazi Alien | 25154 | [25154-kamikazi-alien.json](./25154-kamikazi-alien.json) |
 | Kamikazo VR | 81953 | [81953-kamikazo-vr.json](./81953-kamikazo-vr.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
-| Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
@@ -3263,7 +3262,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Pen & Paper: +1 Deluxier Edition | 53259 | [53259-knights-of-pen-and-paper-1-deluxier-edition.json](./53259-knights-of-pen-and-paper-1-deluxier-edition.json) |
 | Knights of Pen and Paper +1 Edition | 2934 | [2934-knights-of-pen-and-paper-1-edition.json](./2934-knights-of-pen-and-paper-1-edition.json) |
 | Knights of Pen and Paper Bundle | 147620 | [147620-knights-of-pen-and-paper-bundle.json](./147620-knights-of-pen-and-paper-bundle.json) |
-| Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
 | Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
@@ -3975,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
 | Kramer Hentai Adventure 3 | 138588 | [138588-kramer-hentai-adventure-3.json](./138588-kramer-hentai-adventure-3.json) |
+| Kramora's Shadow | 35192 | [35192-kramoras-shadow.json](./35192-kramoras-shadow.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
