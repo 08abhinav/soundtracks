@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
+| Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
 | Earth and Legend | 205086 | [205086-earth-and-legend.json](./205086-earth-and-legend.json) |
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
+| Elven Assassin | 31997 | [31997-elven-assassin.json](./31997-elven-assassin.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elven City Simulator | 231851 | [231851-elven-city-simulator.json](./231851-elven-city-simulator.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
@@ -3820,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
+| Escape This | 32762 | [32762-escape-this.json](./32762-escape-this.json) |
 | Escape This Big Maze! | 165746 | [165746-escape-this-big-maze.json](./165746-escape-this-big-maze.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
