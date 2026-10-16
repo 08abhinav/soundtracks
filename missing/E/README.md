@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Pinball VR: The Summoning | 28428 | [28428-evolution-pinball-vr-the-summoning.json](./28428-evolution-pinball-vr-the-summoning.json) |
 | Evolution Planet: Gold Edition | 32290 | [32290-evolution-planet-gold-edition.json](./32290-evolution-planet-gold-edition.json) |
 | Evolution RTS | 36359 | [36359-evolution-rts.json](./36359-evolution-rts.json) |
+| Evolution Skateboarding | 3908 | [3908-evolution-skateboarding.json](./3908-evolution-skateboarding.json) |
 | Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
