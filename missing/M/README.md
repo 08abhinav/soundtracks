@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Trax | 23512 | [23512-make-trax.json](./23512-make-trax.json) |
 | Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
+| Make Way | 258230 | [258230-make-way.json](./258230-make-way.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Meditation VR | 168651 | [168651-meditation-vr.json](./168651-meditation-vr.json) |
+| Mediterranea Inferno | 252528 | [252528-mediterranea-inferno.json](./252528-mediterranea-inferno.json) |
 | Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
 | Medium Rare | 383136 | [383136-medium-rare.json](./383136-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
@@ -7233,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Invasion | 68554 | [68554-micro-invasion.json](./68554-micro-invasion.json) |
 | Micro Knight 4 | 195996 | [195996-micro-knight-4.json](./195996-micro-knight-4.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
+| Micro Machines | 250469 | [250469-micro-machines.json](./250469-micro-machines.json) |
 | Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
 | Micro Machines | 250471 | [250471-micro-machines.json](./250471-micro-machines.json) |
 | Micro Machines | 250472 | [250472-micro-machines.json](./250472-micro-machines.json) |
@@ -8630,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
 | MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
+| Minesweeper | 245020 | [245020-minesweeper.json](./245020-minesweeper.json) |
 | Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
