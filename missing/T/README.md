@@ -5955,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon's Prize | 180518 | [180518-the-dragons-prize.json](./180518-the-dragons-prize.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
+| The Dragons' Twilight II | 121010 | [121010-the-dragons-twilight-ii.json](./121010-the-dragons-twilight-ii.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Drain Collector | 81993 | [81993-the-drain-collector.json](./81993-the-drain-collector.json) |
 | The Drained Goddess | 157931 | [157931-the-drained-goddess.json](./157931-the-drained-goddess.json) |
@@ -5963,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
 | The Dreadful Space | 197096 | [197096-the-dreadful-space.json](./197096-the-dreadful-space.json) |
+| The Dreadful Whispers | 121181 | [121181-the-dreadful-whispers.json](./121181-the-dreadful-whispers.json) |
 | The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
@@ -9262,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lords of the Earth Flame | 23723 | [23723-the-lords-of-the-earth-flame.json](./23723-the-lords-of-the-earth-flame.json) |
 | The Loss Levels | 179652 | [179652-the-loss-levels.json](./179652-the-loss-levels.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
+| The Lost | 121344 | [121344-the-lost.json](./121344-the-lost.json) |
 | The Lost | 179085 | [179085-the-lost.json](./179085-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
@@ -12880,6 +12883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Trivia Quiz | 98893 | [98893-the-ultimate-trivia-quiz.json](./98893-the-ultimate-trivia-quiz.json) |
 | The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
+| The Ultra Code | 121294 | [121294-the-ultra-code.json](./121294-the-ultra-code.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
 | The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
@@ -22541,6 +22545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
 | TTT: The Torrential Turnabout | 306621 | [306621-ttt-the-torrential-turnabout.json](./306621-ttt-the-torrential-turnabout.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
+| TTV3 | 120767 | [120767-ttv3.json](./120767-ttv3.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tu Dealer the Game | 105823 | [105823-tu-dealer-the-game.json](./105823-tu-dealer-the-game.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
