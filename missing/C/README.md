@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
+| CarCrash.Tube: Car Crash Simulator | 417332 | [417332-carcrash-tube-car-crash-simulator.json](./417332-carcrash-tube-car-crash-simulator.json) |
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chill with You: Lo-Fi Story | 342703 | [342703-chill-with-you-lo-fi-story.json](./342703-chill-with-you-lo-fi-story.json) |
+| Chill with You: SHIOI's Sparkling Scenes | 417331 | [417331-chill-with-you-shiois-sparkling-scenes.json](./417331-chill-with-you-shiois-sparkling-scenes.json) |
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
@@ -11300,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
+| Crash Twinsanity Evolution | 417288 | [417288-crash-twinsanity-evolution.json](./417288-crash-twinsanity-evolution.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
 | Crash Wheels | 31657 | [31657-crash-wheels.json](./31657-crash-wheels.json) |
 | Crash-Course Domo | 68061 | [68061-crash-course-domo.json](./68061-crash-course-domo.json) |
@@ -12574,6 +12577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
+| Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
