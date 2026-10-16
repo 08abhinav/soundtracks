@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
+| Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
 | Explorer | 13653 | [13653-explorer.json](./13653-explorer.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
+| Explorers Collection: The Oregon Trail & Carmen Sandiego Bundle | 353982 | [353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json](./353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
