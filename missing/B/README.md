@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
+| Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
 | Barbie: Magic Genie Adventure | 45167 | [45167-barbie-magic-genie-adventure.json](./45167-barbie-magic-genie-adventure.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
+| Blippo+ | 348336 | [348336-blippo.json](./348336-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
@@ -11280,6 +11282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
+| Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
 | Bubble Box: 6 In 1 | 253257 | [253257-bubble-box-6-in-1.json](./253257-bubble-box-6-in-1.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
@@ -11502,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
+| Buffet Knight: Decadent Full Course | 333498 | [333498-buffet-knight-decadent-full-course.json](./333498-buffet-knight-decadent-full-course.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
