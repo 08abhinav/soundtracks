@@ -6328,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball Manager | 406042 | [406042-foosball-manager.json](./406042-foosball-manager.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
+| Foosball: World Tour | 34848 | [34848-foosball-world-tour.json](./34848-foosball-world-tour.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Clinic: Complete Edition | 273323 | [273323-foot-clinic-complete-edition.json](./273323-foot-clinic-complete-edition.json) |
