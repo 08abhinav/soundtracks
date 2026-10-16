@@ -5495,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
+| Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: The Ghost of Florence | 420583 | [420583-lost-artifacts-the-ghost-of-florence.json](./420583-lost-artifacts-the-ghost-of-florence.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
