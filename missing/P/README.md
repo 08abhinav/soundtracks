@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase 10 | 208861 | [208861-phase-10.json](./208861-phase-10.json) |
+| Phase 10 | 83456 | [83456-phase-10.json](./83456-phase-10.json) |
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
@@ -11839,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Battlegrounds - Season 27 | 281550 | [281550-pubg-battlegrounds-season-27.json](./281550-pubg-battlegrounds-season-27.json) |
 | PUBG: Battlegrounds - Summer Ready Pack | 349518 | [349518-pubg-battlegrounds-summer-ready-pack.json](./349518-pubg-battlegrounds-summer-ready-pack.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
+| PubgTrainingCamp | 82479 | [82479-pubgtrainingcamp.json](./82479-pubgtrainingcamp.json) |
 | Public Bounce | 216940 | [216940-public-bounce.json](./216940-public-bounce.json) |
 | Public Defense Corp | 118761 | [118761-public-defense-corp.json](./118761-public-defense-corp.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
@@ -13056,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
+| Pyramid Solitaire | 79592 | [79592-pyramid-solitaire.json](./79592-pyramid-solitaire.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Cube | 56916 | [56916-pyramid-solitaire-cube.json](./56916-pyramid-solitaire-cube.json) |
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
