@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 3: Champions Edition | 89837 | [89837-ea-sports-ufc-3-champions-edition.json](./89837-ea-sports-ufc-3-champions-edition.json) |
 | EA Sports UFC 3: Deluxe Edition | 118728 | [118728-ea-sports-ufc-3-deluxe-edition.json](./118728-ea-sports-ufc-3-deluxe-edition.json) |
+| EA Sports UFC 5 | 255901 | [255901-ea-sports-ufc-5.json](./255901-ea-sports-ufc-5.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | EA Sports UFC 5: Ultimate Edition | 308591 | [308591-ea-sports-ufc-5-ultimate-edition.json](./308591-ea-sports-ufc-5-ultimate-edition.json) |
 | EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
+| Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
 | Empire Heroes: Sudoku Puzzle | 58135 | [58135-empire-heroes-sudoku-puzzle.json](./58135-empire-heroes-sudoku-puzzle.json) |
@@ -4350,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
+| Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
@@ -5249,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
+| Exoprimal | 194203 | [194203-exoprimal.json](./194203-exoprimal.json) |
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
