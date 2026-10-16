@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 282630 | [282630-tempest.json](./282630-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
+| Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
 | Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
@@ -7242,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
+| The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
@@ -13228,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
+| The Warhorn | 75097 | [75097-the-warhorn.json](./75097-the-warhorn.json) |
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
@@ -19021,6 +19024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
+| Tower of Lust | 68329 | [68329-tower-of-lust.json](./68329-tower-of-lust.json) |
 | Tower of Madness | 318692 | [318692-tower-of-madness.json](./318692-tower-of-madness.json) |
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
