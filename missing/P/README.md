@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
+| Paradox Boxing | 422478 | [422478-paradox-boxing.json](./422478-paradox-boxing.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
 | Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
 | Paradox Factor | 197059 | [197059-paradox-factor.json](./197059-paradox-factor.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Paragon Slots | 297175 | [297175-paragon-slots.json](./297175-paragon-slots.json) |
+| Paragon-R: Secrets of the Sky Sanctum | 422481 | [422481-paragon-r-secrets-of-the-sky-sanctum.json](./422481-paragon-r-secrets-of-the-sky-sanctum.json) |
 | Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
@@ -5106,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingu no Waku-waku Carnival | 72786 | [72786-pingu-no-waku-waku-carnival.json](./72786-pingu-no-waku-waku-carnival.json) |
 | Pingu: A Barrel of Fun! | 130681 | [130681-pingu-a-barrel-of-fun.json](./130681-pingu-a-barrel-of-fun.json) |
 | Pingu: Sekai de Ichiban Genki na Penguin | 62607 | [62607-pingu-sekai-de-ichiban-genki-na-penguin.json](./62607-pingu-sekai-de-ichiban-genki-na-penguin.json) |
+| Pinguino | 422483 | [422483-pinguino.json](./422483-pinguino.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
@@ -6800,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus Adventures | 173032 | [173032-platypus-adventures.json](./173032-platypus-adventures.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
+| Platypus Steps | 422482 | [422482-platypus-steps.json](./422482-platypus-steps.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
 | Play & Learn Chinese | 84723 | [84723-play-and-learn-chinese.json](./84723-play-and-learn-chinese.json) |
@@ -12341,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Place | 268978 | [268978-purple-place.json](./268978-purple-place.json) |
 | Purple Prose for Purple Hearts: **** the Witch | 307219 | [307219-purple-prose-for-purple-hearts-the-witch.json](./307219-purple-prose-for-purple-hearts-the-witch.json) |
 | Purple Rain | 260892 | [260892-purple-rain.json](./260892-purple-rain.json) |
+| Purple Shift | 422492 | [422492-purple-shift.json](./422492-purple-shift.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
 | Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
