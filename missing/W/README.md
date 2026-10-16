@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardner | 41082 | [41082-wardner.json](./41082-wardner.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
+| WarDogs: Red's Return | 146427 | [146427-wardogs-reds-return.json](./146427-wardogs-reds-return.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
 | WarDoom Wargame | 273393 | [273393-wardoom-wargame.json](./273393-wardoom-wargame.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
+| Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
@@ -1956,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
+| We Are Football | 146039 | [146039-we-are-football.json](./146039-we-are-football.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Are Football: National Teams | 226881 | [226881-we-are-football-national-teams.json](./226881-we-are-football-national-teams.json) |
@@ -5987,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Xplore | 288451 | [288451-world-xplore.json](./288451-world-xplore.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World Zombination | 6857 | [6857-world-zombination.json](./6857-world-zombination.json) |
+| World-Splitter | 145816 | [145816-world-splitter.json](./145816-world-splitter.json) |
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
@@ -6134,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
+| Worms Collection 1 | 145833 | [145833-worms-collection-1.json](./145833-worms-collection-1.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
