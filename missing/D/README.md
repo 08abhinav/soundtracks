@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
+| Dark Shadows | 419377 | [419377-dark-shadows.json](./419377-dark-shadows.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
+| Defilade | 419311 | [419311-defilade.json](./419311-defilade.json) |
 | Defile | 285396 | [285396-defile.json](./285396-defile.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
 | Defina | 237334 | [237334-defina.json](./237334-defina.json) |
