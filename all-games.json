@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:46:00.315Z",
-  "total_soundtracks": 1789,
+  "generated_at": "2026-10-16T05:46:13.223Z",
+  "total_soundtracks": 1790,
   "games": [
     {
       "igdb_id": 7522,
@@ -5504,6 +5504,20 @@
           "album_name": "Dragon Age: Origins (Original Video Game Score)",
           "spotify_url": "https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17465,
+      "game_name": "Dragon Age: Origins - Leliana's Song",
+      "game_url": "https://ostdb.net/games/dragon-age-origins-lelianas-song",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733e12b7c3368f89061ff67ee0",
+      "albums": [
+        {
+          "album_name": "Dragon Age: Origins - Leliana's Song (Original Video Game Score)",
+          "spotify_url": "https://open.spotify.com/album/0yhU74HiofxL8uJvDxMDDv",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
