@@ -5933,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
 | Amoeba Battle: Microscopic RTS Action | 131972 | [131972-amoeba-battle-microscopic-rts-action.json](./131972-amoeba-battle-microscopic-rts-action.json) |
 | Amoeba Jump | 195568 | [195568-amoeba-jump.json](./195568-amoeba-jump.json) |
+| Amoebattle | 21733 | [21733-amoebattle.json](./21733-amoebattle.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD | 183857 | [183857-amogus-td.json](./183857-amogus-td.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
@@ -11921,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
+| Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
