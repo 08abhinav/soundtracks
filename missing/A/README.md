@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Hollow Heartbeat | 389012 | [389012-a-hollow-heartbeat.json](./389012-a-hollow-heartbeat.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
+| A Home of Quiet | 421834 | [421834-a-home-of-quiet.json](./421834-a-home-of-quiet.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
 | A Horror Game for Cowards | 312677 | [312677-a-horror-game-for-cowards.json](./312677-a-horror-game-for-cowards.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
+| Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssey | 259501 | [259501-abyssey.json](./259501-abyssey.json) |
@@ -7173,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
 | Anniversary no Kuni no Alice: Wonderful Wonder World | 218641 | [218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json](./218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
+| Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
