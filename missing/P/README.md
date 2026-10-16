@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Pengy | 15337 | [15337-pengy.json](./15337-pengy.json) |
+| Peninsular War Battles | 55459 | [55459-peninsular-war-battles.json](./55459-peninsular-war-battles.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
@@ -8486,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
+| Polygoneer | 55395 | [55395-polygoneer.json](./55395-polygoneer.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
 | Polygonia | 194191 | [194191-polygonia.json](./194191-polygonia.json) |
 | Polygonle | 214410 | [214410-polygonle.json](./214410-polygonle.json) |
