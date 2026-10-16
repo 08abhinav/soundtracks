@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest life | 75078 | [75078-harvest-life.json](./75078-harvest-life.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
+| Harvest Looper | 419323 | [419323-harvest-looper.json](./419323-harvest-looper.json) |
 | Harvest Mall | 361644 | [361644-harvest-mall.json](./361644-harvest-mall.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Mr. President | 54900 | [54900-hello-mr-president.json](./54900-hello-mr-president.json) |
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
+| Hello Neighbor 2 Alpha 1 | 419367 | [419367-hello-neighbor-2-alpha-1.json](./419367-hello-neighbor-2-alpha-1.json) |
 | Hello Neighbor 2: Back to School | 238575 | [238575-hello-neighbor-2-back-to-school.json](./238575-hello-neighbor-2-back-to-school.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor 2: Hello-copter | 231270 | [231270-hello-neighbor-2-hello-copter.json](./231270-hello-neighbor-2-hello-copter.json) |
@@ -7214,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
 | Hot Honey | 163894 | [163894-hot-honey.json](./163894-hot-honey.json) |
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
+| Hot Land | 419375 | [419375-hot-land.json](./419375-hot-land.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
 | Hot Lava | 20149 | [20149-hot-lava.json](./20149-hot-lava.json) |
