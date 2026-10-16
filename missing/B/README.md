@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
+| Beans: The Coffee Shop Simulator | 28866 | [28866-beans-the-coffee-shop-simulator.json](./28866-beans-the-coffee-shop-simulator.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
+| Big Hit VR Baseball | 28789 | [28789-big-hit-vr-baseball.json](./28789-big-hit-vr-baseball.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
 | Big Hops | 217390 | [217390-big-hops.json](./217390-big-hops.json) |
 | Big Huggin' | 63113 | [63113-big-huggin.json](./63113-big-huggin.json) |
