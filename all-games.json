@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:11:54.822Z",
-  "total_soundtracks": 1866,
+  "generated_at": "2026-10-16T06:12:08.620Z",
+  "total_soundtracks": 1867,
   "games": [
     {
       "igdb_id": 7522,
@@ -9470,6 +9470,20 @@
           "album_name": "Horizon Forbidden West (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 228533,
+      "game_name": "Horizon Forbidden West: Burning Shores",
+      "game_url": "https://ostdb.net/games/horizon-forbidden-west-burning-shores",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739524909c26d6f8f465638c25",
+      "albums": [
+        {
+          "album_name": "Horizon Forbidden West: Burning Shores (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3rXbcaodz5tzIIeSRCSon8",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
