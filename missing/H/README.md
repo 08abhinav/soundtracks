@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley-Davidson Motorcycles: Road to Daytona | 198752 | [198752-harley-davidson-motorcycles-road-to-daytona.json](./198752-harley-davidson-motorcycles-road-to-daytona.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
+| Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
