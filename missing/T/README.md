@@ -3681,7 +3681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
-| That Dragon, Cancer | 15925 | [15925-that-dragon-cancer.json](./15925-that-dragon-cancer.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
@@ -7510,7 +7509,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Hollow | 127780 | [127780-the-house-in-the-hollow.json](./127780-the-house-in-the-hollow.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
-| The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
 | The House of Da Vinci 2 | 132542 | [132542-the-house-of-da-vinci-2.json](./132542-the-house-of-da-vinci-2.json) |
 | The House of Da Vinci 3 | 197081 | [197081-the-house-of-da-vinci-3.json](./197081-the-house-of-da-vinci-3.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
@@ -7847,9 +7845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
-| The Jackbox Party Pack 5 | 96213 | [96213-the-jackbox-party-pack-5.json](./96213-the-jackbox-party-pack-5.json) |
-| The Jackbox Party Pack 6 | 125021 | [125021-the-jackbox-party-pack-6.json](./125021-the-jackbox-party-pack-6.json) |
-| The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
@@ -9327,7 +9322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
-| The Lost World: Jurassic Park | 19536 | [19536-the-lost-world-jurassic-park.json](./19536-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 217957 | [217957-the-lost-world-jurassic-park.json](./217957-the-lost-world-jurassic-park.json) |
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
@@ -10271,7 +10265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
-| The Past Within | 147340 | [147340-the-past-within.json](./147340-the-past-within.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
@@ -11201,7 +11194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Turnabout | 306620 | [306620-the-secret-turnabout.json](./306620-the-secret-turnabout.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
-| The Secret World | 1064 | [1064-the-secret-world.json](./1064-the-secret-world.json) |
 | The Secret World: Ultimate Edition | 35524 | [35524-the-secret-world-ultimate-edition.json](./35524-the-secret-world-ultimate-edition.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
@@ -11239,7 +11231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
 | The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
-| The Settlers 7: Paths to a Kingdom | 3695 | [3695-the-settlers-7-paths-to-a-kingdom.json](./3695-the-settlers-7-paths-to-a-kingdom.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
@@ -12241,7 +12232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Testing Chamber | 195461 | [195461-the-testing-chamber.json](./195461-the-testing-chamber.json) |
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
-| The Texas Chain Saw Massacre | 185238 | [185238-the-texas-chain-saw-massacre.json](./185238-the-texas-chain-saw-massacre.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack | 273839 | [273839-the-texas-chain-saw-massacre-ana-outfit-pack.json](./273839-the-texas-chain-saw-massacre-ana-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack 2 | 298252 | [298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json](./298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json) |
@@ -12278,7 +12268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
-| The Thaumaturge | 239942 | [239942-the-thaumaturge.json](./239942-the-thaumaturge.json) |
 | The Thaumaturge: Deluxe Edition | 322282 | [322282-the-thaumaturge-deluxe-edition.json](./322282-the-thaumaturge-deluxe-edition.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
@@ -12624,7 +12613,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
 | The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
-| The Town of Light | 18157 | [18157-the-town-of-light.json](./18157-the-town-of-light.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
@@ -12894,7 +12882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
-| The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
@@ -13966,7 +13953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
-| Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
@@ -16210,7 +16196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
-| TimeSplitters | 2142 | [2142-timesplitters.json](./2142-timesplitters.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
@@ -17132,6 +17117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
+| Toki | 94084 | [94084-toki.json](./94084-toki.json) |
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
@@ -18037,7 +18023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormented Soul | 322083 | [322083-tormented-soul.json](./322083-tormented-soul.json) |
-| Tormented Souls | 138569 | [138569-tormented-souls.json](./138569-tormented-souls.json) |
 | Tormented Souls II: Digital Deluxe Edition | 401599 | [401599-tormented-souls-ii-digital-deluxe-edition.json](./401599-tormented-souls-ii-digital-deluxe-edition.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
@@ -21442,7 +21427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
-| Tribes: Ascend | 9506 | [9506-tribes-ascend.json](./9506-tribes-ascend.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | TriBlaster | 36274 | [36274-triblaster.json](./36274-triblaster.json) |
@@ -23062,7 +23046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Love: Captive Souls | 288127 | [288127-twisted-love-captive-souls.json](./288127-twisted-love-captive-souls.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
-| Twisted Metal | 5416 | [5416-twisted-metal.json](./5416-twisted-metal.json) |
 | Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
 | Twisted Metal 4 | 347127 | [347127-twisted-metal-4.json](./347127-twisted-metal-4.json) |
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
