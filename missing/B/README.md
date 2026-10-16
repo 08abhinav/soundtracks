@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
+| Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
@@ -8813,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
+| BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
