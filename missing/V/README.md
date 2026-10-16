@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
+| Voxel Turf | 54798 | [54798-voxel-turf.json](./54798-voxel-turf.json) |
 | Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
