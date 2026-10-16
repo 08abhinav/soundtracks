@@ -7409,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun-Reviper | 164067 | [164067-gun-reviper.json](./164067-gun-reviper.json) |
 | Gun-Running War Dogs | 52774 | [52774-gun-running-war-dogs.json](./52774-gun-running-war-dogs.json) |
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
+| Gun: Showdown | 248546 | [248546-gun-showdown.json](./248546-gun-showdown.json) |
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
