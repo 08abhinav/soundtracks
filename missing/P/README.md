@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
 | Pac-Man World 3 | 243196 | [243196-pac-man-world-3.json](./243196-pac-man-world-3.json) |
+| Pac-Man World 3 | 243197 | [243197-pac-man-world-3.json](./243197-pac-man-world-3.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Rally | 248531 | [248531-pac-man-world-rally.json](./248531-pac-man-world-rally.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
+| Pokémon Scarlet: The Hidden Treasure of Area Zero | 239935 | [239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
@@ -10019,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: New Era Bundle | 407278 | [407278-prince-of-persia-new-era-bundle.json](./407278-prince-of-persia-new-era-bundle.json) |
+| Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142710 | [142710-prince-of-persia-the-forgotten-sands.json](./142710-prince-of-persia-the-forgotten-sands.json) |
