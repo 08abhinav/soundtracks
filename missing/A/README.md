@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
+| Achievement Clicker 2018 | 81847 | [81847-achievement-clicker-2018.json](./81847-achievement-clicker-2018.json) |
 | Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
@@ -9045,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader | 35440 | [35440-are-you-smarter-than-a-5th-grader.json](./35440-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter than a 5th Grader? | 199325 | [199325-are-you-smarter-than-a-5th-grader.json](./199325-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
+| Are You Smarter Than a 5th Grader? | 81347 | [81347-are-you-smarter-than-a-5th-grader.json](./81347-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
