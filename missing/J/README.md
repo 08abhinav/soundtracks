@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
+| Jam with the Band | 21100 | [21100-jam-with-the-band.json](./21100-jam-with-the-band.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
 | Jamaika Mu | 56358 | [56358-jamaika-mu.json](./56358-jamaika-mu.json) |
 | Jamal Et MehdiI: The Quest for the iencli | 217488 | [217488-jamal-et-mehdii-the-quest-for-the-iencli.json](./217488-jamal-et-mehdii-the-quest-for-the-iencli.json) |
