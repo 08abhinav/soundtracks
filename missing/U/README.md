@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Unto Deepest Depths | 317989 | [317989-unto-deepest-depths.json](./317989-unto-deepest-depths.json) |
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
+| Unto the End | 37146 | [37146-unto-the-end.json](./37146-unto-the-end.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 228708 | [228708-up.json](./228708-up.json) |
 | Up | 230362 | [230362-up.json](./230362-up.json) |
 | Up | 360706 | [360706-up.json](./360706-up.json) |
+| Up | 5254 | [5254-up.json](./5254-up.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
