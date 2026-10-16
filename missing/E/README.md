@@ -375,7 +375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
 | Eastfound | 101036 | [101036-eastfound.json](./101036-eastfound.json) |
 | Eastpunk: Journey | 249668 | [249668-eastpunk-journey.json](./249668-eastpunk-journey.json) |
-| Eastshade | 17480 | [17480-eastshade.json](./17480-eastshade.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
 | Eastside Hockey Manager | 71414 | [71414-eastside-hockey-manager.json](./71414-eastside-hockey-manager.json) |
 | Eastward Legend: The Empyrean | 119414 | [119414-eastward-legend-the-empyrean.json](./119414-eastward-legend-the-empyrean.json) |
@@ -3754,7 +3753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
 | Escape The Ayuwoki Horror Fort | 242011 | [242011-escape-the-ayuwoki-horror-fort.json](./242011-escape-the-ayuwoki-horror-fort.json) |
 | Escape the Ayuwoki: The Summoning | 171347 | [171347-escape-the-ayuwoki-the-summoning.json](./171347-escape-the-ayuwoki-the-summoning.json) |
-| Escape the Backrooms | 197202 | [197202-escape-the-backrooms.json](./197202-escape-the-backrooms.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
@@ -4148,7 +4146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
-| Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
 | Eternal Return | 31290 | [31290-eternal-return.json](./31290-eternal-return.json) |
 | Eternal Return: Beachside Splash Character Bundle | 226790 | [226790-eternal-return-beachside-splash-character-bundle.json](./226790-eternal-return-beachside-splash-character-bundle.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
@@ -4541,7 +4538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Event-D | 113016 | [113016-event-d.json](./113016-event-d.json) |
-| Event[0] | 18397 | [18397-event-0.json](./18397-event-0.json) |
 | Eventide | 252026 | [252026-eventide.json](./252026-eventide.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
