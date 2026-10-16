@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
+| Final Fantasy XV: A New Empire | 41052 | [41052-final-fantasy-xv-a-new-empire.json](./41052-final-fantasy-xv-a-new-empire.json) |
 | Final Fantasy XV: Day One Edition | 75681 | [75681-final-fantasy-xv-day-one-edition.json](./75681-final-fantasy-xv-day-one-edition.json) |
 | Final Fantasy XV: Deluxe Edition | 38492 | [38492-final-fantasy-xv-deluxe-edition.json](./38492-final-fantasy-xv-deluxe-edition.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
+| Fire Shark | 39647 | [39647-fire-shark.json](./39647-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
 | Fire Squad | 212425 | [212425-fire-squad.json](./212425-fire-squad.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
