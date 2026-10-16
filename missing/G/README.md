@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Signal: Fleet Expansion | 251575 | [251575-ghost-signal-fleet-expansion.json](./251575-ghost-signal-fleet-expansion.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
 | Ghost Soul M | 410205 | [410205-ghost-soul-m.json](./410205-ghost-soul-m.json) |
+| Ghost Squad | 4890 | [4890-ghost-squad.json](./4890-ghost-squad.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Stories | 200443 | [200443-ghost-stories.json](./200443-ghost-stories.json) |
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
@@ -6834,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
+| Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
