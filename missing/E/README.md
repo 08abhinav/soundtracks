@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle Legacy: Zero | 373186 | [373186-eagle-legacy-zero.json](./373186-eagle-legacy-zero.json) |
 | Eagle n Chicken | 367837 | [367837-eagle-n-chicken.json](./367837-eagle-n-chicken.json) |
+| Eagle One: Harrier Attack | 44948 | [44948-eagle-one-harrier-attack.json](./44948-eagle-one-harrier-attack.json) |
 | Eagle Plan | 70867 | [70867-eagle-plan.json](./70867-eagle-plan.json) |
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
