@@ -8738,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
 | Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
+| Skyborn | 9423 | [9423-skyborn.json](./9423-skyborn.json) |
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
@@ -12543,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soratobu Bunbun Baan | 85388 | [85388-soratobu-bunbun-baan.json](./85388-soratobu-bunbun-baan.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
+| Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
 | Sorcerer Knights | 171872 | [171872-sorcerer-knights.json](./171872-sorcerer-knights.json) |
 | Sorcerer Lord | 36908 | [36908-sorcerer-lord.json](./36908-sorcerer-lord.json) |
@@ -12852,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbound | 247967 | [247967-soulbound.json](./247967-soulbound.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
+| Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
 | SoulCalibur II | 227986 | [227986-soulcalibur-ii.json](./227986-soulcalibur-ii.json) |
 | SoulCalibur II | 227987 | [227987-soulcalibur-ii.json](./227987-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
@@ -13785,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
+| Space Siege | 9276 | [9276-space-siege.json](./9276-space-siege.json) |
 | Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
@@ -19323,6 +19327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 3 Character Pass | 347670 | [347670-street-fighter-6-year-3-character-pass.json](./347670-street-fighter-6-year-3-character-pass.json) |
 | Street Fighter 6: Year 3 Ultimate Pass | 356813 | [356813-street-fighter-6-year-3-ultimate-pass.json](./356813-street-fighter-6-year-3-ultimate-pass.json) |
 | Street Fighter 6: Years 1-2 - Fighters Edition | 338081 | [338081-street-fighter-6-years-1-2-fighters-edition.json](./338081-street-fighter-6-years-1-2-fighters-edition.json) |
+| Street Fighter Alpha 2 | 243451 | [243451-street-fighter-alpha-2.json](./243451-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 2 | 6703 | [6703-street-fighter-alpha-2.json](./6703-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 | 242651 | [242651-street-fighter-alpha-3.json](./242651-street-fighter-alpha-3.json) |
@@ -19609,6 +19614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike the Striker Z | 164071 | [164071-strike-the-striker-z.json](./164071-strike-the-striker-z.json) |
+| Strike Vector | 9464 | [9464-strike-vector.json](./9464-strike-vector.json) |
 | Strike Vector EX | 22798 | [22798-strike-vector-ex.json](./22798-strike-vector-ex.json) |
 | Strike Vector EX Open Beta | 51433 | [51433-strike-vector-ex-open-beta.json](./51433-strike-vector-ex-open-beta.json) |
 | Strike VR | 155886 | [155886-strike-vr.json](./155886-strike-vr.json) |
@@ -21220,6 +21226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
+| Super Cobra | 5708 | [5708-super-cobra.json](./5708-super-cobra.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
 | Super Colapse! 3 | 19342 | [19342-super-colapse-3.json](./19342-super-colapse-3.json) |
 | Super Collapse 3 | 42881 | [42881-super-collapse-3.json](./42881-super-collapse-3.json) |
