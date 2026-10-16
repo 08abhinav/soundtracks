@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup-qop! | 247081 | [247081-zup-qop.json](./247081-zup-qop.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
+| Zup! 2 | 26492 | [26492-zup-2.json](./26492-zup-2.json) |
 | Zup! 2: DLC | 169711 | [169711-zup-2-dlc.json](./169711-zup-2-dlc.json) |
 | Zup! 3 | 27416 | [27416-zup-3.json](./27416-zup-3.json) |
 | Zup! 3: DLC | 169709 | [169709-zup-3-dlc.json](./169709-zup-3-dlc.json) |
