@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:42:14.640Z",
-  "total_soundtracks": 1954,
+  "generated_at": "2026-10-16T19:42:27.589Z",
+  "total_soundtracks": 1955,
   "games": [
     {
       "igdb_id": 7522,
@@ -17171,6 +17171,20 @@
           "spotify_url": "https://open.spotify.com/album/6rfFxDdAyBumxZpT6lJDsO",
           "apple_music_url": "https://music.apple.com/us/album/simcity-4-original-soundtrack/1497387574",
           "album_link_url": "https://album.link/i/1497387574"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1491,
+      "game_name": "SimCity Societies",
+      "game_url": "https://ostdb.net/games/simcity-societies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb8eb64bf64403be02cfc739",
+      "albums": [
+        {
+          "album_name": "SimCity Societies (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2UnTdfVzSSSZX3Tfqnx4qS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
