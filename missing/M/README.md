@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
+| MCSR Ranked | 386756 | [386756-mcsr-ranked.json](./386756-mcsr-ranked.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | McTremson Bar | 179548 | [179548-mctremson-bar.json](./179548-mctremson-bar.json) |
 | MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
@@ -6545,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
+| Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
@@ -11142,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
+| Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
