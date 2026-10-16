@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
+| Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -1361,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
+| Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
 | Rapala Tournament Fishing | 5115 | [5115-rapala-tournament-fishing.json](./5115-rapala-tournament-fishing.json) |
@@ -3971,6 +3973,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
+| Resogun: Defenders | 20328 | [20328-resogun-defenders.json](./20328-resogun-defenders.json) |
+| Resogun: Heroes | 20327 | [20327-resogun-heroes.json](./20327-resogun-heroes.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resolution 101 | 15355 | [15355-resolution-101.json](./15355-resolution-101.json) |
 | Resonance | 215322 | [215322-resonance.json](./215322-resonance.json) |
