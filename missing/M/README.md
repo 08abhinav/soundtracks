@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Tower of Niflheim | 148874 | [148874-magicka-tower-of-niflheim.json](./148874-magicka-tower-of-niflheim.json) |
 | Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
+| Magicka: Wizard Wars | 2006 | [2006-magicka-wizard-wars.json](./2006-magicka-wizard-wars.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicka: Wizards of the Square Tablet | 10527 | [10527-magicka-wizards-of-the-square-tablet.json](./10527-magicka-wizards-of-the-square-tablet.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2: Battles of Ardania | 19198 | [19198-majesty-2-battles-of-ardania.json](./19198-majesty-2-battles-of-ardania.json) |
 | Majesty 2: Kingmaker | 19199 | [19199-majesty-2-kingmaker.json](./19199-majesty-2-kingmaker.json) |
 | Majesty 2: Monster Kingdom | 19197 | [19197-majesty-2-monster-kingdom.json](./19197-majesty-2-monster-kingdom.json) |
+| Majesty 2: The Fantasy Kingdom Sim | 2043 | [2043-majesty-2-the-fantasy-kingdom-sim.json](./2043-majesty-2-the-fantasy-kingdom-sim.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - JumpShip Edition | 173169 | [173169-mechwarrior-5-mercenaries-jumpship-edition.json](./173169-mechwarrior-5-mercenaries-jumpship-edition.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
+| MechWarrior Online | 1255 | [1255-mechwarrior-online.json](./1255-mechwarrior-online.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
 | MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
 | MechWarrior Online: Arges Legendary Mech Pack | 357339 | [357339-mechwarrior-online-arges-legendary-mech-pack.json](./357339-mechwarrior-online-arges-legendary-mech-pack.json) |
@@ -5336,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
+| Mega Man Soccer | 1730 | [1730-mega-man-soccer.json](./1730-mega-man-soccer.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
@@ -6315,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
+| Mercs | 4487 | [4487-mercs.json](./4487-mercs.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
 | Mercs Inc. | 80407 | [80407-mercs-inc.json](./80407-mercs-inc.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
@@ -7664,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Remastered | 117443 | [117443-midnight-remastered.json](./117443-midnight-remastered.json) |
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
+| Midnight Resistance | 4401 | [4401-midnight-resistance.json](./4401-midnight-resistance.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
@@ -7775,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic VII: For Blood and Honor | 7739 | [7739-might-and-magic-vii-for-blood-and-honor.json](./7739-might-and-magic-vii-for-blood-and-honor.json) |
+| Might and Magic VIII: Day of the Destroyer | 7740 | [7740-might-and-magic-viii-day-of-the-destroyer.json](./7740-might-and-magic-viii-day-of-the-destroyer.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: Swords of Xeen | 72004 | [72004-might-and-magic-swords-of-xeen.json](./72004-might-and-magic-swords-of-xeen.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
@@ -14207,6 +14214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
+| My Memory of Us | 27192 | [27192-my-memory-of-us.json](./27192-my-memory-of-us.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
@@ -14983,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Ninja Starring Goemon | 143439 | [143439-mystical-ninja-starring-goemon.json](./143439-mystical-ninja-starring-goemon.json) |
+| Mystical Ninja Starring Goemon | 3545 | [3545-mystical-ninja-starring-goemon.json](./3545-mystical-ninja-starring-goemon.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
