@@ -3997,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sereno | 368367 | [368367-sereno.json](./368367-sereno.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
+| Serf City: Life is Feudal | 124693 | [124693-serf-city-life-is-feudal.json](./124693-serf-city-life-is-feudal.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
 | Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
@@ -7202,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
+| Silent Hill: Mobile 3 | 134265 | [134265-silent-hill-mobile-3.json](./134265-silent-hill-mobile-3.json) |
 | Silent Hill: Orphan | 59007 | [59007-silent-hill-orphan.json](./59007-silent-hill-orphan.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
@@ -8006,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren | 14522 | [14522-siren.json](./14522-siren.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
+| Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
@@ -9869,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
+| Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
@@ -11218,6 +11222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
+| Solaris | 40577 | [40577-solaris.json](./40577-solaris.json) |
 | Solaris | 407505 | [407505-solaris.json](./407505-solaris.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
 | Solaris 2 | 314613 | [314613-solaris-2.json](./314613-solaris-2.json) |
@@ -16221,6 +16226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stable Orbit | 28547 | [28547-stable-orbit.json](./28547-stable-orbit.json) |
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
+| Stack | 135714 | [135714-stack.json](./135714-stack.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
@@ -19472,6 +19478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
+| Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
