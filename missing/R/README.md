@@ -2626,7 +2626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
-| Red Dead Redemption | 260737 | [260737-red-dead-redemption.json](./260737-red-dead-redemption.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
 | Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
 | Red Dead Redemption II: Ultimate Edition | 103206 | [103206-red-dead-redemption-ii-ultimate-edition.json](./103206-red-dead-redemption-ii-ultimate-edition.json) |
@@ -2795,7 +2794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
-| Red Steel | 2258 | [2258-red-steel.json](./2258-red-steel.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
@@ -4356,7 +4354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunited | 108910 | [108910-reunited.json](./108910-reunited.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
 | Reunition | 89208 | [89208-reunition.json](./89208-reunition.json) |
-| Reus | 5523 | [5523-reus.json](./5523-reus.json) |
 | Reus 2: Everglades | 355144 | [355144-reus-2-everglades.json](./355144-reus-2-everglades.json) |
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
@@ -4645,7 +4642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
-| Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
@@ -5475,7 +5471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Tomb Raider: Cold Darkness Awakened | 25219 | [25219-rise-of-the-tomb-raider-cold-darkness-awakened.json](./25219-rise-of-the-tomb-raider-cold-darkness-awakened.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
 | Rise of the Tomb Raider: Endurance Mode | 214844 | [214844-rise-of-the-tomb-raider-endurance-mode.json](./214844-rise-of-the-tomb-raider-endurance-mode.json) |
-| Rise of the Triad | 2381 | [2381-rise-of-the-triad.json](./2381-rise-of-the-triad.json) |
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
@@ -6089,7 +6084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
-| RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
 | RoboCop 2 | 6853 | [6853-robocop-2.json](./6853-robocop-2.json) |
@@ -8933,7 +8927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
-| RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV There Yet? Mt. Yurbuttsk | 381944 | [381944-rv-there-yet-mt-yurbuttsk.json](./381944-rv-there-yet-mt-yurbuttsk.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
