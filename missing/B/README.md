@@ -10461,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break my body | 120771 | [120771-break-my-body.json](./120771-break-my-body.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
+| Break of Dawn | 420475 | [420475-break-of-dawn.json](./420475-break-of-dawn.json) |
 | Break Pattern | 211458 | [211458-break-pattern.json](./211458-break-pattern.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
