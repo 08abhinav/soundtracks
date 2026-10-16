@@ -9804,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
+| The Moonstone Equation | 29532 | [29532-the-moonstone-equation.json](./29532-the-moonstone-equation.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Mooseman: Mythic Edition | 53762 | [53762-the-mooseman-mythic-edition.json](./53762-the-mooseman-mythic-edition.json) |
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
@@ -10049,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
+| The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
 | The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
@@ -12497,6 +12499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
+| The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
 | The Touch | 415498 | [415498-the-touch.json](./415498-the-touch.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
@@ -17092,6 +17095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
+| Toaster Jam | 29524 | [29524-toaster-jam.json](./29524-toaster-jam.json) |
 | Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
 | Toasterball + Buissons Bundle | 276951 | [276951-toasterball-buissons-bundle.json](./276951-toasterball-buissons-bundle.json) |
 | Toasterdog in Dreamworld | 299558 | [299558-toasterdog-in-dreamworld.json](./299558-toasterdog-in-dreamworld.json) |
@@ -21060,6 +21064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped: Forced To Kill | 402408 | [402408-trapped-forced-to-kill.json](./402408-trapped-forced-to-kill.json) |
 | Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapped: Wayne's Chamber | 311597 | [311597-trapped-waynes-chamber.json](./311597-trapped-waynes-chamber.json) |
+| Trapper Knight, Sharpshooter Princess | 29534 | [29534-trapper-knight-sharpshooter-princess.json](./29534-trapper-knight-sharpshooter-princess.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
 | Trapper: Drug Dealing RPG | 192182 | [192182-trapper-drug-dealing-rpg.json](./192182-trapper-drug-dealing-rpg.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
@@ -22935,6 +22940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
+| Turret Architect | 30513 | [30513-turret-architect.json](./30513-turret-architect.json) |
 | Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
 | Turret Defense: Bug Invasion | 160079 | [160079-turret-defense-bug-invasion.json](./160079-turret-defense-bug-invasion.json) |
