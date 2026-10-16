@@ -10516,6 +10516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
+| Prodeus | 112613 | [112613-prodeus.json](./112613-prodeus.json) |
 | Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
@@ -11890,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
 | Pumpkin Hell | 261167 | [261167-pumpkin-hell.json](./261167-pumpkin-hell.json) |
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
+| Pumpkin Jack | 126725 | [126725-pumpkin-jack.json](./126725-pumpkin-jack.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
