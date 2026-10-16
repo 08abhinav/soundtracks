@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
+| Samurai Warriors: State of War | 12299 | [12299-samurai-warriors-state-of-war.json](./12299-samurai-warriors-state-of-war.json) |
 | Samurai Warriors: Xtreme Legends | 12298 | [12298-samurai-warriors-xtreme-legends.json](./12298-samurai-warriors-xtreme-legends.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
 | Samurai Wars | 32025 | [32025-samurai-wars.json](./32025-samurai-wars.json) |
@@ -13460,6 +13461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Force | 346136 | [346136-space-force.json](./346136-space-force.json) |
 | Space Force | 346137 | [346137-space-force.json](./346137-space-force.json) |
 | Space Force Squadron | 155860 | [155860-space-force-squadron.json](./155860-space-force-squadron.json) |
+| Space Force: Rogue Universe | 10259 | [10259-space-force-rogue-universe.json](./10259-space-force-rogue-universe.json) |
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
@@ -14542,6 +14544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
+| Speedball 2 HD | 9027 | [9027-speedball-2-hd.json](./9027-speedball-2-hd.json) |
 | Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
@@ -15951,6 +15954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter II | 6153 | [6153-spy-hunter-ii.json](./6153-spy-hunter-ii.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
 | Spy Hunter: Missile Crisis | 72010 | [72010-spy-hunter-missile-crisis.json](./72010-spy-hunter-missile-crisis.json) |
+| Spy Hunter: Nowhere to Run | 6155 | [6155-spy-hunter-nowhere-to-run.json](./6155-spy-hunter-nowhere-to-run.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
@@ -18106,6 +18110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
+| Steel Battalion | 6163 | [6163-steel-battalion.json](./6163-steel-battalion.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
@@ -20063,6 +20068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
+| Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
 | SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
@@ -20806,6 +20812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night 2 | 13064 | [13064-summon-night-2.json](./13064-summon-night-2.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
+| Summon Night 5 | 13110 | [13110-summon-night-5.json](./13110-summon-night-5.json) |
+| Summon Night 6: Lost Borders | 13111 | [13111-summon-night-6-lost-borders.json](./13111-summon-night-6-lost-borders.json) |
 | Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
 | Summon Night Craft Sword Monogatari: Hajimari no Ishi | 49810 | [49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json](./49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
@@ -24860,6 +24868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvio 2 | 28216 | [28216-sylvio-2.json](./28216-sylvio-2.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
+| Sym | 11424 | [11424-sym.json](./11424-sym.json) |
 | Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
