@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
+| Foresight | 17677 | [17677-foresight.json](./17677-foresight.json) |
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
@@ -7921,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
+| Frayed Knights: The Skull of S'makh-Daon | 17649 | [17649-frayed-knights-the-skull-of-smakh-daon.json](./17649-frayed-knights-the-skull-of-smakh-daon.json) |
 | Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
 | Fraymakers | 141090 | [141090-fraymakers.json](./141090-fraymakers.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
@@ -8524,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
 | Frogger | 11470 | [11470-frogger.json](./11470-frogger.json) |
+| Frogger | 11475 | [11475-frogger.json](./11475-frogger.json) |
 | Frogger | 198743 | [198743-frogger.json](./198743-frogger.json) |
 | Frogger | 198744 | [198744-frogger.json](./198744-frogger.json) |
 | Frogger | 199426 | [199426-frogger.json](./199426-frogger.json) |
