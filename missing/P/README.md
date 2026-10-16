@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Purgatory HD | 77308 | [77308-painkiller-purgatory-hd.json](./77308-painkiller-purgatory-hd.json) |
 | Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
+| Painkiller: Resurrection | 1837 | [1837-painkiller-resurrection.json](./1837-painkiller-resurrection.json) |
 | Painkiller: Special Edition | 317426 | [317426-painkiller-special-edition.json](./317426-painkiller-special-edition.json) |
 | Painkiller++ | 362469 | [362469-painkiller.json](./362469-painkiller.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
@@ -8201,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
+| Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
 | Police Quest: SWAT | 309 | [309-police-quest-swat.json](./309-police-quest-swat.json) |
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
@@ -8763,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn! | 97472 | [97472-popcorn.json](./97472-popcorn.json) |
 | PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
+| Popeye | 229982 | [229982-popeye.json](./229982-popeye.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
