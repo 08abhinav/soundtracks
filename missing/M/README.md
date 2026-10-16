@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Snap | 202279 | [202279-marvel-snap.json](./202279-marvel-snap.json) |
 | Marvel Spider-Man | 198900 | [198900-marvel-spider-man.json](./198900-marvel-spider-man.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
+| Marvel Strike Force | 76164 | [76164-marvel-strike-force.json](./76164-marvel-strike-force.json) |
 | Marvel Super Hero Squad | 4997 | [4997-marvel-super-hero-squad.json](./4997-marvel-super-hero-squad.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
@@ -8509,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: World of Color Update | 221878 | [221878-minecraft-world-of-color-update.json](./221878-minecraft-world-of-color-update.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
 | Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
+| Minecraft: Xbox One Edition | 94752 | [94752-minecraft-xbox-one-edition.json](./94752-minecraft-xbox-one-edition.json) |
 | Minecraft: Young Gru | 320257 | [320257-minecraft-young-gru.json](./320257-minecraft-young-gru.json) |
 | MinecraftEdu | 337206 | [337206-minecraftedu.json](./337206-minecraftedu.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
@@ -9717,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
+| MLB The Show 19 | 111654 | [111654-mlb-the-show-19.json](./111654-mlb-the-show-19.json) |
 | MLB The Show 19: Digital Deluxe Edition | 118691 | [118691-mlb-the-show-19-digital-deluxe-edition.json](./118691-mlb-the-show-19-digital-deluxe-edition.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
@@ -10754,6 +10757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
 | Monster Hunter Explore | 58601 | [58601-monster-hunter-explore.json](./58601-monster-hunter-explore.json) |
+| Monster Hunter Freedom | 2269 | [2269-monster-hunter-freedom.json](./2269-monster-hunter-freedom.json) |
 | Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier G Genuine | 78359 | [78359-monster-hunter-frontier-g-genuine.json](./78359-monster-hunter-frontier-g-genuine.json) |
 | Monster Hunter Frontier G2 | 61700 | [61700-monster-hunter-frontier-g2.json](./61700-monster-hunter-frontier-g2.json) |
@@ -14267,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
 | My Ninja Romance | 299520 | [299520-my-ninja-romance.json](./299520-my-ninja-romance.json) |
+| My Nintendo Picross: The Legend of Zelda Twilight Princess | 58782 | [58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json](./58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
