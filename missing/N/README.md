@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 08 | 875 | [875-nhl-08.json](./875-nhl-08.json) |
+| NHL 09 | 824 | [824-nhl-09.json](./824-nhl-09.json) |
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
 | NHL 11 | 954 | [954-nhl-11.json](./954-nhl-11.json) |
 | NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
