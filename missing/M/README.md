@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
 | Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
+| Masked Forces 2: Mystic Demons | 55523 | [55523-masked-forces-2-mystic-demons.json](./55523-masked-forces-2-mystic-demons.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
 | Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
+| Maze Run VR | 55416 | [55416-maze-run-vr.json](./55416-maze-run-vr.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
