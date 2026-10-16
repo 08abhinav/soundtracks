@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
 | Resident Evil: Revelations 2 - Deluxe Edition | 53506 | [53506-resident-evil-revelations-2-deluxe-edition.json](./53506-resident-evil-revelations-2-deluxe-edition.json) |
+| Resident Evil: Revelations 2 - Episode 1: Penal Colony | 82435 | [82435-resident-evil-revelations-2-episode-1-penal-colony.json](./82435-resident-evil-revelations-2-episode-1-penal-colony.json) |
 | Resident Evil: Revelations 2 - Episode 4: Metamorphosis | 116027 | [116027-resident-evil-revelations-2-episode-4-metamorphosis.json](./116027-resident-evil-revelations-2-episode-4-metamorphosis.json) |
 | Resident Evil: Revelations 2 - Extra Episode 2: Little Miss | 116029 | [116029-resident-evil-revelations-2-extra-episode-2-little-miss.json](./116029-resident-evil-revelations-2-extra-episode-2-little-miss.json) |
 | Resident Evil: Seamless HD Project | 322044 | [322044-resident-evil-seamless-hd-project.json](./322044-resident-evil-seamless-hd-project.json) |
