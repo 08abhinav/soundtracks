@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
+| Paranormal Detective: Escape from the 80's | 120813 | [120813-paranormal-detective-escape-from-the-80s.json](./120813-paranormal-detective-escape-from-the-80s.json) |
 | Paranormal Detective: Escape from the 90's | 152081 | [152081-paranormal-detective-escape-from-the-90s.json](./152081-paranormal-detective-escape-from-the-90s.json) |
 | Paranormal Enteties | 149367 | [149367-paranormal-enteties.json](./149367-paranormal-enteties.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
@@ -10324,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner 2 | 93192 | [93192-prisoner-2.json](./93192-prisoner-2.json) |
+| Prisoner 518 | 121172 | [121172-prisoner-518.json](./121172-prisoner-518.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoner of Ice | 1605 | [1605-prisoner-of-ice.json](./1605-prisoner-of-ice.json) |
 | Prisoner of War | 5990 | [5990-prisoner-of-war.json](./5990-prisoner-of-war.json) |
