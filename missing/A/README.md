@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
 | Agebringer | 379513 | [379513-agebringer.json](./379513-agebringer.json) |
 | Agecraft | 362933 | [362933-agecraft.json](./362933-agecraft.json) |
+| Agefield High: Rock the School | 356188 | [356188-agefield-high-rock-the-school.json](./356188-agefield-high-rock-the-school.json) |
 | Agelast | 223484 | [223484-agelast.json](./223484-agelast.json) |
 | Ageless | 131622 | [131622-ageless.json](./131622-ageless.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
@@ -8039,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
+| Aquaman: Battle for Atlantis | 3788 | [3788-aquaman-battle-for-atlantis.json](./3788-aquaman-battle-for-atlantis.json) |
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
@@ -8925,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
+| ArcRunner | 211441 | [211441-arcrunner.json](./211441-arcrunner.json) |
 | Arcsaber VR | 133188 | [133188-arcsaber-vr.json](./133188-arcsaber-vr.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | ArcSine | 234681 | [234681-arcsine.json](./234681-arcsine.json) |
