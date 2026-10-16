@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Survival | 96624 | [96624-infinite-survival.json](./96624-infinite-survival.json) |
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
+| Infinite Tanks | 30759 | [30759-infinite-tanks.json](./30759-infinite-tanks.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
 | Ironclad Tactics: Deluxe Edition | 51849 | [51849-ironclad-tactics-deluxe-edition.json](./51849-ironclad-tactics-deluxe-edition.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
+| Ironclads 2: War of the Pacific | 30721 | [30721-ironclads-2-war-of-the-pacific.json](./30721-ironclads-2-war-of-the-pacific.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
