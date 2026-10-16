@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
 | James 'Buster' Douglas Knock Out Boxing | 46530 | [46530-james-buster-douglas-knock-out-boxing.json](./46530-james-buster-douglas-knock-out-boxing.json) |
+| James Bond 007 | 1630 | [1630-james-bond-007.json](./1630-james-bond-007.json) |
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
 | James Bond 007: A View to a Kill | 1650 | [1650-james-bond-007-a-view-to-a-kill.json](./1650-james-bond-007-a-view-to-a-kill.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
+| James Bond 007: The Stealth Affair | 1636 | [1636-james-bond-007-the-stealth-affair.json](./1636-james-bond-007-the-stealth-affair.json) |
 | James Bond 007: The World Is Not Enough | 144507 | [144507-james-bond-007-the-world-is-not-enough.json](./144507-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: The World Is Not Enough | 1641 | [1641-james-bond-007-the-world-is-not-enough.json](./1641-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
@@ -710,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Jam Blast | 105882 | [105882-jelly-jam-blast.json](./105882-jelly-jam-blast.json) |
 | Jelly Juice | 88438 | [88438-jelly-juice.json](./88438-jelly-juice.json) |
 | Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
+| Jelly Jump | 86950 | [86950-jelly-jump.json](./86950-jelly-jump.json) |
 | Jelly Killer | 33538 | [33538-jelly-killer.json](./33538-jelly-killer.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Lam | 102037 | [102037-jelly-lam.json](./102037-jelly-lam.json) |
@@ -1742,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
+| Johnny Trigger | 178278 | [178278-johnny-trigger.json](./178278-johnny-trigger.json) |
 | Johnny Trigger Action Collection | 254683 | [254683-johnny-trigger-action-collection.json](./254683-johnny-trigger-action-collection.json) |
 | Johnny Trigger: Avenger Edition | 270291 | [270291-johnny-trigger-avenger-edition.json](./270291-johnny-trigger-avenger-edition.json) |
 | Johnny Trigger: Diamond Edition | 393066 | [393066-johnny-trigger-diamond-edition.json](./393066-johnny-trigger-diamond-edition.json) |
