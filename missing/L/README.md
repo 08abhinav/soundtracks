@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
+| Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lutter | 41299 | [41299-lutter.json](./41299-lutter.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
+| Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
 | Lux Delux: American History Lux | 163034 | [163034-lux-delux-american-history-lux.json](./163034-lux-delux-american-history-lux.json) |
 | Lux Delux: Ancient Empires Lux | 163035 | [163035-lux-delux-ancient-empires-lux.json](./163035-lux-delux-ancient-empires-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
