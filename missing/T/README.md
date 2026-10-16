@@ -2893,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenhou | 86199 | [86199-tenhou.json](./86199-tenhou.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tenioha! Girls Can Be Pervy Too! | 145379 | [145379-tenioha-girls-can-be-pervy-too.json](./145379-tenioha-girls-can-be-pervy-too.json) |
+| Tenjin Kaisen 2: Yomihon Yumegoyomi | 418606 | [418606-tenjin-kaisen-2-yomihon-yumegoyomi.json](./418606-tenjin-kaisen-2-yomihon-yumegoyomi.json) |
 | Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
 | Tenka no Goikenban: Mito Koumon | 48881 | [48881-tenka-no-goikenban-mito-koumon.json](./48881-tenka-no-goikenban-mito-koumon.json) |
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
@@ -5821,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
+| The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
 | The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
@@ -8661,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Last Z VR | 247610 | [247610-the-last-z-vr.json](./247610-the-last-z-vr.json) |
+| The Last Zeppelin | 418575 | [418575-the-last-zeppelin.json](./418575-the-last-zeppelin.json) |
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
@@ -22596,6 +22599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Kichi Sanpei: Blue Marlin-hen | 48875 | [48875-tsuri-kichi-sanpei-blue-marlin-hen.json](./48875-tsuri-kichi-sanpei-blue-marlin-hen.json) |
 | Tsuri ni Ikou | 356612 | [356612-tsuri-ni-ikou.json](./356612-tsuri-ni-ikou.json) |
+| Tsuri Sensei | 418609 | [418609-tsuri-sensei.json](./418609-tsuri-sensei.json) |
 | Tsuri Sensei 2 | 282706 | [282706-tsuri-sensei-2.json](./282706-tsuri-sensei-2.json) |
 | Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
