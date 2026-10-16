@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
 | Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
 | Oleg Sobolev's ASCII Doom | 217783 | [217783-oleg-sobolevs-ascii-doom.json](./217783-oleg-sobolevs-ascii-doom.json) |
+| Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
@@ -2716,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
+| Orbital Maintenance Technician | 419344 | [419344-orbital-maintenance-technician.json](./419344-orbital-maintenance-technician.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
 | Orbital Outbreak | 385871 | [385871-orbital-outbreak.json](./385871-orbital-outbreak.json) |
 | Orbital Overdrive | 383113 | [383113-orbital-overdrive.json](./383113-orbital-overdrive.json) |
@@ -4073,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overview | 81946 | [81946-overview.json](./81946-overview.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
+| Overvoid | 419333 | [419333-overvoid.json](./419333-overvoid.json) |
 | Overwatch 2: Complete Hero Collection | 261336 | [261336-overwatch-2-complete-hero-collection.json](./261336-overwatch-2-complete-hero-collection.json) |
 | Overwatch 2: Hero Collection | 261335 | [261335-overwatch-2-hero-collection.json](./261335-overwatch-2-hero-collection.json) |
 | Overwatch 2: Invasion Bundle | 261349 | [261349-overwatch-2-invasion-bundle.json](./261349-overwatch-2-invasion-bundle.json) |
