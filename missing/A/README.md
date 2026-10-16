@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
+| Adventures of Kok | 55367 | [55367-adventures-of-kok.json](./55367-adventures-of-kok.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
+| Alicia Quatermain: Secrets of the Lost Treasures | 55533 | [55533-alicia-quatermain-secrets-of-the-lost-treasures.json](./55533-alicia-quatermain-secrets-of-the-lost-treasures.json) |
 | Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
 | Alien | 195029 | [195029-alien.json](./195029-alien.json) |
@@ -7100,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
+| Anki | 54737 | [54737-anki.json](./54737-anki.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
@@ -10175,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes | 386932 | [386932-ashes.json](./386932-ashes.json) |
 | Ashes | 391295 | [391295-ashes.json](./391295-ashes.json) |
+| Ashes | 43139 | [43139-ashes.json](./43139-ashes.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
