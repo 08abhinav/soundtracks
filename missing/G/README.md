@@ -6892,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
+| Guardian Heroes | 21838 | [21838-guardian-heroes.json](./21838-guardian-heroes.json) |
 | Guardian Hunter | 58649 | [58649-guardian-hunter.json](./58649-guardian-hunter.json) |
 | Guardian II: Revenge of the Mutants | 152477 | [152477-guardian-ii-revenge-of-the-mutants.json](./152477-guardian-ii-revenge-of-the-mutants.json) |
 | Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
