@@ -3556,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
+| Beast Wars: Transformers | 8018 | [8018-beast-wars-transformers.json](./8018-beast-wars-transformers.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beast: Bio Exo Arena Suit Team | 287551 | [287551-beast-bio-exo-arena-suit-team.json](./287551-beast-bio-exo-arena-suit-team.json) |
