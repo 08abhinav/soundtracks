@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon City | 249354 | [249354-neon-city.json](./249354-neon-city.json) |
 | Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
+| Neon City Riders | 51949 | [51949-neon-city-riders.json](./51949-neon-city-riders.json) |
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
+| NFL Quarterback Club | 49003 | [49003-nfl-quarterback-club.json](./49003-nfl-quarterback-club.json) |
 | NFL Quarterback Club 2000 | 3559 | [3559-nfl-quarterback-club-2000.json](./3559-nfl-quarterback-club-2000.json) |
 | NFL Quarterback Club 96 | 25080 | [25080-nfl-quarterback-club-96.json](./25080-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
