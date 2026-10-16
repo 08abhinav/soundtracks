@@ -12418,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
 | Cruis'n Velocity | 49191 | [49191-cruisn-velocity.json](./49191-cruisn-velocity.json) |
+| Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
