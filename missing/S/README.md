@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
 | Sakuna Chronicles: Kokorowa and the Gears of Creation | 322093 | [322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json](./322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json) |
 | Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
+| Sakuna: Of Rice and Ruin | 36595 | [36595-sakuna-of-rice-and-ruin.json](./36595-sakuna-of-rice-and-ruin.json) |
 | Sakuna: Of Rice and Ruin - Collector's Edition | 139843 | [139843-sakuna-of-rice-and-ruin-collectors-edition.json](./139843-sakuna-of-rice-and-ruin-collectors-edition.json) |
 | Sakuna: Of Rice and Ruin - Digital Deluxe Edition | 169184 | [169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json](./169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json) |
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
@@ -12260,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Forever | 198174 | [198174-sonic-the-hedgehog-forever.json](./198174-sonic-the-hedgehog-forever.json) |
 | Sonic The Hedgehog FTS | 324957 | [324957-sonic-the-hedgehog-fts.json](./324957-sonic-the-hedgehog-fts.json) |
 | Sonic the Hedgehog Game Gear/Master System Remake | 332588 | [332588-sonic-the-hedgehog-game-gear-master-system-remake.json](./332588-sonic-the-hedgehog-game-gear-master-system-remake.json) |
+| Sonic the Hedgehog Genesis | 43321 | [43321-sonic-the-hedgehog-genesis.json](./43321-sonic-the-hedgehog-genesis.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
 | Sonic the Hedgehog Legacy Bundle | 316736 | [316736-sonic-the-hedgehog-legacy-bundle.json](./316736-sonic-the-hedgehog-legacy-bundle.json) |
@@ -18678,6 +18680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones of the Revenant | 131987 | [131987-stones-of-the-revenant.json](./131987-stones-of-the-revenant.json) |
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
+| Stoneshard | 28649 | [28649-stoneshard.json](./28649-stoneshard.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stonetowers | 96868 | [96868-stonetowers.json](./96868-stonetowers.json) |
@@ -20749,6 +20752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
+| Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
 | Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
 | Sundermead | 209426 | [209426-sundermead.json](./209426-sundermead.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
@@ -21036,6 +21040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
 | Super Bomberman 4 | 80539 | [80539-super-bomberman-4.json](./80539-super-bomberman-4.json) |
+| Super Bomberman 5 | 38387 | [38387-super-bomberman-5.json](./38387-super-bomberman-5.json) |
 | Super Bomberman BT | 198216 | [198216-super-bomberman-bt.json](./198216-super-bomberman-bt.json) |
 | Super Bomberman Collection | 388432 | [388432-super-bomberman-collection.json](./388432-super-bomberman-collection.json) |
 | Super Bomberman R | 26760 | [26760-super-bomberman-r.json](./26760-super-bomberman-r.json) |
