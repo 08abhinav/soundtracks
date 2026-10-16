@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
+| Laraan | 32303 | [32303-laraan.json](./32303-laraan.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
@@ -5333,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
 | Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
+| Lord Mayor | 32376 | [32376-lord-mayor.json](./32376-lord-mayor.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
 | Lord Nine: Infinite Class | 358986 | [358986-lord-nine-infinite-class.json](./358986-lord-nine-infinite-class.json) |
