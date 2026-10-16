@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
 | Hard Rock Zombie Truck | 54337 | [54337-hard-rock-zombie-truck.json](./54337-hard-rock-zombie-truck.json) |
 | Hard Rock Zombie Truck Plastiline | 109870 | [109870-hard-rock-zombie-truck-plastiline.json](./109870-hard-rock-zombie-truck-plastiline.json) |
+| Hard Room | 33806 | [33806-hard-room.json](./33806-hard-room.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Tapes | 164054 | [164054-hard-tapes.json](./164054-hard-tapes.json) |
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
