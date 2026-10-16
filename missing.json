@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:38:14.758Z",
-  "total_missing": 220534,
+  "generated_at": "2026-10-16T19:46:00.890Z",
+  "total_missing": 220524,
   "games": [
     {
       "igdb_id": 191680,
@@ -44712,11 +44712,6 @@
       "file": "missing/A/246306-angry-birds-electronic-handheld-game.json"
     },
     {
-      "igdb_id": 19276,
-      "game_name": "Angry Birds Epic",
-      "file": "missing/A/19276-angry-birds-epic.json"
-    },
-    {
       "igdb_id": 398679,
       "game_name": "Angry Birds Explore",
       "file": "missing/A/398679-angry-birds-explore.json"
@@ -86260,11 +86255,6 @@
       "igdb_id": 3796,
       "game_name": "Baten Kaitos Origins",
       "file": "missing/B/3796-baten-kaitos-origins.json"
-    },
-    {
-      "igdb_id": 3795,
-      "game_name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
-      "file": "missing/B/3795-baten-kaitos-eternal-wings-and-the-lost-ocean.json"
     },
     {
       "igdb_id": 331274,
@@ -287887,11 +287877,6 @@
       "file": "missing/E/89-emperor-battle-for-dune.json"
     },
     {
-      "igdb_id": 7512,
-      "game_name": "Emperor: Rise of the Middle Kingdom",
-      "file": "missing/E/7512-emperor-rise-of-the-middle-kingdom.json"
-    },
-    {
       "igdb_id": 209207,
       "game_name": "Emperor's Mahjongg",
       "file": "missing/E/209207-emperors-mahjongg.json"
@@ -363545,11 +363530,6 @@
       "igdb_id": 195549,
       "game_name": "Gears of Phantasm: Destiny Tailored - Act I",
       "file": "missing/G/195549-gears-of-phantasm-destiny-tailored-act-i.json"
-    },
-    {
-      "igdb_id": 318793,
-      "game_name": "Gears of War",
-      "file": "missing/G/318793-gears-of-war.json"
     },
     {
       "igdb_id": 299997,
@@ -608587,11 +608567,6 @@
       "file": "missing/M/348758-my-silly-science-summer-in-the-past.json"
     },
     {
-      "igdb_id": 16305,
-      "game_name": "My Singing Monsters",
-      "file": "missing/M/16305-my-singing-monsters.json"
-    },
-    {
       "igdb_id": 99181,
       "game_name": "My Singing Monsters Composer",
       "file": "missing/M/99181-my-singing-monsters-composer.json"
@@ -814242,11 +814217,6 @@
       "file": "missing/S/64978-simcity-social.json"
     },
     {
-      "igdb_id": 1491,
-      "game_name": "SimCity Societies",
-      "file": "missing/S/1491-simcity-societies.json"
-    },
-    {
       "igdb_id": 20181,
       "game_name": "SimCity Societies: Destinations",
       "file": "missing/S/20181-simcity-societies-destinations.json"
@@ -915942,11 +915912,6 @@
       "file": "missing/T/7660-tekken-revolution.json"
     },
     {
-      "igdb_id": 289037,
-      "game_name": "Tekken Tag Tournament",
-      "file": "missing/T/289037-tekken-tag-tournament.json"
-    },
-    {
       "igdb_id": 1238,
       "game_name": "Tekken Tag Tournament 2",
       "file": "missing/T/1238-tekken-tag-tournament-2.json"
@@ -929585,11 +929550,6 @@
       "igdb_id": 62760,
       "game_name": "The Cosmic Tunnels",
       "file": "missing/T/62760-the-cosmic-tunnels.json"
-    },
-    {
-      "igdb_id": 247578,
-      "game_name": "The Cosmic Wheel Sisterhood",
-      "file": "missing/T/247578-the-cosmic-wheel-sisterhood.json"
     },
     {
       "igdb_id": 261993,
@@ -1064677,11 +1064637,6 @@
       "file": "missing/W/348429-whispering-stacks.json"
     },
     {
-      "igdb_id": 9369,
-      "game_name": "Whispering Willows",
-      "file": "missing/W/9369-whispering-willows.json"
-    },
-    {
       "igdb_id": 53915,
       "game_name": "Whispering Willows: Deluxe Edition",
       "file": "missing/W/53915-whispering-willows-deluxe-edition.json"
@@ -1068380,11 +1068335,6 @@
       "igdb_id": 314431,
       "game_name": "Wilmot Works It Out",
       "file": "missing/W/314431-wilmot-works-it-out.json"
-    },
-    {
-      "igdb_id": 77494,
-      "game_name": "Wilmot's Warehouse",
-      "file": "missing/W/77494-wilmots-warehouse.json"
     },
     {
       "igdb_id": 50533,
