@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctemis | 85314 | [85314-noctemis.json](./85314-noctemis.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
+| Noctropolis | 12327 | [12327-noctropolis.json](./12327-noctropolis.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
