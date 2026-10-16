@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
 | HexoJago | 286772 | [286772-hexojago.json](./286772-hexojago.json) |
+| Hexologic | 86323 | [86323-hexologic.json](./86323-hexologic.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
