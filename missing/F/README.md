@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
 | Farewell Jack | 390251 | [390251-farewell-jack.json](./390251-farewell-jack.json) |
+| Farewell North | 148788 | [148788-farewell-north.json](./148788-farewell-north.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell Planet | 122957 | [122957-farewell-planet.json](./122957-farewell-planet.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory | 68342 | [68342-field-of-glory.json](./68342-field-of-glory.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
+| Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
 | Field of Glory II: Medieval - Rise of the Swiss | 200944 | [200944-field-of-glory-ii-medieval-rise-of-the-swiss.json](./200944-field-of-glory-ii-medieval-rise-of-the-swiss.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
@@ -6761,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
+| Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
