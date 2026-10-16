@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro F22: Pack #1 | 298414 | [298414-barro-f22-pack-1.json](./298414-barro-f22-pack-1.json) |
 | Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
 | Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
+| Barro GT | 249696 | [249696-barro-gt.json](./249696-barro-gt.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro GT: Pack #2 | 322731 | [322731-barro-gt-pack-2.json](./322731-barro-gt-pack-2.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
@@ -4638,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
 | Betomis | 263943 | [263943-betomis.json](./263943-betomis.json) |
+| Beton Brutal | 240683 | [240683-beton-brutal.json](./240683-beton-brutal.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
@@ -6797,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle - Character: Yang | 165998 | [165998-blazblue-cross-tag-battle-character-yang.json](./165998-blazblue-cross-tag-battle-character-yang.json) |
 | BlazBlue: Cross Tag Battle - Deluxe Edition | 118680 | [118680-blazblue-cross-tag-battle-deluxe-edition.json](./118680-blazblue-cross-tag-battle-deluxe-edition.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
+| BlazBlue: Entropy Effect | 261269 | [261269-blazblue-entropy-effect.json](./261269-blazblue-entropy-effect.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
