@@ -5636,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
+| Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
@@ -12331,6 +12332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 273987 | [273987-sonic-the-hedgehog.json](./273987-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 299777 | [299777-sonic-the-hedgehog.json](./299777-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 80436 | [80436-sonic-the-hedgehog.json](./80436-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 112897 | [112897-sonic-the-hedgehog-2.json](./112897-sonic-the-hedgehog-2.json) |
@@ -14963,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
 | Spider-Man 2 | 243027 | [243027-spider-man-2.json](./243027-spider-man-2.json) |
+| Spider-Man 2 | 80446 | [80446-spider-man-2.json](./80446-spider-man-2.json) |
 | Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
@@ -16739,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
 | Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
+| Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
@@ -17935,6 +17939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
+| Stay Alive: Apocalypse | 76582 | [76582-stay-alive-apocalypse.json](./76582-stay-alive-apocalypse.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
 | Stay At Home | 123918 | [123918-stay-at-home.json](./123918-stay-at-home.json) |
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
@@ -19844,6 +19849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
+| Strong Bad's Cool Game for Attractive People Episode 4: Dangeresque 3 - The Criminal Projective | 81242 | [81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json](./81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json) |
 | Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit is Enough | 50173 | [50173-strong-bads-cool-game-for-attractive-people-episode-5-8-bit-is-enough.json](./50173-strong-bads-cool-game-for-attractive-people-episode-5-8-bit-is-enough.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
@@ -20686,6 +20692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
 | Sumerians | 126511 | [126511-sumerians.json](./126511-sumerians.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
+| Sumetrick | 81621 | [81621-sumetrick.json](./81621-sumetrick.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumi Sumi Party: Tap Puzzle | 235158 | [235158-sumi-sumi-party-tap-puzzle.json](./235158-sumi-sumi-party-tap-puzzle.json) |
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
@@ -21852,6 +21859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
+| Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Korotama | 125712 | [125712-super-korotama.json](./125712-super-korotama.json) |
