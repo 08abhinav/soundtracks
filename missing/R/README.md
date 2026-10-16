@@ -4660,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
+| Rez Plz | 124100 | [124100-rez-plz.json](./124100-rez-plz.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
