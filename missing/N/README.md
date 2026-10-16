@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Campaigns Wolfpack | 141666 | [141666-naval-campaigns-wolfpack.json](./141666-naval-campaigns-wolfpack.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
+| Naval Ops: Warship Gunner | 23706 | [23706-naval-ops-warship-gunner.json](./23706-naval-ops-warship-gunner.json) |
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
 | Naval War: Arctic Circle | 2044 | [2044-naval-war-arctic-circle.json](./2044-naval-war-arctic-circle.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
+| NBA Basketball 2000 | 24114 | [24114-nba-basketball-2000.json](./24114-nba-basketball-2000.json) |
 | NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
@@ -962,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
+| NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
@@ -2607,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
 | NFL Fever 2002 | 5961 | [5961-nfl-fever-2002.json](./5961-nfl-fever-2002.json) |
+| NFL Fever 2004 | 24094 | [24094-nfl-fever-2004.json](./24094-nfl-fever-2004.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
 | NFL Football | 198836 | [198836-nfl-football.json](./198836-nfl-football.json) |
@@ -2725,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
 | NHL Blades of Steel | 45125 | [45125-nhl-blades-of-steel.json](./45125-nhl-blades-of-steel.json) |
 | NHL Blades of Steel 2000 | 45124 | [45124-nhl-blades-of-steel-2000.json](./45124-nhl-blades-of-steel-2000.json) |
+| NHL Championship 2000 | 24116 | [24116-nhl-championship-2000.json](./24116-nhl-championship-2000.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
