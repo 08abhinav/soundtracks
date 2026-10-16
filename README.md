@@ -441,6 +441,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273487b0df5c25baa35aae21592" width="60" /> | [F.I.S.T.: Forged In Shadow Torch](https://ostdb.net/games/f-i-s-t-forged-in-shadow-torch) | **F.I.S.T.: Forged in Shadow Torch (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4MhKADAa670WfhrBZ4eXQ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357655dc1adce07a478a76f4b" width="60" /> | [F1 22](https://ostdb.net/games/f1-22) | **F1 22 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273771656be2fd0cc9c38fee74c" width="60" /> | [FTL: Faster Than Light](https://ostdb.net/games/ftl-faster-than-light) | **Ftl: Faster Than Light - Original Soundtrack** · [Spotify](https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273291c0a3a6c9eb4ff73d6ec70" width="60" /> | [Fall Guys](https://ostdb.net/games/fall-guys) | **Fall Guys (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT)<br>**Fall Guys Free For All (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23zSfX6rJ8x3yfOfQI1tIV)<br>**Fall Guys Season 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/03pT3frTAB4jI5xBCGNMuB)<br>**Fall Guys Season 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0AXFLnDN54Wfon2XffLNUb)<br>**Fall Guys Season 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6F1bpnMl66b3lKJoxEXyQ6)<br>**Fall Guys Season 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qRJZzeTmDEppnllFr9Toz)<br>**Fall Guys Season 6 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1uogBDRYJCphAanxRe7EXv) |
@@ -1494,4 +1495,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1811 soundtracks · last updated 2026-10-16T05:51:23.341Z_
+_1812 soundtracks · last updated 2026-10-16T05:51:38.152Z_
