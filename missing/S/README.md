@@ -6877,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
 | Shy Girl's Makeover | 295148 | [295148-shy-girls-makeover.json](./295148-shy-girls-makeover.json) |
 | Shy Guy Surfing | 310662 | [310662-shy-guy-surfing.json](./310662-shy-guy-surfing.json) |
+| ShyChess | 106495 | [106495-shychess.json](./106495-shychess.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
@@ -23692,6 +23693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
+| Surgeon Simulator CPR | 106111 | [106111-surgeon-simulator-cpr.json](./106111-surgeon-simulator-cpr.json) |
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
 | Surgeon Simulator: Experience Reality | 26299 | [26299-surgeon-simulator-experience-reality.json](./26299-surgeon-simulator-experience-reality.json) |
 | SurgePoint | 410310 | [410310-surgepoint.json](./410310-surgepoint.json) |
