@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
+| Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
+| Picross e7 | 80731 | [80731-picross-e7.json](./80731-picross-e7.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Fairytale: Legend of the Mermaid | 105715 | [105715-picross-fairytale-legend-of-the-mermaid.json](./105715-picross-fairytale-legend-of-the-mermaid.json) |
@@ -8817,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
+| PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
@@ -11607,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Masquerade Deadly Wonderland | 366132 | [366132-psi-masquerade-deadly-wonderland.json](./366132-psi-masquerade-deadly-wonderland.json) |
+| Psi Project | 81171 | [81171-psi-project.json](./81171-psi-project.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psi-Ops: The Mindgate Conspiracy | 5992 | [5992-psi-ops-the-mindgate-conspiracy.json](./5992-psi-ops-the-mindgate-conspiracy.json) |
@@ -12843,6 +12847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
+| Puzzlement | 81935 | [81935-puzzlement.json](./81935-puzzlement.json) |
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
