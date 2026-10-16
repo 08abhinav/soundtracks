@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Chronicles: Warlords of the Wasteland | 7845 | [7845-heroes-chronicles-warlords-of-the-wasteland.json](./7845-heroes-chronicles-warlords-of-the-wasteland.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes de Peronia | 272761 | [272761-heroes-de-peronia.json](./272761-heroes-de-peronia.json) |
+| Heroes Evolved | 28819 | [28819-heroes-evolved.json](./28819-heroes-evolved.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
