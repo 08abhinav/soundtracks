@@ -189,7 +189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
-| Rabi-Ribi | 28545 | [28545-rabi-ribi.json](./28545-rabi-ribi.json) |
 | Rabi-Ribi: Cicini's Halloween! | 171360 | [171360-rabi-ribi-cicinis-halloween.json](./171360-rabi-ribi-cicinis-halloween.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabi-Ribi: Platinum Edition DLC Pack | 324392 | [324392-rabi-ribi-platinum-edition-dlc-pack.json](./324392-rabi-ribi-platinum-edition-dlc-pack.json) |
@@ -1049,7 +1048,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Born to be King | 174709 | [174709-rakshasa-street-born-to-be-king.json](./174709-rakshasa-street-born-to-be-king.json) |
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
-| Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rakuen Hakai | 280742 | [280742-rakuen-hakai.json](./280742-rakuen-hakai.json) |
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
