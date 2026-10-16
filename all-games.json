@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:08:05.394Z",
-  "total_soundtracks": 1859,
+  "generated_at": "2026-10-16T06:08:19.639Z",
+  "total_soundtracks": 1860,
   "games": [
     {
       "igdb_id": 7522,
@@ -20871,6 +20871,20 @@
         {
           "album_name": "Victoria 3 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5v6wiVV635TiJJYhwtZBp5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 69547,
+      "game_name": "Vintage Story",
+      "game_url": "https://ostdb.net/games/vintage-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c516872ee6aaa82d5fb5c1b6",
+      "albums": [
+        {
+          "album_name": "Vintage Story (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/22ZrsjdeHrS2VFrK7CEIMB",
           "apple_music_url": "",
           "album_link_url": ""
         }
