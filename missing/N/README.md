@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 09 | 248778 | [248778-nba-live-09.json](./248778-nba-live-09.json) |
 | NBA Live 09 | 5063 | [5063-nba-live-09.json](./5063-nba-live-09.json) |
 | NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
+| NBA Live 10 | 7107 | [7107-nba-live-10.json](./7107-nba-live-10.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 2K6 | 5965 | [5965-nhl-2k6.json](./5965-nhl-2k6.json) |
+| NHL 2K8 | 7119 | [7119-nhl-2k8.json](./7119-nhl-2k8.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
 | NHL 94 Rewind | 146213 | [146213-nhl-94-rewind.json](./146213-nhl-94-rewind.json) |
 | NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
@@ -4062,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes 2: Desperate Struggle | 2273 | [2273-no-more-heroes-2-desperate-struggle.json](./2273-no-more-heroes-2-desperate-struggle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
+| No More Heroes: Heroes' Paradise | 7124 | [7124-no-more-heroes-heroes-paradise.json](./7124-no-more-heroes-heroes-paradise.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Home | 157921 | [157921-no-more-home.json](./157921-no-more-home.json) |
