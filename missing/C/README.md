@@ -3138,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
 | Catx11 | 400482 | [400482-catx11.json](./400482-catx11.json) |
+| Catyph: The Kunci Experiment | 34616 | [34616-catyph-the-kunci-experiment.json](./34616-catyph-the-kunci-experiment.json) |
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
@@ -3798,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion of the Gods | 34854 | [34854-champion-of-the-gods.json](./34854-champion-of-the-gods.json) |
 | Champion of the Raj | 11998 | [11998-champion-of-the-raj.json](./11998-champion-of-the-raj.json) |
 | Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
@@ -6022,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit Breakers | 135771 | [135771-circuit-breakers.json](./135771-circuit-breakers.json) |
+| Circuit Breakers | 34753 | [34753-circuit-breakers.json](./34753-circuit-breakers.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
@@ -12195,6 +12198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
+| Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
