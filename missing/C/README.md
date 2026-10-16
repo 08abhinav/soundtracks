@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Modern Warfare - Variety Map Pack | 292781 | [292781-call-of-duty-4-modern-warfare-variety-map-pack.json](./292781-call-of-duty-4-modern-warfare-variety-map-pack.json) |
 | Call of Duty 4: Promod | 250316 | [250316-call-of-duty-4-promod.json](./250316-call-of-duty-4-promod.json) |
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
+| Call of Duty Classic | 43029 | [43029-call-of-duty-classic.json](./43029-call-of-duty-classic.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
@@ -9772,6 +9773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
+| Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Bricks | 50032 | [50032-cool-bricks.json](./50032-cool-bricks.json) |
@@ -13652,6 +13654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
+| Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
 | Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
 | Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
