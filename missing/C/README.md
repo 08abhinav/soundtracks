@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
 | Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
 | Camper Van Simulator 2 | 226782 | [226782-camper-van-simulator-2.json](./226782-camper-van-simulator-2.json) |
+| Camper Van: Make it Home | 246909 | [246909-camper-van-make-it-home.json](./246909-camper-van-make-it-home.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
 | Campfire | 183407 | [183407-campfire.json](./183407-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
@@ -7102,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer Than You Think | 108361 | [108361-closer-than-you-think.json](./108361-closer-than-you-think.json) |
+| Closer the Distance | 242102 | [242102-closer-the-distance.json](./242102-closer-the-distance.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | Closer to Me | 121525 | [121525-closer-to-me.json](./121525-closer-to-me.json) |
 | Closer: Anagnorisis | 171992 | [171992-closer-anagnorisis.json](./171992-closer-anagnorisis.json) |
@@ -11659,6 +11661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Tale 2 | 154262 | [154262-creepy-tale-2.json](./154262-creepy-tale-2.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
+| Creepy Tale: Some Other Place | 257910 | [257910-creepy-tale-some-other-place.json](./257910-creepy-tale-some-other-place.json) |
 | Creepy Tales | 305978 | [305978-creepy-tales.json](./305978-creepy-tales.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
