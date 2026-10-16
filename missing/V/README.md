@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
+| Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
 | ValiDate: Struggling Singles in your Area | 139144 | [139144-validate-struggling-singles-in-your-area.json](./139144-validate-struggling-singles-in-your-area.json) |
 | Validus Mortis | 262245 | [262245-validus-mortis.json](./262245-validus-mortis.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
 | Void Dash | 314003 | [314003-void-dash.json](./314003-void-dash.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
+| Void Destroyer 2 | 35267 | [35267-void-destroyer-2.json](./35267-void-destroyer-2.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Disciple | 413885 | [413885-void-disciple.json](./413885-void-disciple.json) |
