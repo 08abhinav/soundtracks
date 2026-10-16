@@ -4364,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
+| Live A Live | 191407 | [191407-live-a-live.json](./191407-live-a-live.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Lore: The Hunt | 144066 | [144066-lore-the-hunt.json](./144066-lore-the-hunt.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
+| Lorelai | 110875 | [110875-lorelai.json](./110875-lorelai.json) |
 | Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
 | Loren the Amazon Princess | 16480 | [16480-loren-the-amazon-princess.json](./16480-loren-the-amazon-princess.json) |
@@ -6994,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lylia's Deadline: Clearance | 316352 | [316352-lylias-deadline-clearance.json](./316352-lylias-deadline-clearance.json) |
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
+| Lyne | 5577 | [5577-lyne.json](./5577-lyne.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
