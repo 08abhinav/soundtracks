@@ -1593,7 +1593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Breakout | 225594 | [225594-neo-breakout.json](./225594-neo-breakout.json) |
-| Neo Cab | 103319 | [103319-neo-cab.json](./103319-neo-cab.json) |
 | Neo Capitalist: Stock Market Survival Simulator | 407478 | [407478-neo-capitalist-stock-market-survival-simulator.json](./407478-neo-capitalist-stock-market-survival-simulator.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
@@ -4124,7 +4123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 820 | [820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json](./820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
-| No One Lives Under the Lighthouse | 131660 | [131660-no-one-lives-under-the-lighthouse.json](./131660-no-one-lives-under-the-lighthouse.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
