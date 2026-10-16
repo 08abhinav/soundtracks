@@ -6233,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
+| Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
