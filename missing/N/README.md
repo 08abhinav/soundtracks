@@ -5025,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | Novas Las Aventurietas del Robercleiton o Renascimento do Turbo | 89425 | [89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json](./89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
+| Novastorm | 4329 | [4329-novastorm.json](./4329-novastorm.json) |
 | Novastride | 244688 | [244688-novastride.json](./244688-novastride.json) |
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
