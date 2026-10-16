@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
+| Barrier X | 32964 | [32964-barrier-x.json](./32964-barrier-x.json) |
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
@@ -11059,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
 | Brutal: Above the Claw | 45879 | [45879-brutal-above-the-claw.json](./45879-brutal-above-the-claw.json) |
+| Brutal: Paws of Fury | 4449 | [4449-brutal-paws-of-fury.json](./4449-brutal-paws-of-fury.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
