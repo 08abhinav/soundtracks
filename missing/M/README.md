@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
+| M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M(ae)rry-go-round | 255565 | [255565-m-ae-rry-go-round.json](./255565-m-ae-rry-go-round.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
+| Matchpoint: Tennis Championships | 188540 | [188540-matchpoint-tennis-championships.json](./188540-matchpoint-tennis-championships.json) |
 | Matchpoint: Tennis Championships - Legends DLC | 227316 | [227316-matchpoint-tennis-championships-legends-dlc.json](./227316-matchpoint-tennis-championships-legends-dlc.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
@@ -4486,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
 | McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
 | McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
+| McPixel 3 | 191576 | [191576-mcpixel-3.json](./191576-mcpixel-3.json) |
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
@@ -5892,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
 | Meltwater | 130717 | [130717-meltwater.json](./130717-meltwater.json) |
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
+| Melty Blood Actress Again | 22984 | [22984-melty-blood-actress-again.json](./22984-melty-blood-actress-again.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
@@ -5974,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
 | Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
+| Memoranda | 26399 | [26399-memoranda.json](./26399-memoranda.json) |
 | Memorania | 68550 | [68550-memorania.json](./68550-memorania.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
@@ -7126,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma | 257289 | [257289-miasma.json](./257289-miasma.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
+| Miasma Chronicles | 201795 | [201795-miasma-chronicles.json](./201795-miasma-chronicles.json) |
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
@@ -7868,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
+| Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
 | Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
 | Mighty Switch Force! Hose It Down! | 35124 | [35124-mighty-switch-force-hose-it-down.json](./35124-mighty-switch-force-hose-it-down.json) |
