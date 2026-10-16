@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
+| Alien: Rogue Incursion Evolved Edition | 342923 | [342923-alien-rogue-incursion-evolved-edition.json](./342923-alien-rogue-incursion-evolved-edition.json) |
 | Alien's Egg | 237427 | [237427-aliens-egg.json](./237427-aliens-egg.json) |
 | Alien's Return | 11237 | [11237-aliens-return.json](./11237-aliens-return.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: Illumination | 7716 | [7716-alone-in-the-dark-illumination.json](./7716-alone-in-the-dark-illumination.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 1960 | [1960-alone-in-the-dark-the-new-nightmare.json](./1960-alone-in-the-dark-the-new-nightmare.json) |
+| Alone in the Dark: The New Nightmare | 201090 | [201090-alone-in-the-dark-the-new-nightmare.json](./201090-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 320336 | [320336-alone-in-the-dark-the-new-nightmare.json](./320336-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The Trilogy 1+2+3 | 148420 | [148420-alone-in-the-dark-the-trilogy-1-2-3.json](./148420-alone-in-the-dark-the-trilogy-1-2-3.json) |
@@ -6374,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
 | Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
 | Angel Killer | 301493 | [301493-angel-killer.json](./301493-angel-killer.json) |
+| Angel Legion | 140325 | [140325-angel-legion.json](./140325-angel-legion.json) |
 | Angel Legion: Bay Goddess - Purple II | 302572 | [302572-angel-legion-bay-goddess-purple-ii.json](./302572-angel-legion-bay-goddess-purple-ii.json) |
 | Angel Legion: Chain Trace - Black | 316376 | [316376-angel-legion-chain-trace-black.json](./316376-angel-legion-chain-trace-black.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
