@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
+| Elea | 17469 | [17469-elea.json](./17469-elea.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
 | Eleanor in Miami | 369772 | [369772-eleanor-in-miami.json](./369772-eleanor-in-miami.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
@@ -4320,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
 | Eureka Seven AO: Jungfrau no Hanabanatachi | 44590 | [44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json](./44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json) |
+| Eureka Seven Vol. 2: The New Vision | 21439 | [21439-eureka-seven-vol-2-the-new-vision.json](./21439-eureka-seven-vol-2-the-new-vision.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
 | Eureka! | 25914 | [25914-eureka.json](./25914-eureka.json) |
@@ -5183,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
+| Exit DS | 21471 | [21471-exit-ds.json](./21471-exit-ds.json) |
 | Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
 | Exit From: Director's Cut | 252014 | [252014-exit-from-directors-cut.json](./252014-exit-from-directors-cut.json) |
