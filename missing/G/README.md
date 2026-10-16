@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
 | Galactic Civilizations | 10344 | [10344-galactic-civilizations.json](./10344-galactic-civilizations.json) |
+| Galactic Civilizations I: Ultimate Edition | 29769 | [29769-galactic-civilizations-i-ultimate-edition.json](./29769-galactic-civilizations-i-ultimate-edition.json) |
 | Galactic Civilizations II: Endless Universe | 21353 | [21353-galactic-civilizations-ii-endless-universe.json](./21353-galactic-civilizations-ii-endless-universe.json) |
 | Galactic Civilizations II: Twilight of the Arnor | 723 | [723-galactic-civilizations-ii-twilight-of-the-arnor.json](./723-galactic-civilizations-ii-twilight-of-the-arnor.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
