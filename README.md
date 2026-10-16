@@ -329,6 +329,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273cea30f405474464db6818273" width="60" /> | [Destiny](https://ostdb.net/games/destiny) | **Destiny (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ZJrV5uHaqQbQNdMIPhSct) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac29925600db8fa6ffe1997" width="60" /> | [Destiny 2](https://ostdb.net/games/destiny-2) | **Destiny 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4OW58CdmJ2c0E6fqO9ktmE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a669174d93906882910c67cf" width="60" /> | [Destiny 2: Beyond Light](https://ostdb.net/games/destiny-2-beyond-light) | **Destiny 2: Beyond Light (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2mXaNgF3DyeenLz96ZFlRr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355e74b60f46e8239a1ccbc33" width="60" /> | [Destroy All Humans! 2](https://ostdb.net/games/destroy-all-humans-2) | **Destroy All Humans! 2 (Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/63cSlkmzveKAeZOTaF7dLV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bc7c8faf417b7b230a3e98d" width="60" /> | [Detroit: Become Human](https://ostdb.net/games/detroit-become-human) | **Detroit: Become Human (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3mlnG0QIGKsAp50vTBKSur) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd5785665d6eed9e3203f525" width="60" /> | [Deus Ex: Human Revolution](https://ostdb.net/games/deus-ex-human-revolution) | **Deus Ex: Human Revolution (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3t0h9Jw2lbQFCrBuDUMARd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a3d2cdfcbaabab967f3468c" width="60" /> | [Deus Ex: Mankind Divided](https://ostdb.net/games/deus-ex-mankind-divided) | **Deus Ex: Mankind Divided (Original Soundtrack - Extended Edition)** · [Spotify](https://open.spotify.com/album/6E3Bji2Z4yNO4LZQbJdoHI) |
@@ -1414,4 +1415,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1731 soundtracks · last updated 2026-10-16T05:10:57.121Z_
+_1732 soundtracks · last updated 2026-10-16T05:11:12.197Z_
