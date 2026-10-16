@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Vienna | 139784 | [139784-dark-city-vienna.json](./139784-dark-city-vienna.json) |
 | Dark City: Vienna - Collector's Edition | 123913 | [123913-dark-city-vienna-collectors-edition.json](./123913-dark-city-vienna-collectors-edition.json) |
 | Dark Cloud | 1214 | [1214-dark-cloud.json](./1214-dark-cloud.json) |
+| Dark Coffee | 418604 | [418604-dark-coffee.json](./418604-dark-coffee.json) |
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
@@ -3384,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
+| Deck Beasts | 418622 | [418622-deck-beasts.json](./418622-deck-beasts.json) |
 | Deck Casters | 81111 | [81111-deck-casters.json](./81111-deck-casters.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
@@ -7554,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
+| Diving Through Hell | 418556 | [418556-diving-through-hell.json](./418556-diving-through-hell.json) |
 | Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
