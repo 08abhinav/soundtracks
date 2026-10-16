@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Saga Remastered | 383568 | [383568-legion-saga-remastered.json](./383568-legion-saga-remastered.json) |
+| Legion TD 2 | 32680 | [32680-legion-td-2.json](./32680-legion-td-2.json) |
 | Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
@@ -4309,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
+| Little Witch Academia: Chamber of Time | 36506 | [36506-little-witch-academia-chamber-of-time.json](./36506-little-witch-academia-chamber-of-time.json) |
 | Little Witch Academia: VR Broom Racing | 139341 | [139341-little-witch-academia-vr-broom-racing.json](./139341-little-witch-academia-vr-broom-racing.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
@@ -5324,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
 | Lords and Peasents | 220783 | [220783-lords-and-peasents.json](./220783-lords-and-peasents.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
+| Lords Mobile | 29009 | [29009-lords-mobile.json](./29009-lords-mobile.json) |
 | Lords Mobile | 298167 | [298167-lords-mobile.json](./298167-lords-mobile.json) |
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
@@ -6646,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
 | Lumines | 4689 | [4689-lumines.json](./4689-lumines.json) |
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
+| Lumines II | 4690 | [4690-lumines-ii.json](./4690-lumines-ii.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
