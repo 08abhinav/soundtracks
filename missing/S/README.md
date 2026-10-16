@@ -14122,6 +14122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
 | Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
+| Spaceport Hope | 34639 | [34639-spaceport-hope.json](./34639-spaceport-hope.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
 | Spacepowers | 86396 | [86396-spacepowers.json](./86396-spacepowers.json) |
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
@@ -16083,6 +16084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
+| Square Brawl | 34644 | [34644-square-brawl.json](./34644-square-brawl.json) |
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
@@ -19111,6 +19113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
+| Stranded In Time | 34884 | [34884-stranded-in-time.json](./34884-stranded-in-time.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
