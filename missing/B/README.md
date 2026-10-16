@@ -3172,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
+| Battletoads | 136619 | [136619-battletoads.json](./136619-battletoads.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
@@ -6394,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
 | Blackjack | 348302 | [348302-blackjack.json](./348302-blackjack.json) |
+| Blackjack | 41530 | [41530-blackjack.json](./41530-blackjack.json) |
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
@@ -6812,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
+| BlaZeon: The Bio-Cyborg Challenge | 42625 | [42625-blazeon-the-bio-cyborg-challenge.json](./42625-blazeon-the-bio-cyborg-challenge.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
 | Blazer Drive | 70575 | [70575-blazer-drive.json](./70575-blazer-drive.json) |
@@ -11664,6 +11667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
+| Bulanci | 135291 | [135291-bulanci.json](./135291-bulanci.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy | 14393 | [14393-bulb-boy.json](./14393-bulb-boy.json) |
