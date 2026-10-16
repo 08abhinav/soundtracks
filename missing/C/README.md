@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions of Zulula | 71604 | [71604-champions-of-zulula.json](./71604-champions-of-zulula.json) |
 | Champions of Zulula: Elite Edition | 63382 | [63382-champions-of-zulula-elite-edition.json](./63382-champions-of-zulula-elite-edition.json) |
+| Champions Online | 8583 | [8583-champions-online.json](./8583-champions-online.json) |
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
