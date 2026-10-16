@@ -1900,7 +1900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
-| Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
 | Haunting Hijinx | 340420 | [340420-haunting-hijinx.json](./340420-haunting-hijinx.json) |
 | Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
 | Haunting Invitation | 388977 | [388977-haunting-invitation.json](./388977-haunting-invitation.json) |
@@ -5663,7 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman Trilogy | 187552 | [187552-hitman-trilogy.json](./187552-hitman-trilogy.json) |
-| Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
+| Hitman Trilogy | 20084 | [20084-hitman-trilogy.json](./20084-hitman-trilogy.json) |
 | Hitman World of Assassination Celebrity Bundle | 331525 | [331525-hitman-world-of-assassination-celebrity-bundle.json](./331525-hitman-world-of-assassination-celebrity-bundle.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
@@ -6258,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
+| Home Run | 18414 | [18414-home-run.json](./18414-home-run.json) |
 | Home Run Derby | 73330 | [73330-home-run-derby.json](./73330-home-run-derby.json) |
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run Derby: vs Fairy Tales | 255582 | [255582-home-run-derby-vs-fairy-tales.json](./255582-home-run-derby-vs-fairy-tales.json) |
@@ -7799,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | HTC | 221914 | [221914-htc.json](./221914-htc.json) |
 | HTD | 150960 | [150960-htd.json](./150960-htd.json) |
+| htoL#NiQ: The Firefly Diary | 20055 | [20055-htol-niq-the-firefly-diary.json](./20055-htol-niq-the-firefly-diary.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTown Fight | 97530 | [97530-htown-fight.json](./97530-htown-fight.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
