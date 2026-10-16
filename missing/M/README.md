@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
 | Math Muncher | 330211 | [330211-math-muncher.json](./330211-math-muncher.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
+| Math Ninja HD | 87208 | [87208-math-ninja-hd.json](./87208-math-ninja-hd.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Party Fezgugel | 360699 | [360699-math-party-fezgugel.json](./360699-math-party-fezgugel.json) |
@@ -12597,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Studio Tycoon | 59794 | [59794-movie-studio-tycoon.json](./59794-movie-studio-tycoon.json) |
 | Movie Theater Simulator | 377798 | [377798-movie-theater-simulator.json](./377798-movie-theater-simulator.json) |
 | Movie to Movie | 229563 | [229563-movie-to-movie.json](./229563-movie-to-movie.json) |
+| Movie Trivia | 87079 | [87079-movie-trivia.json](./87079-movie-trivia.json) |
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Moviehouse | 206428 | [206428-moviehouse.json](./206428-moviehouse.json) |
@@ -13674,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Sinsonasty Mangles | 226695 | [226695-mutant-football-league-sinsonasty-mangles.json](./226695-mutant-football-league-sinsonasty-mangles.json) |
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
+| Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Hunter | 338909 | [338909-mutant-hunter.json](./338909-mutant-hunter.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
@@ -14046,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
+| My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
