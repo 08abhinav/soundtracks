@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:06:57.727Z",
-  "total_soundtracks": 1724,
+  "generated_at": "2026-10-16T05:07:11.309Z",
+  "total_soundtracks": 1725,
   "games": [
     {
       "igdb_id": 7522,
@@ -12735,6 +12735,20 @@
           "spotify_url": "https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1745068247"
+        }
+      ]
+    },
+    {
+      "igdb_id": 140857,
+      "game_name": "Perfect Vermin",
+      "game_url": "https://ostdb.net/games/perfect-vermin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273709c63c1186fc04de7753174",
+      "albums": [
+        {
+          "album_name": "Perfect Vermin (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2UWUCGl7F3aSve4eHlrPoY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
