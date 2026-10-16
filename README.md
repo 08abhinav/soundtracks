@@ -879,6 +879,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273438f6aad6615bd034763f1f2" width="60" /> | [Peglin](https://ostdb.net/games/peglin) | **Peglin (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2fIkozOGIY6mW6aoqUPn2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a274e4c6db1a125c0b61f6c" width="60" /> | [Pentiment](https://ostdb.net/games/pentiment) | **Pentiment (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7mncDR5zDsBOWZ2VkGPRaF) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/23/10/e5231053-bbe8-80cf-6307-d4425e54a973/5053760117070.png/600x600bb.jpg" width="60" /> | [Pepper Grinder](https://ostdb.net/games/pepper-grinder) | **Pepper Grinder (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4) · [Album](https://album.link/i/1745068247) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273709c63c1186fc04de7753174" width="60" /> | [Perfect Vermin](https://ostdb.net/games/perfect-vermin) | **Perfect Vermin (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2UWUCGl7F3aSve4eHlrPoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4](https://ostdb.net/games/persona-4) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Golden](https://ostdb.net/games/persona-4-golden) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys)<br>**ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Revival](https://ostdb.net/games/persona-4-revival) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
@@ -1407,4 +1408,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1724 soundtracks · last updated 2026-10-16T05:06:57.727Z_
+_1725 soundtracks · last updated 2026-10-16T05:07:11.309Z_
