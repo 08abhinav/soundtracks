@@ -11379,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
 | Bubble Memories: The Story of Bubble Bobble III | 64310 | [64310-bubble-memories-the-story-of-bubble-bobble-iii.json](./64310-bubble-memories-the-story-of-bubble-bobble-iii.json) |
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
+| Bubble Mix | 87083 | [87083-bubble-mix.json](./87083-bubble-mix.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
