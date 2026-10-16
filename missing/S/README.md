@@ -5487,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf Life | 373146 | [373146-shelf-life.json](./373146-shelf-life.json) |
 | Shelf Work VR | 418316 | [418316-shelf-work-vr.json](./418316-shelf-work-vr.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
+| Shelfbound | 419358 | [419358-shelfbound.json](./419358-shelfbound.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
@@ -5649,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibogami | 412894 | [412894-shibogami.json](./412894-shibogami.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shibuya | 66414 | [66414-shibuya.json](./66414-shibuya.json) |
+| Shibuya 88 StarBurner | 419370 | [419370-shibuya-88-starburner.json](./419370-shibuya-88-starburner.json) |
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
 | Shibuya Marble Texture | 184310 | [184310-shibuya-marble-texture.json](./184310-shibuya-marble-texture.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
@@ -7736,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Characters 2000 Series Vol. 14: Nante Tantei Idol - The Jigsaw Puzzle | 203145 | [203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json](./203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json) |
 | Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle | 203146 | [203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json](./203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json) |
 | Simple Characters 2000 Series Vol.8: Kagaru Ninja Tai Gatchaman - The Shooting | 43757 | [43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json](./43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json) |
+| Simple Chat Games | 419337 | [419337-simple-chat-games.json](./419337-simple-chat-games.json) |
 | Simple Chess | 115124 | [115124-simple-chess.json](./115124-simple-chess.json) |
 | Simple Complex Puzzle | 186179 | [186179-simple-complex-puzzle.json](./186179-simple-complex-puzzle.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
@@ -10471,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Beings | 301061 | [301061-sneaky-beings.json](./301061-sneaky-beings.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
+| Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
