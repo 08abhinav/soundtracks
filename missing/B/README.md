@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Balrog Sampler | 24903 | [24903-balrog-sampler.json](./24903-balrog-sampler.json) |
+| Balrum | 18135 | [18135-balrum.json](./18135-balrum.json) |
 | Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
@@ -7305,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
+| Block'hood | 18339 | [18339-blockhood.json](./18339-blockhood.json) |
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
