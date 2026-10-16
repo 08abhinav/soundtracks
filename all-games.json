@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:51:38.152Z",
-  "total_soundtracks": 1812,
+  "generated_at": "2026-10-16T05:51:49.967Z",
+  "total_soundtracks": 1813,
   "games": [
     {
       "igdb_id": 7522,
@@ -10523,6 +10523,20 @@
         {
           "album_name": "LISA: THE FIRST (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3qvhtavEBC5l3Yh6utgdiQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22711,
+      "game_name": "Lisa: The Joyful",
+      "game_url": "https://ostdb.net/games/lisa-the-joyful",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308f4abc301247c9fba31f85e",
+      "albums": [
+        {
+          "album_name": "LISA: THE JOYFUL (Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/72vOscySSWCScxOzJK6kvJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
