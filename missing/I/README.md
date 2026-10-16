@@ -3157,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Inside Out Thought Bubbles | 60085 | [60085-inside-out-thought-bubbles.json](./60085-inside-out-thought-bubbles.json) |
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
+| Inside Pitch 2003 | 23697 | [23697-inside-pitch-2003.json](./23697-inside-pitch-2003.json) |
 | Inside SCP-167 | 285712 | [285712-inside-scp-167.json](./285712-inside-scp-167.json) |
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insights: Maniac Vortex | 170974 | [170974-insights-maniac-vortex.json](./170974-insights-maniac-vortex.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
+| Insincere | 32725 | [32725-insincere.json](./32725-insincere.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
