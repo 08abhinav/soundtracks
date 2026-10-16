@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Ever After | 30617 | [30617-unhappy-ever-after.json](./30617-unhappy-ever-after.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
+| Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
 | Unheil | 305429 | [305429-unheil.json](./305429-unheil.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
+| UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
