@@ -14683,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Friends | 323835 | [323835-mysims-friends.json](./323835-mysims-friends.json) |
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
+| MySims Kingdom | 5036 | [5036-mysims-kingdom.json](./5036-mysims-kingdom.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
@@ -14775,13 +14776,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
 | Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
+| Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
+| Mystery Case Files: Ravenhearst | 5511 | [5511-mystery-case-files-ravenhearst.json](./5511-mystery-case-files-ravenhearst.json) |
 | Mystery Case Files: Ravenhearst Unlocked | 84144 | [84144-mystery-case-files-ravenhearst-unlocked.json](./84144-mystery-case-files-ravenhearst-unlocked.json) |
 | Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 22082 | [22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
+| Mystery Case Files: Return to Ravenhearst | 5513 | [5513-mystery-case-files-return-to-ravenhearst.json](./5513-mystery-case-files-return-to-ravenhearst.json) |
 | Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
