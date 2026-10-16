@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
+| Echo of Soul | 23651 | [23651-echo-of-soul.json](./23651-echo-of-soul.json) |
 | Echo of the DarkZone | 374949 | [374949-echo-of-the-darkzone.json](./374949-echo-of-the-darkzone.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
 | Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Forest Machinery | 378923 | [378923-euro-truck-simulator-2-forest-machinery.json](./378923-euro-truck-simulator-2-forest-machinery.json) |
+| Euro Truck Simulator 2: Going East | 26252 | [26252-euro-truck-simulator-2-going-east.json](./26252-euro-truck-simulator-2-going-east.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro Truck Simulator 2: Heavy Cargo | 136172 | [136172-euro-truck-simulator-2-heavy-cargo.json](./136172-euro-truck-simulator-2-heavy-cargo.json) |
 | Euro Truck Simulator 2: Iberia | 145585 | [145585-euro-truck-simulator-2-iberia.json](./145585-euro-truck-simulator-2-iberia.json) |
