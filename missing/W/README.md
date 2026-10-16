@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Echoes of the Sentient | 198336 | [198336-warframe-echoes-of-the-sentient.json](./198336-warframe-echoes-of-the-sentient.json) |
 | Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
+| Warframe: Heart of Deimos | 137295 | [137295-warframe-heart-of-deimos.json](./137295-warframe-heart-of-deimos.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
 | Warframe: Oraxia Bundle | 373871 | [373871-warframe-oraxia-bundle.json](./373871-warframe-oraxia-bundle.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
 | Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
+| Webkinz Classic | 137951 | [137951-webkinz-classic.json](./137951-webkinz-classic.json) |
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
@@ -2958,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
+| Where the Heart Leads | 135615 | [135615-where-the-heart-leads.json](./135615-where-the-heart-leads.json) |
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
@@ -3924,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
+| Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
@@ -4848,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The Freedom Chronicles - Episode 3 | 154938 | [154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json](./154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json) |
 | Wolfenstein II: The Freedom Chronicles - Episode Zero | 75843 | [75843-wolfenstein-ii-the-freedom-chronicles-episode-zero.json](./75843-wolfenstein-ii-the-freedom-chronicles-episode-zero.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
+| Wolfenstein II: The New Colossus - The Adventures of Gunslinger Joe | 75844 | [75844-wolfenstein-ii-the-new-colossus-the-adventures-of-gunslinger-joe.json](./75844-wolfenstein-ii-the-new-colossus-the-adventures-of-gunslinger-joe.json) |
 | Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
 | Wolfenstein II: The New Colossus Digital Deluxe Edition | 52133 | [52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json](./52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json) |
@@ -5390,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
+| Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
