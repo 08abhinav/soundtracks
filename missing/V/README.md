@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcano | 13768 | [13768-volcano.json](./13768-volcano.json) |
 | Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
+| Volcano Princess | 164994 | [164994-volcano-princess.json](./164994-volcano-princess.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
 | Volcano! Mount Saint Helens | 209438 | [209438-volcano-mount-saint-helens.json](./209438-volcano-mount-saint-helens.json) |
 | Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
