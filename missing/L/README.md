@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
+| Last Anime Boy 2: Hentai Zombie Hell | 106194 | [106194-last-anime-boy-2-hentai-zombie-hell.json](./106194-last-anime-boy-2-hentai-zombie-hell.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
 | Last Threshold | 192634 | [192634-last-threshold.json](./192634-last-threshold.json) |
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
+| Last Tide | 106114 | [106114-last-tide.json](./106114-last-tide.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
@@ -2881,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan | 36865 | [36865-leviathan.json](./36865-leviathan.json) |
+| Leviathan ~A Survival RPG~ | 106649 | [106649-leviathan-a-survival-rpg.json](./106649-leviathan-a-survival-rpg.json) |
 | Leviathan Dawn | 185018 | [185018-leviathan-dawn.json](./185018-leviathan-dawn.json) |
 | Leviathan Starblade | 30695 | [30695-leviathan-starblade.json](./30695-leviathan-starblade.json) |
 | Leviathan: Rhino | 413486 | [413486-leviathan-rhino.json](./413486-leviathan-rhino.json) |
