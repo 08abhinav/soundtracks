@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
+| Age of Chivalry | 18910 | [18910-age-of-chivalry.json](./18910-age-of-chivalry.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
@@ -4027,7 +4028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alastrius | 383582 | [383582-alastrius.json](./383582-alastrius.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alawar Hidden Realms Bundle | 99790 | [99790-alawar-hidden-realms-bundle.json](./99790-alawar-hidden-realms-bundle.json) |
-| Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert.Data: Slowly Fading into Data | 207791 | [207791-albert-data-slowly-fading-into-data.json](./207791-albert-data-slowly-fading-into-data.json) |
 | Albert's Ark Idle | 312680 | [312680-alberts-ark-idle.json](./312680-alberts-ark-idle.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
+| Albino Lullaby: Episode 1 | 19019 | [19019-albino-lullaby-episode-1.json](./19019-albino-lullaby-episode-1.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alboite | 288678 | [288678-alboite.json](./288678-alboite.json) |
@@ -7027,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
 | Anna Girl | 284270 | [284270-anna-girl.json](./284270-anna-girl.json) |
+| Anna Kournikova's Smash Court Tennis | 18666 | [18666-anna-kournikovas-smash-court-tennis.json](./18666-anna-kournikovas-smash-court-tennis.json) |
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
@@ -9450,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Combat Tank Warfare Online | 205083 | [205083-armored-combat-tank-warfare-online.json](./205083-armored-combat-tank-warfare-online.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
+| Armored Core 3 | 19414 | [19414-armored-core-3.json](./19414-armored-core-3.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
 | Armored Core VI Fires of Rubicon: Deluxe Edition | 263511 | [263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json](./263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json) |
 | Armored Core VI: Fires of Rubicon | 228542 | [228542-armored-core-vi-fires-of-rubicon.json](./228542-armored-core-vi-fires-of-rubicon.json) |
@@ -10511,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix and Caesar's Challenge | 223048 | [223048-asterix-and-caesars-challenge.json](./223048-asterix-and-caesars-challenge.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
+| Astérix and the Power of the Gods | 19781 | [19781-asterix-and-the-power-of-the-gods.json](./19781-asterix-and-the-power-of-the-gods.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
 | Asterix at the Olympic Games | 4681 | [4681-asterix-at-the-olympic-games.json](./4681-asterix-at-the-olympic-games.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
