@@ -5179,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
 | High School Musical: Livin' the Dream | 49478 | [49478-high-school-musical-livin-the-dream.json](./49478-high-school-musical-livin-the-dream.json) |
+| High School Musical: Sing It! | 4808 | [4808-high-school-musical-sing-it.json](./4808-high-school-musical-sing-it.json) |
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
