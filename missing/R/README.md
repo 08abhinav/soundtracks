@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
+| Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
+| Rayman Legends | 193359 | [193359-rayman-legends.json](./193359-rayman-legends.json) |
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
@@ -4482,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
+| Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
@@ -4691,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
+| Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
@@ -5693,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
 | River Master | 158943 | [158943-river-master.json](./158943-river-master.json) |
 | River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
+| River Raid | 5693 | [5693-river-raid.json](./5693-river-raid.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
