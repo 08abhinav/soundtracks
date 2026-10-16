@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:45:38.718Z",
-  "total_missing": 219712,
+  "generated_at": "2026-10-16T14:50:06.251Z",
+  "total_missing": 219703,
   "games": [
     {
       "igdb_id": 191680,
@@ -73400,11 +73400,6 @@
       "igdb_id": 172714,
       "game_name": "Axiom Verge 1 & 2 Double Pack",
       "file": "missing/A/172714-axiom-verge-1-and-2-double-pack.json"
-    },
-    {
-      "igdb_id": 127269,
-      "game_name": "Axiom Verge 2",
-      "file": "missing/A/127269-axiom-verge-2.json"
     },
     {
       "igdb_id": 75864,
@@ -287387,11 +287382,6 @@
       "file": "missing/E/262267-en-campana.json"
     },
     {
-      "igdb_id": 104970,
-      "game_name": "En Garde!",
-      "file": "missing/E/104970-en-garde.json"
-    },
-    {
       "igdb_id": 234059,
       "game_name": "En Passant",
       "file": "missing/E/234059-en-passant.json"
@@ -321320,11 +321310,6 @@
       "igdb_id": 287047,
       "game_name": "Figment 1 + Figment 2: Collector's Edition",
       "file": "missing/F/287047-figment-1-figment-2-collectors-edition.json"
-    },
-    {
-      "igdb_id": 119801,
-      "game_name": "Figment 2: Creed Valley",
-      "file": "missing/F/119801-figment-2-creed-valley.json"
     },
     {
       "igdb_id": 338694,
@@ -606692,11 +606677,6 @@
       "file": "missing/M/402952-my-time-at-portia-swimwear.json"
     },
     {
-      "igdb_id": 140427,
-      "game_name": "My Time at Sandrock",
-      "file": "missing/M/140427-my-time-at-sandrock.json"
-    },
-    {
       "igdb_id": 275107,
       "game_name": "My Time at Sandrock: Builder's Beach and Ball Clothing Pack",
       "file": "missing/M/275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json"
@@ -618140,11 +618120,6 @@
       "igdb_id": 225594,
       "game_name": "Neo Breakout",
       "file": "missing/N/225594-neo-breakout.json"
-    },
-    {
-      "igdb_id": 103319,
-      "game_name": "Neo Cab",
-      "file": "missing/N/103319-neo-cab.json"
     },
     {
       "igdb_id": 407478,
@@ -630795,11 +630770,6 @@
       "igdb_id": 167182,
       "game_name": "No One Lives in Heaven: Digital Deluxe Edition",
       "file": "missing/N/167182-no-one-lives-in-heaven-digital-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 131660,
-      "game_name": "No One Lives Under the Lighthouse",
-      "file": "missing/N/131660-no-one-lives-under-the-lighthouse.json"
     },
     {
       "igdb_id": 337766,
@@ -830055,11 +830025,6 @@
       "igdb_id": 325589,
       "game_name": "Solasta II",
       "file": "missing/S/325589-solasta-ii.json"
-    },
-    {
-      "igdb_id": 120170,
-      "game_name": "Solasta: Crown of the Magister",
-      "file": "missing/S/120170-solasta-crown-of-the-magister.json"
     },
     {
       "igdb_id": 219594,
@@ -1032567,11 +1032532,6 @@
       "file": "missing/V/132102-vampire-the-masquerade-shadows-of-new-york.json"
     },
     {
-      "igdb_id": 124992,
-      "game_name": "Vampire: The Masquerade - Swansong",
-      "file": "missing/V/124992-vampire-the-masquerade-swansong.json"
-    },
-    {
       "igdb_id": 225608,
       "game_name": "Vampire: The Masquerade - Swansong Alternate Outfits Pack",
       "file": "missing/V/225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json"
@@ -1064765,11 +1064725,6 @@
       "igdb_id": 328982,
       "game_name": "Windborn: Journey to the South",
       "file": "missing/W/328982-windborn-journey-to-the-south.json"
-    },
-    {
-      "igdb_id": 132051,
-      "game_name": "Windbound",
-      "file": "missing/W/132051-windbound.json"
     },
     {
       "igdb_id": 50435,
