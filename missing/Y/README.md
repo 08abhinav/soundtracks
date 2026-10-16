@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
 | Yooka-Replaylee | 304740 | [304740-yooka-replaylee.json](./304740-yooka-replaylee.json) |
+| Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
 | Yoostar 2: In the Movies | 20164 | [20164-yoostar-2-in-the-movies.json](./20164-yoostar-2-in-the-movies.json) |
