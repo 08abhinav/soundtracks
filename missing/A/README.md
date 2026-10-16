@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Gallet: Exa Label | 341999 | [341999-air-gallet-exa-label.json](./341999-air-gallet-exa-label.json) |
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
+| Air Guardians | 11443 | [11443-air-guardians.json](./11443-air-guardians.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
 | Air Hauler | 68098 | [68098-air-hauler.json](./68098-air-hauler.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea | 376853 | [376853-alea.json](./376853-alea.json) |
 | Alea | 379145 | [379145-alea.json](./379145-alea.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
+| Alea Jacta Est | 17637 | [17637-alea-jacta-est.json](./17637-alea-jacta-est.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
 | Alea Jacta Est: Cantabrian Wars | 169291 | [169291-alea-jacta-est-cantabrian-wars.json](./169291-alea-jacta-est-cantabrian-wars.json) |
 | Alea Jacta Est: Hannibal Terror of Rome | 169289 | [169289-alea-jacta-est-hannibal-terror-of-rome.json](./169289-alea-jacta-est-hannibal-terror-of-rome.json) |
@@ -5240,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
+| Alpha Zylon | 17629 | [17629-alpha-zylon.json](./17629-alpha-zylon.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
@@ -8040,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nikoli Slitherlink | 56413 | [56413-appli-archives-nikoli-slitherlink.json](./56413-appli-archives-nikoli-slitherlink.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
+| Appointment With FEAR | 17700 | [17700-appointment-with-fear.json](./17700-appointment-with-fear.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
 | AppPack | 131261 | [131261-apppack.json](./131261-apppack.json) |
 | Apprehend: Girlfriend | 161580 | [161580-apprehend-girlfriend.json](./161580-apprehend-girlfriend.json) |
