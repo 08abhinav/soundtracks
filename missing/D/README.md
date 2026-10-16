@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
+| DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
