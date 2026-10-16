@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
+| A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
@@ -7084,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
+| Anno 1602: History Edition | 136093 | [136093-anno-1602-history-edition.json](./136093-anno-1602-history-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
@@ -12150,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Awaria | 321629 | [321629-awaria.json](./321629-awaria.json) |
+| Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
 | Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
