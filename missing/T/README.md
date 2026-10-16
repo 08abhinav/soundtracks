@@ -953,6 +953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
 | Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
+| Tales of Phantasia | 196633 | [196633-tales-of-phantasia.json](./196633-tales-of-phantasia.json) |
+| Tales of Phantasia | 196654 | [196654-tales-of-phantasia.json](./196654-tales-of-phantasia.json) |
 | Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
 | Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
@@ -3122,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
+| Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
@@ -3376,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited Solar Crown: Silver Streets Edition | 331834 | [331834-test-drive-unlimited-solar-crown-silver-streets-edition.json](./331834-test-drive-unlimited-solar-crown-silver-streets-edition.json) |
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
+| Test Drive: Ferrari Racing Legends | 7217 | [7217-test-drive-ferrari-racing-legends.json](./7217-test-drive-ferrari-racing-legends.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -6351,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
+| The Eye of Judgment | 7302 | [7302-the-eye-of-judgment.json](./7302-the-eye-of-judgment.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
 | The Eye of the Beheld | 184874 | [184874-the-eye-of-the-beheld.json](./184874-the-eye-of-the-beheld.json) |
@@ -10186,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
+| The Outfit | 7126 | [7126-the-outfit.json](./7126-the-outfit.json) |
 | The Outforce | 1167 | [1167-the-outforce.json](./1167-the-outforce.json) |
 | The Outlast Trials | 127165 | [127165-the-outlast-trials.json](./127165-the-outlast-trials.json) |
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
@@ -13035,6 +13041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: A New Frontier - Episode 5: From the Gallows | 127066 | [127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json](./127066-the-walking-dead-a-new-frontier-episode-5-from-the-gallows.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Betrayal | 259748 | [259748-the-walking-dead-betrayal.json](./259748-the-walking-dead-betrayal.json) |
+| The Walking Dead: Destinies | 262261 | [262261-the-walking-dead-destinies.json](./262261-the-walking-dead-destinies.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
@@ -13317,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition | 119402 | [119402-the-witcher-3-wild-hunt-complete-edition.json](./119402-the-witcher-3-wild-hunt-complete-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
+| The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...' | 170449 | [170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json](./170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
