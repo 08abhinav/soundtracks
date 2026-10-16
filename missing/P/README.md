@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
+| Paddle Vs. Paddle | 99741 | [99741-paddle-vs-paddle.json](./99741-paddle-vs-paddle.json) |
 | Paddlenoid | 381377 | [381377-paddlenoid.json](./381377-paddlenoid.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
+| Paper Dolls | 99053 | [99053-paper-dolls.json](./99053-paper-dolls.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
 | Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
 | Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
@@ -1976,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
+| Pastel Girl | 99226 | [99226-pastel-girl.json](./99226-pastel-girl.json) |
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
@@ -5500,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
+| Pivot XL | 99426 | [99426-pivot-xl.json](./99426-pivot-xl.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Piwall | 81939 | [81939-piwall.json](./81939-piwall.json) |
