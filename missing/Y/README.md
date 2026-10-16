@@ -1199,7 +1199,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Forbidden Memories: Alpha Mod | 308396 | [308396-yu-gi-oh-forbidden-memories-alpha-mod.json](./308396-yu-gi-oh-forbidden-memories-alpha-mod.json) |
 | Yu-Gi-Oh! Forbidden Memories: Deep Fried Mod | 309602 | [309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json](./309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
+| Yu-Gi-Oh! GX Tag Force | 78167 | [78167-yu-gi-oh-gx-tag-force.json](./78167-yu-gi-oh-gx-tag-force.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Link Evolution | 114905 | [114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json](./114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
 | Yu-Gi-Oh! Millennium Duels | 53058 | [53058-yu-gi-oh-millennium-duels.json](./53058-yu-gi-oh-millennium-duels.json) |
 | Yu-Gi-Oh! Monster Capsule GB | 56977 | [56977-yu-gi-oh-monster-capsule-gb.json](./56977-yu-gi-oh-monster-capsule-gb.json) |
