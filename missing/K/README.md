@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
 | Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
+| Kasiori | 146821 | [146821-kasiori.json](./146821-kasiori.json) |
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
 | Kingdom O' Magic | 73193 | [73193-kingdom-o-magic.json](./73193-kingdom-o-magic.json) |
+| Kingdom of Arcadia | 145539 | [145539-kingdom-of-arcadia.json](./145539-kingdom-of-arcadia.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
