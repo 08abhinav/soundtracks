@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
+| A Dance of Fire and Ice | 114392 | [114392-a-dance-of-fire-and-ice.json](./114392-a-dance-of-fire-and-ice.json) |
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
 | A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
 | A Dark and Stormy Entry | 73691 | [73691-a-dark-and-stormy-entry.json](./73691-a-dark-and-stormy-entry.json) |
@@ -2065,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
+| Adios | 138270 | [138270-adios.json](./138270-adios.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
@@ -9766,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
+| Artifact | 54572 | [54572-artifact.json](./54572-artifact.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
