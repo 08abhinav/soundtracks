@@ -3963,7 +3963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windborn: Journey to the South | 328982 | [328982-windborn-journey-to-the-south.json](./328982-windborn-journey-to-the-south.json) |
-| Windbound | 132051 | [132051-windbound.json](./132051-windbound.json) |
 | Windchaser | 50435 | [50435-windchaser.json](./50435-windchaser.json) |
 | Windchaser: Guilds of Glory | 69139 | [69139-windchaser-guilds-of-glory.json](./69139-windchaser-guilds-of-glory.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
