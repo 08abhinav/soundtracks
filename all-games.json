@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:51:00.347Z",
-  "total_soundtracks": 1926,
+  "generated_at": "2026-10-16T18:45:57.763Z",
+  "total_soundtracks": 1927,
   "games": [
     {
       "igdb_id": 7522,
@@ -12134,6 +12134,20 @@
           "album_name": "Mega Man 2 Sound Collection",
           "spotify_url": "https://open.spotify.com/album/0D1qEM8x4CuxftLHLKfv9m",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6147,
+      "game_name": "Mercenary Kings",
+      "game_url": "https://ostdb.net/games/mercenary-kings",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dfab21dca98d8019daf5dd8c",
+      "albums": [
+        {
+          "album_name": "Mercenary Kings (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1KyAlUjuJzb3xM4MYsYoJs",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
