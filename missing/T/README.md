@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
+| Tesla Breaks the World! | 17652 | [17652-tesla-breaks-the-world.json](./17652-tesla-breaks-the-world.json) |
 | Tesla Force | 124029 | [124029-tesla-force.json](./124029-tesla-force.json) |
 | Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
@@ -12337,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
+| The Terminal 2 | 17635 | [17635-the-terminal-2.json](./17635-the-terminal-2.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 234211 | [234211-the-terminator.json](./234211-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
@@ -17096,6 +17098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toast the Ghost | 220146 | [220146-toast-the-ghost.json](./220146-toast-the-ghost.json) |
+| Toast Time | 17708 | [17708-toast-time.json](./17708-toast-time.json) |
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
