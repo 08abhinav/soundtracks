@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
+| Bad Rats | 8582 | [8582-bad-rats.json](./8582-bad-rats.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Roads | 256432 | [256432-bad-roads.json](./256432-bad-roads.json) |
 | Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beast Modon | 108063 | [108063-beast-modon.json](./108063-beast-modon.json) |
 | Beast Nature | 158094 | [158094-beast-nature.json](./158094-beast-nature.json) |
+| Beast of Reincarnation | 348180 | [348180-beast-of-reincarnation.json](./348180-beast-of-reincarnation.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
@@ -5635,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
 | Bionicle Heroes | 248510 | [248510-bionicle-heroes.json](./248510-bionicle-heroes.json) |
 | Bionicle Heroes | 248511 | [248511-bionicle-heroes.json](./248511-bionicle-heroes.json) |
+| Bionicle Heroes | 3818 | [3818-bionicle-heroes.json](./3818-bionicle-heroes.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
 | Bionicle Metru Nui: City of Legends - Stop the Morbuzakh | 279236 | [279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json](./279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
