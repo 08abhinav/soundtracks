@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
+| Life is Strange: Before the Storm - Episode 1: Awake | 81104 | [81104-life-is-strange-before-the-storm-episode-1-awake.json](./81104-life-is-strange-before-the-storm-episode-1-awake.json) |
 | Life is Strange: Before the Storm - Episode 2: Brave New World | 81105 | [81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json](./81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json) |
 | Life is Strange: Before the Storm - Episode 3: Hell Is Empty | 81106 | [81106-life-is-strange-before-the-storm-episode-3-hell-is-empty.json](./81106-life-is-strange-before-the-storm-episode-3-hell-is-empty.json) |
 | Life is Strange: Before the Storm - Limited Edition | 82432 | [82432-life-is-strange-before-the-storm-limited-edition.json](./82432-life-is-strange-before-the-storm-limited-edition.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
 | Life is Strange: Episode 1 - Chrysalis | 93914 | [93914-life-is-strange-episode-1-chrysalis.json](./93914-life-is-strange-episode-1-chrysalis.json) |
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
+| Life is Strange: Episode 3 - Chaos Theory | 93904 | [93904-life-is-strange-episode-3-chaos-theory.json](./93904-life-is-strange-episode-3-chaos-theory.json) |
 | Life is Strange: Episode 4 - Dark Room | 94087 | [94087-life-is-strange-episode-4-dark-room.json](./94087-life-is-strange-episode-4-dark-room.json) |
 | Life is Strange: Episode 5 - Polarized | 93915 | [93915-life-is-strange-episode-5-polarized.json](./93915-life-is-strange-episode-5-polarized.json) |
 | Life Is Strange: Limited Edition | 41610 | [41610-life-is-strange-limited-edition.json](./41610-life-is-strange-limited-edition.json) |
