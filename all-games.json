@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:10:58.580Z",
-  "total_soundtracks": 1862,
+  "generated_at": "2026-10-16T06:11:12.702Z",
+  "total_soundtracks": 1863,
   "games": [
     {
       "igdb_id": 7522,
@@ -759,6 +759,20 @@
         {
           "album_name": "Aliens: Fireteam Elite (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18130,
+      "game_name": "Alto's Adventure",
+      "game_url": "https://ostdb.net/games/altos-adventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e379f121f1850f6ec865a652",
+      "albums": [
+        {
+          "album_name": "Alto's Adventure (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3xMvldPr64mzsbc7cXcZEU",
           "apple_music_url": "",
           "album_link_url": ""
         }
