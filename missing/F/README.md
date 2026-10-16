@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
+| F-Sim Space Shuttle | 87205 | [87205-f-sim-space-shuttle.json](./87205-f-sim-space-shuttle.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
 | F-Stop: Backstory | 362479 | [362479-f-stop-backstory.json](./362479-f-stop-backstory.json) |
 | F-Stop: Reissue | 362475 | [362475-f-stop-reissue.json](./362475-f-stop-reissue.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
+| First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
@@ -7113,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
+| Fort Defenders Saga | 87227 | [87227-fort-defenders-saga.json](./87227-fort-defenders-saga.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
 | Fort Defense: Complete Edition | 53064 | [53064-fort-defense-complete-edition.json](./53064-fort-defense-complete-edition.json) |
 | Fort Defense: North Menace | 62011 | [62011-fort-defense-north-menace.json](./62011-fort-defense-north-menace.json) |
@@ -7595,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
+| Fox Simulator | 87268 | [87268-fox-simulator.json](./87268-fox-simulator.json) |
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
 | Fox Spirit: A Two-Tailed Adventure | 158039 | [158039-fox-spirit-a-two-tailed-adventure.json](./158039-fox-spirit-a-two-tailed-adventure.json) |
 | Fox Sports College Hoops '99 | 3498 | [3498-fox-sports-college-hoops-99.json](./3498-fox-sports-college-hoops-99.json) |
