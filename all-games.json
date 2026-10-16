@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:41:35.179Z",
-  "total_soundtracks": 1909,
+  "generated_at": "2026-10-16T14:41:51.423Z",
+  "total_soundtracks": 1910,
   "games": [
     {
       "igdb_id": 7522,
@@ -12626,6 +12626,20 @@
           "album_name": "Mirror's Edge Catalyst (EA Games Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2wy9EzWP9NuyVt4TSCz3qs",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17379,
+      "game_name": "Miscreated",
+      "game_url": "https://ostdb.net/games/miscreated",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732cd1be9fbde94a866a97de40",
+      "albums": [
+        {
+          "album_name": "Miscreated (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4oO3R38ev7jptodFaX6zby",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
