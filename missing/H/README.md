@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads-Up: Action Soccer | 208364 | [208364-heads-up-action-soccer.json](./208364-heads-up-action-soccer.json) |
 | Headshot | 91383 | [91383-headshot.json](./91383-headshot.json) |
 | Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
+| Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
 | Hearthstone: The Great Dark Beyond | 322147 | [322147-hearthstone-the-great-dark-beyond.json](./322147-hearthstone-the-great-dark-beyond.json) |
 | Hearthstone: The Lost City of Un'Goro | 322149 | [322149-hearthstone-the-lost-city-of-ungoro.json](./322149-hearthstone-the-lost-city-of-ungoro.json) |
+| Hearthstone: The Witchwood | 96374 | [96374-hearthstone-the-witchwood.json](./96374-hearthstone-the-witchwood.json) |
 | Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
+| Helium | 33731 | [33731-helium.json](./33731-helium.json) |
 | Helium Electric | 190104 | [190104-helium-electric.json](./190104-helium-electric.json) |
 | Helium Rain | 51733 | [51733-helium-rain.json](./51733-helium-rain.json) |
 | Helium Skies | 65808 | [65808-helium-skies.json](./65808-helium-skies.json) |
