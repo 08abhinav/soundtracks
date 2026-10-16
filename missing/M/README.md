@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
+| MapleStory 2 | 80348 | [80348-maplestory-2.json](./80348-maplestory-2.json) |
 | Maplestory Blitz | 108795 | [108795-maplestory-blitz.json](./108795-maplestory-blitz.json) |
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
@@ -6645,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
+| Metal Gear Solid: Peace Walker - HD Edition | 45178 | [45178-metal-gear-solid-peace-walker-hd-edition.json](./45178-metal-gear-solid-peace-walker-hd-edition.json) |
 | Metal Gear Solid: Peace Walker - Master Collection Version | 391792 | [391792-metal-gear-solid-peace-walker-master-collection-version.json](./391792-metal-gear-solid-peace-walker-master-collection-version.json) |
 | Metal Gear Solid: Portable Ops | 381 | [381-metal-gear-solid-portable-ops.json](./381-metal-gear-solid-portable-ops.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
@@ -7772,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
+| Might and Magic VII: For Blood and Honor | 7739 | [7739-might-and-magic-vii-for-blood-and-honor.json](./7739-might-and-magic-vii-for-blood-and-honor.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: Swords of Xeen | 72004 | [72004-might-and-magic-swords-of-xeen.json](./72004-might-and-magic-swords-of-xeen.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
@@ -9172,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
 | Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
 | Mirror: The Lost Shards | 170798 | [170798-mirror-the-lost-shards.json](./170798-mirror-the-lost-shards.json) |
+| Mirror's Edge | 77348 | [77348-mirrors-edge.json](./77348-mirrors-edge.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
