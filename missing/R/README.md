@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Legion | 293513 | [293513-random-legion.json](./293513-random-legion.json) |
+| Random Mix | 417291 | [417291-random-mix.json](./417291-random-mix.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2018 | 116352 | [116352-real-football-2018.json](./116352-real-football-2018.json) |
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
+| Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hair Salon | 95304 | [95304-real-hair-salon.json](./95304-real-hair-salon.json) |
 | Real Hentai 4 | 330225 | [330225-real-hentai-4.json](./330225-real-hentai-4.json) |
