@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 143435 | [143435-terracotta.json](./143435-terracotta.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
+| Terracotta | 419350 | [419350-terracotta.json](./419350-terracotta.json) |
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
 | The Dungeon | 301974 | [301974-the-dungeon.json](./301974-the-dungeon.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
+| The Dungeon Club | 419382 | [419382-the-dungeon-club.json](./419382-the-dungeon-club.json) |
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
 | The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
@@ -7551,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
+| The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
 | The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
@@ -13053,6 +13056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
 | The Varginha Incident | 2535 | [2535-the-varginha-incident.json](./2535-the-varginha-incident.json) |
+| The Variant Void | 419330 | [419330-the-variant-void.json](./419330-the-variant-void.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
@@ -14754,6 +14758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
 | Tidesworn | 403052 | [403052-tidesworn.json](./403052-tidesworn.json) |
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
+| Tideward | 419365 | [419365-tideward.json](./419365-tideward.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
 | Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
@@ -19064,6 +19069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Elements | 63682 | [63682-tower-of-elements.json](./63682-tower-of-elements.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home | 419376 | [419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json](./419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json) |
 | Tower of Fantasy | 256153 | [256153-tower-of-fantasy.json](./256153-tower-of-fantasy.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
@@ -21946,6 +21952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuna: The Seven | 128280 | [128280-triuna-the-seven.json](./128280-triuna-the-seven.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
+| Trivasion | 419324 | [419324-trivasion.json](./419324-trivasion.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
