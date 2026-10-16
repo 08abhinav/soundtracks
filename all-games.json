@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:56:38.972Z",
-  "total_soundtracks": 1832,
+  "generated_at": "2026-10-16T05:56:51.858Z",
+  "total_soundtracks": 1833,
   "games": [
     {
       "igdb_id": 7522,
@@ -12399,6 +12399,20 @@
         {
           "album_name": "My Time at Portia (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7qAGiWdfuT9l0PR0YfX9PF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 798,
+      "game_name": "Myst IV: Revelation",
+      "game_url": "https://ostdb.net/games/myst-iv-revelation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273376b0d2611654d25ada8c12f",
+      "albums": [
+        {
+          "album_name": "Myst IV: Revelation (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6ZbbGQubzXHkZlIVawPUxl",
           "apple_music_url": "",
           "album_link_url": ""
         }
