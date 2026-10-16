@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
 | Operation Shadow | 72916 | [72916-operation-shadow.json](./72916-operation-shadow.json) |
+| Operation Sheep Defense | 55400 | [55400-operation-sheep-defense.json](./55400-operation-sheep-defense.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
 | Osu!Octave | 202713 | [202713-osu-octave.json](./202713-osu-octave.json) |
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
+| Oswald's Adventure | 55347 | [55347-oswalds-adventure.json](./55347-oswalds-adventure.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
