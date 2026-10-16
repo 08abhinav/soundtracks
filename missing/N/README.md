@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 0 | 122223 | [122223-narcissu-0.json](./122223-narcissu-0.json) |
+| Narcissu 1st & 2nd | 30253 | [30253-narcissu-1st-and-2nd.json](./30253-narcissu-1st-and-2nd.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu Side 2nd | 78208 | [78208-narcissu-side-2nd.json](./78208-narcissu-side-2nd.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
 | NFL Quarterback Club 2000 | 3559 | [3559-nfl-quarterback-club-2000.json](./3559-nfl-quarterback-club-2000.json) |
+| NFL Quarterback Club 96 | 25080 | [25080-nfl-quarterback-club-96.json](./25080-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
