@@ -7076,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Activity Center: Winnie the Pooh | 209035 | [209035-disneys-activity-center-winnie-the-pooh.json](./209035-disneys-activity-center-winnie-the-pooh.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
+| Disney's Aladdin | 106270 | [106270-disneys-aladdin.json](./106270-disneys-aladdin.json) |
 | Disney's Aladdin | 141653 | [141653-disneys-aladdin.json](./141653-disneys-aladdin.json) |
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
@@ -7291,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
+| Distraint: Deluxe Edition | 100761 | [100761-distraint-deluxe-edition.json](./100761-distraint-deluxe-edition.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -8399,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
+| Don't Knock Twice | 25646 | [25646-dont-knock-twice.json](./25646-dont-knock-twice.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
