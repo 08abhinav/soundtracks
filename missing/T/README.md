@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories II Joukan | 72948 | [72948-taito-memories-ii-joukan.json](./72948-taito-memories-ii-joukan.json) |
 | Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
+| Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
@@ -2341,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
 | Tecmo Bowl: Kickoff | 21329 | [21329-tecmo-bowl-kickoff.json](./21329-tecmo-bowl-kickoff.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
+| Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
 | Tecmo NBA Basketball | 48226 | [48226-tecmo-nba-basketball.json](./48226-tecmo-nba-basketball.json) |
 | Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
@@ -15795,6 +15797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
+| Tiger Woods PGA Tour | 248495 | [248495-tiger-woods-pga-tour.json](./248495-tiger-woods-pga-tour.json) |
 | Tiger Woods PGA Tour 06 | 903 | [903-tiger-woods-pga-tour-06.json](./903-tiger-woods-pga-tour-06.json) |
 | Tiger Woods PGA Tour 08 | 5221 | [5221-tiger-woods-pga-tour-08.json](./5221-tiger-woods-pga-tour-08.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
@@ -23115,6 +23118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
+| Twisted Metal: Head-On - Extra Twisted Edition | 5415 | [5415-twisted-metal-head-on-extra-twisted-edition.json](./5415-twisted-metal-head-on-extra-twisted-edition.json) |
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
