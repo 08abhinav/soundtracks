@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Trainer Portable | 56749 | [56749-kanji-trainer-portable.json](./56749-kanji-trainer-portable.json) |
+| Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
