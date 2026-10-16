@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-COM Collection | 21224 | [21224-x-com-collection.json](./21224-x-com-collection.json) |
 | X-COM: Apocalypse | 26 | [26-x-com-apocalypse.json](./26-x-com-apocalypse.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
+| X-COM: Enforcer | 9322 | [9322-x-com-enforcer.json](./9322-x-com-enforcer.json) |
 | X-Com: From The Ashes | 278079 | [278079-x-com-from-the-ashes.json](./278079-x-com-from-the-ashes.json) |
 | X-COM: Interceptor | 27 | [27-x-com-interceptor.json](./27-x-com-interceptor.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
@@ -543,7 +544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
-| Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
