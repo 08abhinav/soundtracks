@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints & Sinners Bowling | 172540 | [172540-saints-and-sinners-bowling.json](./172540-saints-and-sinners-bowling.json) |
 | Saints and Sinners | 142799 | [142799-saints-and-sinners.json](./142799-saints-and-sinners.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
+| Saints Reborn | 422512 | [422512-saints-reborn.json](./422512-saints-reborn.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
+| SetPoint Volleyball | 422498 | [422498-setpoint-volleyball.json](./422498-setpoint-volleyball.json) |
 | Setr's Auto Battler | 182289 | [182289-setrs-auto-battler.json](./182289-setrs-auto-battler.json) |
 | Sets | 304222 | [304222-sets.json](./304222-sets.json) |
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
@@ -4750,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Play | 109413 | [109413-shadow-play.json](./109413-shadow-play.json) |
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
+| Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
@@ -5170,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
 | Shapebreaker | 197590 | [197590-shapebreaker.json](./197590-shapebreaker.json) |
+| ShapeBreaker | 422515 | [422515-shapebreaker.json](./422515-shapebreaker.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
@@ -6673,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
 | Shred! Remastered | 207278 | [207278-shred-remastered.json](./207278-shred-remastered.json) |
 | Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
+| ShredDead | 422474 | [422474-shreddead.json](./422474-shreddead.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
@@ -10455,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
+| Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
 | Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
@@ -11429,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
 | Solid Runner | 44437 | [44437-solid-runner.json](./44437-solid-runner.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
+| Solid Void: Halloween Nonograms | 422541 | [422541-solid-void-halloween-nonograms.json](./422541-solid-void-halloween-nonograms.json) |
 | Solid Void: Nature Puzzles | 333738 | [333738-solid-void-nature-puzzles.json](./333738-solid-void-nature-puzzles.json) |
 | Solid Void: Nonogram Triple Pack | 410389 | [410389-solid-void-nonogram-triple-pack.json](./410389-solid-void-nonogram-triple-pack.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
@@ -12241,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing CrossWorlds: Season Pass 2 | 422509 | [422509-sonic-racing-crossworlds-season-pass-2.json](./422509-sonic-racing-crossworlds-season-pass-2.json) |
 | Sonic Racing Kart | 210306 | [210306-sonic-racing-kart.json](./210306-sonic-racing-kart.json) |
 | Sonic Racing Shift Up | 210308 | [210308-sonic-racing-shift-up.json](./210308-sonic-racing-shift-up.json) |
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
@@ -14625,6 +14633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
+| SpeedBreaker | 422514 | [422514-speedbreaker.json](./422514-speedbreaker.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
@@ -15506,6 +15515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split Masters | 99498 | [99498-split-masters.json](./99498-split-masters.json) |
 | Split or Steal | 123963 | [123963-split-or-steal.json](./123963-split-or-steal.json) |
+| Split Out | 422466 | [422466-split-out.json](./422466-split-out.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
@@ -15864,6 +15874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
+| Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
 | Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
@@ -18040,6 +18051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
 | Stay With Me | 184308 | [184308-stay-with-me.json](./184308-stay-with-me.json) |
+| Stay With Me | 422473 | [422473-stay-with-me.json](./422473-stay-with-me.json) |
 | Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
@@ -20113,6 +20125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
+| Sturmjäger | 422546 | [422546-sturmjager.json](./422546-sturmjager.json) |
 | Sturmwind | 9126 | [9126-sturmwind.json](./9126-sturmwind.json) |
 | Sturmwind Ex | 123738 | [123738-sturmwind-ex.json](./123738-sturmwind-ex.json) |
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
