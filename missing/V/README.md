@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
+| Vector | 15545 | [15545-vector.json](./15545-vector.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
