@@ -377,6 +377,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f514f95fdded6ed885779e8" width="60" /> | [Diablo III](https://ostdb.net/games/diablo-iii) | **Diablo III Soundtrack** · [Spotify](https://open.spotify.com/album/3YEM8A1jRMEeGoqXPmOGHJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273becdb2c55037d6f27279b842" width="60" /> | [Diablo III: Reaper of Souls](https://ostdb.net/games/diablo-iii-reaper-of-souls) | **Diablo III Reaper of Souls Soundtrack** · [Spotify](https://open.spotify.com/album/0EHjKn2gwEpVF3aIkaBaIc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8f3434f282e7fefbd6340ea" width="60" /> | [Diablo IV](https://ostdb.net/games/diablo-iv) | **Diablo IV (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/30Qpwgol26uwWtTfYcki2b)<br>**Diablo IV: Vessel of Hatred (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273846e1cb919cc0df200694cc5" width="60" /> | [Diablo IV: Vessel of Hatred](https://ostdb.net/games/diablo-iv-vessel-of-hatred) | **Diablo IV: Vessel of Hatred (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/6b/8b/776b8bae-76a5-fc7f-ec00-71912440ea10/047875103900_cover.jpg/600x600bb.jpg" width="60" /> | [Diablo Immortal](https://ostdb.net/games/diablo-immortal) | **Diablo Immortal (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/diablo-immortal-original-soundtrack/1833020944?uo=4) · [Album](https://album.link/i/1833020944) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326aa30a91b470ad52be06473" width="60" /> | [Dino Crisis](https://ostdb.net/games/dino-crisis) | **DINO CRISIS ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/59MjtE5jblVQcbTBnKAW9I) · [Album](https://album.link/s/59MjtE5jblVQcbTBnKAW9I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ab25cf0fe24c306a7d52a4" width="60" /> | [Dino Crisis 2](https://ostdb.net/games/dino-crisis-2) | **DINO CRISIS 2 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2OI8nGskwIpDJ3rXszm4nz) · [Album](https://album.link/s/2OI8nGskwIpDJ3rXszm4nz) |
@@ -1612,4 +1613,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1929 soundtracks · last updated 2026-10-16T19:31:13.470Z_
+_1930 soundtracks · last updated 2026-10-16T19:31:27.666Z_
