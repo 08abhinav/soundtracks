@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:47:59.739Z",
-  "total_soundtracks": 1798,
+  "generated_at": "2026-10-16T05:48:14.601Z",
+  "total_soundtracks": 1799,
   "games": [
     {
       "igdb_id": 7522,
@@ -18441,6 +18441,20 @@
         {
           "album_name": "The Jackbox Party Pack 5 Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4Io8QRjqjSgben5DPBrmxU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 125021,
+      "game_name": "The Jackbox Party Pack 6",
+      "game_url": "https://ostdb.net/games/the-jackbox-party-pack-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273545cb83abc69414b0e905306",
+      "albums": [
+        {
+          "album_name": "The Jackbox Party Pack 6 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/50Hl8QbBelxBH4rQSKIQjK",
           "apple_music_url": "",
           "album_link_url": ""
         }
