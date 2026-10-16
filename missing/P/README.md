@@ -6935,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please Weave the Red Stars Into a Shroud for Wrapping the Corpse | 392315 | [392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json](./392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
+| Please, Don't Touch Anything 3D | 31235 | [31235-please-dont-touch-anything-3d.json](./31235-please-dont-touch-anything-3d.json) |
 | Please, Don't Touch Anything VR | 103922 | [103922-please-dont-touch-anything-vr.json](./103922-please-dont-touch-anything-vr.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
@@ -8242,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
+| Policenauts | 4290 | [4290-policenauts.json](./4290-policenauts.json) |
 | Policenauts Pilot Disk | 37116 | [37116-policenauts-pilot-disk.json](./37116-policenauts-pilot-disk.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
 | Poligons | 358997 | [358997-poligons.json](./358997-poligons.json) |
