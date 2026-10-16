@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission 3 | 403546 | [403546-impossible-mission-3.json](./403546-impossible-mission-3.json) |
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Pixels | 140867 | [140867-impossible-pixels.json](./140867-impossible-pixels.json) |
+| Impossible Road | 22158 | [22158-impossible-road.json](./22158-impossible-road.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniti VR | 29051 | [29051-infiniti-vr.json](./29051-infiniti-vr.json) |
 | Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
 | Infinitode 2: Infinite Tower Defense | 139491 | [139491-infinitode-2-infinite-tower-defense.json](./139491-infinitode-2-infinite-tower-defense.json) |
+| Infinitrap: Ohio Jack and the cup of Eternity | 21996 | [21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json](./21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum | 82010 | [82010-infinitum.json](./82010-infinitum.json) |
