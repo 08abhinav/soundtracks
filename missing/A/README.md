@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
+| Abobo's Big Adventure | 8735 | [8735-abobos-big-adventure.json](./8735-abobos-big-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
 | Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
+| Advanced Dungeons & Dragons: Heroes of the Lance | 8603 | [8603-advanced-dungeons-and-dragons-heroes-of-the-lance.json](./8603-advanced-dungeons-and-dragons-heroes-of-the-lance.json) |
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
@@ -10341,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
+| Assassin's Creed: Rebellion | 41030 | [41030-assassins-creed-rebellion.json](./41030-assassins-creed-rebellion.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
 | Assassin's Creed: Revelations - Collectors Edition | 45119 | [45119-assassins-creed-revelations-collectors-edition.json](./45119-assassins-creed-revelations-collectors-edition.json) |
 | Assassin's Creed: Revelations - Gold Edition | 52417 | [52417-assassins-creed-revelations-gold-edition.json](./52417-assassins-creed-revelations-gold-edition.json) |
