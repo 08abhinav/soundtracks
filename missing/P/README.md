@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
+| Papetura | 121567 | [121567-papetura.json](./121567-papetura.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathstow Mystery VR | 68753 | [68753-pathstow-mystery-vr.json](./68753-pathstow-mystery-vr.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
+| Pathway | 26597 | [26597-pathway.json](./26597-pathway.json) |
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
@@ -10845,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Goblin | 404986 | [404986-project-goblin.json](./404986-project-goblin.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
 | Project Gotham Racing 2 | 3321 | [3321-project-gotham-racing-2.json](./3321-project-gotham-racing-2.json) |
+| Project Gotham Racing 3 | 3322 | [3322-project-gotham-racing-3.json](./3322-project-gotham-racing-3.json) |
 | Project Gotham Racing 4 | 2540 | [2540-project-gotham-racing-4.json](./2540-project-gotham-racing-4.json) |
 | Project Gotham Racing 4: Recompiled | 414601 | [414601-project-gotham-racing-4-recompiled.json](./414601-project-gotham-racing-4-recompiled.json) |
 | Project Gotham Racing: Ferrari Edition | 221092 | [221092-project-gotham-racing-ferrari-edition.json](./221092-project-gotham-racing-ferrari-edition.json) |
