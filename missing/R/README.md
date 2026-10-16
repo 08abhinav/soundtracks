@@ -7685,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
 | Root: The Marauder Expansion | 364037 | [364037-root-the-marauder-expansion.json](./364037-root-the-marauder-expansion.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
+| Rootabasis | 422459 | [422459-rootabasis.json](./422459-rootabasis.json) |
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
@@ -8621,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
+| Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
@@ -8671,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
 | Runebound Bastion | 368290 | [368290-runebound-bastion.json](./368290-runebound-bastion.json) |
 | Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
+| RuneEra | 422487 | [422487-runeera.json](./422487-runeera.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
