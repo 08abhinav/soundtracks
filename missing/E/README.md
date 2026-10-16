@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Storm | 238473 | [238473-echo-storm.json](./238473-echo-storm.json) |
+| Echo Tokyo: Phoenix | 33788 | [33788-echo-tokyo-phoenix.json](./33788-echo-tokyo-phoenix.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
 | Echo Tower | 395535 | [395535-echo-tower.json](./395535-echo-tower.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
+| Elysium: Blood Games | 33828 | [33828-elysium-blood-games.json](./33828-elysium-blood-games.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
