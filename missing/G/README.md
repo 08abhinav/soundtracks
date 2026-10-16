@@ -4084,7 +4084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War III: Collector's Edition | 45206 | [45206-god-of-war-iii-collectors-edition.json](./45206-god-of-war-iii-collectors-edition.json) |
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Laufey: Digital Deluxe Edition | 420579 | [420579-god-of-war-laufey-digital-deluxe-edition.json](./420579-god-of-war-laufey-digital-deluxe-edition.json) |
-| God of War Ragnarök: Valhalla | 279623 | [279623-god-of-war-ragnarok-valhalla.json](./279623-god-of-war-ragnarok-valhalla.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
