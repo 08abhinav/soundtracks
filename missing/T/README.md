@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
+| The Banner Saga Trilogy | 109108 | [109108-the-banner-saga-trilogy.json](./109108-the-banner-saga-trilogy.json) |
 | The Banner Saga Trilogy: Stoic Edition | 169191 | [169191-the-banner-saga-trilogy-stoic-edition.json](./169191-the-banner-saga-trilogy-stoic-edition.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
 | The Banner Saga: Factions | 12649 | [12649-the-banner-saga-factions.json](./12649-the-banner-saga-factions.json) |
