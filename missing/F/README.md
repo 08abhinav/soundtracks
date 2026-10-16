@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeet | 150242 | [150242-feeet.json](./150242-feeet.json) |
 | Feel For You | 98053 | [98053-feel-for-you.json](./98053-feel-for-you.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
+| Feel the Snow | 31001 | [31001-feel-the-snow.json](./31001-feel-the-snow.json) |
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feeling Death | 287723 | [287723-feeling-death.json](./287723-feeling-death.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
 | Fibre | 108877 | [108877-fibre.json](./108877-fibre.json) |
+| Fibrillation HD | 30415 | [30415-fibrillation-hd.json](./30415-fibrillation-hd.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
@@ -3396,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
+| Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
@@ -6620,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
+| Forced Showdown | 14578 | [14578-forced-showdown.json](./14578-forced-showdown.json) |
 | Forced Showdown: Deluxe Content | 51810 | [51810-forced-showdown-deluxe-content.json](./51810-forced-showdown-deluxe-content.json) |
 | Forced Showdown: Drone Invasion | 51809 | [51809-forced-showdown-drone-invasion.json](./51809-forced-showdown-drone-invasion.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
