@@ -6750,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
+| Lunar Lander | 16973 | [16973-lunar-lander.json](./16973-lunar-lander.json) |
 | Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
 | Lunar Lander Beyond | 260301 | [260301-lunar-lander-beyond.json](./260301-lunar-lander-beyond.json) |
 | Lunar Lander Beyond: Deluxe Edition | 284477 | [284477-lunar-lander-beyond-deluxe-edition.json](./284477-lunar-lander-beyond-deluxe-edition.json) |
