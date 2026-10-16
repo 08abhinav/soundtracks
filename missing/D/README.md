@@ -11267,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dreamworks Dragons: Wild Skies | 321022 | [321022-dreamworks-dragons-wild-skies.json](./321022-dreamworks-dragons-wild-skies.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
+| DreamWorks Super Star Kartz | 3672 | [3672-dreamworks-super-star-kartz.json](./3672-dreamworks-super-star-kartz.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
 | DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
