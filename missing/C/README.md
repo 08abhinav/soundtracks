@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
+| Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
@@ -6045,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
+| Cities in Motion | 1010 | [1010-cities-in-motion.json](./1010-cities-in-motion.json) |
 | Cities in Motion 2 Complete Edition | 317561 | [317561-cities-in-motion-2-complete-edition.json](./317561-cities-in-motion-2-complete-edition.json) |
 | Cities in Motion 2: Bus Mania | 52734 | [52734-cities-in-motion-2-bus-mania.json](./52734-cities-in-motion-2-bus-mania.json) |
 | Cities in Motion 2: European Cities | 52733 | [52733-cities-in-motion-2-european-cities.json](./52733-cities-in-motion-2-european-cities.json) |
@@ -8718,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen in Invasion of the Vorticons: Keen Must Die! | 2441 | [2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json](./2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander Keen in Invasion of the Vorticons: The Earth Explodes | 2440 | [2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json](./2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json) |
+| Commander Keen in Keen Dreams | 2442 | [2442-commander-keen-in-keen-dreams.json](./2442-commander-keen-in-keen-dreams.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
@@ -9424,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
+| Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
@@ -12496,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Tours and Tournaments | 240894 | [240894-crusader-kings-iii-tours-and-tournaments.json](./240894-crusader-kings-iii-tours-and-tournaments.json) |
 | Crusader Kings III: Wandering Nobles | 352847 | [352847-crusader-kings-iii-wandering-nobles.json](./352847-crusader-kings-iii-wandering-nobles.json) |
 | Crusader Kings III: Wards & Wardens | 292107 | [292107-crusader-kings-iii-wards-and-wardens.json](./292107-crusader-kings-iii-wards-and-wardens.json) |
+| Crusader of Centy | 4552 | [4552-crusader-of-centy.json](./4552-crusader-of-centy.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Regret | 656 | [656-crusader-no-regret.json](./656-crusader-no-regret.json) |
