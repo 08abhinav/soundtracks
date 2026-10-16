@@ -532,10 +532,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xentra Station | 361056 | [361056-xentra-station.json](./361056-xentra-station.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
 | Xenture | 181096 | [181096-xenture.json](./181096-xenture.json) |
+| Xenus 2: White Gold | 30872 | [30872-xenus-2-white-gold.json](./30872-xenus-2-white-gold.json) |
 | Xenus Bug Eater | 386941 | [386941-xenus-bug-eater.json](./386941-xenus-bug-eater.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
+| Xera: Survival | 103538 | [103538-xera-survival.json](./103538-xera-survival.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xerix | 93458 | [93458-xerix.json](./93458-xerix.json) |
