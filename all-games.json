@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:02:14.559Z",
-  "total_soundtracks": 1846,
+  "generated_at": "2026-10-16T06:02:28.775Z",
+  "total_soundtracks": 1847,
   "games": [
     {
       "igdb_id": 7522,
@@ -19889,6 +19889,20 @@
           "spotify_url": "https://open.spotify.com/album/0dXi0NSl9xhMKzoVj2oJRy",
           "apple_music_url": "https://music.apple.com/us/album/total-war-rome-ii-original-soundtrack-deluxe-edition/1753798835",
           "album_link_url": "https://album.link/i/1753798835"
+        }
+      ]
+    },
+    {
+      "igdb_id": 80961,
+      "game_name": "Total War: Three Kingdoms",
+      "game_url": "https://ostdb.net/games/total-war-three-kingdoms",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ff9578ce1d464284198b4e76",
+      "albums": [
+        {
+          "album_name": "Total War: Three Kingdoms (Original Soundtrack) [Deluxe Edition]",
+          "spotify_url": "https://open.spotify.com/album/2G8xhVZGw8W9Tbc3ApHbgO",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
