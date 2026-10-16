@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| Chesster | 35674 | [35674-chesster.json](./35674-chesster.json) |
 | Chesstle | 143411 | [143411-chesstle.json](./143411-chesstle.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
 | Chesstris 2000 | 181603 | [181603-chesstris-2000.json](./181603-chesstris-2000.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
+| Chimpology | 37391 | [37391-chimpology.json](./37391-chimpology.json) |
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
 | Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
+| Crazy Catman | 37043 | [37043-crazy-catman.json](./37043-crazy-catman.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
