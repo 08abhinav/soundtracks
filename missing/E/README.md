@@ -2183,7 +2183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
 | Emperor of the Fading Suns Enhanced | 295355 | [295355-emperor-of-the-fading-suns-enhanced.json](./295355-emperor-of-the-fading-suns-enhanced.json) |
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
-| Emperor: Rise of the Middle Kingdom | 7512 | [7512-emperor-rise-of-the-middle-kingdom.json](./7512-emperor-rise-of-the-middle-kingdom.json) |
 | Emperor's Mahjongg | 209207 | [209207-emperors-mahjongg.json](./209207-emperors-mahjongg.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
@@ -2465,7 +2464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Lilies: Quietus of the Knights | 138858 | [138858-ender-lilies-quietus-of-the-knights.json](./138858-ender-lilies-quietus-of-the-knights.json) |
-| Ender Magnolia: Bloom in the Mist | 287846 | [287846-ender-magnolia-bloom-in-the-mist.json](./287846-ender-magnolia-bloom-in-the-mist.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
 | Ender of Fire | 60797 | [60797-ender-of-fire.json](./60797-ender-of-fire.json) |
 | Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
