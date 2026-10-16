@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
 | I'm UFO | 340502 | [340502-im-ufo.json](./340502-im-ufo.json) |
 | I'm Wizard: Magic Combat Game | 419914 | [419914-im-wizard-magic-combat-game.json](./419914-im-wizard-magic-combat-game.json) |
+| I'Max Shougi II | 419312 | [419312-imax-shougi-ii.json](./419312-imax-shougi-ii.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I've Got a Brand New Pair of Legs | 129498 | [129498-ive-got-a-brand-new-pair-of-legs.json](./129498-ive-got-a-brand-new-pair-of-legs.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
 | In the World End, You and Me the Forget's Legend | 93724 | [93724-in-the-world-end-you-and-me-the-forgets-legend.json](./93724-in-the-world-end-you-and-me-the-forgets-legend.json) |
 | In the World Unknown | 203215 | [203215-in-the-world-unknown.json](./203215-in-the-world-unknown.json) |
+| In These Hallowed Halls | 419317 | [419317-in-these-hallowed-halls.json](./419317-in-these-hallowed-halls.json) |
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
 | In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
