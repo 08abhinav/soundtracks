@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
+| Planetary Annihilation | 2958 | [2958-planetary-annihilation.json](./2958-planetary-annihilation.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Assembly | 184272 | [184272-planetary-assembly.json](./184272-planetary-assembly.json) |
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
