@@ -129,7 +129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
-| Pac-Man | 7559 | [7559-pac-man.json](./7559-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
@@ -1018,7 +1017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Doctrine | 69391 | [69391-panzer-doctrine.json](./69391-panzer-doctrine.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
-| Panzer Dragoon Orta | 1672 | [1672-panzer-dragoon-orta.json](./1672-panzer-dragoon-orta.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
