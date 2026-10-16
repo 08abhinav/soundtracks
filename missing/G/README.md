@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
+| Garrison: Archangel | 36762 | [36762-garrison-archangel.json](./36762-garrison-archangel.json) |
 | Garry Kitchen's Battletank | 10623 | [10623-garry-kitchens-battletank.json](./10623-garry-kitchens-battletank.json) |
 | Garry Kitchen's Battletank | 79173 | [79173-garry-kitchens-battletank.json](./79173-garry-kitchens-battletank.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
@@ -6002,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Memory | 116269 | [116269-gray-memory.json](./116269-gray-memory.json) |
 | Gray Planet | 344872 | [344872-gray-planet.json](./344872-gray-planet.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
+| Gray Skies, Dark Waters | 37002 | [37002-gray-skies-dark-waters.json](./37002-gray-skies-dark-waters.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
@@ -6142,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
+| Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Crust | 184799 | [184799-green-crust.json](./184799-green-crust.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
