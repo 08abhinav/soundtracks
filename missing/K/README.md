@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 2.5 Remix: Limited Edition | 45159 | [45159-kingdom-hearts-hd-2-5-remix-limited-edition.json](./45159-kingdom-hearts-hd-2-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
 | Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
+| Kingdom Hearts II Final Mix: Free Flow Virtuoso Improvements Implementation | 419929 | [419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json](./419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json) |
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts III Light vs. Darkness Edition | 403641 | [403641-kingdom-hearts-iii-light-vs-darkness-edition.json](./403641-kingdom-hearts-iii-light-vs-darkness-edition.json) |
