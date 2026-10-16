@@ -9064,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conchiglia | 357206 | [357206-conchiglia.json](./357206-conchiglia.json) |
+| Concierge | 359888 | [359888-concierge.json](./359888-concierge.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Conclave | 80371 | [80371-conclave.json](./80371-conclave.json) |
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
@@ -10881,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | Crabling | 244904 | [244904-crabling.json](./244904-crabling.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
+| Crabmeat | 351084 | [351084-crabmeat.json](./351084-crabmeat.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
 | Crabs & Cocktails | 412211 | [412211-crabs-and-cocktails.json](./412211-crabs-and-cocktails.json) |
@@ -13346,6 +13348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
+| Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
