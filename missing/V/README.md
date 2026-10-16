@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
 | ViVO | 121409 | [121409-vivo.json](./121409-vivo.json) |
 | Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
+| Vixens From outer Space | 106391 | [106391-vixens-from-outer-space.json](./106391-vixens-from-outer-space.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vordakk's Keep | 268425 | [268425-vordakks-keep.json](./268425-vordakks-keep.json) |
 | Vorn's Adventure | 115547 | [115547-vorns-adventure.json](./115547-vorns-adventure.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
+| Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
