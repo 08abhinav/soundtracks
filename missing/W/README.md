@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
+| Wadanohara and the Great Blue Sea | 46614 | [46614-wadanohara-and-the-great-blue-sea.json](./46614-wadanohara-and-the-great-blue-sea.json) |
 | Wadanohara and the Great Blue Sea -Reboot- | 142190 | [142190-wadanohara-and-the-great-blue-sea-reboot.json](./142190-wadanohara-and-the-great-blue-sea-reboot.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
+| Wingspan | 121586 | [121586-wingspan.json](./121586-wingspan.json) |
 | Wingspan + European Expansion | 200514 | [200514-wingspan-european-expansion.json](./200514-wingspan-european-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
@@ -4474,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
 | Witchfall: Secrets of Emotica | 173016 | [173016-witchfall-secrets-of-emotica.json](./173016-witchfall-secrets-of-emotica.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
+| Witchfire | 76880 | [76880-witchfire.json](./76880-witchfire.json) |
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
