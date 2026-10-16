@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire | 59849 | [59849-l-a-noire.json](./59849-l-a-noire.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
+| L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
@@ -2161,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
 | LEGO Friends Heartlake Rush | 106939 | [106939-lego-friends-heartlake-rush.json](./106939-lego-friends-heartlake-rush.json) |
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
+| LEGO Harry Potter Collection | 25083 | [25083-lego-harry-potter-collection.json](./25083-lego-harry-potter-collection.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
 | Lethal Lawns: Competitive Mowing Bloodsport | 93763 | [93763-lethal-lawns-competitive-mowing-bloodsport.json](./93763-lethal-lawns-competitive-mowing-bloodsport.json) |
 | Lethal League | 8262 | [8262-lethal-league.json](./8262-lethal-league.json) |
+| Lethal League Blaze | 59858 | [59858-lethal-league-blaze.json](./59858-lethal-league-blaze.json) |
 | Lethal League Prototype | 382914 | [382914-lethal-league-prototype.json](./382914-lethal-league-prototype.json) |
 | Lethal Love | 287091 | [287091-lethal-love.json](./287091-lethal-love.json) |
 | Lethal Omen | 212867 | [212867-lethal-omen.json](./212867-lethal-omen.json) |
