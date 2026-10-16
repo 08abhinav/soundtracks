@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Frog Tell No Tales | 182882 | [182882-dead-frog-tell-no-tales.json](./182882-dead-frog-tell-no-tales.json) |
 | Dead Frontier | 59850 | [59850-dead-frontier.json](./59850-dead-frontier.json) |
+| Dead Frontier 2 | 87776 | [87776-dead-frontier-2.json](./87776-dead-frontier-2.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
@@ -8485,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
+| Don't Starve: Hamlet | 103326 | [103326-dont-starve-hamlet.json](./103326-dont-starve-hamlet.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
