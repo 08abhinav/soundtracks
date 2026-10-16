@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Kings | 9599 | [9599-reign-of-kings.json](./9599-reign-of-kings.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
+| Reign: Conflict of Nations | 11430 | [11430-reign-conflict-of-nations.json](./11430-reign-conflict-of-nations.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
