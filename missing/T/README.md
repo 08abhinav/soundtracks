@@ -9737,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
 | The Movie Monster Game | 26409 | [26409-the-movie-monster-game.json](./26409-the-movie-monster-game.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
+| The Mr. Rabbit Magic Show | 342205 | [342205-the-mr-rabbit-magic-show.json](./342205-the-mr-rabbit-magic-show.json) |
 | The Mujo | 235163 | [235163-the-mujo.json](./235163-the-mujo.json) |
 | The Müll Littoral | 134530 | [134530-the-mull-littoral.json](./134530-the-mull-littoral.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
