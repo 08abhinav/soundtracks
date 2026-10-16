@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Complete | 50322 | [50322-neverwinter-nights-2-complete.json](./50322-neverwinter-nights-2-complete.json) |
 | Neverwinter Nights 2: Mask of the Betrayer | 1840 | [1840-neverwinter-nights-2-mask-of-the-betrayer.json](./1840-neverwinter-nights-2-mask-of-the-betrayer.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
+| Neverwinter Nights 2: Storm of Zehir | 3144 | [3144-neverwinter-nights-2-storm-of-zehir.json](./3144-neverwinter-nights-2-storm-of-zehir.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Diamond | 50323 | [50323-neverwinter-nights-diamond.json](./50323-neverwinter-nights-diamond.json) |
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
