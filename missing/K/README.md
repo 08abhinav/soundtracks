@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
+| Karaoke Revolution | 80460 | [80460-karaoke-revolution.json](./80460-karaoke-revolution.json) |
 | Karaoke Revolution Anime Song Selection | 194435 | [194435-karaoke-revolution-anime-song-selection.json](./194435-karaoke-revolution-anime-song-selection.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Bar Tycoon: Extended Edition | 295675 | [295675-kebab-bar-tycoon-extended-edition.json](./295675-kebab-bar-tycoon-extended-edition.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
+| Kebab it Up! | 81091 | [81091-kebab-it-up.json](./81091-kebab-it-up.json) |
 | Kebab Simulator | 301359 | [301359-kebab-simulator.json](./301359-kebab-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
