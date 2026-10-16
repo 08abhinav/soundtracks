@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection | 23759 | [23759-natural-selection.json](./23759-natural-selection.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
+| Natural Selection 2: Combat | 17566 | [17566-natural-selection-2-combat.json](./17566-natural-selection-2-combat.json) |
 | Natural Selection University | 335390 | [335390-natural-selection-university.json](./335390-natural-selection-university.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman's Night In | 115518 | [115518-normans-night-in.json](./115518-normans-night-in.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
+| Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
