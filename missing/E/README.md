@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Helljumper: Descent X | 345074 | [345074-exo-helljumper-descent-x.json](./345074-exo-helljumper-descent-x.json) |
 | Exo Mayhem | 312143 | [312143-exo-mayhem.json](./312143-exo-mayhem.json) |
+| Exo One | 81909 | [81909-exo-one.json](./81909-exo-one.json) |
 | Exo One: Prologue | 139131 | [139131-exo-one-prologue.json](./139131-exo-one-prologue.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Racing | 112827 | [112827-exo-racing.json](./112827-exo-racing.json) |
