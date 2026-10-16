@@ -12664,6 +12664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
+| Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
