@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
 | Gate | 168932 | [168932-gate.json](./168932-gate.json) |
 | Gate | 170353 | [170353-gate.json](./170353-gate.json) |
+| Gate | 417986 | [417986-gate.json](./417986-gate.json) |
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
 | Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
+| Go Far, M.I.N.G. | 417983 | [417983-go-far-m-i-n-g.json](./417983-go-far-m-i-n-g.json) |
 | Go Fetch! | 186133 | [186133-go-fetch.json](./186133-go-fetch.json) |
 | Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
