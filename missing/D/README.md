@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
+| Defence to death | 28762 | [28762-defence-to-death.json](./28762-defence-to-death.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
 | DefenceOrder | 196509 | [196509-defenceorder.json](./196509-defenceorder.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
 | Destiny: The Taken King - Digital Collector's Edition | 118881 | [118881-destiny-the-taken-king-digital-collectors-edition.json](./118881-destiny-the-taken-king-digital-collectors-edition.json) |
+| Destiny: The Taken King - Legendary Edition | 20860 | [20860-destiny-the-taken-king-legendary-edition.json](./20860-destiny-the-taken-king-legendary-edition.json) |
 | Destiny: World Domination From Stone Age to Space Age | 51363 | [51363-destiny-world-domination-from-stone-age-to-space-age.json](./51363-destiny-world-domination-from-stone-age-to-space-age.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -8059,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogman95 | 354944 | [354944-dogman95.json](./354944-dogman95.json) |
 | Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
+| Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
@@ -12471,6 +12474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Encounters | 172756 | [172756-dungeon-encounters.json](./172756-dungeon-encounters.json) |
 | Dungeon Escape | 207291 | [207291-dungeon-escape.json](./207291-dungeon-escape.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
+| Dungeon Escape VR | 28890 | [28890-dungeon-escape-vr.json](./28890-dungeon-escape-vr.json) |
 | Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
 | Dungeon Exiles | 290847 | [290847-dungeon-exiles.json](./290847-dungeon-exiles.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
@@ -12731,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
+| Dungeonbowl: Knockout Edition | 28084 | [28084-dungeonbowl-knockout-edition.json](./28084-dungeonbowl-knockout-edition.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
