@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Strike Force | 76164 | [76164-marvel-strike-force.json](./76164-marvel-strike-force.json) |
 | Marvel Super Hero Squad | 4997 | [4997-marvel-super-hero-squad.json](./4997-marvel-super-hero-squad.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
+| Marvel Super Hero Squad: Comic Combat | 5188 | [5188-marvel-super-hero-squad-comic-combat.json](./5188-marvel-super-hero-squad-comic-combat.json) |
 | Marvel Super Hero Squad: The Infinity Gauntlet | 4998 | [4998-marvel-super-hero-squad-the-infinity-gauntlet.json](./4998-marvel-super-hero-squad-the-infinity-gauntlet.json) |
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
@@ -7818,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
+| Might & Magic: Clash of Heroes - Definitive Edition | 247376 | [247376-might-and-magic-clash-of-heroes-definitive-edition.json](./247376-might-and-magic-clash-of-heroes-definitive-edition.json) |
 | Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
