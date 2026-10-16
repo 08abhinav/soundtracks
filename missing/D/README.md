@@ -8323,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
+| Domino | 88838 | [88838-domino.json](./88838-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
 | Domino Craft VR | 30071 | [30071-domino-craft-vr.json](./30071-domino-craft-vr.json) |
