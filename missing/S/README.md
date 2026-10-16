@@ -7438,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Nights: Browser edition | 184327 | [184327-silver-nights-browser-edition.json](./184327-silver-nights-browser-edition.json) |
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
+| Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Squad: Age of the Vortex | 160060 | [160060-silver-squad-age-of-the-vortex.json](./160060-silver-squad-age-of-the-vortex.json) |
