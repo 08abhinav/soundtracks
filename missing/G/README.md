@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
 | Golgothica | 381323 | [381323-golgothica.json](./381323-golgothica.json) |
+| Goliath | 11080 | [11080-goliath.json](./11080-goliath.json) |
 | Goliath | 268929 | [268929-goliath.json](./268929-goliath.json) |
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
@@ -6529,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimrain | 302077 | [302077-grimrain.json](./302077-grimrain.json) |
 | Grimroll | 334348 | [334348-grimroll.json](./334348-grimroll.json) |
 | Grimscape | 185959 | [185959-grimscape.json](./185959-grimscape.json) |
+| Grimsfield | 21638 | [21638-grimsfield.json](./21638-grimsfield.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
