@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
+| Oniken: Unstoppable Edition | 51861 | [51861-oniken-unstoppable-edition.json](./51861-oniken-unstoppable-edition.json) |
 | Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
 | Onikura | 315189 | [315189-onikura.json](./315189-onikura.json) |
