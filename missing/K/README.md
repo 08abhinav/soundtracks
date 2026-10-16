@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Ehon: Adventure for The Lost Memories | 166514 | [166514-kaeru-no-ehon-adventure-for-the-lost-memories.json](./166514-kaeru-no-ehon-adventure-for-the-lost-memories.json) |
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
+| Kaerun | 421793 | [421793-kaerun.json](./421793-kaerun.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
