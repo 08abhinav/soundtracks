@@ -1326,6 +1326,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fc1a959c4dec7ff06d5875b" width="60" /> | [The Witcher IV](https://ostdb.net/games/the-witcher-iv) | **No Gods, Only Monsters (The Witcher IV)** · [Spotify](https://open.spotify.com/album/5lbpfkGC6Eg9QM4YvGsF6J) · [Apple Music](https://music.apple.com/us/album/no-gods-only-monsters-the-witcher-iv-single/1785603201) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher: Enhanced Edition](https://ostdb.net/games/the-witcher-enhanced-edition) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0edc9f63c99a1454a9f6d3" width="60" /> | [Thief](https://ostdb.net/games/thief) | **Thief (Original Soundtrack - Director's Cut)** · [Spotify](https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273568597308f69d33bf727376c" width="60" /> | [Thirty Flights of Loving](https://ostdb.net/games/thirty-flights-of-loving) | **Thirty Flights of Loving (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/13KPTW7seE95dvIKKDTaoh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398c4ac2212f2cd4ee49e7e87" width="60" /> | [This Is the Police](https://ostdb.net/games/this-is-the-police) | **This Is The Police (Original Game Soundtrack) [Deluxe Edition]** · [Spotify](https://open.spotify.com/album/5l6oS6KkNYnEpyai0huc5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cff40156a150f6c73d345d7" width="60" /> | [This War of Mine](https://ostdb.net/games/this-war-of-mine) | **This War of Mine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/bf/ff/f9bfffaf-f81e-d43f-75c0-31c8932ac470/859709153322_cover.tif/600x600bb.jpg" width="60" /> | [Thomas Was Alone](https://ostdb.net/games/thomas-was-alone) | **Thomas Was Alone Ost** · [Spotify](https://open.spotify.com/album/0Iw5Z8FWMPL28DC44z2kda) · [Apple Music](https://music.apple.com/us/album/thomas-was-alone-original-soundtrack/576915445) · [Album](https://album.link/i/576915445) |
@@ -1501,4 +1502,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1818 soundtracks · last updated 2026-10-16T05:52:58.142Z_
+_1819 soundtracks · last updated 2026-10-16T05:53:13.040Z_
