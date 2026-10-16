@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
+| Half Dead | 33726 | [33726-half-dead.json](./33726-half-dead.json) |
 | Half Dead 3 | 165106 | [165106-half-dead-3.json](./165106-half-dead-3.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Grip | 413472 | [413472-half-grip.json](./413472-half-grip.json) |
@@ -7572,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
+| Hover: Revolt of Gamers | 5605 | [5605-hover-revolt-of-gamers.json](./5605-hover-revolt-of-gamers.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
