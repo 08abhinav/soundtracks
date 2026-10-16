@@ -435,6 +435,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/45/ec/b2/45ecb2b7-0b84-c405-f4bc-9dd38b6aeeb7/190374731669.jpg/600x600bb.jpg" width="60" /> | [Enter the Gungeon 2](https://ostdb.net/games/enter-the-gungeon-2) | **Enter the Gungeon (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/enter-the-gungeon-original-soundtrack/1113431896?uo=4) · [Album](https://album.link/i/1113431896) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365f4689f887a4604aa4d807c" width="60" /> | [Escape Academy](https://ostdb.net/games/escape-academy) | **Escape Academy (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6XpOifCJQ4pKvEU0cVnsut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bbaab578c03db3a447d67" width="60" /> | [Escape from Tarkov](https://ostdb.net/games/escape-from-tarkov) | **Escape from Tarkov. Raid. (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/7d0bvNhiS8nlDEZfYDTwTP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3d1263dfe8bb2f6eeb13e8e" width="60" /> | [Escape the Backrooms](https://ostdb.net/games/escape-the-backrooms) | **Escape the Backrooms (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1bGBOigJULqnxttezUvj5N) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/b7/81/30b78128-fc15-2fec-1bea-53f69f3ce36b/cover.jpg/600x600bb.jpg" width="60" /> | [Esoteric Ebb](https://ostdb.net/games/esoteric-ebb) | **Esoteric Ebb, Vol. 1 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/esoteric-ebb-vol-1-original-soundtrack/1882323085?uo=4) · [Album](https://album.link/i/1882323085) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ebc522899cd4d609eed4706" width="60" /> | [Eternal Return](https://ostdb.net/games/eternal-return) | **Eternal Return (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0jf03LHUqP5Yv8D4QDJFLQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c8a458f5067fcfa09b7ee27" width="60" /> | [Eternal Strands](https://ostdb.net/games/eternal-strands) | **Eternal Strands (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/6nij8OsV3RavWJSNeuaIq3) |
@@ -1535,4 +1536,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1852 soundtracks · last updated 2026-10-16T06:06:25.988Z_
+_1853 soundtracks · last updated 2026-10-16T06:06:39.190Z_
