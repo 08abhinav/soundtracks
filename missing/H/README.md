@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
+| HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart's Blight | 178918 | [178918-hearts-blight.json](./178918-hearts-blight.json) |
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
 | Heart's Medicine: Season One | 88660 | [88660-hearts-medicine-season-one.json](./88660-hearts-medicine-season-one.json) |
+| Heart's Medicine: Time to Heal | 32311 | [32311-hearts-medicine-time-to-heal.json](./32311-hearts-medicine-time-to-heal.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
@@ -4208,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Dark | 194999 | [194999-heroes-of-the-dark.json](./194999-heroes-of-the-dark.json) |
 | Heroes of the Earth: inVasion | 117559 | [117559-heroes-of-the-earth-invasion.json](./117559-heroes-of-the-earth-invasion.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
+| Heroes of the Monkey Tavern | 32360 | [32360-heroes-of-the-monkey-tavern.json](./32360-heroes-of-the-monkey-tavern.json) |
 | Heroes of the Multiverse | 175687 | [175687-heroes-of-the-multiverse.json](./175687-heroes-of-the-multiverse.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
