@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
 | Igor | 94894 | [94894-igor.json](./94894-igor.json) |
 | Igor Maks: The Meme Lord | 126905 | [126905-igor-maks-the-meme-lord.json](./126905-igor-maks-the-meme-lord.json) |
+| Igor: Objective Uikokahonia | 7652 | [7652-igor-objective-uikokahonia.json](./7652-igor-objective-uikokahonia.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX | 338690 | [338690-igpx.json](./338690-igpx.json) |
@@ -2104,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
 | Inazuma Eleven 3: Team Ogre Attacks! | 47674 | [47674-inazuma-eleven-3-team-ogre-attacks.json](./47674-inazuma-eleven-3-team-ogre-attacks.json) |
 | Inazuma Eleven GO Strikers 2013 | 22686 | [22686-inazuma-eleven-go-strikers-2013.json](./22686-inazuma-eleven-go-strikers-2013.json) |
+| Inazuma Eleven GO: Chrono Stones - Thunderflash | 23220 | [23220-inazuma-eleven-go-chrono-stones-thunderflash.json](./23220-inazuma-eleven-go-chrono-stones-thunderflash.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
