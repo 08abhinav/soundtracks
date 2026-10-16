@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandy | 388188 | [388188-sandy.json](./388188-sandy.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
+| Sandy and the "Jewelry" | 421815 | [421815-sandy-and-the-jewelry.json](./421815-sandy-and-the-jewelry.json) |
 | Sandy Beach | 85366 | [85366-sandy-beach.json](./85366-sandy-beach.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
 | Sasquatch Loves Soup | 179564 | [179564-sasquatch-loves-soup.json](./179564-sasquatch-loves-soup.json) |
+| Sassa'Shoom | 421812 | [421812-sassashoom.json](./421812-sassashoom.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
 | Sasuke Challenger | 175129 | [175129-sasuke-challenger.json](./175129-sasuke-challenger.json) |
@@ -3189,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
 | Secret Odyssey: Orb of Eternity | 291680 | [291680-secret-odyssey-orb-of-eternity.json](./291680-secret-odyssey-orb-of-eternity.json) |
+| Secret of Dawnstone | 421825 | [421825-secret-of-dawnstone.json](./421825-secret-of-dawnstone.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of Fantasy | 374203 | [374203-secret-of-fantasy.json](./374203-secret-of-fantasy.json) |
@@ -13263,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
+| Space | 421842 | [421842-space.json](./421842-space.json) |
 | Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
 | Space #2: The Gallery of Unfulfilled Dreams | 352762 | [352762-space-2-the-gallery-of-unfulfilled-dreams.json](./352762-space-2-the-gallery-of-unfulfilled-dreams.json) |
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
@@ -13619,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
 | Space Hulk: Tactics | 86269 | [86269-space-hulk-tactics.json](./86269-space-hulk-tactics.json) |
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
+| Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18075,6 +18080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
 | Stealer | 347728 | [347728-stealer.json](./347728-stealer.json) |
+| Stealin' Steve | 421820 | [421820-stealin-steve.json](./421820-stealin-steve.json) |
 | Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
 | Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
@@ -18396,6 +18402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade: Complete Edition | 346749 | [346749-stellar-blade-complete-edition.json](./346749-stellar-blade-complete-edition.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
+| Stellar Broadcast | 421850 | [421850-stellar-broadcast.json](./421850-stellar-broadcast.json) |
 | Stellar Cafe | 360777 | [360777-stellar-cafe.json](./360777-stellar-cafe.json) |
 | Stellar Checkpoint | 311593 | [311593-stellar-checkpoint.json](./311593-stellar-checkpoint.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
@@ -18923,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
 | Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
+| Stone of Adventure | 421827 | [421827-stone-of-adventure.json](./421827-stone-of-adventure.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
@@ -18938,6 +18946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneborn | 401028 | [401028-stoneborn.json](./401028-stoneborn.json) |
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
+| Stonecall | 421789 | [421789-stonecall.json](./421789-stonecall.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
@@ -21210,6 +21219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
+| Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
