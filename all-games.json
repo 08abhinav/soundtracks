@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:36:41.303Z",
-  "total_soundtracks": 1768,
+  "generated_at": "2026-10-16T05:41:02.111Z",
+  "total_soundtracks": 1769,
   "games": [
     {
       "igdb_id": 7522,
@@ -651,6 +651,20 @@
         {
           "album_name": "Age of Wonders 4: Ways of War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1h4y9lvHJ7GPWBoG8JqUsj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19453,
+      "game_name": "Agony",
+      "game_url": "https://ostdb.net/games/agony",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ee7590246270530d72476f42",
+      "albums": [
+        {
+          "album_name": "Agony (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/322KTHHaiM1VLqOxfSzQr6",
           "apple_music_url": "",
           "album_link_url": ""
         }
