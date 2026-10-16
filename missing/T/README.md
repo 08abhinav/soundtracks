@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
+| The Disney Afternoon Collection | 27791 | [27791-the-disney-afternoon-collection.json](./27791-the-disney-afternoon-collection.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Disney/Pixar Collection | 230424 | [230424-the-disney-pixar-collection.json](./230424-the-disney-pixar-collection.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
 | The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
+| The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
@@ -6380,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
+| The Falconeer: Revolution Remaster | 121709 | [121709-the-falconeer-revolution-remaster.json](./121709-the-falconeer-revolution-remaster.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
@@ -11559,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Refined Living Room Kit | 330395 | [330395-the-sims-4-refined-living-room-kit.json](./330395-the-sims-4-refined-living-room-kit.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
+| The Sims 4: Seasons | 102585 | [102585-the-sims-4-seasons.json](./102585-the-sims-4-seasons.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Secret Sanctuary Kit | 330392 | [330392-the-sims-4-secret-sanctuary-kit.json](./330392-the-sims-4-secret-sanctuary-kit.json) |
 | The Sims 4: Silver Screen Style Kit | 404223 | [404223-the-sims-4-silver-screen-style-kit.json](./404223-the-sims-4-silver-screen-style-kit.json) |
@@ -11890,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
+| The Stillness of the Wind | 96275 | [96275-the-stillness-of-the-wind.json](./96275-the-stillness-of-the-wind.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stomping Land | 6731 | [6731-the-stomping-land.json](./6731-the-stomping-land.json) |
@@ -13000,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution - Payback Edition | 229123 | [229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json](./229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json) |
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
+| The Walking Dead: Season One - Episode 2: Starved for Help | 114941 | [114941-the-walking-dead-season-one-episode-2-starved-for-help.json](./114941-the-walking-dead-season-one-episode-2-starved-for-help.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
 | The Walking Dead: Season One - Episode 5: No Time Left | 114944 | [114944-the-walking-dead-season-one-episode-5-no-time-left.json](./114944-the-walking-dead-season-one-episode-5-no-time-left.json) |
@@ -21827,6 +21833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
+| Tropico 2: Pirate Cove | 3323 | [3323-tropico-2-pirate-cove.json](./3323-tropico-2-pirate-cove.json) |
 | Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
@@ -22244,6 +22251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki's Odyssey | 192101 | [192101-tsukis-odyssey.json](./192101-tsukis-odyssey.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
+| Tsukihime | 63998 | [63998-tsukihime.json](./63998-tsukihime.json) |
 | Tsukihime Plus-Disc | 144565 | [144565-tsukihime-plus-disc.json](./144565-tsukihime-plus-disc.json) |
 | Tsukihime Typing Online | 255840 | [255840-tsukihime-typing-online.json](./255840-tsukihime-typing-online.json) |
 | Tsukihime: A Piece of Blue Glass Moon | 142105 | [142105-tsukihime-a-piece-of-blue-glass-moon.json](./142105-tsukihime-a-piece-of-blue-glass-moon.json) |
