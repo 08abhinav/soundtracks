@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
+| Calico | 122345 | [122345-calico.json](./122345-calico.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
@@ -2418,11 +2419,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
+| Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania III: Dracula's Curse | 1119 | [1119-castlevania-iii-draculas-curse.json](./1119-castlevania-iii-draculas-curse.json) |
 | Castlevania III: Dracula's Curse 2020 | 342089 | [342089-castlevania-iii-draculas-curse-2020.json](./342089-castlevania-iii-draculas-curse-2020.json) |
+| Castlevania Judgment | 1142 | [1142-castlevania-judgment.json](./1142-castlevania-judgment.json) |
 | Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania Puzzle: Encore of the Night | 1148 | [1148-castlevania-puzzle-encore-of-the-night.json](./1148-castlevania-puzzle-encore-of-the-night.json) |
 | Castlevania Requiem: Symphony of the Night & Rondo of Blood | 109594 | [109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json](./109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json) |
