@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Revolution | 20153 | [20153-call-of-duty-black-ops-ii-revolution.json](./20153-call-of-duty-black-ops-ii-revolution.json) |
 | Call of Duty: Black Ops II - Uprising | 20154 | [20154-call-of-duty-black-ops-ii-uprising.json](./20154-call-of-duty-black-ops-ii-uprising.json) |
 | Call of Duty: Black Ops II - Vengeance | 20854 | [20854-call-of-duty-black-ops-ii-vengeance.json](./20854-call-of-duty-black-ops-ii-vengeance.json) |
+| Call of Duty: Black Ops III | 136212 | [136212-call-of-duty-black-ops-iii.json](./136212-call-of-duty-black-ops-iii.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Descent | 20292 | [20292-call-of-duty-black-ops-iii-descent.json](./20292-call-of-duty-black-ops-iii-descent.json) |
 | Call of Duty: Black Ops III - Digital Deluxe Edition | 30717 | [30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json](./30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania | 322139 | [322139-castlevania.json](./322139-castlevania.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
+| Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
@@ -6984,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
 | Clock Smith | 233539 | [233539-clock-smith.json](./233539-clock-smith.json) |
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
+| Clock Tower | 18718 | [18718-clock-tower.json](./18718-clock-tower.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
@@ -12936,6 +12939,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
+| Cube Escape: Birthday | 75129 | [75129-cube-escape-birthday.json](./75129-cube-escape-birthday.json) |
+| Cube Escape: Case 23 | 75127 | [75127-cube-escape-case-23.json](./75127-cube-escape-case-23.json) |
+| Cube Escape: Harvey's Box | 75126 | [75126-cube-escape-harveys-box.json](./75126-cube-escape-harveys-box.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
 | Cube Escape: The Lake | 75124 | [75124-cube-escape-the-lake.json](./75124-cube-escape-the-lake.json) |
