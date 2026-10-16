@@ -3710,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
+| Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
@@ -5652,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
+| Amber's Magic Shop | 36817 | [36817-ambers-magic-shop.json](./36817-ambers-magic-shop.json) |
 | Amber's Tale | 247948 | [247948-ambers-tale.json](./247948-ambers-tale.json) |
 | Amber's Tales: The Isle of Dead Ships | 58024 | [58024-ambers-tales-the-isle-of-dead-ships.json](./58024-ambers-tales-the-isle-of-dead-ships.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
@@ -7770,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
 | Ape Squad | 271677 | [271677-ape-squad.json](./271677-ape-squad.json) |
 | Ape vs. Caveman | 223636 | [223636-ape-vs-caveman.json](./223636-ape-vs-caveman.json) |
+| Ape-X | 36771 | [36771-ape-x.json](./36771-ape-x.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
@@ -9428,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArkX | 80170 | [80170-arkx.json](./80170-arkx.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
+| Arlandria | 36830 | [36830-arlandria.json](./36830-arlandria.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
