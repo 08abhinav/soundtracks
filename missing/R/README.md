@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
+| RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayless | 29655 | [29655-rayless.json](./29655-rayless.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
 | Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
+| Rayman | 193321 | [193321-rayman.json](./193321-rayman.json) |
 | Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
 | Rayman | 193324 | [193324-rayman.json](./193324-rayman.json) |
 | Rayman | 1963 | [1963-rayman.json](./1963-rayman.json) |
