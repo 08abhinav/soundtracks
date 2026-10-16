@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3DO Interactive Sampler 3 | 38822 | [38822-3do-interactive-sampler-3.json](./38822-3do-interactive-sampler-3.json) |
+| 3DRPG | 33819 | [33819-3drpg.json](./33819-3drpg.json) |
 | 3DSCraft | 253796 | [253796-3dscraft.json](./253796-3dscraft.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
 | 8-Bit Adventures: The Forgotten Journey | 139719 | [139719-8-bit-adventures-the-forgotten-journey.json](./139719-8-bit-adventures-the-forgotten-journey.json) |
+| 8-Bit Adventures: The Forgotten Journey - Remastered Edition | 35235 | [35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json](./35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json) |
 | 8-Bit Arena VR | 30627 | [30627-8-bit-arena-vr.json](./30627-8-bit-arena-vr.json) |
 | 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
