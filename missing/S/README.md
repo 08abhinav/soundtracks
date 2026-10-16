@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
 | Sakura Sakura: Haru Urara | 269524 | [269524-sakura-sakura-haru-urara.json](./269524-sakura-sakura-haru-urara.json) |
 | Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
+| Sakura Samurai: Art of the Sword | 20811 | [20811-sakura-samurai-art-of-the-sword.json](./20811-sakura-samurai-art-of-the-sword.json) |
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
@@ -3238,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
 | Secrets of Merveille Castle | 309967 | [309967-secrets-of-merveille-castle.json](./309967-secrets-of-merveille-castle.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
+| Secrets of Rætikon | 8276 | [8276-secrets-of-r-tikon.json](./8276-secrets-of-r-tikon.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
@@ -10445,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Nazi Zombie Army | 7637 | [7637-sniper-elite-nazi-zombie-army.json](./7637-sniper-elite-nazi-zombie-army.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
+| Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
 | Sniper Ghost Warrior 3: Season Pass Edition | 82416 | [82416-sniper-ghost-warrior-3-season-pass-edition.json](./82416-sniper-ghost-warrior-3-season-pass-edition.json) |
 | Sniper Ghost Warrior Contracts | 107155 | [107155-sniper-ghost-warrior-contracts.json](./107155-sniper-ghost-warrior-contracts.json) |
@@ -13539,6 +13542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
+| Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
@@ -22527,6 +22531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Galaxy: Warp Ball DLC Pack | 163567 | [163567-super-puzzle-galaxy-warp-ball-dlc-pack.json](./163567-super-puzzle-galaxy-warp-ball-dlc-pack.json) |
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
+| Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
