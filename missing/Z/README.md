@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
+| Zombie Driver HD | 9051 | [9051-zombie-driver-hd.json](./9051-zombie-driver-hd.json) |
 | Zombie Driver HD: Burning Garden of Slaughter | 156206 | [156206-zombie-driver-hd-burning-garden-of-slaughter.json](./156206-zombie-driver-hd-burning-garden-of-slaughter.json) |
 | Zombie Driver: Immortal Edition | 120268 | [120268-zombie-driver-immortal-edition.json](./120268-zombie-driver-immortal-edition.json) |
 | Zombie Driver: Ultimate Edition | 20229 | [20229-zombie-driver-ultimate-edition.json](./20229-zombie-driver-ultimate-edition.json) |
