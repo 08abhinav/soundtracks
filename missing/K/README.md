@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles' Week At Sonic's | 400429 | [400429-knuckles-week-at-sonics.json](./400429-knuckles-week-at-sonics.json) |
 | Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
 | Knyaz' Vladimir | 306566 | [306566-knyaz-vladimir.json](./306566-knyaz-vladimir.json) |
+| Knytt | 95356 | [95356-knytt.json](./95356-knytt.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
