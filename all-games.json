@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:42:58.971Z",
-  "total_soundtracks": 1778,
+  "generated_at": "2026-10-16T05:43:12.108Z",
+  "total_soundtracks": 1779,
   "games": [
     {
       "igdb_id": 7522,
@@ -14295,6 +14295,20 @@
           "spotify_url": "https://open.spotify.com/album/4oDKarFLFHmhtrOkrxM2CV",
           "apple_music_url": "https://music.apple.com/us/album/red-faction-guerrilla-original-soundtrack/1725361977",
           "album_link_url": "https://album.link/i/1725361977"
+        }
+      ]
+    },
+    {
+      "igdb_id": 2258,
+      "game_name": "Red Steel",
+      "game_url": "https://ostdb.net/games/red-steel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319ebe7b6d5c66e5ca6de5fe2",
+      "albums": [
+        {
+          "album_name": "Red Steel (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6K7ySeY3D4VQ09fv1Fo1Rc",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
