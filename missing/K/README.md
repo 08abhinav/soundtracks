@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
+| Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
