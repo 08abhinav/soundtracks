@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor III: Rearmament | 370716 | [370716-killing-floor-iii-rearmament.json](./370716-killing-floor-iii-rearmament.json) |
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
+| Killing Floor: Incursion | 19544 | [19544-killing-floor-incursion.json](./19544-killing-floor-incursion.json) |
 | Killing Floor: PostMortem Character Pack | 161759 | [161759-killing-floor-postmortem-character-pack.json](./161759-killing-floor-postmortem-character-pack.json) |
 | Killing Floor: Steampunk Character Pack | 162709 | [162709-killing-floor-steampunk-character-pack.json](./162709-killing-floor-steampunk-character-pack.json) |
 | Killing Floor: Steampunk Character Pack 2 | 162711 | [162711-killing-floor-steampunk-character-pack-2.json](./162711-killing-floor-steampunk-character-pack-2.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
 | King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
+| King's Knight | 41723 | [41723-kings-knight.json](./41723-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
@@ -3434,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
+| Koi | 20035 | [20035-koi.json](./20035-koi.json) |
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
