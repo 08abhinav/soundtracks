@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
+| Balthazar's Dream | 26240 | [26240-balthazars-dream.json](./26240-balthazars-dream.json) |
 | Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
 | Battle Frogs | 63198 | [63198-battle-frogs.json](./63198-battle-frogs.json) |
 | Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
+| Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
 | Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
@@ -7008,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Spot | 343775 | [343775-blind-spot.json](./343775-blind-spot.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
+| Blind Trust | 32672 | [32672-blind-trust.json](./32672-blind-trust.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
