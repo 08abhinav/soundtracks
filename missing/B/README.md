@@ -2960,7 +2960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
 | Battlefield 3: Limited Edition | 41891 | [41891-battlefield-3-limited-edition.json](./41891-battlefield-3-limited-edition.json) |
-| Battlefield 3: Premium Edition | 41888 | [41888-battlefield-3-premium-edition.json](./41888-battlefield-3-premium-edition.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
 | Battlefield 4: Final Stand | 3096 | [3096-battlefield-4-final-stand.json](./3096-battlefield-4-final-stand.json) |
@@ -3408,7 +3407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beacon of Hope | 346661 | [346661-beacon-of-hope.json](./346661-beacon-of-hope.json) |
 | Beacon of the Bellrock | 283981 | [283981-beacon-of-the-bellrock.json](./283981-beacon-of-the-bellrock.json) |
 | Beacon Patrol | 245848 | [245848-beacon-patrol.json](./245848-beacon-patrol.json) |
-| Beacon Pines | 143113 | [143113-beacon-pines.json](./143113-beacon-pines.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
 | Beacon's Bluff | 240796 | [240796-beacons-bluff.json](./240796-beacons-bluff.json) |
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
@@ -4156,7 +4154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
-| Behind the Frame: The Finest Scenery | 148499 | [148499-behind-the-frame-the-finest-scenery.json](./148499-behind-the-frame-the-finest-scenery.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
 | Behind the Frame: The Finest Scenery VR | 244666 | [244666-behind-the-frame-the-finest-scenery-vr.json](./244666-behind-the-frame-the-finest-scenery-vr.json) |
 | Behind the Horizon | 164588 | [164588-behind-the-horizon.json](./164588-behind-the-horizon.json) |
@@ -4749,7 +4746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
-| Beyond a Steel Sky | 116634 | [116634-beyond-a-steel-sky.json](./116634-beyond-a-steel-sky.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond a Total Loss | 117563 | [117563-beyond-a-total-loss.json](./117563-beyond-a-total-loss.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
@@ -6600,7 +6596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of the Righteous | 34026 | [34026-blades-of-the-righteous.json](./34026-blades-of-the-righteous.json) |
 | Blades of the Three Kingdoms: Return | 172544 | [172544-blades-of-the-three-kingdoms-return.json](./172544-blades-of-the-three-kingdoms-return.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
-| Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Dismal Swamp | 170418 | [170418-blades-of-time-dismal-swamp.json](./170418-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
@@ -7793,7 +7788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
-| Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
