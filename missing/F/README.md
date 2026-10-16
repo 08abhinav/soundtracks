@@ -6276,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
+| Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
 | Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
@@ -8013,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
+| Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
