@@ -7586,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
+| MidBoss | 30360 | [30360-midboss.json](./30360-midboss.json) |
 | Middens | 55004 | [55004-middens.json](./55004-middens.json) |
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
@@ -8745,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
+| Mini Ghost | 29623 | [29623-mini-ghost.json](./29623-mini-ghost.json) |
 | Mini Gold Coop | 98365 | [98365-mini-gold-coop.json](./98365-mini-gold-coop.json) |
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
