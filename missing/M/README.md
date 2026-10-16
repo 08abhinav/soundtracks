@@ -5714,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen | 416602 | [416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json](./416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen | 416603 | [416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json](./416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
+| Megatect | 35256 | [35256-megatect.json](./35256-megatect.json) |
 | Megaton | 322080 | [322080-megaton.json](./322080-megaton.json) |
 | Megaton Musashi W: Fashionable Pack Vol. 1 | 300939 | [300939-megaton-musashi-w-fashionable-pack-vol-1.json](./300939-megaton-musashi-w-fashionable-pack-vol-1.json) |
 | Megaton Musashi W: Fashionable Pack Vol. 2 | 300940 | [300940-megaton-musashi-w-fashionable-pack-vol-2.json](./300940-megaton-musashi-w-fashionable-pack-vol-2.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
+| Midnight's Blessing | 35245 | [35245-midnights-blessing.json](./35245-midnights-blessing.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
@@ -11283,6 +11285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
 | Monstro Giganto | 263375 | [263375-monstro-giganto.json](./263375-monstro-giganto.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
+| Monstro: Battle Tactics | 35259 | [35259-monstro-battle-tactics.json](./35259-monstro-battle-tactics.json) |
 | Monstrocity | 179554 | [179554-monstrocity.json](./179554-monstrocity.json) |
 | MonstroCity: Rampage! | 56395 | [56395-monstrocity-rampage.json](./56395-monstrocity-rampage.json) |
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
