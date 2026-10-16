@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
+| Rambo III | 18145 | [18145-rambo-iii.json](./18145-rambo-iii.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
@@ -1980,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
+| Real Boxing | 9415 | [9415-real-boxing.json](./9415-real-boxing.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Black Knight | 290115 | [290115-reign-of-guilds-black-knight.json](./290115-reign-of-guilds-black-knight.json) |
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
+| Reign of Kings | 9599 | [9599-reign-of-kings.json](./9599-reign-of-kings.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
@@ -4354,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunited | 108910 | [108910-reunited.json](./108910-reunited.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
 | Reunition | 89208 | [89208-reunition.json](./89208-reunition.json) |
+| Reus 2 | 250829 | [250829-reus-2.json](./250829-reus-2.json) |
 | Reus 2: Everglades | 355144 | [355144-reus-2-everglades.json](./355144-reus-2-everglades.json) |
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
@@ -4975,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: Ultimate 2020 | 159670 | [159670-ride-4-ultimate-2020.json](./159670-ride-4-ultimate-2020.json) |
 | Ride 4: USA Tribute Pack | 159664 | [159664-ride-4-usa-tribute-pack.json](./159664-ride-4-usa-tribute-pack.json) |
 | Ride 4: Valencia Pack | 159656 | [159656-ride-4-valencia-pack.json](./159656-ride-4-valencia-pack.json) |
+| Ride 5 | 245715 | [245715-ride-5.json](./245715-ride-5.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
 | Ride 5: Day One Edition | 270323 | [270323-ride-5-day-one-edition.json](./270323-ride-5-day-one-edition.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
@@ -5313,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Riot Soccer | 182157 | [182157-riot-soccer.json](./182157-riot-soccer.json) |
 | Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
+| Riot: Civil Unrest | 19934 | [19934-riot-civil-unrest.json](./19934-riot-civil-unrest.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
