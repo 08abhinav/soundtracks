@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xobox | 110934 | [110934-xobox.json](./110934-xobox.json) |
 | Xochi's Apothecary | 253486 | [253486-xochis-apothecary.json](./253486-xochis-apothecary.json) |
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
+| Xolitaire | 91246 | [91246-xolitaire.json](./91246-xolitaire.json) |
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xolt | 18085 | [18085-xolt.json](./18085-xolt.json) |
