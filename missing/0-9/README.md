@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
 | 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
 | 60 Seconds! | 11709 | [11709-60-seconds.json](./11709-60-seconds.json) |
+| 60 Seconds! Reatomized | 120560 | [120560-60-seconds-reatomized.json](./120560-60-seconds-reatomized.json) |
 | 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 60 Tons | 58671 | [58671-60-tons.json](./58671-60-tons.json) |
 | 60-in-1 Game Collection | 195520 | [195520-60-in-1-game-collection.json](./195520-60-in-1-game-collection.json) |
