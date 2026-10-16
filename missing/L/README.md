@@ -4943,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
+| Lone Echo II | 117277 | [117277-lone-echo-ii.json](./117277-lone-echo-ii.json) |
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
