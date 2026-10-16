@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
+| Battlestar Galactica | 5744 | [5744-battlestar-galactica.json](./5744-battlestar-galactica.json) |
 | Battlestar Galactica | 80427 | [80427-battlestar-galactica.json](./80427-battlestar-galactica.json) |
 | Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
@@ -6873,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
+| Bleach GC: Tasogare ni Mamieru Shinigami | 3820 | [3820-bleach-gc-tasogare-ni-mamieru-shinigami.json](./3820-bleach-gc-tasogare-ni-mamieru-shinigami.json) |
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
 | Bleach Online | 23623 | [23623-bleach-online.json](./23623-bleach-online.json) |
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
@@ -7045,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky Bill's Ghost Cave | 306723 | [306723-blinky-bills-ghost-cave.json](./306723-blinky-bills-ghost-cave.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
+| Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
@@ -7539,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
 | Blood Day | 180080 | [180080-blood-day.json](./180080-blood-day.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
+| Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
@@ -10101,12 +10105,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
+| Bratz: Forever Diamondz | 3835 | [3835-bratz-forever-diamondz.json](./3835-bratz-forever-diamondz.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
 | Brave | 36312 | [36312-brave.json](./36312-brave.json) |
+| Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
