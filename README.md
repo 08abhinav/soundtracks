@@ -1109,6 +1109,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2736360d8a5f211b86f7caf832a" width="60" /> | [Shantae and the Seven Sirens](https://ostdb.net/games/shantae-and-the-seven-sirens) | **Shantae and the Seven Sirens (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2mwCmhrwmzayrQ4M2ilXql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fd98f61f299408136d76b18" width="60" /> | [Sheepy: A Short Adventure](https://ostdb.net/games/sheepy-a-short-adventure) | **Sheepy: A Short Adventure (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2YuUHRiH13qY2ZcFdbYkbp) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/1b/5f/9e1b5f78-8fd2-a745-ab45-9cc3eb393e15/3663729143570_cover.jpg/1000x1000bb.jpg" width="60" /> | [Shenmue III](https://ostdb.net/games/shenmue-iii) | **Shenmue III The Definitive Soundtrack** · [Apple Music](https://music.apple.com/us/album/shenmue-iii-the-definitive-soundtrack/1547575397?uo=4) · [Album](https://album.link/i/1547575397) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf4491c39ee263a3a9e0e2c1" width="60" /> | [Sherlock Holmes: Chapter One](https://ostdb.net/games/sherlock-holmes-chapter-one) | **Sherlock Holmes: Chapter One (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2TGq2ItYAsrxuxvAlJPzK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273312418d9f30b6f559dd1b70e" width="60" /> | [Sherlock Holmes: The Awakened](https://ostdb.net/games/sherlock-holmes-the-awakened) | **Sherlock Holmes the Awakened (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5eIXer3q13ChddjYnC9RPF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273069cf7cc78b0f37b895c96b5" width="60" /> | [Shin Megami Tensei](https://ostdb.net/games/shin-megami-tensei) | **Shin Megami Tensei Original Soundtrack (Super Famicom version)** · [Spotify](https://open.spotify.com/album/1zwRAaq0ZJBM4OcTZfvU4i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737582b1edfeac005f53f1a49d" width="60" /> | [Shin Megami Tensei V: Vengeance](https://ostdb.net/games/shin-megami-tensei-v-vengeance) | **Shin Megami Tensei V: Vengeance Original Soundtrack** · [Spotify](https://open.spotify.com/album/1zO2V5WtzAHLulAiRUoUcS) |
@@ -1538,4 +1539,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1855 soundtracks · last updated 2026-10-16T06:07:07.095Z_
+_1856 soundtracks · last updated 2026-10-16T06:07:21.876Z_
