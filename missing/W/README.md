@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
 | Warhammer Online: Age of Reckoning | 215 | [215-warhammer-online-age-of-reckoning.json](./215-warhammer-online-age-of-reckoning.json) |
 | Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
+| Warhammer Quest | 8480 | [8480-warhammer-quest.json](./8480-warhammer-quest.json) |
 | Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
