@@ -6698,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines II | 4690 | [4690-lumines-ii.json](./4690-lumines-ii.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
+| Lumines Supernova | 4692 | [4692-lumines-supernova.json](./4692-lumines-supernova.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
