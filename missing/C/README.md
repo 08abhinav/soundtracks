@@ -10101,6 +10101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
 | Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
+| Corpse of Discovery | 11490 | [11490-corpse-of-discovery.json](./11490-corpse-of-discovery.json) |
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party | 21843 | [21843-corpse-party.json](./21843-corpse-party.json) |
