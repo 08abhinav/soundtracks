@@ -5874,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
 | Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
+| Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
@@ -8392,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
 | Dominoir | 396033 | [396033-dominoir.json](./396033-dominoir.json) |
+| Dominongo | 417318 | [417318-dominongo.json](./417318-dominongo.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
@@ -9913,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
+| Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
