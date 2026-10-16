@@ -13963,6 +13963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
+| Cyberdimension Neptunia: 4 Goddesses Online | 26402 | [26402-cyberdimension-neptunia-4-goddesses-online.json](./26402-cyberdimension-neptunia-4-goddesses-online.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdog 2050 | 401604 | [401604-cyberdog-2050.json](./401604-cyberdog-2050.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
