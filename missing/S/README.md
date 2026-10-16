@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
 | Sammy Jukes: Twin Lakes | 313767 | [313767-sammy-jukes-twin-lakes.json](./313767-sammy-jukes-twin-lakes.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
+| Sammy Sosa High Heat Baseball 2001 | 855 | [855-sammy-sosa-high-heat-baseball-2001.json](./855-sammy-sosa-high-heat-baseball-2001.json) |
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
 | Sammy Suricate | 61427 | [61427-sammy-suricate.json](./61427-sammy-suricate.json) |
 | Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
 | Sector Assault | 128938 | [128938-sector-assault.json](./128938-sector-assault.json) |
 | Sector Beam | 327438 | [327438-sector-beam.json](./327438-sector-beam.json) |
+| Sector Force | 350466 | [350466-sector-force.json](./350466-sector-force.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
@@ -4033,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam Advance | 6587 | [6587-serious-sam-advance.json](./6587-serious-sam-advance.json) |
+| Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
 | Serious Sam HD: The First Encounter | 13180 | [13180-serious-sam-hd-the-first-encounter.json](./13180-serious-sam-hd-the-first-encounter.json) |
@@ -7506,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Seahorse The Animated Adventure Game | 275714 | [275714-simon-the-seahorse-the-animated-adventure-game.json](./275714-simon-the-seahorse-the-animated-adventure-game.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
+| Simon the Sorcerer 3D | 461 | [461-simon-the-sorcerer-3d.json](./461-simon-the-sorcerer-3d.json) |
 | Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
@@ -16930,6 +16934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
+| Star Wars Galaxies: Jump to Lightspeed | 147 | [147-star-wars-galaxies-jump-to-lightspeed.json](./147-star-wars-galaxies-jump-to-lightspeed.json) |
 | Star Wars Galaxies: Rage of the Wookiees | 146 | [146-star-wars-galaxies-rage-of-the-wookiees.json](./146-star-wars-galaxies-rage-of-the-wookiees.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Galaxies: Trials of Obi-Wan | 206 | [206-star-wars-galaxies-trials-of-obi-wan.json](./206-star-wars-galaxies-trials-of-obi-wan.json) |
@@ -19322,6 +19327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
+| Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
 | Street Fighter 6: Additional Character - Alex | 347693 | [347693-street-fighter-6-additional-character-alex.json](./347693-street-fighter-6-additional-character-alex.json) |
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
@@ -19523,6 +19529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
+| Streets of Rage | 203317 | [203317-streets-of-rage.json](./203317-streets-of-rage.json) |
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
