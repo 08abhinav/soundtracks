@@ -6522,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
+| Mermaid Secrets12 - Heartbreak Love Story | 100838 | [100838-mermaid-secrets12-heartbreak-love-story.json](./100838-mermaid-secrets12-heartbreak-love-story.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
@@ -6913,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
+| Meteor Command VR | 100827 | [100827-meteor-command-vr.json](./100827-meteor-command-vr.json) |
 | Meteor Crush VR | 31901 | [31901-meteor-crush-vr.json](./31901-meteor-crush-vr.json) |
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
