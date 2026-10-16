@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
 | Randal's House | 308467 | [308467-randals-house.json](./308467-randals-house.json) |
+| Randal's Monday | 8783 | [8783-randals-monday.json](./8783-randals-monday.json) |
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
 | Rayman Arena | 193351 | [193351-rayman-arena.json](./193351-rayman-arena.json) |
+| Rayman Arena | 78173 | [78173-rayman-arena.json](./78173-rayman-arena.json) |
 | Rayman Arena Definitive Edition | 229622 | [229622-rayman-arena-definitive-edition.json](./229622-rayman-arena-definitive-edition.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Classic | 193319 | [193319-rayman-classic.json](./193319-rayman-classic.json) |
