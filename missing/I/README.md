@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven 2: Blizzard | 47716 | [47716-inazuma-eleven-2-blizzard.json](./47716-inazuma-eleven-2-blizzard.json) |
 | Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
+| Inazuma Eleven 3: Team Ogre Attacks! | 47674 | [47674-inazuma-eleven-3-team-ogre-attacks.json](./47674-inazuma-eleven-3-team-ogre-attacks.json) |
 | Inazuma Eleven GO Strikers 2013 | 22686 | [22686-inazuma-eleven-go-strikers-2013.json](./22686-inazuma-eleven-go-strikers-2013.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflation Bay | 274139 | [274139-inflation-bay.json](./274139-inflation-bay.json) |
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
+| Infliction | 55282 | [55282-infliction.json](./55282-infliction.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influence | 25482 | [25482-influence.json](./25482-influence.json) |
