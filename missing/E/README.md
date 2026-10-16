@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
+| Earthfall: Alien Horde | 122651 | [122651-earthfall-alien-horde.json](./122651-earthfall-alien-horde.json) |
 | Earthfall: Deluxe Edition | 136297 | [136297-earthfall-deluxe-edition.json](./136297-earthfall-deluxe-edition.json) |
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
 | EarthGang: Mirrorland | 234503 | [234503-earthgang-mirrorland.json](./234503-earthgang-mirrorland.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
+| Errant Kingdom | 122842 | [122842-errant-kingdom.json](./122842-errant-kingdom.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
