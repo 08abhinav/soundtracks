@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2005 | 243179 | [243179-madden-nfl-2005.json](./243179-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243180 | [243180-madden-nfl-2005.json](./243180-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
+| Madden NFL 2005 | 778 | [778-madden-nfl-2005.json](./778-madden-nfl-2005.json) |
 | Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
 | Madden NFL 21 Mobile | 243662 | [243662-madden-nfl-21-mobile.json](./243662-madden-nfl-21-mobile.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
+| MechWarrior 2: 31st Century Combat | 784 | [784-mechwarrior-2-31st-century-combat.json](./784-mechwarrior-2-31st-century-combat.json) |
 | MechWarrior 2: Arcade Combat Edition | 19992 | [19992-mechwarrior-2-arcade-combat-edition.json](./19992-mechwarrior-2-arcade-combat-edition.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: Mercenaries | 785 | [785-mechwarrior-2-mercenaries.json](./785-mechwarrior-2-mercenaries.json) |
@@ -4755,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Black Knight | 19183 | [19183-mechwarrior-4-black-knight.json](./19183-mechwarrior-4-black-knight.json) |
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
+| MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
@@ -5225,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 5: Patch Card - Whirly | 351838 | [351838-mega-man-battle-network-5-patch-card-whirly.json](./351838-mega-man-battle-network-5-patch-card-whirly.json) |
 | Mega Man Battle Network 5: Patch Card - Yort | 351822 | [351822-mega-man-battle-network-5-patch-card-yort.json](./351822-mega-man-battle-network-5-patch-card-yort.json) |
 | Mega Man Battle Network 5: Patch Card - Zomon | 351835 | [351835-mega-man-battle-network-5-patch-card-zomon.json](./351835-mega-man-battle-network-5-patch-card-zomon.json) |
+| Mega Man Battle Network 5: Team Colonel | 1762 | [1762-mega-man-battle-network-5-team-colonel.json](./1762-mega-man-battle-network-5-team-colonel.json) |
 | Mega Man Battle Network 5: Team Colonel | 352332 | [352332-mega-man-battle-network-5-team-colonel.json](./352332-mega-man-battle-network-5-team-colonel.json) |
 | Mega Man Battle Network 5: Team Colonel | 352869 | [352869-mega-man-battle-network-5-team-colonel.json](./352869-mega-man-battle-network-5-team-colonel.json) |
 | Mega Man Battle Network 5: Team Protoman | 352333 | [352333-mega-man-battle-network-5-team-protoman.json](./352333-mega-man-battle-network-5-team-protoman.json) |
@@ -5424,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
+| Mega Man: The Wily Wars | 1727 | [1727-mega-man-the-wily-wars.json](./1727-mega-man-the-wily-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
 | Mega Man: Wily Tower | 255798 | [255798-mega-man-wily-tower.json](./255798-mega-man-wily-tower.json) |
 | Mega Marble World | 141106 | [141106-mega-marble-world.json](./141106-mega-marble-world.json) |
@@ -6150,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
+| Men of War: Assault Squad | 1144 | [1144-men-of-war-assault-squad.json](./1144-men-of-war-assault-squad.json) |
 | Men of War: Assault Squad 2 | 5572 | [5572-men-of-war-assault-squad-2.json](./5572-men-of-war-assault-squad-2.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Cold War | 121565 | [121565-men-of-war-assault-squad-2-cold-war.json](./121565-men-of-war-assault-squad-2-cold-war.json) |
@@ -6958,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
+| Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
