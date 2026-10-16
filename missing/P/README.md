@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
+| Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
@@ -7621,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
 | Pokémon Café Mix | 135233 | [135233-pokemon-cafe-mix.json](./135233-pokemon-cafe-mix.json) |
+| Pokémon Café ReMix | 178359 | [178359-pokemon-cafe-remix.json](./178359-pokemon-cafe-remix.json) |
 | Pokémon Card Game: Asobikata DS | 131316 | [131316-pokemon-card-game-asobikata-ds.json](./131316-pokemon-card-game-asobikata-ds.json) |
 | Pokémon Card GB2: Great Rocket-Dan Sanjou! | 11720 | [11720-pokemon-card-gb2-great-rocket-dan-sanjou.json](./11720-pokemon-card-gb2-great-rocket-dan-sanjou.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
@@ -8163,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position 2010 | 158942 | [158942-pole-position-2010.json](./158942-pole-position-2010.json) |
 | Pole Position 2012 | 10708 | [10708-pole-position-2012.json](./10708-pole-position-2012.json) |
+| Pole Position II | 12337 | [12337-pole-position-ii.json](./12337-pole-position-ii.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Position: Remix | 21875 | [21875-pole-position-remix.json](./21875-pole-position-remix.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
