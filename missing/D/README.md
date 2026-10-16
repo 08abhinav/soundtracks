@@ -5926,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
 | Dicey Krime: Traveler of Time | 155850 | [155850-dicey-krime-traveler-of-time.json](./155850-dicey-krime-traveler-of-time.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
+| DiceyTable | 422531 | [422531-diceytable.json](./422531-diceytable.json) |
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
 | Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiveReal | 103235 | [103235-divereal.json](./103235-divereal.json) |
 | Divergence | 262279 | [262279-divergence.json](./262279-divergence.json) |
 | Divergence | 276673 | [276673-divergence.json](./276673-divergence.json) |
+| Divergence: Fracture | 422530 | [422530-divergence-fracture.json](./422530-divergence-fracture.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Divergent Shift | 85095 | [85095-divergent-shift.json](./85095-divergent-shift.json) |
