@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edo Bunka Rekishi Kentei | 123308 | [123308-edo-bunka-rekishi-kentei.json](./123308-edo-bunka-rekishi-kentei.json) |
 | Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
+| Edogawa Ranpo no Kaijin Nijuu Mensou DS | 421197 | [421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json](./421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
+| Embercast | 421231 | [421231-embercast.json](./421231-embercast.json) |
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
 | Erica | 75240 | [75240-erica.json](./75240-erica.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
+| Eridle. | 421180 | [421180-eridle.json](./421180-eridle.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
