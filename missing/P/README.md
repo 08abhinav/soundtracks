@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
+| Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
+| Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
@@ -9572,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
+| PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
