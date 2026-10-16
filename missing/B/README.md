@@ -5668,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
+| Bionic Battle Mutants | 74990 | [74990-bionic-battle-mutants.json](./74990-bionic-battle-mutants.json) |
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 54535 | [54535-bionic-commando.json](./54535-bionic-commando.json) |
