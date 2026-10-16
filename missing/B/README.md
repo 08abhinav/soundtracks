@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
+| Battle Worlds: Kronos | 7206 | [7206-battle-worlds-kronos.json](./7206-battle-worlds-kronos.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
 | Battle x Battle: Kyoudai Uo Densetsu | 49486 | [49486-battle-x-battle-kyoudai-uo-densetsu.json](./49486-battle-x-battle-kyoudai-uo-densetsu.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
+| Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
 | Beatstar: Beatstar Originals - "Housetop Jingle" | 358785 | [358785-beatstar-beatstar-originals-housetop-jingle.json](./358785-beatstar-beatstar-originals-housetop-jingle.json) |
 | Beatstar: Beatstar Originals - "Level Up!" | 358793 | [358793-beatstar-beatstar-originals-level-up.json](./358793-beatstar-beatstar-originals-level-up.json) |
 | Beatstar: Beatstar Originals - "Persistence" | 358800 | [358800-beatstar-beatstar-originals-persistence.json](./358800-beatstar-beatstar-originals-persistence.json) |
@@ -8775,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
 | Boneman's Buttons | 181627 | [181627-bonemans-buttons.json](./181627-bonemans-buttons.json) |
 | Boner | 25557 | [25557-boner.json](./25557-boner.json) |
+| Boneraiser Minions | 197011 | [197011-boneraiser-minions.json](./197011-boneraiser-minions.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
@@ -10448,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Poetry | 135611 | [135611-breakout-poetry.json](./135611-breakout-poetry.json) |
 | Breakout VR | 166803 | [166803-breakout-vr.json](./166803-breakout-vr.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
+| Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
@@ -10724,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
+| Bright Lights of Svetlov | 170273 | [170273-bright-lights-of-svetlov.json](./170273-bright-lights-of-svetlov.json) |
 | Bright low | 77164 | [77164-bright-low.json](./77164-bright-low.json) |
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
 | Bright Memory Mobile | 174688 | [174688-bright-memory-mobile.json](./174688-bright-memory-mobile.json) |
@@ -10998,6 +11003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrotherZ | 36963 | [36963-brotherz.json](./36963-brotherz.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
+| Brown Dust II | 196549 | [196549-brown-dust-ii.json](./196549-brown-dust-ii.json) |
 | Brown Stories | 133719 | [133719-brown-stories.json](./133719-brown-stories.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure | 264671 | [264671-brownies-adventure.json](./264671-brownies-adventure.json) |
