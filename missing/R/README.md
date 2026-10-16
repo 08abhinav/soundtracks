@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
+| Ready 2 Rumble Boxing | 3586 | [3586-ready-2-rumble-boxing.json](./3586-ready-2-rumble-boxing.json) |
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble: Revolution | 5118 | [5118-ready-2-rumble-revolution.json](./5118-ready-2-rumble-revolution.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resistance is Fruitile | 117621 | [117621-resistance-is-fruitile.json](./117621-resistance-is-fruitile.json) |
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
+| Resistance: Retribution | 22885 | [22885-resistance-retribution.json](./22885-resistance-retribution.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
