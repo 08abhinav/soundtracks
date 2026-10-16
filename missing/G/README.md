@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins | 239103 | [239103-goblins.json](./239103-goblins.json) |
 | Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
+| Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
@@ -7678,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsheath | 180530 | [180530-gunsheath.json](./180530-gunsheath.json) |
 | Gunship | 12128 | [12128-gunship.json](./12128-gunship.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
+| Gunship | 20295 | [20295-gunship.json](./20295-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
 | Gunship + Gunship 2000 | 296604 | [296604-gunship-gunship-2000.json](./296604-gunship-gunship-2000.json) |
