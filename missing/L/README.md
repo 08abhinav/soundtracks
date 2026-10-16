@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level 20 | 150739 | [150739-level-20.json](./150739-level-20.json) |
+| Level 22: Gary's Misadventures | 33844 | [33844-level-22-garys-misadventures.json](./33844-level-22-garys-misadventures.json) |
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
