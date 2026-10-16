@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:41:28.661Z",
-  "total_soundtracks": 1771,
+  "generated_at": "2026-10-16T05:41:41.635Z",
+  "total_soundtracks": 1772,
   "games": [
     {
       "igdb_id": 7522,
@@ -6061,6 +6061,20 @@
           "spotify_url": "https://music.apple.com/us/album/esoteric-ebb-vol-1-original-soundtrack/1882323085?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1882323085"
+        }
+      ]
+    },
+    {
+      "igdb_id": 135842,
+      "game_name": "Eternal Return",
+      "game_url": "https://ostdb.net/games/eternal-return",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ebc522899cd4d609eed4706",
+      "albums": [
+        {
+          "album_name": "Eternal Return (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0jf03LHUqP5Yv8D4QDJFLQ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
