@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
 | Witold the Game 2 | 133806 | [133806-witold-the-game-2.json](./133806-witold-the-game-2.json) |
 | Witoru | 166587 | [166587-witoru.json](./166587-witoru.json) |
+| Wits & Wagers | 21819 | [21819-wits-and-wagers.json](./21819-wits-and-wagers.json) |
 | Wits Battle Simulator | 290473 | [290473-wits-battle-simulator.json](./290473-wits-battle-simulator.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
@@ -4714,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
+| Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 2863 | [2863-wizardry-proving-grounds-of-the-mad-overlord.json](./2863-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Tale of the Forsaken Land | 43620 | [43620-wizardry-tale-of-the-forsaken-land.json](./43620-wizardry-tale-of-the-forsaken-land.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
