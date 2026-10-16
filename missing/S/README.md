@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - Enter the Dominatrix | 94133 | [94133-saints-row-the-third-enter-the-dominatrix.json](./94133-saints-row-the-third-enter-the-dominatrix.json) |
 | Saints Row: The Third - Genkibowl VII | 78454 | [78454-saints-row-the-third-genkibowl-vii.json](./78454-saints-row-the-third-genkibowl-vii.json) |
+| Saints Row: The Third - The Full Package | 25268 | [25268-saints-row-the-third-the-full-package.json](./25268-saints-row-the-third-the-full-package.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
@@ -2323,7 +2324,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
-| Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
 | Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
 | Scott Pilgrim vs. the World. The Game - Wallace Wells Pack | 165492 | [165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json](./165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json) |
 | Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
@@ -7837,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
 | Singled Out | 122145 | [122145-singled-out.json](./122145-singled-out.json) |
 | Singles 2: Triple Trouble | 27606 | [27606-singles-2-triple-trouble.json](./27606-singles-2-triple-trouble.json) |
+| Singles: Flirt up your life | 18935 | [18935-singles-flirt-up-your-life.json](./18935-singles-flirt-up-your-life.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
@@ -14326,6 +14327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
+| Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
@@ -15368,6 +15370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
+| Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
@@ -16898,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
+| Star Wars Battlefront: Outer Rim | 18161 | [18161-star-wars-battlefront-outer-rim.json](./18161-star-wars-battlefront-outer-rim.json) |
 | Star Wars Battlefront: Rogue One - X-Wing VR Mission | 52879 | [52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json](./52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
@@ -19458,6 +19462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
+| Street Rod | 19229 | [19229-street-rod.json](./19229-street-rod.json) |
 | Street Rod 2: The Next Generation | 38851 | [38851-street-rod-2-the-next-generation.json](./38851-street-rod-2-the-next-generation.json) |
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
@@ -21957,6 +21962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park | 366881 | [366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json](./366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
+| Super Mario Bros. X | 87816 | [87816-super-mario-bros-x.json](./87816-super-mario-bros-x.json) |
 | Super Mario Bros. X by 5438A38A | 358335 | [358335-super-mario-bros-x-by-5438a38a.json](./358335-super-mario-bros-x-by-5438a38a.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
@@ -22606,6 +22612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Schwarzschild 2 | 401871 | [401871-super-schwarzschild-2.json](./401871-super-schwarzschild-2.json) |
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
+| Super Scope 6 | 18616 | [18616-super-scope-6.json](./18616-super-scope-6.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Scrabble | 49065 | [49065-super-scrabble.json](./49065-super-scrabble.json) |
 | Super Scramble Simulator | 12786 | [12786-super-scramble-simulator.json](./12786-super-scramble-simulator.json) |
@@ -23051,6 +23058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super Xblox 360! | 11055 | [11055-super-xblox-360.json](./11055-super-xblox-360.json) |
+| Super Xevious | 20128 | [20128-super-xevious.json](./20128-super-xevious.json) |
 | Super Xevious: Gamp no Nazo | 184275 | [184275-super-xevious-gamp-no-nazo.json](./184275-super-xevious-gamp-no-nazo.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
@@ -24546,6 +24554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword of the Vagrant | 225891 | [225891-sword-of-the-vagrant.json](./225891-sword-of-the-vagrant.json) |
+| Sword of Xolan | 18931 | [18931-sword-of-xolan.json](./18931-sword-of-xolan.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
 | Sword Play! Ninja Slice Runner | 323313 | [323313-sword-play-ninja-slice-runner.json](./323313-sword-play-ninja-slice-runner.json) |
 | Sword Princess Amaltea: The Visual Novel | 173176 | [173176-sword-princess-amaltea-the-visual-novel.json](./173176-sword-princess-amaltea-the-visual-novel.json) |
