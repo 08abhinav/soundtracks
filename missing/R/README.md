@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
+| Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
+| Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
@@ -1078,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
+| Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
 | Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
@@ -2124,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
+| Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
@@ -8078,6 +8082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Fitness VR | 388900 | [388900-rpg-fitness-vr.json](./388900-rpg-fitness-vr.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
+| RPG Heirs of the Kings | 100821 | [100821-rpg-heirs-of-the-kings.json](./100821-rpg-heirs-of-the-kings.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
