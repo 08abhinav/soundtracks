@@ -1173,7 +1173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
-| Necromunda: Hired Gun | 144725 | [144725-necromunda-hired-gun.json](./144725-necromunda-hired-gun.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
 | Necromunda: Hired Gun - Hellhound Pack | 223536 | [223536-necromunda-hired-gun-hellhound-pack.json](./223536-necromunda-hired-gun-hellhound-pack.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
@@ -1276,7 +1275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 242991 | [242991-need-for-speed-most-wanted.json](./242991-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 242992 | [242992-need-for-speed-most-wanted.json](./242992-need-for-speed-most-wanted.json) |
-| Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted - Black Edition | 43492 | [43492-need-for-speed-most-wanted-black-edition.json](./43492-need-for-speed-most-wanted-black-edition.json) |
@@ -2912,7 +2910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
-| Night Call | 79994 | [79994-night-call.json](./79994-night-call.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
