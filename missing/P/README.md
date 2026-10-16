@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
+| Peacemaker: The Die Is Cast | 419314 | [419314-peacemaker-the-die-is-cast.json](./419314-peacemaker-the-die-is-cast.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
 | Peach & Daisy: The Royal Games | 48569 | [48569-peach-and-daisy-the-royal-games.json](./48569-peach-and-daisy-the-royal-games.json) |
 | Peach Blood | 112239 | [112239-peach-blood.json](./112239-peach-blood.json) |
