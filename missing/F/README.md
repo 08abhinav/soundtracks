@@ -3499,7 +3499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
-| Final Fantasy III | 158982 | [158982-final-fantasy-iii.json](./158982-final-fantasy-iii.json) |
 | Final Fantasy III | 340017 | [340017-final-fantasy-iii.json](./340017-final-fantasy-iii.json) |
 | Final Fantasy III | 340019 | [340019-final-fantasy-iii.json](./340019-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
@@ -5430,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
+| Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
