@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
+| Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
 | Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
+| Chime | 16196 | [16196-chime.json](./16196-chime.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
 | Chime Sharp Game Composer Edition | 122147 | [122147-chime-sharp-game-composer-edition.json](./122147-chime-sharp-game-composer-edition.json) |
@@ -5663,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
+| Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
@@ -9033,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
 | Concrete Genie | 75238 | [75238-concrete-genie.json](./75238-concrete-genie.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
+| Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
 | Concrete Sky | 36967 | [36967-concrete-sky.json](./36967-concrete-sky.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
@@ -9490,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
+| Continent of the Ninth Seal | 15305 | [15305-continent-of-the-ninth-seal.json](./15305-continent-of-the-ninth-seal.json) |
 | Continental | 67396 | [67396-continental.json](./67396-continental.json) |
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
@@ -13666,6 +13671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope 3DS | 85555 | [85555-cut-the-rope-3ds.json](./85555-cut-the-rope-3ds.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
+| Cut the Rope: Experiments | 92498 | [92498-cut-the-rope-experiments.json](./92498-cut-the-rope-experiments.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
