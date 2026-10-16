@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:53:13.040Z",
-  "total_soundtracks": 1819,
+  "generated_at": "2026-10-16T05:53:26.834Z",
+  "total_soundtracks": 1820,
   "games": [
     {
       "igdb_id": 7522,
@@ -19809,6 +19809,20 @@
         {
           "album_name": "Tribes Of Midgard (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1N3RfgNZYeqXtnkUQXrfZy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9506,
+      "game_name": "Tribes: Ascend",
+      "game_url": "https://ostdb.net/games/tribes-ascend",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27344e0186ce2ec1358dbc35865",
+      "albums": [
+        {
+          "album_name": "Tribes: Ascend (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/77L82nOwDkpab8QSc7qZYW",
           "apple_music_url": "",
           "album_link_url": ""
         }
