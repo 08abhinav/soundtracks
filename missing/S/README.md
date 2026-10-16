@@ -5476,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
 | Shenmou | 120078 | [120078-shenmou.json](./120078-shenmou.json) |
 | Shenmue | 1217 | [1217-shenmue.json](./1217-shenmue.json) |
+| Shenmue I & II | 96391 | [96391-shenmue-i-and-ii.json](./96391-shenmue-i-and-ii.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
@@ -9326,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
+| Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Research | 113451 | [113451-slime-research.json](./113451-slime-research.json) |
@@ -18041,6 +18043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
+| Steelrising | 135670 | [135670-steelrising.json](./135670-steelrising.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
@@ -22783,6 +22786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
 | Super Star Wars: Return of the Jedi | 48939 | [48939-super-star-wars-return-of-the-jedi.json](./48939-super-star-wars-return-of-the-jedi.json) |
+| Super Star Wars: The Empire Strikes Back | 44463 | [44463-super-star-wars-the-empire-strikes-back.json](./44463-super-star-wars-the-empire-strikes-back.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
 | Super Stardust HD | 2133 | [2133-super-stardust-hd.json](./2133-super-stardust-hd.json) |
