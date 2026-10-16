@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Dreamed about static again | 378565 | [378565-i-dreamed-about-static-again.json](./378565-i-dreamed-about-static-again.json) |
 | I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
+| I Expect You to Die | 25948 | [25948-i-expect-you-to-die.json](./25948-i-expect-you-to-die.json) |
 | I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
