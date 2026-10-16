@@ -8477,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skrach.it | 345450 | [345450-skrach-it.json](./345450-skrach-it.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
+| Skribbl.io | 76565 | [76565-skribbl-io.json](./76565-skribbl-io.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
@@ -14324,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
+| Spectrobes | 5174 | [5174-spectrobes.json](./5174-spectrobes.json) |
 | Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
 | Spectrobes: Origins | 5173 | [5173-spectrobes-origins.json](./5173-spectrobes-origins.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
@@ -16433,6 +16435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
 | Star Control | 4497 | [4497-star-control.json](./4497-star-control.json) |
 | Star Control I & II | 154237 | [154237-star-control-i-and-ii.json](./154237-star-control-i-and-ii.json) |
+| Star Control II | 1046 | [1046-star-control-ii.json](./1046-star-control-ii.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
@@ -19777,6 +19780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
+| Stunt Race FX | 28509 | [28509-stunt-race-fx.json](./28509-stunt-race-fx.json) |
 | Stunt Racer 2000 | 13259 | [13259-stunt-racer-2000.json](./13259-stunt-racer-2000.json) |
 | Stunt Runner | 62994 | [62994-stunt-runner.json](./62994-stunt-runner.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
