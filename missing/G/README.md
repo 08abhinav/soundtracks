@@ -4259,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
 | Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
+| Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
