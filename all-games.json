@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:04:42.050Z",
-  "total_soundtracks": 1717,
+  "generated_at": "2026-10-16T05:04:55.232Z",
+  "total_soundtracks": 1718,
   "games": [
     {
       "igdb_id": 7522,
@@ -15005,6 +15005,20 @@
         {
           "album_name": "Skylanders Trap Team (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2qkJV8TkFHNN9BwaP1nGmZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 305071,
+      "game_name": "Slay the Princess: The Pristine Cut",
+      "game_url": "https://ostdb.net/games/slay-the-princess-the-pristine-cut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c4ae080de3f0fbc8fc3b5b26",
+      "albums": [
+        {
+          "album_name": "Slay the Princess: The Pristine Cut (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3r6p1gwzssr7KzVIQbEZSm",
           "apple_music_url": "",
           "album_link_url": ""
         }
