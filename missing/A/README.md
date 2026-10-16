@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
+| A Normal Day at a Normal Beach | 420476 | [420476-a-normal-day-at-a-normal-beach.json](./420476-a-normal-day-at-a-normal-beach.json) |
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
@@ -7405,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
+| Another Summer | 420474 | [420474-another-summer.json](./420474-another-summer.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
 | Another Super Mario Bros. Wii Deluxe | 394342 | [394342-another-super-mario-bros-wii-deluxe.json](./394342-another-super-mario-bros-wii-deluxe.json) |
@@ -7699,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
 | Ao no Kanata no Four Rhythm IF 01: Minamo Shirase | 178329 | [178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json](./178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json) |
 | Ao no Kanata no Four Rhythm: HD Edition | 136793 | [136793-ao-no-kanata-no-four-rhythm-hd-edition.json](./136793-ao-no-kanata-no-four-rhythm-hd-edition.json) |
+| Ao no Mama de... | 420562 | [420562-ao-no-mama-de.json](./420562-ao-no-mama-de.json) |
 | Ao Oni | 46941 | [46941-ao-oni.json](./46941-ao-oni.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
@@ -8678,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
+| Arcade Hysteria | 420515 | [420515-arcade-hysteria.json](./420515-arcade-hysteria.json) |
 | Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
