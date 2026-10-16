@@ -7318,7 +7318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
-| Dissidia Final Fantasy NT | 36831 | [36831-dissidia-final-fantasy-nt.json](./36831-dissidia-final-fantasy-nt.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
 | Dissimilar | 293516 | [293516-dissimilar.json](./293516-dissimilar.json) |
