@@ -11147,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
+| The Sea Will Claim Everything | 36051 | [36051-the-sea-will-claim-everything.json](./36051-the-sea-will-claim-everything.json) |
 | The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
@@ -11386,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sheng's Written: Journey of Hoo | 301056 | [301056-the-shengs-written-journey-of-hoo.json](./301056-the-shengs-written-journey-of-hoo.json) |
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
+| The Shield: The Game | 70186 | [70186-the-shield-the-game.json](./70186-the-shield-the-game.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shimmering Horizon and Cursed Blacksmith | 169150 | [169150-the-shimmering-horizon-and-cursed-blacksmith.json](./169150-the-shimmering-horizon-and-cursed-blacksmith.json) |
 | The Shinri Game | 38255 | [38255-the-shinri-game.json](./38255-the-shinri-game.json) |
@@ -16483,6 +16485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pods Rescue: 2D Board Game Edition | 319274 | [319274-tiny-pods-rescue-2d-board-game-edition.json](./319274-tiny-pods-rescue-2d-board-game-edition.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
+| Tiny Rails | 53309 | [53309-tiny-rails.json](./53309-tiny-rails.json) |
 | Tiny Rainbow Rebels | 177810 | [177810-tiny-rainbow-rebels.json](./177810-tiny-rainbow-rebels.json) |
 | Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
 | Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
