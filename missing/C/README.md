@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
+| CastleStorm | 19136 | [19136-castlestorm.json](./19136-castlestorm.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
+| Chip's Challenge | 12001 | [12001-chips-challenge.json](./12001-chips-challenge.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
 | Chip's Challenge | 282557 | [282557-chips-challenge.json](./282557-chips-challenge.json) |
 | Chip's Challenge | 282558 | [282558-chips-challenge.json](./282558-chips-challenge.json) |
