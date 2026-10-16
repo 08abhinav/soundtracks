@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 6840 | [6840-r-type.json](./6840-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Delta | 28397 | [28397-r-type-delta.json](./28397-r-type-delta.json) |
+| R-Type Delta: HD Boosted | 360913 | [360913-r-type-delta-hd-boosted.json](./360913-r-type-delta-hd-boosted.json) |
 | R-Type Dimensions III | 381109 | [381109-r-type-dimensions-iii.json](./381109-r-type-dimensions-iii.json) |
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
@@ -630,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
+| Rager | 295512 | [295512-rager.json](./295512-rager.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
@@ -912,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
+| Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
@@ -4255,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
 | Retroneer | 392359 | [392359-retroneer.json](./392359-retroneer.json) |
+| Retronika | 332467 | [332467-retronika.json](./332467-retronika.json) |
 | Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
