@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save President From Rebels | 107730 | [107730-save-president-from-rebels.json](./107730-save-president-from-rebels.json) |
+| Save Room: Organization Game | 199573 | [199573-save-room-organization-game.json](./199573-save-room-organization-game.json) |
 | Save Room: The Merchant | 256726 | [256726-save-room-the-merchant.json](./256726-save-room-the-merchant.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior Fantasy | 208091 | [208091-savior-fantasy.json](./208091-savior-fantasy.json) |
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
+| Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
@@ -7197,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
 | Silent Hill HD Collection | 21600 | [21600-silent-hill-hd-collection.json](./21600-silent-hill-hd-collection.json) |
 | Silent Hill Metamorphoses | 275631 | [275631-silent-hill-metamorphoses.json](./275631-silent-hill-metamorphoses.json) |
+| Silent Hill: Alchemilla | 24582 | [24582-silent-hill-alchemilla.json](./24582-silent-hill-alchemilla.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
@@ -8580,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
+| Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
 | Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
@@ -11805,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance Revamped Lite | 227797 | [227797-sonic-advance-revamped-lite.json](./227797-sonic-advance-revamped-lite.json) |
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
 | Sonic Adventure 2 | 192192 | [192192-sonic-adventure-2.json](./192192-sonic-adventure-2.json) |
+| Sonic Adventure 2: Battle | 192194 | [192194-sonic-adventure-2-battle.json](./192194-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
 | Sonic Adventure 2D | 334733 | [334733-sonic-adventure-2d.json](./334733-sonic-adventure-2d.json) |
@@ -12581,6 +12586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcery! 2 | 60990 | [60990-sorcery-2.json](./60990-sorcery-2.json) |
+| Sorcery! Part 3 | 24024 | [24024-sorcery-part-3.json](./24024-sorcery-part-3.json) |
 | Sorcery! Parts 1 & 2 | 24618 | [24618-sorcery-parts-1-and-2.json](./24618-sorcery-parts-1-and-2.json) |
 | Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
@@ -16619,6 +16625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
+| Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
@@ -16829,6 +16836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
+| Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
@@ -23369,6 +23377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
+| Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
@@ -23481,6 +23490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
+| Surgeon Simulator: Experience Reality | 26299 | [26299-surgeon-simulator-experience-reality.json](./26299-surgeon-simulator-experience-reality.json) |
 | SurgePoint | 410310 | [410310-surgepoint.json](./410310-surgepoint.json) |
 | Surgery Simulator 3D - 2 | 188379 | [188379-surgery-simulator-3d-2.json](./188379-surgery-simulator-3d-2.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
