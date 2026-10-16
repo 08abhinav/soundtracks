@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
 | Tarot: Theo's Quest | 190416 | [190416-tarot-theos-quest.json](./190416-tarot-theos-quest.json) |
+| Tarotica Voo Doo | 28737 | [28737-tarotica-voo-doo.json](./28737-tarotica-voo-doo.json) |
 | Tarr Chronicles | 66757 | [66757-tarr-chronicles.json](./66757-tarr-chronicles.json) |
 | Tarragona 6: Algernon's Lab | 315553 | [315553-tarragona-6-algernons-lab.json](./315553-tarragona-6-algernons-lab.json) |
 | Tarragona 7: Civilisations Crossroads | 315555 | [315555-tarragona-7-civilisations-crossroads.json](./315555-tarragona-7-civilisations-crossroads.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crow: City of Angels | 8538 | [8538-the-crow-city-of-angels.json](./8538-the-crow-city-of-angels.json) |
 | The Crow's Eye | 6730 | [6730-the-crows-eye.json](./6730-the-crows-eye.json) |
 | The Crow's Eye: Deluxe Edition | 187854 | [187854-the-crows-eye-deluxe-edition.json](./187854-the-crows-eye-deluxe-edition.json) |
+| The Crowded party game collection | 28887 | [28887-the-crowded-party-game-collection.json](./28887-the-crowded-party-game-collection.json) |
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
@@ -11880,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snare Below | 415470 | [415470-the-snare-below.json](./415470-the-snare-below.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
+| The Sniper VR | 28936 | [28936-the-sniper-vr.json](./28936-the-sniper-vr.json) |
 | The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
 | The Snow Fable | 54293 | [54293-the-snow-fable.json](./54293-the-snow-fable.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
@@ -13371,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild at Heart | 116522 | [116522-the-wild-at-heart.json](./116522-the-wild-at-heart.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
+| The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
