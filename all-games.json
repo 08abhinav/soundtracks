@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:43:12.108Z",
-  "total_soundtracks": 1779,
+  "generated_at": "2026-10-16T05:43:24.636Z",
+  "total_soundtracks": 1780,
   "games": [
     {
       "igdb_id": 7522,
@@ -14729,6 +14729,20 @@
           "spotify_url": "https://music.apple.com/us/album/returnal-vol-2-original-soundtrack/1617701697?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1617701697"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19746,
+      "game_name": "Rez Infinite",
+      "game_url": "https://ostdb.net/games/rez-infinite",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732714f20b21892c137d9ff48c",
+      "albums": [
+        {
+          "album_name": "Rez Infinite Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3TZLYfPfAg5TrIYZ1xfelA",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
