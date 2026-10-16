@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus | 356780 | [356780-desert-bus.json](./356780-desert-bus.json) |
 | Desert Bus | 86206 | [86206-desert-bus.json](./86206-desert-bus.json) |
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
+| Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
@@ -8661,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
 | Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
+| Donkey Kong Jungle Beat | 84699 | [84699-donkey-kong-jungle-beat.json](./84699-donkey-kong-jungle-beat.json) |
 | Donkey Kong Jungle Fever | 230167 | [230167-donkey-kong-jungle-fever.json](./230167-donkey-kong-jungle-fever.json) |
 | Donkey Kong Junior | 1087 | [1087-donkey-kong-junior.json](./1087-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192910 | [192910-donkey-kong-junior.json](./192910-donkey-kong-junior.json) |
@@ -10197,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
+| Dragon Quest I.II | 89204 | [89204-dragon-quest-i-ii.json](./89204-dragon-quest-i-ii.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
