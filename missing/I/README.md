@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
+| iStreet Basket Deluxe | 90863 | [90863-istreet-basket-deluxe.json](./90863-istreet-basket-deluxe.json) |
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
 | iStunt 2 | 90888 | [90888-istunt-2.json](./90888-istunt-2.json) |
 | iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
