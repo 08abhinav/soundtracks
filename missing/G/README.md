@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | Grav Blazer Squared | 55716 | [55716-grav-blazer-squared.json](./55716-grav-blazer-squared.json) |
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
+| Grav Grav Gravity | 43163 | [43163-grav-grav-gravity.json](./43163-grav-grav-gravity.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
@@ -6046,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
+| Great eSports Manager | 55485 | [55485-great-esports-manager.json](./55485-great-esports-manager.json) |
 | Great Feats of Ancient Russ | 298236 | [298236-great-feats-of-ancient-russ.json](./298236-great-feats-of-ancient-russ.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
