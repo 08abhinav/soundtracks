@@ -4113,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
 | Beetle Nest | 283987 | [283987-beetle-nest.json](./283987-beetle-nest.json) |
 | Beetle Ninja | 145265 | [145265-beetle-ninja.json](./145265-beetle-ninja.json) |
+| Beetle Uprising | 55506 | [55506-beetle-uprising.json](./55506-beetle-uprising.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
+| Behind the Door | 55450 | [55450-behind-the-door.json](./55450-behind-the-door.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
 | Behind the Frame: The Finest Scenery VR | 244666 | [244666-behind-the-frame-the-finest-scenery-vr.json](./244666-behind-the-frame-the-finest-scenery-vr.json) |
 | Behind the Horizon | 164588 | [164588-behind-the-horizon.json](./164588-behind-the-horizon.json) |
@@ -7862,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
+| Bloody Mice | 55457 | [55457-bloody-mice.json](./55457-bloody-mice.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
