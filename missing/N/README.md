@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick's Text Adventure | 386987 | [386987-nicks-text-adventure.json](./386987-nicks-text-adventure.json) |
 | Nickelback Revenge | 66043 | [66043-nickelback-revenge.json](./66043-nickelback-revenge.json) |
 | Nickelodeon 3D Movie Maker | 62966 | [62966-nickelodeon-3d-movie-maker.json](./62966-nickelodeon-3d-movie-maker.json) |
+| Nickelodeon All-Star Brawl | 156151 | [156151-nickelodeon-all-star-brawl.json](./156151-nickelodeon-all-star-brawl.json) |
 | Nickelodeon All-Star Brawl 2 | 259206 | [259206-nickelodeon-all-star-brawl-2.json](./259206-nickelodeon-all-star-brawl-2.json) |
 | Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
 | Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
