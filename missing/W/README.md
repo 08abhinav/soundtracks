@@ -971,7 +971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
-| Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
