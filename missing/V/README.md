@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietcong | 271 | [271-vietcong.json](./271-vietcong.json) |
 | Vietcong 2 | 3179 | [3179-vietcong-2.json](./3179-vietcong-2.json) |
+| Vietcong: Fist Alpha | 464 | [464-vietcong-fist-alpha.json](./464-vietcong-fist-alpha.json) |
 | VietDoom | 196013 | [196013-vietdoom.json](./196013-vietdoom.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 2 | 225566 | [225566-virtua-fighter-2.json](./225566-virtua-fighter-2.json) |
 | Virtua Fighter 2 vs. Tekken 2 | 143507 | [143507-virtua-fighter-2-vs-tekken-2.json](./143507-virtua-fighter-2-vs-tekken-2.json) |
 | Virtua Fighter 3tb Online | 279763 | [279763-virtua-fighter-3tb-online.json](./279763-virtua-fighter-3tb-online.json) |
+| Virtua Fighter 4 | 1552 | [1552-virtua-fighter-4.json](./1552-virtua-fighter-4.json) |
 | Virtua Fighter 4: Evolution | 22239 | [22239-virtua-fighter-4-evolution.json](./22239-virtua-fighter-4-evolution.json) |
 | Virtua Fighter 4: Final Tuned | 39668 | [39668-virtua-fighter-4-final-tuned.json](./39668-virtua-fighter-4-final-tuned.json) |
 | Virtua Fighter 5 | 1555 | [1555-virtua-fighter-5.json](./1555-virtua-fighter-5.json) |
