@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
+| Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
@@ -4533,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
+| Golem | 47987 | [47987-golem.json](./47987-golem.json) |
 | Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
