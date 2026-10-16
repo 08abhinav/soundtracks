@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Estate: Home Theater | 366968 | [366968-dead-estate-home-theater.json](./366968-dead-estate-home-theater.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
 | Dead Exhale | 357444 | [357444-dead-exhale.json](./357444-dead-exhale.json) |
+| Dead Exodus | 421203 | [421203-dead-exodus.json](./421203-dead-exodus.json) |
 | Dead Exposure | 379698 | [379698-dead-exposure.json](./379698-dead-exposure.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
@@ -9296,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
 | Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
+| Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
