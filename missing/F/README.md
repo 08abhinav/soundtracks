@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
 | Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
+| Fist of the North Star: 10 Big Brawls for the King of the Universe | 64171 | [64171-fist-of-the-north-star-10-big-brawls-for-the-king-of-the-universe.json](./64171-fist-of-the-north-star-10-big-brawls-for-the-king-of-the-universe.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise | 55112 | [55112-fist-of-the-north-star-lost-paradise.json](./55112-fist-of-the-north-star-lost-paradise.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
@@ -8093,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury | 175859 | [175859-freeway-fury.json](./175859-freeway-fury.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
+| Freeways | 68281 | [68281-freeways.json](./68281-freeways.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
@@ -8996,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
 | Fugitive Shift | 183836 | [183836-fugitive-shift.json](./183836-fugitive-shift.json) |
 | Fugitive Tense: A Game About TIme | 382468 | [382468-fugitive-tense-a-game-about-time.json](./382468-fugitive-tense-a-game-about-time.json) |
+| Fugl | 67626 | [67626-fugl.json](./67626-fugl.json) |
 | Fugu | 314377 | [314377-fugu.json](./314377-fugu.json) |
 | Fugu Maze | 104703 | [104703-fugu-maze.json](./104703-fugu-maze.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
