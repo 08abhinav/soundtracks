@@ -11313,7 +11313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solas 128 | 139176 | [139176-solas-128.json](./139176-solas-128.json) |
 | Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
-| Solasta: Crown of the Magister | 120170 | [120170-solasta-crown-of-the-magister.json](./120170-solasta-crown-of-the-magister.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
 | Solasta: Crown of the Magister - Palace of Ice | 242515 | [242515-solasta-crown-of-the-magister-palace-of-ice.json](./242515-solasta-crown-of-the-magister-palace-of-ice.json) |
