@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltatraveler: Section 2 | 307811 | [307811-deltatraveler-section-2.json](./307811-deltatraveler-section-2.json) |
 | Deltatraveler: Section 3 | 307815 | [307815-deltatraveler-section-3.json](./307815-deltatraveler-section-3.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
+| DeltaZeal | 35029 | [35029-deltazeal.json](./35029-deltazeal.json) |
 | Deltazone Reloaded | 144082 | [144082-deltazone-reloaded.json](./144082-deltazone-reloaded.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
+| Demons with Shotguns | 35205 | [35205-demons-with-shotguns.json](./35205-demons-with-shotguns.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | DemonsAreCrazy | 103228 | [103228-demonsarecrazy.json](./103228-demonsarecrazy.json) |
@@ -6915,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discount Paranormal | 151299 | [151299-discount-paranormal.json](./151299-discount-paranormal.json) |
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
 | Discounty: People or Profit? | 404848 | [404848-discounty-people-or-profit.json](./404848-discounty-people-or-profit.json) |
+| Discouraged Workers | 35209 | [35209-discouraged-workers.json](./35209-discouraged-workers.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
@@ -13001,6 +13004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
+| Dustbowl | 35306 | [35306-dustbowl.json](./35306-dustbowl.json) |
 | Dustbowl Brulo | 326115 | [326115-dustbowl-brulo.json](./326115-dustbowl-brulo.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | DustCrow | 413470 | [413470-dustcrow.json](./413470-dustcrow.json) |
