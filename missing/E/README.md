@@ -5637,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | ExZeus 2 | 47129 | [47129-exzeus-2.json](./47129-exzeus-2.json) |
+| ExZeus: The Complete Collection | 173140 | [173140-exzeus-the-complete-collection.json](./173140-exzeus-the-complete-collection.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
