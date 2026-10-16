@@ -917,6 +917,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7e0bba4db02119848e44e7" width="60" /> | [Need for Speed: The Run](https://ostdb.net/games/need-for-speed-the-run) | **Need for Speed: The Run** · [Spotify](https://open.spotify.com/album/5UZkKCQFxHhvCKTOIlwhDm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd59c9f067b296fc69e65b73" width="60" /> | [Need for Speed: Undercover](https://ostdb.net/games/need-for-speed-undercover) | **Need for Speed: Undercover (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/64YpBQd84gpKlQwt19I9GY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dee0d149e8df588a72a345" width="60" /> | [Need for Speed: Underground](https://ostdb.net/games/need-for-speed-underground) | **Need for Speed: Underground (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a815b9bc4e5bb6b07df27f" width="60" /> | [Neo Cab](https://ostdb.net/games/neo-cab) | **Neo Cab (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3x2knhsDNvWSf6cXnTJswT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ded909e7f31b4a41ae32c44" width="60" /> | [Neon White](https://ostdb.net/games/neon-white) | **Neon White Soundtrack Part 1 "The Wicked Heart"** · [Spotify](https://open.spotify.com/album/0uYxgIHjLcufVqbvOAeGDb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739266f739b7199250e3121029" width="60" /> | [Neva](https://ostdb.net/games/neva) | **Neva (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6NLJwYiAKI6I16CBQy5pqP)<br>**Neva Prologue (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0aEaJETzc0QMN0gzqmulUa) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/44/eb/3044eb49-1db8-4ab6-8f4c-288801a4a65c/8721465515763.png/600x600bb.jpg" width="60" /> | [Neva: Prologue](https://ostdb.net/games/neva-prologue) | **Neva Prologue (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4) · [Album](https://album.link/i/1873035980) |
@@ -1603,4 +1604,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1920 soundtracks · last updated 2026-10-16T14:46:47.052Z_
+_1921 soundtracks · last updated 2026-10-16T14:47:01.156Z_
