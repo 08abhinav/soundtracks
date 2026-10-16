@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
+| Gazing from beyond | 83497 | [83497-gazing-from-beyond.json](./83497-gazing-from-beyond.json) |
 | Gazmatera II: America's Least Wanted | 190029 | [190029-gazmatera-ii-americas-least-wanted.json](./190029-gazmatera-ii-americas-least-wanted.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
+| Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
@@ -7773,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
+| GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Gunzle | 313450 | [313450-gunzle.json](./313450-gunzle.json) |
