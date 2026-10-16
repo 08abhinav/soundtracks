@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | h 4 in a Row | 89155 | [89155-h-4-in-a-row.json](./89155-h-4-in-a-row.json) |
+| h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects | 320319 | [320319-hidden-objects.json](./320319-hidden-objects.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
+| Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
 | Hidden Objects Collection: Volume 3 | 191493 | [191493-hidden-objects-collection-volume-3.json](./191493-hidden-objects-collection-volume-3.json) |
@@ -5997,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoleHole | 251717 | [251717-holehole.json](./251717-holehole.json) |
 | Holes | 373207 | [373207-holes.json](./373207-holes.json) |
 | Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
+| Holes and Balls | 88684 | [88684-holes-and-balls.json](./88684-holes-and-balls.json) |
 | HoleShot Drag Racing | 212997 | [212997-holeshot-drag-racing.json](./212997-holeshot-drag-racing.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
