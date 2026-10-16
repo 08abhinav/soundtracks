@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Jr. and the Science Fair of Doom | 21412 | [21412-death-jr-and-the-science-fair-of-doom.json](./21412-death-jr-and-the-science-fair-of-doom.json) |
+| Death Jump | 118237 | [118237-death-jump.json](./118237-death-jump.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathball | 60631 | [60631-deathball.json](./60631-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
+| Deathbloom: Chapter 1 | 118106 | [118106-deathbloom-chapter-1.json](./118106-deathbloom-chapter-1.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathbounce | 65256 | [65256-deathbounce.json](./65256-deathbounce.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
@@ -4470,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
 | Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
+| Demons Never Lie | 117303 | [117303-demons-never-lie.json](./117303-demons-never-lie.json) |
 | Demons of Asteborg | 142485 | [142485-demons-of-asteborg.json](./142485-demons-of-asteborg.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
