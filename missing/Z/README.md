@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
+| Zunima,Space Travel | 88785 | [88785-zunima-space-travel.json](./88785-zunima-space-travel.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | Zunou Senkan Galg | 48488 | [48488-zunou-senkan-galg.json](./48488-zunou-senkan-galg.json) |
 | Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
