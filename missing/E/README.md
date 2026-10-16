@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
+| Earthlock | 80895 | [80895-earthlock.json](./80895-earthlock.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthpedia | 92393 | [92393-earthpedia.json](./92393-earthpedia.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
