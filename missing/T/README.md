@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
+| The Birth of Magic | 421803 | [421803-the-birth-of-magic.json](./421803-the-birth-of-magic.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
 | The Citadel | 184356 | [184356-the-citadel.json](./184356-the-citadel.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
+| The Citadel Must Hold | 421801 | [421801-the-citadel-must-hold.json](./421801-the-citadel-must-hold.json) |
 | The Citadel of Chaos | 71974 | [71974-the-citadel-of-chaos.json](./71974-the-citadel-of-chaos.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
@@ -5355,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
+| The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
@@ -13118,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
+| The Voice Party | 421806 | [421806-the-voice-party.json](./421806-the-voice-party.json) |
 | The Voice: I Want You | 84953 | [84953-the-voice-i-want-you.json](./84953-the-voice-i-want-you.json) |
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
@@ -16621,6 +16625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Room | 393716 | [393716-tiny-room.json](./393716-tiny-room.json) |
 | Tiny Room 2 | 393734 | [393734-tiny-room-2.json](./393734-tiny-room-2.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
+| Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
@@ -17747,6 +17752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone City: 21st Century | 73720 | [73720-tombstone-city-21st-century.json](./73720-tombstone-city-21st-century.json) |
+| Tombstone Tactics | 421821 | [421821-tombstone-tactics.json](./421821-tombstone-tactics.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
 | Tombwater | 324575 | [324575-tombwater.json](./324575-tombwater.json) |
