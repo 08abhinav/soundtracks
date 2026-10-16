@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
+| Cartoon Network: Battle Crashers | 25795 | [25795-cartoon-network-battle-crashers.json](./25795-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Block Party | 2809 | [2809-cartoon-network-block-party.json](./2809-cartoon-network-block-party.json) |
 | Cartoon Network: Punch Time Explosion | 2798 | [2798-cartoon-network-punch-time-explosion.json](./2798-cartoon-network-punch-time-explosion.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
 | Cave Wonders | 195032 | [195032-cave-wonders.json](./195032-cave-wonders.json) |
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
+| Caveblazers | 33269 | [33269-caveblazers.json](./33269-caveblazers.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
@@ -5754,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
+| Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
@@ -6081,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities XL | 4212 | [4212-cities-xl.json](./4212-cities-xl.json) |
 | Cities XL 2012 | 4213 | [4213-cities-xl-2012.json](./4213-cities-xl-2012.json) |
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
+| Cities XL: Platinum | 4214 | [4214-cities-xl-platinum.json](./4214-cities-xl-platinum.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
 | Cities: Skylines - African Vibes | 227401 | [227401-cities-skylines-african-vibes.json](./227401-cities-skylines-african-vibes.json) |
@@ -12852,6 +12856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Dark Motives | 7632 | [7632-csi-dark-motives.json](./7632-csi-dark-motives.json) |
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
+| CSI: Fatal Conspiracy | 4781 | [4781-csi-fatal-conspiracy.json](./4781-csi-fatal-conspiracy.json) |
 | CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
 | CSI: Miami | 80816 | [80816-csi-miami.json](./80816-csi-miami.json) |
