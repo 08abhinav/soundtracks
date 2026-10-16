@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Tsushima: Legends | 140042 | [140042-ghost-of-tsushima-legends.json](./140042-ghost-of-tsushima-legends.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
 | Ghost Of Wynlow | 285410 | [285410-ghost-of-wynlow.json](./285410-ghost-of-wynlow.json) |
+| Ghost of Yotei: Complete Edition | 413275 | [413275-ghost-of-yotei-complete-edition.json](./413275-ghost-of-yotei-complete-edition.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooverider: Slot Car Thunder | 3937 | [3937-grooverider-slot-car-thunder.json](./3937-grooverider-slot-car-thunder.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
+| Groovin' Blocks | 4898 | [4898-groovin-blocks.json](./4898-groovin-blocks.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
