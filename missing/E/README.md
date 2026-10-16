@@ -4365,6 +4365,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
+| Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
+| Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
