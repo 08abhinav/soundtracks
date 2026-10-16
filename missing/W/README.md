@@ -5207,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
+| Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
+| Worms: Special Edition | 88828 | [88828-worms-special-edition.json](./88828-worms-special-edition.json) |
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
@@ -6248,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
+| Wozznic | 88839 | [88839-wozznic.json](./88839-wozznic.json) |
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
