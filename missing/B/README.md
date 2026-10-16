@@ -6233,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
+| Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Diggers | 110205 | [110205-brave-diggers.json](./110205-brave-diggers.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
 | Brave Dungeon | 23722 | [23722-brave-dungeon.json](./23722-brave-dungeon.json) |
+| Brave Dungeon | 81454 | [81454-brave-dungeon.json](./81454-brave-dungeon.json) |
 | Brave Dungeon + Dark Witch's Story: Combat | 69393 | [69393-brave-dungeon-dark-witchs-story-combat.json](./69393-brave-dungeon-dark-witchs-story-combat.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
 | Brave Dungeon: The Meaning Of Justice | 111450 | [111450-brave-dungeon-the-meaning-of-justice.json](./111450-brave-dungeon-the-meaning-of-justice.json) |
