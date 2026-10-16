@@ -6112,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Belt | 282625 | [282625-black-belt.json](./282625-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Belt Challenge | 49310 | [49310-black-belt-challenge.json](./49310-black-belt-challenge.json) |
+| Black Bird | 100439 | [100439-black-bird.json](./100439-black-bird.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
 | Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
+| Bonk's Adventure | 98703 | [98703-bonks-adventure.json](./98703-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
 | Bonka | 92944 | [92944-bonka.json](./92944-bonka.json) |
