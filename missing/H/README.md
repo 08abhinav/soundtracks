@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
+| Hentai Case Opening | 106426 | [106426-hentai-case-opening.json](./106426-hentai-case-opening.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
@@ -3369,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
+| Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
@@ -3632,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Slide Puzzle | 236184 | [236184-hentai-slide-puzzle.json](./236184-hentai-slide-puzzle.json) |
+| Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
 | Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
@@ -3696,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
+| Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
