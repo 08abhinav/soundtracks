@@ -3320,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
+| Relaxation balls | 30765 | [30765-relaxation-balls.json](./30765-relaxation-balls.json) |
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
@@ -3676,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptiles: In Hunt | 105171 | [105171-reptiles-in-hunt.json](./105171-reptiles-in-hunt.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
+| Reptilians Must Die! | 30509 | [30509-reptilians-must-die.json](./30509-reptilians-must-die.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
 | Repton | 9657 | [9657-repton.json](./9657-repton.json) |
@@ -8097,6 +8099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Developer Bakin | 228016 | [228016-rpg-developer-bakin.json](./228016-rpg-developer-bakin.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
+| RPG Fighter League | 30700 | [30700-rpg-fighter-league.json](./30700-rpg-fighter-league.json) |
 | RPG Fitness VR | 388900 | [388900-rpg-fitness-vr.json](./388900-rpg-fitness-vr.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Heirs of the Kings | 100821 | [100821-rpg-heirs-of-the-kings.json](./100821-rpg-heirs-of-the-kings.json) |
