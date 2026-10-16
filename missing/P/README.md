@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Angels: Twin Angel - Labyrinth of Time and World: Re:light | 335978 | [335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json](./335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json) |
+| Phantom Thief Celianna | 106623 | [106623-phantom-thief-celianna.json](./106623-phantom-thief-celianna.json) |
 | Phantom Thief Mew's Secret Prima | 197569 | [197569-phantom-thief-mews-secret-prima.json](./197569-phantom-thief-mews-secret-prima.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon: Planet Regenerator | 250272 | [250272-photon-planet-regenerator.json](./250272-photon-planet-regenerator.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photoncytosis | 421345 | [421345-photoncytosis.json](./421345-photoncytosis.json) |
+| Photonic Distress | 106386 | [106386-photonic-distress.json](./106386-photonic-distress.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
@@ -6523,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
 | Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
+| Planetary Dustoff | 106387 | [106387-planetary-dustoff.json](./106387-planetary-dustoff.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Exploration Company | 207743 | [207743-planetary-exploration-company.json](./207743-planetary-exploration-company.json) |
 | Planetary Factory | 245980 | [245980-planetary-factory.json](./245980-planetary-factory.json) |
