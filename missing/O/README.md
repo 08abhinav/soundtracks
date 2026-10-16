@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
+| One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
 | One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozumou Tamashii | 44383 | [44383-oozumou-tamashii.json](./44383-oozumou-tamashii.json) |
 | OP. After-Mass N1 | 216967 | [216967-op-after-mass-n1.json](./216967-op-after-mass-n1.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
+| Opai Puzzle | 106431 | [106431-opai-puzzle.json](./106431-opai-puzzle.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
