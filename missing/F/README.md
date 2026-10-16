@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
 | Fire Ball | 40136 | [40136-fire-ball.json](./40136-fire-ball.json) |
 | Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
+| Fire Blade | 3916 | [3916-fire-blade.json](./3916-fire-blade.json) |
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
@@ -5971,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly! II | 68973 | [68973-fly-ii.json](./68973-fly-ii.json) |
 | Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
+| Fly'n | 10327 | [10327-flyn.json](./10327-flyn.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyable Heart | 211295 | [211295-flyable-heart.json](./211295-flyable-heart.json) |
@@ -7896,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Clown: Town Mystery | 142171 | [142171-freaky-clown-town-mystery.json](./142171-freaky-clown-town-mystery.json) |
 | Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
+| Freaky Flyers | 3918 | [3918-freaky-flyers.json](./3918-freaky-flyers.json) |
 | Freaky Fun | 386914 | [386914-freaky-fun.json](./386914-freaky-fun.json) |
 | Freaky Panties | 262601 | [262601-freaky-panties.json](./262601-freaky-panties.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
@@ -8101,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
+| Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
@@ -8516,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
 | Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
+| Frogger: Helmet Chaos | 11481 | [11481-frogger-helmet-chaos.json](./11481-frogger-helmet-chaos.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Frogger: Walkable City | 408851 | [408851-frogger-walkable-city.json](./408851-frogger-walkable-city.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
@@ -9061,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
+| Full Bore | 10339 | [10339-full-bore.json](./10339-full-bore.json) |
 | Full Circle | 143517 | [143517-full-circle.json](./143517-full-circle.json) |
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
@@ -9707,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Weapon | 257271 | [257271-future-weapon.json](./257271-future-weapon.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | Future? No Thanks! | 358273 | [358273-future-no-thanks.json](./358273-future-no-thanks.json) |
+| FutureGrind | 11568 | [11568-futuregrind.json](./11568-futuregrind.json) |
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
