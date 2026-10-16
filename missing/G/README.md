@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 3 | 23713 | [23713-g1-jockey-3.json](./23713-g1-jockey-3.json) |
+| G1 Jockey 4 | 4878 | [4878-g1-jockey-4.json](./4878-g1-jockey-4.json) |
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
 | G1 Jockey Wii | 21440 | [21440-g1-jockey-wii.json](./21440-g1-jockey-wii.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party | 208265 | [208265-game-party.json](./208265-game-party.json) |
+| Game Party | 4880 | [4880-game-party.json](./4880-game-party.json) |
 | Game Party 2 Tournament | 23823 | [23823-game-party-2-tournament.json](./23823-game-party-2-tournament.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
@@ -1346,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
+| Garfield Gets Real | 4882 | [4882-garfield-gets-real.json](./4882-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
 | Garfield in TV Land | 234569 | [234569-garfield-in-tv-land.json](./234569-garfield-in-tv-land.json) |
 | Garfield Kart | 35467 | [35467-garfield-kart.json](./35467-garfield-kart.json) |
@@ -2300,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Likes to Hide | 333586 | [333586-george-likes-to-hide.json](./333586-george-likes-to-hide.json) |
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
+| George of the Jungle and the Search for the Secret | 4889 | [4889-george-of-the-jungle-and-the-search-for-the-secret.json](./4889-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
@@ -6005,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greak 2: Alliance of the Storms | 415149 | [415149-greak-2-alliance-of-the-storms.json](./415149-greak-2-alliance-of-the-storms.json) |
 | Greak: Memories of Azur | 122126 | [122126-greak-memories-of-azur.json](./122126-greak-memories-of-azur.json) |
 | Greak: Memories of Azur - Deluxe Edition | 167185 | [167185-greak-memories-of-azur-deluxe-edition.json](./167185-greak-memories-of-azur-deluxe-edition.json) |
+| Grease | 4895 | [4895-grease.json](./4895-grease.json) |
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
