@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MD Card Game 2 | 287863 | [287863-md-card-game-2.json](./287863-md-card-game-2.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
+| MDK 2 HD | 29768 | [29768-mdk-2-hd.json](./29768-mdk-2-hd.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
@@ -5549,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafist | 332400 | [332400-megafist.json](./332400-megafist.json) |
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
+| MegaGlest | 29772 | [29772-megaglest.json](./29772-megaglest.json) |
 | MegaGum | 403810 | [403810-megagum.json](./403810-megagum.json) |
 | Megajump | 174077 | [174077-megajump.json](./174077-megajump.json) |
 | Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
@@ -9895,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Marathon | 401136 | [401136-mob-marathon.json](./401136-mob-marathon.json) |
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Rule | 70279 | [70279-mob-rule.json](./70279-mob-rule.json) |
+| Mob Rule Classic | 29326 | [29326-mob-rule-classic.json](./29326-mob-rule-classic.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Ties: Tokyo | 22120 | [22120-mob-ties-tokyo.json](./22120-mob-ties-tokyo.json) |
@@ -14909,6 +14912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
+| Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
