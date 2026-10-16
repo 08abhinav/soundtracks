@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
+| FIFA 19: Champions Edition | 103377 | [103377-fifa-19-champions-edition.json](./103377-fifa-19-champions-edition.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
@@ -6218,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
+| Food Fantasy | 104253 | [104253-food-fantasy.json](./104253-food-fantasy.json) |
 | Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
