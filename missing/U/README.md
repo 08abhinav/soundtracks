@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
+| Ugly | 140815 | [140815-ugly.json](./140815-ugly.json) |
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Thailand DLC | 164521 | [164521-ultimate-fishing-simulator-thailand-dlc.json](./164521-ultimate-fishing-simulator-thailand-dlc.json) |
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
 | Ultimate Fishing Supermarket Simulator 3D | 309637 | [309637-ultimate-fishing-supermarket-simulator-3d.json](./309637-ultimate-fishing-supermarket-simulator-3d.json) |
+| Ultimate Flash Sonic | 140408 | [140408-ultimate-flash-sonic.json](./140408-ultimate-flash-sonic.json) |
 | Ultimate Flying Car | 233618 | [233618-ultimate-flying-car.json](./233618-ultimate-flying-car.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload | 382312 | [382312-upload.json](./382312-upload.json) |
 | Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
 | Upload Complete | 335341 | [335341-upload-complete.json](./335341-upload-complete.json) |
+| Upload Labs | 366875 | [366875-upload-labs.json](./366875-upload-labs.json) |
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
