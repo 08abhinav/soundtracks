@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:33:04.995Z",
-  "total_soundtracks": 1937,
+  "generated_at": "2026-10-16T19:33:17.648Z",
+  "total_soundtracks": 1938,
   "games": [
     {
       "igdb_id": 7522,
@@ -16477,6 +16477,20 @@
         {
           "album_name": "Scott Pilgrim vs. the World: The Game (Original Videogame Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11836,
+      "game_name": "Scratches",
+      "game_url": "https://ostdb.net/games/scratches",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308a088e243fce829786db9cb",
+      "albums": [
+        {
+          "album_name": "Scratches Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/17GfEOTUB5peZLcNkIyX7Y",
           "apple_music_url": "",
           "album_link_url": ""
         }
