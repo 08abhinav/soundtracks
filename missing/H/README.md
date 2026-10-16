@@ -6142,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
+| Holo Impact : Prologue | 30769 | [30769-holo-impact-prologue.json](./30769-holo-impact-prologue.json) |
 | Holo no Suika | 314982 | [314982-holo-no-suika.json](./314982-holo-no-suika.json) |
 | Holo vs. Robo | 386362 | [386362-holo-vs-robo.json](./386362-holo-vs-robo.json) |
 | Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
