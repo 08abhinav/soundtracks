@@ -8497,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
+| Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Beyond | 3922 | [3922-frogger-beyond.json](./3922-frogger-beyond.json) |
