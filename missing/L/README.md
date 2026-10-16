@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Ball | 103242 | [103242-legend-of-ball.json](./103242-legend-of-ball.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
+| Legend of Cenama | 120818 | [120818-legend-of-cenama.json](./120818-legend-of-cenama.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
 | Legend of Cina | 116178 | [116178-legend-of-cina.json](./116178-legend-of-cina.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
@@ -5552,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Eclipse | 351153 | [351153-lost-eclipse.json](./351153-lost-eclipse.json) |
 | Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
+| Lost Egg | 119792 | [119792-lost-egg.json](./119792-lost-egg.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
