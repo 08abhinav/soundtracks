@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
+| HardBall | 55358 | [55358-hardball.json](./55358-hardball.json) |
 | HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
+| Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
 | Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
@@ -6701,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing VR Live: Hop Summer Tour 2020 | 149684 | [149684-hop-step-sing-vr-live-hop-summer-tour-2020.json](./149684-hop-step-sing-vr-live-hop-summer-tour-2020.json) |
 | Hop Step Sing! Astral Piece | 127818 | [127818-hop-step-sing-astral-piece.json](./127818-hop-step-sing-astral-piece.json) |
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
+| Hop Step Sing! Kimamani Summer Vacation | 55335 | [55335-hop-step-sing-kimamani-summer-vacation.json](./55335-hop-step-sing-kimamani-summer-vacation.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
