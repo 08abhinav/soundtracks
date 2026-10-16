@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
+| Peggle: Dual Shot | 21257 | [21257-peggle-dual-shot.json](./21257-peggle-dual-shot.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Goes to Hollywood | 42474 | [42474-pink-goes-to-hollywood.json](./42474-pink-goes-to-hollywood.json) |
+| Pink Goes to Hollywood | 8106 | [8106-pink-goes-to-hollywood.json](./8106-pink-goes-to-hollywood.json) |
 | Pink Gum | 138499 | [138499-pink-gum.json](./138499-pink-gum.json) |
 | Pink Haze | 97995 | [97995-pink-haze.json](./97995-pink-haze.json) |
 | Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
@@ -6029,9 +6031,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeljunk Monsters Duo | 76208 | [76208-pixeljunk-monsters-duo.json](./76208-pixeljunk-monsters-duo.json) |
 | PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
 | PixelJunk Nom Nom Galaxy | 10602 | [10602-pixeljunk-nom-nom-galaxy.json](./10602-pixeljunk-nom-nom-galaxy.json) |
+| PixelJunk Racers | 20762 | [20762-pixeljunk-racers.json](./20762-pixeljunk-racers.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
 | PixelJunk Raiders | 144140 | [144140-pixeljunk-raiders.json](./144140-pixeljunk-raiders.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
+| PixelJunk Shooter 2 | 20446 | [20446-pixeljunk-shooter-2.json](./20446-pixeljunk-shooter-2.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
 | PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
