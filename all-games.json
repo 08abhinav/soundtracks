@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-15T20:10:46.022Z",
-  "total_soundtracks": 1699,
+  "generated_at": "2026-10-16T05:01:01.921Z",
+  "total_soundtracks": 1700,
   "games": [
     {
       "igdb_id": 7522,
@@ -1737,6 +1737,20 @@
           "spotify_url": "https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1794869007"
+        }
+      ]
+    },
+    {
+      "igdb_id": 23689,
+      "game_name": "Battle Chef Brigade",
+      "game_url": "https://ostdb.net/games/battle-chef-brigade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d256eddef18f01da205cfffb",
+      "albums": [
+        {
+          "album_name": "Battle Chef Brigade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6k5XNAps0jNpskzHfSaH79",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
