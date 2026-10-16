@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
+| Manggis: Night Market Survivor | 422537 | [422537-manggis-night-market-survivor.json](./422537-manggis-night-market-survivor.json) |
 | Manglepaw | 199307 | [199307-manglepaw.json](./199307-manglepaw.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
@@ -3904,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | Matchmaker! / Logix! / Buzzword! | 98914 | [98914-matchmaker-logix-buzzword.json](./98914-matchmaker-logix-buzzword.json) |
+| Matchmaker95: A Programming Simulator | 422461 | [422461-matchmaker95-a-programming-simulator.json](./422461-matchmaker95-a-programming-simulator.json) |
 | Matchmakers A | 354386 | [354386-matchmakers-a.json](./354386-matchmakers-a.json) |
 | Matchmakers B | 354387 | [354387-matchmakers-b.json](./354387-matchmakers-b.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
@@ -12676,6 +12678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
+| Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
@@ -12775,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Future Ninja! | 110213 | [110213-mr-future-ninja.json](./110213-mr-future-ninja.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
+| Mr Greedy: Tricky Riddles | 422513 | [422513-mr-greedy-tricky-riddles.json](./422513-mr-greedy-tricky-riddles.json) |
 | Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Hero | 299410 | [299410-mr-hero.json](./299410-mr-hero.json) |
@@ -13926,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
+| My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
@@ -14436,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
+| My Many Masks | 422468 | [422468-my-many-masks.json](./422468-my-many-masks.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
