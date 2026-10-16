@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: Quest for the Fountain | 53116 | [53116-wms-slots-quest-for-the-fountain.json](./53116-wms-slots-quest-for-the-fountain.json) |
 | WMS Slots: Reel'Em In | 53115 | [53115-wms-slots-reelem-in.json](./53115-wms-slots-reelem-in.json) |
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
+| WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
@@ -6410,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
+| Writers | 75105 | [75105-writers.json](./75105-writers.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
