@@ -8125,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color 2018 Switch | 105828 | [105828-color-2018-switch.json](./105828-color-2018-switch.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color a Dinosaur SNES Port | 377225 | [377225-color-a-dinosaur-snes-port.json](./377225-color-a-dinosaur-snes-port.json) |
+| Color Assembler | 35241 | [35241-color-assembler.json](./35241-color-assembler.json) |
 | Color Attack! | 410095 | [410095-color-attack.json](./410095-color-attack.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
