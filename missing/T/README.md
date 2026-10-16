@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
+| Tales from the Borderlands: Episode 5 - The Vault of the Traveler | 127038 | [127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json](./127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json) |
 | Tales from the Cache | 145420 | [145420-tales-from-the-cache.json](./145420-tales-from-the-cache.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezuka World: Astro Crunch | 233542 | [233542-tezuka-world-astro-crunch.json](./233542-tezuka-world-astro-crunch.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
+| TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
@@ -6962,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
+| The Ghost Train | 135839 | [135839-the-ghost-train.json](./135839-the-ghost-train.json) |
 | The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
@@ -11597,6 +11600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Movie Hangout Stuff | 121021 | [121021-the-sims-4-movie-hangout-stuff.json](./121021-the-sims-4-movie-hangout-stuff.json) |
 | The Sims 4: My First Pet Stuff | 121028 | [121028-the-sims-4-my-first-pet-stuff.json](./121028-the-sims-4-my-first-pet-stuff.json) |
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
+| The Sims 4: Nifty Knitting Stuff | 139941 | [139941-the-sims-4-nifty-knitting-stuff.json](./139941-the-sims-4-nifty-knitting-stuff.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
@@ -13753,6 +13757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Something in the Ice | 289956 | [289956-theres-something-in-the-ice.json](./289956-theres-something-in-the-ice.json) |
 | There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
 | There's something wrong with... | 289957 | [289957-theres-something-wrong-with.json](./289957-theres-something-wrong-with.json) |
+| There's This Girl | 134135 | [134135-theres-this-girl.json](./134135-theres-this-girl.json) |
 | Thereafter | 247622 | [247622-thereafter.json](./247622-thereafter.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
@@ -18668,6 +18673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Touhou Seirensen Arrangements Pack | 209524 | [209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json](./209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou Spirits | 306041 | [306041-touhou-spirits.json](./306041-touhou-spirits.json) |
+| Touhou Tenkuushou: Hidden Star in Four Seasons | 75385 | [75385-touhou-tenkuushou-hidden-star-in-four-seasons.json](./75385-touhou-tenkuushou-hidden-star-in-four-seasons.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
@@ -22775,6 +22781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turrican Anthology Vol. 1 | 137324 | [137324-turrican-anthology-vol-1.json](./137324-turrican-anthology-vol-1.json) |
 | Turrican Anthology Vol. 2 | 137325 | [137325-turrican-anthology-vol-2.json](./137325-turrican-anthology-vol-2.json) |
 | Turrican Collector's Edition | 137329 | [137329-turrican-collectors-edition.json](./137329-turrican-collectors-edition.json) |
+| Turrican Flashback | 140253 | [140253-turrican-flashback.json](./140253-turrican-flashback.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turrican: Ultra Collector's Edition | 137330 | [137330-turrican-ultra-collectors-edition.json](./137330-turrican-ultra-collectors-edition.json) |
 | Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
