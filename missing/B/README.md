@@ -10573,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
+| Breakremental | 422532 | [422532-breakremental.json](./422532-breakremental.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
