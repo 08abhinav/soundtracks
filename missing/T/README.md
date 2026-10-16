@@ -10756,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
+| The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
 | The Rainbow Machine | 54972 | [54972-the-rainbow-machine.json](./54972-the-rainbow-machine.json) |
@@ -10784,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
+| The Raven Project | 20253 | [20253-the-raven-project.json](./20253-the-raven-project.json) |
 | The Raven Remastered | 80944 | [80944-the-raven-remastered.json](./80944-the-raven-remastered.json) |
 | The Raven: Legacy of a Master Thief | 7667 | [7667-the-raven-legacy-of-a-master-thief.json](./7667-the-raven-legacy-of-a-master-thief.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
@@ -10982,6 +10984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Rivers of Alice | 20355 | [20355-the-rivers-of-alice.json](./20355-the-rivers-of-alice.json) |
 | The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
