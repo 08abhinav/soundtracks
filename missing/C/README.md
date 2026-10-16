@@ -4868,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief Emoji Officer | 240702 | [240702-chief-emoji-officer.json](./240702-chief-emoji-officer.json) |
 | Chief Miner | 373357 | [373357-chief-miner.json](./373357-chief-miner.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
+| Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
 | Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
@@ -13079,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
+| Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
