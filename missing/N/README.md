@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
 | Natsuki Chronicles | 61467 | [61467-natsuki-chronicles.json](./61467-natsuki-chronicles.json) |
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
+| Natsume Championship Wrestling | 42483 | [42483-natsume-championship-wrestling.json](./42483-natsume-championship-wrestling.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nblocks: Unblock Your Creativity | 295682 | [295682-nblocks-unblock-your-creativity.json](./295682-nblocks-unblock-your-creativity.json) |
 | NBody | 276183 | [276183-nbody.json](./276183-nbody.json) |
 | NC Tower Defense 2 | 37014 | [37014-nc-tower-defense-2.json](./37014-nc-tower-defense-2.json) |
+| NCAA Basketball | 42480 | [42480-ncaa-basketball.json](./42480-ncaa-basketball.json) |
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
@@ -1073,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Deadline | 158510 | [158510-near-deadline.json](./158510-near-deadline.json) |
+| Near Death | 18434 | [18434-near-death.json](./18434-near-death.json) |
 | Near Fantasy Space | 268965 | [268965-near-fantasy-space.json](./268965-near-fantasy-space.json) |
 | Near Impact | 17782 | [17782-near-impact.json](./17782-near-impact.json) |
 | Near Mint | 315626 | [315626-near-mint.json](./315626-near-mint.json) |
@@ -3058,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
 | Night Skate | 193706 | [193706-night-skate.json](./193706-night-skate.json) |
 | Night Sky | 93735 | [93735-night-sky.json](./93735-night-sky.json) |
+| Night Slashers | 39576 | [39576-night-slashers.json](./39576-night-slashers.json) |
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
