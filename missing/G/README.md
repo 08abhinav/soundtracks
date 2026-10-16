@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Key | 111490 | [111490-golden-key.json](./111490-golden-key.json) |
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
+| Golden Krone Hotel | 32193 | [32193-golden-krone-hotel.json](./32193-golden-krone-hotel.json) |
 | Golden Lap | 294353 | [294353-golden-lap.json](./294353-golden-lap.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
@@ -6292,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
+| Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
