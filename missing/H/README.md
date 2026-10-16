@@ -8499,6 +8499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
 | Hyper Rosalina Kart Wii & Rosalina 2 Turbo | 229834 | [229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json](./229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json) |
+| Hyper Scape | 100387 | [100387-hyper-scape.json](./100387-hyper-scape.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
