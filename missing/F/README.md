@@ -1904,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17 | 19409 | [19409-farming-simulator-17.json](./19409-farming-simulator-17.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
 | Farming Simulator 17: KUHN Equipment Pack | 166090 | [166090-farming-simulator-17-kuhn-equipment-pack.json](./166090-farming-simulator-17-kuhn-equipment-pack.json) |
+| Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
 | Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
@@ -4400,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
+| First Feudal | 75813 | [75813-first-feudal.json](./75813-first-feudal.json) |
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
@@ -6399,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2016 | 19875 | [19875-football-manager-2016.json](./19875-football-manager-2016.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
 | Football Manager 2018 | 54662 | [54662-football-manager-2018.json](./54662-football-manager-2018.json) |
+| Football Manager 2018 Touch | 76356 | [76356-football-manager-2018-touch.json](./76356-football-manager-2018-touch.json) |
 | Football Manager 2019 | 41621 | [41621-football-manager-2019.json](./41621-football-manager-2019.json) |
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
@@ -8787,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
 | Frosty Jumper | 152825 | [152825-frosty-jumper.json](./152825-frosty-jumper.json) |
 | Frosty Kiss | 15933 | [15933-frosty-kiss.json](./15933-frosty-kiss.json) |
+| Frosty Nights | 76360 | [76360-frosty-nights.json](./76360-frosty-nights.json) |
 | Frowning Vermin | 383656 | [383656-frowning-vermin.json](./383656-frowning-vermin.json) |
 | Froyo Taxi | 271171 | [271171-froyo-taxi.json](./271171-froyo-taxi.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
