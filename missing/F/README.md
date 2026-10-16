@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
 | Festival Journey: Secrets of Rio - Collector's Edition | 416786 | [416786-festival-journey-secrets-of-rio-collectors-edition.json](./416786-festival-journey-secrets-of-rio-collectors-edition.json) |
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
+| Festival Management Roguelite | 420502 | [420502-festival-management-roguelite.json](./420502-festival-management-roguelite.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Festival Tycoon | 138468 | [138468-festival-tycoon.json](./138468-festival-tycoon.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
