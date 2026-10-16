@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:07:25.266Z",
-  "total_soundtracks": 1726,
+  "generated_at": "2026-10-16T05:07:38.599Z",
+  "total_soundtracks": 1727,
   "games": [
     {
       "igdb_id": 7522,
@@ -15229,6 +15229,20 @@
         {
           "album_name": "Sniper Ghost Warrior 3 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1poBYbc3r8vZ6QmGYtItYA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3342,
+      "game_name": "Snowboard Kids",
+      "game_url": "https://ostdb.net/games/snowboard-kids",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733fd799314a4c6ca3c77f8dbd",
+      "albums": [
+        {
+          "album_name": "Snowboard Kids Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/17Sw8Zis0jkP5yN38B82vc",
           "apple_music_url": "",
           "album_link_url": ""
         }
