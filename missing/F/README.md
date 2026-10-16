@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Dungeons | 116082 | [116082-fallen-dungeons.json](./116082-fallen-dungeons.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
+| Fallen Enchantress | 10297 | [10297-fallen-enchantress.json](./10297-fallen-enchantress.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
@@ -1560,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
+| Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
@@ -4053,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiore I: Daffodil | 153918 | [153918-fiore-i-daffodil.json](./153918-fiore-i-daffodil.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
+| Fire | 10321 | [10321-fire.json](./10321-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
@@ -5609,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock of the Low God VR | 244723 | [244723-flock-of-the-low-god-vr.json](./244723-flock-of-the-low-god-vr.json) |
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
+| Flockers | 10324 | [10324-flockers.json](./10324-flockers.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flockoban | 183399 | [183399-flockoban.json](./183399-flockoban.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
@@ -8780,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
+| Frozen Free Fall | 18131 | [18131-frozen-free-fall.json](./18131-frozen-free-fall.json) |
 | Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
