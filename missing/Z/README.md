@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z: Escape - Aftermath | 171322 | [171322-z-escape-aftermath.json](./171322-z-escape-aftermath.json) |
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
+| Z. Year One | 33836 | [33836-z-year-one.json](./33836-z-year-one.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
+| Zipple World | 33755 | [33755-zipple-world.json](./33755-zipple-world.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
