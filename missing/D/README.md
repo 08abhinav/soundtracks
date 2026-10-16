@@ -5535,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
+| Devilian | 11827 | [11827-devilian.json](./11827-devilian.json) |
 | Devilish | 21546 | [21546-devilish.json](./21546-devilish.json) |
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
 | Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
