@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epics of Distant Realm: Remastered Edition | 114266 | [114266-epics-of-distant-realm-remastered-edition.json](./114266-epics-of-distant-realm-remastered-edition.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
+| Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
 | Epidemyc | 190944 | [190944-epidemyc.json](./190944-epidemyc.json) |
