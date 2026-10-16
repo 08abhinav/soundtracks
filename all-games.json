@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:05:57.860Z",
-  "total_soundtracks": 1720,
+  "generated_at": "2026-10-16T05:06:11.003Z",
+  "total_soundtracks": 1721,
   "games": [
     {
       "igdb_id": 7522,
@@ -2100,6 +2100,20 @@
           "album_name": "Below (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116634,
+      "game_name": "Beyond a Steel Sky",
+      "game_url": "https://ostdb.net/games/beyond-a-steel-sky",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273efb12179531cf788c4839603",
+      "albums": [
+        {
+          "album_name": "Beyond A Steel Sky (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2UCQyRsK4w5XebTmDhJBDu",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
