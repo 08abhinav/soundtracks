@@ -2929,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
+| Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
 | Battlefield 1: They Shall Not Pass | 26941 | [26941-battlefield-1-they-shall-not-pass.json](./26941-battlefield-1-they-shall-not-pass.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
