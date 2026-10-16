@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:03:38.071Z",
-  "total_soundtracks": 1712,
+  "generated_at": "2026-10-16T05:03:51.014Z",
+  "total_soundtracks": 1713,
   "games": [
     {
       "igdb_id": 7522,
@@ -11240,6 +11240,20 @@
           "album_name": "Minecraft: Trails & Tales (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/708Ojw1mw3m2ntjw6OJJzv",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204621,
+      "game_name": "Minecraft: Legends",
+      "game_url": "https://ostdb.net/games/minecraft-legends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731bfcddd9ec5779e8c0ea89f0",
+      "albums": [
+        {
+          "album_name": "Minecraft Legends (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5fTzK9nv1mgYZ0R2KuE7M2",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
