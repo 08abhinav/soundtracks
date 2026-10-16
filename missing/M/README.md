@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 17 | 243658 | [243658-madden-nfl-17.json](./243658-madden-nfl-17.json) |
 | Madden NFL 18 | 28706 | [28706-madden-nfl-18.json](./28706-madden-nfl-18.json) |
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
+| Madden NFL 20 | 114286 | [114286-madden-nfl-20.json](./114286-madden-nfl-20.json) |
 | Madden NFL 20: Superstar Edition | 118152 | [118152-madden-nfl-20-superstar-edition.json](./118152-madden-nfl-20-superstar-edition.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 240162 | [240162-madden-nfl-2000.json](./240162-madden-nfl-2000.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marburgh | 126934 | [126934-marburgh.json](./126934-marburgh.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
+| Marc Ecko's Getting Up: Contents Under Pressure | 5909 | [5909-marc-eckos-getting-up-contents-under-pressure.json](./5909-marc-eckos-getting-up-contents-under-pressure.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
 | Marcel Desailly Pro Soccer | 6265 | [6265-marcel-desailly-pro-soccer.json](./6265-marcel-desailly-pro-soccer.json) |
 | Marceline Richenwinnier: Old Story | 393746 | [393746-marceline-richenwinnier-old-story.json](./393746-marceline-richenwinnier-old-story.json) |
@@ -7530,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle School Zombie 2 | 297905 | [297905-middle-school-zombie-2.json](./297905-middle-school-zombie-2.json) |
+| Middle-earth: Shadow of Mordor - Game of the Year Edition | 25773 | [25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json](./25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
