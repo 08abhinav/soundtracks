@@ -796,6 +796,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f620fe048d86040e524e098" width="60" /> | [Mullet Madjack](https://ostdb.net/games/mullet-madjack) | **MULLET MADJACK (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Jix2124Gc7frIqVp7m7v8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358d37cd29f65fd81bdfa25de" width="60" /> | [Mutazione](https://ostdb.net/games/mutazione) | **Mutazione (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1HWxyoTah0smeJHdiLh3K4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734dfdfc9ce8c2674deea8d27b" width="60" /> | [My Time at Portia](https://ostdb.net/games/my-time-at-portia) | **My Time at Portia (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7qAGiWdfuT9l0PR0YfX9PF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af06eb07285c348009895532" width="60" /> | [Myst V: End of Ages](https://ostdb.net/games/myst-v-end-of-ages) | **Myst V: End of Ages (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/13GPxpmYQf1a1jfKGscyv2) |
 
 ### N
 
@@ -1406,4 +1407,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1723 soundtracks · last updated 2026-10-16T05:06:41.462Z_
+_1724 soundtracks · last updated 2026-10-16T05:06:57.727Z_
