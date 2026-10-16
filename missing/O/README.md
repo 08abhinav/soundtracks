@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
+| Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda Nobunaga | 240157 | [240157-oda-nobunaga.json](./240157-oda-nobunaga.json) |
 | Oda Nobunaga: Haou no Gundan | 44398 | [44398-oda-nobunaga-haou-no-gundan.json](./44398-oda-nobunaga-haou-no-gundan.json) |
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
+| Oda's Ordinary Lives | 420506 | [420506-odas-ordinary-lives.json](./420506-odas-ordinary-lives.json) |
 | Odama | 4050 | [4050-odama.json](./4050-odama.json) |
 | Odania Sports Arena | 226130 | [226130-odania-sports-arena.json](./226130-odania-sports-arena.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
@@ -663,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
+| Office Overlord | 420509 | [420509-office-overlord.json](./420509-office-overlord.json) |
 | Office Perks: Act 1 | 297907 | [297907-office-perks-act-1.json](./297907-office-perks-act-1.json) |
 | Office Point Rescue | 159051 | [159051-office-point-rescue.json](./159051-office-point-rescue.json) |
 | Office Race | 102951 | [102951-office-race.json](./102951-office-race.json) |
