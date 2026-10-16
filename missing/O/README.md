@@ -2472,7 +2472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
-| Operation: Tango | 134822 | [134822-operation-tango.json](./134822-operation-tango.json) |
 | Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
