@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
+| Mad Hunting Simulator VR | 113268 | [113268-mad-hunting-simulator-vr.json](./113268-mad-hunting-simulator-vr.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
@@ -5846,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
+| Melee | 113544 | [113544-melee.json](./113544-melee.json) |
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
 | Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
@@ -6843,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
+| Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
@@ -9202,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
+| Miracle Snack Shop | 113331 | [113331-miracle-snack-shop.json](./113331-miracle-snack-shop.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
 | Miracle Sweeper | 235492 | [235492-miracle-sweeper.json](./235492-miracle-sweeper.json) |
