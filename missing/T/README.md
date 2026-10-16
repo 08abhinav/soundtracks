@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebrae | 188876 | [188876-tenebrae.json](./188876-tenebrae.json) |
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
+| Tenebrarium | 417965 | [417965-tenebrarium.json](./417965-tenebrarium.json) |
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
@@ -9829,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moonstone Equation | 29532 | [29532-the-moonstone-equation.json](./29532-the-moonstone-equation.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Mooseman: Mythic Edition | 53762 | [53762-the-mooseman-mythic-edition.json](./53762-the-mooseman-mythic-edition.json) |
+| The Morane Crisis | 417970 | [417970-the-morane-crisis.json](./417970-the-morane-crisis.json) |
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
 | The Morlov Affair | 78895 | [78895-the-morlov-affair.json](./78895-the-morlov-affair.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
@@ -11204,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Savoury Inspector | 160097 | [160097-the-savoury-inspector.json](./160097-the-savoury-inspector.json) |
+| The Scaglietti | 417968 | [417968-the-scaglietti.json](./417968-the-scaglietti.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scam | 369912 | [369912-the-scam.json](./369912-the-scam.json) |
 | The Scarecrow | 88140 | [88140-the-scarecrow.json](./88140-the-scarecrow.json) |
@@ -16309,6 +16312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Time's Race Against Time | 184326 | [184326-times-race-against-time.json](./184326-times-race-against-time.json) |
+| Time's Tear | 417964 | [417964-times-tear.json](./417964-times-tear.json) |
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
