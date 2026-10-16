@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dam Rush XD | 397392 | [397392-dam-rush-xd.json](./397392-dam-rush-xd.json) |
 | Dama Gallery | 154977 | [154977-dama-gallery.json](./154977-dama-gallery.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
+| Damage Chess | 420501 | [420501-damage-chess.json](./420501-damage-chess.json) |
 | Damage Control | 33302 | [33302-damage-control.json](./33302-damage-control.json) |
 | Damage Inc.: Metallica | 25067 | [25067-damage-inc-metallica.json](./25067-damage-inc-metallica.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
+| DashPoint | 420472 | [420472-dashpoint.json](./420472-dashpoint.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
@@ -4876,11 +4878,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
+| Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
 | Desert Patrol | 275232 | [275232-desert-patrol.json](./275232-desert-patrol.json) |
 | Desert Pirates | 156911 | [156911-desert-pirates.json](./156911-desert-pirates.json) |
+| Desert Quest | 420516 | [420516-desert-quest.json](./420516-desert-quest.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
@@ -8162,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Palace | 210590 | [210590-doki-doki-palace.json](./210590-doki-doki-palace.json) |
 | Doki Doki Pink Eyes | 257283 | [257283-doki-doki-pink-eyes.json](./257283-doki-doki-pink-eyes.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
+| Doki Doki Poyatchio!! | 420499 | [420499-doki-doki-poyatchio.json](./420499-doki-doki-poyatchio.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
 | Doki Doki Salvation | 165147 | [165147-doki-doki-salvation.json](./165147-doki-doki-salvation.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
@@ -10696,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
+| Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
