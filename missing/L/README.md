@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacrymo Tennis 2016 | 135065 | [135065-lacrymo-tennis-2016.json](./135065-lacrymo-tennis-2016.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
+| Lacuna Passage | 28780 | [28780-lacuna-passage.json](./28780-lacuna-passage.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landit Bandit | 52528 | [52528-landit-bandit.json](./52528-landit-bandit.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Landlady: The Lions Roar | 180627 | [180627-landlady-the-lions-roar.json](./180627-landlady-the-lions-roar.json) |
+| Landless | 28919 | [28919-landless.json](./28919-landless.json) |
 | Landleven | 115542 | [115542-landleven.json](./115542-landleven.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope: Pink Bullets | 45817 | [45817-last-hope-pink-bullets.json](./45817-last-hope-pink-bullets.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
+| Last Hours of Jack | 28668 | [28668-last-hours-of-jack.json](./28668-last-hours-of-jack.json) |
 | Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
@@ -4183,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Loki & The Yggdrasil Maze | 265630 | [265630-little-loki-and-the-yggdrasil-maze.json](./265630-little-loki-and-the-yggdrasil-maze.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
+| Little Lords of Twilight | 28667 | [28667-little-lords-of-twilight.json](./28667-little-lords-of-twilight.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
 | Little Luna | 341172 | [341172-little-luna.json](./341172-little-luna.json) |
