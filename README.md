@@ -977,6 +977,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e6d10ec0fd5bc1817d16050" width="60" /> | [RV There Yet?](https://ostdb.net/games/rv-there-yet) | **RV There Yet? (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ceZp3sb8alQ7kWFgSzYOm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337e92538e14c7cea8eeebc30" width="60" /> | [Rabi-Ribi](https://ostdb.net/games/rabi-ribi) | **Rabi-Ribi Original Soundtrack** · [Spotify](https://open.spotify.com/album/1KmfnFZ52ZvNXnNh8RfVPT) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/17/6b/53176ba8-c884-a0f0-9c9f-9bd34ed1e903/artwork.jpg/600x600bb.jpg" width="60" /> | [Raft](https://ostdb.net/games/raft) | **Raft (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Vpij8BFebiVgfCrwUM1lP) · [Apple Music](https://music.apple.com/us/album/raft-original-soundtrack/1718285264) · [Album](https://album.link/i/1718285264) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0e041aa5ff478f43b545ddd" width="60" /> | [Ragnarok Online](https://ostdb.net/games/ragnarok-online) | **Ragnarok Online BGM Part.3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/13FXPTxheHW69aTmmIKcXR)<br>**Ragnarok Online BGM, Pt. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4DPRrhBoDJpGcnprcXWiAG)<br>**Ragnarok Online BGM, Pt.2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7BDoHwSZD324g4na77mPog) |
@@ -1478,4 +1479,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1795 soundtracks · last updated 2026-10-16T05:47:19.509Z_
+_1796 soundtracks · last updated 2026-10-16T05:47:32.251Z_
