@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Packer | 234111 | [234111-waifu-packer.json](./234111-waifu-packer.json) |
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
+| Waifu School | 106413 | [106413-waifu-school.json](./106413-waifu-school.json) |
 | Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Simulator | 326307 | [326307-waifu-simulator.json](./326307-waifu-simulator.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
 | Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
+| Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wiener Wars | 216834 | [216834-wiener-wars.json](./216834-wiener-wars.json) |
