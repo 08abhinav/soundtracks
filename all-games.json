@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:34:51.921Z",
-  "total_soundtracks": 1762,
+  "generated_at": "2026-10-16T05:35:05.934Z",
+  "total_soundtracks": 1763,
   "games": [
     {
       "igdb_id": 7522,
@@ -13798,6 +13798,20 @@
           "album_name": "Quantum Break - Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26223,
+      "game_name": "Quern: Undying Thoughts",
+      "game_url": "https://ostdb.net/games/quern-undying-thoughts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de4a2ea4efa375abb46cdeba",
+      "albums": [
+        {
+          "album_name": "Quern: Undying Thoughts (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4yeGh5ifGpYLCV251PTLZy",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
