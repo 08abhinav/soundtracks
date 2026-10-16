@@ -8271,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: The Reckoning - Deathwish | 396020 | [396020-hunter-the-reckoning-deathwish.json](./396020-hunter-the-reckoning-deathwish.json) |
 | Hunter: The Reckoning - Redeemer | 5865 | [5865-hunter-the-reckoning-redeemer.json](./5865-hunter-the-reckoning-redeemer.json) |
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
+| Hunter: The Reckoning Wayward | 24096 | [24096-hunter-the-reckoning-wayward.json](./24096-hunter-the-reckoning-wayward.json) |
 | Hunter's Arena: Legends | 119137 | [119137-hunters-arena-legends.json](./119137-hunters-arena-legends.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
 | Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
@@ -8333,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
+| Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
@@ -8700,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
+| Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
