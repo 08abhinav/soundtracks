@@ -3462,6 +3462,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
+| Tetris | 178293 | [178293-tetris.json](./178293-tetris.json) |
+| Tetris | 180278 | [180278-tetris.json](./180278-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 203099 | [203099-tetris.json](./203099-tetris.json) |
@@ -4038,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Shrinking Giraffe | 260775 | [260775-the-amazing-shrinking-giraffe.json](./260775-the-amazing-shrinking-giraffe.json) |
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
+| The Amazing Spider-Man | 11896 | [11896-the-amazing-spider-man.json](./11896-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 1376 | [1376-the-amazing-spider-man.json](./1376-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203136 | [203136-the-amazing-spider-man.json](./203136-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203138 | [203138-the-amazing-spider-man.json](./203138-the-amazing-spider-man.json) |
@@ -4369,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
+| The Bathhouse | 200475 | [200475-the-bathhouse.json](./200475-the-bathhouse.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
 | The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
@@ -5410,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
+| The Cub | 194744 | [194744-the-cub.json](./194744-the-cub.json) |
 | The Cube | 120141 | [120141-the-cube.json](./120141-the-cube.json) |
 | The Cube | 226361 | [226361-the-cube.json](./226361-the-cube.json) |
 | The Cube | 347640 | [347640-the-cube.json](./347640-the-cube.json) |
@@ -7501,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
 | The House of Da Vinci 2 | 132542 | [132542-the-house-of-da-vinci-2.json](./132542-the-house-of-da-vinci-2.json) |
+| The House of Da Vinci 3 | 197081 | [197081-the-house-of-da-vinci-3.json](./197081-the-house-of-da-vinci-3.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
@@ -10394,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
+| The Plague Doctor of Wippra | 189301 | [189301-the-plague-doctor-of-wippra.json](./189301-the-plague-doctor-of-wippra.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plan | 11764 | [11764-the-plan.json](./11764-the-plan.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
@@ -12357,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
+| The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
 | The Tomorrow Children | 7604 | [7604-the-tomorrow-children.json](./7604-the-tomorrow-children.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
@@ -18109,6 +18117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Battleground | 101416 | [101416-total-battleground.json](./101416-total-battleground.json) |
+| Total Carnage | 12868 | [12868-total-carnage.json](./12868-total-carnage.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
@@ -18167,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Saga: Thrones of Britannia | 44102 | [44102-total-war-saga-thrones-of-britannia.json](./44102-total-war-saga-thrones-of-britannia.json) |
 | Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
 | Total War Saga: Thrones of Britannia - Limited Edition | 86390 | [86390-total-war-saga-thrones-of-britannia-limited-edition.json](./86390-total-war-saga-thrones-of-britannia-limited-edition.json) |
+| Total War: Arena | 12982 | [12982-total-war-arena.json](./12982-total-war-arena.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
