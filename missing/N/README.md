@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightGhast | 293366 | [293366-nightghast.json](./293366-nightghast.json) |
 | Nighthaw-X3000 | 29181 | [29181-nighthaw-x3000.json](./29181-nighthaw-x3000.json) |
 | Nighthawk | 334329 | [334329-nighthawk.json](./334329-nighthawk.json) |
+| NightHawk F-117A Stealth Fighter 2.0 | 10292 | [10292-nighthawk-f-117a-stealth-fighter-2-0.json](./10292-nighthawk-f-117a-stealth-fighter-2-0.json) |
 | Nighthawk no Shokuzai: Zenpen | 401609 | [401609-nighthawk-no-shokuzai-zenpen.json](./401609-nighthawk-no-shokuzai-zenpen.json) |
 | Nighthold | 324568 | [324568-nighthold.json](./324568-nighthold.json) |
 | NightHover | 250835 | [250835-nighthover.json](./250835-nighthover.json) |
@@ -3641,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
+| Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
