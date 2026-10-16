@@ -4820,7 +4820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
-| Medal of Honor: European Assault | 1311 | [1311-medal-of-honor-european-assault.json](./1311-medal-of-honor-european-assault.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
