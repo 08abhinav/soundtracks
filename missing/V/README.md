@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | VioMice | 124539 | [124539-viomice.json](./124539-viomice.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
+| Vip Anarchy | 87245 | [87245-vip-anarchy.json](./87245-vip-anarchy.json) |
 | VIP Casino Blackjack | 21823 | [21823-vip-casino-blackjack.json](./21823-vip-casino-blackjack.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
