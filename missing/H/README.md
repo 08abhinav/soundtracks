@@ -7149,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
 | Hot Dog Champion | 19147 | [19147-hot-dog-champion.json](./19147-hot-dog-champion.json) |
+| Hot Dog King | 20369 | [20369-hot-dog-king.json](./20369-hot-dog-king.json) |
 | Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
