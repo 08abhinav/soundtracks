@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
+| Labyrinth Legends | 21012 | [21012-labyrinth-legends.json](./21012-labyrinth-legends.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
+| LEGO Universe | 21092 | [21092-lego-universe.json](./21092-lego-universe.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | LEGO Worlds | 10910 | [10910-lego-worlds.json](./10910-lego-worlds.json) |
@@ -5732,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
+| Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
