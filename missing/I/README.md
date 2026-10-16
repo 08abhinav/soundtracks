@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
+| I fell from Grace | 51718 | [51718-i-fell-from-grace.json](./51718-i-fell-from-grace.json) |
 | I Fell In Love With A Fantasy Farmer | 296609 | [296609-i-fell-in-love-with-a-fantasy-farmer.json](./296609-i-fell-in-love-with-a-fantasy-farmer.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
+| Icons: Combat Arena | 51449 | [51449-icons-combat-arena.json](./51449-icons-combat-arena.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
 | Icontrivia: Guess the Celebrity | 232473 | [232473-icontrivia-guess-the-celebrity.json](./232473-icontrivia-guess-the-celebrity.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
@@ -4348,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
+| Islands of Nyne: Battle Royale | 51548 | [51548-islands-of-nyne-battle-royale.json](./51548-islands-of-nyne-battle-royale.json) |
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
