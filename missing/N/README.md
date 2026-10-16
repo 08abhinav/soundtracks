@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Baby | 420666 | [420666-naughty-baby.json](./420666-naughty-baby.json) |
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
+| Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL GameDay 98 | 45216 | [45216-nfl-gameday-98.json](./45216-nfl-gameday-98.json) |
 | NFL GameDay 99 | 45218 | [45218-nfl-gameday-99.json](./45218-nfl-gameday-99.json) |
 | NFL Hall of Fame Football | 46607 | [46607-nfl-hall-of-fame-football.json](./46607-nfl-hall-of-fame-football.json) |
+| NFL Head Coach | 5963 | [5963-nfl-head-coach.json](./5963-nfl-head-coach.json) |
 | NFL Instant Replay | 46574 | [46574-nfl-instant-replay.json](./46574-nfl-instant-replay.json) |
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
