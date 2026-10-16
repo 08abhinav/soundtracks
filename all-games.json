@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:51:49.967Z",
-  "total_soundtracks": 1813,
+  "generated_at": "2026-10-16T05:52:03.054Z",
+  "total_soundtracks": 1814,
   "games": [
     {
       "igdb_id": 7522,
@@ -10634,6 +10634,20 @@
           "album_name": "LittleBigPlanet (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21911,
+      "game_name": "LittleBigPlanet",
+      "game_url": "https://ostdb.net/games/littlebigplanet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273483587d9073df60885738f9d",
+      "albums": [
+        {
+          "album_name": "LittleBigPlanet (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
