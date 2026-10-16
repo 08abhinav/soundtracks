@@ -1199,6 +1199,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fa5961e5dffe3ab3d66d93c" width="60" /> | [Tangle Tower](https://ostdb.net/games/tangle-tower) | **Tangle Tower (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3gPVEByPWdRqWmAHJ4y4wl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0df59fc8326bacf0222809a" width="60" /> | [Team Fortress 2](https://ostdb.net/games/team-fortress-2) | **Fight Songs: The Music of Team Fortress 2** · [Spotify](https://open.spotify.com/album/4XbdQcRcywvBSp1cD7DgyO) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/6a/b9/266ab950-6f7b-f31c-22e1-7e9f5b79cdbe/3663729201683_cover.jpg/600x600bb.jpg" width="60" /> | [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://ostdb.net/games/teenage-mutant-ninja-turtles-shredders-revenge) | **Teenage Mutant Ninja Turtles: Shredder's Revenge (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2RjhOXOFZVg0apz7YdCYxM) · [Apple Music](https://music.apple.com/us/album/teenage-mutant-ninja-turtles-shredders-revenge-original/1627546793) · [Album](https://album.link/i/1627546793) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339674523fa44f262b224f6df" width="60" /> | [Tekken](https://ostdb.net/games/tekken) | **TEKKEN (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1aEwYaeBclFgtf7dKpS02p) |
 | <img src="https://i.scdn.co/image/ab67616d0000aa548b10a46521328b520aa45aec" width="60" /> | [Tekken 2](https://ostdb.net/games/tekken-2) | **Tekken 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6EggxuKVGZ0fpYseeRPybC) · [Apple Music](https://music.apple.com/cz/album/tekken-2-original-soundtrack/1724285091?l=cs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edd6727f250561625ac18a1f" width="60" /> | [Tekken 3](https://ostdb.net/games/tekken-3) | **TEKKEN 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3AIocpCS06fH9N88lFNolJ) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/c1/b0/74c1b01e-5f3c-ba74-9afb-f4e1fd1c3627/PA00133827_0_179865_jacket.jpg/600x600bb.jpg" width="60" /> | [Tekken 4](https://ostdb.net/games/tekken-4) | **TEKKEN 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd) · [Apple Music](https://music.apple.com/us/album/tekken-4-original-soundtrack/1724296166) · [Album](https://album.link/i/1724296166) |
@@ -1469,4 +1470,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1786 soundtracks · last updated 2026-10-16T05:44:45.095Z_
+_1787 soundtracks · last updated 2026-10-16T05:44:57.891Z_
