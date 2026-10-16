@@ -4073,7 +4073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie II: Expansion Pack | 169327 | [169327-charlie-ii-expansion-pack.json](./169327-charlie-ii-expansion-pack.json) |
 | Charlie in the Moistverse of Madness | 192257 | [192257-charlie-in-the-moistverse-of-madness.json](./192257-charlie-in-the-moistverse-of-madness.json) |
 | Charlie in Underworld! | 212503 | [212503-charlie-in-underworld.json](./212503-charlie-in-underworld.json) |
-| Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
 | Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
@@ -6479,7 +6478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
 | Clannad | 262494 | [262494-clannad.json](./262494-clannad.json) |
-| Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
 | Clannad Full Voice | 262489 | [262489-clannad-full-voice.json](./262489-clannad-full-voice.json) |
 | Clannad Key Trilogy Premium Box | 166663 | [166663-clannad-key-trilogy-premium-box.json](./166663-clannad-key-trilogy-premium-box.json) |
 | Clannad: Lost Winter | 166664 | [166664-clannad-lost-winter.json](./166664-clannad-lost-winter.json) |
@@ -11160,7 +11158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
-| Crashlands | 15389 | [15389-crashlands.json](./15389-crashlands.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
