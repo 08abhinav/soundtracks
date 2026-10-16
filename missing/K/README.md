@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick the Buddy: Second Kick | 230417 | [230417-kick-the-buddy-second-kick.json](./230417-kick-the-buddy-second-kick.json) |
+| Kick the Buddymann | 100846 | [100846-kick-the-buddymann.json](./100846-kick-the-buddymann.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
+| Kontrast | 100833 | [100833-kontrast.json](./100833-kontrast.json) |
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
