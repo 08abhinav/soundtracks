@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School Vibes Bundle | 331482 | [331482-old-school-vibes-bundle.json](./331482-old-school-vibes-bundle.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Site | 218535 | [218535-old-site.json](./218535-old-site.json) |
+| Old Skies | 203240 | [203240-old-skies.json](./203240-old-skies.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
 | Old Spice Nature Adventure | 137392 | [137392-old-spice-nature-adventure.json](./137392-old-spice-nature-adventure.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
+| OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
