@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Knew You Would Find This | 177816 | [177816-i-knew-you-would-find-this.json](./177816-i-knew-you-would-find-this.json) |
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
 | I Know a Spot | 408984 | [408984-i-know-a-spot.json](./408984-i-know-a-spot.json) |
+| I Know a Tale | 31280 | [31280-i-know-a-tale.json](./31280-i-know-a-tale.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
 | I Know Your Address | 288776 | [288776-i-know-your-address.json](./288776-i-know-your-address.json) |
