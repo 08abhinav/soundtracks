@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkick | 418557 | [418557-hellkick.json](./418557-hellkick.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
+| Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
