@@ -513,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
-| Paint the Town Red | 13192 | [13192-paint-the-town-red.json](./13192-paint-the-town-red.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
@@ -3097,7 +3096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Traffic Simulator | 140951 | [140951-perfect-traffic-simulator.json](./140951-perfect-traffic-simulator.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
-| Perfect Vermin | 140857 | [140857-perfect-vermin.json](./140857-perfect-vermin.json) |
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 302776 | [302776-perfect-world.json](./302776-perfect-world.json) |
@@ -3225,7 +3223,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
-| Persona 3: Dancing in Moonlight | 54217 | [54217-persona-3-dancing-in-moonlight.json](./54217-persona-3-dancing-in-moonlight.json) |
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
@@ -6318,7 +6315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
-| Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
@@ -6493,7 +6489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
-| Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
 | PlanetBlight | 244132 | [244132-planetblight.json](./244132-planetblight.json) |
 | Planetbound | 41926 | [41926-planetbound.json](./41926-planetbound.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
@@ -9097,7 +9092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Brain Damaged | 138353 | [138353-postal-brain-damaged.json](./138353-postal-brain-damaged.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
-| Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
@@ -11784,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
 | Pudding Monster | 120805 | [120805-pudding-monster.json](./120805-pudding-monster.json) |
+| Pudding Monsters | 90051 | [90051-pudding-monsters.json](./90051-pudding-monsters.json) |
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
