@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
 | Happy Pairs | 71185 | [71185-happy-pairs.json](./71185-happy-pairs.json) |
+| Happy Penguin VR | 28930 | [28930-happy-penguin-vr.json](./28930-happy-penguin-vr.json) |
 | Happy Pet Balance: Which is the heaviest? | 233538 | [233538-happy-pet-balance-which-is-the-heaviest.json](./233538-happy-pet-balance-which-is-the-heaviest.json) |
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate: London FPS | 191504 | [191504-hellgate-london-fps.json](./191504-hellgate-london-fps.json) |
 | Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
+| HellGunner | 28765 | [28765-hellgunner.json](./28765-hellgunner.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
 | Hellhole Game | 390707 | [390707-hellhole-game.json](./390707-hellhole-game.json) |
