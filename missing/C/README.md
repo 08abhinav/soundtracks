@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire | 183407 | [183407-campfire.json](./183407-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
+| Campfire Cooking | 68468 | [68468-campfire-cooking.json](./68468-campfire-cooking.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
 | Campfire Legends: The Babysitter | 62833 | [62833-campfire-legends-the-babysitter.json](./62833-campfire-legends-the-babysitter.json) |
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cho Aniki Collection | 375595 | [375595-cho-aniki-collection.json](./375595-cho-aniki-collection.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
+| Cho Dengeki Stryker | 36236 | [36236-cho-dengeki-stryker.json](./36236-cho-dengeki-stryker.json) |
 | Cho Noi | 382527 | [382527-cho-noi.json](./382527-cho-noi.json) |
 | Cho Tousouchuu Atsumare Saikyou no Tousousya Tachi | 55844 | [55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json](./55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json) |
 | Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
@@ -5477,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Puzzle 5 | 280312 | [280312-christmas-puzzle-5.json](./280312-christmas-puzzle-5.json) |
 | Christmas Puzzle Story | 328540 | [328540-christmas-puzzle-story.json](./328540-christmas-puzzle-story.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
+| Christmas Race | 76107 | [76107-christmas-race.json](./76107-christmas-race.json) |
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
 | Christmas Racing | 186573 | [186573-christmas-racing.json](./186573-christmas-racing.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
@@ -5881,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
+| Ciel Fledge | 75431 | [75431-ciel-fledge.json](./75431-ciel-fledge.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
@@ -14195,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cycle | 224167 | [224167-cycle.json](./224167-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
+| Cycle 28 | 76813 | [76813-cycle-28.json](./76813-cycle-28.json) |
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
 | Cycle Maabou | 375607 | [375607-cycle-maabou.json](./375607-cycle-maabou.json) |
