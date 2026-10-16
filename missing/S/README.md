@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
+| Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Journey | 165648 | [165648-samurai-journey.json](./165648-samurai-journey.json) |
 | Samurai Katana Rampage: Stickman Saga | 304272 | [304272-samurai-katana-rampage-stickman-saga.json](./304272-samurai-katana-rampage-stickman-saga.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
 | Scooby-Doo! and the Spooky Swamp | 5143 | [5143-scooby-doo-and-the-spooky-swamp.json](./5143-scooby-doo-and-the-spooky-swamp.json) |
 | Scooby-Doo! Classic Creep Capers | 249116 | [249116-scooby-doo-classic-creep-capers.json](./249116-scooby-doo-classic-creep-capers.json) |
+| Scooby-Doo! Classic Creep Capers | 2858 | [2858-scooby-doo-classic-creep-capers.json](./2858-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
@@ -5856,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
+| Shining Force CD | 3198 | [3198-shining-force-cd.json](./3198-shining-force-cd.json) |
 | Shining Force Classics | 112181 | [112181-shining-force-classics.json](./112181-shining-force-classics.json) |
 | Shining Force Cross | 65251 | [65251-shining-force-cross.json](./65251-shining-force-cross.json) |
 | Shining Force Cross Elysion | 62094 | [62094-shining-force-cross-elysion.json](./62094-shining-force-cross-elysion.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
+| Shroud of the Avatar: Forsaken Virtues | 3187 | [3187-shroud-of-the-avatar-forsaken-virtues.json](./3187-shroud-of-the-avatar-forsaken-virtues.json) |
 | Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
 | Shrouded | 26791 | [26791-shrouded.json](./26791-shrouded.json) |
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
@@ -15453,10 +15457,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Kash Dash | 218533 | [218533-spongebob-squarepants-kash-dash.json](./218533-spongebob-squarepants-kash-dash.json) |
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Krusty Kollection | 8069 | [8069-spongebob-squarepants-krusty-kollection.json](./8069-spongebob-squarepants-krusty-kollection.json) |
+| SpongeBob SquarePants: Legend of the Lost Spatula | 2760 | [2760-spongebob-squarepants-legend-of-the-lost-spatula.json](./2760-spongebob-squarepants-legend-of-the-lost-spatula.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 248553 | [248553-spongebob-squarepants-lights-camera-pants.json](./248553-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: Operation Krabby Patty | 2759 | [2759-spongebob-squarepants-operation-krabby-patty.json](./2759-spongebob-squarepants-operation-krabby-patty.json) |
 | SpongeBob SquarePants: Patty Pursuit | 134492 | [134492-spongebob-squarepants-patty-pursuit.json](./134492-spongebob-squarepants-patty-pursuit.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: Reef Rumble | 230891 | [230891-spongebob-squarepants-reef-rumble.json](./230891-spongebob-squarepants-reef-rumble.json) |
@@ -22257,6 +22263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
+| Super Mega Baseball 4 | 202858 | [202858-super-mega-baseball-4.json](./202858-super-mega-baseball-4.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
