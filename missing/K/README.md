@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnightMan | 257387 | [257387-knightman.json](./257387-knightman.json) |
 | Knightmare | 12166 | [12166-knightmare.json](./12166-knightmare.json) |
 | Knightmare | 13011 | [13011-knightmare.json](./13011-knightmare.json) |
+| Knightmare | 13670 | [13670-knightmare.json](./13670-knightmare.json) |
 | Knightmare | 163950 | [163950-knightmare.json](./163950-knightmare.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
 | Knightmare II: The Maze of Galious | 361716 | [361716-knightmare-ii-the-maze-of-galious.json](./361716-knightmare-ii-the-maze-of-galious.json) |
