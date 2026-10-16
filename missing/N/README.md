@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
+| Neon Arena | 30516 | [30516-neon-arena.json](./30516-neon-arena.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
 | Neon Basketball | 88149 | [88149-neon-basketball.json](./88149-neon-basketball.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
 | Nightwater | 386296 | [386296-nightwater.json](./386296-nightwater.json) |
 | Nightwolf: Survive the Megadome | 68995 | [68995-nightwolf-survive-the-megadome.json](./68995-nightwolf-survive-the-megadome.json) |
+| NightZ | 30711 | [30711-nightz.json](./30711-nightz.json) |
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
