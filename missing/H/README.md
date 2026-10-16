@@ -5065,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
+| Hide Online | 95817 | [95817-hide-online.json](./95817-hide-online.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
