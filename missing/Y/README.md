@@ -632,7 +632,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoobot Vs. Yoonot | 320350 | [320350-yoobot-vs-yoonot.json](./320350-yoobot-vs-yoonot.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
-| Yooka-Laylee and the Impossible Lair | 119259 | [119259-yooka-laylee-and-the-impossible-lair.json](./119259-yooka-laylee-and-the-impossible-lair.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
@@ -1127,7 +1126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
 | Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
-| Ys Seven | 10948 | [10948-ys-seven.json](./10948-ys-seven.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | YS VIII Mobile | 139223 | [139223-ys-viii-mobile.json](./139223-ys-viii-mobile.json) |
 | Ys VIII: Lacrimosa of Dana | 27304 | [27304-ys-viii-lacrimosa-of-dana.json](./27304-ys-viii-lacrimosa-of-dana.json) |
@@ -1158,7 +1156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
-| Ys: The Oath in Felghana | 15455 | [15455-ys-the-oath-in-felghana.json](./15455-ys-the-oath-in-felghana.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
@@ -1422,7 +1419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
-| Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
 | Yuppie Psycho: Collector's Edition | 198132 | [198132-yuppie-psycho-collectors-edition.json](./198132-yuppie-psycho-collectors-edition.json) |
 | Yuppy's Adventure | 148694 | [148694-yuppys-adventure.json](./148694-yuppys-adventure.json) |
 | Yuque | 166571 | [166571-yuque.json](./166571-yuque.json) |
