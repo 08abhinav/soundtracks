@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
 | Fernando Martin Basket Master | 51439 | [51439-fernando-martin-basket-master.json](./51439-fernando-martin-basket-master.json) |
 | Fernando Martín Executive | 71753 | [71753-fernando-martin-executive.json](./71753-fernando-martin-executive.json) |
+| Fernbus Coach Simulator | 33896 | [33896-fernbus-coach-simulator.json](./33896-fernbus-coach-simulator.json) |
 | Fernbus Coach Simulator: Map Poland | 332014 | [332014-fernbus-coach-simulator-map-poland.json](./332014-fernbus-coach-simulator-map-poland.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
