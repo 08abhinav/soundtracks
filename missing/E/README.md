@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
 | east van EP | 134510 | [134510-east-van-ep.json](./134510-east-van-ep.json) |
 | east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
+| East vs. West: A Hearts of Iron Game | 2007 | [2007-east-vs-west-a-hearts-of-iron-game.json](./2007-east-vs-west-a-hearts-of-iron-game.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
+| Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
 | Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
+| Espgaluda II | 6989 | [6989-espgaluda-ii.json](./6989-espgaluda-ii.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
