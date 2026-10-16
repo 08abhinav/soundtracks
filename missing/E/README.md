@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
 | Electra | 229640 | [229640-electra.json](./229640-electra.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
+| Electracy: Signal Lost | 418596 | [418596-electracy-signal-lost.json](./418596-electracy-signal-lost.json) |
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
