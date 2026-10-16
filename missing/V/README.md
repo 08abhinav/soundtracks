@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
+| Viola: The Heroine's Melody | 112715 | [112715-viola-the-heroines-melody.json](./112715-viola-the-heroines-melody.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violation | 182307 | [182307-violation.json](./182307-violation.json) |
 | Violation Facility | 82676 | [82676-violation-facility.json](./82676-violation-facility.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Soldiers | 150246 | [150246-virtual-soldiers.json](./150246-virtual-soldiers.json) |
 | Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
+| Virtual Surfing | 113329 | [113329-virtual-surfing.json](./113329-virtual-surfing.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
 | Virtual Taekwondo | 366358 | [366358-virtual-taekwondo.json](./366358-virtual-taekwondo.json) |
