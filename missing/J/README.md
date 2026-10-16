@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
+| Jigsaw Puzzle Pro | 91316 | [91316-jigsaw-puzzle-pro.json](./91316-jigsaw-puzzle-pro.json) |
 | Jigsaw Puzzle Utopia | 322071 | [322071-jigsaw-puzzle-utopia.json](./322071-jigsaw-puzzle-utopia.json) |
 | Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
 | Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 9 | 162234 | [162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json](./162234-jigsaw-puzzle-pro-edition-expansion-pack-9.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
+| Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
@@ -2084,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
+| JQ: dogs & cats | 91159 | [91159-jq-dogs-and-cats.json](./91159-jq-dogs-and-cats.json) |
 | JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
 | JR East Train Simulator: Chuo Line Rapid Service - Takao to Tokyo E233-0 Series | 227194 | [227194-jr-east-train-simulator-chuo-line-rapid-service-takao-to-tokyo-e233-0-series.json](./227194-jr-east-train-simulator-chuo-line-rapid-service-takao-to-tokyo-e233-0-series.json) |
 | JR East Train Simulator: Hachinohe Line (Hachinohe to Kuji) Kiha E130-500 Series | 274643 | [274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json](./274643-jr-east-train-simulator-hachinohe-line-hachinohe-to-kuji-kiha-e130-500-series.json) |
