@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
+| Maple Blade | 420013 | [420013-maple-blade.json](./420013-maple-blade.json) |
 | Maple Colors | 322259 | [322259-maple-colors.json](./322259-maple-colors.json) |
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
@@ -14556,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Puppy Love | 99100 | [99100-my-puppy-love.json](./99100-my-puppy-love.json) |
 | My Puppy Shop | 154786 | [154786-my-puppy-shop.json](./154786-my-puppy-shop.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
+| My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
