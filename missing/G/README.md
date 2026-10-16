@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Camera | 84643 | [84643-game-boy-camera.json](./84643-game-boy-camera.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
+| Game Boy Gallery | 72282 | [72282-game-boy-gallery.json](./72282-game-boy-gallery.json) |
 | Game Boy Wars | 1687 | [1687-game-boy-wars.json](./1687-game-boy-wars.json) |
 | Game Boy Wars 2 | 1689 | [1689-game-boy-wars-2.json](./1689-game-boy-wars-2.json) |
 | Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiabears: Strength and Honour | 102679 | [102679-gladiabears-strength-and-honour.json](./102679-gladiabears-strength-and-honour.json) |
+| Gladiabots | 53079 | [53079-gladiabots.json](./53079-gladiabots.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
@@ -7527,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel | 275046 | [275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json](./275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Time Limited | 273301 | [273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json](./273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Young Gun Grave | 273300 | [273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json](./273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json) |
+| Gungrave VR | 71456 | [71456-gungrave-vr.json](./71456-gungrave-vr.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
