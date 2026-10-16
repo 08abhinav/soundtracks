@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:21:19.217Z",
-  "total_missing": 219723,
+  "generated_at": "2026-10-16T14:37:39.262Z",
+  "total_missing": 219722,
   "games": [
     {
       "igdb_id": 191680,
@@ -188125,11 +188125,6 @@
       "igdb_id": 210691,
       "game_name": "Corny Crush",
       "file": "missing/C/210691-corny-crush.json"
-    },
-    {
-      "igdb_id": 123269,
-      "game_name": "Coromon",
-      "file": "missing/C/123269-coromon.json"
     },
     {
       "igdb_id": 315506,
