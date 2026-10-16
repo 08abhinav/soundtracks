@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See How the Cat Jumps | 379668 | [379668-see-how-the-cat-jumps.json](./379668-see-how-the-cat-jumps.json) |
 | See Light | 29088 | [29088-see-light.json](./29088-see-light.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
+| See No Evil | 17642 | [17642-see-no-evil.json](./17642-see-no-evil.json) |
 | See No Fear | 243046 | [243046-see-no-fear.json](./243046-see-no-fear.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
@@ -4841,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
 | ShadowCore VR | 75069 | [75069-shadowcore-vr.json](./75069-shadowcore-vr.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
+| Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
@@ -14480,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre | 159226 | [159226-spectre.json](./159226-spectre.json) |
+| Spectre | 17674 | [17674-spectre.json](./17674-spectre.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
@@ -14771,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
+| Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -15972,6 +15976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Cricket VR | 29698 | [29698-spud-cricket-vr.json](./29698-spud-cricket-vr.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
+| Spud's Quest | 17687 | [17687-spuds-quest.json](./17687-spuds-quest.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spuds Unearthed | 113161 | [113161-spuds-unearthed.json](./113161-spuds-unearthed.json) |
 | Spunch Bob and Krabsburger Secret | 334911 | [334911-spunch-bob-and-krabsburger-secret.json](./334911-spunch-bob-and-krabsburger-secret.json) |
@@ -19027,6 +19032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
+| Storm over the Pacific | 17420 | [17420-storm-over-the-pacific.json](./17420-storm-over-the-pacific.json) |
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
@@ -23671,6 +23677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
 | Supreme Warrior | 4291 | [4291-supreme-warrior.json](./4291-supreme-warrior.json) |
+| Supreme: Pizza Empire | 17742 | [17742-supreme-pizza-empire.json](./17742-supreme-pizza-empire.json) |
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
