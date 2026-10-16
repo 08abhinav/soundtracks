@@ -239,6 +239,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/a5/3c/b3a53c64-6934-fc13-3c4d-c80bc9ad57cb/859752782418_cover.jpg/600x600bb.jpg" width="60" /> | [Chernobylite](https://ostdb.net/games/chernobylite) | **Chernobylite (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4) · [Album](https://album.link/i/1603631498) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738765e9ba233a6ff4345578ec" width="60" /> | [Child of Light](https://ostdb.net/games/child-of-light) | **Child of Light** · [Spotify](https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/24/64/882464bf-64a1-9ffb-1f88-17e47c3260d2/672985979604.png/600x600bb.jpg" width="60" /> | [Children of Morta](https://ostdb.net/games/children-of-morta) | **Children of Morta (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/children-of-morta-original-game-soundtrack/1581604536?uo=4) · [Album](https://album.link/i/1581604536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ce6214ddb3abc8081fde8e3" width="60" /> | [Chorus](https://ostdb.net/games/chorus) | **Chorus (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28UEPM7X6cgVA6zag8u1bK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9cccd9497d99a869dcbb8af" width="60" /> | [Chrono Trigger](https://ostdb.net/games/chrono-trigger) | **CHRONO TRIGGER Original Soundtrack【DS Edition】** · [Spotify](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d4aced281c8a20c54ffad06" width="60" /> | [Cities: Skylines](https://ostdb.net/games/cities-skylines) | **Cities: Skylines (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77FJWqhRjnL0gJ2sl7MJhG) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/6c/26/876c2642-f259-38f7-3e43-3aba01431927/artwork.jpg/600x600bb.jpg" width="60" /> | [Citizen Sleeper 2: Starward Vector](https://ostdb.net/games/citizen-sleeper-2-starward-vector) | **Citizen Sleeper 2: Starward Vector (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/citizen-sleeper-2-starward-vector-original-game-soundtrack/1784270571?uo=4) · [Album](https://album.link/i/1784270571) |
@@ -1512,4 +1513,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1829 soundtracks · last updated 2026-10-16T05:55:57.718Z_
+_1830 soundtracks · last updated 2026-10-16T05:56:11.632Z_
