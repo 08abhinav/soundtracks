@@ -2257,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
 | Bass Pro Shops: The Hunt | 51049 | [51049-bass-pro-shops-the-hunt.json](./51049-bass-pro-shops-the-hunt.json) |
 | Bass Pro Shops: The Hunt - Trophy Showdown | 51050 | [51050-bass-pro-shops-the-hunt-trophy-showdown.json](./51050-bass-pro-shops-the-hunt-trophy-showdown.json) |
+| Bass Pro Shops: The Strike | 4706 | [4706-bass-pro-shops-the-strike.json](./4706-bass-pro-shops-the-strike.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
 | Bass Pro Shops: The Strike - Tournament Edition | 205908 | [205908-bass-pro-shops-the-strike-tournament-edition.json](./205908-bass-pro-shops-the-strike-tournament-edition.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
@@ -7562,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
 | Blood Bound Origins | 313827 | [313827-blood-bound-origins.json](./313827-blood-bound-origins.json) |
 | Blood Bound: Dark Solstice | 313826 | [313826-blood-bound-dark-solstice.json](./313826-blood-bound-dark-solstice.json) |
+| Blood Bowl | 6058 | [6058-blood-bowl.json](./6058-blood-bowl.json) |
 | Blood Bowl 2 | 6059 | [6059-blood-bowl-2.json](./6059-blood-bowl-2.json) |
 | Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
 | Blood Bowl 2: Khemri | 150608 | [150608-blood-bowl-2-khemri.json](./150608-blood-bowl-2-khemri.json) |
@@ -11175,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
+| Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
 | Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
