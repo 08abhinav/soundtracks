@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
+| Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | Patch | 391686 | [391686-patch.json](./391686-patch.json) |
 | Patch Catch | 256196 | [256196-patch-catch.json](./256196-patch-catch.json) |
+| Patch Quest | 141561 | [141561-patch-quest.json](./141561-patch-quest.json) |
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
 | Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
@@ -10333,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Ward: VIP Floor - She Was My Nurse | 385821 | [385821-private-ward-vip-floor-she-was-my-nurse.json](./385821-private-ward-vip-floor-she-was-my-nurse.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateer | 269222 | [269222-privateer.json](./269222-privateer.json) |
+| Privateer 2: The Darkening | 810 | [810-privateer-2-the-darkening.json](./810-privateer-2-the-darkening.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
