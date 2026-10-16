@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:36:13.054Z",
-  "total_soundtracks": 1946,
+  "generated_at": "2026-10-16T19:36:27.378Z",
+  "total_soundtracks": 1947,
   "games": [
     {
       "igdb_id": 7522,
@@ -23167,6 +23167,20 @@
         {
           "album_name": "Xcom: Chimera Squad (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5mqkB8aM3mG8izuxeZt4GX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3648,
+      "game_name": "Xena: Warrior Princess",
+      "game_url": "https://ostdb.net/games/xena-warrior-princess",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bdac26f7dec1c114364110d7",
+      "albums": [
+        {
+          "album_name": "Xena: Warrior Princess, Volume Four (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/30sDSmnAhYHRo7Cgc8ICvx",
           "apple_music_url": "",
           "album_link_url": ""
         }
