@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
+| Cage of Kurikaesu | 420498 | [420498-cage-of-kurikaesu.json](./420498-cage-of-kurikaesu.json) |
 | Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
 | Cage of Y | 398032 | [398032-cage-of-y.json](./398032-cage-of-y.json) |
 | Cage-Face: Case 1 - The Mine | 175651 | [175651-cage-face-case-1-the-mine.json](./175651-cage-face-case-1-the-mine.json) |
@@ -1059,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanVerse | 227999 | [227999-canverse.json](./227999-canverse.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
+| Canyon Carnage | 420503 | [420503-canyon-carnage.json](./420503-canyon-carnage.json) |
 | Canyon Defense | 186125 | [186125-canyon-defense.json](./186125-canyon-defense.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
@@ -1504,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
@@ -1919,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
+| Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
@@ -13062,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
 | Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
+| Cthulhu Rampage | 420497 | [420497-cthulhu-rampage.json](./420497-cthulhu-rampage.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
