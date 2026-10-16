@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
+| Necromunda: Hired Gun | 144725 | [144725-necromunda-hired-gun.json](./144725-necromunda-hired-gun.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
 | Necromunda: Hired Gun - Hellhound Pack | 223536 | [223536-necromunda-hired-gun-hellhound-pack.json](./223536-necromunda-hired-gun-hellhound-pack.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR Replicant ver.1.22474487139...: 4 YoRHa | 360511 | [360511-nier-replicant-ver-1-22474487139-4-yorha.json](./360511-nier-replicant-ver-1-22474487139-4-yorha.json) |
 | NieR Replicant ver.1.22474487139...: Lunar Tear Edition | 167139 | [167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json](./167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json) |
 | NieR: Automata - 6C2P4A118680823 | 312117 | [312117-nier-automata-6c2p4a118680823.json](./312117-nier-automata-6c2p4a118680823.json) |
+| Nier: Automata - Become as Gods Edition | 103294 | [103294-nier-automata-become-as-gods-edition.json](./103294-nier-automata-become-as-gods-edition.json) |
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
 | Nier: Automata - Game of the Yorha Edition | 113345 | [113345-nier-automata-game-of-the-yorha-edition.json](./113345-nier-automata-game-of-the-yorha-edition.json) |
@@ -2892,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
+| Night Call | 79994 | [79994-night-call.json](./79994-night-call.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
@@ -3527,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
 | Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
+| Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
