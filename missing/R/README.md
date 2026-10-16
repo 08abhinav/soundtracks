@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
+| Ranger X | 46265 | [46265-ranger-x.json](./46265-ranger-x.json) |
 | Ranger’s Path: National Park Simulator | 366709 | [366709-ranger-s-path-national-park-simulator.json](./366709-ranger-s-path-national-park-simulator.json) |
 | Rangerdog | 152160 | [152160-rangerdog.json](./152160-rangerdog.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid-Shot | 22096 | [22096-rapid-shot.json](./22096-rapid-shot.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
 | Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
+| Rappelz | 26534 | [26534-rappelz.json](./26534-rappelz.json) |
 | Rappelz Online | 193819 | [193819-rappelz-online.json](./193819-rappelz-online.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
@@ -7169,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Rush 3D | 133914 | [133914-rollercoaster-rush-3d.json](./133914-rollercoaster-rush-3d.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 2: Time Twister | 77218 | [77218-rollercoaster-tycoon-2-time-twister.json](./77218-rollercoaster-tycoon-2-time-twister.json) |
+| RollerCoaster Tycoon 2: Triple Thrill Pack | 36366 | [36366-rollercoaster-tycoon-2-triple-thrill-pack.json](./36366-rollercoaster-tycoon-2-triple-thrill-pack.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
