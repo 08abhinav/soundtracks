@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
 | Call of Beauty | 389044 | [389044-call-of-beauty.json](./389044-call-of-beauty.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
+| Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle on Crimson Rock | 348967 | [348967-castle-on-crimson-rock.json](./348967-castle-on-crimson-rock.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
+| Castle Quest | 13997 | [13997-castle-quest.json](./13997-castle-quest.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
 | Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
@@ -4415,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheonnyeon | 361306 | [361306-cheonnyeon.json](./361306-cheonnyeon.json) |
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
+| Chequered Flag | 13246 | [13246-chequered-flag.json](./13246-chequered-flag.json) |
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cheril of the bosque | 39113 | [39113-cheril-of-the-bosque.json](./39113-cheril-of-the-bosque.json) |
@@ -5747,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
 | ChronoQuest VR | 412200 | [412200-chronoquest-vr.json](./412200-chronoquest-vr.json) |
 | Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
+| Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
@@ -7452,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
+| Coast Guard | 13209 | [13209-coast-guard.json](./13209-coast-guard.json) |
 | Coast Guard: Beach Rescue Team | 96908 | [96908-coast-guard-beach-rescue-team.json](./96908-coast-guard-beach-rescue-team.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
@@ -11677,6 +11682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures | 313973 | [313973-creatures.json](./313973-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
+| Creatures 3 | 11372 | [11372-creatures-3.json](./11372-creatures-3.json) |
 | Creatures 4 | 79200 | [79200-creatures-4.json](./79200-creatures-4.json) |
 | Creatures Adventures | 11377 | [11377-creatures-adventures.json](./11377-creatures-adventures.json) |
 | Creatures After Calamity | 291517 | [291517-creatures-after-calamity.json](./291517-creatures-after-calamity.json) |
@@ -13400,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
+| Cultures | 11379 | [11379-cultures.json](./11379-cultures.json) |
 | Cultures 1+2 | 154236 | [154236-cultures-1-2.json](./154236-cultures-1-2.json) |
 | Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
