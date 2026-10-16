@@ -933,6 +933,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/7f/46/ab7f4631-2456-01c9-15e6-73da2e94d5f5/artwork.jpg/600x600bb.jpg" width="60" /> | [Post Trauma](https://ostdb.net/games/post-trauma) | **Post Trauma (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/post-trauma-original-soundtrack/1810521799?uo=4) · [Album](https://album.link/i/1810521799)<br>**Post Trauma - Single** · [Spotify](https://music.apple.com/us/album/post-trauma-single/1774961123?uo=4) · [Album](https://album.link/i/1774961123) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal](https://ostdb.net/games/postal) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal 2](https://ostdb.net/games/postal-2) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d58a119899cc09fdb88e26cc" width="60" /> | [Postal: Redux](https://ostdb.net/games/postal-redux) | **Postal Redux (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7nnAFcactY1tDgNX7wnrAy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f03076d720fe6a7dd78ed87" width="60" /> | [Pragmata](https://ostdb.net/games/pragmata) | **PRAGMATA - The Bounded Soundtrack** · [Spotify](https://open.spotify.com/album/2YvAJG1RdeIPgWOhbwvrmg) · [Apple Music](https://music.apple.com/us/album/pragmata-the-bounded-soundtrack-ep/1860840113) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
@@ -1444,4 +1445,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1761 soundtracks · last updated 2026-10-16T05:34:38.037Z_
+_1762 soundtracks · last updated 2026-10-16T05:34:51.921Z_
