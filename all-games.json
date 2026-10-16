@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:46:26.062Z",
-  "total_soundtracks": 1791,
+  "generated_at": "2026-10-16T05:46:39.326Z",
+  "total_soundtracks": 1792,
   "games": [
     {
       "igdb_id": 7522,
@@ -6517,6 +6517,20 @@
         {
           "album_name": "Fear & Hunger 2: Termina (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6URkC6A121abdpBuFaC0FK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8449,
+      "game_name": "Felix the Cat",
+      "game_url": "https://ostdb.net/games/felix-the-cat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b6ee7ddafdb8eacf585592c",
+      "albums": [
+        {
+          "album_name": "Felix The Cat Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1YI2weWObKavGsUdCkdVir",
           "apple_music_url": "",
           "album_link_url": ""
         }
