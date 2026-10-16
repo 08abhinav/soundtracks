@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
+| Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper | 215182 | [215182-casper.json](./215182-casper.json) |
 | Casper | 215184 | [215184-casper.json](./215184-casper.json) |
 | Casper | 215185 | [215185-casper.json](./215185-casper.json) |
+| Casper | 83245 | [83245-casper.json](./83245-casper.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
 | Cemetery Mary | 177883 | [177883-cemetery-mary.json](./177883-cemetery-mary.json) |
 | Cemetery of Bob | 293510 | [293510-cemetery-of-bob.json](./293510-cemetery-of-bob.json) |
+| Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
@@ -10649,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
+| Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
 | CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
