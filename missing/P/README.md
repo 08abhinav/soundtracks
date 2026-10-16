@@ -4386,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
+| Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
 | Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
+| Planet Nine | 417290 | [417290-planet-nine.json](./417290-planet-nine.json) |
 | Planet of a Poisoned Past | 141750 | [141750-planet-of-a-poisoned-past.json](./141750-planet-of-a-poisoned-past.json) |
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
@@ -7955,6 +7957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
+| Pokémon Platinum Kaizo | 417294 | [417294-pokemon-platinum-kaizo.json](./417294-pokemon-platinum-kaizo.json) |
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
@@ -10753,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
 | Professor Layton and the Curious Village | 1397 | [1397-professor-layton-and-the-curious-village.json](./1397-professor-layton-and-the-curious-village.json) |
 | Professor Layton and the Curious Village HD for Mobile | 102865 | [102865-professor-layton-and-the-curious-village-hd-for-mobile.json](./102865-professor-layton-and-the-curious-village-hd-for-mobile.json) |
+| Professor Layton and the Curious Village Remake | 417339 | [417339-professor-layton-and-the-curious-village-remake.json](./417339-professor-layton-and-the-curious-village-remake.json) |
 | Professor Layton and the Diabolical Box | 1398 | [1398-professor-layton-and-the-diabolical-box.json](./1398-professor-layton-and-the-diabolical-box.json) |
 | Professor Layton and the Diabolical Box HD for Mobile | 128436 | [128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json](./128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json) |
 | Professor Layton and the Last Specter | 1400 | [1400-professor-layton-and-the-last-specter.json](./1400-professor-layton-and-the-last-specter.json) |
