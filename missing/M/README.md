@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 4 | 231442 | [231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json](./231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 5 | 231444 | [231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json](./231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
+| Mario Kart 8: DLC Pack Two | 22146 | [22146-mario-kart-8-dlc-pack-two.json](./22146-mario-kart-8-dlc-pack-two.json) |
 | Mario Kart 8: Limited Edition | 45161 | [45161-mario-kart-8-limited-edition.json](./45161-mario-kart-8-limited-edition.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
