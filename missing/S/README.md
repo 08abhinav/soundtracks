@@ -19046,7 +19046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
-| Stranger of Paradise: Final Fantasy Origin | 152250 | [152250-stranger-of-paradise-final-fantasy-origin.json](./152250-stranger-of-paradise-final-fantasy-origin.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
@@ -19509,7 +19508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
-| Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
 | Streets of Rogue 2 | 220205 | [220205-streets-of-rogue-2.json](./220205-streets-of-rogue-2.json) |
 | Streets of Rogue: Character Pack | 155053 | [155053-streets-of-rogue-character-pack.json](./155053-streets-of-rogue-character-pack.json) |
 | Streets of Rogue: Character Pack Edition | 196279 | [196279-streets-of-rogue-character-pack-edition.json](./196279-streets-of-rogue-character-pack-edition.json) |
@@ -19914,7 +19912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
-| Styx: Shards of Darkness | 13554 | [13554-styx-shards-of-darkness.json](./13554-styx-shards-of-darkness.json) |
 | Su and the Quest for meaning | 27532 | [27532-su-and-the-quest-for-meaning.json](./27532-su-and-the-quest-for-meaning.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
