@@ -3335,7 +3335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
 | Figment 1 + Figment 2: Collector's Edition | 287047 | [287047-figment-1-figment-2-collectors-edition.json](./287047-figment-1-figment-2-collectors-edition.json) |
-| Figment 2: Creed Valley | 119801 | [119801-figment-2-creed-valley.json](./119801-figment-2-creed-valley.json) |
 | Figments of the Night | 338694 | [338694-figments-of-the-night.json](./338694-figments-of-the-night.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
