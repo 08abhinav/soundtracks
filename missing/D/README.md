@@ -10683,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Race 2: Racing Evolved | 65859 | [65859-draw-race-2-racing-evolved.json](./65859-draw-race-2-racing-evolved.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
+| Draw Rider 2 | 29573 | [29573-draw-rider-2.json](./29573-draw-rider-2.json) |
 | Draw Rider 2 Plus | 197236 | [197236-draw-rider-2-plus.json](./197236-draw-rider-2-plus.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
@@ -11511,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
+| Drizzlepath: Glass | 29733 | [29733-drizzlepath-glass.json](./29733-drizzlepath-glass.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
@@ -11611,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Duchy: The Tribe | 370473 | [370473-drop-duchy-the-tribe.json](./370473-drop-duchy-the-tribe.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
+| Drop Hunt: Adventure Puzzle | 29402 | [29402-drop-hunt-adventure-puzzle.json](./29402-drop-hunt-adventure-puzzle.json) |
 | Drop In VR | 137912 | [137912-drop-in-vr.json](./137912-drop-in-vr.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
@@ -11781,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
 | Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
+| Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
@@ -12339,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
+| Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
