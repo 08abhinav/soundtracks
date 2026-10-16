@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Pet Dance | 293189 | [293189-barbie-pet-dance.json](./293189-barbie-pet-dance.json) |
 | Barbie: Potty Race | 293186 | [293186-barbie-potty-race.json](./293186-barbie-potty-race.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
+| Barbie: Race & Ride | 3312 | [3312-barbie-race-and-ride.json](./3312-barbie-race-and-ride.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie: Sparkling Ice Show | 57592 | [57592-barbie-sparkling-ice-show.json](./57592-barbie-sparkling-ice-show.json) |
 | Barbie: Super Model | 368898 | [368898-barbie-super-model.json](./368898-barbie-super-model.json) |
@@ -8915,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
+| Boogie | 4725 | [4725-boogie.json](./4725-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
 | Boogie Bum | 70849 | [70849-boogie-bum.json](./70849-boogie-bum.json) |
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
@@ -9129,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
+| Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
@@ -11824,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets Squared | 146527 | [146527-bullets-squared.json](./146527-bullets-squared.json) |
 | Bullets Tracks: Son Of | 363574 | [363574-bullets-tracks-son-of.json](./363574-bullets-tracks-son-of.json) |
 | Bulletstorm VR | 251567 | [251567-bulletstorm-vr.json](./251567-bulletstorm-vr.json) |
+| Bulletstorm: Duke of Switch Edition | 116680 | [116680-bulletstorm-duke-of-switch-edition.json](./116680-bulletstorm-duke-of-switch-edition.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
@@ -12414,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move 2: Arcade Edition | 249129 | [249129-bust-a-move-2-arcade-edition.json](./249129-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2X | 209377 | [209377-bust-a-move-2x.json](./209377-bust-a-move-2x.json) |
+| Bust-A-Move 3 | 3454 | [3454-bust-a-move-3.json](./3454-bust-a-move-3.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
 | Bust-a-Move 4 | 6826 | [6826-bust-a-move-4.json](./6826-bust-a-move-4.json) |
 | Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
