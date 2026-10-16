@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
+| Fallen Legion: Flames of Rebellion | 52018 | [52018-fallen-legion-flames-of-rebellion.json](./52018-fallen-legion-flames-of-rebellion.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
@@ -5190,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
+| Flash Point: Fire Rescue | 52087 | [52087-flash-point-fire-rescue.json](./52087-flash-point-fire-rescue.json) |
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
@@ -8073,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
+| Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
