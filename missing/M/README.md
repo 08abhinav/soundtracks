@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Fever | 260629 | [260629-magma-fever.json](./260629-magma-fever.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
+| Magma Tsunami | 32547 | [32547-magma-tsunami.json](./32547-magma-tsunami.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
 | MagMax | 29033 | [29033-magmax.json](./29033-magmax.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaplex Madness: Now Playing | 64730 | [64730-megaplex-madness-now-playing.json](./64730-megaplex-madness-now-playing.json) |
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
+| Megapolis | 32512 | [32512-megapolis.json](./32512-megapolis.json) |
 | Megaquarium | 28072 | [28072-megaquarium.json](./28072-megaquarium.json) |
 | Megaquarium: Deep Freeze | 267834 | [267834-megaquarium-deep-freeze.json](./267834-megaquarium-deep-freeze.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
@@ -8299,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Scanners | 139566 | [139566-mind-scanners.json](./139566-mind-scanners.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
+| Mind Spheres | 32797 | [32797-mind-spheres.json](./32797-mind-spheres.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
 | Mind Sweeper VR | 81076 | [81076-mind-sweeper-vr.json](./81076-mind-sweeper-vr.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
@@ -9754,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
 | MLB 2002 | 28194 | [28194-mlb-2002.json](./28194-mlb-2002.json) |
 | MLB 2003 | 28196 | [28196-mlb-2003.json](./28196-mlb-2003.json) |
+| MLB 2004 | 23700 | [23700-mlb-2004.json](./23700-mlb-2004.json) |
 | MLB 2005 | 24132 | [24132-mlb-2005.json](./24132-mlb-2005.json) |
 | MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
@@ -11203,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
+| Monsters' Den: Book of Dread | 32035 | [32035-monsters-den-book-of-dread.json](./32035-monsters-den-book-of-dread.json) |
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
 | Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
@@ -12846,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
+| Mr. Pumpkin Adventure | 32817 | [32817-mr-pumpkin-adventure.json](./32817-mr-pumpkin-adventure.json) |
 | Mr. Pumpkin Adventure HD | 99172 | [99172-mr-pumpkin-adventure-hd.json](./99172-mr-pumpkin-adventure-hd.json) |
 | Mr. Pumpkin and a Cat Reporter: Adventure Bundle | 218512 | [218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json](./218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
