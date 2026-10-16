@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
+| Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
 | Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
