@@ -909,13 +909,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
-| 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
 | 1982 | 43126 | [43126-1982.json](./43126-1982.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
-| 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1990 | 77214 | [77214-1990.json](./77214-1990.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
