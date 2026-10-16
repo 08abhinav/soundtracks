@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | ADElaide | 399770 | [399770-adelaide.json](./399770-adelaide.json) |
+| Adelaide: A Tiny Adventure | 422548 | [422548-adelaide-a-tiny-adventure.json](./422548-adelaide-a-tiny-adventure.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Adelantado Trilogy: Book One | 34214 | [34214-adelantado-trilogy-book-one.json](./34214-adelantado-trilogy-book-one.json) |
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
+| Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
 | Antiflux | 32656 | [32656-antiflux.json](./32656-antiflux.json) |
 | AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
@@ -10947,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
+| Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
