@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
+| Warzone 2100 | 51297 | [51297-warzone-2100.json](./51297-warzone-2100.json) |
 | Warzone Chronicles 2: Warfare Shooter Zombie | 315823 | [315823-warzone-chronicles-2-warfare-shooter-zombie.json](./315823-warzone-chronicles-2-warfare-shooter-zombie.json) |
 | Warzone Chronicles: Night Vision | 306550 | [306550-warzone-chronicles-night-vision.json](./306550-warzone-chronicles-night-vision.json) |
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
@@ -4920,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
 | Wonder Boy: Asha in Monster World Mega Collector's Edition | 147910 | [147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json](./147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json) |
 | Wonder Boy: Monster Land | 212884 | [212884-wonder-boy-monster-land.json](./212884-wonder-boy-monster-land.json) |
+| Wonder Boy: Monster Land | 39335 | [39335-wonder-boy-monster-land.json](./39335-wonder-boy-monster-land.json) |
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
