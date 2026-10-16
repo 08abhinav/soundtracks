@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
+| Fantasy Life i: The Celestial Express | 417334 | [417334-fantasy-life-i-the-celestial-express.json](./417334-fantasy-life-i-the-celestial-express.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
 | Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes | 370134 | [370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json](./370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json) |
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
