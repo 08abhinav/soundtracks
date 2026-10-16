@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Command: Kharkov | 72745 | [72745-panzer-command-kharkov.json](./72745-panzer-command-kharkov.json) |
 | Panzer Command: Operation Winter Storm | 72744 | [72744-panzer-command-operation-winter-storm.json](./72744-panzer-command-operation-winter-storm.json) |
 | Panzer Command: Ostfront | 59323 | [59323-panzer-command-ostfront.json](./59323-panzer-command-ostfront.json) |
+| Panzer Corps | 22637 | [22637-panzer-corps.json](./22637-panzer-corps.json) |
 | Panzer Corps 2 | 27716 | [27716-panzer-corps-2.json](./27716-panzer-corps-2.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
