@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indect | 135062 | [135062-indect.json](./135062-indect.json) |
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
+| Indef | 34310 | [34310-indef.json](./34310-indef.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno | 91849 | [91849-inferno.json](./91849-inferno.json) |
 | Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
+| Inferno Climber | 33761 | [33761-inferno-climber.json](./33761-inferno-climber.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
+| Iron Sea Defenders | 33816 | [33816-iron-sea-defenders.json](./33816-iron-sea-defenders.json) |
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
 | Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
 | Iron Sight | 98003 | [98003-iron-sight.json](./98003-iron-sight.json) |
