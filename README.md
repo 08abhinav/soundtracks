@@ -487,6 +487,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/42/25/d142254d-310d-6421-2bd8-36ba83e0ba38/4896004157910.jpg/1000x1000bb.jpg" width="60" /> | [Fate Trigger](https://ostdb.net/games/fate-trigger) | **Coming Like Fire (游戏《命运扳机》先觉测试主题曲) - Single** · [Apple Music](https://music.apple.com/us/album/coming-like-fire-%E6%B8%B8%E6%88%8F-%E5%91%BD%E8%BF%90%E6%89%B3%E6%9C%BA-%E5%85%88%E8%A7%89%E6%B5%8B%E8%AF%95%E4%B8%BB%E9%A2%98%E6%9B%B2-single/1831474095?uo=4) · [Album](https://album.link/i/1831474095) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c859a79d1da50b8c4d52fb0" width="60" /> | [Fear & Hunger 2: Termina](https://ostdb.net/games/fear-and-hunger-2-termina) | **Fear & Hunger 2: Termina (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6URkC6A121abdpBuFaC0FK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6ee7ddafdb8eacf585592c" width="60" /> | [Felix the Cat](https://ostdb.net/games/felix-the-cat) | **Felix The Cat Soundtrack** · [Spotify](https://open.spotify.com/album/1YI2weWObKavGsUdCkdVir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da94d7bae8ec028ae1770816" width="60" /> | [Figment 2: Creed Valley](https://ostdb.net/games/figment-2-creed-valley) | **Figment 2: Creed Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5R8DEMbMahVe9NdwWc38LL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3" width="60" /> | [Final Fantasy II](https://ostdb.net/games/final-fantasy-ii) | **FINAL FANTASY II Original Soundtrack** · [Spotify](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c1455c23230dad29cf0ab2" width="60" /> | [Final Fantasy III](https://ostdb.net/games/final-fantasy-iii) | **FINAL FANTASY III Original Soundtrack** · [Spotify](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c1455c23230dad29cf0ab2" width="60" /> | [Final Fantasy III](https://ostdb.net/games/final-fantasy-iii) | **FINAL FANTASY III Original Soundtrack** · [Spotify](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) |
@@ -1601,4 +1602,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1918 soundtracks · last updated 2026-10-16T14:46:16.677Z_
+_1919 soundtracks · last updated 2026-10-16T14:46:31.447Z_
