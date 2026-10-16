@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
 | 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
+| 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
