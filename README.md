@@ -645,6 +645,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27382d8779da5dd9bf7bca8dc92" width="60" /> | [Indiana Jones and the Great Circle](https://ostdb.net/games/indiana-jones-and-the-great-circle) | **Indiana Jones and the Great Circle (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4JtrVfBk94Sc7fhuafVNQT) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/46/48/cf464864-3796-d7fb-7e89-be3cb958f6cf/196872443066.jpg/600x600bb.jpg" width="60" /> | [Indika](https://ostdb.net/games/indika) | **INDIKA (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/indika-original-game-soundtrack/1769984536?uo=4) · [Album](https://album.link/i/1769984536) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bb/ea/cb/bbeacb37-3f98-47f7-63e2-979db2007ad3/811576032643.png/1000x1000bb.jpg" width="60" /> | [Indivisible](https://ostdb.net/games/indivisible) | **Indivisible (Original Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/indivisible-original-game-soundtrack/1634052841?uo=4) · [Album](https://album.link/i/1634052841) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e1cb69194da267436baf4d0" width="60" /> | [Industria](https://ostdb.net/games/industria) | **Industria (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4lN8xS6Z5J7KKNDIbFyQ7Z) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/cd/a9/3bcda948-fe8a-9bf6-ee7e-17a0af2272cd/650311381222.png/600x600bb.jpg" width="60" /> | [Industries of Titan](https://ostdb.net/games/industries-of-titan) | **Industries of Titan Official Soundtrack** · [Spotify](https://music.apple.com/us/album/industries-of-titan-official-soundtrack/1669069296?uo=4) · [Album](https://album.link/i/1669069296) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273624ade271d6ae2a1314ef694" width="60" /> | [Infamous](https://ostdb.net/games/infamous) | **inFAMOUS (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7GTxIeHQDkREAtFeMNOo7Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0976dbb561453c9081e43fe" width="60" /> | [Infamous 2](https://ostdb.net/games/infamous-2) | **inFAMOUS 2 (The Blue Soundtrack)** · [Spotify](https://open.spotify.com/album/04r7PcyBAETPFy3CUxiuky) |
@@ -1458,4 +1459,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1775 soundtracks · last updated 2026-10-16T05:42:18.639Z_
+_1776 soundtracks · last updated 2026-10-16T05:42:32.555Z_
