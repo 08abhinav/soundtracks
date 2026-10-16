@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
+| Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
@@ -6331,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
 | Planet 2117 | 43145 | [43145-planet-2117.json](./43145-planet-2117.json) |
+| Planet 51: The Game | 21088 | [21088-planet-51-the-game.json](./21088-planet-51-the-game.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
@@ -7434,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéClicker | 191508 | [191508-pokeclicker.json](./191508-pokeclicker.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
+| Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
@@ -9989,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia : The Forgotten Sands - Limited Collector's Edition | 47459 | [47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json](./47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia CD Collection | 213263 | [213263-prince-of-persia-cd-collection.json](./213263-prince-of-persia-cd-collection.json) |
+| Prince of Persia Classic | 21797 | [21797-prince-of-persia-classic.json](./21797-prince-of-persia-classic.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
