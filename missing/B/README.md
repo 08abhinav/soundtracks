@@ -6516,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 122191 | [122191-blade.json](./122191-blade.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
+| Blade & Bones | 31781 | [31781-blade-and-bones.json](./31781-blade-and-bones.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade & Soul | 16741 | [16741-blade-and-soul.json](./16741-blade-and-soul.json) |
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
@@ -7824,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody trains | 126354 | [126354-bloody-trains.json](./126354-bloody-trains.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Vampire | 59209 | [59209-bloody-vampire.json](./59209-bloody-vampire.json) |
+| Bloody Walls | 31212 | [31212-bloody-walls.json](./31212-bloody-walls.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
@@ -8506,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
+| Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
 | Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
@@ -10729,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
+| Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
