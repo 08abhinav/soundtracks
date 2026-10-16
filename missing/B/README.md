@@ -5320,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigHardSun | 122804 | [122804-bighardsun.json](./122804-bighardsun.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bighorn Ramone | 422134 | [422134-bighorn-ramone.json](./422134-bighorn-ramone.json) |
+| Biglands: A Game Made By Kids | 17710 | [17710-biglands-a-game-made-by-kids.json](./17710-biglands-a-game-made-by-kids.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Pieces Move First | 360695 | [360695-black-pieces-move-first.json](./360695-black-pieces-move-first.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
+| Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Rain | 345445 | [345445-black-rain.json](./345445-black-rain.json) |
@@ -7106,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
+| Bliss | 17685 | [17685-bliss.json](./17685-bliss.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
@@ -10184,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Forever Diamondz | 3835 | [3835-bratz-forever-diamondz.json](./3835-bratz-forever-diamondz.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
+| Bravada | 17695 | [17695-bravada.json](./17695-bravada.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
@@ -12367,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
+| Burnstar | 17747 | [17747-burnstar.json](./17747-burnstar.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | Burnt Legacy | 302482 | [302482-burnt-legacy.json](./302482-burnt-legacy.json) |
 | Burnt Rubber | 112850 | [112850-burnt-rubber.json](./112850-burnt-rubber.json) |
