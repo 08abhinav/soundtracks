@@ -7749,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
+| Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
 | Cog Hero | 251733 | [251733-cog-hero.json](./251733-cog-hero.json) |
@@ -11289,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
+| Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
