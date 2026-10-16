@@ -15866,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
 | Spring and Girls | 160080 | [160080-spring-and-girls.json](./160080-spring-and-girls.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
+| Spring Bonus | 28797 | [28797-spring-bonus.json](./28797-spring-bonus.json) |
 | Spring Breeze | 271258 | [271258-spring-breeze.json](./271258-spring-breeze.json) |
 | Spring Breeze | 271401 | [271401-spring-breeze.json](./271401-spring-breeze.json) |
 | Spring Breeze | 68328 | [68328-spring-breeze.json](./68328-spring-breeze.json) |
@@ -17887,6 +17888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
+| Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
@@ -19160,6 +19162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straightforward | 372238 | [372238-straightforward.json](./372238-straightforward.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
+| Strain Tactics | 28701 | [28701-strain-tactics.json](./28701-strain-tactics.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | StrainZ-1: Elimination | 74246 | [74246-strainz-1-elimination.json](./74246-strainz-1-elimination.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
@@ -23896,6 +23899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
+| Survivalizm - The Animal Simulator | 28082 | [28082-survivalizm-the-animal-simulator.json](./28082-survivalizm-the-animal-simulator.json) |
 | Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
 | Survivals: Battle Royale | 103974 | [103974-survivals-battle-royale.json](./103974-survivals-battle-royale.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
