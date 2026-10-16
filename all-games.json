@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:43:28.859Z",
-  "total_soundtracks": 1959,
+  "generated_at": "2026-10-16T19:43:42.670Z",
+  "total_soundtracks": 1960,
   "games": [
     {
       "igdb_id": 7522,
@@ -22821,6 +22821,20 @@
           "spotify_url": "https://music.apple.com/us/album/wildgate-original-game-soundtrack/1834323015?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1834323015"
+        }
+      ]
+    },
+    {
+      "igdb_id": 77494,
+      "game_name": "Wilmot's Warehouse",
+      "game_url": "https://ostdb.net/games/wilmots-warehouse",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f4d2a3e2811fa8f63263011",
+      "albums": [
+        {
+          "album_name": "Wilmot's Warehouse (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2O0LEatDTm8DJtNiIkjyUP",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
