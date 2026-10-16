@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
 | Tales of Grumville: A Legendary Pie and A Nameless Statue | 202121 | [202121-tales-of-grumville-a-legendary-pie-and-a-nameless-statue.json](./202121-tales-of-grumville-a-legendary-pie-and-a-nameless-statue.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
+| Tales of Hearts R | 19797 | [19797-tales-of-hearts-r.json](./19797-tales-of-hearts-r.json) |
 | Tales of Hearts R: Infinite Evolve | 329142 | [329142-tales-of-hearts-r-infinite-evolve.json](./329142-tales-of-hearts-r-infinite-evolve.json) |
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bubonicz | 384061 | [384061-the-bubonicz.json](./384061-the-bubonicz.json) |
 | The Bucketlist Tourist | 306357 | [306357-the-bucketlist-tourist.json](./306357-the-bucketlist-tourist.json) |
+| The Bug Butcher | 15909 | [15909-the-bug-butcher.json](./15909-the-bug-butcher.json) |
 | The Bugger! | 258222 | [258222-the-bugger.json](./258222-the-bugger.json) |
 | The Bugs Bunny Birthday Blowout | 2719 | [2719-the-bugs-bunny-birthday-blowout.json](./2719-the-bugs-bunny-birthday-blowout.json) |
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
@@ -9081,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Drive | 122589 | [122589-the-long-drive.json](./122589-the-long-drive.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
+| The Long Journey Home | 19301 | [19301-the-long-journey-home.json](./19301-the-long-journey-home.json) |
 | The Long Journey to Farewell | 171870 | [171870-the-long-journey-to-farewell.json](./171870-the-long-journey-to-farewell.json) |
 | The Long Journey: Adventure | 90791 | [90791-the-long-journey-adventure.json](./90791-the-long-journey-adventure.json) |
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
@@ -11590,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
 | The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
+| The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
@@ -12059,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweet Little Monster | 240186 | [240186-the-sweet-little-monster.json](./240186-the-sweet-little-monster.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
+| The Swindle | 18006 | [18006-the-swindle.json](./18006-the-swindle.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
