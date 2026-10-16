@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
+| Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
@@ -4019,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
 | Serious Metal Detecting | 28376 | [28376-serious-metal-detecting.json](./28376-serious-metal-detecting.json) |
 | Serious Office | 81950 | [81950-serious-office.json](./81950-serious-office.json) |
+| Serious Sam | 198137 | [198137-serious-sam.json](./198137-serious-sam.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
@@ -13474,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
+| Space Hulk | 12770 | [12770-space-hulk.json](./12770-space-hulk.json) |
 | Space Hulk Bundle | 118863 | [118863-space-hulk-bundle.json](./118863-space-hulk-bundle.json) |
 | Space Hulk: Ascension | 17732 | [17732-space-hulk-ascension.json](./17732-space-hulk-ascension.json) |
 | Space Hulk: Ascension - Dark Angels | 53642 | [53642-space-hulk-ascension-dark-angels.json](./53642-space-hulk-ascension-dark-angels.json) |
@@ -14943,6 +14946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Man: Web of Shadows | 209976 | [209976-spider-man-web-of-shadows.json](./209976-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows | 209977 | [209977-spider-man-web-of-shadows.json](./209977-spider-man-web-of-shadows.json) |
+| Spider-Man: Web of Shadows - Amazing Allies Edition | 208778 | [208778-spider-man-web-of-shadows-amazing-allies-edition.json](./208778-spider-man-web-of-shadows-amazing-allies-edition.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
@@ -16627,6 +16631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
 | Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
+| Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
@@ -17020,6 +17025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
 | Star Wars: Rebellion | 151 | [151-star-wars-rebellion.json](./151-star-wars-rebellion.json) |
 | Star Wars: Republic Squadron | 220265 | [220265-star-wars-republic-squadron.json](./220265-star-wars-republic-squadron.json) |
+| Star Wars: Return of the Jedi | 12842 | [12842-star-wars-return-of-the-jedi.json](./12842-star-wars-return-of-the-jedi.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
@@ -20177,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
 | Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
+| Sucker for Love: First Date | 186818 | [186818-sucker-for-love-first-date.json](./186818-sucker-for-love-first-date.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
 | Sucker Munch | 95961 | [95961-sucker-munch.json](./95961-sucker-munch.json) |
