@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
+| 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
 | 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
