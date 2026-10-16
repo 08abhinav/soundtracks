@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:42:01.187Z",
-  "total_soundtracks": 1953,
+  "generated_at": "2026-10-16T19:42:14.640Z",
+  "total_soundtracks": 1954,
   "games": [
     {
       "igdb_id": 7522,
@@ -13197,6 +13197,20 @@
         {
           "album_name": "My Memory of Us (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2NQ9b8hBx43M4AzhwQLfxv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16305,
+      "game_name": "My Singing Monsters",
+      "game_url": "https://ostdb.net/games/my-singing-monsters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737480db873fb3072db5b40dd1",
+      "albums": [
+        {
+          "album_name": "My Singing Monsters, Vol. 1 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3wEJY4wSWnjy1pFhleHgs5",
           "apple_music_url": "",
           "album_link_url": ""
         }
