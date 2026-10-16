@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
 | One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
 | One Late Night | 61397 | [61397-one-late-night.json](./61397-one-late-night.json) |
+| One Late Night: Deadline | 28579 | [28579-one-late-night-deadline.json](./28579-one-late-night-deadline.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One | 81975 | [81975-only-one.json](./81975-only-one.json) |
+| Only One Hope | 29727 | [29727-only-one-hope.json](./29727-only-one-hope.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
 | Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
