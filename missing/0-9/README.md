@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 38M Girls Project | 13667 | [13667-38m-girls-project.json](./13667-38m-girls-project.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
+| 3AM Anomaly Store | 419351 | [419351-3am-anomaly-store.json](./419351-3am-anomaly-store.json) |
 | 3AM Corp: The Balbazar Resort | 295151 | [295151-3am-corp-the-balbazar-resort.json](./295151-3am-corp-the-balbazar-resort.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's BASIC Games | 313458 | [313458-80s-basic-games.json](./313458-80s-basic-games.json) |
+| 80's Disco Brawl | 419355 | [419355-80s-disco-brawl.json](./419355-80s-disco-brawl.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
