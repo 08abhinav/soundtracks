@@ -7939,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
+| Singularity 5 | 113335 | [113335-singularity-5.json](./113335-singularity-5.json) |
 | Singularity Dungeon | 189906 | [189906-singularity-dungeon.json](./189906-singularity-dungeon.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
@@ -19262,6 +19263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
+| Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
@@ -19907,6 +19909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold HD | 86652 | [86652-stronghold-hd.json](./86652-stronghold-hd.json) |
 | Stronghold Kingdoms | 15030 | [15030-stronghold-kingdoms.json](./15030-stronghold-kingdoms.json) |
 | Stronghold Siege | 266292 | [266292-stronghold-siege.json](./266292-stronghold-siege.json) |
+| Stronghold: A Hero's Fate | 112755 | [112755-stronghold-a-heros-fate.json](./112755-stronghold-a-heros-fate.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: Crusader - Definitive Edition | 328611 | [328611-stronghold-crusader-definitive-edition.json](./328611-stronghold-crusader-definitive-edition.json) |
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
@@ -20010,6 +20013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Runner | 62994 | [62994-stunt-runner.json](./62994-stunt-runner.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
 | Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
+| Stunt Simulator Multiplayer | 112712 | [112712-stunt-simulator-multiplayer.json](./112712-stunt-simulator-multiplayer.json) |
 | Stunt Wheels | 261843 | [261843-stunt-wheels.json](./261843-stunt-wheels.json) |
 | Stunt Wheels Party! | 98533 | [98533-stunt-wheels-party.json](./98533-stunt-wheels-party.json) |
 | Stuntboost | 304846 | [304846-stuntboost.json](./304846-stuntboost.json) |
@@ -24823,6 +24827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
 | Swords and Sandals IV: Tavern Quests | 180102 | [180102-swords-and-sandals-iv-tavern-quests.json](./180102-swords-and-sandals-iv-tavern-quests.json) |
 | Swords and Sandals Medieval | 67933 | [67933-swords-and-sandals-medieval.json](./67933-swords-and-sandals-medieval.json) |
+| Swords and Sandals Pirates | 112729 | [112729-swords-and-sandals-pirates.json](./112729-swords-and-sandals-pirates.json) |
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
 | Swords and Sorcery Underworld | 27757 | [27757-swords-and-sorcery-underworld.json](./27757-swords-and-sorcery-underworld.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
