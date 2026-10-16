@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T22:20:16.518Z",
-  "total_missing": 221019,
+  "generated_at": "2026-10-16T22:35:31.659Z",
+  "total_missing": 221069,
   "games": [
     {
       "igdb_id": 191680,
@@ -14775,6 +14775,11 @@
       "igdb_id": 232413,
       "game_name": "A Noite dos Patriotas",
       "file": "missing/A/232413-a-noite-dos-patriotas.json"
+    },
+    {
+      "igdb_id": 420476,
+      "game_name": "A Normal Day at a Normal Beach",
+      "file": "missing/A/420476-a-normal-day-at-a-normal-beach.json"
     },
     {
       "igdb_id": 256730,
@@ -48787,6 +48792,11 @@
       "file": "missing/A/216469-another-space-opera-episode-1-the-wake-of-the-giant.json"
     },
     {
+      "igdb_id": 420474,
+      "game_name": "Another Summer",
+      "file": "missing/A/420474-another-summer.json"
+    },
+    {
       "igdb_id": 132829,
       "game_name": "Another Super Mario 3D",
       "file": "missing/A/132829-another-super-mario-3d.json"
@@ -50270,6 +50280,11 @@
       "igdb_id": 136793,
       "game_name": "Ao no Kanata no Four Rhythm: HD Edition",
       "file": "missing/A/136793-ao-no-kanata-no-four-rhythm-hd-edition.json"
+    },
+    {
+      "igdb_id": 420562,
+      "game_name": "Ao no Mama de...",
+      "file": "missing/A/420562-ao-no-mama-de.json"
     },
     {
       "igdb_id": 46941,
@@ -55175,6 +55190,11 @@
       "igdb_id": 206137,
       "game_name": "Arcade Horse Racing",
       "file": "missing/A/206137-arcade-horse-racing.json"
+    },
+    {
+      "igdb_id": 420515,
+      "game_name": "Arcade Hysteria",
+      "file": "missing/A/420515-arcade-hysteria.json"
     },
     {
       "igdb_id": 102860,
@@ -127167,6 +127187,11 @@
       "file": "missing/B/5755-break-nine-world-billiards-tournament.json"
     },
     {
+      "igdb_id": 420475,
+      "game_name": "Break of Dawn",
+      "file": "missing/B/420475-break-of-dawn.json"
+    },
+    {
       "igdb_id": 211458,
       "game_name": "Break Pattern",
       "file": "missing/B/211458-break-pattern.json"
@@ -139957,6 +139982,11 @@
       "file": "missing/C/372631-cage-me-not.json"
     },
     {
+      "igdb_id": 420498,
+      "game_name": "Cage of Kurikaesu",
+      "file": "missing/C/420498-cage-of-kurikaesu.json"
+    },
+    {
       "igdb_id": 303720,
       "game_name": "Cage of Roses",
       "file": "missing/C/303720-cage-of-roses.json"
@@ -143962,6 +143992,11 @@
       "file": "missing/C/25515-canyon-capers-rio-fever.json"
     },
     {
+      "igdb_id": 420503,
+      "game_name": "Canyon Carnage",
+      "file": "missing/C/420503-canyon-carnage.json"
+    },
+    {
       "igdb_id": 186125,
       "game_name": "Canyon Defense",
       "file": "missing/C/186125-canyon-defense.json"
@@ -146187,6 +146222,11 @@
       "file": "missing/C/266911-caravan-boomer.json"
     },
     {
+      "igdb_id": 420495,
+      "game_name": "Caravan Manager",
+      "file": "missing/C/420495-caravan-manager.json"
+    },
+    {
       "igdb_id": 323854,
       "game_name": "Caravan Racers",
       "file": "missing/C/323854-caravan-racers.json"
@@ -148260,6 +148300,11 @@
       "igdb_id": 49308,
       "game_name": "Carrera Power Slide",
       "file": "missing/C/49308-carrera-power-slide.json"
+    },
+    {
+      "igdb_id": 420477,
+      "game_name": "Carriages",
+      "file": "missing/C/420477-carriages.json"
     },
     {
       "igdb_id": 95416,
@@ -203977,6 +204022,11 @@
       "file": "missing/C/158630-cthulhu-pub.json"
     },
     {
+      "igdb_id": 420497,
+      "game_name": "Cthulhu Rampage",
+      "file": "missing/C/420497-cthulhu-rampage.json"
+    },
+    {
       "igdb_id": 32510,
       "game_name": "Cthulhu Realms",
       "file": "missing/C/32510-cthulhu-realms.json"
@@ -212852,6 +212902,11 @@
       "file": "missing/D/278713-damaaz-the-barbarian-warlock.json"
     },
     {
+      "igdb_id": 420501,
+      "game_name": "Damage Chess",
+      "file": "missing/D/420501-damage-chess.json"
+    },
+    {
       "igdb_id": 33302,
       "game_name": "Damage Control",
       "file": "missing/D/33302-damage-control.json"
@@ -219275,6 +219330,11 @@
       "igdb_id": 83187,
       "game_name": "Dashkin",
       "file": "missing/D/83187-dashkin.json"
+    },
+    {
+      "igdb_id": 420472,
+      "game_name": "DashPoint",
+      "file": "missing/D/420472-dashpoint.json"
     },
     {
       "igdb_id": 319805,
@@ -235187,6 +235247,11 @@
       "file": "missing/D/175771-desert-magic-adventures.json"
     },
     {
+      "igdb_id": 420492,
+      "game_name": "Desert Mirage",
+      "file": "missing/D/420492-desert-mirage.json"
+    },
+    {
       "igdb_id": 128437,
       "game_name": "Desert of Doitjma",
       "file": "missing/D/128437-desert-of-doitjma.json"
@@ -235210,6 +235275,11 @@
       "igdb_id": 156911,
       "game_name": "Desert Pirates",
       "file": "missing/D/156911-desert-pirates.json"
+    },
+    {
+      "igdb_id": 420516,
+      "game_name": "Desert Quest",
+      "file": "missing/D/420516-desert-quest.json"
     },
     {
       "igdb_id": 296592,
@@ -251617,6 +251687,11 @@
       "file": "missing/D/360183-doki-doki-pokemon-club.json"
     },
     {
+      "igdb_id": 420499,
+      "game_name": "Doki Doki Poyatchio!!",
+      "file": "missing/D/420499-doki-doki-poyatchio.json"
+    },
+    {
       "igdb_id": 143512,
       "game_name": "Doki Doki Ragnarok",
       "file": "missing/D/143512-doki-doki-ragnarok.json"
@@ -264285,6 +264360,11 @@
       "igdb_id": 22493,
       "game_name": "Dramatical Murder Re:connect",
       "file": "missing/D/22493-dramatical-murder-re-connect.json"
+    },
+    {
+      "igdb_id": 420479,
+      "game_name": "Drapers: Merchants of Middle Ages",
+      "file": "missing/D/420479-drapers-merchants-of-middle-ages.json"
     },
     {
       "igdb_id": 333105,
@@ -320907,6 +320987,11 @@
       "file": "missing/F/350490-festival-journey-venetian-masquerade-collectors-edition.json"
     },
     {
+      "igdb_id": 420502,
+      "game_name": "Festival Management Roguelite",
+      "file": "missing/F/420502-festival-management-roguelite.json"
+    },
+    {
       "igdb_id": 183541,
       "game_name": "Festival of the Spirit",
       "file": "missing/F/183541-festival-of-the-spirit.json"
@@ -359852,6 +359937,11 @@
       "file": "missing/G/267650-gambler-jiko-chuushinha-2.json"
     },
     {
+      "igdb_id": 420493,
+      "game_name": "Gambler Jiko Chuushinha: Ippatsu Shoubu!",
+      "file": "missing/G/420493-gambler-jiko-chuushinha-ippatsu-shoubu.json"
+    },
+    {
       "igdb_id": 360589,
       "game_name": "Gambler: Queen's Cup",
       "file": "missing/G/360589-gambler-queens-cup.json"
@@ -361967,6 +362057,11 @@
       "file": "missing/G/108875-garage.json"
     },
     {
+      "igdb_id": 420481,
+      "game_name": "Garage Chaos",
+      "file": "missing/G/420481-garage-chaos.json"
+    },
+    {
       "igdb_id": 74709,
       "game_name": "Garage Escape",
       "file": "missing/G/74709-garage-escape.json"
@@ -362060,6 +362155,11 @@
       "igdb_id": 316183,
       "game_name": "Garbage Girl Louise",
       "file": "missing/G/316183-garbage-girl-louise.json"
+    },
+    {
+      "igdb_id": 420487,
+      "game_name": "Garbage Incident",
+      "file": "missing/G/420487-garbage-incident.json"
     },
     {
       "igdb_id": 404406,
@@ -403897,6 +403997,11 @@
       "file": "missing/H/260331-harvest-on-jupiter.json"
     },
     {
+      "igdb_id": 420514,
+      "game_name": "Harvest Overdrive",
+      "file": "missing/H/420514-harvest-overdrive.json"
+    },
+    {
       "igdb_id": 207917,
       "game_name": "Harvest OverRay + Ano Ko wa Ore kara Hanarenai",
       "file": "missing/H/207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json"
@@ -405980,6 +406085,11 @@
       "igdb_id": 353393,
       "game_name": "Hazard Versus",
       "file": "missing/H/353393-hazard-versus.json"
+    },
+    {
+      "igdb_id": 420491,
+      "game_name": "Hazard Voyage",
+      "file": "missing/H/420491-hazard-voyage.json"
     },
     {
       "igdb_id": 304915,
@@ -415000,6 +415110,11 @@
       "igdb_id": 82174,
       "game_name": "Here Comes the Bride",
       "file": "missing/H/82174-here-comes-the-bride.json"
+    },
+    {
+      "igdb_id": 420511,
+      "game_name": "Here Comes the Horde",
+      "file": "missing/H/420511-here-comes-the-horde.json"
     },
     {
       "igdb_id": 361846,
@@ -429840,6 +429955,11 @@
       "igdb_id": 55664,
       "game_name": "Horde Attack",
       "file": "missing/H/55664-horde-attack.json"
+    },
+    {
+      "igdb_id": 420504,
+      "game_name": "Horde Circuit",
+      "file": "missing/H/420504-horde-circuit.json"
     },
     {
       "igdb_id": 261448,
@@ -540192,6 +540312,11 @@
       "file": "missing/M/130897-mage-craft.json"
     },
     {
+      "igdb_id": 420484,
+      "game_name": "Mage Fight",
+      "file": "missing/M/420484-mage-fight.json"
+    },
+    {
       "igdb_id": 97236,
       "game_name": "Mage Fort",
       "file": "missing/M/97236-mage-fort.json"
@@ -549595,6 +549720,11 @@
       "igdb_id": 188463,
       "game_name": "Marimo vs. I.A.S",
       "file": "missing/M/188463-marimo-vs-i-a-s.json"
+    },
+    {
+      "igdb_id": 420489,
+      "game_name": "Marina Manager",
+      "file": "missing/M/420489-marina-manager.json"
     },
     {
       "igdb_id": 193849,
@@ -562047,6 +562177,11 @@
       "file": "missing/M/186119-medieval-trader-simulator.json"
     },
     {
+      "igdb_id": 420505,
+      "game_name": "Medieval Warlord",
+      "file": "missing/M/420505-medieval-warlord.json"
+    },
+    {
       "igdb_id": 215616,
       "game_name": "Medieval Warrior Simulator",
       "file": "missing/M/215616-medieval-warrior-simulator.json"
@@ -568870,6 +569005,11 @@
       "igdb_id": 48917,
       "game_name": "Mercenary Force",
       "file": "missing/M/48917-mercenary-force.json"
+    },
+    {
+      "igdb_id": 420500,
+      "game_name": "Mercenary Guild Manager",
+      "file": "missing/M/420500-mercenary-guild-manager.json"
     },
     {
       "igdb_id": 65175,
@@ -642582,6 +642722,11 @@
       "file": "missing/O/235186-occult-chambers.json"
     },
     {
+      "igdb_id": 420488,
+      "game_name": "Occult Cleanup Agency",
+      "file": "missing/O/420488-occult-cleanup-agency.json"
+    },
+    {
       "igdb_id": 178899,
       "game_name": "Occult Crime Police",
       "file": "missing/O/178899-occult-crime-police.json"
@@ -643420,6 +643565,11 @@
       "igdb_id": 292161,
       "game_name": "Oda-hen",
       "file": "missing/O/292161-oda-hen.json"
+    },
+    {
+      "igdb_id": 420506,
+      "game_name": "Oda's Ordinary Lives",
+      "file": "missing/O/420506-odas-ordinary-lives.json"
     },
     {
       "igdb_id": 4050,
@@ -644695,6 +644845,11 @@
       "igdb_id": 317580,
       "game_name": "Office Overloaded",
       "file": "missing/O/317580-office-overloaded.json"
+    },
+    {
+      "igdb_id": 420509,
+      "game_name": "Office Overlord",
+      "file": "missing/O/420509-office-overlord.json"
     },
     {
       "igdb_id": 297907,
@@ -687652,6 +687807,11 @@
       "file": "missing/P/28159-pineapplepizza.json"
     },
     {
+      "igdb_id": 420513,
+      "game_name": "Pinecone Grove",
+      "file": "missing/P/420513-pinecone-grove.json"
+    },
+    {
       "igdb_id": 302120,
       "game_name": "Pineford: Part I",
       "file": "missing/P/302120-pineford-part-i.json"
@@ -706162,6 +706322,11 @@
       "file": "missing/P/74261-pooper-scooper.json"
     },
     {
+      "igdb_id": 420545,
+      "game_name": "Poople",
+      "file": "missing/P/420545-poople.json"
+    },
+    {
       "igdb_id": 418275,
       "game_name": "Poopnauts",
       "file": "missing/P/418275-poopnauts.json"
@@ -710765,6 +710930,11 @@
       "igdb_id": 149732,
       "game_name": "Pre-Shave",
       "file": "missing/P/149732-pre-shave.json"
+    },
+    {
+      "igdb_id": 420494,
+      "game_name": "Pre-Warp Age",
+      "file": "missing/P/420494-pre-warp-age.json"
     },
     {
       "igdb_id": 261176,
@@ -735762,6 +735932,11 @@
       "file": "missing/R/141019-rage-jump.json"
     },
     {
+      "igdb_id": 420485,
+      "game_name": "Rage Mountain Rally",
+      "file": "missing/R/420485-rage-mountain-rally.json"
+    },
+    {
       "igdb_id": 212734,
       "game_name": "Rage Multiplayer",
       "file": "missing/R/212734-rage-multiplayer.json"
@@ -747525,6 +747700,11 @@
       "igdb_id": 239898,
       "game_name": "Redline F-1 Racer",
       "file": "missing/R/239898-redline-f-1-racer.json"
+    },
+    {
+      "igdb_id": 420507,
+      "game_name": "Redline Horde",
+      "file": "missing/R/420507-redline-horde.json"
     },
     {
       "igdb_id": 406301,
@@ -819872,6 +820052,11 @@
       "file": "missing/S/324848-skateboard-jam.json"
     },
     {
+      "igdb_id": 420522,
+      "game_name": "Skateboard Joust",
+      "file": "missing/S/420522-skateboard-joust.json"
+    },
+    {
       "igdb_id": 78881,
       "game_name": "Skateboard Kidz",
       "file": "missing/S/78881-skateboard-kidz.json"
@@ -821295,6 +821480,16 @@
       "igdb_id": 40928,
       "game_name": "Skramble",
       "file": "missing/S/40928-skramble.json"
+    },
+    {
+      "igdb_id": 420523,
+      "game_name": "Skramble",
+      "file": "missing/S/420523-skramble.json"
+    },
+    {
+      "igdb_id": 420524,
+      "game_name": "Skramble",
+      "file": "missing/S/420524-skramble.json"
     },
     {
       "igdb_id": 76565,
@@ -829015,6 +829210,11 @@
       "igdb_id": 58502,
       "game_name": "Smove",
       "file": "missing/S/58502-smove.json"
+    },
+    {
+      "igdb_id": 420490,
+      "game_name": "SMS 207",
+      "file": "missing/S/420490-sms-207.json"
     },
     {
       "igdb_id": 421213,
@@ -852032,6 +852232,11 @@
       "file": "missing/S/270145-spell-slingin-tower-defense.json"
     },
     {
+      "igdb_id": 420512,
+      "game_name": "Spell Sniffers",
+      "file": "missing/S/420512-spell-sniffers.json"
+    },
+    {
       "igdb_id": 328682,
       "game_name": "Spell Something",
       "file": "missing/S/328682-spell-something.json"
@@ -872300,6 +872505,11 @@
       "igdb_id": 286599,
       "game_name": "Sticky Struggles",
       "file": "missing/S/286599-sticky-struggles.json"
+    },
+    {
+      "igdb_id": 420510,
+      "game_name": "Sticky Sword",
+      "file": "missing/S/420510-sticky-sword.json"
     },
     {
       "igdb_id": 178505,
@@ -924352,6 +924562,11 @@
       "file": "missing/T/219792-the-absence-of-miriam-lane.json"
     },
     {
+      "igdb_id": 420486,
+      "game_name": "The Absolute Mage",
+      "file": "missing/T/420486-the-absolute-mage.json"
+    },
+    {
       "igdb_id": 153959,
       "game_name": "The Absolutely Hilarious Cat Game",
       "file": "missing/T/153959-the-absolutely-hilarious-cat-game.json"
@@ -936305,6 +936520,11 @@
       "igdb_id": 379162,
       "game_name": "The End of the Age",
       "file": "missing/T/379162-the-end-of-the-age.json"
+    },
+    {
+      "igdb_id": 420483,
+      "game_name": "The End of the Line: New Age",
+      "file": "missing/T/420483-the-end-of-the-line-new-age.json"
     },
     {
       "igdb_id": 308442,
@@ -987717,6 +987937,11 @@
       "file": "missing/T/165065-tiny-fishing.json"
     },
     {
+      "igdb_id": 420478,
+      "game_name": "Tiny Fishing Villages",
+      "file": "missing/T/420478-tiny-fishing-villages.json"
+    },
+    {
       "igdb_id": 191182,
       "game_name": "Tiny Football",
       "file": "missing/T/191182-tiny-football.json"
@@ -994815,6 +995040,11 @@
       "igdb_id": 37023,
       "game_name": "Too Many Weapons",
       "file": "missing/T/37023-too-many-weapons.json"
+    },
+    {
+      "igdb_id": 420480,
+      "game_name": "Too Much Baggage",
+      "file": "missing/T/420480-too-much-baggage.json"
     },
     {
       "igdb_id": 218410,
@@ -1032192,6 +1032422,11 @@
       "file": "missing/U/29783-unlucky-seven.json"
     },
     {
+      "igdb_id": 420508,
+      "game_name": "Unlucky Swordsmith",
+      "file": "missing/U/420508-unlucky-swordsmith.json"
+    },
+    {
       "igdb_id": 217452,
       "game_name": "Unmaker",
       "file": "missing/U/217452-unmaker.json"
@@ -1044282,6 +1044517,11 @@
       "file": "missing/V/16843-villagers-and-heroes.json"
     },
     {
+      "igdb_id": 420496,
+      "game_name": "Villages on Wheels",
+      "file": "missing/V/420496-villages-on-wheels.json"
+    },
+    {
       "igdb_id": 249906,
       "game_name": "Villaging",
       "file": "missing/V/249906-villaging.json"
@@ -1049342,6 +1049582,11 @@
       "file": "missing/V/35418-voyage-to-farland.json"
     },
     {
+      "igdb_id": 420482,
+      "game_name": "Voyage Trader",
+      "file": "missing/V/420482-voyage-trader.json"
+    },
+    {
       "igdb_id": 146629,
       "game_name": "Voyage: A Sorceress' Vacation",
       "file": "missing/V/146629-voyage-a-sorceress-vacation.json"
@@ -1053765,6 +1054010,11 @@
       "igdb_id": 163831,
       "game_name": "Wángguó de Mófǎ Zhànzhēng",
       "file": "missing/W/163831-wangguo-de-mofa-zhanzheng.json"
+    },
+    {
+      "igdb_id": 420581,
+      "game_name": "Wangzha: Dou Dizhu Roguelike",
+      "file": "missing/W/420581-wangzha-dou-dizhu-roguelike.json"
     },
     {
       "igdb_id": 210896,
