@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Challenge | 47093 | [47093-uefa-challenge.json](./47093-uefa-challenge.json) |
 | UEFA Champions League 1996/97 | 80477 | [80477-uefa-champions-league-1996-97.json](./80477-uefa-champions-league-1996-97.json) |
 | UEFA Champions League 1998-1999 | 44835 | [44835-uefa-champions-league-1998-1999.json](./44835-uefa-champions-league-1998-1999.json) |
+| UEFA Champions League 1999/2000 | 24121 | [24121-uefa-champions-league-1999-2000.json](./24121-uefa-champions-league-1999-2000.json) |
 | UEFA Champions League 2004-2005 | 22303 | [22303-uefa-champions-league-2004-2005.json](./22303-uefa-champions-league-2004-2005.json) |
 | UEFA Champions League 2006–2007 | 7225 | [7225-uefa-champions-league-2006-2007.json](./7225-uefa-champions-league-2006-2007.json) |
 | UEFA Champions League Season 1999/2000 | 43782 | [43782-uefa-champions-league-season-1999-2000.json](./43782-uefa-champions-league-season-1999-2000.json) |
