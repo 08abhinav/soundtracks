@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to the Creator | 290849 | [290849-path-to-the-creator.json](./290849-path-to-the-creator.json) |
 | Path to the Creator: DLC1 | 290850 | [290850-path-to-the-creator-dlc1.json](./290850-path-to-the-creator-dlc1.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
+| Path to the Sky | 35237 | [35237-path-to-the-sky.json](./35237-path-to-the-sky.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to the Void | 346631 | [346631-path-to-the-void.json](./346631-path-to-the-void.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
+| Perraw - FPS Clone War | 34309 | [34309-perraw-fps-clone-war.json](./34309-perraw-fps-clone-war.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
@@ -9399,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
+| Power of Love | 35287 | [35287-power-of-love.json](./35287-power-of-love.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
 | Power of the Ancients | 149501 | [149501-power-of-the-ancients.json](./149501-power-of-the-ancients.json) |
@@ -9801,6 +9804,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
+| President for a Day - Corruption | 35292 | [35292-president-for-a-day-corruption.json](./35292-president-for-a-day-corruption.json) |
+| President for a Day - Floodings | 35291 | [35291-president-for-a-day-floodings.json](./35291-president-for-a-day-floodings.json) |
 | President Forever | 71061 | [71061-president-forever.json](./71061-president-forever.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
