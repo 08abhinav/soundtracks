@@ -4043,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged | 131418 | [131418-estranged.json](./131418-estranged.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
+| Estranged: Act I | 26795 | [26795-estranged-act-i.json](./26795-estranged-act-i.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
 | Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Vive La France | 26254 | [26254-euro-truck-simulator-2-vive-la-france.json](./26254-euro-truck-simulator-2-vive-la-france.json) |
 | Euro Truck Simulator 2: West Balkans | 204244 | [204244-euro-truck-simulator-2-west-balkans.json](./204244-euro-truck-simulator-2-west-balkans.json) |
 | Euro Truck Simulator 2: Wielton Trailer Pack | 256992 | [256992-euro-truck-simulator-2-wielton-trailer-pack.json](./256992-euro-truck-simulator-2-wielton-trailer-pack.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
