@@ -2087,7 +2087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Racing | 67213 | [67213-real-racing.json](./67213-real-racing.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
-| Real Racing 3 | 22179 | [22179-real-racing-3.json](./22179-real-racing-3.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
