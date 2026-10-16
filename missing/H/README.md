@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
+| Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
@@ -8329,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
 | Hunters of Idlearth | 348371 | [348371-hunters-of-idlearth.json](./348371-hunters-of-idlearth.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
+| Hunters of the Dead | 17749 | [17749-hunters-of-the-dead.json](./17749-hunters-of-the-dead.json) |
 | Hunters War | 124592 | [124592-hunters-war.json](./124592-hunters-war.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters: Relic Of Stars | 395485 | [395485-hunters-relic-of-stars.json](./395485-hunters-relic-of-stars.json) |
