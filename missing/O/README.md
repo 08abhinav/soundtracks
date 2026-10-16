@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
 | Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
+| OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Life | 154258 | [154258-office-life.json](./154258-office-life.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
+| Office Lovers | 32319 | [32319-office-lovers.json](./32319-office-lovers.json) |
 | Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
 | Office Manager | 403785 | [403785-office-manager.json](./403785-office-manager.json) |
