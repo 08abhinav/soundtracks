@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
+| Omnibus | 19871 | [19871-omnibus.json](./19871-omnibus.json) |
 | OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicron Conspiracy | 12708 | [12708-omnicron-conspiracy.json](./12708-omnicron-conspiracy.json) |
