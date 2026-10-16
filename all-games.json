@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:33:48.399Z",
-  "total_soundtracks": 1940,
+  "generated_at": "2026-10-16T19:34:02.072Z",
+  "total_soundtracks": 1941,
   "games": [
     {
       "igdb_id": 7522,
@@ -17161,6 +17161,20 @@
         {
           "album_name": "Skylanders Giants (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7h6XB0eEGQf1eBTqcSif1G",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11058,
+      "game_name": "Skylanders: SuperChargers",
+      "game_url": "https://ostdb.net/games/skylanders-superchargers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27306af32c1b6b564a4998cd362",
+      "albums": [
+        {
+          "album_name": "Skylanders SuperChargers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0HBdldBU9xd36GLmKSFw46",
           "apple_music_url": "",
           "album_link_url": ""
         }
