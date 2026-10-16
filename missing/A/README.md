@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
+| Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: The Rise of Rome | 291 | [291-age-of-empires-the-rise-of-rome.json](./291-age-of-empires-the-rise-of-rome.json) |
@@ -9505,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
+| Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
 | Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
@@ -11086,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
+| Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
