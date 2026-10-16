@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
+| The Chessmaster 2000 | 13482 | [13482-the-chessmaster-2000.json](./13482-the-chessmaster-2000.json) |
 | The Chessmaster 3-D | 15879 | [15879-the-chessmaster-3-d.json](./15879-the-chessmaster-3-d.json) |
 | The Chessmaster 3000 | 15876 | [15876-the-chessmaster-3000.json](./15876-the-chessmaster-3000.json) |
 | The Chessmaster 4000 | 15877 | [15877-the-chessmaster-4000.json](./15877-the-chessmaster-4000.json) |
@@ -7871,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
+| The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
 | The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey Home | 267299 | [267299-the-journey-home.json](./267299-the-journey-home.json) |
@@ -8747,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
+| The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
@@ -11358,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
+| The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
 | The Short Trip | 328973 | [328973-the-short-trip.json](./328973-the-short-trip.json) |
@@ -11608,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
+| The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
 | The Sims: Complete Collection | 45116 | [45116-the-sims-complete-collection.json](./45116-the-sims-complete-collection.json) |
 | The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
@@ -12863,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
+| The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
 | The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
@@ -13064,6 +13070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
+| The Wandering Village | 140669 | [140669-the-wandering-village.json](./140669-the-wandering-village.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
@@ -23310,6 +23317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
+| Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
 | Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
