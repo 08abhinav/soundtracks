@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent 00111 | 120100 | [120100-agent-00111.json](./120100-agent-00111.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
+| Agent 64: Spies Never Die | 148270 | [148270-agent-64-spies-never-die.json](./148270-agent-64-spies-never-die.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
@@ -10052,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
+| Asdivine Saga | 148517 | [148517-asdivine-saga.json](./148517-asdivine-saga.json) |
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
@@ -10798,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
+| Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
