@@ -156,6 +156,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/e0/ab/14e0abf7-8cb5-419b-796c-bde930618f54/dj.nkieyhiv.jpg/600x600bb.jpg" width="60" /> | [Beat Saber](https://ostdb.net/games/beat-saber) | **Beat Saber (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR) · [Apple Music](https://music.apple.com/us/album/beat-saber-original-game-soundtrack/1371680509) · [Album](https://album.link/i/1371680509) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd149ebe3e76d2f35642184f" width="60" /> | [Before Your Eyes](https://ostdb.net/games/before-your-eyes) | **Before Your Eyes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0n2i8bOgOuc9EjaSRd8wY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5af0e90266198d87ba6f4e3" width="60" /> | [Below](https://ostdb.net/games/below) | **Below (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328f3df05f23d0cac6d4fbd3b" width="60" /> | [Beyond Blue](https://ostdb.net/games/beyond-blue) | **Beyond Blue Original Soundtrack** · [Spotify](https://open.spotify.com/album/6k4VRrvfb7U2mfzhLXkQiK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33f191570b327c989976220" width="60" /> | [Beyond Good & Evil](https://ostdb.net/games/beyond-good-and-evil) | **Beyond Good and Evil 20th Anniversary (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1VHWvVa7DVTR6igxCVHP3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338e52f5d4343995653376218" width="60" /> | [Beyond: Two Souls](https://ostdb.net/games/beyond-two-souls) | **Beyond: Two Souls (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8097948a01da4e3b6e27283" width="60" /> | [BioShock 2](https://ostdb.net/games/bioshock-2) | **Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game** · [Spotify](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) |
@@ -1383,4 +1384,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1700 soundtracks · last updated 2026-10-16T05:01:01.921Z_
+_1701 soundtracks · last updated 2026-10-16T05:01:15.878Z_
