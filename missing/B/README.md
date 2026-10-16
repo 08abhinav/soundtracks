@@ -5686,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
+| Biped | 121247 | [121247-biped.json](./121247-biped.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Bipgolf | 148288 | [148288-bipgolf.json](./148288-bipgolf.json) |
@@ -7951,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
 | Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
+| Blue Fire | 131868 | [131868-blue-fire.json](./131868-blue-fire.json) |
 | Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
@@ -10119,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveland Wizard | 8755 | [8755-braveland-wizard.json](./8755-braveland-wizard.json) |
 | Bravely Archive: D's Report | 288149 | [288149-bravely-archive-ds-report.json](./288149-bravely-archive-ds-report.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
+| Bravely Default II | 127344 | [127344-bravely-default-ii.json](./127344-bravely-default-ii.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
