@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever 3 | 328391 | [328391-jewel-fever-3.json](./328391-jewel-fever-3.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
+| Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joestar Struck | 177819 | [177819-joestar-struck.json](./177819-joestar-struck.json) |
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey and Penguin's 2 Player Adventure | 216181 | [216181-joey-and-penguins-2-player-adventure.json](./216181-joey-and-penguins-2-player-adventure.json) |
+| Joey Cross - Jumping on Roads in the Outback | 87222 | [87222-joey-cross-jumping-on-roads-in-the-outback.json](./87222-joey-cross-jumping-on-roads-in-the-outback.json) |
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
@@ -2693,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
 | Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
+| Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
