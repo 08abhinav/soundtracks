@@ -4838,7 +4838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
-| Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
