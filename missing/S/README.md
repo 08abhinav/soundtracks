@@ -11455,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
+| Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
 | Solitairithmetic | 85729 | [85729-solitairithmetic.json](./85729-solitairithmetic.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitarius | 189035 | [189035-solitarius.json](./189035-solitarius.json) |
@@ -15106,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
 | Spirit Guardians | 285687 | [285687-spirit-guardians.json](./285687-spirit-guardians.json) |
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
+| Spirit Hunter: Death Mark | 26624 | [26624-spirit-hunter-death-mark.json](./26624-spirit-hunter-death-mark.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
@@ -18095,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate 0 | 11394 | [11394-steins-gate-0.json](./11394-steins-gate-0.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
+| Steins;Gate Elite | 56057 | [56057-steins-gate-elite.json](./56057-steins-gate-elite.json) |
 | Steins;Gate Elite: Limited Edition | 136329 | [136329-steins-gate-elite-limited-edition.json](./136329-steins-gate-elite-limited-edition.json) |
 | Steins;Gate Re:Boot | 320972 | [320972-steins-gate-re-boot.json](./320972-steins-gate-re-boot.json) |
 | Steins;Gate x Sanrio Characters: Kaikou Souguu - Goldig Party | 194285 | [194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json](./194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json) |
@@ -19284,6 +19287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 | 242651 | [242651-street-fighter-alpha-3.json](./242651-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 | 6704 | [6704-street-fighter-alpha-3.json](./6704-street-fighter-alpha-3.json) |
+| Street Fighter Alpha 3 MAX | 42876 | [42876-street-fighter-alpha-3-max.json](./42876-street-fighter-alpha-3-max.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
