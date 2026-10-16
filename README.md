@@ -951,6 +951,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737353c718565116bca7b4380d" width="60" /> | [Quantum Break](https://ostdb.net/games/quantum-break) | **Quantum Break - Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de4a2ea4efa375abb46cdeba" width="60" /> | [Quern: Undying Thoughts](https://ostdb.net/games/quern-undying-thoughts) | **Quern: Undying Thoughts (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4yeGh5ifGpYLCV251PTLZy) |
 
 ### R
 
@@ -1445,4 +1446,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1762 soundtracks · last updated 2026-10-16T05:34:51.921Z_
+_1763 soundtracks · last updated 2026-10-16T05:35:05.934Z_
