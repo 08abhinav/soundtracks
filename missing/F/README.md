@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
 | Falling Stars | 27489 | [27489-falling-stars.json](./27489-falling-stars.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
+| Falling Stars: War of Empires | 33562 | [33562-falling-stars-war-of-empires.json](./33562-falling-stars-war-of-empires.json) |
 | Falling to Heaven | 197052 | [197052-falling-to-heaven.json](./197052-falling-to-heaven.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
@@ -5404,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight 666 | 270570 | [270570-flight-666.json](./270570-flight-666.json) |
 | Flight 74 | 152730 | [152730-flight-74.json](./152730-flight-74.json) |
+| Flight 787 - Advanced | 32843 | [32843-flight-787-advanced.json](./32843-flight-787-advanced.json) |
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
 | Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
