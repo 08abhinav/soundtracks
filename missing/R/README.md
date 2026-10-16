@@ -8159,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudolph the Red-Nosed Reindeer: Holiday Play Edition | 420697 | [420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json](./420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
+| Rue Valley | 217012 | [217012-rue-valley.json](./217012-rue-valley.json) |
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
