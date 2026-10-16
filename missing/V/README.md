@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
+| Versus World | 82466 | [82466-versus-world.json](./82466-versus-world.json) |
 | Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
 | Versus: The Deathscapes | 157414 | [157414-versus-the-deathscapes.json](./157414-versus-the-deathscapes.json) |
 | Versus: The Elite Trials | 30025 | [30025-versus-the-elite-trials.json](./30025-versus-the-elite-trials.json) |
@@ -2164,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivere Memento | 290828 | [290828-vivere-memento.json](./290828-vivere-memento.json) |
 | Vivere Retro | 388422 | [388422-vivere-retro.json](./388422-vivere-retro.json) |
 | ViveSpray | 32282 | [32282-vivespray.json](./32282-vivespray.json) |
+| ViveSpray 2 | 83170 | [83170-vivespray-2.json](./83170-vivespray-2.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian Clark | 63544 | [63544-vivian-clark.json](./63544-vivian-clark.json) |
 | Vivian Wade: Danger Down the Aisle | 390804 | [390804-vivian-wade-danger-down-the-aisle.json](./390804-vivian-wade-danger-down-the-aisle.json) |
@@ -2811,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
+| VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
 | VR Summer Sports | 174058 | [174058-vr-summer-sports.json](./174058-vr-summer-sports.json) |
 | VR Super Sports: 10 Edition | 170866 | [170866-vr-super-sports-10-edition.json](./170866-vr-super-sports-10-edition.json) |
 | VR Super Sports: Golf | 170865 | [170865-vr-super-sports-golf.json](./170865-vr-super-sports-golf.json) |
