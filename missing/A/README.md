@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
+| Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above the Fold | 112605 | [112605-above-the-fold.json](./112605-above-the-fold.json) |
 | Above the Hill | 267280 | [267280-above-the-hill.json](./267280-above-the-hill.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
+| Alien Squatter | 121267 | [121267-alien-squatter.json](./121267-alien-squatter.json) |
 | Alien Stars | 25535 | [25535-alien-stars.json](./25535-alien-stars.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien Story: Fairy tale with games for kids | 89809 | [89809-alien-story-fairy-tale-with-games-for-kids.json](./89809-alien-story-fairy-tale-with-games-for-kids.json) |
@@ -10186,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
 | Ashes of Resolve | 413503 | [413503-ashes-of-resolve.json](./413503-ashes-of-resolve.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
+| Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
@@ -11101,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
+| At Home Alone II | 121305 | [121305-at-home-alone-ii.json](./121305-at-home-alone-ii.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Last not Last | 234495 | [234495-at-last-not-last.json](./234495-at-last-not-last.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
