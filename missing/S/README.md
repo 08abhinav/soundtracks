@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
+| Sakura Fantasy: Chapter 1 | 60155 | [60155-sakura-fantasy-chapter-1.json](./60155-sakura-fantasy-chapter-1.json) |
 | Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261905 | [261905-salamander.json](./261905-salamander.json) |
 | Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
+| Salamander 2 | 1483 | [1483-salamander-2.json](./1483-salamander-2.json) |
 | Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
@@ -3488,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
+| Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
@@ -12573,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soran | 145415 | [145415-soran.json](./145415-soran.json) |
 | Soratobu Bunbun Baan | 85388 | [85388-soratobu-bunbun-baan.json](./85388-soratobu-bunbun-baan.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
+| Sorcerer | 1948 | [1948-sorcerer.json](./1948-sorcerer.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
@@ -14652,6 +14656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
+| Spellbreaker | 1949 | [1949-spellbreaker.json](./1949-spellbreaker.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellbroken | 152012 | [152012-spellbroken.json](./152012-spellbroken.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
@@ -15963,6 +15968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro the Dragon: Wings of Fury | 61505 | [61505-spyro-the-dragon-wings-of-fury.json](./61505-spyro-the-dragon-wings-of-fury.json) |
 | Spyro: A Hero's Tail | 1580 | [1580-spyro-a-heros-tail.json](./1580-spyro-a-heros-tail.json) |
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
+| Spyro: Attack of the Rhynocs | 1589 | [1589-spyro-attack-of-the-rhynocs.json](./1589-spyro-attack-of-the-rhynocs.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
@@ -17687,6 +17693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
+| Starship Titanic | 1362 | [1362-starship-titanic.json](./1362-starship-titanic.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
@@ -18067,6 +18074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Defence | 374431 | [374431-steel-defence.json](./374431-steel-defence.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
+| Steel Diver: Sub Wars | 62171 | [62171-steel-diver-sub-wars.json](./62171-steel-diver-sub-wars.json) |
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
