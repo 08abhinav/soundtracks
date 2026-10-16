@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A buggy Adventure | 143353 | [143353-a-buggy-adventure.json](./143353-a-buggy-adventure.json) |
+| A Building Full of Cats | 199237 | [199237-a-building-full-of-cats.json](./199237-a-building-full-of-cats.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
 | A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
+| A Twisted Path To Renown | 275923 | [275923-a-twisted-path-to-renown.json](./275923-a-twisted-path-to-renown.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
 | A Typewriter's Story | 104145 | [104145-a-typewriters-story.json](./104145-a-typewriters-story.json) |
@@ -1625,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
+| Ace Attorney Investigations Collection | 306152 | [306152-ace-attorney-investigations-collection.json](./306152-ace-attorney-investigations-collection.json) |
 | Ace Attorney Investigations: Miles Edgeworth | 1430 | [1430-ace-attorney-investigations-miles-edgeworth.json](./1430-ace-attorney-investigations-miles-edgeworth.json) |
 | Ace Attorney Online: The Game | 303774 | [303774-ace-attorney-online-the-game.json](./303774-ace-attorney-online-the-game.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
@@ -4244,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
+| Alfred Hitchcock: Vertigo | 151844 | [151844-alfred-hitchcock-vertigo.json](./151844-alfred-hitchcock-vertigo.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
 | Alfred Hitchcock: Vertigo - Limited Edition | 207386 | [207386-alfred-hitchcock-vertigo-limited-edition.json](./207386-alfred-hitchcock-vertigo-limited-edition.json) |
 | Alfred Hitchcock’s Psycho Adventure Game | 320240 | [320240-alfred-hitchcock-s-psycho-adventure-game.json](./320240-alfred-hitchcock-s-psycho-adventure-game.json) |
