@@ -5389,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
