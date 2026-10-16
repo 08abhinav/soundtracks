@@ -6606,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
+| Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
@@ -15177,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Arena | 122258 | [122258-spirit-arena.json](./122258-spirit-arena.json) |
 | Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
+| Spirit Camera: The Cursed Memoir | 6889 | [6889-spirit-camera-the-cursed-memoir.json](./6889-spirit-camera-the-cursed-memoir.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit Charm | 215660 | [215660-spirit-charm.json](./215660-spirit-charm.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
@@ -16890,6 +16892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
+| Star Trek: Conquest | 5193 | [5193-star-trek-conquest.json](./5193-star-trek-conquest.json) |
 | Star Trek: ConQuest Online | 69780 | [69780-star-trek-conquest-online.json](./69780-star-trek-conquest-online.json) |
 | Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
@@ -17813,6 +17816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
+| State of Emergency 2 | 6162 | [6162-state-of-emergency-2.json](./6162-state-of-emergency-2.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
 | State of Matter | 58106 | [58106-state-of-matter.json](./58106-state-of-matter.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
@@ -23031,6 +23035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
 | Super Swarm Smash | 147398 | [147398-super-swarm-smash.json](./147398-super-swarm-smash.json) |
 | Super Swarmer Survivors | 343456 | [343456-super-swarmer-survivors.json](./343456-super-swarmer-survivors.json) |
+| Super Swing Golf | 5202 | [5202-super-swing-golf.json](./5202-super-swing-golf.json) |
 | Super Swing Golf: Season 2 | 5203 | [5203-super-swing-golf-season-2.json](./5203-super-swing-golf-season-2.json) |
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Swunsh World 2 | 328044 | [328044-super-swunsh-world-2.json](./328044-super-swunsh-world-2.json) |
