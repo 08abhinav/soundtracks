@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakels ABC: Storm Över Allemansland | 97705 | [97705-krakels-abc-storm-over-allemansland.json](./97705-krakels-abc-storm-over-allemansland.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Academy: End of the World Edition | 169200 | [169200-kraken-academy-end-of-the-world-edition.json](./169200-kraken-academy-end-of-the-world-edition.json) |
+| Kraken Academy!! | 138598 | [138598-kraken-academy.json](./138598-kraken-academy.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Kraken Attack! | 285904 | [285904-kraken-attack.json](./285904-kraken-attack.json) |
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
