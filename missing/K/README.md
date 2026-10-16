@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
+| Killzone: Liberation | 1868 | [1868-killzone-liberation.json](./1868-killzone-liberation.json) |
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
 | Killzone: Liberation - Chapter 5 DLC | 243224 | [243224-killzone-liberation-chapter-5-dlc.json](./243224-killzone-liberation-chapter-5-dlc.json) |
 | Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
