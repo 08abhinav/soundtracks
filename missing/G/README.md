@@ -7704,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
+| Gunship III | 88489 | [88489-gunship-iii.json](./88489-gunship-iii.json) |
 | Gunship III: Combat Flight Simulator - Strike Package | 88624 | [88624-gunship-iii-combat-flight-simulator-strike-package.json](./88624-gunship-iii-combat-flight-simulator-strike-package.json) |
 | Gunship III: Combat Flight Simulator - U.S. Navy | 88609 | [88609-gunship-iii-combat-flight-simulator-u-s-navy.json](./88609-gunship-iii-combat-flight-simulator-u-s-navy.json) |
 | Gunship III: Flight Simulator - Strike Package | 90846 | [90846-gunship-iii-flight-simulator-strike-package.json](./90846-gunship-iii-flight-simulator-strike-package.json) |
