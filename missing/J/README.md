@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
 | Jackhammer Tower | 96919 | [96919-jackhammer-tower.json](./96919-jackhammer-tower.json) |
 | Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
+| Jackie Chan Adventures | 8154 | [8154-jackie-chan-adventures.json](./8154-jackie-chan-adventures.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
 | Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
+| Joint Operations: Typhoon Rising | 9354 | [9354-joint-operations-typhoon-rising.json](./9354-joint-operations-typhoon-rising.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
 | Joint Strike Future | 68545 | [68545-joint-strike-future.json](./68545-joint-strike-future.json) |
 | Joint Task Force | 19354 | [19354-joint-task-force.json](./19354-joint-task-force.json) |
