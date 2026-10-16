@@ -11532,7 +11532,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | creak, Creak | 58706 | [58706-creak-creak.json](./58706-creak-creak.json) |
-| Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
 | Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
