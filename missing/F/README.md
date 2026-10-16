@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
 | FlatFatCat | 54333 | [54333-flatfatcat.json](./54333-flatfatcat.json) |
 | Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
+| Flatland Vol.1 | 123712 | [123712-flatland-vol-1.json](./123712-flatland-vol-1.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flatland: Fallen Angle | 5609 | [5609-flatland-fallen-angle.json](./5609-flatland-fallen-angle.json) |
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
