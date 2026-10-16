@@ -4982,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
+| Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
@@ -5598,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Flirting With Girls in Fantasy World | 386866 | [386866-flirting-with-girls-in-fantasy-world.json](./386866-flirting-with-girls-in-fantasy-world.json) |
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
+| Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
@@ -8872,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
+| Fruit Arranger | 29863 | [29863-fruit-arranger.json](./29863-fruit-arranger.json) |
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Attacks VR | 81113 | [81113-fruit-attacks-vr.json](./81113-fruit-attacks-vr.json) |
