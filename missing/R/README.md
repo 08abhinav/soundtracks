@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmSnake | 123497 | [123497-rhythmsnake.json](./123497-rhythmsnake.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
+| RhyTime! | 421195 | [421195-rhytime.json](./421195-rhytime.json) |
 | Rhyup | 113899 | [113899-rhyup.json](./113899-rhyup.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
 | Ria Action Adventure | 197737 | [197737-ria-action-adventure.json](./197737-ria-action-adventure.json) |
