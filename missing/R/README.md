@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
+| Red Solstice 2: Survivors | 117951 | [117951-red-solstice-2-survivors.json](./117951-red-solstice-2-survivors.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Solstice 2: Survivors - Howell-Barrex Inc. | 180024 | [180024-red-solstice-2-survivors-howell-barrex-inc.json](./180024-red-solstice-2-survivors-howell-barrex-inc.json) |
 | Red Solstice 2: Survivors - Insurgents | 201009 | [201009-red-solstice-2-survivors-insurgents.json](./201009-red-solstice-2-survivors-insurgents.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekindle | 318709 | [318709-rekindle.json](./318709-rekindle.json) |
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
+| Rekindling | 117059 | [117059-rekindling.json](./117059-rekindling.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
 | Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
 | Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
@@ -5673,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Party | 339973 | [339973-ritual-party.json](./339973-ritual-party.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
+| Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
@@ -6860,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
+| Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
