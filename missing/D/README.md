@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
+| Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
@@ -12279,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Battles | 390799 | [390799-dung-battles.json](./390799-dung-battles.json) |
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
+| Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
