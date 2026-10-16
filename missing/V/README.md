@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
 | Venture II | 46889 | [46889-venture-ii.json](./46889-venture-ii.json) |
+| Venture Kid | 96439 | [96439-venture-kid.json](./96439-venture-kid.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
 | Venture Within | 199395 | [199395-venture-within.json](./199395-venture-within.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
+| Virtual Virtual Reality | 96698 | [96698-virtual-virtual-reality.json](./96698-virtual-virtual-reality.json) |
 | Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
 | Virtual Walk English 2: Travel-hen | 230523 | [230523-virtual-walk-english-2-travel-hen.json](./230523-virtual-walk-english-2-travel-hen.json) |
 | Virtual Walk English 3: Travel-hen | 230524 | [230524-virtual-walk-english-3-travel-hen.json](./230524-virtual-walk-english-3-travel-hen.json) |
