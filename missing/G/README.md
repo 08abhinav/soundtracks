@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
+| Gocco of War | 14677 | [14677-gocco-of-war.json](./14677-gocco-of-war.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | Gochi-Show! for Girls | 31731 | [31731-gochi-show-for-girls.json](./31731-gochi-show-for-girls.json) |
 | God Awefull Clicker | 101753 | [101753-god-awefull-clicker.json](./101753-god-awefull-clicker.json) |
@@ -5896,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Control | 121351 | [121351-gravity-control.json](./121351-gravity-control.json) |
 | Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
 | Gravity Core | 128900 | [128900-gravity-core.json](./128900-gravity-core.json) |
+| Gravity Crash | 13173 | [13173-gravity-crash.json](./13173-gravity-crash.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
