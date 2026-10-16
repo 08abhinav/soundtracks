@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Iron Globe | 160086 | [160086-save-iron-globe.json](./160086-save-iron-globe.json) |
+| Save Jesus | 31871 | [31871-save-jesus.json](./31871-save-jesus.json) |
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
 | Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Sellsword VR | 55686 | [55686-sellsword-vr.json](./55686-sellsword-vr.json) |
+| Selma and the Wisp | 32265 | [32265-selma-and-the-wisp.json](./32265-selma-and-the-wisp.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
 | Selve | 369109 | [369109-selve.json](./369109-selve.json) |
 | Sem % | 176816 | [176816-sem.json](./176816-sem.json) |
@@ -5108,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
+| Shaolin vs Wutang | 32736 | [32736-shaolin-vs-wutang.json](./32736-shaolin-vs-wutang.json) |
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
 | Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
@@ -13326,6 +13329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cobra Professional | 75733 | [75733-space-cobra-professional.json](./75733-space-cobra-professional.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
+| Space Codex | 32684 | [32684-space-codex.json](./32684-space-codex.json) |
 | Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
@@ -14592,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | SpeedWords Arena | 89523 | [89523-speedwords-arena.json](./89523-speedwords-arena.json) |
+| SpeedX 3D | 23674 | [23674-speedx-3d.json](./23674-speedx-3d.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
@@ -16600,6 +16605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
+| Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
@@ -23778,6 +23784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
 | Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
+| Survive in Space | 32707 | [32707-survive-in-space.json](./32707-survive-in-space.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
