@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
 | .Hack//G.U. Vol. 2: Reminisce | 11988 | [11988-hack-g-u-vol-2-reminisce.json](./11988-hack-g-u-vol-2-reminisce.json) |
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
+| .Hack//G.U. Vol. 3: Redemption | 12027 | [12027-hack-g-u-vol-3-redemption.json](./12027-hack-g-u-vol-3-redemption.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
 | .Hack//Outbreak | 11809 | [11809-hack-outbreak.json](./11809-hack-outbreak.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
 | 404Sight | 19389 | [19389-404sight.json](./19389-404sight.json) |
+| 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
 | 41 Hours | 139679 | [139679-41-hours.json](./139679-41-hours.json) |
@@ -2074,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
 | 7.62mm | 79155 | [79155-7-62mm.json](./79155-7-62mm.json) |
+| 7'Scarlet | 12639 | [12639-7scarlet.json](./12639-7scarlet.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
 | 70 Seconds Survival | 106394 | [106394-70-seconds-survival.json](./106394-70-seconds-survival.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
