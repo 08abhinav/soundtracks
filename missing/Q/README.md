@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
+| Qop 4 | 113218 | [113218-qop-4.json](./113218-qop-4.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
 | Qora | 17492 | [17492-qora.json](./17492-qora.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
