@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
+| Alone? VR | 31282 | [31282-alone-vr.json](./31282-alone-vr.json) |
 | Alone. Again. | 379167 | [379167-alone-again.json](./379167-alone-again.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
 | AloneGuy | 267480 | [267480-aloneguy.json](./267480-aloneguy.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient Viking | 262855 | [262855-ancient-viking.json](./262855-ancient-viking.json) |
 | Ancient Village 2 | 249685 | [249685-ancient-village-2.json](./249685-ancient-village-2.json) |
+| Ancient VR coaster | 32297 | [32297-ancient-vr-coaster.json](./32297-ancient-vr-coaster.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
@@ -10986,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
+| Astroderps | 32323 | [32323-astroderps.json](./32323-astroderps.json) |
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
