@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
+| Unbreakable Vr Runner | 32314 | [32314-unbreakable-vr-runner.json](./32314-unbreakable-vr-runner.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbridled: An Untameable Story | 313801 | [313801-unbridled-an-untameable-story.json](./313801-unbridled-an-untameable-story.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untamed Isles | 186017 | [186017-untamed-isles.json](./186017-untamed-isles.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
+| Untamed: Life of a Cougar | 35017 | [35017-untamed-life-of-a-cougar.json](./35017-untamed-life-of-a-cougar.json) |
 | Untangle | 163236 | [163236-untangle.json](./163236-untangle.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
 | Untangle Goats | 318496 | [318496-untangle-goats.json](./318496-untangle-goats.json) |
