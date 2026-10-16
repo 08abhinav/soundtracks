@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Arcade | 19143 | [19143-banzai-arcade.json](./19143-banzai-arcade.json) |
 | Banzai Bat | 188966 | [188966-banzai-bat.json](./188966-banzai-bat.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
+| Banzai Escape | 33566 | [33566-banzai-escape.json](./33566-banzai-escape.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
 | Banzai Escape 2: Subterranean | 195958 | [195958-banzai-escape-2-subterranean.json](./195958-banzai-escape-2-subterranean.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Bovver | 13812 | [13812-bear-bovver.json](./13812-bear-bovver.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
+| Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear Hunting 4: Summer | 100058 | [100058-bear-hunting-4-summer.json](./100058-bear-hunting-4-summer.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
+| Book of Merlin | 33767 | [33767-book-of-merlin.json](./33767-book-of-merlin.json) |
 | Book of Mormon Scripix | 102274 | [102274-book-of-mormon-scripix.json](./102274-book-of-mormon-scripix.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
@@ -10424,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
+| Break Chance Memento | 33789 | [33789-break-chance-memento.json](./33789-break-chance-memento.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
@@ -10806,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
+| Bridge! 2 | 33738 | [33738-bridge-2.json](./33738-bridge-2.json) |
 | Bridge! 3 | 124145 | [124145-bridge-3.json](./124145-bridge-3.json) |
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
 | BridgeBreaker | 365785 | [365785-bridgebreaker.json](./365785-bridgebreaker.json) |
