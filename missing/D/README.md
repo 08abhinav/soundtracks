@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
 | Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
+| Dark Lore Mysteries: The Hunt For Truth | 36381 | [36381-dark-lore-mysteries-the-hunt-for-truth.json](./36381-dark-lore-mysteries-the-hunt-for-truth.json) |
 | Dark Lovers: Extended Edition | 264770 | [264770-dark-lovers-extended-edition.json](./264770-dark-lovers-extended-edition.json) |
 | Dark Mage | 40687 | [40687-dark-mage.json](./40687-dark-mage.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
+| Destiny Chronicles | 36871 | [36871-destiny-chronicles.json](./36871-destiny-chronicles.json) |
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
 | Destiny Connect: Tick-Tock Travelers - Capsule Edition | 136200 | [136200-destiny-connect-tick-tock-travelers-capsule-edition.json](./136200-destiny-connect-tick-tock-travelers-capsule-edition.json) |
@@ -10173,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
 | Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
+| Dragon Essence: Color My World | 36964 | [36964-dragon-essence-color-my-world.json](./36964-dragon-essence-color-my-world.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
@@ -11203,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
+| Dreamscapes: The Sandman - Premium Edition | 36383 | [36383-dreamscapes-the-sandman-premium-edition.json](./36383-dreamscapes-the-sandman-premium-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamsettler | 196002 | [196002-dreamsettler.json](./196002-dreamsettler.json) |
@@ -13101,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
+| Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
