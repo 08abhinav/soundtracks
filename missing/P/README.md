@@ -5092,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkalicious/Silverlicious 2-Pack | 9747 | [9747-pinkalicious-silverlicious-2-pack.json](./9747-pinkalicious-silverlicious-2-pack.json) |
 | PinKeep | 381179 | [381179-pinkeep.json](./381179-pinkeep.json) |
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
+| Pinkman | 31643 | [31643-pinkman.json](./31643-pinkman.json) |
 | PinkMan Adventure | 185492 | [185492-pinkman-adventure.json](./185492-pinkman-adventure.json) |
 | Pinko Linko's School | 310675 | [310675-pinko-linkos-school.json](./310675-pinko-linkos-school.json) |
 | Pinku Kult: Hex Mortis | 168696 | [168696-pinku-kult-hex-mortis.json](./168696-pinku-kult-hex-mortis.json) |
@@ -10640,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
+| Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
