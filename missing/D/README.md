@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
+| Darksburg | 105029 | [105029-darksburg.json](./105029-darksburg.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
+| Dead End Road | 33350 | [33350-dead-end-road.json](./33350-dead-end-road.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
@@ -5985,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
 | Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
+| Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
@@ -6895,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
+| Disgaea 2 PC | 32294 | [32294-disgaea-2-pc.json](./32294-disgaea-2-pc.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
@@ -8442,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
 | Don't Look Away from the Colors | 177257 | [177257-dont-look-away-from-the-colors.json](./177257-dont-look-away-from-the-colors.json) |
+| Don't Look Back | 29302 | [29302-dont-look-back.json](./29302-dont-look-back.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
