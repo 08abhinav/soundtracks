@@ -5576,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
+| World Heroes 2 | 37251 | [37251-world-heroes-2.json](./37251-world-heroes-2.json) |
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
 | World Heroes Perfect | 400384 | [400384-world-heroes-perfect.json](./400384-world-heroes-perfect.json) |
