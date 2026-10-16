@@ -9858,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
+| Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
 | Priest Simulator: Heavy Duty | 188962 | [188962-priest-simulator-heavy-duty.json](./188962-priest-simulator-heavy-duty.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
