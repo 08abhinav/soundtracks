@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
 | Fields of Asphodel | 304840 | [304840-fields-of-asphodel.json](./304840-fields-of-asphodel.json) |
+| Fields of Battle | 54801 | [54801-fields-of-battle.json](./54801-fields-of-battle.json) |
 | Fields of Battle 2 | 216131 | [216131-fields-of-battle-2.json](./216131-fields-of-battle-2.json) |
 | Fields of Fortune | 345456 | [345456-fields-of-fortune.json](./345456-fields-of-fortune.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
