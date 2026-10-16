@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
+| Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
+| Deadly Towers | 48067 | [48067-deadly-towers.json](./48067-deadly-towers.json) |
 | Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
@@ -6202,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
 | Digital Desktop Cats | 344406 | [344406-digital-desktop-cats.json](./344406-digital-desktop-cats.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
+| Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
@@ -6274,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Dillo's Dilemma | 346692 | [346692-dillos-dilemma.json](./346692-dillos-dilemma.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
+| Dillon's Rolling Western | 47655 | [47655-dillons-rolling-western.json](./47655-dillons-rolling-western.json) |
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
@@ -7031,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
 | Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
+| Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
@@ -9930,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z 2 V | 2565 | [2565-dragon-ball-z-2-v.json](./2565-dragon-ball-z-2-v.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z For Kinect | 2575 | [2575-dragon-ball-z-for-kinect.json](./2575-dragon-ball-z-for-kinect.json) |
+| Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku | 48681 | [48681-dragon-ball-z-gaiden-saiya-jin-zetsumetsu-keikaku.json](./48681-dragon-ball-z-gaiden-saiya-jin-zetsumetsu-keikaku.json) |
 | Dragon Ball Z Gaiden: Shin Saiya-jin Zetsumetsu Keikaku - Uchou-hen | 63360 | [63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json](./63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
@@ -10634,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
+| Draw Slasher | 34033 | [34033-draw-slasher.json](./34033-draw-slasher.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
 | Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
