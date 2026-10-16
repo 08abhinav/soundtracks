@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
+| WarioWare: Move It! | 254341 | [254341-warioware-move-it.json](./254341-warioware-move-it.json) |
 | WarioWare: Snapped! | 1707 | [1707-warioware-snapped.json](./1707-warioware-snapped.json) |
 | WarioWare: Touched! | 1705 | [1705-warioware-touched.json](./1705-warioware-touched.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arena | 31072 | [31072-wild-arena.json](./31072-wild-arena.json) |
 | Wild Arms | 1677 | [1677-wild-arms.json](./1677-wild-arms.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
+| Wild Arms 2 | 1678 | [1678-wild-arms-2.json](./1678-wild-arms-2.json) |
 | Wild Arms 2 | 239198 | [239198-wild-arms-2.json](./239198-wild-arms-2.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
