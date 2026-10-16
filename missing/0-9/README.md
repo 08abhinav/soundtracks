@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
+| 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Rally | 221209 | [221209-8-bit-rally.json](./221209-8-bit-rally.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
+| 8 Eyes | 1975 | [1975-8-eyes.json](./1975-8-eyes.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
