@@ -2592,7 +2592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
 | Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
-| Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament 2: We Are Tekken Edition | 89871 | [89871-tekken-tag-tournament-2-we-are-tekken-edition.json](./89871-tekken-tag-tournament-2-we-are-tekken-edition.json) |
