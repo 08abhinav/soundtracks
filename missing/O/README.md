@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oberon's Wake | 394798 | [394798-oberons-wake.json](./394798-oberons-wake.json) |
 | Oberty | 259042 | [259042-oberty.json](./259042-oberty.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
+| Obey | 20350 | [20350-obey.json](./20350-obey.json) |
 | Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
 | Obey Me!: One Master to Rule Them All | 132649 | [132649-obey-me-one-master-to-rule-them-all.json](./132649-obey-me-one-master-to-rule-them-all.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Score: A Game of Songs | 334159 | [334159-off-score-a-game-of-songs.json](./334159-off-score-a-game-of-songs.json) |
 | Off-the-Ground Survival | 364081 | [364081-off-the-ground-survival.json](./364081-off-the-ground-survival.json) |
 | Off-World Interceptor | 4294 | [4294-off-world-interceptor.json](./4294-off-world-interceptor.json) |
+| Off-World Interceptor Extreme | 20314 | [20314-off-world-interceptor-extreme.json](./20314-off-world-interceptor-extreme.json) |
 | Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
