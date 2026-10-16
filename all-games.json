@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:43:24.636Z",
-  "total_soundtracks": 1780,
+  "generated_at": "2026-10-16T05:43:36.352Z",
+  "total_soundtracks": 1781,
   "games": [
     {
       "igdb_id": 7522,
@@ -14862,6 +14862,20 @@
           "album_name": "Rise of the Tomb Raider (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5wRvkOWkIYe7YhyAvUABN9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2381,
+      "game_name": "Rise of the Triad",
+      "game_url": "https://ostdb.net/games/rise-of-the-triad",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27352a58c8265ea745258603873",
+      "albums": [
+        {
+          "album_name": "Rise of the Triad (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1d406pelhH3cxxeT2Zi6GU",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
