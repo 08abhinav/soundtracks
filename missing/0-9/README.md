@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Space Invaders | 286676 | [286676-3d-space-invaders.json](./286676-3d-space-invaders.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
+| 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
