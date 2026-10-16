@@ -946,11 +946,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound | 167249 | [167249-unbound.json](./167249-unbound.json) |
 | Unbound | 380749 | [380749-unbound.json](./380749-unbound.json) |
 | UnBound | 380748 | [380748-unbound.json](./380748-unbound.json) |
+| Unbound: Worlds Apart | 89597 | [89597-unbound-worlds-apart.json](./89597-unbound-worlds-apart.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
+| Unboxing the Cryptic Killer | 247757 | [247757-unboxing-the-cryptic-killer.json](./247757-unboxing-the-cryptic-killer.json) |
 | Unboxing the mind of a Cryptic Killer | 192087 | [192087-unboxing-the-mind-of-a-cryptic-killer.json](./192087-unboxing-the-mind-of-a-cryptic-killer.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
@@ -1156,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Night In-Birth Exe:Late | 20290 | [20290-under-night-in-birth-exe-late.json](./20290-under-night-in-birth-exe-late.json) |
 | Under Night In-Birth Exe:Late[cl-r] | 121369 | [121369-under-night-in-birth-exe-late-cl-r.json](./121369-under-night-in-birth-exe-late-cl-r.json) |
 | Under Night In-Birth Exe:Late[st] | 41819 | [41819-under-night-in-birth-exe-late-st.json](./41819-under-night-in-birth-exe-late-st.json) |
+| Under Night In-Birth II Sys:Celes | 260087 | [260087-under-night-in-birth-ii-sys-celes.json](./260087-under-night-in-birth-ii-sys-celes.json) |
 | Under Night In-Birth II Sys:Celes - Character Unlock: Izumi | 362221 | [362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json](./362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
