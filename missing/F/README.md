@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
+| FBC: Firebreak | 320144 | [320144-fbc-firebreak.json](./320144-fbc-firebreak.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
@@ -6082,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
+| Foamstars | 250623 | [250623-foamstars.json](./250623-foamstars.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobia: St. Dinfna Hotel | 133059 | [133059-fobia-st-dinfna-hotel.json](./133059-fobia-st-dinfna-hotel.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
@@ -8256,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
 | Friends Play Pool | 267465 | [267465-friends-play-pool.json](./267465-friends-play-pool.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
+| Friends vs. Friends | 214406 | [214406-friends-vs-friends.json](./214406-friends-vs-friends.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
