@@ -6719,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
+| Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
@@ -13952,6 +13953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
+| Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
