@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
+| Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
@@ -4292,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Master | 147775 | [147775-checkers-master.json](./147775-checkers-master.json) |
 | Checkers Master | 346113 | [346113-checkers-master.json](./346113-checkers-master.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
+| Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Checkers Royale | 96309 | [96309-checkers-royale.json](./96309-checkers-royale.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
+| Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
@@ -6672,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
 | Classic Game | 124572 | [124572-classic-game.json](./124572-classic-game.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
+| Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
@@ -8133,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
+| Color by Numbers - Cars + | 87188 | [87188-color-by-numbers-cars.json](./87188-color-by-numbers-cars.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
@@ -11651,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
+| Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
 | Create | 4778 | [4778-create.json](./4778-create.json) |
