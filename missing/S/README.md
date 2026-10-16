@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
 | Shadow of Naught | 138042 | [138042-shadow-of-naught.json](./138042-shadow-of-naught.json) |
+| Shadow of Nebula | 20366 | [20366-shadow-of-nebula.json](./20366-shadow-of-nebula.json) |
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
@@ -15447,6 +15448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splinters of Regret | 193410 | [193410-splinters-of-regret.json](./193410-splinters-of-regret.json) |
 | Split | 111484 | [111484-split.json](./111484-split.json) |
 | Split | 185444 | [185444-split.json](./185444-split.json) |
+| Split | 20364 | [20364-split.json](./20364-split.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
@@ -23179,6 +23181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tux Party | 184420 | [184420-super-tux-party.json](./184420-super-tux-party.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Island 2 | 148311 | [148311-super-ubie-island-2.json](./148311-super-ubie-island-2.json) |
+| Super Ubie Island Remix | 20359 | [20359-super-ubie-island-remix.json](./20359-super-ubie-island-remix.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
