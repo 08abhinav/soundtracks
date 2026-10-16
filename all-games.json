@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:35:05.934Z",
-  "total_soundtracks": 1763,
+  "generated_at": "2026-10-16T05:35:19.118Z",
+  "total_soundtracks": 1764,
   "games": [
     {
       "igdb_id": 7522,
@@ -13811,6 +13811,20 @@
         {
           "album_name": "Quern: Undying Thoughts (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4yeGh5ifGpYLCV251PTLZy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28545,
+      "game_name": "Rabi-Ribi",
+      "game_url": "https://ostdb.net/games/rabi-ribi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27337e92538e14c7cea8eeebc30",
+      "albums": [
+        {
+          "album_name": "Rabi-Ribi Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1KmfnFZ52ZvNXnNh8RfVPT",
           "apple_music_url": "",
           "album_link_url": ""
         }
