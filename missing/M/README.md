@@ -11610,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island: Pool Party DLC Pack | 322723 | [322723-moonstone-island-pool-party-dlc-pack.json](./322723-moonstone-island-pool-party-dlc-pack.json) |
 | Moonstone Ninja | 107078 | [107078-moonstone-ninja.json](./107078-moonstone-ninja.json) |
 | Moonstone Remix | 274451 | [274451-moonstone-remix.json](./274451-moonstone-remix.json) |
+| Moonstone Resort | 421826 | [421826-moonstone-resort.json](./421826-moonstone-resort.json) |
 | Moonstone: A Hard Days Knight | 5507 | [5507-moonstone-a-hard-days-knight.json](./5507-moonstone-a-hard-days-knight.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
@@ -11728,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
+| More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
 | More Super Mario "Bras." Beginner's Edition DS | 255597 | [255597-more-super-mario-bras-beginners-edition-ds.json](./255597-more-super-mario-bras-beginners-edition-ds.json) |
