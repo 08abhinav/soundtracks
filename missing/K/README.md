@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
+| Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
 | Keep Cutting | 406146 | [406146-keep-cutting.json](./406146-keep-cutting.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
 | Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
+| Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
