@@ -7529,7 +7529,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Jr. | 38225 | [38225-simcity-jr.json](./38225-simcity-jr.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
-| SimCity Societies | 1491 | [1491-simcity-societies.json](./1491-simcity-societies.json) |
 | SimCity Societies: Destinations | 20181 | [20181-simcity-societies-destinations.json](./20181-simcity-societies-destinations.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
 | SimCity: Complete Edition | 87191 | [87191-simcity-complete-edition.json](./87191-simcity-complete-edition.json) |
