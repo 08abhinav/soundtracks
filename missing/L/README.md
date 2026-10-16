@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Level-ROM | 116804 | [116804-level-rom.json](./116804-level-rom.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
+| Levelhead | 101245 | [101245-levelhead.json](./101245-levelhead.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
