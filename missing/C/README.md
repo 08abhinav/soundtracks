@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
+| Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
@@ -8263,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
 | Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
 | Coloring Pixel: Fantasy Characters | 173203 | [173203-coloring-pixel-fantasy-characters.json](./173203-coloring-pixel-fantasy-characters.json) |
+| Coloring Pixels | 105712 | [105712-coloring-pixels.json](./105712-coloring-pixels.json) |
 | Coloring Pixels: Advent 2 Pack | 162600 | [162600-coloring-pixels-advent-2-pack.json](./162600-coloring-pixels-advent-2-pack.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
