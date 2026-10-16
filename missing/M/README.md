@@ -3349,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Guardians of the Galaxy: Cosmic Deluxe Edition | 153019 | [153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json](./153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
+| Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
@@ -7884,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 75974 | [75974-mighty-morphin-power-rangers.json](./75974-mighty-morphin-power-rangers.json) |
+| Mighty Morphin Power Rangers | 75979 | [75979-mighty-morphin-power-rangers.json](./75979-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
 | Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
@@ -14083,6 +14085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - Playable Character Nana Shimura | 414449 | [414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json](./414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json) |
 | My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
 | My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
+| My Hero Academia: Battle for All | 76852 | [76852-my-hero-academia-battle-for-all.json](./76852-my-hero-academia-battle-for-all.json) |
 | My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
