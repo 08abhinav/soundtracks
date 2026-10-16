@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefs Together | 284817 | [284817-chefs-together.json](./284817-chefs-together.json) |
+| ChefU | 55427 | [55427-chefu.json](./55427-chefu.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
 | Cheggers' Party Quiz | 43216 | [43216-cheggers-party-quiz.json](./43216-cheggers-party-quiz.json) |
@@ -5614,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
+| Chromasia | 55345 | [55345-chromasia.json](./55345-chromasia.json) |
 | Chromasia Rock Paper Tactics | 112170 | [112170-chromasia-rock-paper-tactics.json](./112170-chromasia-rock-paper-tactics.json) |
 | ChromaSphere: Viridis | 419102 | [419102-chromasphere-viridis.json](./419102-chromasphere-viridis.json) |
 | ChromaSquares | 107427 | [107427-chromasquares.json](./107427-chromasquares.json) |
@@ -11044,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
+| Crafting Dead | 55517 | [55517-crafting-dead.json](./55517-crafting-dead.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Mama | 47810 | [47810-crafting-mama.json](./47810-crafting-mama.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
@@ -12024,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
+| Crimson Tide: Operation Online | 55402 | [55402-crimson-tide-operation-online.json](./55402-crimson-tide-operation-online.json) |
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
