@@ -5294,7 +5294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
-| Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
 | Chosen 2 | 30068 | [30068-chosen-2.json](./30068-chosen-2.json) |
@@ -11185,7 +11184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
-| Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
 | Crawl On One | 249660 | [249660-crawl-on-one.json](./249660-crawl-on-one.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
@@ -12315,7 +12313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
-| Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Quest | 218063 | [218063-crow-quest.json](./218063-crow-quest.json) |
