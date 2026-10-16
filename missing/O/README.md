@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Ostrova Koshki | 132568 | [132568-ostrova-koshki.json](./132568-ostrova-koshki.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
+| Osu! Tatakae! Ouendan | 24645 | [24645-osu-tatakae-ouendan.json](./24645-osu-tatakae-ouendan.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
 | Osu!Octave | 202713 | [202713-osu-octave.json](./202713-osu-octave.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
 | Out of Hell | 218655 | [218655-out-of-hell.json](./218655-out-of-hell.json) |
 | Out of Jail | 216963 | [216963-out-of-jail.json](./216963-out-of-jail.json) |
+| Out of Line | 58479 | [58479-out-of-line.json](./58479-out-of-line.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
