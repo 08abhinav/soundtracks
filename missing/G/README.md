@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
+| Galactic Fighter | 30511 | [30511-galactic-fighter.json](./30511-galactic-fighter.json) |
 | Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
 | Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
