@@ -1100,6 +1100,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
+| Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
+| Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
@@ -3680,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
+| Outlaw Volleyball | 3806 | [3806-outlaw-volleyball.json](./3806-outlaw-volleyball.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
