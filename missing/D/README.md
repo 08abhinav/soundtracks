@@ -6374,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
+| Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
 | Diner Runners | 192802 | [192802-diner-runners.json](./192802-diner-runners.json) |
@@ -11900,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
+| Ducati: 90th Anniversary - The Official Videogame | 19804 | [19804-ducati-90th-anniversary-the-official-videogame.json](./19804-ducati-90th-anniversary-the-official-videogame.json) |
 | Ducenti-Quinquaginta-Sexordle | 249707 | [249707-ducenti-quinquaginta-sexordle.json](./249707-ducenti-quinquaginta-sexordle.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
@@ -13197,6 +13199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
+| Dynasty Warriors DS: Fighter's Battle | 21534 | [21534-dynasty-warriors-ds-fighters-battle.json](./21534-dynasty-warriors-ds-fighters-battle.json) |
 | Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
