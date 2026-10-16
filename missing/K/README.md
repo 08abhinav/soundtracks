@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
 | Killzone: Liberation - Chapter 5 DLC | 243224 | [243224-killzone-liberation-chapter-5-dlc.json](./243224-killzone-liberation-chapter-5-dlc.json) |
 | Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
+| Killzone: Shadow Fall - Intercept | 21609 | [21609-killzone-shadow-fall-intercept.json](./21609-killzone-shadow-fall-intercept.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
 | Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
