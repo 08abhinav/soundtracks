@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
 | Ravenbound: Hammers of Ávalt | 255152 | [255152-ravenbound-hammers-of-avalt.json](./255152-ravenbound-hammers-of-avalt.json) |
 | Ravenclaw Common Room VR | 406721 | [406721-ravenclaw-common-room-vr.json](./406721-ravenclaw-common-room-vr.json) |
+| Ravendawn | 140863 | [140863-ravendawn.json](./140863-ravendawn.json) |
 | Ravenfield | 26481 | [26481-ravenfield.json](./26481-ravenfield.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
+| Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
 | Red Flag | 406756 | [406756-red-flag.json](./406756-red-flag.json) |
@@ -3846,9 +3848,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Gaiden | 969 | [969-resident-evil-gaiden.json](./969-resident-evil-gaiden.json) |
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
+| Resident Evil Outbreak File #2 | 973 | [973-resident-evil-outbreak-file-2.json](./973-resident-evil-outbreak-file-2.json) |
 | Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
+| Resident Evil Resistance | 122108 | [122108-resident-evil-resistance.json](./122108-resident-evil-resistance.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
 | Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
