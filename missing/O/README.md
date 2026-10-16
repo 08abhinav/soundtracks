@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Two Boat Racing | 209407 | [209407-one-two-boat-racing.json](./209407-one-two-boat-racing.json) |
+| One Upon Light | 13551 | [13551-one-upon-light.json](./13551-one-upon-light.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
 | One Vision | 132144 | [132144-one-vision.json](./132144-one-vision.json) |
 | One Watcher | 96243 | [96243-one-watcher.json](./96243-one-watcher.json) |
