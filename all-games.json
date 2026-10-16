@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:49:37.517Z",
-  "total_soundtracks": 1805,
+  "generated_at": "2026-10-16T05:49:50.841Z",
+  "total_soundtracks": 1806,
   "games": [
     {
       "igdb_id": 7522,
@@ -19051,6 +19051,20 @@
         {
           "album_name": "The Texas Chain Saw Massacre (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4rKZ6V37L5ujYjOeLCTaVr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 239942,
+      "game_name": "The Thaumaturge",
+      "game_url": "https://ostdb.net/games/the-thaumaturge",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a4b89ccc27743687dab8f87d",
+      "albums": [
+        {
+          "album_name": "The Thaumaturge (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Jv7YFzhS8O4xuDvtgaTkb",
           "apple_music_url": "",
           "album_link_url": ""
         }
