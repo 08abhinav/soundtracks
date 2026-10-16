@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:06:53.984Z",
-  "total_soundtracks": 1854,
+  "generated_at": "2026-10-16T06:07:07.095Z",
+  "total_soundtracks": 1855,
   "games": [
     {
       "igdb_id": 7522,
@@ -12484,6 +12484,20 @@
           "album_name": "Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17012,
+      "game_name": "Move or Die",
+      "game_url": "https://ostdb.net/games/move-or-die",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731057b6e4f6bbe88791ffff94",
+      "albums": [
+        {
+          "album_name": "Move or Die (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/68oVc6mzPE7SCH20hjU9DJ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
