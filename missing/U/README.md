@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe 3 | 13085 | [13085-universe-3.json](./13085-universe-3.json) |
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
+| Universe at War: Earth Assault | 7230 | [7230-universe-at-war-earth-assault.json](./7230-universe-at-war-earth-assault.json) |
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
 | Universe Horizon | 334869 | [334869-universe-horizon.json](./334869-universe-horizon.json) |
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
