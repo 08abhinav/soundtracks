@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | YourFigureOut | 283858 | [283858-yourfigureout.json](./283858-yourfigureout.json) |
 | YouRiding: Surfing and Bodyboarding Game | 170362 | [170362-youriding-surfing-and-bodyboarding-game.json](./170362-youriding-surfing-and-bodyboarding-game.json) |
+| Youropa | 89479 | [89479-youropa.json](./89479-youropa.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | Yours Truly | 364624 | [364624-yours-truly.json](./364624-yours-truly.json) |
 | Yourself!Fitness | 5029 | [5029-yourself-fitness.json](./5029-yourself-fitness.json) |
