@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest | 12142 | [12142-heroquest.json](./12142-heroquest.json) |
+| HeroQuest: Digital Edition | 424032 | [424032-heroquest-digital-edition.json](./424032-heroquest-digital-edition.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
 | Herores Rescue | 39162 | [39162-herores-rescue.json](./39162-herores-rescue.json) |
 | Heros and Monsters | 256717 | [256717-heros-and-monsters.json](./256717-heros-and-monsters.json) |
@@ -5640,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
 | HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
+| History Civil War: Secret Missions | 7010 | [7010-history-civil-war-secret-missions.json](./7010-history-civil-war-secret-missions.json) |
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
@@ -5919,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
+| Hogworld: Gnart's Adventure | 7203 | [7203-hogworld-gnarts-adventure.json](./7203-hogworld-gnarts-adventure.json) |
 | Hoi | 79765 | [79765-hoi.json](./79765-hoi.json) |
 | Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
@@ -6415,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
+| Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 237273 | [237273-homeward.json](./237273-homeward.json) |
 | Homeward | 271395 | [271395-homeward.json](./271395-homeward.json) |
