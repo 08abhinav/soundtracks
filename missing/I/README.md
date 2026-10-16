@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
+| Infected Battlegrounds | 105283 | [105283-infected-battlegrounds.json](./105283-infected-battlegrounds.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Affairs | 116947 | [116947-international-affairs.json](./116947-international-affairs.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
+| International Basketball Manager | 106559 | [106559-international-basketball-manager.json](./106559-international-basketball-manager.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
 | International Bounty Hunter | 183830 | [183830-international-bounty-hunter.json](./183830-international-bounty-hunter.json) |
 | International Boxing Champions | 233544 | [233544-international-boxing-champions.json](./233544-international-boxing-champions.json) |
