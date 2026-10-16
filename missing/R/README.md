@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
+| Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
 | Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
+| Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
@@ -3328,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
+| Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
