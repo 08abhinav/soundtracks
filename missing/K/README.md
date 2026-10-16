@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
+| Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
+| Kintsugi Moon | 423243 | [423243-kintsugi-moon.json](./423243-kintsugi-moon.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
 | Kintsukuroi | 57744 | [57744-kintsukuroi.json](./57744-kintsukuroi.json) |
 | Kinu Shoku Ryuu Hana: Weaving The Blue Orient | 314448 | [314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json](./314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json) |
