@@ -10075,7 +10075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
-| Coromon | 123269 | [123269-coromon.json](./123269-coromon.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
