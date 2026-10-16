@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:31:02.250Z",
-  "total_soundtracks": 1894,
+  "generated_at": "2026-10-16T06:31:17.056Z",
+  "total_soundtracks": 1895,
   "games": [
     {
       "igdb_id": 7522,
@@ -10162,6 +10162,20 @@
           "album_name": "inZOI: Original Soundtrack (Early Access)",
           "spotify_url": "https://open.spotify.com/album/56iJ3GVdTvvhZJfMqZdzxb",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54844,
+      "game_name": "Ion Fury",
+      "game_url": "https://ostdb.net/games/ion-fury",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8956a8f79cec4a271b00a39",
+      "albums": [
+        {
+          "album_name": "Ion Fury (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4usS9aMCNW9IVplwVdL1Re",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
