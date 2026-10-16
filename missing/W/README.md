@@ -2450,7 +2450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Legends | 112237 | [112237-west-legends.json](./112237-west-legends.json) |
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
-| West of Loathing | 44516 | [44516-west-of-loathing.json](./44516-west-of-loathing.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Somerset Railway Route | 53916 | [53916-west-somerset-railway-route.json](./53916-west-somerset-railway-route.json) |
