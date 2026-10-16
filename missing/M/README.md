@@ -5118,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Capital | 149383 | [149383-mega-capital.json](./149383-mega-capital.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
+| Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
@@ -11924,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Game of the Year Edition | 201041 | [201041-mortal-shell-game-of-the-year-edition.json](./201041-mortal-shell-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
+| Mortal Sin | 148700 | [148700-mortal-sin.json](./148700-mortal-sin.json) |
 | Mortal Street Fighter | 260877 | [260877-mortal-street-fighter.json](./260877-mortal-street-fighter.json) |
 | Mortal Trace | 242693 | [242693-mortal-trace.json](./242693-mortal-trace.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
