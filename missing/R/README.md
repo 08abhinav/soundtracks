@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Fly | 149019 | [149019-relax-fly.json](./149019-relax-fly.json) |
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
+| Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
@@ -3767,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
 | Rescue Q | 330794 | [330794-rescue-q.json](./330794-rescue-q.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
+| Rescue Quest Gold | 36971 | [36971-rescue-quest-gold.json](./36971-rescue-quest-gold.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
 | Rescue Raider | 38564 | [38564-rescue-raider.json](./38564-rescue-raider.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
+| RoadkillerZ | 36975 | [36975-roadkillerz.json](./36975-roadkillerz.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
