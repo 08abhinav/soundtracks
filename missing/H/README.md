@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Driver 2 | 148858 | [148858-hard-driver-2.json](./148858-hard-driver-2.json) |
+| Hard Drivin' | 12134 | [12134-hard-drivin.json](./12134-hard-drivin.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
 | Hard Evidence: Marilyn Monroe Files | 7619 | [7619-hard-evidence-marilyn-monroe-files.json](./7619-hard-evidence-marilyn-monroe-files.json) |
@@ -5662,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman HD Trilogy | 20749 | [20749-hitman-hd-trilogy.json](./20749-hitman-hd-trilogy.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
+| Hitman Trilogy | 187552 | [187552-hitman-trilogy.json](./187552-hitman-trilogy.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination Celebrity Bundle | 331525 | [331525-hitman-world-of-assassination-celebrity-bundle.json](./331525-hitman-world-of-assassination-celebrity-bundle.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
