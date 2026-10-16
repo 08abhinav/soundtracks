@@ -10404,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Stone: Legendary Archer | 126991 | [126991-dragon-stone-legendary-archer.json](./126991-dragon-stone-legendary-archer.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
+| Dragon Super: Saiyan Ball Z | 100847 | [100847-dragon-super-saiyan-ball-z.json](./100847-dragon-super-saiyan-ball-z.json) |
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Survivors | 238430 | [238430-dragon-survivors.json](./238430-dragon-survivors.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
