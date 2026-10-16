@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
+| Little Friends: Puppy Island | 242923 | [242923-little-friends-puppy-island.json](./242923-little-friends-puppy-island.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud on Planet X | 19849 | [19849-loud-on-planet-x.json](./19849-loud-on-planet-x.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
+| Loud: My Road to Fame | 241712 | [241712-loud-my-road-to-fame.json](./241712-loud-my-road-to-fame.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
@@ -6171,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
 | Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
+| Lovecraft's Untold Stories 2 | 172449 | [172449-lovecrafts-untold-stories-2.json](./172449-lovecrafts-untold-stories-2.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
 | Loved | 57559 | [57559-loved.json](./57559-loved.json) |
