@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar | 230436 | [230436-madagascar.json](./230436-madagascar.json) |
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
+| Madagascar 3: The Video Game | 19648 | [19648-madagascar-3-the-video-game.json](./19648-madagascar-3-the-video-game.json) |
 | Madagascar Kartz | 309578 | [309578-madagascar-kartz.json](./309578-madagascar-kartz.json) |
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCommander | 19193 | [19193-mechcommander.json](./19193-mechcommander.json) |
+| MechCommander 2 | 19194 | [19194-mechcommander-2.json](./19194-mechcommander-2.json) |
 | MechCommander Gold | 79767 | [79767-mechcommander-gold.json](./79767-mechcommander-gold.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
@@ -4766,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Black Knight | 19183 | [19183-mechwarrior-4-black-knight.json](./19183-mechwarrior-4-black-knight.json) |
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
+| MechWarrior 4: Mercenaries | 19192 | [19192-mechwarrior-4-mercenaries.json](./19192-mechwarrior-4-mercenaries.json) |
 | MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
@@ -9646,7 +9649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixolydia Fringes | 412885 | [412885-mixolydia-fringes.json](./412885-mixolydia-fringes.json) |
-| Mixtape | 305157 | [305157-mixtape.json](./305157-mixtape.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island | 169668 | [169668-mixx-island.json](./169668-mixx-island.json) |
@@ -10010,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
+| Modern Combat 3: Fallen Nation | 18882 | [18882-modern-combat-3-fallen-nation.json](./18882-modern-combat-3-fallen-nation.json) |
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
@@ -10945,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
+| Monster Monpiece | 20094 | [20094-monster-monpiece.json](./20094-monster-monpiece.json) |
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
@@ -12703,6 +12707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
+| Mr. Driller: Drill Spirits | 18330 | [18330-mr-driller-drill-spirits.json](./18330-mr-driller-drill-spirits.json) |
 | Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
