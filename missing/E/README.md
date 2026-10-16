@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
+| Exodus | 17643 | [17643-exodus.json](./17643-exodus.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 244831 | [244831-exodus.json](./244831-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
