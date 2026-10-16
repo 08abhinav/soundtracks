@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
 | F.A.R.M.S.: Chill Factory | 389684 | [389684-f-a-r-m-s-chill-factory.json](./389684-f-a-r-m-s-chill-factory.json) |
 | F.B.I.C | 342816 | [342816-f-b-i-c.json](./342816-f-b-i-c.json) |
+| F.E.A.R. | 202149 | [202149-f-e-a-r.json](./202149-f-e-a-r.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
 | Find Kittens: The Last of Cats | 295868 | [295868-find-kittens-the-last-of-cats.json](./295868-find-kittens-the-last-of-cats.json) |
+| Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
@@ -4338,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireWing 64 | 57188 | [57188-firewing-64.json](./57188-firewing-64.json) |
 | Firewood | 44574 | [44574-firewood.json](./44574-firewood.json) |
 | Firework | 112854 | [112854-firework.json](./112854-firework.json) |
+| Firework | 139082 | [139082-firework.json](./139082-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
