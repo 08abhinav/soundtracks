@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:21:12.839Z",
-  "total_soundtracks": 1735,
+  "generated_at": "2026-10-16T05:21:25.705Z",
+  "total_soundtracks": 1736,
   "games": [
     {
       "igdb_id": 7522,
@@ -3587,6 +3587,20 @@
         {
           "album_name": "Crash Twinsanity (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/21W0QHq3zYmTWxd1sK9Hp2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15389,
+      "game_name": "Crashlands",
+      "game_url": "https://ostdb.net/games/crashlands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27357b68f394c00d2b2d191f41c",
+      "albums": [
+        {
+          "album_name": "Crashlands OST",
+          "spotify_url": "https://open.spotify.com/album/0FW4z08tAKatG5iDT0Ri5y",
           "apple_music_url": "",
           "album_link_url": ""
         }
