@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
+| Paint Gang | 419878 | [419878-paint-gang.json](./419878-paint-gang.json) |
 | Paint Girl | 169663 | [169663-paint-girl.json](./169663-paint-girl.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
@@ -1059,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
+| Papa's Pastaria To Go! | 420003 | [420003-papas-pastaria-to-go.json](./420003-papas-pastaria-to-go.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
@@ -3437,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | PETA's Pokémon Black & Blue | 18447 | [18447-petas-pokemon-black-and-blue.json](./18447-petas-pokemon-black-and-blue.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
+| Petal and Blade | 420002 | [420002-petal-and-blade.json](./420002-petal-and-blade.json) |
 | Petal by Petal | 390196 | [390196-petal-by-petal.json](./390196-petal-by-petal.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
@@ -3446,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Pétanque Master 2 | 81755 | [81755-petanque-master-2.json](./81755-petanque-master-2.json) |
 | Petanque Pro | 92622 | [92622-petanque-pro.json](./92622-petanque-pro.json) |
+| Petch | 419876 | [419876-petch.json](./419876-petch.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
 | Pete Rose Baseball | 40623 | [40623-pete-rose-baseball.json](./40623-pete-rose-baseball.json) |
@@ -9684,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
+| Precinct 20: Dead Strange | 419882 | [419882-precinct-20-dead-strange.json](./419882-precinct-20-dead-strange.json) |
 | Precinct IX | 408707 | [408707-precinct-ix.json](./408707-precinct-ix.json) |
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
@@ -10702,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
 | Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
+| Professional BMX Simulator | 419890 | [419890-professional-bmx-simulator.json](./419890-professional-bmx-simulator.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
@@ -11196,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
 | Project Remedium | 32612 | [32612-project-remedium.json](./32612-project-remedium.json) |
+| Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
