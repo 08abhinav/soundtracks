@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
 | Oinari Origami | 181171 | [181171-oinari-origami.json](./181171-oinari-origami.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
+| Oink Splash Party | 422522 | [422522-oink-splash-party.json](./422522-oink-splash-party.json) |
 | Oink! | 18580 | [18580-oink.json](./18580-oink.json) |
 | Oio | 79150 | [79150-oio.json](./79150-oio.json) |
 | Oir | 76219 | [76219-oir.json](./76219-oir.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
+| Ojou-sama ha Gokigen Naname | 422520 | [422520-ojou-sama-ha-gokigen-naname.json](./422520-ojou-sama-ha-gokigen-naname.json) |
 | Ojou-sama no Doki-doki Daisakusen: Norowareta Kurenai no Yakata | 204251 | [204251-ojou-sama-no-doki-doki-daisakusen-norowareta-kurenai-no-yakata.json](./204251-ojou-sama-no-doki-doki-daisakusen-norowareta-kurenai-no-yakata.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
@@ -4156,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd | 126335 | [126335-oxyd.json](./126335-oxyd.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
+| OxyDungeon | 422501 | [422501-oxydungeon.json](./422501-oxydungeon.json) |
 | Oxygen | 177802 | [177802-oxygen.json](./177802-oxygen.json) |
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
