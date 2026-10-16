@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
+| Kopanito All-Stars Soccer | 25962 | [25962-kopanito-all-stars-soccer.json](./25962-kopanito-all-stars-soccer.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
 | Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
+| Kyatto Ninden Teyandee | 24480 | [24480-kyatto-ninden-teyandee.json](./24480-kyatto-ninden-teyandee.json) |
 | Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
