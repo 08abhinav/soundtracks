@@ -7616,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
+| The Hunt for Red October | 81421 | [81421-the-hunt-for-red-october.json](./81421-the-hunt-for-red-october.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
@@ -8662,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
+| The Legend of Dark Witch Episode 2 -The Price of Desire- | 80710 | [80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
@@ -13191,6 +13193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
 | The Warrior | 116877 | [116877-the-warrior.json](./116877-the-warrior.json) |
+| The Warrior of Treasures | 81776 | [81776-the-warrior-of-treasures.json](./81776-the-warrior-of-treasures.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
@@ -22644,6 +22647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
+| Tunnels of Despair | 76581 | [76581-tunnels-of-despair.json](./76581-tunnels-of-despair.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
 | Tunnels Under Yorion | 244327 | [244327-tunnels-under-yorion.json](./244327-tunnels-under-yorion.json) |
