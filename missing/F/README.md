@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
+| Face Training: Facial Exercises to Strengthen and Relax from Fumiko Inudo | 91846 | [91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json](./91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json) |
 | Face Word | 232482 | [232482-face-word.json](./232482-face-word.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
+| Flying Duckling | 91245 | [91245-flying-duckling.json](./91245-flying-duckling.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
 | Flying Fortress II | 172651 | [172651-flying-fortress-ii.json](./172651-flying-fortress-ii.json) |
@@ -6799,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
 | Forever, watching Perseids | 183931 | [183931-forever-watching-perseids.json](./183931-forever-watching-perseids.json) |
+| Foreveracers | 91328 | [91328-foreveracers.json](./91328-foreveracers.json) |
 | Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Foreverthorn | 361904 | [361904-foreverthorn.json](./361904-foreverthorn.json) |
@@ -9102,7 +9105,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
+| Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
+| Full Frontal Assault | 91282 | [91282-full-frontal-assault.json](./91282-full-frontal-assault.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House | 79540 | [79540-full-house.json](./79540-full-house.json) |
 | Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
