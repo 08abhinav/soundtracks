@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
 | Nancy Drew: The Mystery of the Clue Bender Society | 47907 | [47907-nancy-drew-the-mystery-of-the-clue-bender-society.json](./47907-nancy-drew-the-mystery-of-the-clue-bender-society.json) |
 | Nancy Drew: The Phantom of Venice | 16003 | [16003-nancy-drew-the-phantom-of-venice.json](./16003-nancy-drew-the-phantom-of-venice.json) |
+| Nancy Drew: The Secret of Shadow Ranch | 29928 | [29928-nancy-drew-the-secret-of-shadow-ranch.json](./29928-nancy-drew-the-secret-of-shadow-ranch.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nancy Drew: Treasure in the Royal Tower | 7623 | [7623-nancy-drew-treasure-in-the-royal-tower.json](./7623-nancy-drew-treasure-in-the-royal-tower.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 2003 | 808 | [808-nba-live-2003.json](./808-nba-live-2003.json) |
 | NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
+| NBA Live 95 | 37285 | [37285-nba-live-95.json](./37285-nba-live-95.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
 | NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
@@ -4352,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 229636 | [229636-nocturne.json](./229636-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
+| Nocturne | 4850 | [4850-nocturne.json](./4850-nocturne.json) |
 | Nocturne | 80411 | [80411-nocturne.json](./80411-nocturne.json) |
 | Nocturne 191 | 186712 | [186712-nocturne-191.json](./186712-nocturne-191.json) |
 | Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
