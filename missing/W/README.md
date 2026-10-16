@@ -2512,9 +2512,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
+| Westward | 7503 | [7503-westward.json](./7503-westward.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
 | Westward II: Heroes of the Frontier | 7529 | [7529-westward-ii-heroes-of-the-frontier.json](./7529-westward-ii-heroes-of-the-frontier.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
+| Westward IV: All Aboard | 7531 | [7531-westward-iv-all-aboard.json](./7531-westward-iv-all-aboard.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
 | Westward Kingdoms | 7532 | [7532-westward-kingdoms.json](./7532-westward-kingdoms.json) |
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
