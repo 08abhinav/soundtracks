@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
+| Omega Five | 21811 | [21811-omega-five.json](./21811-omega-five.json) |
 | Omega Genesis | 249291 | [249291-omega-genesis.json](./249291-omega-genesis.json) |
 | Omega Horizon | 228398 | [228398-omega-horizon.json](./228398-omega-horizon.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
