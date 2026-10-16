@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kekkon Marriage | 204397 | [204397-kekkon-marriage.json](./204397-kekkon-marriage.json) |
 | Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kekkon Zenya | 216419 | [216419-kekkon-zenya.json](./216419-kekkon-zenya.json) |
+| KEL Reaper of Entropy | 17737 | [17737-kel-reaper-of-entropy.json](./17737-kel-reaper-of-entropy.json) |
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
