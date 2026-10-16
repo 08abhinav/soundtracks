@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
+| New York Mysteries: Secrets of the Mafia - Collector's Edition | 88837 | [88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json](./88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json) |
 | New York Mysteries: The Lantern of Souls | 31799 | [31799-new-york-mysteries-the-lantern-of-souls.json](./31799-new-york-mysteries-the-lantern-of-souls.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
@@ -2525,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
+| Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
