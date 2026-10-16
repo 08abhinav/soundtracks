@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
+| Captain Skyhawk | 48071 | [48071-captain-skyhawk.json](./48071-captain-skyhawk.json) |
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
+| Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
@@ -5347,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
+| Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
@@ -6486,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad | 262494 | [262494-clannad.json](./262494-clannad.json) |
 | Clannad Full Voice | 262489 | [262489-clannad-full-voice.json](./262489-clannad-full-voice.json) |
 | Clannad Key Trilogy Premium Box | 166663 | [166663-clannad-key-trilogy-premium-box.json](./166663-clannad-key-trilogy-premium-box.json) |
+| Clannad Side Stories | 34052 | [34052-clannad-side-stories.json](./34052-clannad-side-stories.json) |
 | Clannad: Lost Winter | 166664 | [166664-clannad-lost-winter.json](./166664-clannad-lost-winter.json) |
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
@@ -6597,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Collection: Adventure/Fantasy | 79531 | [79531-classic-collection-adventure-fantasy.json](./79531-classic-collection-adventure-fantasy.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
+| Classic Concentration | 48098 | [48098-classic-concentration.json](./48098-classic-concentration.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic DOOM 3 | 195496 | [195496-classic-doom-3.json](./195496-classic-doom-3.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
@@ -10683,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
+| Cowboy Kid | 48142 | [48142-cowboy-kid.json](./48142-cowboy-kid.json) |
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
@@ -11932,6 +11938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis City | 43784 | [43784-crisis-city.json](./43784-crisis-city.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
+| Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
