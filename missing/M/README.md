@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Show | 10847 | [10847-mad-show.json](./10847-mad-show.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
+| Mad Skills BMX 2 | 356519 | [356519-mad-skills-bmx-2.json](./356519-mad-skills-bmx-2.json) |
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
+| Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
 | Metalands: Battle for CIFI | 210514 | [210514-metalands-battle-for-cifi.json](./210514-metalands-battle-for-cifi.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
@@ -7998,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
+| Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
@@ -11316,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
+| Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
 | Moon | 21898 | [21898-moon.json](./21898-moon.json) |
