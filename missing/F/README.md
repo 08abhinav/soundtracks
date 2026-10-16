@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
+| Faith | 84197 | [84197-faith.json](./84197-faith.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter | 71391 | [71391-faith-fighter.json](./71391-faith-fighter.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
 | Far Cry 5: Digital Deluxe Edition | 118709 | [118709-far-cry-5-digital-deluxe-edition.json](./118709-far-cry-5-digital-deluxe-edition.json) |
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
+| Far Cry 5: Hours of Darkness | 90083 | [90083-far-cry-5-hours-of-darkness.json](./90083-far-cry-5-hours-of-darkness.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
