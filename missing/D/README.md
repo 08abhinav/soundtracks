@@ -1207,6 +1207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
+| Dark Parables: Rise of the Snow Queen - Collector's Edition | 32380 | [32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json](./32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json) |
+| Dark Parables: The Exiled Prince - Collector's Edition | 32381 | [32381-dark-parables-the-exiled-prince-collectors-edition.json](./32381-dark-parables-the-exiled-prince-collectors-edition.json) |
 | Dark Parables: The Final Cinderella | 139794 | [139794-dark-parables-the-final-cinderella.json](./139794-dark-parables-the-final-cinderella.json) |
 | Dark Parables: The Final Cinderella - Collector's Edition | 32779 | [32779-dark-parables-the-final-cinderella-collectors-edition.json](./32779-dark-parables-the-final-cinderella-collectors-edition.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide | 57160 | [57160-dark-parables-the-little-mermaid-and-the-purple-tide.json](./57160-dark-parables-the-little-mermaid-and-the-purple-tide.json) |
@@ -1215,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
 | Dark Parables: The Queen of Sands | 57158 | [57158-dark-parables-the-queen-of-sands.json](./57158-dark-parables-the-queen-of-sands.json) |
 | Dark Parables: The Red Riding Hood Sisters | 80228 | [80228-dark-parables-the-red-riding-hood-sisters.json](./80228-dark-parables-the-red-riding-hood-sisters.json) |
+| Dark Parables: The Red Riding Hood Sisters - Collector's Edition | 32379 | [32379-dark-parables-the-red-riding-hood-sisters-collectors-edition.json](./32379-dark-parables-the-red-riding-hood-sisters-collectors-edition.json) |
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
@@ -3653,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
+| Deep Space Dash | 32339 | [32339-deep-space-dash.json](./32339-deep-space-dash.json) |
 | Deep Space Delivery | 329081 | [329081-deep-space-delivery.json](./329081-deep-space-delivery.json) |
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
 | Deep Space Drillers | 290830 | [290830-deep-space-drillers.json](./290830-deep-space-drillers.json) |
@@ -12911,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
+| Duo | 32384 | [32384-duo.json](./32384-duo.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
 | Duo Games | 351227 | [351227-duo-games.json](./351227-duo-games.json) |
