@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
+| Epic Little War Game | 36715 | [36715-epic-little-war-game.json](./36715-epic-little-war-game.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
