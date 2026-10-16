@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
+| NASCAR 09 | 7104 | [7104-nascar-09.json](./7104-nascar-09.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
+| NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball | 42480 | [42480-ncaa-basketball.json](./42480-ncaa-basketball.json) |
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
+| NCAA Basketball 10 | 7110 | [7110-ncaa-basketball-10.json](./7110-ncaa-basketball-10.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Basketball 2K3 | 4038 | [4038-ncaa-college-basketball-2k3.json](./4038-ncaa-college-basketball-2k3.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
@@ -1041,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09 | 5065 | [5065-ncaa-football-09.json](./5065-ncaa-football-09.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
+| NCAA Football 10 | 7111 | [7111-ncaa-football-10.json](./7111-ncaa-football-10.json) |
 | NCAA Football 11 | 7112 | [7112-ncaa-football-11.json](./7112-ncaa-football-11.json) |
 | NCAA Football 12 | 7113 | [7113-ncaa-football-12.json](./7113-ncaa-football-12.json) |
 | NCAA Football 13 | 7114 | [7114-ncaa-football-13.json](./7114-ncaa-football-13.json) |
@@ -1062,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
 | NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
 | NCH: Chronos Rebirth | 403788 | [403788-nch-chronos-rebirth.json](./403788-nch-chronos-rebirth.json) |
+| NCIS | 21726 | [21726-ncis.json](./21726-ncis.json) |
 | NCIS: Hidden Crimes | 56921 | [56921-ncis-hidden-crimes.json](./56921-ncis-hidden-crimes.json) |
 | NCL: USA Bowl | 237298 | [237298-ncl-usa-bowl.json](./237298-ncl-usa-bowl.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
@@ -1247,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
 | Need for Speed GT | 137897 | [137897-need-for-speed-gt.json](./137897-need-for-speed-gt.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
+| Need for Speed Most Wanted U | 21699 | [21699-need-for-speed-most-wanted-u.json](./21699-need-for-speed-most-wanted-u.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
