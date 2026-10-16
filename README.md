@@ -1409,6 +1409,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8c7f5ef7b26e4af13c33a7d" width="60" /> | [10:16](https://ostdb.net/games/10-16) | **10:16 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6mAG8YZd9YHoPfvzlbQRC6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1fb58f28c3b35723006f0ef" width="60" /> | [13 Sentinels: Aegis Rim](https://ostdb.net/games/13-sentinels-aegis-rim) | **13 Sentinels: Aegis Rim Original Soundtrack** · [Spotify](https://open.spotify.com/album/2qMMoeNrXYgZ6EeIug0Ja2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f8c35e673e5f73046098417" width="60" /> | [1954 Alcatraz](https://ostdb.net/games/1954-alcatraz) | **1954: Alcatraz (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0VAY4OMHRKRYxWOXDBi6ID) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ca5a0bf4607ae42a13beeaae" width="60" /> | [198X](https://ostdb.net/games/198x) | **198X (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5IZTJ3YqV2O2TXJCIH8jZx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f09acc88c27f504a5a0660f" width="60" /> | [2XKO](https://ostdb.net/games/2xko) | **Akali Carves Her Path (Original Soundtrack from 2XKO)** · [Spotify](https://open.spotify.com/album/4Yseu06FfTqAvPrCT5DX71)<br>**Caitlyn Takes Aim (Original Soundtrack from 2XKO)** · [Spotify](https://open.spotify.com/album/4cDmujk9Oy9n68uHNlnYwc)<br>**Season 0 (Original Soundtrack from 2XKO)** · [Spotify](https://open.spotify.com/album/6bCWKBxewkOffjIuOsTdnG)<br>**The Last Hit (Original Soundtrack from 2XKO)** · [Spotify](https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/13/3e/c6133e95-c3ca-d108-0495-4c7a44650598/199282765520_cover.jpg/600x600bb.jpg" width="60" /> | [33 Immortals](https://ostdb.net/games/33-immortals) | **33 Immortals (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/33-immortals-original-soundtrack/1800447956?uo=4) · [Album](https://album.link/i/1800447956) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c04524aaf3b9e1cde24c9a11" width="60" /> | [7 Nights Keeper](https://ostdb.net/games/7-nights-keeper) | **7 Nights Keeper (The Original Videogame Soundtrack)** · [Spotify](https://open.spotify.com/album/6q0DnoA2CGXfnSaC2Unc43) |
@@ -1416,4 +1417,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1733 soundtracks · last updated 2026-10-16T05:11:25.429Z_
+_1734 soundtracks · last updated 2026-10-16T05:20:59.199Z_
