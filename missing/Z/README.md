@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
+| Zombie Driver | 20668 | [20668-zombie-driver.json](./20668-zombie-driver.json) |
 | Zombie Driver HD | 9051 | [9051-zombie-driver-hd.json](./9051-zombie-driver-hd.json) |
 | Zombie Driver HD: Burning Garden of Slaughter | 156206 | [156206-zombie-driver-hd-burning-garden-of-slaughter.json](./156206-zombie-driver-hd-burning-garden-of-slaughter.json) |
 | Zombie Driver: Immortal Edition | 120268 | [120268-zombie-driver-immortal-edition.json](./120268-zombie-driver-immortal-edition.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
+| Zombie Shooter 2 | 16018 | [16018-zombie-shooter-2.json](./16018-zombie-shooter-2.json) |
 | Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shooting Star: Arcade | 227758 | [227758-zombie-shooting-star-arcade.json](./227758-zombie-shooting-star-arcade.json) |
