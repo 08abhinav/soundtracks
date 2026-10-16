@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
 | Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
+| Opus: Echo of Starsong - Full Bloom Edition | 200915 | [200915-opus-echo-of-starsong-full-bloom-edition.json](./200915-opus-echo-of-starsong-full-bloom-edition.json) |
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
