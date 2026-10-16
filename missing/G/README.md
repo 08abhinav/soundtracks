@@ -4826,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
+| Goodbye Volcano High | 134589 | [134589-goodbye-volcano-high.json](./134589-goodbye-volcano-high.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
