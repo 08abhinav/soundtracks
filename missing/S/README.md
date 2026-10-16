@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
+| SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
 | Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
+| Sea Monsters: A Prehistoric Adventure | 21480 | [21480-sea-monsters-a-prehistoric-adventure.json](./21480-sea-monsters-a-prehistoric-adventure.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
+| Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
@@ -4948,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
+| Shady O'Grady's Rising Star | 21445 | [21445-shady-ogradys-rising-star.json](./21445-shady-ogradys-rising-star.json) |
 | Shady Part of Me | 121404 | [121404-shady-part-of-me.json](./121404-shady-part-of-me.json) |
 | Shady Trial | 269467 | [269467-shady-trial.json](./269467-shady-trial.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
@@ -5327,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
+| Shattered Skies | 21601 | [21601-shattered-skies.json](./21601-shattered-skies.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
@@ -9641,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
 | Slow Down | 348743 | [348743-slow-down.json](./348743-slow-down.json) |
+| Slow Down, Bull | 21671 | [21671-slow-down-bull.json](./21671-slow-down-bull.json) |
 | Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
 | Slow Living With Princess | 172447 | [172447-slow-living-with-princess.json](./172447-slow-living-with-princess.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
@@ -14402,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
+| Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
@@ -20897,6 +20904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Sun, Sand & Monster Slayers | 391831 | [391831-sun-sand-and-monster-slayers.json](./391831-sun-sand-and-monster-slayers.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
+| SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
