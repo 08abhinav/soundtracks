@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zan Yasha Enbukyoku | 45608 | [45608-zan-yasha-enbukyoku.json](./45608-zan-yasha-enbukyoku.json) |
 | Zanac | 288102 | [288102-zanac.json](./288102-zanac.json) |
 | Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
+| Zanac | 41319 | [41319-zanac.json](./41319-zanac.json) |
 | Zanac X Zanac | 46083 | [46083-zanac-x-zanac.json](./46083-zanac-x-zanac.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanerdin: The Unbound | 391286 | [391286-zanerdin-the-unbound.json](./391286-zanerdin-the-unbound.json) |
