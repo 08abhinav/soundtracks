@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
 | Radiant Melodia | 86582 | [86582-radiant-melodia.json](./86582-radiant-melodia.json) |
+| Radiant One | 105001 | [105001-radiant-one.json](./105001-radiant-one.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radiant Sea | 316631 | [316631-radiant-sea.json](./316631-radiant-sea.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
+| RemiLore: Lost Girl in the Lands of Lore | 103259 | [103259-remilore-lost-girl-in-the-lands-of-lore.json](./103259-remilore-lost-girl-in-the-lands-of-lore.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
 | Remington Great American Bird Hunt | 51134 | [51134-remington-great-american-bird-hunt.json](./51134-remington-great-american-bird-hunt.json) |
 | Remington Super Slam Hunting Africa | 10764 | [10764-remington-super-slam-hunting-africa.json](./10764-remington-super-slam-hunting-africa.json) |
@@ -7581,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
+| Root Letter: Last Answer | 106807 | [106807-root-letter-last-answer.json](./106807-root-letter-last-answer.json) |
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root of Evil: Origins | 142839 | [142839-root-of-evil-origins.json](./142839-root-of-evil-origins.json) |
