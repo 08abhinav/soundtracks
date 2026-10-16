@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
 | Alien Xenocide | 356796 | [356796-alien-xenocide.json](./356796-alien-xenocide.json) |
+| Alien: Isolation | 197779 | [197779-alien-isolation.json](./197779-alien-isolation.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
@@ -9357,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armadillo Assault | 303680 | [303680-armadillo-assault.json](./303680-armadillo-assault.json) |
 | Armadillo Knight | 354557 | [354557-armadillo-knight.json](./354557-armadillo-knight.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
+| Armadillo Run | 23137 | [23137-armadillo-run.json](./23137-armadillo-run.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
@@ -10185,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
+| Asphalt 6: Adrenaline | 23304 | [23304-asphalt-6-adrenaline.json](./23304-asphalt-6-adrenaline.json) |
 | Asphalt 7: Heat | 23305 | [23305-asphalt-7-heat.json](./23305-asphalt-7-heat.json) |
 | Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
