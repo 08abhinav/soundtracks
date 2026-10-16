@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Is | 136429 | [136429-the-absence-of-is.json](./136429-the-absence-of-is.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
+| The Absolute Mage | 420486 | [420486-the-absolute-mage.json](./420486-the-absolute-mage.json) |
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
 | The Abyss | 239717 | [239717-the-abyss.json](./239717-the-abyss.json) |
@@ -6256,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of the Age | 379162 | [379162-the-end-of-the-age.json](./379162-the-end-of-the-age.json) |
+| The End of the Line: New Age | 420483 | [420483-the-end-of-the-line-new-age.json](./420483-the-end-of-the-line-new-age.json) |
 | The End of the World | 308442 | [308442-the-end-of-the-world.json](./308442-the-end-of-the-world.json) |
 | The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
@@ -16538,6 +16540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fight | 238537 | [238537-tiny-fight.json](./238537-tiny-fight.json) |
 | Tiny Fisher | 181206 | [181206-tiny-fisher.json](./181206-tiny-fisher.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
+| Tiny Fishing Villages | 420478 | [420478-tiny-fishing-villages.json](./420478-tiny-fishing-villages.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
@@ -17958,6 +17961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
+| Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
