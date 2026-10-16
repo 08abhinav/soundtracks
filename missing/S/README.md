@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 36326 | [36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
+| Scooby-Doo! and the Spooky Swamp | 5143 | [5143-scooby-doo-and-the-spooky-swamp.json](./5143-scooby-doo-and-the-spooky-swamp.json) |
 | Scooby-Doo! Classic Creep Capers | 249116 | [249116-scooby-doo-classic-creep-capers.json](./249116-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
@@ -11280,6 +11281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
 | Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
+| Soldiers of Fortune | 4527 | [4527-soldiers-of-fortune.json](./4527-soldiers-of-fortune.json) |
 | Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
@@ -14435,6 +14437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Racer in My Most Dangerous Adventures | 42457 | [42457-speed-racer-in-my-most-dangerous-adventures.json](./42457-speed-racer-in-my-most-dangerous-adventures.json) |
+| Speed Racer: The Videogame | 5176 | [5176-speed-racer-the-videogame.json](./5176-speed-racer-the-videogame.json) |
 | Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
 | Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
@@ -14716,6 +14719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speluncaphobia | 236414 | [236414-speluncaphobia.json](./236414-speluncaphobia.json) |
 | SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
 | Spelunker | 287593 | [287593-spelunker.json](./287593-spelunker.json) |
+| Spelunker | 4621 | [4621-spelunker.json](./4621-spelunker.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
@@ -15450,6 +15454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
+| SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
@@ -15537,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
+| Spore Hero | 5191 | [5191-spore-hero.json](./5191-spore-hero.json) |
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
 | Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
 | Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
@@ -18857,6 +18863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StormWar | 188330 | [188330-stormwar.json](./188330-stormwar.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormwinds: The Lost Campaigns | 210295 | [210295-stormwinds-the-lost-campaigns.json](./210295-stormwinds-the-lost-campaigns.json) |
+| Stormworks: Build and Rescue | 36623 | [36623-stormworks-build-and-rescue.json](./36623-stormworks-build-and-rescue.json) |
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
@@ -22262,6 +22269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
+| Super Monkey Ball Adventure | 4188 | [4188-super-monkey-ball-adventure.json](./4188-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
 | Super Monkey Ball: Banana Blitz | 5200 | [5200-super-monkey-ball-banana-blitz.json](./5200-super-monkey-ball-banana-blitz.json) |
@@ -23192,6 +23200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Luther no Yabou | 349440 | [349440-superman-luther-no-yabou.json](./349440-superman-luther-no-yabou.json) |
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
+| Superman: Shadow of Apokolips | 4190 | [4190-superman-shadow-of-apokolips.json](./4190-superman-shadow-of-apokolips.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
 | Superman: The Man of Steel | 6183 | [6183-superman-the-man-of-steel.json](./6183-superman-the-man-of-steel.json) |
