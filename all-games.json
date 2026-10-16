@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:44:45.095Z",
-  "total_soundtracks": 1786,
+  "generated_at": "2026-10-16T05:44:57.891Z",
+  "total_soundtracks": 1787,
   "games": [
     {
       "igdb_id": 7522,
@@ -17385,6 +17385,20 @@
           "spotify_url": "https://open.spotify.com/album/2RjhOXOFZVg0apz7YdCYxM",
           "apple_music_url": "https://music.apple.com/us/album/teenage-mutant-ninja-turtles-shredders-revenge-original/1627546793",
           "album_link_url": "https://album.link/i/1627546793"
+        }
+      ]
+    },
+    {
+      "igdb_id": 304400,
+      "game_name": "Tekken",
+      "game_url": "https://ostdb.net/games/tekken",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27339674523fa44f262b224f6df",
+      "albums": [
+        {
+          "album_name": "TEKKEN (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1aEwYaeBclFgtf7dKpS02p",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
