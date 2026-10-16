@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
 | Renations | 64214 | [64214-renations.json](./64214-renations.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
+| Rencounter | 33818 | [33818-rencounter.json](./33818-rencounter.json) |
 | Rend | 27770 | [27770-rend.json](./27770-rend.json) |
 | Rendagor | 372058 | [372058-rendagor.json](./372058-rendagor.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
@@ -4485,7 +4486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
-| Revenge of the Savage Planet | 314243 | [314243-revenge-of-the-savage-planet.json](./314243-revenge-of-the-savage-planet.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
@@ -5669,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
+| Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Ronny | 12752 | [12752-rolling-ronny.json](./12752-rolling-ronny.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
+| Rolling Shapes | 35214 | [35214-rolling-shapes.json](./35214-rolling-shapes.json) |
 | Rolling Sky | 57247 | [57247-rolling-sky.json](./57247-rolling-sky.json) |
 | Rolling Sky 2 | 146801 | [146801-rolling-sky-2.json](./146801-rolling-sky-2.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
@@ -7326,7 +7328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Star | 329235 | [329235-rolling-star.json](./329235-rolling-star.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
-| Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Thunder | 219018 | [219018-rolling-thunder.json](./219018-rolling-thunder.json) |
 | Rolling Thunder 2 | 18401 | [18401-rolling-thunder-2.json](./18401-rolling-thunder-2.json) |
 | Rolling Thunder 3 | 46243 | [46243-rolling-thunder-3.json](./46243-rolling-thunder-3.json) |
@@ -9026,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
+| Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Drive There Co-op | 389069 | [389069-rv-drive-there-co-op.json](./389069-rv-drive-there-co-op.json) |
