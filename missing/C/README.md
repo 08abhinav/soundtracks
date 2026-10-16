@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
+| Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
+| Catan | 21830 | [21830-catan.json](./21830-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
 | Catan: Console Edition - Championship Maps | 275050 | [275050-catan-console-edition-championship-maps.json](./275050-catan-console-edition-championship-maps.json) |
@@ -4177,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Birds | 177880 | [177880-chasing-birds.json](./177880-chasing-birds.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
 | Chasing Car Speed Drifting | 106473 | [106473-chasing-car-speed-drifting.json](./106473-chasing-car-speed-drifting.json) |
+| Chasing Dead | 21676 | [21676-chasing-dead.json](./21676-chasing-dead.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
@@ -5173,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
+| Choice Chamber | 22036 | [22036-choice-chamber.json](./22036-choice-chamber.json) |
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
