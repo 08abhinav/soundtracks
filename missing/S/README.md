@@ -2548,7 +2548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
-| Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
 | Scream 4 | 77204 | [77204-scream-4.json](./77204-scream-4.json) |
@@ -5809,7 +5808,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
 | Shin Megami Tensei: Devil Survivor | 6884 | [6884-shin-megami-tensei-devil-survivor.json](./6884-shin-megami-tensei-devil-survivor.json) |
-| Shin Megami Tensei: Devil Survivor Overclocked | 19131 | [19131-shin-megami-tensei-devil-survivor-overclocked.json](./19131-shin-megami-tensei-devil-survivor-overclocked.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
@@ -8018,7 +8016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
 | Sins of a Solar Empire: Diplomacy | 67208 | [67208-sins-of-a-solar-empire-diplomacy.json](./67208-sins-of-a-solar-empire-diplomacy.json) |
 | Sins of a Solar Empire: Entrenchment | 84330 | [84330-sins-of-a-solar-empire-entrenchment.json](./84330-sins-of-a-solar-empire-entrenchment.json) |
-| Sins of a Solar Empire: Rebellion | 9924 | [9924-sins-of-a-solar-empire-rebellion.json](./9924-sins-of-a-solar-empire-rebellion.json) |
 | Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
 | Sins of a Solar Empire: Rebellion - Minor Factions | 168720 | [168720-sins-of-a-solar-empire-rebellion-minor-factions.json](./168720-sins-of-a-solar-empire-rebellion-minor-factions.json) |
 | Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
@@ -8895,7 +8892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Ring of Heroes | 112193 | [112193-skylanders-ring-of-heroes.json](./112193-skylanders-ring-of-heroes.json) |
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
-| Skylanders: SuperChargers | 11058 | [11058-skylanders-superchargers.json](./11058-skylanders-superchargers.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
@@ -11357,7 +11353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
 | Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
-| Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
@@ -12971,7 +12966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
 | SoulCalibur II | 227986 | [227986-soulcalibur-ii.json](./227986-soulcalibur-ii.json) |
-| SoulCalibur II | 227987 | [227987-soulcalibur-ii.json](./227987-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
@@ -13162,7 +13156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South of Hell | 273560 | [273560-south-of-hell.json](./273560-south-of-hell.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
-| South of the Circle | 140556 | [140556-south-of-the-circle.json](./140556-south-of-the-circle.json) |
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
