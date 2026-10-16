@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse! | 27449 | [27449-impulse.json](./27449-impulse.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Impulsers | 194270 | [194270-impulsers.json](./194270-impulsers.json) |
+| Impulsion | 82889 | [82889-impulsion.json](./82889-impulsion.json) |
 | Impulsive Button | 7572 | [7572-impulsive-button.json](./7572-impulsive-button.json) |
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
@@ -3261,8 +3262,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
 | Instant Chess | 107029 | [107029-instant-chess.json](./107029-instant-chess.json) |
+| Instant Death | 81999 | [81999-instant-death.json](./81999-instant-death.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
+| Instant Indie Collection: Vol. 1 | 82543 | [82543-instant-indie-collection-vol-1.json](./82543-instant-indie-collection-vol-1.json) |
 | Instant Indie Collection: Vol. 2 | 99766 | [99766-instant-indie-collection-vol-2.json](./99766-instant-indie-collection-vol-2.json) |
+| Instant Indie Collection: Vol. 3 | 82542 | [82542-instant-indie-collection-vol-3.json](./82542-instant-indie-collection-vol-3.json) |
 | Instant Indie Collection: Vol. 4 | 82455 | [82455-instant-indie-collection-vol-4.json](./82455-instant-indie-collection-vol-4.json) |
 | Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
