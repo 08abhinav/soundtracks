@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In the Darkness | 212990 | [212990-in-the-darkness.json](./212990-in-the-darkness.json) |
+| In the Darkness of the Sea | 29559 | [29559-in-the-darkness-of-the-sea.json](./29559-in-the-darkness-of-the-sea.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Dead of Night: Urszula's Revenge | 34090 | [34090-in-the-dead-of-night-urszulas-revenge.json](./34090-in-the-dead-of-night-urszulas-revenge.json) |
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
@@ -4514,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It Lurks | 417353 | [417353-it-lurks.json](./417353-it-lurks.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
+| It Lurks in the Woods | 29513 | [29513-it-lurks-in-the-woods.json](./29513-it-lurks-in-the-woods.json) |
 | It Makes for Painful Work | 353817 | [353817-it-makes-for-painful-work.json](./353817-it-makes-for-painful-work.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
