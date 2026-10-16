@@ -14619,7 +14619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
 | My Time At Portia: Swimwear | 402952 | [402952-my-time-at-portia-swimwear.json](./402952-my-time-at-portia-swimwear.json) |
-| My Time at Sandrock | 140427 | [140427-my-time-at-sandrock.json](./140427-my-time-at-sandrock.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
