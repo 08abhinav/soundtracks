@@ -8296,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
+| The Labyrinth Inferno | 421190 | [421190-the-labyrinth-inferno.json](./421190-the-labyrinth-inferno.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
 | The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
@@ -8614,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
+| The Last Team | 421238 | [421238-the-last-team.json](./421238-the-last-team.json) |
 | The Last Threat | 214108 | [214108-the-last-threat.json](./214108-the-last-threat.json) |
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
@@ -14610,6 +14612,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
+| TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
+| TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
@@ -14726,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide Girl: Phenomena | 241266 | [241266-tide-girl-phenomena.json](./241266-tide-girl-phenomena.json) |
 | Tide of Lone Stars | 412910 | [412910-tide-of-lone-stars.json](./412910-tide-of-lone-stars.json) |
+| Tide of the Depths | 421228 | [421228-tide-of-the-depths.json](./421228-tide-of-the-depths.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
@@ -21828,6 +21833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
+| Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
 | Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
