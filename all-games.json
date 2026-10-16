@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:35:59.454Z",
-  "total_soundtracks": 1906,
+  "generated_at": "2026-10-16T14:41:00.562Z",
+  "total_soundtracks": 1907,
   "games": [
     {
       "igdb_id": 7522,
@@ -5546,6 +5546,20 @@
           "album_name": "DISSIDIA FINAL FANTASY Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36831,
+      "game_name": "Dissidia Final Fantasy NT",
+      "game_url": "https://ostdb.net/games/dissidia-final-fantasy-nt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c59a38fc8f2603a2cac88d2f",
+      "albums": [
+        {
+          "album_name": "DISSIDIA FINAL FANTASY NT Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6c58mozNE3n4CgRneJVM27",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
