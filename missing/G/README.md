@@ -6942,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
+| Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
 | Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
