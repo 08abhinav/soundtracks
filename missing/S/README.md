@@ -18132,6 +18132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamle | 353897 | [353897-steamle.json](./353897-steamle.json) |
 | SteamMaze | 326284 | [326284-steammaze.json](./326284-steammaze.json) |
 | SteamPowered | 350009 | [350009-steampowered.json](./350009-steampowered.json) |
+| Steampuff: Phinnegan's Factory | 32334 | [32334-steampuff-phinnegans-factory.json](./32334-steampuff-phinnegans-factory.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
 | Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
@@ -23789,6 +23790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance Kanshisha | 65021 | [65021-surveillance-kanshisha.json](./65021-surveillance-kanshisha.json) |
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survev.io | 324557 | [324557-survev-io.json](./324557-survev-io.json) |
+| SurvHive | 32377 | [32377-survhive.json](./32377-survhive.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | SurviRail: Deep Space | 412193 | [412193-survirail-deep-space.json](./412193-survirail-deep-space.json) |
