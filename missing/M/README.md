@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madagascar: Escape 2 Africa | 116787 | [116787-madagascar-escape-2-africa.json](./116787-madagascar-escape-2-africa.json) |
+| Madagascar: Escape 2 Africa | 3765 | [3765-madagascar-escape-2-africa.json](./3765-madagascar-escape-2-africa.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madam of Malice | 309435 | [309435-madam-of-malice.json](./309435-madam-of-malice.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
+| Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
@@ -6573,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
+| Metal Arms: Glitch in the System | 4004 | [4004-metal-arms-glitch-in-the-system.json](./4004-metal-arms-glitch-in-the-system.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
