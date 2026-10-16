@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
 | Quake II: Sewer Jam Volume 1 | 299383 | [299383-quake-ii-sewer-jam-volume-1.json](./299383-quake-ii-sewer-jam-volume-1.json) |
+| Quake III: Gold | 46626 | [46626-quake-iii-gold.json](./46626-quake-iii-gold.json) |
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
 | Quake Live | 6578 | [6578-quake-live.json](./6578-quake-live.json) |
 | Quake Minus One | 26413 | [26413-quake-minus-one.json](./26413-quake-minus-one.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
 | Qube Stories: Escape Adventure | 260711 | [260711-qube-stories-escape-adventure.json](./260711-qube-stories-escape-adventure.json) |
+| Qube: Against the Qlock | 8878 | [8878-qube-against-the-qlock.json](./8878-qube-against-the-qlock.json) |
 | QubeFall | 184395 | [184395-qubefall.json](./184395-qubefall.json) |
 | Qubes | 348943 | [348943-qubes.json](./348943-qubes.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
