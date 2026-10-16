@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmle | 210589 | [210589-warmle.json](./210589-warmle.json) |
+| Warmode | 34735 | [34735-warmode.json](./34735-warmode.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
 | Warmonger:45 | 338399 | [338399-warmonger-45.json](./338399-warmonger-45.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
+| Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
 | Weapons Simulator | 390165 | [390165-weapons-simulator.json](./390165-weapons-simulator.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
@@ -3612,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Island | 384272 | [384272-wild-island.json](./384272-wild-island.json) |
+| Wild Island Quest | 34693 | [34693-wild-island-quest.json](./34693-wild-island-quest.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
@@ -4601,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
+| Without Within 2 | 34531 | [34531-without-within-2.json](./34531-without-within-2.json) |
 | Without Within 3 | 96382 | [96382-without-within-3.json](./96382-without-within-3.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
