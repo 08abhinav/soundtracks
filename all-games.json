@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:12:47.715Z",
-  "total_soundtracks": 1870,
+  "generated_at": "2026-10-16T06:13:03.244Z",
+  "total_soundtracks": 1871,
   "games": [
     {
       "igdb_id": 7522,
@@ -21196,6 +21196,20 @@
           "album_name": "Warframe (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5FDDMVvTedW6pf49044B3T",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27441,
+      "game_name": "Wargroove",
+      "game_url": "https://ostdb.net/games/wargroove",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273975f12260a20059421758ab4",
+      "albums": [
+        {
+          "album_name": "Wargroove (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2j7xt35Tr4VrwtchiUPuOx",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
