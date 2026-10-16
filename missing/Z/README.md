@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
+| Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
