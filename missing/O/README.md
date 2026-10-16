@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
 | One Million Checkboxes | 307172 | [307172-one-million-checkboxes.json](./307172-one-million-checkboxes.json) |
+| One Million Kisses | 417967 | [417967-one-million-kisses.json](./417967-one-million-kisses.json) |
 | One Million Miles | 223610 | [223610-one-million-miles.json](./223610-one-million-miles.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
 | One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
 | Oops You Started An Intergalactic War | 202020 | [202020-oops-you-started-an-intergalactic-war.json](./202020-oops-you-started-an-intergalactic-war.json) |
 | Oops, All Archers! | 263389 | [263389-oops-all-archers.json](./263389-oops-all-archers.json) |
+| Oops, All Tanks! | 417987 | [417987-oops-all-tanks.json](./417987-oops-all-tanks.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops, No Floor! | 421179 | [421179-oops-no-floor.json](./421179-oops-no-floor.json) |
 | Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orgel of Orpheus: Other Comb no Senritsu | 414132 | [414132-orgel-of-orpheus-other-comb-no-senritsu.json](./414132-orgel-of-orpheus-other-comb-no-senritsu.json) |
 | Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
 | Ori and the Will of the Wisps: Collector's Edition | 136149 | [136149-ori-and-the-will-of-the-wisps-collectors-edition.json](./136149-ori-and-the-will-of-the-wisps-collectors-edition.json) |
+| Ori, Ochi, Onoe. | 417959 | [417959-ori-ochi-onoe.json](./417959-ori-ochi-onoe.json) |
 | Ori: The Collection | 143447 | [143447-ori-the-collection.json](./143447-ori-the-collection.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
