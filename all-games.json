@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:32:10.218Z",
-  "total_soundtracks": 1933,
+  "generated_at": "2026-10-16T19:32:23.503Z",
+  "total_soundtracks": 1934,
   "games": [
     {
       "igdb_id": 7522,
@@ -13606,6 +13606,20 @@
           "album_name": "Night in the Woods (Original Soundtrack, Vol. 2) [Hold onto Anything]",
           "spotify_url": "https://open.spotify.com/album/5M5lsqSuJQ4TbvzOBMyOee",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3026,
+      "game_name": "Nihilumbra",
+      "game_url": "https://ostdb.net/games/nihilumbra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6ef7115d7869bb310d0cbad",
+      "albums": [
+        {
+          "album_name": "Nihilumbra, The Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6g2ULX6OsBsFOUA0mG52pN",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
