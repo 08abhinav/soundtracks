@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
+| Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
@@ -7360,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 7 | 190932 | [190932-pog-7.json](./190932-pog-7.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
+| Poggers | 115710 | [115710-poggers.json](./115710-poggers.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Poglings | 233946 | [233946-poglings.json](./233946-poglings.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
