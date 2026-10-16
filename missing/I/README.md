@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
 | Immortal Love: Kiss of the Night | 120796 | [120796-immortal-love-kiss-of-the-night.json](./120796-immortal-love-kiss-of-the-night.json) |
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
+| Immortal Love: Letter from the Past - Collector's Edition | 88809 | [88809-immortal-love-letter-from-the-past-collectors-edition.json](./88809-immortal-love-letter-from-the-past-collectors-edition.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
 | Immortal Love: True Treasure - Collector's Edition | 192778 | [192778-immortal-love-true-treasure-collectors-edition.json](./192778-immortal-love-true-treasure-collectors-edition.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | InScape | 176315 | [176315-inscape.json](./176315-inscape.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
+| InseAquarium: Crazy Aqurium | 88517 | [88517-inseaquarium-crazy-aqurium.json](./88517-inseaquarium-crazy-aqurium.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
 | Insect | 392232 | [392232-insect.json](./392232-insect.json) |
