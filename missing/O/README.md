@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
+| Oninaki | 115280 | [115280-oninaki.json](./115280-oninaki.json) |
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
 | Outcast: A New Beginning - Adelpha Edition | 282049 | [282049-outcast-a-new-beginning-adelpha-edition.json](./282049-outcast-a-new-beginning-adelpha-edition.json) |
+| Outcast: Second Contact | 23175 | [23175-outcast-second-contact.json](./23175-outcast-second-contact.json) |
 | Outcast: Second Contact - Digital Deluxe Edition | 122224 | [122224-outcast-second-contact-digital-deluxe-edition.json](./122224-outcast-second-contact-digital-deluxe-edition.json) |
 | Outcasters | 135825 | [135825-outcasters.json](./135825-outcasters.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
