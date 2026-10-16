@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark VR Dancing | 132590 | [132590-baby-shark-vr-dancing.json](./132590-baby-shark-vr-dancing.json) |
 | Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
 | Baby Snow and the Shards of Tiger's Bane | 392244 | [392244-baby-snow-and-the-shards-of-tigers-bane.json](./392244-baby-snow-and-the-shards-of-tigers-bane.json) |
+| Baby Steps | 252502 | [252502-baby-steps.json](./252502-baby-steps.json) |
 | Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
