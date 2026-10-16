@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter 2006 Trophy Season | 60229 | [60229-cabelas-big-game-hunter-2006-trophy-season.json](./60229-cabelas-big-game-hunter-2006-trophy-season.json) |
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
+| Cabela's Big Game Hunter 2010 | 4736 | [4736-cabelas-big-game-hunter-2010.json](./4736-cabelas-big-game-hunter-2010.json) |
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
+| Cabela's Trophy Bucks | 4739 | [4739-cabelas-trophy-bucks.json](./4739-cabelas-trophy-bucks.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
@@ -1833,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
 | Carmen Sandiego: Deluxe Edition | 330197 | [330197-carmen-sandiego-deluxe-edition.json](./330197-carmen-sandiego-deluxe-edition.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
+| Carmen Sandiego: The Secret of the Stolen Drums | 3848 | [3848-carmen-sandiego-the-secret-of-the-stolen-drums.json](./3848-carmen-sandiego-the-secret-of-the-stolen-drums.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
@@ -2354,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami | 28519 | [28519-castle-of-shikigami.json](./28519-castle-of-shikigami.json) |
 | Castle of Shikigami 2 | 174090 | [174090-castle-of-shikigami-2.json](./174090-castle-of-shikigami-2.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
+| Castle of Shikigami III | 4751 | [4751-castle-of-shikigami-iii.json](./4751-castle-of-shikigami-iii.json) |
 | Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
@@ -3409,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Memory - 12in12 Game 1 | 410737 | [410737-celebrity-memory-12in12-game-1.json](./410737-celebrity-memory-12in12-game-1.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
+| Celebrity Sports Showdown | 4753 | [4753-celebrity-sports-showdown.json](./4753-celebrity-sports-showdown.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
@@ -6639,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
+| Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
@@ -10292,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
+| Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy 3 | 332500 | [332500-cosmic-fantasy-3.json](./332500-cosmic-fantasy-3.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
@@ -10559,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
+| Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
@@ -11867,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
+| Crime Patrol 2: Drug Wars | 4242 | [4242-crime-patrol-2-drug-wars.json](./4242-crime-patrol-2-drug-wars.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
 | Crime Podcast: 1976 | 420520 | [420520-crime-podcast-1976.json](./420520-crime-podcast-1976.json) |
 | Crime Podcast: Welcome to the Neighborhood | 420528 | [420528-crime-podcast-welcome-to-the-neighborhood.json](./420528-crime-podcast-welcome-to-the-neighborhood.json) |
@@ -12529,6 +12538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 304249 | [304249-cruelty.json](./304249-cruelty.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
+| Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
