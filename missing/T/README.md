@@ -8156,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
 | The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
+| The Knight Witch | 201483 | [201483-the-knight-witch.json](./201483-the-knight-witch.json) |
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
@@ -11380,6 +11381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Showdown Effect: Reloaded | 289807 | [289807-the-showdown-effect-reloaded.json](./289807-the-showdown-effect-reloaded.json) |
 | The Shrink Season Two | 385904 | [385904-the-shrink-season-two.json](./385904-the-shrink-season-two.json) |
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
+| The Shrouded Isle | 25661 | [25661-the-shrouded-isle.json](./25661-the-shrouded-isle.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
@@ -12151,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
+| The Talos Principle: Deluxe Edition | 23373 | [23373-the-talos-principle-deluxe-edition.json](./23373-the-talos-principle-deluxe-edition.json) |
 | The Talos Principle: Gold Edition | 53774 | [53774-the-talos-principle-gold-edition.json](./53774-the-talos-principle-gold-edition.json) |
 | The Talos Principle: Reawakened | 324927 | [324927-the-talos-principle-reawakened.json](./324927-the-talos-principle-reawakened.json) |
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
@@ -21707,6 +21710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
 | Trivia Beta64 Party | 288704 | [288704-trivia-beta64-party.json](./288704-trivia-beta64-party.json) |
+| Trivia Crack | 39204 | [39204-trivia-crack.json](./39204-trivia-crack.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Crack World | 278352 | [278352-trivia-crack-world.json](./278352-trivia-crack-world.json) |
@@ -22452,6 +22456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
+| TumblePop | 25694 | [25694-tumblepop.json](./25694-tumblepop.json) |
 | Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
 | Tumblestone | 16926 | [16926-tumblestone.json](./16926-tumblestone.json) |
