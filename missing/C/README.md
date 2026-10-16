@@ -10036,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
 | Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
+| Coral Island: Kids Grow Up | 424043 | [424043-coral-island-kids-grow-up.json](./424043-coral-island-kids-grow-up.json) |
 | Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
 | Coral Quest | 164269 | [164269-coral-quest.json](./164269-coral-quest.json) |
 | Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
