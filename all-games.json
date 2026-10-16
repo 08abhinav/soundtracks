@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:22:36.456Z",
-  "total_soundtracks": 1879,
+  "generated_at": "2026-10-16T06:22:49.306Z",
+  "total_soundtracks": 1880,
   "games": [
     {
       "igdb_id": 7522,
@@ -10847,6 +10847,20 @@
           "spotify_url": "https://music.apple.com/us/album/life-is-strange-reunion-original-game-soundtrack/1884158728?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1884158728"
+        }
+      ]
+    },
+    {
+      "igdb_id": 8433,
+      "game_name": "Lifeless Planet",
+      "game_url": "https://ostdb.net/games/lifeless-planet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d61753d9a5e5cede3fb221a1",
+      "albums": [
+        {
+          "album_name": "Lifeless Planet (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4AUAWvX8XmiLUehe96QosF",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
