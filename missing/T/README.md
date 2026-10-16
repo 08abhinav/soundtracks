@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
 | Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
+| Tales of the Neon Sea | 95992 | [95992-tales-of-the-neon-sea.json](./95992-tales-of-the-neon-sea.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
@@ -8782,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Eternal Rain | 184332 | [184332-the-legend-of-zelda-eternal-rain.json](./184332-the-legend-of-zelda-eternal-rain.json) |
 | The Legend of Zelda: Fall of Hyrule | 250514 | [250514-the-legend-of-zelda-fall-of-hyrule.json](./250514-the-legend-of-zelda-fall-of-hyrule.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
+| The Legend of Zelda: Four Swords - Anniversary Edition | 45143 | [45143-the-legend-of-zelda-four-swords-anniversary-edition.json](./45143-the-legend-of-zelda-four-swords-anniversary-edition.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 218077 | [218077-the-legend-of-zelda-goddess-of-wisdom.json](./218077-the-legend-of-zelda-goddess-of-wisdom.json) |
@@ -9612,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
+| The Missing: J.J. Macfield and the Island of Memories | 87499 | [87499-the-missing-j-j-macfield-and-the-island-of-memories.json](./87499-the-missing-j-j-macfield-and-the-island-of-memories.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
 | The Mist | 312221 | [312221-the-mist.json](./312221-the-mist.json) |
@@ -18581,6 +18584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Usojikuu: Fools_rush_in | 366633 | [366633-touhou-usojikuu-fools-rush-in.json](./366633-touhou-usojikuu-fools-rush-in.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
+| Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
