@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
+| Jack the Ripper | 14134 | [14134-jack-the-ripper.json](./14134-jack-the-ripper.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack the Ripper | 20410 | [20410-jack-the-ripper.json](./20410-jack-the-ripper.json) |
 | Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
