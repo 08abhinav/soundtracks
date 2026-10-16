@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Man's Arcade Party | 220255 | [220255-pac-mans-arcade-party.json](./220255-pac-mans-arcade-party.json) |
 | PAC-MANGAMES | 131311 | [131311-pac-mangames.json](./131311-pac-mangames.json) |
+| Pac-Mania | 12192 | [12192-pac-mania.json](./12192-pac-mania.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
@@ -1983,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
+| Patapon 3 | 18373 | [18373-patapon-3.json](./18373-patapon-3.json) |
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | Patch | 391686 | [391686-patch.json](./391686-patch.json) |
@@ -3876,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
+| Phoenix | 18473 | [18473-phoenix.json](./18473-phoenix.json) |
 | Phoenix | 270320 | [270320-phoenix.json](./270320-phoenix.json) |
 | Phoenix | 311748 | [311748-phoenix.json](./311748-phoenix.json) |
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
@@ -7194,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
+| Pocket Mortys | 16306 | [16306-pocket-mortys.json](./16306-pocket-mortys.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
 | Pocket MuuMuu | 72991 | [72991-pocket-muumuu.json](./72991-pocket-muumuu.json) |
 | Pocket Mystery EP | 322056 | [322056-pocket-mystery-ep.json](./322056-pocket-mystery-ep.json) |
