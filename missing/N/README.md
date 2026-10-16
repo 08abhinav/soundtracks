@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
+| Nauticrawl | 116363 | [116363-nauticrawl.json](./116363-nauticrawl.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
 | Night at the Meowseum | 293169 | [293169-night-at-the-meowseum.json](./293169-night-at-the-meowseum.json) |
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
+| Night at the Museum: Battle of the Smithsonian - The Video Game | 5073 | [5073-night-at-the-museum-battle-of-the-smithsonian-the-video-game.json](./5073-night-at-the-museum-battle-of-the-smithsonian-the-video-game.json) |
 | Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night at Vibri's | 406951 | [406951-night-at-vibris.json](./406951-night-at-vibris.json) |
