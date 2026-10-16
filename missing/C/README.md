@@ -5321,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chores of Corruption | 261728 | [261728-chores-of-corruption.json](./261728-chores-of-corruption.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
+| Chornobyl Liquidators | 146315 | [146315-chornobyl-liquidators.json](./146315-chornobyl-liquidators.json) |
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
@@ -5566,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
+| Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
@@ -7182,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Critters | 59906 | [59906-cloud-critters.json](./59906-cloud-critters.json) |
+| Cloud Cutter | 147000 | [147000-cloud-cutter.json](./147000-cloud-cutter.json) |
 | Cloud Dwellers | 350598 | [350598-cloud-dwellers.json](./350598-cloud-dwellers.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Gardens | 136407 | [136407-cloud-gardens.json](./136407-cloud-gardens.json) |
@@ -7620,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
 | Codemasters 2 in 1: Fantastic Dizzy + Cosmic Spacehead | 93188 | [93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json](./93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json) |
+| Codemasters Collection 1 | 145834 | [145834-codemasters-collection-1.json](./145834-codemasters-collection-1.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Attila | 289803 | [289803-codename-attila.json](./289803-codename-attila.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
@@ -8459,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosso Crystal Skulls | 99727 | [99727-colosso-crystal-skulls.json](./99727-colosso-crystal-skulls.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Chess 4 | 94664 | [94664-colossus-chess-4.json](./94664-colossus-chess-4.json) |
+| Colossus Down | 140641 | [140641-colossus-down.json](./140641-colossus-down.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
@@ -9806,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
+| Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Cooking with Food Network | 168934 | [168934-cooking-simulator-cooking-with-food-network.json](./168934-cooking-simulator-cooking-with-food-network.json) |
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
@@ -11992,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Team: Ambulance Driver | 73703 | [73703-crisis-team-ambulance-driver.json](./73703-crisis-team-ambulance-driver.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
+| Crisis Wing | 146102 | [146102-crisis-wing.json](./146102-crisis-wing.json) |
 | Crisis: North Korea | 62792 | [62792-crisis-north-korea.json](./62792-crisis-north-korea.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
