@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
+| Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
+| Vector 36 | 14412 | [14412-vector-36.json](./14412-vector-36.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
@@ -961,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendetta | 91874 | [91874-vendetta.json](./91874-vendetta.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
 | Vendetta Online | 2450 | [2450-vendetta-online.json](./2450-vendetta-online.json) |
+| Vendetta: Curse of Raven's Cry | 14602 | [14602-vendetta-curse-of-ravens-cry.json](./14602-vendetta-curse-of-ravens-cry.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
 | Vending Machine Co. | 347747 | [347747-vending-machine-co.json](./347747-vending-machine-co.json) |
