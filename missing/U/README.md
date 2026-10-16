@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Ninja Shooter | 207772 | [207772-ultra-ninja-shooter.json](./207772-ultra-ninja-shooter.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
+| Ultra Off-Road Simulator 2019: Alaska | 113407 | [113407-ultra-off-road-simulator-2019-alaska.json](./113407-ultra-off-road-simulator-2019-alaska.json) |
 | Ultra Pixel Survive | 243763 | [243763-ultra-pixel-survive.json](./243763-ultra-pixel-survive.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Ball | 353493 | [353493-unblock-ball.json](./353493-unblock-ball.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
 | Unblock Gem | 36930 | [36930-unblock-gem.json](./36930-unblock-gem.json) |
+| Unblock Gridlock | 113285 | [113285-unblock-gridlock.json](./113285-unblock-gridlock.json) |
 | Unblock Hex | 36940 | [36940-unblock-hex.json](./36940-unblock-hex.json) |
 | Unblock Me | 87174 | [87174-unblock-me.json](./87174-unblock-me.json) |
 | Unblock Me Car | 148921 | [148921-unblock-me-car.json](./148921-unblock-me-car.json) |
@@ -2371,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
+| Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
