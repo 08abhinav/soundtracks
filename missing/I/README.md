@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
+| Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
