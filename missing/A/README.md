@@ -6599,7 +6599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds Electronic Handheld Game | 246306 | [246306-angry-birds-electronic-handheld-game.json](./246306-angry-birds-electronic-handheld-game.json) |
-| Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
 | Angry Birds Explore | 398679 | [398679-angry-birds-explore.json](./398679-angry-birds-explore.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
