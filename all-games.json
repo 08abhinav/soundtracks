@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:41:19.760Z",
-  "total_soundtracks": 1908,
+  "generated_at": "2026-10-16T14:41:35.179Z",
+  "total_soundtracks": 1909,
   "games": [
     {
       "igdb_id": 7522,
@@ -8429,6 +8429,20 @@
         {
           "album_name": "GRANBLUE FANTASY: Versus ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/7e9xD8fMR6Zt5fujDx7t6i",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19163,
+      "game_name": "Grand Kingdom",
+      "game_url": "https://ostdb.net/games/grand-kingdom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27371a702fe985a932028d2f92a",
+      "albums": [
+        {
+          "album_name": "GRAND KINGDOM Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1bwAQxelC1omfRkRpqC6sg",
           "apple_music_url": "",
           "album_link_url": ""
         }
