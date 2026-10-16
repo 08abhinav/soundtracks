@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidstorm | 309549 | [309549-voidstorm.json](./309549-voidstorm.json) |
+| Voidtrain | 123925 | [123925-voidtrain.json](./123925-voidtrain.json) |
 | Voidwalker | 278349 | [278349-voidwalker.json](./278349-voidwalker.json) |
 | Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
