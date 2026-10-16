@@ -1511,8 +1511,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
+| Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
 | Darksiders II: Season Pass | 343755 | [343755-darksiders-ii-season-pass.json](./343755-darksiders-ii-season-pass.json) |
+| Darksiders II: The Abyssal Forge | 135003 | [135003-darksiders-ii-the-abyssal-forge.json](./135003-darksiders-ii-the-abyssal-forge.json) |
+| Darksiders II: The Demon Lord Belial | 135005 | [135005-darksiders-ii-the-demon-lord-belial.json](./135005-darksiders-ii-the-demon-lord-belial.json) |
 | Darksiders III | 28380 | [28380-darksiders-iii.json](./28380-darksiders-iii.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
@@ -4261,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
+| Demolition Racer | 43940 | [43940-demolition-racer.json](./43940-demolition-racer.json) |
 | Demolition Robots K.K. | 111545 | [111545-demolition-robots-k-k.json](./111545-demolition-robots-k-k.json) |
 | Demomen Ltd. | 236163 | [236163-demomen-ltd.json](./236163-demomen-ltd.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
@@ -4571,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Dep Brothers! | 133729 | [133729-dep-brothers.json](./133729-dep-brothers.json) |
+| Dépanneur Nocturne | 134162 | [134162-depanneur-nocturne.json](./134162-depanneur-nocturne.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
 | Department 42: The Mystery of the Nine | 50464 | [50464-department-42-the-mystery-of-the-nine.json](./50464-department-42-the-mystery-of-the-nine.json) |
@@ -5776,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Kingdoms | 197070 | [197070-dice-kingdoms.json](./197070-dice-kingdoms.json) |
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
+| Dice Legacy | 132928 | [132928-dice-legacy.json](./132928-dice-legacy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
