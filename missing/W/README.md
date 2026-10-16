@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Knightmare | 220279 | [220279-waking-knightmare.json](./220279-waking-knightmare.json) |
+| Waking Mars | 14722 | [14722-waking-mars.json](./14722-waking-mars.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk with the Living 2 | 230883 | [230883-walk-with-the-living-2.json](./230883-walk-with-the-living-2.json) |
 | Walk Your Friends Back Home | 208267 | [208267-walk-your-friends-back-home.json](./208267-walk-your-friends-back-home.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
+| Walkabout Mini Golf | 142095 | [142095-walkabout-mini-golf.json](./142095-walkabout-mini-golf.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
@@ -988,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battle Sister | 146646 | [146646-warhammer-40-000-battle-sister.json](./146646-warhammer-40-000-battle-sister.json) |
+| Warhammer 40,000: Battlesector | 143424 | [143424-warhammer-40-000-battlesector.json](./143424-warhammer-40-000-battlesector.json) |
 | Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
@@ -1342,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
+| Warpips | 146438 | [146438-warpips.json](./146438-warpips.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | WarPlan Pacific | 143426 | [143426-warplan-pacific.json](./143426-warplan-pacific.json) |
 | Warplane Inc. | 152801 | [152801-warplane-inc.json](./152801-warplane-inc.json) |
@@ -3950,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
+| Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
 | Window of Perspectives | 343966 | [343966-window-of-perspectives.json](./343966-window-of-perspectives.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
