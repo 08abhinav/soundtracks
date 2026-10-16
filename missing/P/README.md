@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Attack | 240120 | [240120-pac-attack.json](./240120-pac-attack.json) |
 | Pac-Attack | 240122 | [240122-pac-attack.json](./240122-pac-attack.json) |
 | Pac-Attack | 282487 | [282487-pac-attack.json](./282487-pac-attack.json) |
+| Pac-Attack | 49033 | [49033-pac-attack.json](./49033-pac-attack.json) |
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Chaves | 252904 | [252904-pac-chaves.json](./252904-pac-chaves.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
 | Piano Tap SAO | 402338 | [402338-piano-tap-sao.json](./402338-piano-tap-sao.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
+| Piano Tiles 2 | 57323 | [57323-piano-tiles-2.json](./57323-piano-tiles-2.json) |
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano Tiles 2+ | 341132 | [341132-piano-tiles-2.json](./341132-piano-tiles-2.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
