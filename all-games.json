@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:49:50.841Z",
-  "total_soundtracks": 1806,
+  "generated_at": "2026-10-16T05:50:05.520Z",
+  "total_soundtracks": 1807,
   "games": [
     {
       "igdb_id": 7522,
@@ -19065,6 +19065,20 @@
         {
           "album_name": "The Thaumaturge (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Jv7YFzhS8O4xuDvtgaTkb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18157,
+      "game_name": "The Town of Light",
+      "game_url": "https://ostdb.net/games/the-town-of-light",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fef984e255588487005d125",
+      "albums": [
+        {
+          "album_name": "The Town of Light Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0EjR4L2vDrhLd8FbBDb2Jv",
           "apple_music_url": "",
           "album_link_url": ""
         }
