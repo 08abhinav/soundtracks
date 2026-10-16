@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuman DS | 18596 | [18596-yakuman-ds.json](./18596-yakuman-ds.json) |
 | Yakuman Houou | 60603 | [60603-yakuman-houou.json](./60603-yakuman-houou.json) |
+| Yakumo | 419863 | [419863-yakumo.json](./419863-yakumo.json) |
 | Yakuza 1 Kiwami | 393096 | [393096-yakuza-1-kiwami.json](./393096-yakuza-1-kiwami.json) |
 | Yakuza 2 | 2060 | [2060-yakuza-2.json](./2060-yakuza-2.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
@@ -1486,7 +1487,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
+| Yuukyuu Gensoukyoku Ensemble | 419854 | [419854-yuukyuu-gensoukyoku-ensemble.json](./419854-yuukyuu-gensoukyoku-ensemble.json) |
+| Yuukyuu Gensoukyoku Ensemble 2 | 419855 | [419855-yuukyuu-gensoukyoku-ensemble-2.json](./419855-yuukyuu-gensoukyoku-ensemble-2.json) |
 | Yuukyuu Gensoukyoku: 2nd Album | 125979 | [125979-yuukyuu-gensoukyoku-2nd-album.json](./125979-yuukyuu-gensoukyoku-2nd-album.json) |
+| Yuukyuu Kumikyoku All Star Project | 419857 | [419857-yuukyuu-kumikyoku-all-star-project.json](./419857-yuukyuu-kumikyoku-all-star-project.json) |
 | Yuukyuu no Campanella | 221239 | [221239-yuukyuu-no-campanella.json](./221239-yuukyuu-no-campanella.json) |
 | Yuukyuu no Tierblade for Nintendo Switch | 358924 | [358924-yuukyuu-no-tierblade-for-nintendo-switch.json](./358924-yuukyuu-no-tierblade-for-nintendo-switch.json) |
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
