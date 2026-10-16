@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Tower | 223093 | [223093-scarlet-tower.json](./223093-scarlet-tower.json) |
 | Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
+| Scarlet's Last Call | 419908 | [419908-scarlets-last-call.json](./419908-scarlets-last-call.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends: Phantasmal Light | 59905 | [59905-sea-legends-phantasmal-light.json](./59905-sea-legends-phantasmal-light.json) |
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
+| Sea Monkeys | 419846 | [419846-sea-monkeys.json](./419846-sea-monkeys.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
 | Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
@@ -3391,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed of the Dead: Sweet Home | 153900 | [153900-seed-of-the-dead-sweet-home.json](./153900-seed-of-the-dead-sweet-home.json) |
 | Seed Pioneers | 127648 | [127648-seed-pioneers.json](./127648-seed-pioneers.json) |
+| Seed Shop: Tidy Up! | 419883 | [419883-seed-shop-tidy-up.json](./419883-seed-shop-tidy-up.json) |
 | Seed World | 224530 | [224530-seed-world.json](./224530-seed-world.json) |
 | Seed. | 182906 | [182906-seed.json](./182906-seed.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
@@ -9012,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
+| Slam Tank | 419874 | [419874-slam-tank.json](./419874-slam-tank.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam: Shaq vs. The Legends | 46180 | [46180-slam-shaq-vs-the-legends.json](./46180-slam-shaq-vs-the-legends.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
@@ -9507,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime.io: Devour the Сity | 223911 | [223911-slime-io-devour-the-ity.json](./223911-slime-io-devour-the-ity.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
 | Slime's Revenge | 152651 | [152651-slimes-revenge.json](./152651-slimes-revenge.json) |
+| Slimeblade | 420012 | [420012-slimeblade.json](./420012-slimeblade.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
