@@ -4796,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
+| Shadowgate | 8866 | [8866-shadowgate.json](./8866-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate PD | 272467 | [272467-shadowgate-pd.json](./272467-shadowgate-pd.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
+| Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
@@ -9740,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
+| Smalland: Survive the Wilds | 77730 | [77730-smalland-survive-the-wilds.json](./77730-smalland-survive-the-wilds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
 | SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
@@ -16931,6 +16934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
+| Star Wars: Empire at War - Gold Pack | 93832 | [93832-star-wars-empire-at-war-gold-pack.json](./93832-star-wars-empire-at-war-gold-pack.json) |
 | Star Wars: Episode 1 - Director's Cut | 252302 | [252302-star-wars-episode-1-directors-cut.json](./252302-star-wars-episode-1-directors-cut.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
 | Star Wars: Episode I - Battle of Naboo | 198907 | [198907-star-wars-episode-i-battle-of-naboo.json](./198907-star-wars-episode-i-battle-of-naboo.json) |
@@ -18045,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Rain: Expeditions | 172093 | [172093-steel-rain-expeditions.json](./172093-steel-rain-expeditions.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
+| Steel Rats | 74881 | [74881-steel-rats.json](./74881-steel-rats.json) |
 | Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
@@ -23513,6 +23518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
+| Surviv.io | 77412 | [77412-surviv-io.json](./77412-surviv-io.json) |
 | Survival | 110896 | [110896-survival.json](./110896-survival.json) |
 | Survival | 235263 | [235263-survival.json](./235263-survival.json) |
 | Survival | 24910 | [24910-survival.json](./24910-survival.json) |
@@ -24580,6 +24586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
 | Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
 | Swords & Sorcery | 26303 | [26303-swords-and-sorcery.json](./26303-swords-and-sorcery.json) |
+| Swords & Souls: Neverseen | 94772 | [94772-swords-and-souls-neverseen.json](./94772-swords-and-souls-neverseen.json) |
 | Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
