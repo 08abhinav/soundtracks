@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:21:56.112Z",
-  "total_soundtracks": 1876,
+  "generated_at": "2026-10-16T06:22:10.161Z",
+  "total_soundtracks": 1877,
   "games": [
     {
       "igdb_id": 7522,
@@ -7719,6 +7719,20 @@
           "spotify_url": "https://open.spotify.com/album/2IG4Z5PhGsEviHXRUgqZkF",
           "apple_music_url": "https://music.apple.com/us/album/gears-of-war-judgment-original-soundtrack/1676105165",
           "album_link_url": "https://album.link/i/1676105165"
+        }
+      ]
+    },
+    {
+      "igdb_id": 65445,
+      "game_name": "Generation Zero",
+      "game_url": "https://ostdb.net/games/generation-zero",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fa3833d4c029554cb4ff8a33",
+      "albums": [
+        {
+          "album_name": "Generation Zero (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Xt5Pr3EGaqeIz3bSlrxpT",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
