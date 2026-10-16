@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
 | Kingdoms of the Dump | 106105 | [106105-kingdoms-of-the-dump.json](./106105-kingdoms-of-the-dump.json) |
+| Kingdoms Reborn | 137805 | [137805-kingdoms-reborn.json](./137805-kingdoms-reborn.json) |
 | Kingdoms Rise and Fall | 260326 | [260326-kingdoms-rise-and-fall.json](./260326-kingdoms-rise-and-fall.json) |
 | Kingdoms vs. Zombies | 406846 | [406846-kingdoms-vs-zombies.json](./406846-kingdoms-vs-zombies.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kursor | 165771 | [165771-kursor.json](./165771-kursor.json) |
 | Kurt '99: The Football Manager | 259518 | [259518-kurt-99-the-football-manager.json](./259518-kurt-99-the-football-manager.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
+| KurtzPel | 76064 | [76064-kurtzpel.json](./76064-kurtzpel.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
