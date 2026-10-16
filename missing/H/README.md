@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Reach - Noble Map Pack | 176906 | [176906-halo-reach-noble-map-pack.json](./176906-halo-reach-noble-map-pack.json) |
 | Halo: Reach Limited Edition | 45146 | [45146-halo-reach-limited-edition.json](./45146-halo-reach-limited-edition.json) |
 | Halo: Recruit | 72766 | [72766-halo-recruit.json](./72766-halo-recruit.json) |
+| Halo: The Master Chief Collection - Limited Edition | 41608 | [41608-halo-the-master-chief-collection-limited-edition.json](./41608-halo-the-master-chief-collection-limited-edition.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
 | Halo: The Master Chief Collection Season 3 - Recon | 205055 | [205055-halo-the-master-chief-collection-season-3-recon.json](./205055-halo-the-master-chief-collection-season-3-recon.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
+| House Builder | 133448 | [133448-house-builder.json](./133448-house-builder.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
