@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 86367 | [86367-mahjong.json](./86367-mahjong.json) |
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
+| MahJong | 74936 | [74936-mahjong.json](./74936-mahjong.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
+| Marble Land | 74971 | [74971-marble-land.json](./74971-marble-land.json) |
 | Marble Legends 3D Arcade | 106007 | [106007-marble-legends-3d-arcade.json](./106007-marble-legends-3d-arcade.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Madness | 198810 | [198810-marble-madness.json](./198810-marble-madness.json) |
@@ -2404,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
+| Marble Run | 74451 | [74451-marble-run.json](./74451-marble-run.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
 | Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
@@ -4343,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
 | MayuShoot | 185960 | [185960-mayushoot.json](./185960-mayushoot.json) |
+| Maz! | 74945 | [74945-maz.json](./74945-maz.json) |
 | Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 218529 | [218529-maze.json](./218529-maze.json) |
@@ -5562,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
+| Megalith | 75246 | [75246-megalith.json](./75246-megalith.json) |
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
@@ -6980,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
+| Metro Conflict: The Origin | 75070 | [75070-metro-conflict-the-origin.json](./75070-metro-conflict-the-origin.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Day One Edition | 136166 | [136166-metro-exodus-day-one-edition.json](./136166-metro-exodus-day-one-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
@@ -9015,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimalistic Golf | 181710 | [181710-minimalistic-golf.json](./181710-minimalistic-golf.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
+| Minimancer | 74927 | [74927-minimancer.json](./74927-minimancer.json) |
 | MiniMania | 210088 | [210088-minimania.json](./210088-minimania.json) |
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimapperz | 337302 | [337302-minimapperz.json](./337302-minimapperz.json) |
@@ -10849,6 +10856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Garage | 76139 | [76139-monster-garage.json](./76139-monster-garage.json) |
+| Monster Garden | 75026 | [75026-monster-garden.json](./75026-monster-garden.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
