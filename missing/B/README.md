@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
+| Battlevoid: Harbinger | 34604 | [34604-battlevoid-harbinger.json](./34604-battlevoid-harbinger.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
+| Blast-off | 34767 | [34767-blast-off.json](./34767-blast-off.json) |
 | Blast! | 15675 | [15675-blast.json](./15675-blast.json) |
 | Blast'N Bounty | 410376 | [410376-blastn-bounty.json](./410376-blastn-bounty.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
