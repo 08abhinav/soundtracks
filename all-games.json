@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:53:26.834Z",
-  "total_soundtracks": 1820,
+  "generated_at": "2026-10-16T05:53:40.711Z",
+  "total_soundtracks": 1821,
   "games": [
     {
       "igdb_id": 7522,
@@ -19899,6 +19899,20 @@
           "spotify_url": "https://music.apple.com/us/album/tropico-6-vol-3-original-game-soundtrack-ep/1767236858?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1767236858"
+        }
+      ]
+    },
+    {
+      "igdb_id": 103331,
+      "game_name": "Trover Saves the Universe",
+      "game_url": "https://ostdb.net/games/trover-saves-the-universe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ecba831ed7585b5b55ce19e1",
+      "albums": [
+        {
+          "album_name": "Trover Saves the Universe (Official Soundtrack) [Deluxe Edition]",
+          "spotify_url": "https://open.spotify.com/album/6GJQ4mCR4OXIlWm0QDOcIO",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
