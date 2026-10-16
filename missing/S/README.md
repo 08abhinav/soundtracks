@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
+| Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
@@ -4919,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
 | Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
 | Shadows of Cairn | 2510 | [2510-shadows-of-cairn.json](./2510-shadows-of-cairn.json) |
+| Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
@@ -13078,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
+| Souls Runner | 417942 | [417942-souls-runner.json](./417942-souls-runner.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
 | Souls-Like Bundle | 227390 | [227390-souls-like-bundle.json](./227390-souls-like-bundle.json) |
@@ -13518,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Escaper | 231796 | [231796-space-escaper.json](./231796-space-escaper.json) |
 | Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
+| Space Evolver | 417943 | [417943-space-evolver.json](./417943-space-evolver.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
@@ -16812,6 +16816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star Knight: Order of the Vortex | 253847 | [253847-star-knight-order-of-the-vortex.json](./253847-star-knight-order-of-the-vortex.json) |
 | Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
+| Star Lane | 417956 | [417956-star-lane.json](./417956-star-lane.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
@@ -19053,6 +19058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
+| Stories of a Coup d'État: The Three Siblings | 417945 | [417945-stories-of-a-coup-detat-the-three-siblings.json](./417945-stories-of-a-coup-detat-the-three-siblings.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
