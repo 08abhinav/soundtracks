@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night of Romance With My Waifu | 375274 | [375274-one-night-of-romance-with-my-waifu.json](./375274-one-night-of-romance-with-my-waifu.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night on the Road | 81948 | [81948-one-night-on-the-road.json](./81948-one-night-on-the-road.json) |
+| One Night Stand | 25776 | [25776-one-night-stand.json](./25776-one-night-stand.json) |
 | One Night Too Many | 182805 | [182805-one-night-too-many.json](./182805-one-night-too-many.json) |
 | One Night Two Crazies | 31876 | [31876-one-night-two-crazies.json](./31876-one-night-two-crazies.json) |
 | One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
