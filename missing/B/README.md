@@ -7648,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
+| Blood Waves | 75720 | [75720-blood-waves.json](./75720-blood-waves.json) |
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
 | Blood West | 188555 | [188555-blood-west.json](./188555-blood-west.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
@@ -7895,6 +7896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
+| Bloop | 28846 | [28846-bloop.json](./28846-bloop.json) |
 | Bloop Go! | 105799 | [105799-bloop-go.json](./105799-bloop-go.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Blooper's Revenge DX | 321671 | [321671-bloopers-revenge-dx.json](./321671-bloopers-revenge-dx.json) |
@@ -8739,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell | 6810 | [6810-bombshell.json](./6810-bombshell.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
