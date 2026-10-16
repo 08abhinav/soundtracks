@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
+| The Automatician | 51504 | [51504-the-automatician.json](./51504-the-automatician.json) |
 | The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers Pinball | 314916 | [314916-the-avengers-pinball.json](./314916-the-avengers-pinball.json) |
@@ -6716,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
+| The Flintstones: King Rock Treasure Island | 49007 | [49007-the-flintstones-king-rock-treasure-island.json](./49007-the-flintstones-king-rock-treasure-island.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
@@ -10997,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
 | The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
 | The Rocky Horror Show Video Game | 319648 | [319648-the-rocky-horror-show-video-game.json](./319648-the-rocky-horror-show-video-game.json) |
+| The Rodinia Project | 52077 | [52077-the-rodinia-project.json](./52077-the-rodinia-project.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
 | The Rogue of Nexus | 329220 | [329220-the-rogue-of-nexus.json](./329220-the-rogue-of-nexus.json) |
@@ -13096,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
+| The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
@@ -16177,6 +16181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
+| Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
