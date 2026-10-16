@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
 | Kirby's Air Raid | 323917 | [323917-kirbys-air-raid.json](./323917-kirbys-air-raid.json) |
+| Kirby's Avalanche | 3727 | [3727-kirbys-avalanche.json](./3727-kirbys-avalanche.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
 | Kirby's Dream Buffet | 209094 | [209094-kirbys-dream-buffet.json](./209094-kirbys-dream-buffet.json) |
