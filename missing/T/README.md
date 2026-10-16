@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
+| Tekken 4 | 393182 | [393182-tekken-4.json](./393182-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
 | The 7th Circle: Endless Nightmare Update | 289590 | [289590-the-7th-circle-endless-nightmare-update.json](./289590-the-7th-circle-endless-nightmare-update.json) |
 | The 7th Guest 3: The Collector | 62000 | [62000-the-7th-guest-3-the-collector.json](./62000-the-7th-guest-3-the-collector.json) |
+| The 7th Guest Remake | 394668 | [394668-the-7th-guest-remake.json](./394668-the-7th-guest-remake.json) |
 | The 7th Guest VR | 251565 | [251565-the-7th-guest-vr.json](./251565-the-7th-guest-vr.json) |
 | The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
@@ -7690,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incident | 266825 | [266825-the-incident.json](./266825-the-incident.json) |
 | The Incident | 385300 | [385300-the-incident.json](./385300-the-incident.json) |
+| The Incident at Galley House | 350434 | [350434-the-incident-at-galley-house.json](./350434-the-incident-at-galley-house.json) |
 | The Incomplete "Wish" 01. saidohirakareruhakono | 82766 | [82766-the-incomplete-wish-01-saidohirakareruhakono.json](./82766-the-incomplete-wish-01-saidohirakareruhakono.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Incredible Adventures of Super Panda | 118783 | [118783-the-incredible-adventures-of-super-panda.json](./118783-the-incredible-adventures-of-super-panda.json) |
@@ -15759,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
+| Tiger Woods PGA Tour 06 | 903 | [903-tiger-woods-pga-tour-06.json](./903-tiger-woods-pga-tour-06.json) |
 | Tiger Woods PGA Tour 08 | 5221 | [5221-tiger-woods-pga-tour-08.json](./5221-tiger-woods-pga-tour-08.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
@@ -17821,6 +17825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown Rewritten: Sellbot Task Force | 225810 | [225810-toontown-rewritten-sellbot-task-force.json](./225810-toontown-rewritten-sellbot-task-force.json) |
+| Toontown: Corporate Clash | 139366 | [139366-toontown-corporate-clash.json](./139366-toontown-corporate-clash.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
