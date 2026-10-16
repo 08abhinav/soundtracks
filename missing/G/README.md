@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gah! | 258508 | [258508-gah.json](./258508-gah.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
+| Gaia | 106502 | [106502-gaia.json](./106502-gaia.json) |
 | Gaia | 298270 | [298270-gaia.json](./298270-gaia.json) |
 | Gaia | 385392 | [385392-gaia.json](./385392-gaia.json) |
 | Gaia 2: Ancient Mysteries | 151486 | [151486-gaia-2-ancient-mysteries.json](./151486-gaia-2-ancient-mysteries.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George of the Jungle and the Search for the Secret | 4889 | [4889-george-of-the-jungle-and-the-search-for-the-secret.json](./4889-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
+| George's Memories Ep.1 | 105241 | [105241-georges-memories-ep-1.json](./105241-georges-memories-ep-1.json) |
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
@@ -2734,7 +2736,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters Pinball | 58665 | [58665-ghostbusters-pinball.json](./58665-ghostbusters-pinball.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
+| Ghostbusters VR: Firehouse | 105257 | [105257-ghostbusters-vr-firehouse.json](./105257-ghostbusters-vr-firehouse.json) |
 | Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
+| Ghostbusters VR: Showdown | 105293 | [105293-ghostbusters-vr-showdown.json](./105293-ghostbusters-vr-showdown.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
