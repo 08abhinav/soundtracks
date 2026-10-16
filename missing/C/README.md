@@ -6630,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: Ice Climber | 49258 | [49258-classic-nes-series-ice-climber.json](./49258-classic-nes-series-ice-climber.json) |
 | Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
 | Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
+| Classic NES Series: Super Mario Bros. | 18065 | [18065-classic-nes-series-super-mario-bros.json](./18065-classic-nes-series-super-mario-bros.json) |
 | Classic NES Series: The Legend of Zelda | 18066 | [18066-classic-nes-series-the-legend-of-zelda.json](./18066-classic-nes-series-the-legend-of-zelda.json) |
 | Classic NES Series: Xevious | 49205 | [49205-classic-nes-series-xevious.json](./49205-classic-nes-series-xevious.json) |
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
@@ -11274,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Alien | 88135 | [88135-crazy-alien.json](./88135-crazy-alien.json) |
 | Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
+| Crazy Arcade | 6361 | [6361-crazy-arcade.json](./6361-crazy-arcade.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
