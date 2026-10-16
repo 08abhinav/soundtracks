@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
 | Just a To the Moon Series Beach Episode | 220535 | [220535-just-a-to-the-moon-series-beach-episode.json](./220535-just-a-to-the-moon-series-beach-episode.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
+| Just Act Natural | 148161 | [148161-just-act-natural.json](./148161-just-act-natural.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
 | Just an Ordinary Bike Ride | 403620 | [403620-just-an-ordinary-bike-ride.json](./403620-just-an-ordinary-bike-ride.json) |
@@ -2805,6 +2806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2019 | 103315 | [103315-just-dance-2019.json](./103315-just-dance-2019.json) |
 | Just Dance 2020 | 119256 | [119256-just-dance-2020.json](./119256-just-dance-2020.json) |
+| Just Dance 2021 | 137131 | [137131-just-dance-2021.json](./137131-just-dance-2021.json) |
+| Just Dance 2022 | 152199 | [152199-just-dance-2022.json](./152199-just-dance-2022.json) |
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance 2023 Edition | 250330 | [250330-just-dance-2023-edition.json](./250330-just-dance-2023-edition.json) |
