@@ -7283,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pockie Pirates | 23594 | [23594-pockie-pirates.json](./23594-pockie-pirates.json) |
 | Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
+| Poco | 341844 | [341844-poco.json](./341844-poco.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
 | Poco Loco | 400546 | [400546-poco-loco.json](./400546-poco-loco.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
@@ -7794,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
 | Pokémon Masters | 119156 | [119156-pokemon-masters.json](./119156-pokemon-masters.json) |
+| Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
