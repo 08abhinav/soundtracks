@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
 | ReVeN: XBridge | 33990 | [33990-reven-xbridge.json](./33990-reven-xbridge.json) |
+| Revenaevum | 421835 | [421835-revenaevum.json](./421835-revenaevum.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 26630 | [26630-revenant.json](./26630-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
@@ -6973,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
 | Rogue Earth | 197136 | [197136-rogue-earth.json](./197136-rogue-earth.json) |
 | Rogue Egg: Hatch Hero | 256170 | [256170-rogue-egg-hatch-hero.json](./256170-rogue-egg-hatch-hero.json) |
+| Rogue Elements | 421800 | [421800-rogue-elements.json](./421800-rogue-elements.json) |
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
