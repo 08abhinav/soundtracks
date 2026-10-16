@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus Six Sixty Six | 81119 | [81119-icarus-six-sixty-six.json](./81119-icarus-six-sixty-six.json) |
+| Icarus Starship Command Simulator | 28799 | [28799-icarus-starship-command-simulator.json](./28799-icarus-starship-command-simulator.json) |
 | Icarus-X | 341074 | [341074-icarus-x.json](./341074-icarus-x.json) |
 | Icarus: Alien Vanguard | 140513 | [140513-icarus-alien-vanguard.json](./140513-icarus-alien-vanguard.json) |
 | Icarus: Arcticus Outpost | 266826 | [266826-icarus-arcticus-outpost.json](./266826-icarus-arcticus-outpost.json) |
