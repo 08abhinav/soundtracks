@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
+| Leaves: The Return | 30064 | [30064-leaves-the-return.json](./30064-leaves-the-return.json) |
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotwick Hill | 422109 | [422109-lotwick-hill.json](./422109-lotwick-hill.json) |
 | Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
+| Loud on Planet X | 19849 | [19849-loud-on-planet-x.json](./19849-loud-on-planet-x.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
