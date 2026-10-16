@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Caravan | 147830 | [147830-pako-caravan.json](./147830-pako-caravan.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
+| Pako: Car Chase Simulator | 30406 | [30406-pako-car-chase-simulator.json](./30406-pako-car-chase-simulator.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
@@ -11212,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
+| Project Zero 2: Wii Edition | 14409 | [14409-project-zero-2-wii-edition.json](./14409-project-zero-2-wii-edition.json) |
 | Project Zeta | 333777 | [333777-project-zeta.json](./333777-project-zeta.json) |
 | Project ZipZap | 341443 | [341443-project-zipzap.json](./341443-project-zipzap.json) |
 | Project Zircon | 416136 | [416136-project-zircon.json](./416136-project-zircon.json) |
@@ -12695,6 +12697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
+| Puzzle Puppers | 29812 | [29812-puzzle-puppers.json](./29812-puzzle-puppers.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest 3 | 142769 | [142769-puzzle-quest-3.json](./142769-puzzle-quest-3.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
