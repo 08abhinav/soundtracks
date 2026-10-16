@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
+| FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
@@ -3086,11 +3087,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 10 | 240332 | [240332-fifa-soccer-10.json](./240332-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240333 | [240333-fifa-soccer-10.json](./240333-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240334 | [240334-fifa-soccer-10.json](./240334-fifa-soccer-10.json) |
+| FIFA Soccer 10 | 240335 | [240335-fifa-soccer-10.json](./240335-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240336 | [240336-fifa-soccer-10.json](./240336-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 3133 | [3133-fifa-soccer-10.json](./3133-fifa-soccer-10.json) |
 | FIFA Soccer 11 | 240380 | [240380-fifa-soccer-11.json](./240380-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 240381 | [240381-fifa-soccer-11.json](./240381-fifa-soccer-11.json) |
+| FIFA Soccer 11 | 240383 | [240383-fifa-soccer-11.json](./240383-fifa-soccer-11.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
+| FIFA Soccer 12 | 240390 | [240390-fifa-soccer-12.json](./240390-fifa-soccer-12.json) |
 | FIFA Soccer 12 | 2946 | [2946-fifa-soccer-12.json](./2946-fifa-soccer-12.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
@@ -3117,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
+| FIFA Street 2 | 240364 | [240364-fifa-street-2.json](./240364-fifa-street-2.json) |
 | FIFA Street 2 | 240365 | [240365-fifa-street-2.json](./240365-fifa-street-2.json) |
 | FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
 | FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
@@ -4792,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing feat. Hatsune Miku | 266725 | [266725-fitness-boxing-feat-hatsune-miku.json](./266725-fitness-boxing-feat-hatsune-miku.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
+| Fitness Circuit | 241103 | [241103-fitness-circuit.json](./241103-fitness-circuit.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
 | Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
