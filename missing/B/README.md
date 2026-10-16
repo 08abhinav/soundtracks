@@ -7642,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Knot | 150578 | [150578-blood-knot.json](./150578-blood-knot.json) |
 | Blood Labs | 155862 | [155862-blood-labs.json](./155862-blood-labs.json) |
+| Blood Lily Cthulhu Mythos | 419313 | [419313-blood-lily-cthulhu-mythos.json](./419313-blood-lily-cthulhu-mythos.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
@@ -12107,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny & Piggy | 30692 | [30692-bunny-and-piggy.json](./30692-bunny-and-piggy.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
+| Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
