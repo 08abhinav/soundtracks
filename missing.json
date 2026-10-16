@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:05:10.813Z",
-  "total_missing": 218220,
+  "generated_at": "2026-10-16T06:15:07.174Z",
+  "total_missing": 218200,
   "games": [
     {
       "igdb_id": 191680,
@@ -26117,11 +26117,6 @@
       "file": "missing/A/121493-against-the-moon.json"
     },
     {
-      "igdb_id": 147519,
-      "game_name": "Against the Storm",
-      "file": "missing/A/147519-against-the-storm.json"
-    },
-    {
       "igdb_id": 315116,
       "game_name": "Against the Storm: Keepers of the Stone",
       "file": "missing/A/315116-against-the-storm-keepers-of-the-stone.json"
@@ -38125,11 +38120,6 @@
       "igdb_id": 98030,
       "game_name": "Alto: Ingyaku Meikyu no Himemiko",
       "file": "missing/A/98030-alto-ingyaku-meikyu-no-himemiko.json"
-    },
-    {
-      "igdb_id": 18130,
-      "game_name": "Alto's Adventure",
-      "file": "missing/A/18130-altos-adventure.json"
     },
     {
       "igdb_id": 147451,
@@ -59342,11 +59332,6 @@
       "file": "missing/A/996-army-of-two.json"
     },
     {
-      "igdb_id": 1832,
-      "game_name": "Army of Two: The Devil's Cartel",
-      "file": "missing/A/1832-army-of-two-the-devils-cartel.json"
-    },
-    {
       "igdb_id": 52426,
       "game_name": "Army Racer",
       "file": "missing/A/52426-army-racer.json"
@@ -63040,11 +63025,6 @@
       "igdb_id": 241431,
       "game_name": "Assassin's Creed Odyssey: The Lost Tales of Greece",
       "file": "missing/A/241431-assassins-creed-odyssey-the-lost-tales-of-greece.json"
-    },
-    {
-      "igdb_id": 17783,
-      "game_name": "Assassin's Creed Origins: The Curse of the Pharaohs",
-      "file": "missing/A/17783-assassins-creed-origins-the-curse-of-the-pharaohs.json"
     },
     {
       "igdb_id": 22964,
@@ -83357,11 +83337,6 @@
       "file": "missing/B/378351-baroque-become-a-meta-being-revive.json"
     },
     {
-      "igdb_id": 27344,
-      "game_name": "Barotrauma",
-      "file": "missing/B/27344-barotrauma.json"
-    },
-    {
       "igdb_id": 348291,
       "game_name": "Barotrauma: Home & Harbor",
       "file": "missing/B/348291-barotrauma-home-and-harbor.json"
@@ -94485,11 +94460,6 @@
       "igdb_id": 342609,
       "game_name": "Behind the Curtain",
       "file": "missing/B/342609-behind-the-curtain.json"
-    },
-    {
-      "igdb_id": 148499,
-      "game_name": "Behind the Frame: The Finest Scenery",
-      "file": "missing/B/148499-behind-the-frame-the-finest-scenery.json"
     },
     {
       "igdb_id": 203690,
@@ -194367,11 +194337,6 @@
       "file": "missing/C/58706-creak-creak.json"
     },
     {
-      "igdb_id": 110834,
-      "game_name": "Creaks",
-      "file": "missing/C/110834-creaks.json"
-    },
-    {
       "igdb_id": 154553,
       "game_name": "Creaks: Collector's Edition",
       "file": "missing/C/154553-creaks-collectors-edition.json"
@@ -252202,11 +252167,6 @@
       "file": "missing/D/201182-doom-4-for-doom.json"
     },
     {
-      "igdb_id": 224522,
-      "game_name": "Doom 64",
-      "file": "missing/D/224522-doom-64.json"
-    },
-    {
       "igdb_id": 201106,
       "game_name": "Doom 64 for Doom II",
       "file": "missing/D/201106-doom-64-for-doom-ii.json"
@@ -292590,11 +292550,6 @@
       "igdb_id": 171347,
       "game_name": "Escape the Ayuwoki: The Summoning",
       "file": "missing/E/171347-escape-the-ayuwoki-the-summoning.json"
-    },
-    {
-      "igdb_id": 197202,
-      "game_name": "Escape the Backrooms",
-      "file": "missing/E/197202-escape-the-backrooms.json"
     },
     {
       "igdb_id": 360006,
@@ -371477,11 +371432,6 @@
       "file": "missing/G/420579-god-of-war-laufey-digital-deluxe-edition.json"
     },
     {
-      "igdb_id": 279623,
-      "game_name": "God of War Ragnarök: Valhalla",
-      "file": "missing/G/279623-god-of-war-ragnarok-valhalla.json"
-    },
-    {
       "igdb_id": 389450,
       "game_name": "God of War Remake",
       "file": "missing/G/389450-god-of-war-remake.json"
@@ -424377,11 +424327,6 @@
       "file": "missing/H/170427-horizon-chase-turbo-summer-vibes.json"
     },
     {
-      "igdb_id": 228533,
-      "game_name": "Horizon Forbidden West: Burning Shores",
-      "file": "missing/H/228533-horizon-forbidden-west-burning-shores.json"
-    },
-    {
       "igdb_id": 170034,
       "game_name": "Horizon Forbidden West: Collector's Edition",
       "file": "missing/H/170034-horizon-forbidden-west-collectors-edition.json"
@@ -471220,11 +471165,6 @@
       "igdb_id": 10531,
       "game_name": "Jurassic Park: Builder",
       "file": "missing/J/10531-jurassic-park-builder.json"
-    },
-    {
-      "igdb_id": 5871,
-      "game_name": "Jurassic Park: Operation Genesis",
-      "file": "missing/J/5871-jurassic-park-operation-genesis.json"
     },
     {
       "igdb_id": 10678,
@@ -554077,11 +554017,6 @@
       "file": "missing/M/51836-medal-of-honor-allied-assault-war-chest.json"
     },
     {
-      "igdb_id": 1311,
-      "game_name": "Medal of Honor: European Assault",
-      "file": "missing/M/1311-medal-of-honor-european-assault.json"
-    },
-    {
       "igdb_id": 1312,
       "game_name": "Medal of Honor: Heroes",
       "file": "missing/M/1312-medal-of-honor-heroes.json"
@@ -592295,11 +592230,6 @@
       "igdb_id": 237261,
       "game_name": "Move On",
       "file": "missing/M/237261-move-on.json"
-    },
-    {
-      "igdb_id": 17012,
-      "game_name": "Move or Die",
-      "file": "missing/M/17012-move-or-die.json"
     },
     {
       "igdb_id": 209130,
@@ -792382,11 +792312,6 @@
       "file": "missing/S/8864-shadowrun-dragonfall-directors-cut.json"
     },
     {
-      "igdb_id": 11772,
-      "game_name": "Shadowrun: Hong Kong",
-      "file": "missing/S/11772-shadowrun-hong-kong.json"
-    },
-    {
       "igdb_id": 35842,
       "game_name": "Shadowrun: Hong Kong - Extended Edition",
       "file": "missing/S/35842-shadowrun-hong-kong-extended-edition.json"
@@ -863432,11 +863357,6 @@
       "file": "missing/S/273871-stranger-in-utopia.json"
     },
     {
-      "igdb_id": 152250,
-      "game_name": "Stranger of Paradise: Final Fantasy Origin",
-      "file": "missing/S/152250-stranger-of-paradise-final-fantasy-origin.json"
-    },
-    {
       "igdb_id": 201028,
       "game_name": "Stranger of Paradise: Final Fantasy Origin - Collector's Edition",
       "file": "missing/S/201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json"
@@ -865747,11 +865667,6 @@
       "file": "missing/S/126045-streets-of-red-devils-dare.json"
     },
     {
-      "igdb_id": 23275,
-      "game_name": "Streets of Rogue",
-      "file": "missing/S/23275-streets-of-rogue.json"
-    },
-    {
       "igdb_id": 220205,
       "game_name": "Streets of Rogue 2",
       "file": "missing/S/220205-streets-of-rogue-2.json"
@@ -867770,11 +867685,6 @@
       "igdb_id": 371136,
       "game_name": "Styx: Final Shores",
       "file": "missing/S/371136-styx-final-shores.json"
-    },
-    {
-      "igdb_id": 13554,
-      "game_name": "Styx: Shards of Darkness",
-      "file": "missing/S/13554-styx-shards-of-darkness.json"
     },
     {
       "igdb_id": 27532,
@@ -1031342,11 +1031252,6 @@
       "file": "missing/V/46482-vintage-hero.json"
     },
     {
-      "igdb_id": 69547,
-      "game_name": "Vintage Story",
-      "file": "missing/V/69547-vintage-story.json"
-    },
-    {
       "igdb_id": 32749,
       "game_name": "Vintage VR",
       "file": "missing/V/32749-vintage-vr.json"
@@ -1042650,11 +1042555,6 @@
       "igdb_id": 291151,
       "game_name": "Wargle",
       "file": "missing/W/291151-wargle.json"
-    },
-    {
-      "igdb_id": 27441,
-      "game_name": "Wargroove",
-      "file": "missing/W/27441-wargroove.json"
     },
     {
       "igdb_id": 273304,
