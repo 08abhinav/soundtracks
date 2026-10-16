@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7: Biohazard - Gold Edition | 57692 | [57692-resident-evil-7-biohazard-gold-edition.json](./57692-resident-evil-7-biohazard-gold-edition.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
+| Resident Evil 7: Biohazard - Season Pass | 75449 | [75449-resident-evil-7-biohazard-season-pass.json](./75449-resident-evil-7-biohazard-season-pass.json) |
 | Resident Evil 7: Biohazard - Steelbook Edition | 41857 | [41857-resident-evil-7-biohazard-steelbook-edition.json](./41857-resident-evil-7-biohazard-steelbook-edition.json) |
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Archives: Resident Evil Zero | 23251 | [23251-resident-evil-archives-resident-evil-zero.json](./23251-resident-evil-archives-resident-evil-zero.json) |
