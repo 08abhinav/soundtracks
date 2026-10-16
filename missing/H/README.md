@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
+| Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Runner | 359929 | [359929-happy-runner.json](./359929-happy-runner.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
