@@ -6337,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
 | Black Pellet | 377784 | [377784-black-pellet.json](./377784-black-pellet.json) |
+| Black Pencil | 417944 | [417944-black-pencil.json](./417944-black-pencil.json) |
 | Black Penguin | 92958 | [92958-black-penguin.json](./92958-black-penguin.json) |
 | Black Pieces Move First | 360695 | [360695-black-pieces-move-first.json](./360695-black-pieces-move-first.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
@@ -6648,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
+| Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
 | Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
@@ -8052,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angels: Formation Flight Simulation | 11971 | [11971-blue-angels-formation-flight-simulation.json](./11971-blue-angels-formation-flight-simulation.json) |
 | Blue Angels: Ready, Break! | 110207 | [110207-blue-angels-ready-break.json](./110207-blue-angels-ready-break.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
+| Blue Archive: Volume 3 - Eden Treaty | 417991 | [417991-blue-archive-volume-3-eden-treaty.json](./417991-blue-archive-volume-3-eden-treaty.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
@@ -12495,6 +12498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
+| Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
