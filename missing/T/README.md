@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' Nightmare | 278076 | [278076-tails-nightmare.json](./278076-tails-nightmare.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | Tails' Picross | 321400 | [321400-tails-picross.json](./321400-tails-picross.json) |
+| Tails' Skypatrol | 45796 | [45796-tails-skypatrol.json](./45796-tails-skypatrol.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
 | Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
+| The Fancy Pants Adventures | 51634 | [51634-the-fancy-pants-adventures.json](./51634-the-fancy-pants-adventures.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
 | The Fancy Pants Adventures: Classic Pack | 158417 | [158417-the-fancy-pants-adventures-classic-pack.json](./158417-the-fancy-pants-adventures-classic-pack.json) |
 | The Fancy Pants Adventures: World 1 | 66010 | [66010-the-fancy-pants-adventures-world-1.json](./66010-the-fancy-pants-adventures-world-1.json) |
@@ -8667,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Zero no Kiseki Evolution | 136756 | [136756-the-legend-of-heroes-zero-no-kiseki-evolution.json](./136756-the-legend-of-heroes-zero-no-kiseki-evolution.json) |
 | The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
+| The Legend of Kage | 39152 | [39152-the-legend-of-kage.json](./39152-the-legend-of-kage.json) |
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
@@ -9448,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marvelous Misadventures of Flapjack: Bottle Cap'n | 259724 | [259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json](./259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json) |
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
+| The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
 | The Mask of the Sun | 125298 | [125298-the-mask-of-the-sun.json](./125298-the-mask-of-the-sun.json) |
@@ -10389,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
 | The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
+| The Playroom VR | 25263 | [25263-the-playroom-vr.json](./25263-the-playroom-vr.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
@@ -13533,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
+| TheHunter Classic | 23636 | [23636-thehunter-classic.json](./23636-thehunter-classic.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
 | TheHunter: Call of the Wild - 2021 Edition | 140946 | [140946-thehunter-call-of-the-wild-2021-edition.json](./140946-thehunter-call-of-the-wild-2021-edition.json) |
 | TheHunter: Call of the Wild - Ambusher Pack | 272290 | [272290-thehunter-call-of-the-wild-ambusher-pack.json](./272290-thehunter-call-of-the-wild-ambusher-pack.json) |
@@ -16553,6 +16559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
+| TIS-100 | 22726 | [22726-tis-100.json](./22726-tis-100.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
 | Tisnart Shapes | 93752 | [93752-tisnart-shapes.json](./93752-tisnart-shapes.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
