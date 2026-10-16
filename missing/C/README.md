@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2015: Gold Edition | 24753 | [24753-car-mechanic-simulator-2015-gold-edition.json](./24753-car-mechanic-simulator-2015-gold-edition.json) |
+| Car Mechanic Simulator 2018 | 40470 | [40470-car-mechanic-simulator-2018.json](./40470-car-mechanic-simulator-2018.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
@@ -8761,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
+| Commandos: Strike Force | 275 | [275-commandos-strike-force.json](./275-commandos-strike-force.json) |
 | Commands & Colors: Ancients | 105485 | [105485-commands-and-colors-ancients.json](./105485-commands-and-colors-ancients.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
@@ -8849,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
 | Company of Heroes: Modern Combat | 127895 | [127895-company-of-heroes-modern-combat.json](./127895-company-of-heroes-modern-combat.json) |
+| Company of Heroes: Tales of Valor | 1371 | [1371-company-of-heroes-tales-of-valor.json](./1371-company-of-heroes-tales-of-valor.json) |
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
@@ -12935,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
+| Cube Escape: The Lake | 75124 | [75124-cube-escape-the-lake.json](./75124-cube-escape-the-lake.json) |
 | Cube Escape: The Mill | 75128 | [75128-cube-escape-the-mill.json](./75128-cube-escape-the-mill.json) |
 | Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
 | Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
