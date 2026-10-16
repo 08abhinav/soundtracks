@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reburning Meteorite | 320806 | [320806-reburning-meteorite.json](./320806-reburning-meteorite.json) |
 | Rebut! | 389003 | [389003-rebut.json](./389003-rebut.json) |
 | Rec | 322669 | [322669-rec.json](./322669-rec.json) |
+| Rec Center Tycoon | 28694 | [28694-rec-center-tycoon.json](./28694-rec-center-tycoon.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
@@ -6293,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Lawn Mower | 242971 | [242971-robot-lawn-mower.json](./242971-robot-lawn-mower.json) |
 | Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
+| Robot Master | 28788 | [28788-robot-master.json](./28788-robot-master.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Multitool | 293868 | [293868-robot-multitool.json](./293868-robot-multitool.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
