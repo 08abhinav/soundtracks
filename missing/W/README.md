@@ -5889,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
+| World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
@@ -6295,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
+| WRC Powerslide | 19972 | [19972-wrc-powerslide.json](./19972-wrc-powerslide.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
 | WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
