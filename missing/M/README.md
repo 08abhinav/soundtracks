@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong-e: Key to the Key | 352407 | [352407-mario-vs-donkey-kong-e-key-to-the-key.json](./352407-mario-vs-donkey-kong-e-key-to-the-key.json) |
 | Mario vs. Donkey Kong-e: Later Gator | 352403 | [352403-mario-vs-donkey-kong-e-later-gator.json](./352403-mario-vs-donkey-kong-e-later-gator.json) |
 | Mario vs. Donkey Kong-e: Revenge | 352401 | [352401-mario-vs-donkey-kong-e-revenge.json](./352401-mario-vs-donkey-kong-e-revenge.json) |
+| Mario vs. Donkey Kong: Minis March Again! | 48032 | [48032-mario-vs-donkey-kong-minis-march-again.json](./48032-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario vs. Donkey Kong: Tipping Stars | 8594 | [8594-mario-vs-donkey-kong-tipping-stars.json](./8594-mario-vs-donkey-kong-tipping-stars.json) |
 | Mario vs. Luigi Reloaded | 294793 | [294793-mario-vs-luigi-reloaded.json](./294793-mario-vs-luigi-reloaded.json) |
 | Mario vs. Obama! | 315045 | [315045-mario-vs-obama.json](./315045-mario-vs-obama.json) |
