@@ -4327,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
+| HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
