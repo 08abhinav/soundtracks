@@ -9527,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
+| Doubloon Trouble | 421802 | [421802-doubloon-trouble.json](./421802-doubloon-trouble.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
