@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
 | Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Assault Squad 2 - Cold War | 121565 | [121565-men-of-war-assault-squad-2-cold-war.json](./121565-men-of-war-assault-squad-2-cold-war.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men of War: Condemned Heroes | 10546 | [10546-men-of-war-condemned-heroes.json](./10546-men-of-war-condemned-heroes.json) |
+| Men of War: Red Tide | 8387 | [8387-men-of-war-red-tide.json](./8387-men-of-war-red-tide.json) |
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
 | Men of War: Vietnam - Special Edition | 51835 | [51835-men-of-war-vietnam-special-edition.json](./51835-men-of-war-vietnam-special-edition.json) |
 | Men on the Flying Trapeze | 250217 | [250217-men-on-the-flying-trapeze.json](./250217-men-on-the-flying-trapeze.json) |
@@ -7247,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines | 250474 | [250474-micro-machines.json](./250474-micro-machines.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
+| Micro Machines 64 Turbo | 8497 | [8497-micro-machines-64-turbo.json](./8497-micro-machines-64-turbo.json) |
 | Micro Machines Mobile | 111552 | [111552-micro-machines-mobile.json](./111552-micro-machines-mobile.json) |
 | Micro Machines V3 | 249154 | [249154-micro-machines-v3.json](./249154-micro-machines-v3.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
