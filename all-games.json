@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:34:44.381Z",
-  "total_soundtracks": 1944,
+  "generated_at": "2026-10-16T19:35:57.403Z",
+  "total_soundtracks": 1945,
   "games": [
     {
       "igdb_id": 7522,
@@ -17357,6 +17357,20 @@
         {
           "album_name": "Solasta: Crown of the Magister (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0fS2DRH840UZy8xj7Gira6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8722,
+      "game_name": "Soldat",
+      "game_url": "https://ostdb.net/games/soldat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a541138b537203174477e216",
+      "albums": [
+        {
+          "album_name": "Soldat (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/474tAlzDZOi49nZosTKOf4",
           "apple_music_url": "",
           "album_link_url": ""
         }
