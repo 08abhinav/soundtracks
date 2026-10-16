@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:46:31.447Z",
-  "total_soundtracks": 1919,
+  "generated_at": "2026-10-16T14:46:47.052Z",
+  "total_soundtracks": 1920,
   "games": [
     {
       "igdb_id": 7522,
@@ -13029,6 +13029,20 @@
         {
           "album_name": "My Time at Portia (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7qAGiWdfuT9l0PR0YfX9PF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 140427,
+      "game_name": "My Time at Sandrock",
+      "game_url": "https://ostdb.net/games/my-time-at-sandrock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cacaee1e2d7134355ec57d88",
+      "albums": [
+        {
+          "album_name": "My Time at Sandrock (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Y0EqA4Y65ntD55oMapRws",
           "apple_music_url": "",
           "album_link_url": ""
         }
