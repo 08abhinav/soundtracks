@@ -4192,7 +4192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
-| The Artful Escape | 25935 | [25935-the-artful-escape.json](./25935-the-artful-escape.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
