@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
+| Table Top Racing: World Tour - Nitro Edition | 117288 | [117288-table-top-racing-world-tour-nitro-edition.json](./117288-table-top-racing-world-tour-nitro-edition.json) |
 | Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Love and Care: A Leorio Dating Sim! | 178531 | [178531-tender-love-and-care-a-leorio-dating-sim.json](./178531-tender-love-and-care-a-leorio-dating-sim.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tender: Creature Comforts | 146098 | [146098-tender-creature-comforts.json](./146098-tender-creature-comforts.json) |
+| Tenderfoot Tactics | 117395 | [117395-tenderfoot-tactics.json](./117395-tenderfoot-tactics.json) |
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
@@ -10853,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Space Cadet Adventures | 48971 | [48971-the-ren-and-stimpy-show-space-cadet-adventures.json](./48971-the-ren-and-stimpy-show-space-cadet-adventures.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renegades of Orion 2.0 | 33727 | [33727-the-renegades-of-orion-2-0.json](./33727-the-renegades-of-orion-2-0.json) |
+| The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
@@ -10861,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Republia Times | 134491 | [134491-the-republia-times.json](./134491-the-republia-times.json) |
 | The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
+| The Rescue of Mermaids | 118051 | [118051-the-rescue-of-mermaids.json](./118051-the-rescue-of-mermaids.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
@@ -11872,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
+| The Sorrowvirus: A Faceless Short Story | 115716 | [115716-the-sorrowvirus-a-faceless-short-story.json](./115716-the-sorrowvirus-a-faceless-short-story.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
 | The Soukou Kihei Gun Ground | 47837 | [47837-the-soukou-kihei-gun-ground.json](./47837-the-soukou-kihei-gun-ground.json) |
 | The Soul Box | 190135 | [190135-the-soul-box.json](./190135-the-soul-box.json) |
@@ -18346,6 +18351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Rise of the Tomb Kings | 81191 | [81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json](./81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json) |
 | Total War: Warhammer II - Serpent God Edition | 9759 | [9759-total-war-warhammer-ii-serpent-god-edition.json](./9759-total-war-warhammer-ii-serpent-god-edition.json) |
 | Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
+| Total War: Warhammer II - The Prophet & The Warlock | 117146 | [117146-total-war-warhammer-ii-the-prophet-and-the-warlock.json](./117146-total-war-warhammer-ii-the-prophet-and-the-warlock.json) |
 | Total War: Warhammer II - The Queen & The Crone | 167632 | [167632-total-war-warhammer-ii-the-queen-and-the-crone.json](./167632-total-war-warhammer-ii-the-queen-and-the-crone.json) |
 | Total War: Warhammer II - The Shadow & The Blade | 167630 | [167630-total-war-warhammer-ii-the-shadow-and-the-blade.json](./167630-total-war-warhammer-ii-the-shadow-and-the-blade.json) |
 | Total War: Warhammer II - The Silence & The Fury | 154996 | [154996-total-war-warhammer-ii-the-silence-and-the-fury.json](./154996-total-war-warhammer-ii-the-silence-and-the-fury.json) |
@@ -21519,6 +21525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribe War | 211122 | [211122-tribe-war.json](./211122-tribe-war.json) |
+| Tribe: Primitive Builder | 118137 | [118137-tribe-primitive-builder.json](./118137-tribe-primitive-builder.json) |
 | Tribefort | 242428 | [242428-tribefort.json](./242428-tribefort.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
