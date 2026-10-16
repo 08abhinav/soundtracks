@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
+| Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Adventures: Africa | 51135 | [51135-safari-adventures-africa.json](./51135-safari-adventures-africa.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shankstars | 223605 | [223605-shankstars.json](./223605-shankstars.json) |
 | Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
 | Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
+| Shannon Tweed's Attack of the Groupies | 36382 | [36382-shannon-tweeds-attack-of-the-groupies.json](./36382-shannon-tweeds-attack-of-the-groupies.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
@@ -11311,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solarflare | 405051 | [405051-solarflare.json](./405051-solarflare.json) |
 | Solargene | 149928 | [149928-solargene.json](./149928-solargene.json) |
+| Solaria Moon | 37395 | [37395-solaria-moon.json](./37395-solaria-moon.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
@@ -13771,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
+| Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
@@ -17940,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
+| Static: Investigator Training | 35671 | [35671-static-investigator-training.json](./35671-static-investigator-training.json) |
 | Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
 | Statik | 169678 | [169678-statik.json](./169678-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
@@ -20408,6 +20413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
+| Sudden Strike Gold | 36717 | [36717-sudden-strike-gold.json](./36717-sudden-strike-gold.json) |
 | Sudden Strike Normandy | 53681 | [53681-sudden-strike-normandy.json](./53681-sudden-strike-normandy.json) |
 | Sudden Strike Trilogy | 53682 | [53682-sudden-strike-trilogy.json](./53682-sudden-strike-trilogy.json) |
 | Sudden Strike: Forever | 81471 | [81471-sudden-strike-forever.json](./81471-sudden-strike-forever.json) |
