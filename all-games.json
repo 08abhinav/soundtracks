@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:36:12.541Z",
-  "total_soundtracks": 1766,
+  "generated_at": "2026-10-16T05:36:27.688Z",
+  "total_soundtracks": 1767,
   "games": [
     {
       "igdb_id": 7522,
@@ -2353,6 +2353,20 @@
           "spotify_url": "https://music.apple.com/us/album/blades-of-fire-soundtrack/1817492580?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1817492580"
+        }
+      ]
+    },
+    {
+      "igdb_id": 6918,
+      "game_name": "Blades of Time",
+      "game_url": "https://ostdb.net/games/blades-of-time",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736fe0d1929e031945104fbecf",
+      "albums": [
+        {
+          "album_name": "Blades Of TIme (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2gz0luIVjxp5W6Y2oSwVEJ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
