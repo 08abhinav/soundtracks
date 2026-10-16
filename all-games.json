@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:01:43.815Z",
-  "total_soundtracks": 1703,
+  "generated_at": "2026-10-16T05:01:55.816Z",
+  "total_soundtracks": 1704,
   "games": [
     {
       "igdb_id": 7522,
@@ -6100,6 +6100,20 @@
           "album_name": "Far Cry 5 Presents: We Will Rise Again (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4Gxql1kKRbHfHZnqrBGuAz",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 90083,
+      "game_name": "Far Cry 5: Hours of Darkness",
+      "game_url": "https://ostdb.net/games/far-cry-5-hours-of-darkness",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733fc2416788c7a51966321c89",
+      "albums": [
+        {
+          "album_name": "Far Cry 5: Hours of Darkness (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6x5bueHY5akkjDal3BgtLL",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
