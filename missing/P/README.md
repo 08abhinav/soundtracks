@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain of War | 74987 | [74987-pain-of-war.json](./74987-pain-of-war.json) |
 | Pain Party | 164077 | [164077-pain-party.json](./164077-pain-party.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
+| Pain Train 2 | 29262 | [29262-pain-train-2.json](./29262-pain-train-2.json) |
 | Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
 | Pain-T | 361288 | [361288-pain-t.json](./361288-pain-t.json) |
 | Pain: Amusement Park | 21685 | [21685-pain-amusement-park.json](./21685-pain-amusement-park.json) |
@@ -8353,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
+| Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
 | Poly and the Marble Maze | 109414 | [109414-poly-and-the-marble-maze.json](./109414-poly-and-the-marble-maze.json) |
