@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:42:18.639Z",
-  "total_soundtracks": 1775,
+  "generated_at": "2026-10-16T05:42:32.555Z",
+  "total_soundtracks": 1776,
   "games": [
     {
       "igdb_id": 7522,
@@ -9383,6 +9383,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/indivisible-original-game-soundtrack/1634052841?uo=4",
           "album_link_url": "https://album.link/i/1634052841"
+        }
+      ]
+    },
+    {
+      "igdb_id": 128948,
+      "game_name": "Industria",
+      "game_url": "https://ostdb.net/games/industria",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730e1cb69194da267436baf4d0",
+      "albums": [
+        {
+          "album_name": "Industria (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4lN8xS6Z5J7KKNDIbFyQ7Z",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
