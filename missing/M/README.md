@@ -7347,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Bubble | 336071 | [336071-microsoft-bubble.json](./336071-microsoft-bubble.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
+| Microsoft Combat Flight Simulator 2: WWII Pacific Theater | 644 | [644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json](./644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json) |
 | Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 36536 | [36536-microsoft-combat-flight-simulator-wwii-europe-series.json](./36536-microsoft-combat-flight-simulator-wwii-europe-series.json) |
