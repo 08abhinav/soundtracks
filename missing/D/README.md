@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
+| Deemo: Reborn | 74540 | [74540-deemo-reborn.json](./74540-deemo-reborn.json) |
 | Deemo: Reborn - Aioi Collection | 356573 | [356573-deemo-reborn-aioi-collection.json](./356573-deemo-reborn-aioi-collection.json) |
 | Deemo: Reborn - Classic Song Packs Season Pass | 356587 | [356587-deemo-reborn-classic-song-packs-season-pass.json](./356587-deemo-reborn-classic-song-packs-season-pass.json) |
 | Deemo: Reborn - Cytus Selection vol.1 | 356574 | [356574-deemo-reborn-cytus-selection-vol-1.json](./356574-deemo-reborn-cytus-selection-vol-1.json) |
@@ -4751,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Derringer | 230213 | [230213-derringer.json](./230213-derringer.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
+| Deru: The Art of Cooperation | 68702 | [68702-deru-the-art-of-cooperation.json](./68702-deru-the-art-of-cooperation.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Des Chiffres et des Lettres | 69743 | [69743-des-chiffres-et-des-lettres.json](./69743-des-chiffres-et-des-lettres.json) |
@@ -8271,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Renaissance | 191098 | [191098-dominion-renaissance.json](./191098-dominion-renaissance.json) |
 | Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
+| Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
@@ -12790,6 +12793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hot | 91144 | [91144-dunk-hot.json](./91144-dunk-hot.json) |
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
+| Dunk Lords | 69481 | [69481-dunk-lords.json](./69481-dunk-lords.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
