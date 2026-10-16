@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
 | Sams | 112468 | [112468-sams.json](./112468-sams.json) |
+| Samsa and the Knights of Light | 35216 | [35216-samsa-and-the-knights-of-light.json](./35216-samsa-and-the-knights-of-light.json) |
 | Samsara | 143042 | [143042-samsara.json](./143042-samsara.json) |
 | Samsara | 163763 | [163763-samsara.json](./163763-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
+| Scarab Tales | 35273 | [35273-scarab-tales.json](./35273-scarab-tales.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
@@ -2362,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of Viscerus | 261182 | [261182-scourge-of-viscerus.json](./261182-scourge-of-viscerus.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
 | Scourge of War: Remastered | 278377 | [278377-scourge-of-war-remastered.json](./278377-scourge-of-war-remastered.json) |
+| Scourge of War: Waterloo | 35263 | [35263-scourge-of-war-waterloo.json](./35263-scourge-of-war-waterloo.json) |
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
@@ -3015,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
+| Season of 12 Colors | 35234 | [35234-season-of-12-colors.json](./35234-season-of-12-colors.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
@@ -14112,6 +14116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
+| Spaceforce Rogue Universe HD | 35202 | [35202-spaceforce-rogue-universe-hd.json](./35202-spaceforce-rogue-universe-hd.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | SpaceForce: Rogue Universe | 84145 | [84145-spaceforce-rogue-universe.json](./84145-spaceforce-rogue-universe.json) |
 | SpaceFrog VR | 113844 | [113844-spacefrog-vr.json](./113844-spacefrog-vr.json) |
@@ -17809,6 +17814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
 | Starship Kingdom | 73732 | [73732-starship-kingdom.json](./73732-starship-kingdom.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
+| Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
@@ -23569,6 +23575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Archery | 358829 | [358829-superstar-archery.json](./358829-superstar-archery.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
+| Superstar Dance Club | 35028 | [35028-superstar-dance-club.json](./35028-superstar-dance-club.json) |
 | Superstar DJ | 232353 | [232353-superstar-dj.json](./232353-superstar-dj.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | SuperStar GFriend | 137886 | [137886-superstar-gfriend.json](./137886-superstar-gfriend.json) |
