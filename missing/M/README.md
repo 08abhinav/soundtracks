@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex | 188356 | [188356-mad-dex.json](./188356-mad-dex.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
+| Mad Digger | 76585 | [76585-mad-digger.json](./76585-mad-digger.json) |
 | Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
 | Mad Dojo | 29627 | [29627-mad-dojo.json](./29627-mad-dojo.json) |
@@ -4575,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meandering Fiend | 126988 | [126988-meandering-fiend.json](./126988-meandering-fiend.json) |
+| Meanders | 76538 | [76538-meanders.json](./76538-meanders.json) |
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
 | Meaning | 297554 | [297554-meaning.json](./297554-meaning.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
@@ -8561,6 +8563,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 7: Access Denied | 127055 | [127055-minecraft-story-mode-episode-7-access-denied.json](./127055-minecraft-story-mode-episode-7-access-denied.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
+| Minecraft: Story Mode Season Two - Episode 2: Giant Consequences | 81099 | [81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json](./81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json) |
+| Minecraft: Story Mode Season Two - Episode 3: Jailhouse Block | 81098 | [81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json](./81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json) |
+| Minecraft: Story Mode Season Two - Episode 4: Below the Bedrock | 81097 | [81097-minecraft-story-mode-season-two-episode-4-below-the-bedrock.json](./81097-minecraft-story-mode-season-two-episode-4-below-the-bedrock.json) |
+| Minecraft: Story Mode Season Two - Episode 5: Above and Beyond | 81096 | [81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json](./81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json) |
 | Minecraft: Summer of Arcade Skin Pack | 254395 | [254395-minecraft-summer-of-arcade-skin-pack.json](./254395-minecraft-summer-of-arcade-skin-pack.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
@@ -10165,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
+| Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
