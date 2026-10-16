@@ -10115,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Witches Excellent | 410953 | [410953-princess-witches-excellent.json](./410953-princess-witches-excellent.json) |
 | Princess x Audience | 291706 | [291706-princess-x-audience.json](./291706-princess-x-audience.json) |
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
+| Princess.Loot.Pixel.Again | 34129 | [34129-princess-loot-pixel-again.json](./34129-princess-loot-pixel-again.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
