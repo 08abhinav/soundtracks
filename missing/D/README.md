@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Forge:Re | 182465 | [182465-danganronpa-forge-re.json](./182465-danganronpa-forge-re.json) |
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
+| Danganronpa S: Ultimate Summer Camp | 152366 | [152366-danganronpa-s-ultimate-summer-camp.json](./152366-danganronpa-s-ultimate-summer-camp.json) |
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
 | Danganronpa V3: Killing Harmony - Limited Edition | 167053 | [167053-danganronpa-v3-killing-harmony-limited-edition.json](./167053-danganronpa-v3-killing-harmony-limited-edition.json) |
 | Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
+| Daymare: 1994 Sandcastle | 152844 | [152844-daymare-1994-sandcastle.json](./152844-daymare-1994-sandcastle.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Daymare: 1998 | 23891 | [23891-daymare-1998.json](./23891-daymare-1998.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
@@ -6795,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
 | Disciples: Domination | 360140 | [360140-disciples-domination.json](./360140-disciples-domination.json) |
+| Disciples: Liberation | 152125 | [152125-disciples-liberation.json](./152125-disciples-liberation.json) |
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Liberation - Digital Deluxe Edition | 161183 | [161183-disciples-liberation-digital-deluxe-edition.json](./161183-disciples-liberation-digital-deluxe-edition.json) |
 | Disciples: Liberation - GOG Edition | 219776 | [219776-disciples-liberation-gog-edition.json](./219776-disciples-liberation-gog-edition.json) |
@@ -10655,6 +10658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
 | Dread Dawn | 250233 | [250233-dread-dawn.json](./250233-dread-dawn.json) |
+| Dread Delusion | 159735 | [159735-dread-delusion.json](./159735-dread-delusion.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
