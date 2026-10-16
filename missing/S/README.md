@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Saint Seiya: Ougon Densetsu-hen - Perfect Edition | 37353 | [37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json](./37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json) |
 | Saint Seiya: Rising Cosmo | 139221 | [139221-saint-seiya-rising-cosmo.json](./139221-saint-seiya-rising-cosmo.json) |
+| Saint Seiya: The Hades | 23113 | [23113-saint-seiya-the-hades.json](./23113-saint-seiya-the-hades.json) |
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
+| Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shipwrecked: Lost Island | 38878 | [38878-shipwrecked-lost-island.json](./38878-shipwrecked-lost-island.json) |
+| Shipwreckers! | 7664 | [7664-shipwreckers.json](./7664-shipwreckers.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
@@ -6693,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtrek | 335298 | [335298-shtrek.json](./335298-shtrek.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
+| Shu | 24838 | [24838-shu.json](./24838-shu.json) |
 | Shu | 395471 | [395471-shu.json](./395471-shu.json) |
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
 | Shu's Misfortune | 157396 | [157396-shus-misfortune.json](./157396-shus-misfortune.json) |
@@ -7985,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Tincan: Adventures in the Castle | 147655 | [147655-sir-tincan-adventures-in-the-castle.json](./147655-sir-tincan-adventures-in-the-castle.json) |
 | Sir War-A-Lot | 158093 | [158093-sir-war-a-lot.json](./158093-sir-war-a-lot.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
+| Sir, You Are Being Hunted | 8478 | [8478-sir-you-are-being-hunted.json](./8478-sir-you-are-being-hunted.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
@@ -16906,6 +16911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
+| Star Wars: Battlefront - Renegade Squadron | 23063 | [23063-star-wars-battlefront-renegade-squadron.json](./23063-star-wars-battlefront-renegade-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
 | Star Wars: Clone Wars: Planetary Forces | 314981 | [314981-star-wars-clone-wars-planetary-forces.json](./314981-star-wars-clone-wars-planetary-forces.json) |
@@ -17758,6 +17764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
+| Stationeers | 28013 | [28013-stationeers.json](./28013-stationeers.json) |
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
 | Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
 | Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
@@ -18248,6 +18255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellaris: Toxoids Species Pack | 223546 | [223546-stellaris-toxoids-species-pack.json](./223546-stellaris-toxoids-species-pack.json) |
+| Stellaris: Utopia | 27053 | [27053-stellaris-utopia.json](./27053-stellaris-utopia.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
@@ -24633,6 +24641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
+| Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
