@@ -1239,6 +1239,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bb67c0c5a647271cee81720" width="60" /> | [Styx: Master of Shadows](https://ostdb.net/games/styx-master-of-shadows) | **Styx: Master of Shadows (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3D6E3DskBXcO6FbrG8PRcR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391a37a39419c6a9dcdb43638" width="60" /> | [Styx: Shards of Darkness](https://ostdb.net/games/styx-shards-of-darkness) | **Styx: Shards of Darkness (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2FIdNPQXr8K3uoCfFdlgs2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f156d74f3617e3c795ab2dd" width="60" /> | [Subnautica](https://ostdb.net/games/subnautica) | **Subnautica (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312f44e5a13273e3af4c31c38" width="60" /> | [Subsurface Circular](https://ostdb.net/games/subsurface-circular) | **Subsurface Circular (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1R3yOPr5ibP3RkseLwLKCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb078bc6992ab6ad7ca6179a" width="60" /> | [Subway Surfers](https://ostdb.net/games/subway-surfers) | **12 YEARS 12 TRACKS** · [Spotify](https://open.spotify.com/album/3bW6NzfeUmX81nZBMUecOi) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/95/3d/c0953db0-a621-8d90-5dd6-3bb3a10ce30d/794043215148.jpg/600x600bb.jpg" width="60" /> | [Suicide Squad: Kill the Justice League](https://ostdb.net/games/suicide-squad-kill-the-justice-league) | **Suicide Squad: Kill the Justice League (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4) · [Album](https://album.link/i/1725044347) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c00fe7d4feb024327a452cc" width="60" /> | [Sunset Overdrive](https://ostdb.net/games/sunset-overdrive) | **Sunset Overdrive Original Soundtrack: Best of Sunset Overdrive Music** · [Spotify](https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA) |
@@ -1587,4 +1588,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1904 soundtracks · last updated 2026-10-16T08:21:01.374Z_
+_1905 soundtracks · last updated 2026-10-16T08:25:58.215Z_
