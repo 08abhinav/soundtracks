@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
+| Sega Ages Herzog Zwei | 117159 | [117159-sega-ages-herzog-zwei.json](./117159-sega-ages-herzog-zwei.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Phantasy Star | 109596 | [109596-sega-ages-phantasy-star.json](./109596-sega-ages-phantasy-star.json) |
@@ -4047,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
+| Serin Fate | 118235 | [118235-serin-fate.json](./118235-serin-fate.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
 | Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
@@ -15294,6 +15296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
+| Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
@@ -22716,6 +22719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers | 80139 | [80139-super-robot-wars-og-the-moon-dwellers.json](./80139-super-robot-wars-og-the-moon-dwellers.json) |
 | Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
+| Super Robot Wars V | 117578 | [117578-super-robot-wars-v.json](./117578-super-robot-wars-v.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars Y | 337040 | [337040-super-robot-wars-y.json](./337040-super-robot-wars-y.json) |
