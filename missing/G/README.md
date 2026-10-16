@@ -7081,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
+| Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
