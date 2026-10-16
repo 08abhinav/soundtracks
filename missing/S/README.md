@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
+| Secret Little Haven | 90060 | [90060-secret-little-haven.json](./90060-secret-little-haven.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
@@ -4836,7 +4837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
-| Shadowrun: Dragonfall | 22652 | [22652-shadowrun-dragonfall.json](./22652-shadowrun-dragonfall.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
@@ -5067,7 +5067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and Asha: Dream Fantasia | 321075 | [321075-shantae-and-asha-dream-fantasia.json](./321075-shantae-and-asha-dream-fantasia.json) |
 | Shantae and the Pirate's Curse | 8430 | [8430-shantae-and-the-pirates-curse.json](./8430-shantae-and-the-pirates-curse.json) |
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
-| Shantae and the Seven Sirens | 116589 | [116589-shantae-and-the-seven-sirens.json](./116589-shantae-and-the-seven-sirens.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
@@ -5412,7 +5411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
-| Sheepy: A Short Adventure | 152436 | [152436-sheepy-a-short-adventure.json](./152436-sheepy-a-short-adventure.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
@@ -5550,7 +5548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle | 196515 | [196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json](./196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json) |
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
-| Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
@@ -9047,7 +9044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
-| Slay the Princess: The Pristine Cut | 305071 | [305071-slay-the-princess-the-pristine-cut.json](./305071-slay-the-princess-the-pristine-cut.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -9839,7 +9835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Frenzy 3 | 54375 | [54375-smash-frenzy-3.json](./54375-smash-frenzy-3.json) |
 | Smash Frenzy 4 | 54376 | [54376-smash-frenzy-4.json](./54376-smash-frenzy-4.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
-| Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
 | Smash Hit Plunder | 112180 | [112180-smash-hit-plunder.json](./112180-smash-hit-plunder.json) |
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
@@ -10648,7 +10643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
-| Snowboard Kids | 3342 | [3342-snowboard-kids.json](./3342-snowboard-kids.json) |
 | Snowboard Kids 2 | 3343 | [3343-snowboard-kids-2.json](./3343-snowboard-kids-2.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard League | 250822 | [250822-snowboard-league.json](./250822-snowboard-league.json) |
@@ -12201,7 +12195,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Runners | 20023 | [20023-sonic-runners.json](./20023-sonic-runners.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
-| Sonic Rush Adventure | 19261 | [19261-sonic-rush-adventure.json](./19261-sonic-rush-adventure.json) |
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic Saga: The Mystery of South Island | 370287 | [370287-sonic-saga-the-mystery-of-south-island.json](./370287-sonic-saga-the-mystery-of-south-island.json) |
@@ -13485,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Ascension - Imperial Fist | 53643 | [53643-space-hulk-ascension-imperial-fist.json](./53643-space-hulk-ascension-imperial-fist.json) |
 | Space Hulk: Ascension - Salamanders | 53644 | [53644-space-hulk-ascension-salamanders.json](./53644-space-hulk-ascension-salamanders.json) |
 | Space Hulk: Deathwing - Enhanced Edition | 154595 | [154595-space-hulk-deathwing-enhanced-edition.json](./154595-space-hulk-deathwing-enhanced-edition.json) |
+| Space Hulk: Deathwing - Enhanced Edition | 95068 | [95068-space-hulk-deathwing-enhanced-edition.json](./95068-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
@@ -15168,7 +15162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
-| Spirit of the North | 107141 | [107141-spirit-of-the-north.json](./107141-spirit-of-the-north.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
@@ -23900,7 +23893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzaku Shijuusou: "Saikyou" no Katana Hime | 371586 | [371586-suzaku-shijuusou-saikyou-no-katana-hime.json](./371586-suzaku-shijuusou-saikyou-no-katana-hime.json) |
 | Suzan's Potion Workshop | 273817 | [273817-suzans-potion-workshop.json](./273817-suzans-potion-workshop.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
-| Suzerain | 115309 | [115309-suzerain.json](./115309-suzerain.json) |
 | Suzu ga Utau Hi | 263400 | [263400-suzu-ga-utau-hi.json](./263400-suzu-ga-utau-hi.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
