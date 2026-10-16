@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:35:19.118Z",
-  "total_soundtracks": 1764,
+  "generated_at": "2026-10-16T05:35:59.269Z",
+  "total_soundtracks": 1765,
   "games": [
     {
       "igdb_id": 7522,
@@ -360,6 +360,20 @@
           "album_name": "Abzu",
           "spotify_url": "https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs",
           "apple_music_url": "https://music.apple.com/us/album/abzu/1138476050",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9763,
+      "game_name": "Ace Combat 04: Shattered Skies",
+      "game_url": "https://ostdb.net/games/ace-combat-04-shattered-skies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738704efb1868e6bf12f21f39f",
+      "albums": [
+        {
+          "album_name": "ACE COMBAT 04: shattered skies Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0eaZxq0Ri93pFwFvyMI9RF",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
