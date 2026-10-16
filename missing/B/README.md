@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
+| Beep | 12879 | [12879-beep.json](./12879-beep.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
 | Beep Bap The Beep Boop | 265235 | [265235-beep-bap-the-beep-boop.json](./265235-beep-bap-the-beep-boop.json) |
@@ -6283,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rock City | 57517 | [57517-black-rock-city.json](./57517-black-rock-city.json) |
 | Black Rock Shooter: Fragment | 193806 | [193806-black-rock-shooter-fragment.json](./193806-black-rock-shooter-fragment.json) |
+| Black Rock Shooter: The Game | 11831 | [11831-black-rock-shooter-the-game.json](./11831-black-rock-shooter-the-game.json) |
 | Black Room | 188989 | [188989-black-room.json](./188989-black-room.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
@@ -11546,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
+| Bugsnax: The Isle of Bigsnax | 178326 | [178326-bugsnax-the-isle-of-bigsnax.json](./178326-bugsnax-the-isle-of-bigsnax.json) |
 | Bugspeed Collider | 34127 | [34127-bugspeed-collider.json](./34127-bugspeed-collider.json) |
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
