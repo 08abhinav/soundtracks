@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Stop Sneakin' | 74161 | [74161-never-stop-sneakin.json](./74161-never-stop-sneakin.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
+| Never-Lander | 419893 | [419893-never-lander.json](./419893-never-lander.json) |
 | Never7: Kurumi Cure | 349900 | [349900-never7-kurumi-cure.json](./349900-never7-kurumi-cure.json) |
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
@@ -4542,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
+| Nomad: Last Blade | 420014 | [420014-nomad-last-blade.json](./420014-nomad-last-blade.json) |
 | Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
 | Nomadica | 292430 | [292430-nomadica.json](./292430-nomadica.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
