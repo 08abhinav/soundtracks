@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
+| Hand of the Gods | 65837 | [65837-hand-of-the-gods.json](./65837-hand-of-the-gods.json) |
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Physics Lab | 148704 | [148704-hand-physics-lab.json](./148704-hand-physics-lab.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
+| Hellmut: The Badass from Hell | 68383 | [68383-hellmut-the-badass-from-hell.json](./68383-hellmut-the-badass-from-hell.json) |
 | Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Again | 83400 | [83400-hello-again.json](./83400-hello-again.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
 | Helltaker: Examtaker | 174192 | [174192-helltaker-examtaker.json](./174192-helltaker-examtaker.json) |
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
+| HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
@@ -7974,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Within | 326045 | [326045-human-within.json](./326045-human-within.json) |
 | Human Zoo | 224151 | [224151-human-zoo.json](./224151-human-zoo.json) |
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
+| Human-powered spacecraft | 97026 | [97026-human-powered-spacecraft.json](./97026-human-powered-spacecraft.json) |
 | Human, we have a problem | 32810 | [32810-human-we-have-a-problem.json](./32810-human-we-have-a-problem.json) |
 | Human: Fall Flat - Anniversary Edition | 139945 | [139945-human-fall-flat-anniversary-edition.json](./139945-human-fall-flat-anniversary-edition.json) |
 | Human: Fall Flat - Dream Collection | 252173 | [252173-human-fall-flat-dream-collection.json](./252173-human-fall-flat-dream-collection.json) |
