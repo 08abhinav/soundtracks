@@ -3370,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
+| Who Wants to Be a Millionaire: 2nd Edition | 22015 | [22015-who-wants-to-be-a-millionaire-2nd-edition.json](./22015-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 265057 | [265057-who-wants-to-be-a-millionaire-2nd-edition.json](./265057-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 309014 | [309014-who-wants-to-be-a-millionaire-2nd-edition.json](./309014-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
@@ -5529,6 +5530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
 | World Championship Poker 2 | 53110 | [53110-world-championship-poker-2.json](./53110-world-championship-poker-2.json) |
+| World Championship Poker 2: Featuring Howard Lederer | 21947 | [21947-world-championship-poker-2-featuring-howard-lederer.json](./21947-world-championship-poker-2-featuring-howard-lederer.json) |
+| World Championship Poker: Featuring Howard Lederer - All In | 21954 | [21954-world-championship-poker-featuring-howard-lederer-all-in.json](./21954-world-championship-poker-featuring-howard-lederer-all-in.json) |
 | World Championship Pool 2004 | 6238 | [6238-world-championship-pool-2004.json](./6238-world-championship-pool-2004.json) |
 | World Championship Rugby | 6239 | [6239-world-championship-rugby.json](./6239-world-championship-rugby.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
