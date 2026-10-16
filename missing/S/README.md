@@ -5054,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
+| Shalnor: Silverwind Saga Bundle | 417285 | [417285-shalnor-silverwind-saga-bundle.json](./417285-shalnor-silverwind-saga-bundle.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman | 171533 | [171533-shaman.json](./171533-shaman.json) |
@@ -10452,6 +10453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatched! | 300471 | [300471-snatched.json](./300471-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
+| Snatcher | 417289 | [417289-snatcher.json](./417289-snatcher.json) |
 | Snave | 296000 | [296000-snave.json](./296000-snave.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
@@ -14465,6 +14467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
 | Special Forces War: Zombie Attack | 275538 | [275538-special-forces-war-zombie-attack.json](./275538-special-forces-war-zombie-attack.json) |
+| Special Forces: Blackout | 417280 | [417280-special-forces-blackout.json](./417280-special-forces-blackout.json) |
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
@@ -16171,6 +16174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
+| Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
