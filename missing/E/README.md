@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
+| Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
