@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
 | VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
+| VR2: Vacate 2 Rooms | 99191 | [99191-vr2-vacate-2-rooms.json](./99191-vr2-vacate-2-rooms.json) |
 | Vradark's Revenge | 231823 | [231823-vradarks-revenge.json](./231823-vradarks-revenge.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
