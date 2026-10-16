@@ -9955,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
 | Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
+| Dragon Ball Z: Kakarot - A New Power Awakens: Part 2 | 141042 | [141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json](./141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
@@ -12860,6 +12861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
+| Duskwood | 139073 | [139073-duskwood.json](./139073-duskwood.json) |
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
