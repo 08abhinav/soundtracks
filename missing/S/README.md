@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shiftlings: Enhanced Edition | 86377 | [86377-shiftlings-enhanced-edition.json](./86377-shiftlings-enhanced-edition.json) |
 | Shifty | 217777 | [217777-shifty.json](./217777-shifty.json) |
+| Shigatari | 55307 | [55307-shigatari.json](./55307-shigatari.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
+| Shooty Squad | 55420 | [55420-shooty-squad.json](./55420-shooty-squad.json) |
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
@@ -8860,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox | 15371 | [15371-skyfox.json](./15371-skyfox.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
+| Skyfront VR | 55539 | [55539-skyfront-vr.json](./55539-skyfront-vr.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
 | Skygate Zero | 414821 | [414821-skygate-zero.json](./414821-skygate-zero.json) |
@@ -11518,6 +11521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Mystery: Four Seasons | 91130 | [91130-solitaire-mystery-four-seasons.json](./91130-solitaire-mystery-four-seasons.json) |
+| Solitaire Mystery: Stolen Power | 55432 | [55432-solitaire-mystery-stolen-power.json](./55432-solitaire-mystery-stolen-power.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
@@ -14071,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
+| SpaceBound | 54741 | [54741-spacebound.json](./54741-spacebound.json) |
 | Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
@@ -14083,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | SpaceCorps XXX | 215180 | [215180-spacecorps-xxx.json](./215180-spacecorps-xxx.json) |
+| Spacecraft | 55389 | [55389-spacecraft.json](./55389-spacecraft.json) |
 | SpaceCraft | 324574 | [324574-spacecraft.json](./324574-spacecraft.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
@@ -19247,6 +19253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
+| Strangers of the Power | 55398 | [55398-strangers-of-the-power.json](./55398-strangers-of-the-power.json) |
 | Strangers of the Power 2 | 97272 | [97272-strangers-of-the-power-2.json](./97272-strangers-of-the-power-2.json) |
 | Strangers of the Power 2: Forgotten Evil | 347194 | [347194-strangers-of-the-power-2-forgotten-evil.json](./347194-strangers-of-the-power-2-forgotten-evil.json) |
 | Strangers of the Power 2: Pain Queen Character | 347199 | [347199-strangers-of-the-power-2-pain-queen-character.json](./347199-strangers-of-the-power-2-pain-queen-character.json) |
