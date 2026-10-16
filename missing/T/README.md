@@ -4022,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
+| The Agency: Chapter 1 | 32353 | [32353-the-agency-chapter-1.json](./32353-the-agency-chapter-1.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
+| The Cat! Porfirio's Adventure | 32352 | [32352-the-cat-porfirios-adventure.json](./32352-the-cat-porfirios-adventure.json) |
 | The Catacombs | 231801 | [231801-the-catacombs.json](./231801-the-catacombs.json) |
 | The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
 | The Dark Knight Rises: The Mobile Game | 343944 | [343944-the-dark-knight-rises-the-mobile-game.json](./343944-the-dark-knight-rises-the-mobile-game.json) |
+| The Dark Legions | 32361 | [32361-the-dark-legions.json](./32361-the-dark-legions.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
@@ -10363,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
+| The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
 | The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
@@ -18999,6 +19003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Arcana | 127840 | [127840-tower-of-arcana.json](./127840-tower-of-arcana.json) |
+| Tower of Archeos | 32374 | [32374-tower-of-archeos.json](./32374-tower-of-archeos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Ascension | 192834 | [192834-tower-of-ascension.json](./192834-tower-of-ascension.json) |
 | Tower of Ashes | 360190 | [360190-tower-of-ashes.json](./360190-tower-of-ashes.json) |
@@ -22336,6 +22341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | TrumpGate | 232340 | [232340-trumpgate.json](./232340-trumpgate.json) |
+| TrumPiñata | 32295 | [32295-trumpinata.json](./32295-trumpinata.json) |
 | Trumpy Wall | 106457 | [106457-trumpy-wall.json](./106457-trumpy-wall.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
@@ -22892,6 +22898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turncoat Chronicle | 258087 | [258087-turncoat-chronicle.json](./258087-turncoat-chronicle.json) |
 | Turncoat Protocol | 179501 | [179501-turncoat-protocol.json](./179501-turncoat-protocol.json) |
 | Turned Into Turrets | 377082 | [377082-turned-into-turrets.json](./377082-turned-into-turrets.json) |
+| Turner | 32375 | [32375-turner.json](./32375-turner.json) |
 | Turnfall | 368294 | [368294-turnfall.json](./368294-turnfall.json) |
 | Turnin' Tail | 180677 | [180677-turnin-tail.json](./180677-turnin-tail.json) |
 | Turning | 249870 | [249870-turning.json](./249870-turning.json) |
