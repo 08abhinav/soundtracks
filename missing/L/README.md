@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Odyssey | 253473 | [253473-little-odyssey.json](./253473-little-odyssey.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
+| Little Orpheus | 55068 | [55068-little-orpheus.json](./55068-little-orpheus.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
