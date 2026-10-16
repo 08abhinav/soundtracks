@@ -12336,7 +12336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom Alternative II | 152670 | [152670-axiom-alternative-ii.json](./152670-axiom-alternative-ii.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
-| Axiom Verge 2 | 127269 | [127269-axiom-verge-2.json](./127269-axiom-verge-2.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
 | Axiomatik | 391225 | [391225-axiomatik.json](./391225-axiomatik.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
