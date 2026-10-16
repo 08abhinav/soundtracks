@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
+| Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
 | Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
 | Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
+| Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
