@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails From Alteria | 190039 | [190039-tails-from-alteria.json](./190039-tails-from-alteria.json) |
 | Tails in Sonic the Hedgehog | 198529 | [198529-tails-in-sonic-the-hedgehog.json](./198529-tails-in-sonic-the-hedgehog.json) |
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
+| Tails Noir | 97257 | [97257-tails-noir.json](./97257-tails-noir.json) |
 | Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
 | Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
@@ -6272,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within: Limited Edition | 41607 | [41607-the-evil-within-limited-edition.json](./41607-the-evil-within-limited-edition.json) |
 | The Evil Within: The Assignment | 9183 | [9183-the-evil-within-the-assignment.json](./9183-the-evil-within-the-assignment.json) |
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
+| The Evil Within: The Executioner | 21592 | [21592-the-evil-within-the-executioner.json](./21592-the-evil-within-the-executioner.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
@@ -11440,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
 | The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
+| The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
@@ -18216,6 +18219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Ratical Adventures | 211913 | [211913-totally-ratical-adventures.json](./211913-totally-ratical-adventures.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Adventure Party | 160243 | [160243-totally-reliable-adventure-party.json](./160243-totally-reliable-adventure-party.json) |
+| Totally Reliable Delivery Service | 114058 | [114058-totally-reliable-delivery-service.json](./114058-totally-reliable-delivery-service.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
@@ -21277,6 +21281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
+| Trials of the Blood Dragon | 19553 | [19553-trials-of-the-blood-dragon.json](./19553-trials-of-the-blood-dragon.json) |
 | Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
