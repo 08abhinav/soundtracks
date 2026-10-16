@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
 | Penny Larceny: Gig Economy Supervillain | 241861 | [241861-penny-larceny-gig-economy-supervillain.json](./241861-penny-larceny-gig-economy-supervillain.json) |
 | Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
+| Penny Racers | 1292 | [1292-penny-racers.json](./1292-penny-racers.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny Racers Party: Turbo-Q Speedway | 51110 | [51110-penny-racers-party-turbo-q-speedway.json](./51110-penny-racers-party-turbo-q-speedway.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
@@ -8230,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
+| Police Quest: Open Season | 1927 | [1927-police-quest-open-season.json](./1927-police-quest-open-season.json) |
 | Police Quest: SWAT | 309 | [309-police-quest-swat.json](./309-police-quest-swat.json) |
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
