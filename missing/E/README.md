@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
+| En Garde! | 104970 | [104970-en-garde.json](./104970-en-garde.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En Route 66 | 221216 | [221216-en-route-66.json](./221216-en-route-66.json) |
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
