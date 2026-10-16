@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Lights | 256241 | [256241-dancing-lights.json](./256241-dancing-lights.json) |
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
+| Dancing on Ice | 20419 | [20419-dancing-on-ice.json](./20419-dancing-on-ice.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
 | Dancing Queen: Club Puzzle | 107059 | [107059-dancing-queen-club-puzzle.json](./107059-dancing-queen-club-puzzle.json) |
 | Dancing Road: Color Ball Run! | 120309 | [120309-dancing-road-color-ball-run.json](./120309-dancing-road-color-ball-run.json) |
