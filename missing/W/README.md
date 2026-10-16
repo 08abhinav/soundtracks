@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Heart of Deimos | 137295 | [137295-warframe-heart-of-deimos.json](./137295-warframe-heart-of-deimos.json) |
+| Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Isleweaver | 421816 | [421816-warframe-isleweaver.json](./421816-warframe-isleweaver.json) |
 | Warframe: Koumei & the Five Fates | 421814 | [421814-warframe-koumei-and-the-five-fates.json](./421814-warframe-koumei-and-the-five-fates.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedgie Toss | 67890 | [67890-wedgie-toss.json](./67890-wedgie-toss.json) |
 | Wedgie Toss 2 | 67888 | [67888-wedgie-toss-2.json](./67888-wedgie-toss-2.json) |
 | Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
+| Wednesday 13th | 419353 | [419353-wednesday-13th.json](./419353-wednesday-13th.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
@@ -3415,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
+| Who's Behind The Mexican UFO's | 419340 | [419340-whos-behind-the-mexican-ufos.json](./419340-whos-behind-the-mexican-ufos.json) |
 | Who's Dunnit? A | 354369 | [354369-whos-dunnit-a.json](./354369-whos-dunnit-a.json) |
 | Who's Dunnit? B | 354370 | [354370-whos-dunnit-b.json](./354370-whos-dunnit-b.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
