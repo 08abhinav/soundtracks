@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:31:56.063Z",
-  "total_soundtracks": 1932,
+  "generated_at": "2026-10-16T19:32:10.218Z",
+  "total_soundtracks": 1933,
   "games": [
     {
       "igdb_id": 7522,
@@ -13211,6 +13211,20 @@
         {
           "album_name": "Natural Selection 2 Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5RWOSybHZSQiIAxxuYVgLk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 255788,
+      "game_name": "NBA 2K24",
+      "game_url": "https://ostdb.net/games/nba-2k24",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273554d5b3d2daa8a426a84c250",
+      "albums": [
+        {
+          "album_name": "NBA 2K24 Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3tHl9pVwXxPaDLVtUxQLGm",
           "apple_music_url": "",
           "album_link_url": ""
         }
