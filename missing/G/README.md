@@ -1694,7 +1694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
-| Gears of War | 318793 | [318793-gears-of-war.json](./318793-gears-of-war.json) |
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
@@ -1822,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
+| Gem Wars: Attack of the Jiblets | 35242 | [35242-gem-wars-attack-of-the-jiblets.json](./35242-gem-wars-attack-of-the-jiblets.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
