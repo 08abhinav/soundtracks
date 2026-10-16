@@ -708,6 +708,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273e03909239cc479fbf7cc994b" width="60" /> | [Mafia III](https://ostdb.net/games/mafia-iii) | **Mafia III (Expanded Game Score)** · [Spotify](https://open.spotify.com/album/1jCfzTRSGbTSr8IGiBoROz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3ec7c4bb8e3092e6713a49b" width="60" /> | [Mafia: Definitive Edition](https://ostdb.net/games/mafia-definitive-edition) | **Mafia (Definitive Edition) [Original Score]** · [Spotify](https://open.spotify.com/album/6PLBtzn4bzfqrEuL6WtQ81) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4ffd6ddc31e6e8566db9a11" width="60" /> | [Mafia: The Old Country](https://ostdb.net/games/mafia-the-old-country) | **Mafia: The Old Country (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6R41tA5v3ZOyTj0X3umReN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731757d85b1af9f2e99f53eaa4" width="60" /> | [Maid of Sker](https://ostdb.net/games/maid-of-sker) | **Maid of Sker (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0R9nzLvwKWNhRY4hcyWrjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731aa2c3442ba26dbb6e7d0879" width="60" /> | [Manor Lords](https://ostdb.net/games/manor-lords) | **Manor Lords (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0NRScKQ0E4Sa0ExtY6W8ug) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302576cdbc3c09b1610b247e0" width="60" /> | [Mappy](https://ostdb.net/games/mappy) | **MAPPY (Game Sound Effect) Original Soundtrack** · [Spotify](https://open.spotify.com/album/5gQgOBTtyyDtRNARAjNGVn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332df9edfc787499ab288e5e5" width="60" /> | [Marathon](https://ostdb.net/games/marathon) | **Marathon (Original Soundtrack EP)** · [Spotify](https://open.spotify.com/album/4O2qtNr0ir4SGFloL0rxny)<br>**Marathon, Vol. I: Somewhere in the Heavens (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3PxrdoRPGfXE3M4TUx6V51)<br>**Marathon, Vol. II: They Are Waiting (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5fDpe41gXq2L5awuWlnrmL) |
@@ -1394,4 +1395,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1711 soundtracks · last updated 2026-10-16T05:03:24.429Z_
+_1712 soundtracks · last updated 2026-10-16T05:03:38.071Z_
