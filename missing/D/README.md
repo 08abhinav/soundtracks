@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
+| Daylight | 5593 | [5593-daylight.json](./5593-daylight.json) |
 | Daylight District | 287307 | [287307-daylight-district.json](./287307-daylight-district.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
@@ -8847,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
+| Doom Eternal: The Ancient Gods - Part One | 136539 | [136539-doom-eternal-the-ancient-gods-part-one.json](./136539-doom-eternal-the-ancient-gods-part-one.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: The Rip and Tear Pack | 169908 | [169908-doom-eternal-the-rip-and-tear-pack.json](./169908-doom-eternal-the-rip-and-tear-pack.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
