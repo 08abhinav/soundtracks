@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest For Fame | 209748 | [209748-quest-for-fame.json](./209748-quest-for-fame.json) |
 | Quest For Glory Anthology | 209747 | [209747-quest-for-glory-anthology.json](./209747-quest-for-glory-anthology.json) |
+| Quest for Glory I: So You Want to Be a Hero | 198372 | [198372-quest-for-glory-i-so-you-want-to-be-a-hero.json](./198372-quest-for-glory-i-so-you-want-to-be-a-hero.json) |
 | Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
 | Quest for Glory V: Dragon Fire | 1897 | [1897-quest-for-glory-v-dragon-fire.json](./1897-quest-for-glory-v-dragon-fire.json) |
 | Quest for Glory: Shadows of Darkness | 1896 | [1896-quest-for-glory-shadows-of-darkness.json](./1896-quest-for-glory-shadows-of-darkness.json) |
