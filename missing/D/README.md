@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
+| Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
+| Day R Premium | 87200 | [87200-day-r-premium.json](./87200-day-r-premium.json) |
 | Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
