@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Friends of Mineral Town | 3383 | [3383-harvest-moon-friends-of-mineral-town.json](./3383-harvest-moon-friends-of-mineral-town.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Home Sweet Home | 314971 | [314971-harvest-moon-home-sweet-home.json](./314971-harvest-moon-home-sweet-home.json) |
+| Harvest Moon: Home Sweet Home Special Edition | 361908 | [361908-harvest-moon-home-sweet-home-special-edition.json](./361908-harvest-moon-home-sweet-home-special-edition.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
