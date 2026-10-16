@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party | 208265 | [208265-game-party.json](./208265-game-party.json) |
+| Game Party 2 Tournament | 23823 | [23823-game-party-2-tournament.json](./23823-game-party-2-tournament.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
