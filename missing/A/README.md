@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accordion | 14204 | [14204-accordion.json](./14204-accordion.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
+| Accounting+ | 76881 | [76881-accounting.json](./76881-accounting.json) |
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
 | Accurate Segmentation | 334796 | [334796-accurate-segmentation.json](./334796-accurate-segmentation.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
+| Aggelos | 103517 | [103517-aggelos.json](./103517-aggelos.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
@@ -10494,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix Take on Caesar | 270061 | [270061-asterix-and-obelix-take-on-caesar.json](./270061-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
+| Astérix & Obélix XXL 2 | 104977 | [104977-asterix-and-obelix-xxl-2.json](./104977-asterix-and-obelix-xxl-2.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Astérix & Obélix XXL 2: Mission: Wifix | 310635 | [310635-asterix-and-obelix-xxl-2-mission-wifix.json](./310635-asterix-and-obelix-xxl-2-mission-wifix.json) |
 | Asterix & Obelix XXL 2: Remaster - Limited Edition | 136158 | [136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json](./136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json) |
