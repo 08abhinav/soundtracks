@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Proud Nordics - Isle of Seiren Mascot Set | 393071 | [393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json](./393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json) |
 | Ys X: Proud Nordics - Ultimate Edition | 401733 | [401733-ys-x-proud-nordics-ultimate-edition.json](./401733-ys-x-proud-nordics-ultimate-edition.json) |
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
+| Ys: Book I & II | 70166 | [70166-ys-book-i-and-ii.json](./70166-ys-book-i-and-ii.json) |
 | Ys: Memories of Celceta | 117495 | [117495-ys-memories-of-celceta.json](./117495-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
