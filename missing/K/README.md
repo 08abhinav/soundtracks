@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
+| Killzone HD | 20003 | [20003-killzone-hd.json](./20003-killzone-hd.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
 | Killzone: Liberation | 1868 | [1868-killzone-liberation.json](./1868-killzone-liberation.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports Gems: 10 Frame Bowling | 106094 | [106094-kinect-sports-gems-10-frame-bowling.json](./106094-kinect-sports-gems-10-frame-bowling.json) |
 | Kinect Sports Gems: 3 Point Contest | 106092 | [106092-kinect-sports-gems-3-point-contest.json](./106092-kinect-sports-gems-3-point-contest.json) |
 | Kinect Sports Gems: Boxing Fight | 106093 | [106093-kinect-sports-gems-boxing-fight.json](./106093-kinect-sports-gems-boxing-fight.json) |
+| Kinect Sports: Season Two | 18026 | [18026-kinect-sports-season-two.json](./18026-kinect-sports-season-two.json) |
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
 | Kinect Sports: Ultimate Collection | 47401 | [47401-kinect-sports-ultimate-collection.json](./47401-kinect-sports-ultimate-collection.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
