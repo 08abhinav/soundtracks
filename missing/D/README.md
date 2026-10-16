@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
+| DarkStar One: Broken Alliance | 20414 | [20414-darkstar-one-broken-alliance.json](./20414-darkstar-one-broken-alliance.json) |
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
@@ -2729,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
+| Deadly 30 | 8486 | [8486-deadly-30.json](./8486-deadly-30.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
 | Deadly Balls Bounce | 364972 | [364972-deadly-balls-bounce.json](./364972-deadly-balls-bounce.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
+| Devilish | 21546 | [21546-devilish.json](./21546-devilish.json) |
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
 | Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
@@ -6171,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
 | Digimon World 4 | 3878 | [3878-digimon-world-4.json](./3878-digimon-world-4.json) |
 | Digimon World Championship | 47897 | [47897-digimon-world-championship.json](./47897-digimon-world-championship.json) |
+| Digimon World Data Squad | 20761 | [20761-digimon-world-data-squad.json](./20761-digimon-world-data-squad.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
@@ -12105,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
 | Duke Nukem: Manhattan Project | 8505 | [8505-duke-nukem-manhattan-project.json](./8505-duke-nukem-manhattan-project.json) |
 | Duke Nukem: Total Meltdown | 44885 | [44885-duke-nukem-total-meltdown.json](./44885-duke-nukem-total-meltdown.json) |
+| Duke Nukem: Zero Hour | 8503 | [8503-duke-nukem-zero-hour.json](./8503-duke-nukem-zero-hour.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
