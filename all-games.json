@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:01:55.816Z",
-  "total_soundtracks": 1704,
+  "generated_at": "2026-10-16T05:02:07.465Z",
+  "total_soundtracks": 1705,
   "games": [
     {
       "igdb_id": 7522,
@@ -6265,6 +6265,20 @@
         {
           "album_name": "FINAL FANTASY Type-0 HD Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 158985,
+      "game_name": "Final Fantasy VI",
+      "game_url": "https://ostdb.net/games/final-fantasy-vi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY VI Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY",
           "apple_music_url": "",
           "album_link_url": ""
         }
