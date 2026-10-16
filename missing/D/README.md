@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
+| Darwin Project | 27741 | [27741-darwin-project.json](./27741-darwin-project.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
+| Def Jam Vendetta | 3874 | [3874-def-jam-vendetta.json](./3874-def-jam-vendetta.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
+| Deus Ex: Mankind Divided - A Criminal Past | 26929 | [26929-deus-ex-mankind-divided-a-criminal-past.json](./26929-deus-ex-mankind-divided-a-criminal-past.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
 | Deus Ex: Mankind Divided - Desperate Measures | 229860 | [229860-deus-ex-mankind-divided-desperate-measures.json](./229860-deus-ex-mankind-divided-desperate-measures.json) |
@@ -6144,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
+| Digimon World 4 | 3878 | [3878-digimon-world-4.json](./3878-digimon-world-4.json) |
 | Digimon World Championship | 47897 | [47897-digimon-world-championship.json](./47897-digimon-world-championship.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
@@ -9932,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Shin Butouden | 45464 | [45464-dragon-ball-z-shin-butouden.json](./45464-dragon-ball-z-shin-butouden.json) |
 | Dragon Ball Z: Shin Saiya-jin Zetsumetsu Keikaku - Chikyuu-hen | 66082 | [66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json](./66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json) |
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
+| Dragon Ball Z: Super Butouden 2 | 2546 | [2546-dragon-ball-z-super-butouden-2.json](./2546-dragon-ball-z-super-butouden-2.json) |
 | Dragon Ball Z: Super Butouden 3 | 2550 | [2550-dragon-ball-z-super-butouden-3.json](./2550-dragon-ball-z-super-butouden-3.json) |
 | Dragon Ball Z: Super Goku-den - Kakusei-hen | 74038 | [74038-dragon-ball-z-super-goku-den-kakusei-hen.json](./74038-dragon-ball-z-super-goku-den-kakusei-hen.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
