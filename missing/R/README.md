@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record Life | 126307 | [126307-record-life.json](./126307-record-life.json) |
+| Record of Agarest War | 7158 | [7158-record-of-agarest-war.json](./7158-record-of-agarest-war.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
 | Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: Desperate Escape | 21654 | [21654-resident-evil-5-desperate-escape.json](./21654-resident-evil-5-desperate-escape.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
+| Resident Evil 5: Versus | 23014 | [23014-resident-evil-5-versus.json](./23014-resident-evil-5-versus.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 6: Archives | 79137 | [79137-resident-evil-6-archives.json](./79137-resident-evil-6-archives.json) |
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
@@ -8442,6 +8444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
+| Run Saber | 22358 | [22358-run-saber.json](./22358-run-saber.json) |
 | Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
