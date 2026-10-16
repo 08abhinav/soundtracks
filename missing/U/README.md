@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
 | Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
+| Unlucky Swordsmith | 420508 | [420508-unlucky-swordsmith.json](./420508-unlucky-swordsmith.json) |
 | Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
