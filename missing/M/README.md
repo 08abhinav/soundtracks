@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
+| Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
+| Marina Manager | 420489 | [420489-marina-manager.json](./420489-marina-manager.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina Militare: Italian Navy Sim | 110256 | [110256-marina-militare-italian-navy-sim.json](./110256-marina-militare-italian-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
+| Medieval Warlord | 420505 | [420505-medieval-warlord.json](./420505-medieval-warlord.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
 | Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
@@ -6386,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
+| Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
