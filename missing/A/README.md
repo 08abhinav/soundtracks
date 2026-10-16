@@ -1643,7 +1643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Ball | 76162 | [76162-ace-ball.json](./76162-ace-ball.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
-| Ace Combat 04: Shattered Skies | 9763 | [9763-ace-combat-04-shattered-skies.json](./9763-ace-combat-04-shattered-skies.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
@@ -3188,7 +3187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
-| Agony | 19453 | [19453-agony.json](./19453-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
 | Agony | 79827 | [79827-agony.json](./79827-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
@@ -4678,7 +4676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
 | Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
-| Aliens: Fireteam Elite | 144153 | [144153-aliens-fireteam-elite.json](./144153-aliens-fireteam-elite.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
@@ -5321,7 +5318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
 | Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
-| Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
@@ -8143,7 +8139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
-| Aragami 2 | 138031 | [138031-aragami-2.json](./138031-aragami-2.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Araha : Curse of Yieun Island | 126347 | [126347-araha-curse-of-yieun-island.json](./126347-araha-curse-of-yieun-island.json) |
@@ -9203,7 +9198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
-| Arise: A Simple Story | 122563 | [122563-arise-a-simple-story.json](./122563-arise-a-simple-story.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
