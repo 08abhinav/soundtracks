@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco: Evolution | 23532 | [23532-loco-evolution.json](./23532-loco-evolution.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
+| Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
@@ -4994,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
+| Lone Wolf: Horizon | 33857 | [33857-lone-wolf-horizon.json](./33857-lone-wolf-horizon.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
 | Lonefarm | 145916 | [145916-lonefarm.json](./145916-lonefarm.json) |
@@ -6557,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
+| Ludoria | 33778 | [33778-ludoria.json](./33778-ludoria.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
@@ -6926,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin the Third Part III: Jigoku no Kyuushutsu Sakusen | 349409 | [349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json](./349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json) |
 | Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
 | Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
+| Lupinball | 33847 | [33847-lupinball.json](./33847-lupinball.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Luppy | 379003 | [379003-luppy.json](./379003-luppy.json) |
 | Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
