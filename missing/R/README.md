@@ -8462,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
+| Rummy With Clara | 418599 | [418599-rummy-with-clara.json](./418599-rummy-with-clara.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
@@ -8628,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
+| Rune Bouncer | 418626 | [418626-rune-bouncer.json](./418626-rune-bouncer.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
