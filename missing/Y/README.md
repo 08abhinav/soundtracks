@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
 | Yoram: Question Arc | 348899 | [348899-yoram-question-arc.json](./348899-yoram-question-arc.json) |
 | Yorbie | 60468 | [60468-yorbie.json](./60468-yorbie.json) |
+| Yorbie: Episode 1 - Payback's a Bolt | 22085 | [22085-yorbie-episode-1-paybacks-a-bolt.json](./22085-yorbie-episode-1-paybacks-a-bolt.json) |
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
