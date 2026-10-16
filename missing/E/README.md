@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
 | Energy Island Corp. | 161581 | [161581-energy-island-corp.json](./161581-energy-island-corp.json) |
+| Energy Joe | 100794 | [100794-energy-joe.json](./100794-energy-joe.json) |
 | Energy Lab | 313206 | [313206-energy-lab.json](./313206-energy-lab.json) |
 | Energy Manager | 350530 | [350530-energy-manager.json](./350530-energy-manager.json) |
 | Energy Nodes | 109385 | [109385-energy-nodes.json](./109385-energy-nodes.json) |
