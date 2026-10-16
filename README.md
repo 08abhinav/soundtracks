@@ -1282,6 +1282,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2733adab8dab81791a09ba11810" width="60" /> | [The Order: 1886](https://ostdb.net/games/the-order-1886) | **The Order: 1886 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5a5dc6fe110de0d2e06d635" width="60" /> | [The Outer Worlds](https://ostdb.net/games/the-outer-worlds) | **The Outer Worlds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302b687ccdb90518000924803" width="60" /> | [The Outer Worlds 2](https://ostdb.net/games/the-outer-worlds-2) | **The Outer Worlds 2 (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BA7Qn0gdTIIPERJs5M1zR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393ad2e2962ae57a6271e98b8" width="60" /> | [The Past Within](https://ostdb.net/games/the-past-within) | **The Past Within (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3Rbk1Y1LpfnZkBIBFJyTqe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b17c361c34dd626781d91dec" width="60" /> | [The Plucky Squire](https://ostdb.net/games/the-plucky-squire) | **The Plucky Squire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6d1Kq46nCQQLr5x7jjaF9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730659339c434f07beb835941c" width="60" /> | [The Precinct](https://ostdb.net/games/the-precinct) | **The Precinct (Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0WtrTNBnJiyVfjEkXqRVqd) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/1a/7d/4f1a7d28-d50c-bbc0-6839-61501618861f/859763875581_cover.jpg/600x600bb.jpg" width="60" /> | [The Quarry](https://ostdb.net/games/the-quarry) | **The Quarry (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7rJBBhUmOuTONh8fOmIFjr) · [Apple Music](https://music.apple.com/us/album/the-quarry-original-soundtrack/1637853854) · [Album](https://album.link/i/1637853854) |
@@ -1484,4 +1485,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1801 soundtracks · last updated 2026-10-16T05:48:44.765Z_
+_1802 soundtracks · last updated 2026-10-16T05:48:57.515Z_
