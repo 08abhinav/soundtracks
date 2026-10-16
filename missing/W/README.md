@@ -690,8 +690,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
+| War of the Human Tanks: Alter | 11692 | [11692-war-of-the-human-tanks-alter.json](./11692-war-of-the-human-tanks-alter.json) |
 | War of the Human Tanks: Alter - Royal Edition | 53147 | [53147-war-of-the-human-tanks-alter-royal-edition.json](./53147-war-of-the-human-tanks-alter-royal-edition.json) |
 | War of the Human Tanks: Imperial Edition | 53146 | [53146-war-of-the-human-tanks-imperial-edition.json](./53146-war-of-the-human-tanks-imperial-edition.json) |
+| War of the Human Tanks: Limited Operations | 11693 | [11693-war-of-the-human-tanks-limited-operations.json](./11693-war-of-the-human-tanks-limited-operations.json) |
 | War of the Human Tanks: Limited Operations - Unlimited Edition | 53145 | [53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json](./53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
@@ -717,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
+| War Operations | 17715 | [17715-war-operations.json](./17715-war-operations.json) |
 | War Over the Mideast | 59309 | [59309-war-over-the-mideast.json](./59309-war-over-the-mideast.json) |
 | War Over Vietnam | 59306 | [59306-war-over-vietnam.json](./59306-war-over-vietnam.json) |
 | War Party | 81634 | [81634-war-party.json](./81634-war-party.json) |
@@ -1801,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
+| Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
