@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
+| FIFA Mobile | 56345 | [56345-fifa-mobile.json](./56345-fifa-mobile.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
 | FIFA Online | 66910 | [66910-fifa-online.json](./66910-fifa-online.json) |
 | FIFA Rivals | 335513 | [335513-fifa-rivals.json](./335513-fifa-rivals.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240234 | [240234-fifa-soccer-96.json](./240234-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240236 | [240236-fifa-soccer-96.json](./240236-fifa-soccer-96.json) |
+| FIFA Soccer 96 | 45581 | [45581-fifa-soccer-96.json](./45581-fifa-soccer-96.json) |
 | FIFA Soccer 97 | 240181 | [240181-fifa-soccer-97.json](./240181-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240191 | [240191-fifa-soccer-97.json](./240191-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
@@ -4709,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
+| Fist of the North Star: Lost Paradise | 55112 | [55112-fist-of-the-north-star-lost-paradise.json](./55112-fist-of-the-north-star-lost-paradise.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist of Truth | 98502 | [98502-fist-of-truth.json](./98502-fist-of-truth.json) |
 | Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
