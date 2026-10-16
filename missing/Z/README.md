@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
+| Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
