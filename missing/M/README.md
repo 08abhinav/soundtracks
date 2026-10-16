@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Strike Force | 76164 | [76164-marvel-strike-force.json](./76164-marvel-strike-force.json) |
 | Marvel Super Hero Squad | 4997 | [4997-marvel-super-hero-squad.json](./4997-marvel-super-hero-squad.json) |
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
+| Marvel Super Hero Squad: The Infinity Gauntlet | 4998 | [4998-marvel-super-hero-squad-the-infinity-gauntlet.json](./4998-marvel-super-hero-squad-the-infinity-gauntlet.json) |
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
@@ -7790,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
 | Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
+| Midway Arcade Treasures 2 | 4008 | [4008-midway-arcade-treasures-2.json](./4008-midway-arcade-treasures-2.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
@@ -10935,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
+| Monster Jam: Path of Destruction | 5016 | [5016-monster-jam-path-of-destruction.json](./5016-monster-jam-path-of-destruction.json) |
 | Monster Jam: Urban Assault | 5017 | [5017-monster-jam-urban-assault.json](./5017-monster-jam-urban-assault.json) |
 | Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
 | Monster Killer | 169728 | [169728-monster-killer.json](./169728-monster-killer.json) |
@@ -11183,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
+| Monsters, Inc. Scream Arena | 4020 | [4020-monsters-inc-scream-arena.json](./4020-monsters-inc-scream-arena.json) |
 | Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
@@ -12740,6 +12744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
+| Mr. Driller: Drill Land | 4021 | [4021-mr-driller-drill-land.json](./4021-mr-driller-drill-land.json) |
 | Mr. Driller: Drill Spirits | 18330 | [18330-mr-driller-drill-spirits.json](./18330-mr-driller-drill-spirits.json) |
 | Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
@@ -13679,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
+| MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
 | MX vs. ATV All Out: 2011 Kawasaki KFX450R | 315218 | [315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json](./315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json) |
 | MX vs. ATV All Out: 2011 Suzuki LT-R450 | 315219 | [315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json](./315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json) |
 | MX vs. ATV All Out: 2017 Husqvarna FC 250 | 315220 | [315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json](./315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json) |
@@ -14746,6 +14752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims Kingdom | 5036 | [5036-mysims-kingdom.json](./5036-mysims-kingdom.json) |
+| MySims Party | 5037 | [5037-mysims-party.json](./5037-mysims-party.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
@@ -14852,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
+| Mystery Case Files: The Malgrave Incident | 5040 | [5040-mystery-case-files-the-malgrave-incident.json](./5040-mystery-case-files-the-malgrave-incident.json) |
 | Mystery Case Files: The Revenant's Hunt | 140234 | [140234-mystery-case-files-the-revenants-hunt.json](./140234-mystery-case-files-the-revenants-hunt.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
