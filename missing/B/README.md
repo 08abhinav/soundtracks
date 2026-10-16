@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
+| Bionic Commando | 54535 | [54535-bionic-commando.json](./54535-bionic-commando.json) |
 | Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
 | Bionic Commando | 7786 | [7786-bionic-commando.json](./7786-bionic-commando.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
@@ -8583,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Chaos | 281963 | [281963-bomber-chaos.json](./281963-bomber-chaos.json) |
 | Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
+| Bomber Crew | 55628 | [55628-bomber-crew.json](./55628-bomber-crew.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
 | Bomber Crew: Complete Edition | 167048 | [167048-bomber-crew-complete-edition.json](./167048-bomber-crew-complete-edition.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
@@ -8771,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | BoneTown: The Second Coming Edition - Kinks | 297732 | [297732-bonetown-the-second-coming-edition-kinks.json](./297732-bonetown-the-second-coming-edition-kinks.json) |
 | Bonetox | 381180 | [381180-bonetox.json](./381180-bonetox.json) |
+| Boneworks | 115789 | [115789-boneworks.json](./115789-boneworks.json) |
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
 | Bonfire | 201658 | [201658-bonfire.json](./201658-bonfire.json) |
