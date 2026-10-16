@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 2: Collector's Edition | 23506 | [23506-far-cry-2-collectors-edition.json](./23506-far-cry-2-collectors-edition.json) |
 | Far Cry 2: Fortune's Edition | 46633 | [46633-far-cry-2-fortunes-edition.json](./46633-far-cry-2-fortunes-edition.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
+| Far Cry 3: Blood Dragon - Classic Edition | 188063 | [188063-far-cry-3-blood-dragon-classic-edition.json](./188063-far-cry-3-blood-dragon-classic-edition.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
+| Far Cry 6: Control | 182124 | [182124-far-cry-6-control.json](./182124-far-cry-6-control.json) |
 | Far Cry 6: Game of the Year Edition | 220800 | [220800-far-cry-6-game-of-the-year-edition.json](./220800-far-cry-6-game-of-the-year-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
@@ -5286,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
 | Flesh Prison | 323209 | [323209-flesh-prison.json](./323209-flesh-prison.json) |
 | Flesh Psychosis | 333041 | [333041-flesh-psychosis.json](./333041-flesh-psychosis.json) |
+| Flesh, Blood, & Concrete | 172807 | [172807-flesh-blood-and-concrete.json](./172807-flesh-blood-and-concrete.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
