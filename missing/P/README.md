@@ -1547,7 +1547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
-| Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
