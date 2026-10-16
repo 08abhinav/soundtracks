@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
+| Dance Dance Revolution Hottest Party | 6658 | [6658-dance-dance-revolution-hottest-party.json](./6658-dance-dance-revolution-hottest-party.json) |
 | Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
 | Dance Dance Revolution Konamix | 23794 | [23794-dance-dance-revolution-konamix.json](./23794-dance-dance-revolution-konamix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Fisher Kills the Government | 172437 | [172437-danny-fisher-kills-the-government.json](./172437-danny-fisher-kills-the-government.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
+| Danny Phantom: Urban Jungle | 6366 | [6366-danny-phantom-urban-jungle.json](./6366-danny-phantom-urban-jungle.json) |
 | Danny Phantom: Urban Jungle Rumble | 144582 | [144582-danny-phantom-urban-jungle-rumble.json](./144582-danny-phantom-urban-jungle-rumble.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
@@ -7094,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Football | 78590 | [78590-disney-sports-football.json](./78590-disney-sports-football.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
+| Disney Sports Skateboarding | 3881 | [3881-disney-sports-skateboarding.json](./3881-disney-sports-skateboarding.json) |
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
 | Disney Sports Soccer | 3882 | [3882-disney-sports-soccer.json](./3882-disney-sports-soccer.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
@@ -7188,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
+| Disney's Party | 3886 | [3886-disneys-party.json](./3886-disneys-party.json) |
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
@@ -8730,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
 | Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
+| Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku | 3891 | [3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json](./3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donkey Quiz | 263406 | [263406-donkey-quiz.json](./263406-donkey-quiz.json) |
