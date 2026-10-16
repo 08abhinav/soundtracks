@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Delivery | 318626 | [318626-water-delivery.json](./318626-water-delivery.json) |
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
+| Water Drop Brick Breaker | 421185 | [421185-water-drop-brick-breaker.json](./421185-water-drop-brick-breaker.json) |
 | Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
