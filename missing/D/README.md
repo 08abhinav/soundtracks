@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Gold Bug - Collector's Edition | 32780 | [32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json](./32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
@@ -12940,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
+| Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
