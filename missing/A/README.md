@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
+| A Tiny Ghost Game | 418608 | [418608-a-tiny-ghost-game.json](./418608-a-tiny-ghost-game.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A to Z | 88792 | [88792-a-to-z.json](./88792-a-to-z.json) |
@@ -11376,6 +11377,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Swimsuit Set | 351167 | [351167-atelier-yumia-swimsuit-set.json](./351167-atelier-yumia-swimsuit-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Digital Deluxe Edition | 333715 | [333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json](./333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Gamers Super Limited Edition | 418558 | [418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json](./418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - GS Combo Set | 418563 | [418563-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gs-combo-set.json](./418563-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gs-combo-set.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Special Collection Box | 418560 | [418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json](./418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json) |
+| Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Uchuu Sousei! GS Cosmo Combo Set | 418562 | [418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json](./418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Ultimate Edition | 333716 | [333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json](./333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
@@ -11482,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom | 245285 | [245285-atom.json](./245285-atom.json) |
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
+| Atom by Atom | 418620 | [418620-atom-by-atom.json](./418620-atom-by-atom.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
