@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:32:11.216Z",
-  "total_soundtracks": 1750,
+  "generated_at": "2026-10-16T05:32:24.551Z",
+  "total_soundtracks": 1751,
   "games": [
     {
       "igdb_id": 7522,
@@ -9021,6 +9021,20 @@
         {
           "album_name": "Hotshot Racing (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/56yR07smtVLTHsDH1PNWRR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 191797,
+      "game_name": "House Flipper 2",
+      "game_url": "https://ostdb.net/games/house-flipper-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351a41168bfb36ebf5fd4929a",
+      "albums": [
+        {
+          "album_name": "House Flipper 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0KNLEZgkC8LjLTlteoiJn6",
           "apple_music_url": "",
           "album_link_url": ""
         }
