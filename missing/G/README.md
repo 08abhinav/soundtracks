@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigabonk: Mega Survivors | 376243 | [376243-gigabonk-mega-survivors.json](./376243-gigabonk-mega-survivors.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
+| Gigachomp | 421844 | [421844-gigachomp.json](./421844-gigachomp.json) |
 | Gigacrab: Getting Over The Meme | 330123 | [330123-gigacrab-getting-over-the-meme.json](./330123-gigacrab-getting-over-the-meme.json) |
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | Guildamation | 387567 | [387567-guildamation.json](./387567-guildamation.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
+| Guilded Fools | 421809 | [421809-guilded-fools.json](./421809-guilded-fools.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
 | Guildfire | 423294 | [423294-guildfire.json](./423294-guildfire.json) |
