@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings Touch | 23494 | [23494-lemmings-touch.json](./23494-lemmings-touch.json) |
 | Lemmings Tribes | 240378 | [240378-lemmings-tribes.json](./240378-lemmings-tribes.json) |
 | Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
+| Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
 | Look for Danger | 226138 | [226138-look-for-danger.json](./226138-look-for-danger.json) |
 | Look for Louis | 106383 | [106383-look-for-louis.json](./106383-look-for-louis.json) |
+| Look Inside | 126546 | [126546-look-inside.json](./126546-look-inside.json) |
 | Look Inside | 291523 | [291523-look-inside.json](./291523-look-inside.json) |
 | Look Inside: Chapter 2 | 199438 | [199438-look-inside-chapter-2.json](./199438-look-inside-chapter-2.json) |
 | Look Mum No Computer | 335837 | [335837-look-mum-no-computer.json](./335837-look-mum-no-computer.json) |
