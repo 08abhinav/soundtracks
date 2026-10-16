@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:47:04.452Z",
-  "total_soundtracks": 1794,
+  "generated_at": "2026-10-16T05:47:19.509Z",
+  "total_soundtracks": 1795,
   "games": [
     {
       "igdb_id": 7522,
@@ -13611,6 +13611,20 @@
         {
           "album_name": "Planet Alpha (Original Video Game Music)",
           "spotify_url": "https://open.spotify.com/album/0MUfSsNWsEDyg0LhnoYrxx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143574,
+      "game_name": "Planet Crafter",
+      "game_url": "https://ostdb.net/games/planet-crafter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dfd7a8e82ed47b83fb964bc9",
+      "albums": [
+        {
+          "album_name": "Planet Crafter (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ezBrNnZWMzAMCYzpf9AOo",
           "apple_music_url": "",
           "album_link_url": ""
         }
