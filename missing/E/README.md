@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: Insect Armageddon - Aerialist Munitions Package | 226815 | [226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json](./226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json) |
 | Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package | 226814 | [226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json](./226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json) |
 | Earth Defense Force: Insect Armageddon - Trooper Special Issue Enforcer Package | 226813 | [226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json](./226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json) |
+| Earth Defense Force: Iron Rain | 68286 | [68286-earth-defense-force-iron-rain.json](./68286-earth-defense-force-iron-rain.json) |
 | Earth Defense Force: Iron Rain - Mission: Golden Storm | 168233 | [168233-earth-defense-force-iron-rain-mission-golden-storm.json](./168233-earth-defense-force-iron-rain-mission-golden-storm.json) |
 | Earth Defense Force: Iron Rain - Ultimate Edition | 118694 | [118694-earth-defense-force-iron-rain-ultimate-edition.json](./118694-earth-defense-force-iron-rain-ultimate-edition.json) |
 | Earth Defense Force: World Brothers | 139067 | [139067-earth-defense-force-world-brothers.json](./139067-earth-defense-force-world-brothers.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
 | Extinction | 175648 | [175648-extinction.json](./175648-extinction.json) |
+| Extinction | 36651 | [36651-extinction.json](./36651-extinction.json) |
 | Extinction / Zombie İnvasion 1 | 368280 | [368280-extinction-zombie-invasion-1.json](./368280-extinction-zombie-invasion-1.json) |
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
