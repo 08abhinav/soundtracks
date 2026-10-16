@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:47:19.509Z",
-  "total_soundtracks": 1795,
+  "generated_at": "2026-10-16T05:47:32.251Z",
+  "total_soundtracks": 1796,
   "games": [
     {
       "igdb_id": 7522,
@@ -15197,6 +15197,20 @@
         {
           "album_name": "Rusty Lake Hotel (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 373580,
+      "game_name": "RV There Yet?",
+      "game_url": "https://ostdb.net/games/rv-there-yet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736e6d10ec0fd5bc1817d16050",
+      "albums": [
+        {
+          "album_name": "RV There Yet? (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ceZp3sb8alQ7kWFgSzYOm",
           "apple_music_url": "",
           "album_link_url": ""
         }
