@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
+| Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
 | Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
 | Undead Horde | 88250 | [88250-undead-horde.json](./88250-undead-horde.json) |
