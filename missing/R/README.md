@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends | 193359 | [193359-rayman-legends.json](./193359-rayman-legends.json) |
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
+| Rayman Legends: Definitive Edition | 27239 | [27239-rayman-legends-definitive-edition.json](./27239-rayman-legends-definitive-edition.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
@@ -3829,7 +3830,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
+| Resident Evil 7: Biohazard - Banned Footage Vol. 2 | 27019 | [27019-resident-evil-7-biohazard-banned-footage-vol-2.json](./27019-resident-evil-7-biohazard-banned-footage-vol-2.json) |
 | Resident Evil 7: Biohazard - Cloud | 102075 | [102075-resident-evil-7-biohazard-cloud.json](./102075-resident-evil-7-biohazard-cloud.json) |
+| Resident Evil 7: Biohazard - Gold Edition | 57692 | [57692-resident-evil-7-biohazard-gold-edition.json](./57692-resident-evil-7-biohazard-gold-edition.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
 | Resident Evil 7: Biohazard - Steelbook Edition | 41857 | [41857-resident-evil-7-biohazard-steelbook-edition.json](./41857-resident-evil-7-biohazard-steelbook-edition.json) |
