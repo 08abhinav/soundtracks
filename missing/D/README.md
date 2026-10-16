@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
+| Dead Head Fred | 21047 | [21047-dead-head-fred.json](./21047-dead-head-fred.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Heat | 92387 | [92387-dead-heat.json](./92387-dead-heat.json) |
@@ -7918,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
+| Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
