@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
+| Endless Fables 2: Frozen Path | 75586 | [75586-endless-fables-2-frozen-path.json](./75586-endless-fables-2-frozen-path.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
 | Endless Fables Collection | 125131 | [125131-endless-fables-collection.json](./125131-endless-fables-collection.json) |
@@ -4761,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Crab: Supporter Pack | 400873 | [400873-everything-is-crab-supporter-pack.json](./400873-everything-is-crab-supporter-pack.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything is Garbage | 140390 | [140390-everything-is-garbage.json](./140390-everything-is-garbage.json) |
+| Everything is Going to be OK | 75861 | [75861-everything-is-going-to-be-ok.json](./75861-everything-is-going-to-be-ok.json) |
 | Everything is Mayo | 121326 | [121326-everything-is-mayo.json](./121326-everything-is-mayo.json) |
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
@@ -5595,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
+| Extreme Warfare Revenge | 76605 | [76605-extreme-warfare-revenge.json](./76605-extreme-warfare-revenge.json) |
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
