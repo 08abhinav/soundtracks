@@ -1928,7 +1928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
-| Barotrauma | 27344 | [27344-barotrauma.json](./27344-barotrauma.json) |
 | Barotrauma: Home & Harbor | 348291 | [348291-barotrauma-home-and-harbor.json](./348291-barotrauma-home-and-harbor.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
