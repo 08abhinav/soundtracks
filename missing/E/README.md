@@ -4112,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
+| Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
+| Eyes Behind 2 | 422491 | [422491-eyes-behind-2.json](./422491-eyes-behind-2.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
