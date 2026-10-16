@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me 3 | 120751 | [120751-hack-me-3.json](./120751-hack-me-3.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
+| Hack.88 | 120788 | [120788-hack-88.json](./120788-hack-88.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
+| Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
@@ -4718,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
+| Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
 | Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
