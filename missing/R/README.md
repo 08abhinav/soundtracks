@@ -7205,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 2: Triple Thrill Pack | 36366 | [36366-rollercoaster-tycoon-2-triple-thrill-pack.json](./36366-rollercoaster-tycoon-2-triple-thrill-pack.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
+| RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
