@@ -4280,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hertz | 244902 | [244902-hertz.json](./244902-hertz.json) |
 | Herz von Afrika | 91875 | [91875-herz-von-afrika.json](./91875-herz-von-afrika.json) |
 | Herzog | 93370 | [93370-herzog.json](./93370-herzog.json) |
+| Herzog Zwei | 24073 | [24073-herzog-zwei.json](./24073-herzog-zwei.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
