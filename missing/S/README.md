@@ -18199,6 +18199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Maiden | 408001 | [408001-steel-maiden.json](./408001-steel-maiden.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
+| Steel Panthers | 14438 | [14438-steel-panthers.json](./14438-steel-panthers.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Panthers III: Brigade Command | 14466 | [14466-steel-panthers-iii-brigade-command.json](./14466-steel-panthers-iii-brigade-command.json) |
 | Steel Panthers: Campaign Disk | 72018 | [72018-steel-panthers-campaign-disk.json](./72018-steel-panthers-campaign-disk.json) |
