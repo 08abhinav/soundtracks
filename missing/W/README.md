@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Three Kingdoms | 369624 | [369624-war-of-the-three-kingdoms.json](./369624-war-of-the-three-kingdoms.json) |
 | War of the Twins | 156716 | [156716-war-of-the-twins.json](./156716-war-of-the-twins.json) |
+| War of the Vikings | 5678 | [5678-war-of-the-vikings.json](./5678-war-of-the-vikings.json) |
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Can Smell It (maybe) | 376632 | [376632-we-can-smell-it-maybe.json](./376632-we-can-smell-it-maybe.json) |
 | We Carry the Fire | 257321 | [257321-we-carry-the-fire.json](./257321-we-carry-the-fire.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
+| We Cheer 2 | 5264 | [5264-we-cheer-2.json](./5264-we-cheer-2.json) |
 | We Could Be Heroes | 264513 | [264513-we-could-be-heroes.json](./264513-we-could-be-heroes.json) |
 | We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
@@ -3068,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
+| Whiplash | 6233 | [6233-whiplash.json](./6233-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash - Crash Valley | 30652 | [30652-whiplash-crash-valley.json](./30652-whiplash-crash-valley.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
@@ -4031,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
+| Wing Island | 5282 | [5282-wing-island.json](./5282-wing-island.json) |
 | Wing Nuts: Battle in the Sky | 61725 | [61725-wing-nuts-battle-in-the-sky.json](./61725-wing-nuts-battle-in-the-sky.json) |
 | Wing of Alnam: Shouchiri no Sora no Achira he | 167100 | [167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json](./167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json) |
 | Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
@@ -6569,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
 | WWE With Authority! | 64173 | [64173-wwe-with-authority.json](./64173-wwe-with-authority.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
+| WWE WrestleMania 21 | 6251 | [6251-wwe-wrestlemania-21.json](./6251-wwe-wrestlemania-21.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
