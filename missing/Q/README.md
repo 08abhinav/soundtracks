@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Combat+ | 357435 | [357435-quake-combat.json](./357435-quake-combat.json) |
 | Quake Condensed | 271776 | [271776-quake-condensed.json](./271776-quake-condensed.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
+| Quake II | 262016 | [262016-quake-ii.json](./262016-quake-ii.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake II Mission Pack: The Reckoning | 15620 | [15620-quake-ii-mission-pack-the-reckoning.json](./15620-quake-ii-mission-pack-the-reckoning.json) |
 | Quake II Netpack I: Extremities | 144613 | [144613-quake-ii-netpack-i-extremities.json](./144613-quake-ii-netpack-i-extremities.json) |
