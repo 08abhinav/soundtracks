@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught! Arena | 65778 | [65778-onslaught-arena.json](./65778-onslaught-arena.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
+| OnTheFrontLine | 30734 | [30734-onthefrontline.json](./30734-onthefrontline.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Spheres | 388316 | [388316-other-spheres.json](./388316-other-spheres.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other Super Mario Bros. U | 302761 | [302761-other-super-mario-bros-u.json](./302761-other-super-mario-bros-u.json) |
+| Other Tanks | 30777 | [30777-other-tanks.json](./30777-other-tanks.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
