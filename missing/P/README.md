@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
+| Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
 | Pinzzo | 195597 | [195597-pinzzo.json](./195597-pinzzo.json) |
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
@@ -10605,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
+| Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
@@ -11679,6 +11681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
 | Psi 5 Trading Company | 26285 | [26285-psi-5-trading-company.json](./26285-psi-5-trading-company.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
+| Psi Break | 421200 | [421200-psi-break.json](./421200-psi-break.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
@@ -11975,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
+| Pull Chain | 421236 | [421236-pull-chain.json](./421236-pull-chain.json) |
 | Pull Dots | 67622 | [67622-pull-dots.json](./67622-pull-dots.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
@@ -12554,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo Tetris 2S | 338091 | [338091-puyo-puyo-tetris-2s.json](./338091-puyo-puyo-tetris-2s.json) |
 | Puyo Puyo Touch | 251500 | [251500-puyo-puyo-touch.json](./251500-puyo-puyo-touch.json) |
+| Puyo Puyo Trainer | 421232 | [421232-puyo-puyo-trainer.json](./421232-puyo-puyo-trainer.json) |
 | Puyo Puyo Tsuu | 222469 | [222469-puyo-puyo-tsuu.json](./222469-puyo-puyo-tsuu.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
