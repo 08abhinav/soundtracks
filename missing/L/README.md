@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap In Deep | 371141 | [371141-leap-in-deep.json](./371141-leap-in-deep.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
+| Leap of Faith | 139130 | [139130-leap-of-faith.json](./139130-leap-of-faith.json) |
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Leaf | 131923 | [131923-leap-of-leaf.json](./131923-leap-of-leaf.json) |
