@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - 1984 Comic Book Pack | 324362 | [324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json](./324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - 1987 Animated Series Pack | 324363 | [324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json](./324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - Metalheads Pack | 356480 | [356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json](./356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Season Pass | 324361 | [324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json](./324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
+| The Electrifying Incident: A Monster Mini-Expedition | 332922 | [332922-the-electrifying-incident-a-monster-mini-expedition.json](./332922-the-electrifying-incident-a-monster-mini-expedition.json) |
 | The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elementalists | 313741 | [313741-the-elementalists.json](./313741-the-elementalists.json) |
@@ -10396,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
+| The Phoenix Gene | 348033 | [348033-the-phoenix-gene.json](./348033-the-phoenix-gene.json) |
 | The Phone Rings | 266716 | [266716-the-phone-rings.json](./266716-the-phone-rings.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
@@ -11591,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
 | The Sims 4: EA Play Edition | 384181 | [384181-the-sims-4-ea-play-edition.json](./384181-the-sims-4-ea-play-edition.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
+| The Sims 4: Enchanted by Nature | 350995 | [350995-the-sims-4-enchanted-by-nature.json](./350995-the-sims-4-enchanted-by-nature.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Clutter Kit | 226792 | [226792-the-sims-4-everyday-clutter-kit.json](./226792-the-sims-4-everyday-clutter-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
@@ -11799,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Special Edition | 328797 | [328797-the-smurfs-colorful-stories-special-edition.json](./328797-the-smurfs-colorful-stories-special-edition.json) |
 | The Smurfs: Dreams | 299572 | [299572-the-smurfs-dreams.json](./299572-the-smurfs-dreams.json) |
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
+| The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
