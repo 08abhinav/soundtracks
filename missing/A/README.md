@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
+| Action Legion | 33808 | [33808-action-legion.json](./33808-action-legion.json) |
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
 | Aerofly FS 1 Flight Simulator | 28220 | [28220-aerofly-fs-1-flight-simulator.json](./28220-aerofly-fs-1-flight-simulator.json) |
+| Aerofly FS 2 Flight Simulator | 33736 | [33736-aerofly-fs-2-flight-simulator.json](./33736-aerofly-fs-2-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Turbo Arrow III / IV | 162743 | [162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json](./162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json) |
@@ -4152,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Alcove | 372798 | [372798-alchemists-alcove.json](./372798-alchemists-alcove.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
+| Alchemist's Awakening | 33801 | [33801-alchemists-awakening.json](./33801-alchemists-awakening.json) |
 | Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
 | Alchemist's Fantasy R: A Girl's Alchemic Furnace | 247665 | [247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json](./247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json) |
 | Alchemist's Garden | 399764 | [399764-alchemists-garden.json](./399764-alchemists-garden.json) |
@@ -6345,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And one day everything changed... | 318618 | [318618-and-one-day-everything-changed.json](./318618-and-one-day-everything-changed.json) |
 | And Other Stories | 161176 | [161176-and-other-stories.json](./161176-and-other-stories.json) |
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
+| And So It Was | 33784 | [33784-and-so-it-was.json](./33784-and-so-it-was.json) |
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
 | And Then He Went to the Tower | 183376 | [183376-and-then-he-went-to-the-tower.json](./183376-and-then-he-went-to-the-tower.json) |
@@ -11445,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
+| Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
@@ -12160,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
 | Aveyond 3: Orbs of Magic - Chapter 3: The Lost Orb | 10014 | [10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json](./10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json) |
 | Aveyond 3: Orbs of Magic - Chapter 4: The Darkthrop Prophecy | 10015 | [10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json](./10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json) |
+| Aveyond 4: Shadow of the Mist | 33732 | [33732-aveyond-4-shadow-of-the-mist.json](./33732-aveyond-4-shadow-of-the-mist.json) |
 | Aveyond: Ean's Quest | 52437 | [52437-aveyond-eans-quest.json](./52437-aveyond-eans-quest.json) |
 | Aveyond: Gates of Night | 52436 | [52436-aveyond-gates-of-night.json](./52436-aveyond-gates-of-night.json) |
 | Aveyond: Rhen's Quest | 52435 | [52435-aveyond-rhens-quest.json](./52435-aveyond-rhens-quest.json) |
