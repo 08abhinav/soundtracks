@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enloyea: Chapter of the Origin of Alchemy | 128274 | [128274-enloyea-chapter-of-the-origin-of-alchemy.json](./128274-enloyea-chapter-of-the-origin-of-alchemy.json) |
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
 | Ennichi Kara Dasshutsu | 283805 | [283805-ennichi-kara-dasshutsu.json](./283805-ennichi-kara-dasshutsu.json) |
+| Ennichi no Tatsujin | 4834 | [4834-ennichi-no-tatsujin.json](./4834-ennichi-no-tatsujin.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
 | Escape From BioStation | 37013 | [37013-escape-from-biostation.json](./37013-escape-from-biostation.json) |
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
+| Escape from Bug Island | 4835 | [4835-escape-from-bug-island.json](./4835-escape-from-bug-island.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Bytesville | 291881 | [291881-escape-from-bytesville.json](./291881-escape-from-bytesville.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
