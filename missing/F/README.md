@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
+| F.E.A.R. Online | 7831 | [7831-f-e-a-r-online.json](./7831-f-e-a-r-online.json) |
 | F.E.A.R. Perseus Mandate | 519 | [519-f-e-a-r-perseus-mandate.json](./519-f-e-a-r-perseus-mandate.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
 | F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
+| F1 05 | 8303 | [8303-f1-05.json](./8303-f1-05.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
 | F1 2002 | 229739 | [229739-f1-2002.json](./229739-f1-2002.json) |
@@ -3038,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
+| FIFA Manager 06 | 20675 | [20675-fifa-manager-06.json](./20675-fifa-manager-06.json) |
 | FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
 | FIFA Manager 08 | 20678 | [20678-fifa-manager-08.json](./20678-fifa-manager-08.json) |
 | FIFA Manager 09 | 20679 | [20679-fifa-manager-09.json](./20679-fifa-manager-09.json) |
@@ -3045,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
+| FIFA Manager 14 | 20687 | [20687-fifa-manager-14.json](./20687-fifa-manager-14.json) |
 | FIFA Mobile | 56345 | [56345-fifa-mobile.json](./56345-fifa-mobile.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
 | FIFA Online | 66910 | [66910-fifa-online.json](./66910-fifa-online.json) |
@@ -7398,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
 | Fossil Echo: Special Edition | 53061 | [53061-fossil-echo-special-edition.json](./53061-fossil-echo-special-edition.json) |
 | Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
+| Fossil Fighters: Champions | 20979 | [20979-fossil-fighters-champions.json](./20979-fossil-fighters-champions.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
 | Fossil Hunter | 152024 | [152024-fossil-hunter.json](./152024-fossil-hunter.json) |
