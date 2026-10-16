@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Undercover | 248142 | [248142-need-for-speed-undercover.json](./248142-need-for-speed-undercover.json) |
 | Need for Speed: Underground | 242990 | [242990-need-for-speed-underground.json](./242990-need-for-speed-underground.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
+| Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night Noodles | 408229 | [408229-night-noodles.json](./408229-night-noodles.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
+| Night of Full Moon | 104096 | [104096-night-of-full-moon.json](./104096-night-of-full-moon.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
 | Night of Full Moon: Contract of Soul | 170465 | [170465-night-of-full-moon-contract-of-soul.json](./170465-night-of-full-moon-contract-of-soul.json) |
