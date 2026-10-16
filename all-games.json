@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:07:38.599Z",
-  "total_soundtracks": 1727,
+  "generated_at": "2026-10-16T05:07:52.845Z",
+  "total_soundtracks": 1728,
   "games": [
     {
       "igdb_id": 7522,
@@ -16432,6 +16432,20 @@
           "album_name": "Superliminal (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115309,
+      "game_name": "Suzerain",
+      "game_url": "https://ostdb.net/games/suzerain",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731e6b6d3f84b6685c21205007",
+      "albums": [
+        {
+          "album_name": "Suzerain (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7yVNjwLh4vBaJReQW20hfd",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
