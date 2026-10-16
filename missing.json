@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T08:17:39.888Z",
-  "total_missing": 218527,
+  "generated_at": "2026-10-16T08:22:48.484Z",
+  "total_missing": 218526,
   "games": [
     {
       "igdb_id": 191680,
@@ -1044580,11 +1044580,6 @@
       "igdb_id": 154795,
       "game_name": "Warhammer 40,000: Lost Crusade",
       "file": "missing/W/154795-warhammer-40-000-lost-crusade.json"
-    },
-    {
-      "igdb_id": 88461,
-      "game_name": "Warhammer 40,000: Mechanicus",
-      "file": "missing/W/88461-warhammer-40-000-mechanicus.json"
     },
     {
       "igdb_id": 302176,
