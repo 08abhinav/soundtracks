@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
+| Harry Potter and the Chamber of Secrets | 166325 | [166325-harry-potter-and-the-chamber-of-secrets.json](./166325-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
 | Harry Potter and the Deathly Hallows: Part 1 | 4904 | [4904-harry-potter-and-the-deathly-hallows-part-1.json](./4904-harry-potter-and-the-deathly-hallows-part-1.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
+| Have a Nice Death | 185241 | [185241-have-a-nice-death.json](./185241-have-a-nice-death.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
@@ -1982,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haxware: Enforcer Games | 258404 | [258404-haxware-enforcer-games.json](./258404-haxware-enforcer-games.json) |
 | Hay Bales | 246507 | [246507-hay-bales.json](./246507-hay-bales.json) |
 | Hay Buddy | 41813 | [41813-hay-buddy.json](./41813-hay-buddy.json) |
+| Hay Day | 7434 | [7434-hay-day.json](./7434-hay-day.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
