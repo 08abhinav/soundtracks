@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
 | Battle-Girl | 58690 | [58690-battle-girl.json](./58690-battle-girl.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
+| Battle: Los Angeles | 19010 | [19010-battle-los-angeles.json](./19010-battle-los-angeles.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
