@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
 | Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
+| Keylocker: Turn Based Cyberpunk Action | 118450 | [118450-keylocker-turn-based-cyberpunk-action.json](./118450-keylocker-turn-based-cyberpunk-action.json) |
 | Keylogger | 172070 | [172070-keylogger.json](./172070-keylogger.json) |
 | Keymash | 141630 | [141630-keymash.json](./141630-keymash.json) |
 | Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
@@ -3487,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
+| Koihime Enbu RyoRaiRai | 104257 | [104257-koihime-enbu-ryorairai.json](./104257-koihime-enbu-ryorairai.json) |
 | Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Koihime Musou: A Heart throbbing, Maidenly Romance of the Three Kingdoms | 23437 | [23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json](./23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json) |
@@ -3751,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
+| KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
 | Korgan | 83810 | [83810-korgan.json](./83810-korgan.json) |
@@ -3936,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
 | Kramer Hentai Adventure 3 | 138588 | [138588-kramer-hentai-adventure-3.json](./138588-kramer-hentai-adventure-3.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
+| Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krampusnacht | 134929 | [134929-krampusnacht.json](./134929-krampusnacht.json) |
