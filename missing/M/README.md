@@ -9134,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
 | MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
 | MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
+| Minutes | 21707 | [21707-minutes.json](./21707-minutes.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Minuto: Galactic Deliveries | 342706 | [342706-minuto-galactic-deliveries.json](./342706-minuto-galactic-deliveries.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
@@ -10341,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momolitos | 378562 | [378562-momolitos.json](./378562-momolitos.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
+| Momonga Pinball Adventures | 22182 | [22182-momonga-pinball-adventures.json](./22182-momonga-pinball-adventures.json) |
 | Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
@@ -11308,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
+| Moon | 21898 | [21898-moon.json](./21898-moon.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
@@ -13627,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Ops | 142792 | [142792-mutant-ops.json](./142792-mutant-ops.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
+| Mutant Storm Empire | 21914 | [21914-mutant-storm-empire.json](./21914-mutant-storm-empire.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
 | Mutant Year Zero: Road to Eden | 89560 | [89560-mutant-year-zero-road-to-eden.json](./89560-mutant-year-zero-road-to-eden.json) |
