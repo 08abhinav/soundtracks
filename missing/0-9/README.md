@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2.5 Dimensional Seduction: Angels on Stage! | 316946 | [316946-2-5-dimensional-seduction-angels-on-stage.json](./316946-2-5-dimensional-seduction-angels-on-stage.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
+| 20 and Some Change | 421833 | [421833-20-and-some-change.json](./421833-20-and-some-change.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
 | 20 Bunnies | 187274 | [187274-20-bunnies.json](./187274-20-bunnies.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
