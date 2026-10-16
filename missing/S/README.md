@@ -8164,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
 | Six Legends | 191521 | [191521-six-legends.json](./191521-six-legends.json) |
+| Six Letter Words | 88790 | [88790-six-letter-words.json](./88790-six-letter-words.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55832 | [55832-six-micro-stories.json](./55832-six-micro-stories.json) |
@@ -9830,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
+| Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom | 77891 | [77891-smart-boys-gameroom.json](./77891-smart-boys-gameroom.json) |
@@ -10457,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
+| Sniper Arena: Online PvP Game | 88766 | [88766-sniper-arena-online-pvp-game.json](./88766-sniper-arena-online-pvp-game.json) |
 | Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
 | Sniper Assassin 2 | 314623 | [314623-sniper-assassin-2.json](./314623-sniper-assassin-2.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
@@ -11470,6 +11473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
+| Solitaire Deluxe 2 | 88855 | [88855-solitaire-deluxe-2.json](./88855-solitaire-deluxe-2.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Dreamscapes | 349825 | [349825-solitaire-dreamscapes.json](./349825-solitaire-dreamscapes.json) |
@@ -11794,6 +11798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
+| SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
@@ -21145,6 +21150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
+| SUP Multiplayer Racing | 88760 | [88760-sup-multiplayer-racing.json](./88760-sup-multiplayer-racing.json) |
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
