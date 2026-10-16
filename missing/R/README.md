@@ -3874,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: Deluxe Edition | 142810 | [142810-resident-evil-village-deluxe-edition.json](./142810-resident-evil-village-deluxe-edition.json) |
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
+| Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Tomb Raider: 20 Year Celebration | 23331 | [23331-rise-of-the-tomb-raider-20-year-celebration.json](./23331-rise-of-the-tomb-raider-20-year-celebration.json) |
 | Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch | 14774 | [14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json](./14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json) |
 | Rise of the Tomb Raider: Blood Ties | 24890 | [24890-rise-of-the-tomb-raider-blood-ties.json](./24890-rise-of-the-tomb-raider-blood-ties.json) |
+| Rise of the Tomb Raider: Cold Darkness Awakened | 25219 | [25219-rise-of-the-tomb-raider-cold-darkness-awakened.json](./25219-rise-of-the-tomb-raider-cold-darkness-awakened.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
 | Rise of the Tomb Raider: Endurance Mode | 214844 | [214844-rise-of-the-tomb-raider-endurance-mode.json](./214844-rise-of-the-tomb-raider-endurance-mode.json) |
 | Rise of the Triad | 2381 | [2381-rise-of-the-triad.json](./2381-rise-of-the-triad.json) |
