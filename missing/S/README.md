@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 163763 | [163763-samsara.json](./163763-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
+| Samsara | 76641 | [76641-samsara.json](./76641-samsara.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
 | Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
@@ -6541,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Attack! | 73988 | [73988-shoujo-attack.json](./73988-shoujo-attack.json) |
+| Shoujo City | 76920 | [76920-shoujo-city.json](./76920-shoujo-city.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kageki Revue Starlight Re Live | 112198 | [112198-shoujo-kageki-revue-starlight-re-live.json](./112198-shoujo-kageki-revue-starlight-re-live.json) |
@@ -12244,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
 | Sonic Runners | 20023 | [20023-sonic-runners.json](./20023-sonic-runners.json) |
+| Sonic Runners Adventure | 76844 | [76844-sonic-runners-adventure.json](./76844-sonic-runners-adventure.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
@@ -15748,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
 | Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
+| Spot: The Video Game | 48075 | [48075-spot-the-video-game.json](./48075-spot-the-video-game.json) |
 | SpotCat vs. The Cheddar Mafia Back To Past | 388198 | [388198-spotcat-vs-the-cheddar-mafia-back-to-past.json](./388198-spotcat-vs-the-cheddar-mafia-back-to-past.json) |
 | SpotCat vs. The Cheddar Mafia In Europe | 388199 | [388199-spotcat-vs-the-cheddar-mafia-in-europe.json](./388199-spotcat-vs-the-cheddar-mafia-in-europe.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
@@ -16091,6 +16095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squareball | 67212 | [67212-squareball.json](./67212-squareball.json) |
+| Squareboy vs Bullies: Arena Edition | 75345 | [75345-squareboy-vs-bullies-arena-edition.json](./75345-squareboy-vs-bullies-arena-edition.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
@@ -20720,6 +20725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
 | Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
+| Summer Islands | 76192 | [76192-summer-islands.json](./76192-summer-islands.json) |
 | Summer Islands: Growth | 298821 | [298821-summer-islands-growth.json](./298821-summer-islands-growth.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
@@ -24416,6 +24422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
+| Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
