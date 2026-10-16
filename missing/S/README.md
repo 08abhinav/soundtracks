@@ -4223,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Knights 2 | 140885 | [140885-seven-knights-2.json](./140885-seven-knights-2.json) |
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
 | Seven Knights Re:Birth | 366551 | [366551-seven-knights-re-birth.json](./366551-seven-knights-re-birth.json) |
+| Seven Knights: Time Wanderer | 140645 | [140645-seven-knights-time-wanderer.json](./140645-seven-knights-time-wanderer.json) |
 | Seven Knights: Time Wanderer - Casual Costume Set | 237931 | [237931-seven-knights-time-wanderer-casual-costume-set.json](./237931-seven-knights-time-wanderer-casual-costume-set.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
@@ -11355,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
+| Söldner-X 2: Final Prototype - Definitive Edition | 140847 | [140847-soldner-x-2-final-prototype-definitive-edition.json](./140847-soldner-x-2-final-prototype-definitive-edition.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
 | Söldner-X: Himmelsstürmer | 21270 | [21270-soldner-x-himmelssturmer.json](./21270-soldner-x-himmelssturmer.json) |
@@ -17392,6 +17394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
+| Stargate: Timekeepers | 147164 | [147164-stargate-timekeepers.json](./147164-stargate-timekeepers.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargazer | 35173 | [35173-stargazer.json](./35173-stargazer.json) |
 | Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
@@ -24787,6 +24790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Gurrah | 119910 | [119910-swords-of-gurrah.json](./119910-swords-of-gurrah.json) |
 | Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
+| Swords of Legends Online | 145522 | [145522-swords-of-legends-online.json](./145522-swords-of-legends-online.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
