@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
 | Age of Wanderer | 135588 | [135588-age-of-wanderer.json](./135588-age-of-wanderer.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
+| Age of War 2 | 165304 | [165304-age-of-war-2.json](./165304-age-of-war-2.json) |
 | Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
@@ -10586,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
+| Asteroids | 172788 | [172788-asteroids.json](./172788-asteroids.json) |
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
@@ -11107,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky | 7279 | [7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json](./7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
