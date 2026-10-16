@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
+| Evil Star | 75058 | [75058-evil-star.json](./75058-evil-star.json) |
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
