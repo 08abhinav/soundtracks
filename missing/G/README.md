@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
+| Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
+| Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
@@ -4974,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: Dead of Night | 134371 | [134371-goosebumps-dead-of-night.json](./134371-goosebumps-dead-of-night.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
+| Goosebumps: Terror in Little Creek | 350211 | [350211-goosebumps-terror-in-little-creek.json](./350211-goosebumps-terror-in-little-creek.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
@@ -7009,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
+| Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
