@@ -8761,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
+| Mini Gal4Xy | 117456 | [117456-mini-gal4xy.json](./117456-mini-gal4xy.json) |
 | Mini Game Collection | 40668 | [40668-mini-game-collection.json](./40668-mini-game-collection.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
