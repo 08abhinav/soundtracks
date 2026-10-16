@@ -6902,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgaea Mayhem | 335576 | [335576-disgaea-mayhem.json](./335576-disgaea-mayhem.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
+| Disgaea: Afternoon of Darkness | 22528 | [22528-disgaea-afternoon-of-darkness.json](./22528-disgaea-afternoon-of-darkness.json) |
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
@@ -12323,6 +12324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Faster | 318132 | [318132-dungeon-faster.json](./318132-dungeon-faster.json) |
 | Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
+| Dungeon Fighter Online | 26606 | [26606-dungeon-fighter-online.json](./26606-dungeon-fighter-online.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
