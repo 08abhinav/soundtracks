@@ -3156,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
+| Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
@@ -7599,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
+| Anyland | 31966 | [31966-anyland.json](./31966-anyland.json) |
 | Anyone for Cards? | 72001 | [72001-anyone-for-cards.json](./72001-anyone-for-cards.json) |
 | Anyone There? | 235373 | [235373-anyone-there.json](./235373-anyone-there.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
@@ -8017,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Moto Racing 3D | 78741 | [78741-aqua-moto-racing-3d.json](./78741-aqua-moto-racing-3d.json) |
+| Aqua Moto Racing Utopia | 26224 | [26224-aqua-moto-racing-utopia.json](./26224-aqua-moto-racing-utopia.json) |
 | Aqua Pals | 271661 | [271661-aqua-pals.json](./271661-aqua-pals.json) |
 | Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
