@@ -7810,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Frigates | 388194 | [388194-frantic-frigates.json](./388194-frantic-frigates.json) |
 | Frantic Mouse | 247394 | [247394-frantic-mouse.json](./247394-frantic-mouse.json) |
 | Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
+| Frantics | 69348 | [69348-frantics.json](./69348-frantics.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
