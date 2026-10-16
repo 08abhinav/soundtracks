@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
+| Naruto: Gekitou Ninja Taisen! 3 | 75836 | [75836-naruto-gekitou-ninja-taisen-3.json](./75836-naruto-gekitou-ninja-taisen-3.json) |
 | Naruto: Gekitou Ninja Taisen! 4 | 75837 | [75837-naruto-gekitou-ninja-taisen-4.json](./75837-naruto-gekitou-ninja-taisen-4.json) |
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neven | 75205 | [75205-neven.json](./75205-neven.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
+| Never Again | 53930 | [53930-never-again.json](./53930-never-again.json) |
 | Never Alone | 273575 | [273575-never-alone.json](./273575-never-alone.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
 | Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
@@ -2144,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Split the Party | 99046 | [99046-never-split-the-party.json](./99046-never-split-the-party.json) |
 | Never Stop | 102053 | [102053-never-stop.json](./102053-never-stop.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
+| Never Stop Sneakin' | 74161 | [74161-never-stop-sneakin.json](./74161-never-stop-sneakin.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | Never7: Kurumi Cure | 349900 | [349900-never7-kurumi-cure.json](./349900-never7-kurumi-cure.json) |
