@@ -8996,6 +8996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
+| Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
 | Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
 | Slashing Knight | 403053 | [403053-slashing-knight.json](./403053-slashing-knight.json) |
@@ -14040,6 +14041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
+| Spacelines from the Far Out | 139192 | [139192-spacelines-from-the-far-out.json](./139192-spacelines-from-the-far-out.json) |
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
 | Spacelords: Schneider Deluxe Character Pack | 169317 | [169317-spacelords-schneider-deluxe-character-pack.json](./169317-spacelords-schneider-deluxe-character-pack.json) |
@@ -20678,6 +20680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
+| Summer Memories | 137664 | [137664-summer-memories.json](./137664-summer-memories.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
 | Summer Mission | 169259 | [169259-summer-mission.json](./169259-summer-mission.json) |
@@ -21774,6 +21777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory | 17540 | [17540-super-lemonade-factory.json](./17540-super-lemonade-factory.json) |
 | Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
+| Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
