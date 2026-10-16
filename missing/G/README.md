@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
 | Gene Labs | 84514 | [84514-gene-labs.json](./84514-gene-labs.json) |
+| Gene Rain | 105269 | [105269-gene-rain.json](./105269-gene-rain.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
