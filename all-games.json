@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:07:07.095Z",
-  "total_soundtracks": 1855,
+  "generated_at": "2026-10-16T06:07:21.876Z",
+  "total_soundtracks": 1856,
   "games": [
     {
       "igdb_id": 7522,
@@ -16045,6 +16045,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/shenmue-iii-the-definitive-soundtrack/1547575397?uo=4",
           "album_link_url": "https://album.link/i/1547575397"
+        }
+      ]
+    },
+    {
+      "igdb_id": 134161,
+      "game_name": "Sherlock Holmes: Chapter One",
+      "game_url": "https://ostdb.net/games/sherlock-holmes-chapter-one",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cf4491c39ee263a3a9e0e2c1",
+      "albums": [
+        {
+          "album_name": "Sherlock Holmes: Chapter One (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2TGq2ItYAsrxuxvAlJPzK9",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
