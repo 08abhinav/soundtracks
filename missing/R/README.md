@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
+| Rage of the Gladiator | 22113 | [22113-rage-of-the-gladiator.json](./22113-rage-of-the-gladiator.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
