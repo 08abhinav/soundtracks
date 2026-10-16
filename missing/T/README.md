@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
 | Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
+| Terminator: Resistance Enhanced | 146146 | [146146-terminator-resistance-enhanced.json](./146146-terminator-resistance-enhanced.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
@@ -4050,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
+| The Amazing American Circus | 140559 | [140559-the-amazing-american-circus.json](./140559-the-amazing-american-circus.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
 | The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
@@ -6434,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Falconeer: Revolution Remaster | 121709 | [121709-the-falconeer-revolution-remaster.json](./121709-the-falconeer-revolution-remaster.json) |
+| The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
@@ -13447,6 +13450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
+| The World After | 147295 | [147295-the-world-after.json](./147295-the-world-after.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
@@ -17599,6 +17603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
@@ -19552,6 +19557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
+| Trails and Traces: The Tomb of Thomas Tew | 146236 | [146236-trails-and-traces-the-tomb-of-thomas-tew.json](./146236-trails-and-traces-the-tomb-of-thomas-tew.json) |
 | Trails in the Sky 1st Chapter: Banner Set C | 370831 | [370831-trails-in-the-sky-1st-chapter-banner-set-c.json](./370831-trails-in-the-sky-1st-chapter-banner-set-c.json) |
 | Trails in the Sky 1st Chapter: Character Stand Set | 370832 | [370832-trails-in-the-sky-1st-chapter-character-stand-set.json](./370832-trails-in-the-sky-1st-chapter-character-stand-set.json) |
 | Trails in the Sky 1st Chapter: Demon King Dress-up Set | 370833 | [370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json](./370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json) |
