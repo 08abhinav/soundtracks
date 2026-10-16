@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
+| Konami's Soccer | 41686 | [41686-konamis-soccer.json](./41686-konamis-soccer.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwazy Kwaks | 93129 | [93129-kwazy-kwaks.json](./93129-kwazy-kwaks.json) |
 | Kwik Snax | 14491 | [14491-kwik-snax.json](./14491-kwik-snax.json) |
 | Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
+| Kwirk | 48943 | [48943-kwirk.json](./48943-kwirk.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
