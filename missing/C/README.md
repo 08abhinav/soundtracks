@@ -9533,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containerphobia | 208662 | [208662-containerphobia.json](./208662-containerphobia.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment | 100079 | [100079-containment.json](./100079-containment.json) |
+| Containment | 81618 | [81618-containment.json](./81618-containment.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
 | Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
@@ -13013,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube | 403618 | [403618-cube.json](./403618-cube.json) |
+| Cube | 81499 | [81499-cube.json](./81499-cube.json) |
 | Cube & Seek | 409711 | [409711-cube-and-seek.json](./409711-cube-and-seek.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
 | Cube 2x1 | 267970 | [267970-cube-2x1.json](./267970-cube-2x1.json) |
@@ -13602,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
+| Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
