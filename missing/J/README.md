@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
+| Jigsaw Puzzles Epic | 83424 | [83424-jigsaw-puzzles-epic.json](./83424-jigsaw-puzzles-epic.json) |
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2: Extra Songs | 268119 | [268119-just-dance-2-extra-songs.json](./268119-just-dance-2-extra-songs.json) |
 | Just Dance 2014 Basic Pack | 231835 | [231835-just-dance-2014-basic-pack.json](./231835-just-dance-2014-basic-pack.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
+| Just Dance 2016 & Just Dance: Disney Party 2 | 82540 | [82540-just-dance-2016-and-just-dance-disney-party-2.json](./82540-just-dance-2016-and-just-dance-disney-party-2.json) |
 | Just Dance 2016: Gold Edition | 83795 | [83795-just-dance-2016-gold-edition.json](./83795-just-dance-2016-gold-edition.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2019 | 103315 | [103315-just-dance-2019.json](./103315-just-dance-2019.json) |
