@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:32:42.779Z",
-  "total_soundtracks": 1901,
+  "generated_at": "2026-10-16T06:32:58.831Z",
+  "total_soundtracks": 1902,
   "games": [
     {
       "igdb_id": 7522,
@@ -20587,6 +20587,20 @@
         {
           "album_name": "Total War: Warhammer II (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6o78CL054sQlHHqGIzxsiS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143114,
+      "game_name": "Total War: Warhammer III",
+      "game_url": "https://ostdb.net/games/total-war-warhammer-iii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc36b3f3ed2d72738e0dcc43",
+      "albums": [
+        {
+          "album_name": "Total War: Warhammer III (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4qI2ONNYSjztvXVh6GZ8Gd",
           "apple_music_url": "",
           "album_link_url": ""
         }
