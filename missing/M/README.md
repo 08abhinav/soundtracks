@@ -3128,7 +3128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
-| Martha Is Dead | 90714 | [90714-martha-is-dead.json](./90714-martha-is-dead.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
 | Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
 | Martha Madison: Energy | 83961 | [83961-martha-madison-energy.json](./83961-martha-madison-energy.json) |
@@ -6686,7 +6685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
 | Metal Gear Solid: VR Missions | 18683 | [18683-metal-gear-solid-vr-missions.json](./18683-metal-gear-solid-vr-missions.json) |
-| Metal Gear Survive | 22703 | [22703-metal-gear-survive.json](./22703-metal-gear-survive.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
@@ -11019,7 +11017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Saga: Evolution | 304248 | [304248-monster-saga-evolution.json](./304248-monster-saga-evolution.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
-| Monster Sanctuary | 89594 | [89594-monster-sanctuary.json](./89594-monster-sanctuary.json) |
 | Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
 | Monster Scout | 284840 | [284840-monster-scout.json](./284840-monster-scout.json) |
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
@@ -14717,7 +14714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
 | Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
 | Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
-| Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
