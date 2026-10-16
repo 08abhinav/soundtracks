@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
+| ShadowCore VR | 75069 | [75069-shadowcore-vr.json](./75069-shadowcore-vr.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
@@ -7818,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation Zoo | 97987 | [97987-simulation-zoo.json](./97987-simulation-zoo.json) |
 | Simulator Bundle: Gas Station Simulator and Barn Finders | 265190 | [265190-simulator-bundle-gas-station-simulator-and-barn-finders.json](./265190-simulator-bundle-gas-station-simulator-and-barn-finders.json) |
 | Simulator gas station | 51414 | [51414-simulator-gas-station.json](./51414-simulator-gas-station.json) |
+| Simulator hipstera 2k17 | 75057 | [75057-simulator-hipstera-2k17.json](./75057-simulator-hipstera-2k17.json) |
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator Of A Person Who Is Taking Online Course To Study How To Lose Weight | 279264 | [279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json](./279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
 | Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
+| Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
@@ -9175,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty | 161593 | [161593-sleeping-beauty.json](./161593-sleeping-beauty.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Dawn | 75201 | [75201-sleeping-dawn.json](./75201-sleeping-dawn.json) |
 | Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
 | Sleeping Dogs: Drunken Fist Pack | 166007 | [166007-sleeping-dogs-drunken-fist-pack.json](./166007-sleeping-dogs-drunken-fist-pack.json) |
 | Sleeping Dogs: Ghost Pig | 16398 | [16398-sleeping-dogs-ghost-pig.json](./16398-sleeping-dogs-ghost-pig.json) |
@@ -17490,6 +17494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Mario | 225551 | [225551-starlight-mario.json](./225551-starlight-mario.json) |
 | Starlight Mario: Underworld | 222972 | [222972-starlight-mario-underworld.json](./222972-starlight-mario-underworld.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
+| Starlight of Aeons | 75080 | [75080-starlight-of-aeons.json](./75080-starlight-of-aeons.json) |
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
@@ -21330,6 +21335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
 | Super Boxing Championship! | 170256 | [170256-super-boxing-championship.json](./170256-super-boxing-championship.json) |
+| Super BoxMan Ultra | 75270 | [75270-super-boxman-ultra.json](./75270-super-boxman-ultra.json) |
 | Super Boy Allan | 41305 | [41305-super-boy-allan.json](./41305-super-boy-allan.json) |
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
@@ -23760,6 +23766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrounded by mice | 118105 | [118105-surrounded-by-mice.json](./118105-surrounded-by-mice.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
+| Surv1v3 | 75178 | [75178-surv1v3.json](./75178-surv1v3.json) |
 | Survarium: Steam Shotgun Pack | 162712 | [162712-survarium-steam-shotgun-pack.json](./162712-survarium-steam-shotgun-pack.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
@@ -24711,6 +24718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
+| Sword Bros | 75063 | [75063-sword-bros.json](./75063-sword-bros.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
 | Sword Coast Legends: Deluxe Campaign Edition | 53701 | [53701-sword-coast-legends-deluxe-campaign-edition.json](./53701-sword-coast-legends-deluxe-campaign-edition.json) |
 | Sword Coast Legends: Deluxe Edition | 53700 | [53700-sword-coast-legends-deluxe-edition.json](./53700-sword-coast-legends-deluxe-edition.json) |
