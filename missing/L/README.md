@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
 | Layers of Fear: Inheritance | 20907 | [20907-layers-of-fear-inheritance.json](./20907-layers-of-fear-inheritance.json) |
 | Layers of Fear: Legacy | 68161 | [68161-layers-of-fear-legacy.json](./68161-layers-of-fear-legacy.json) |
+| Layers of Fear: Masterpiece Edition | 23177 | [23177-layers-of-fear-masterpiece-edition.json](./23177-layers-of-fear-masterpiece-edition.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
+| Left 4 Dead: Crash Course | 22887 | [22887-left-4-dead-crash-course.json](./22887-left-4-dead-crash-course.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
 | Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
