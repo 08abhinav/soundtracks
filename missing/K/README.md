@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KFC The Hard Way | 98551 | [98551-kfc-the-hard-way.json](./98551-kfc-the-hard-way.json) |
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
+| KGB | 3362 | [3362-kgb.json](./3362-kgb.json) |
 | KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Kinect Sparkler | 329730 | [329730-kinect-fun-labs-kinect-sparkler.json](./329730-kinect-fun-labs-kinect-sparkler.json) |
 | Kinect Fun Labs: Musical Feet | 20217 | [20217-kinect-fun-labs-musical-feet.json](./20217-kinect-fun-labs-musical-feet.json) |
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
+| Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
@@ -3387,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobayashi Clash of Conquest | 397932 | [397932-kobayashi-clash-of-conquest.json](./397932-kobayashi-clash-of-conquest.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
+| Kobe Bryant in NBA Courtside | 3397 | [3397-kobe-bryant-in-nba-courtside.json](./3397-kobe-bryant-in-nba-courtside.json) |
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
 | Kobito-zukan: Kobito Kansatsu Set | 299548 | [299548-kobito-zukan-kobito-kansatsu-set.json](./299548-kobito-zukan-kobito-kansatsu-set.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
@@ -3486,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
+| Koira | 305033 | [305033-koira.json](./305033-koira.json) |
 | Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
@@ -4267,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Cafe | 288094 | [288094-kururin-cafe.json](./288094-kururin-cafe.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
+| Kururin Paradise | 1470 | [1470-kururin-paradise.json](./1470-kururin-paradise.json) |
 | Kururin Squash! | 1471 | [1471-kururin-squash.json](./1471-kururin-squash.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
