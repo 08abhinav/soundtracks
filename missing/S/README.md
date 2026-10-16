@@ -5908,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinnyuushain Tooru-Kun | 6133 | [6133-shinnyuushain-tooru-kun.json](./6133-shinnyuushain-tooru-kun.json) |
+| Shinobi | 10219 | [10219-shinobi.json](./10219-shinobi.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
@@ -5916,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
 | Shinobi III: Return of the Ninja Master | 2623 | [2623-shinobi-iii-return-of-the-ninja-master.json](./2623-shinobi-iii-return-of-the-ninja-master.json) |
+| Shinobi Legions | 10221 | [10221-shinobi-legions.json](./10221-shinobi-legions.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
@@ -9566,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Quest: Wild West Shootout | 25537 | [25537-slot-quest-wild-west-shootout.json](./25537-slot-quest-wild-west-shootout.json) |
+| Slot Racers | 18422 | [18422-slot-racers.json](./18422-slot-racers.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
 | Slot Shots Pinball 2 | 235657 | [235657-slot-shots-pinball-2.json](./235657-slot-shots-pinball-2.json) |
 | Slot Shots Pinball Collection | 197571 | [197571-slot-shots-pinball-collection.json](./197571-slot-shots-pinball-collection.json) |
@@ -11035,6 +11038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofie: The Echoes | 307140 | [307140-sofie-the-echoes.json](./307140-sofie-the-echoes.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
+| Soft Body | 18514 | [18514-soft-body.json](./18514-soft-body.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
@@ -16346,6 +16350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
+| Stairs | 18111 | [18111-stairs.json](./18111-stairs.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
@@ -16971,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
+| Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
@@ -17072,6 +17078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
+| Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
 | Star Wars: The Battle for Hoth | 66424 | [66424-star-wars-the-battle-for-hoth.json](./66424-star-wars-the-battle-for-hoth.json) |
@@ -24023,6 +24030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Stomp | 223634 | [223634-swamp-stomp.json](./223634-swamp-stomp.json) |
+| Swamp Thing | 18304 | [18304-swamp-thing.json](./18304-swamp-thing.json) |
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamp Up | 291193 | [291193-swamp-up.json](./291193-swamp-up.json) |
