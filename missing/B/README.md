@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
+| Battle of Britain | 13383 | [13383-battle-of-britain.json](./13383-battle-of-britain.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
 | Battle of Castles | 142760 | [142760-battle-of-castles.json](./142760-battle-of-castles.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
+| Battle of the Bulge | 13384 | [13384-battle-of-the-bulge.json](./13384-battle-of-the-bulge.json) |
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
 | Battle of the Eras | 54965 | [54965-battle-of-the-eras.json](./54965-battle-of-the-eras.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
@@ -8335,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
+| Bobby Bearing | 13415 | [13415-bobby-bearing.json](./13415-bobby-bearing.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Carrot Forever | 51083 | [51083-bobby-carrot-forever.json](./51083-bobby-carrot-forever.json) |
 | Bobby Charlton Soccer | 15681 | [15681-bobby-charlton-soccer.json](./15681-bobby-charlton-soccer.json) |
@@ -9128,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
+| Booty | 13424 | [13424-booty.json](./13424-booty.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
 | Booty Calls | 104803 | [104803-booty-calls.json](./104803-booty-calls.json) |
 | Booty Calls: Eve Pack | 226266 | [226266-booty-calls-eve-pack.json](./226266-booty-calls-eve-pack.json) |
@@ -9585,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
 | Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
+| Bounder | 13428 | [13428-bounder.json](./13428-bounder.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
@@ -10059,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
+| Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
@@ -10622,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Blaster | 281968 | [281968-brick-blaster.json](./281968-brick-blaster.json) |
 | Brick Blaster | 47087 | [47087-brick-blaster.json](./47087-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
+| Brick Breaker | 13436 | [13436-brick-breaker.json](./13436-brick-breaker.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
 | Brick Breaker Arcade | 59201 | [59201-brick-breaker-arcade.json](./59201-brick-breaker-arcade.json) |
