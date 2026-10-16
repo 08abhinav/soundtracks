@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
 | Neptune | 313451 | [313451-neptune.json](./313451-neptune.json) |
 | Neptune | 363812 | [363812-neptune.json](./363812-neptune.json) |
+| Neptune Flux | 35020 | [35020-neptune-flux.json](./35020-neptune-flux.json) |
 | Neptune Have Mercy | 59758 | [59758-neptune-have-mercy.json](./59758-neptune-have-mercy.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
@@ -3386,7 +3387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
 | Nihilore: The Mechanical Empire | 270844 | [270844-nihilore-the-mechanical-empire.json](./270844-nihilore-the-mechanical-empire.json) |
 | Nihilsearch | 146551 | [146551-nihilsearch.json](./146551-nihilsearch.json) |
-| Nihilumbra | 3026 | [3026-nihilumbra.json](./3026-nihilumbra.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
@@ -5409,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
 | Nuts Space Shooter | 201515 | [201515-nuts-space-shooter.json](./201515-nuts-space-shooter.json) |
+| Nuts!: Battle of the Bulge | 33809 | [33809-nuts-battle-of-the-bulge.json](./33809-nuts-battle-of-the-bulge.json) |
 | NutShot | 291356 | [291356-nutshot.json](./291356-nutshot.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
