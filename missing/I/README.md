@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
+| Impact Racing | 20250 | [20250-impact-racing.json](./20250-impact-racing.json) |
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
 | Impact Trial: First Encounter | 279126 | [279126-impact-trial-first-encounter.json](./279126-impact-trial-first-encounter.json) |
