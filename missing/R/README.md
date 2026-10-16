@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
+| Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
 | Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
+| Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
@@ -4192,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
+| Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
@@ -8807,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
+| Rush Hour | 91253 | [91253-rush-hour.json](./91253-rush-hour.json) |
 | Rush Hour 3D | 227169 | [227169-rush-hour-3d.json](./227169-rush-hour-3d.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Hour Rally | 174662 | [174662-rush-hour-rally.json](./174662-rush-hour-rally.json) |
