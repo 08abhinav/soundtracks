@@ -3682,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
+| Deep Under the Sky | 17688 | [17688-deep-under-the-sky.json](./17688-deep-under-the-sky.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep Voyage | 97244 | [97244-deep-voyage.json](./97244-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
@@ -5910,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicero | 398391 | [398391-dicero.json](./398391-dicero.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
+| Dicetiny: The Lord of the Dice | 17739 | [17739-dicetiny-the-lord-of-the-dice.json](./17739-dicetiny-the-lord-of-the-dice.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
@@ -6705,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Wolf Game Room | 153133 | [153133-dire-wolf-game-room.json](./153133-dire-wolf-game-room.json) |
 | Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
+| Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | Directional Isolation VR | 135710 | [135710-directional-isolation-vr.json](./135710-directional-isolation-vr.json) |
@@ -12580,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
+| Dungeon of Elements | 17419 | [17419-dungeon-of-elements.json](./17419-dungeon-of-elements.json) |
 | Dungeon of Erotic Master Plus | 307265 | [307265-dungeon-of-erotic-master-plus.json](./307265-dungeon-of-erotic-master-plus.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
