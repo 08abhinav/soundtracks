@@ -6610,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blagmoz | 271672 | [271672-blagmoz.json](./271672-blagmoz.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
+| Blair Witch Volume 1: Rustin Parr | 18489 | [18489-blair-witch-volume-1-rustin-parr.json](./18489-blair-witch-volume-1-rustin-parr.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch Volume 3: The Elly Kedward Tale | 18491 | [18491-blair-witch-volume-3-the-elly-kedward-tale.json](./18491-blair-witch-volume-3-the-elly-kedward-tale.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
@@ -10279,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
 | Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
+| Breached | 18845 | [18845-breached.json](./18845-breached.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
 | Breacher Story | 113456 | [113456-breacher-story.json](./113456-breacher-story.json) |
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
