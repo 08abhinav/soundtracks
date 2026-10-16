@@ -3505,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Blowing Out a Candle | 181698 | [181698-like-blowing-out-a-candle.json](./181698-like-blowing-out-a-candle.json) |
 | Like Camping | 176248 | [176248-like-camping.json](./176248-like-camping.json) |
+| Like Clay | 29267 | [29267-like-clay.json](./29267-like-clay.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
