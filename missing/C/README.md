@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
+| Capcom Classics Collection | 21438 | [21438-capcom-classics-collection.json](./21438-capcom-classics-collection.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Classics Mini Mix | 49192 | [49192-capcom-classics-mini-mix.json](./49192-capcom-classics-mini-mix.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | CellFactor: Combat Training | 63689 | [63689-cellfactor-combat-training.json](./63689-cellfactor-combat-training.json) |
 | CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
+| CellFactor: Revolution | 21420 | [21420-cellfactor-revolution.json](./21420-cellfactor-revolution.json) |
 | CellFighter | 93216 | [93216-cellfighter.json](./93216-cellfighter.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
@@ -3727,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
+| Challenge Me: Brain Puzzles | 21640 | [21640-challenge-me-brain-puzzles.json](./21640-challenge-me-brain-puzzles.json) |
 | Challenge Me: Math Workout | 21639 | [21639-challenge-me-math-workout.json](./21639-challenge-me-math-workout.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
@@ -6835,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
+| Cleopatra: Riddle of the Tomb | 21479 | [21479-cleopatra-riddle-of-the-tomb.json](./21479-cleopatra-riddle-of-the-tomb.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
