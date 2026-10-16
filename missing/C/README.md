@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
 | Castle Master II: The Crypt | 11995 | [11995-castle-master-ii-the-crypt.json](./11995-castle-master-ii-the-crypt.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
+| Castle Must Be Mine | 30744 | [30744-castle-must-be-mine.json](./30744-castle-must-be-mine.json) |
 | Castle Nevermore | 274154 | [274154-castle-nevermore.json](./274154-castle-nevermore.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
+| Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
@@ -7786,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
+| Cogito | 30774 | [30774-cogito.json](./30774-cogito.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
 | Cogmind | 60212 | [60212-cogmind.json](./60212-cogmind.json) |
@@ -9250,6 +9253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
+| Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
@@ -9447,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
+| Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
