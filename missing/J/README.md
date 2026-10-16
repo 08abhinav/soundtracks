@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus Cyber Golf | 270278 | [270278-jack-nicklaus-cyber-golf.json](./270278-jack-nicklaus-cyber-golf.json) |
 | Jack Nicklaus Golf | 49040 | [49040-jack-nicklaus-golf.json](./49040-jack-nicklaus-golf.json) |
 | Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
+| Jack Nicklaus Perfect Golf | 36378 | [36378-jack-nicklaus-perfect-golf.json](./36378-jack-nicklaus-perfect-golf.json) |
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Power Challenge Golf | 46532 | [46532-jack-nicklaus-power-challenge-golf.json](./46532-jack-nicklaus-power-challenge-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
