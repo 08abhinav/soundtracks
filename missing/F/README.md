@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faewoods | 352248 | [352248-faewoods.json](./352248-faewoods.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
+| Fahrenheit | 6612 | [6612-fahrenheit.json](./6612-fahrenheit.json) |
 | Fahrenheit: Indigo Prophecy Remastered | 25009 | [25009-fahrenheit-indigo-prophecy-remastered.json](./25009-fahrenheit-indigo-prophecy-remastered.json) |
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
+| Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
@@ -5076,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Beetles | 246318 | [246318-flame-beetles.json](./246318-flame-beetles.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
+| Flame Hunter: Zhong Kui | 424046 | [424046-flame-hunter-zhong-kui.json](./424046-flame-hunter-zhong-kui.json) |
 | Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
 | Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
 | Flame Keeper + Space Cows | 287591 | [287591-flame-keeper-space-cows.json](./287591-flame-keeper-space-cows.json) |
