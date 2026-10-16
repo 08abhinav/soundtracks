@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
+| Haunted Past: Realm of Ghosts | 36380 | [36380-haunted-past-realm-of-ghosts.json](./36380-haunted-past-realm-of-ghosts.json) |
 | Haunted Places | 207761 | [207761-haunted-places.json](./207761-haunted-places.json) |
 | Haunted Property | 309491 | [309491-haunted-property.json](./309491-haunted-property.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
@@ -7414,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
+| Hotel: Collector's Edition | 36379 | [36379-hotel-collectors-edition.json](./36379-hotel-collectors-edition.json) |
 | Hotel: Lake DLC | 265871 | [265871-hotel-lake-dlc.json](./265871-hotel-lake-dlc.json) |
 | Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
