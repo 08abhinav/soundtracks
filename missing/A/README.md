@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '94 | 99529 | [99529-aca-neo-geo-the-king-of-fighters-94.json](./99529-aca-neo-geo-the-king-of-fighters-94.json) |
 | ACA Neo Geo: The King of Fighters '95 | 99735 | [99735-aca-neo-geo-the-king-of-fighters-95.json](./99735-aca-neo-geo-the-king-of-fighters-95.json) |
 | ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
+| ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
@@ -7419,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
+| Antheads: It Came from the Desert II | 1061 | [1061-antheads-it-came-from-the-desert-ii.json](./1061-antheads-it-came-from-the-desert-ii.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
 | Anthem: Legion of Dawn Edition | 103276 | [103276-anthem-legion-of-dawn-edition.json](./103276-anthem-legion-of-dawn-edition.json) |
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Mappy | 186562 | [186562-arcade-archives-mappy.json](./186562-arcade-archives-mappy.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
+| Arcade Archives: Mario Bros. | 67197 | [67197-arcade-archives-mario-bros.json](./67197-arcade-archives-mario-bros.json) |
 | Arcade Archives: Markham | 147084 | [147084-arcade-archives-markham.json](./147084-arcade-archives-markham.json) |
 | Arcade Archives: Marvel Land | 233950 | [233950-arcade-archives-marvel-land.json](./233950-arcade-archives-marvel-land.json) |
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
@@ -11331,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
 | Atomanta | 365222 | [365222-atomanta.json](./365222-atomanta.json) |
+| Atomega | 64204 | [64204-atomega.json](./64204-atomega.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
 | Atomfall: Complete Edition | 393802 | [393802-atomfall-complete-edition.json](./393802-atomfall-complete-edition.json) |
 | Atomfall: The Red Strain | 364002 | [364002-atomfall-the-red-strain.json](./364002-atomfall-the-red-strain.json) |
