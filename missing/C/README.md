@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
 | Call of Duty: WWII - Digital Deluxe Edition | 52717 | [52717-call-of-duty-wwii-digital-deluxe-edition.json](./52717-call-of-duty-wwii-digital-deluxe-edition.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
+| Call of Duty: WWII - United Front DLC | 103518 | [103518-call-of-duty-wwii-united-front-dlc.json](./103518-call-of-duty-wwii-united-front-dlc.json) |
 | Call of Duty: WWII + Destiny 2 Bundle | 86666 | [86666-call-of-duty-wwii-destiny-2-bundle.json](./86666-call-of-duty-wwii-destiny-2-bundle.json) |
 | Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Cel Story | 364350 | [364350-cel-story.json](./364350-cel-story.json) |
 | Celadon | 214121 | [214121-celadon.json](./214121-celadon.json) |
+| Celaria | 118385 | [118385-celaria.json](./118385-celaria.json) |
 | Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
@@ -3954,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Faction | 192095 | [192095-chaos-faction.json](./192095-chaos-faction.json) |
 | Chaos Faction 2 | 192096 | [192096-chaos-faction-2.json](./192096-chaos-faction-2.json) |
 | Chaos Faction Legacy Collection | 333776 | [333776-chaos-faction-legacy-collection.json](./333776-chaos-faction-legacy-collection.json) |
+| Chaos Field | 124006 | [124006-chaos-field.json](./124006-chaos-field.json) |
 | Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
@@ -4381,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
 | Chemical Plant Raid | 335461 | [335461-chemical-plant-raid.json](./335461-chemical-plant-raid.json) |
 | Chemical Plant Worker Simulator | 364712 | [364712-chemical-plant-worker-simulator.json](./364712-chemical-plant-worker-simulator.json) |
+| Chemically Bonded | 105131 | [105131-chemically-bonded.json](./105131-chemically-bonded.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
@@ -5965,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
+| Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
