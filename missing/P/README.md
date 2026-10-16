@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
+| P-- | 418600 | [418600-p.json](./418600-p.json) |
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
 | P-38 Lightning | 208986 | [208986-p-38-lightning.json](./208986-p-38-lightning.json) |
 | P-38 Lightning Tour of Duty | 197 | [197-p-38-lightning-tour-of-duty.json](./197-p-38-lightning-tour-of-duty.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Pengy | 15337 | [15337-pengy.json](./15337-pengy.json) |
 | Peninsular War Battles | 55459 | [55459-peninsular-war-battles.json](./55459-peninsular-war-battles.json) |
+| Penis Bird | 418629 | [418629-penis-bird.json](./418629-penis-bird.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
@@ -7216,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
+| Pocket Battle | 418587 | [418587-pocket-battle.json](./418587-pocket-battle.json) |
 | Pocket Battles: NFT War | 237445 | [237445-pocket-battles-nft-war.json](./237445-pocket-battles-nft-war.json) |
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
 | Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
@@ -8131,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
 | PokéPlunder | 384832 | [384832-pokeplunder.json](./384832-pokeplunder.json) |
+| Poképoke | 418607 | [418607-pokepoke.json](./418607-pokepoke.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
@@ -12341,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purify | 181065 | [181065-purify.json](./181065-purify.json) |
 | Purifying Fox | 358507 | [358507-purifying-fox.json](./358507-purifying-fox.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
+| Purikura Pocket 3: Talent Debut Daisakusen | 418593 | [418593-purikura-pocket-3-talent-debut-daisakusen.json](./418593-purikura-pocket-3-talent-debut-daisakusen.json) |
 | Purin-chan's Boxing Gym 2 | 83229 | [83229-purin-chans-boxing-gym-2.json](./83229-purin-chans-boxing-gym-2.json) |
 | Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
