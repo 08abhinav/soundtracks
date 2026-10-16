@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Relations Ep 2 | 398691 | [398691-mechanical-relations-ep-2.json](./398691-mechanical-relations-ep-2.json) |
 | Mechanical Siege | 244146 | [244146-mechanical-siege.json](./244146-mechanical-siege.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
+| Mechanical Successor Bizameka | 417978 | [417978-mechanical-successor-bizameka.json](./417978-mechanical-successor-bizameka.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanician Alex | 60617 | [60617-mechanician-alex.json](./60617-mechanician-alex.json) |
@@ -7169,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
+| Mi Mejor Regalo | 417985 | [417985-mi-mejor-regalo.json](./417985-mi-mejor-regalo.json) |
 | Mi Mi Mi | 119795 | [119795-mi-mi-mi.json](./119795-mi-mi-mi.json) |
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
 | Mi Scusi | 175650 | [175650-mi-scusi.json](./175650-mi-scusi.json) |
@@ -14792,6 +14794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Vow to My Liege | 122157 | [122157-my-vow-to-my-liege.json](./122157-my-vow-to-my-liege.json) |
 | My waifu guild | 160061 | [160061-my-waifu-guild.json](./160061-my-waifu-guild.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
+| My Waifu's Stream Is Going Viral | 417989 | [417989-my-waifus-stream-is-going-viral.json](./417989-my-waifus-stream-is-going-viral.json) |
 | My Way VR | 75406 | [75406-my-way-vr.json](./75406-my-way-vr.json) |
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
 | My Weight Loss Coach | 47900 | [47900-my-weight-loss-coach.json](./47900-my-weight-loss-coach.json) |
