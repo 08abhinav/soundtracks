@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:46:00.890Z",
-  "total_missing": 220524,
+  "generated_at": "2026-10-16T19:53:44.989Z",
+  "total_missing": 220519,
   "games": [
     {
       "igdb_id": 191680,
@@ -73165,11 +73165,6 @@
       "igdb_id": 179572,
       "game_name": "Awareness Test: The Robot Bar",
       "file": "missing/A/179572-awareness-test-the-robot-bar.json"
-    },
-    {
-      "igdb_id": 321629,
-      "game_name": "Awaria",
-      "file": "missing/A/321629-awaria.json"
     },
     {
       "igdb_id": 137713,
@@ -480162,11 +480157,6 @@
       "file": "missing/K/82142-kamikazo-vr.json"
     },
     {
-      "igdb_id": 28015,
-      "game_name": "Kamiko",
-      "file": "missing/K/28015-kamiko.json"
-    },
-    {
       "igdb_id": 358504,
       "game_name": "Kamikomori",
       "file": "missing/K/358504-kamikomori.json"
@@ -661540,11 +661530,6 @@
       "igdb_id": 63639,
       "game_name": "Pac-Man",
       "file": "missing/P/63639-pac-man.json"
-    },
-    {
-      "igdb_id": 7559,
-      "game_name": "Pac-Man",
-      "file": "missing/P/7559-pac-man.json"
     },
     {
       "igdb_id": 88904,
@@ -915907,11 +915892,6 @@
       "file": "missing/T/63942-tekken-resolute.json"
     },
     {
-      "igdb_id": 7660,
-      "game_name": "Tekken Revolution",
-      "file": "missing/T/7660-tekken-revolution.json"
-    },
-    {
       "igdb_id": 1238,
       "game_name": "Tekken Tag Tournament 2",
       "file": "missing/T/1238-tekken-tag-tournament-2.json"
@@ -1058940,11 +1058920,6 @@
       "igdb_id": 59361,
       "game_name": "We Love Juggler",
       "file": "missing/W/59361-we-love-juggler.json"
-    },
-    {
-      "igdb_id": 6454,
-      "game_name": "We Love Katamari",
-      "file": "missing/W/6454-we-love-katamari.json"
     },
     {
       "igdb_id": 272559,
