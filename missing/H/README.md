@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
 | Hack_It | 33489 | [33489-hack-it.json](./33489-hack-it.json) |
+| Hack_Me | 31309 | [31309-hack-me.json](./31309-hack-me.json) |
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
 | Hack_Me 3 | 120751 | [120751-hack-me-3.json](./120751-hack-me-3.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hellmut: The Badass from Hell | 68383 | [68383-hellmut-the-badass-from-hell.json](./68383-hellmut-the-badass-from-hell.json) |
+| Hellnight | 14160 | [14160-hellnight.json](./14160-hellnight.json) |
 | Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Again | 83400 | [83400-hello-again.json](./83400-hello-again.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
+| Hoplite | 30019 | [30019-hoplite.json](./30019-hoplite.json) |
 | Hopmon | 91546 | [91546-hopmon.json](./91546-hopmon.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
@@ -7724,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
+| How We Soar | 19592 | [19592-how-we-soar.json](./19592-how-we-soar.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
