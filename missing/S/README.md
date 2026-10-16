@@ -7525,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Societies | 1491 | [1491-simcity-societies.json](./1491-simcity-societies.json) |
 | SimCity Societies: Destinations | 20181 | [20181-simcity-societies-destinations.json](./20181-simcity-societies-destinations.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
+| SimCity: Complete Edition | 87191 | [87191-simcity-complete-edition.json](./87191-simcity-complete-edition.json) |
 | SimCity: Enhanced CD-Rom | 208991 | [208991-simcity-enhanced-cd-rom.json](./208991-simcity-enhanced-cd-rom.json) |
 | SimCity: Limited Edition | 50870 | [50870-simcity-limited-edition.json](./50870-simcity-limited-edition.json) |
 | SimCity: Terrain Editor | 69584 | [69584-simcity-terrain-editor.json](./69584-simcity-terrain-editor.json) |
@@ -9949,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
+| Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
@@ -10783,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowmelt Manor | 348195 | [348195-snowmelt-manor.json](./348195-snowmelt-manor.json) |
 | Snowmen | 244306 | [244306-snowmen.json](./244306-snowmen.json) |
 | Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
+| Snowmobile Extreme Racing | 87247 | [87247-snowmobile-extreme-racing.json](./87247-snowmobile-extreme-racing.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | Snowpack Park | 85383 | [85383-snowpack-park.json](./85383-snowpack-park.json) |
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
@@ -14964,6 +14967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire Black | 147630 | [147630-spider-solitaire-black.json](./147630-spider-solitaire-black.json) |
+| Spider Solitaire Box | 87090 | [87090-spider-solitaire-box.json](./87090-spider-solitaire-box.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
@@ -15071,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
+| Spider+ | 87187 | [87187-spider.json](./87187-spider.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
@@ -20998,6 +21003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday Lawd Reel 1 | 213580 | [213580-sunday-lawd-reel-1.json](./213580-sunday-lawd-reel-1.json) |
+| Sunday Lawn Seasons | 87206 | [87206-sunday-lawn-seasons.json](./87206-sunday-lawn-seasons.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
