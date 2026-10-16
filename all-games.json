@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:53:40.711Z",
-  "total_soundtracks": 1821,
+  "generated_at": "2026-10-16T05:53:55.947Z",
+  "total_soundtracks": 1822,
   "games": [
     {
       "igdb_id": 7522,
@@ -19968,6 +19968,20 @@
           "album_name": "Twin Mirror (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5416,
+      "game_name": "Twisted Metal",
+      "game_url": "https://ostdb.net/games/twisted-metal",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27317ee0ac76be88d1998527448",
+      "albums": [
+        {
+          "album_name": "Twisted Metal (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/77lCTY8B3fiNeuSxg3ljKu",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
