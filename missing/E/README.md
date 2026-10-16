@@ -4586,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvenFlo | 58111 | [58111-evenflo.json](./58111-evenflo.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
+| EVEning Course | 417966 | [417966-evening-course.json](./417966-evening-course.json) |
 | Evening Star | 107700 | [107700-evening-star.json](./107700-evening-star.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
 | Evening Star + Southern Belle | 137361 | [137361-evening-star-southern-belle.json](./137361-evening-star-southern-belle.json) |
