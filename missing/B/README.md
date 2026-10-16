@@ -7084,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
+| Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
 | Blitzkrieg 2: Liberation | 11107 | [11107-blitzkrieg-2-liberation.json](./11107-blitzkrieg-2-liberation.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
 | Blitzkrieg Fire | 175128 | [175128-blitzkrieg-fire.json](./175128-blitzkrieg-fire.json) |
@@ -10305,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach | 94147 | [94147-breach.json](./94147-breach.json) |
 | Breach & Clear | 8422 | [8422-breach-and-clear.json](./8422-breach-and-clear.json) |
+| Breach & Clear: Deadline | 11368 | [11368-breach-and-clear-deadline.json](./11368-breach-and-clear-deadline.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
@@ -12325,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
 | Bus Sim 25: City Simulator | 349811 | [349811-bus-sim-25-city-simulator.json](./349811-bus-sim-25-city-simulator.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
+| Bus Simulator 16 | 19882 | [19882-bus-simulator-16.json](./19882-bus-simulator-16.json) |
 | Bus Simulator 16: Gold Edition | 52488 | [52488-bus-simulator-16-gold-edition.json](./52488-bus-simulator-16-gold-edition.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
