@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beam It Up! | 390238 | [390238-beam-it-up.json](./390238-beam-it-up.json) |
+| Beam Me Up, Bro! | 421848 | [421848-beam-me-up-bro.json](./421848-beam-me-up-bro.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
 | Beam Time | 366287 | [366287-beam-time.json](./366287-beam-time.json) |
 | Beam'em Up | 42778 | [42778-beamem-up.json](./42778-beamem-up.json) |
@@ -10946,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
+| Broadband Architect | 421849 | [421849-broadband-architect.json](./421849-broadband-architect.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
@@ -10969,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
+| Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
@@ -11008,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
+| Broken Lights | 421851 | [421851-broken-lights.json](./421851-broken-lights.json) |
 | Broken Lines | 107175 | [107175-broken-lines.json](./107175-broken-lines.json) |
 | Broken Memories | 154434 | [154434-broken-memories.json](./154434-broken-memories.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
