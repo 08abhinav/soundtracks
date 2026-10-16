@@ -6789,7 +6789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Chase Turbo: Rookie Series | 170428 | [170428-horizon-chase-turbo-rookie-series.json](./170428-horizon-chase-turbo-rookie-series.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
-| Horizon Forbidden West: Burning Shores | 228533 | [228533-horizon-forbidden-west-burning-shores.json](./228533-horizon-forbidden-west-burning-shores.json) |
 | Horizon Forbidden West: Collector's Edition | 170034 | [170034-horizon-forbidden-west-collectors-edition.json](./170034-horizon-forbidden-west-collectors-edition.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
