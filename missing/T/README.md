@@ -7252,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
+| The Gunstringer | 7588 | [7588-the-gunstringer.json](./7588-the-gunstringer.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Gutter | 415997 | [415997-the-gutter.json](./415997-the-gutter.json) |
@@ -8065,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
+| The King of Fighters Collection: The Orochi Saga | 21711 | [21711-the-king-of-fighters-collection-the-orochi-saga.json](./21711-the-king-of-fighters-collection-the-orochi-saga.json) |
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
@@ -13310,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Collector's Edition | 16209 | [16209-the-witcher-2-assassins-of-kings-collectors-edition.json](./16209-the-witcher-2-assassins-of-kings-collectors-edition.json) |
+| The Witcher 2: Assassins of Kings - Dark Edition | 22319 | [22319-the-witcher-2-assassins-of-kings-dark-edition.json](./22319-the-witcher-2-assassins-of-kings-dark-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition | 119402 | [119402-the-witcher-3-wild-hunt-complete-edition.json](./119402-the-witcher-3-wild-hunt-complete-edition.json) |
@@ -13327,6 +13330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
+| The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
@@ -17865,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
+| Top Gun: The Second Mission | 22911 | [22911-top-gun-the-second-mission.json](./22911-top-gun-the-second-mission.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
