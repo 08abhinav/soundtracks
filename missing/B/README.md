@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football | 122751 | [122751-backyard-football.json](./122751-backyard-football.json) |
 | Backyard Football | 122752 | [122752-backyard-football.json](./122752-backyard-football.json) |
 | Backyard Football '08 | 43208 | [43208-backyard-football-08.json](./43208-backyard-football-08.json) |
+| Backyard Football '10 | 4688 | [4688-backyard-football-10.json](./4688-backyard-football-10.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Monster | 228951 | [228951-balloon-monster.json](./228951-balloon-monster.json) |
 | Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
+| Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
@@ -1931,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
+| Baroque | 4705 | [4705-baroque.json](./4705-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
 | Baroque Shooting | 73368 | [73368-baroque-shooting.json](./73368-baroque-shooting.json) |
 | Baroque Shooting: Reversed | 378350 | [378350-baroque-shooting-reversed.json](./378350-baroque-shooting-reversed.json) |
@@ -5042,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
+| Big Air Freestyle | 3808 | [3808-big-air-freestyle.json](./3808-big-air-freestyle.json) |
 | Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
 | Big Babies: Argument | 324835 | [324835-big-babies-argument.json](./324835-big-babies-argument.json) |
 | Big Babies: Instructions | 324834 | [324834-big-babies-instructions.json](./324834-big-babies-instructions.json) |
@@ -5444,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Saves the World | 197098 | [197098-billy-saves-the-world.json](./197098-billy-saves-the-world.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
 | Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
+| Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Nightmare | 176811 | [176811-billys-nightmare.json](./176811-billys-nightmare.json) |
@@ -8362,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo: In Animia | 380032 | [380032-bobo-in-animia.json](./380032-bobo-in-animia.json) |
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
+| Bobobo-bo Bo-bobo: Dasshutsu!! Hajike Royale | 3827 | [3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json](./3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
@@ -8724,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Kart Special Mini | 198190 | [198190-bomberman-kart-special-mini.json](./198190-bomberman-kart-special-mini.json) |
 | Bomberman Land | 21613 | [21613-bomberman-land.json](./21613-bomberman-land.json) |
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
+| Bomberman Land 2 | 3834 | [3834-bomberman-land-2.json](./3834-bomberman-land-2.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
 | Bomberman Land Touch! 2 | 20774 | [20774-bomberman-land-touch-2.json](./20774-bomberman-land-touch-2.json) |
@@ -11069,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
+| Brothers in Arms: Double Time | 4730 | [4730-brothers-in-arms-double-time.json](./4730-brothers-in-arms-double-time.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
 | Brothers in Blood | 132559 | [132559-brothers-in-blood.json](./132559-brothers-in-blood.json) |
@@ -11654,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buichi Terasawa's Takeru: Letter of the Law | 79537 | [79537-buichi-terasawas-takeru-letter-of-the-law.json](./79537-buichi-terasawas-takeru-letter-of-the-law.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build 'n Bump | 35094 | [35094-build-n-bump.json](./35094-build-n-bump.json) |
+| Build 'n Race | 4733 | [4733-build-n-race.json](./4733-build-n-race.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
@@ -12540,6 +12549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butt Ugly Martians: B.K.M. Battles | 49281 | [49281-butt-ugly-martians-b-k-m-battles.json](./49281-butt-ugly-martians-b-k-m-battles.json) |
+| Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
 | Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
