@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Dream | 197065 | [197065-fever-dream.json](./197065-fever-dream.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
+| Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Awakening | 146617 | [146617-final-fantasy-awakening.json](./146617-final-fantasy-awakening.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
 | Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
+| Final Fantasy Chronicles | 420 | [420-final-fantasy-chronicles.json](./420-final-fantasy-chronicles.json) |
 | Final Fantasy Collection | 41855 | [41855-final-fantasy-collection.json](./41855-final-fantasy-collection.json) |
 | Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
 | Final Fantasy Dimensions | 19080 | [19080-final-fantasy-dimensions.json](./19080-final-fantasy-dimensions.json) |
@@ -7776,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Bruno's Boxing | 46752 | [46752-frank-brunos-boxing.json](./46752-frank-brunos-boxing.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
+| Frank Herbert's Dune | 88 | [88-frank-herberts-dune.json](./88-frank-herberts-dune.json) |
 | Frank N Stein | 79118 | [79118-frank-n-stein.json](./79118-frank-n-stein.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
 | Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
@@ -7919,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
+| Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
