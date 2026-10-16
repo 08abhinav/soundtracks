@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - The Three Kingdoms | 342809 | [342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json](./342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
 | Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
+| Age of Empires II: Gold Edition | 129797 | [129797-age-of-empires-ii-gold-edition.json](./129797-age-of-empires-ii-gold-edition.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
@@ -10222,6 +10223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II Mobile | 68527 | [68527-assassins-creed-ii-mobile.json](./68527-assassins-creed-ii-mobile.json) |
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
+| Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
@@ -10318,6 +10320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Gold Steelbook Edition | 18412 | [18412-assassins-creed-odyssey-gold-steelbook-edition.json](./18412-assassins-creed-odyssey-gold-steelbook-edition.json) |
 | Assassin's Creed: Odyssey - Medusa Edition | 109423 | [109423-assassins-creed-odyssey-medusa-edition.json](./109423-assassins-creed-odyssey-medusa-edition.json) |
 | Assassin's Creed: Odyssey - Spartan Edition | 125126 | [125126-assassins-creed-odyssey-spartan-edition.json](./125126-assassins-creed-odyssey-spartan-edition.json) |
+| Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
