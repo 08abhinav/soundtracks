@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
+| RC Plane 3 | 55487 | [55487-rc-plane-3.json](./55487-rc-plane-3.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
 | RC Plane VR | 129065 | [129065-rc-plane-vr.json](./129065-rc-plane-vr.json) |
 | RC Racers II | 71728 | [71728-rc-racers-ii.json](./71728-rc-racers-ii.json) |
@@ -4072,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
+| Restoration | 55356 | [55356-restoration.json](./55356-restoration.json) |
 | Restoration Master | 158095 | [158095-restoration-master.json](./158095-restoration-master.json) |
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
@@ -7272,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster VR Universe | 160153 | [160153-rollercoaster-vr-universe.json](./160153-rollercoaster-vr-universe.json) |
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
+| Rollercoaster Xperience | 55434 | [55434-rollercoaster-xperience.json](./55434-rollercoaster-xperience.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerGames | 40076 | [40076-rollergames.json](./40076-rollergames.json) |
@@ -7752,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
+| Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
@@ -8325,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
+| Ruin City Gasolina | 55343 | [55343-ruin-city-gasolina.json](./55343-ruin-city-gasolina.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
