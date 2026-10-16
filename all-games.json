@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:21:38.816Z",
-  "total_soundtracks": 1737,
+  "generated_at": "2026-10-16T05:21:52.114Z",
+  "total_soundtracks": 1738,
   "games": [
     {
       "igdb_id": 7522,
@@ -5633,6 +5633,20 @@
           "spotify_url": "https://music.apple.com/us/album/dynasty-warriors-origins-visions-of-four-heroes/1880302431?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1880302431"
+        }
+      ]
+    },
+    {
+      "igdb_id": 17480,
+      "game_name": "Eastshade",
+      "game_url": "https://ostdb.net/games/eastshade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f7923f7598e3e468b2911610",
+      "albums": [
+        {
+          "album_name": "Eastshade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/402LWi8n8m3dPBlR6HCyln",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
