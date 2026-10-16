@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager | 327894 | [327894-gas-station-manager.json](./327894-gas-station-manager.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
+| Gas Station Simulator | 122522 | [122522-gas-station-simulator.json](./122522-gas-station-simulator.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
 | Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
@@ -6838,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
+| GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
