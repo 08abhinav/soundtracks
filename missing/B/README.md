@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Return of the Joker | 295663 | [295663-batman-return-of-the-joker.json](./295663-batman-return-of-the-joker.json) |
 | Batman: Return of the Joker | 4489 | [4489-batman-return-of-the-joker.json](./4489-batman-return-of-the-joker.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
+| Batman: Return to Arkham - Arkham Asylum | 203433 | [203433-batman-return-to-arkham-arkham-asylum.json](./203433-batman-return-to-arkham-arkham-asylum.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
 | Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
@@ -4740,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
+| Beyond Blue | 103373 | [103373-beyond-blue.json](./103373-beyond-blue.json) |
 | Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
