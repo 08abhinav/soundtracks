@@ -10327,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon War | 195978 | [195978-dragon-war.json](./195978-dragon-war.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
+| Dragon Warrior II | 205592 | [205592-dragon-warrior-ii.json](./205592-dragon-warrior-ii.json) |
 | Dragon Warrior II | 239184 | [239184-dragon-warrior-ii.json](./239184-dragon-warrior-ii.json) |
 | Dragon Warrior III | 205589 | [205589-dragon-warrior-iii.json](./205589-dragon-warrior-iii.json) |
 | Dragon Warrior III | 205600 | [205600-dragon-warrior-iii.json](./205600-dragon-warrior-iii.json) |
