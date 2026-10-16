@@ -2797,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
+| Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
 | Ghosts of Tabor: Taran Tactical JW3 | 273829 | [273829-ghosts-of-tabor-taran-tactical-jw3.json](./273829-ghosts-of-tabor-taran-tactical-jw3.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
+| Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
+| Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
@@ -5142,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Bounce | 272463 | [272463-gotta-bounce.json](./272463-gotta-bounce.json) |
 | Gotta Date Them All | 149720 | [149720-gotta-date-them-all.json](./149720-gotta-date-them-all.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
+| Gotta Go | 51488 | [51488-gotta-go.json](./51488-gotta-go.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
