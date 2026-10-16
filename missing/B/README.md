@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Blast | 104268 | [104268-balls-blast.json](./104268-balls-blast.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Break Bricks | 384728 | [384728-balls-break-bricks.json](./384728-balls-break-bricks.json) |
+| Balls Bricks Breaker | 100839 | [100839-balls-bricks-breaker.json](./100839-balls-bricks-breaker.json) |
 | Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Tiles | 66661 | [66661-battle-of-tiles.json](./66661-battle-of-tiles.json) |
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
+| Battle of Vicksburg | 100829 | [100829-battle-of-vicksburg.json](./100829-battle-of-vicksburg.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
@@ -2806,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
 | Battle Royale | 8938 | [8938-battle-royale.json](./8938-battle-royale.json) |
+| Battle Royale : Survival.io Zombie | 100800 | [100800-battle-royale-survival-io-zombie.json](./100800-battle-royale-survival-io-zombie.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
@@ -4585,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
+| Best Craft: Explore | 100804 | [100804-best-craft-explore.json](./100804-best-craft-explore.json) |
 | Best Day Ever | 148863 | [148863-best-day-ever.json](./148863-best-day-ever.json) |
 | Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
 | Best Eleven: Champions Club | 196596 | [196596-best-eleven-champions-club.json](./196596-best-eleven-champions-club.json) |
@@ -7445,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
+| Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
@@ -10079,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
+| Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
