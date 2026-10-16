@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T08:21:01.374Z",
-  "total_soundtracks": 1904,
+  "generated_at": "2026-10-16T08:25:58.215Z",
+  "total_soundtracks": 1905,
   "games": [
     {
       "igdb_id": 7522,
@@ -17996,6 +17996,20 @@
           "album_name": "Subnautica (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54780,
+      "game_name": "Subsurface Circular",
+      "game_url": "https://ostdb.net/games/subsurface-circular",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27312f44e5a13273e3af4c31c38",
+      "albums": [
+        {
+          "album_name": "Subsurface Circular (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1R3yOPr5ibP3RkseLwLKCk",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
