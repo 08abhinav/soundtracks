@@ -9387,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
 | Power Play Tennis | 80159 | [80159-power-play-tennis.json](./80159-power-play-tennis.json) |
+| Power Play: Sports Trivia | 24075 | [24075-power-play-sports-trivia.json](./24075-power-play-sports-trivia.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
@@ -11596,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
+| Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
