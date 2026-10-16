@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
+| Edge Runner | 87239 | [87239-edge-runner.json](./87239-edge-runner.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
