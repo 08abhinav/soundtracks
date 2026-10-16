@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven Souls 3 | 383014 | [383014-inazuma-eleven-souls-3.json](./383014-inazuma-eleven-souls-3.json) |
 | Inazuma Eleven Strikers | 4930 | [4930-inazuma-eleven-strikers.json](./4930-inazuma-eleven-strikers.json) |
 | Inazuma Eleven: Balance of Ares | 90507 | [90507-inazuma-eleven-balance-of-ares.json](./90507-inazuma-eleven-balance-of-ares.json) |
+| Inazuma Eleven: Bold Revolution | 417336 | [417336-inazuma-eleven-bold-revolution.json](./417336-inazuma-eleven-bold-revolution.json) |
 | Inazuma Eleven: Cross | 397928 | [397928-inazuma-eleven-cross.json](./397928-inazuma-eleven-cross.json) |
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inazuma Eleven: Victory Road - Deluxe Edition | 376247 | [376247-inazuma-eleven-victory-road-deluxe-edition.json](./376247-inazuma-eleven-victory-road-deluxe-edition.json) |
