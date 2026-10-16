@@ -5108,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Closer: Game of the Year Edition | 141591 | [141591-the-closer-game-of-the-year-edition.json](./141591-the-closer-game-of-the-year-edition.json) |
+| The Closing Shift | 187715 | [187715-the-closing-shift.json](./187715-the-closing-shift.json) |
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
@@ -8273,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Dogma | 35149 | [35149-the-last-dogma.json](./35149-the-last-dogma.json) |
 | The Last Dogma - Complete Experience | 53754 | [53754-the-last-dogma-complete-experience.json](./53754-the-last-dogma-complete-experience.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
+| The Last Door | 9072 | [9072-the-last-door.json](./9072-the-last-door.json) |
 | The Last Door on the Left | 177314 | [177314-the-last-door-on-the-left.json](./177314-the-last-door-on-the-left.json) |
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
@@ -8698,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 248520 | [248520-the-legend-of-spyro-a-new-beginning.json](./248520-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
+| The Legend of Spyro: Dawn of the Dragon | 1584 | [1584-the-legend-of-spyro-dawn-of-the-dragon.json](./1584-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
@@ -10651,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
 | The Ratchelor Season 2 | 191517 | [191517-the-ratchelor-season-2.json](./191517-the-ratchelor-season-2.json) |
+| The Ratchelor: A Rat Dating Sim | 143502 | [143502-the-ratchelor-a-rat-dating-sim.json](./143502-the-ratchelor-a-rat-dating-sim.json) |
 | The Ratline | 351273 | [351273-the-ratline.json](./351273-the-ratline.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
@@ -13935,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
+| This Is the Police 2 | 84486 | [84486-this-is-the-police-2.json](./84486-this-is-the-police-2.json) |
 | This Is the Zodiac Speaking | 119502 | [119502-this-is-the-zodiac-speaking.json](./119502-this-is-the-zodiac-speaking.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
