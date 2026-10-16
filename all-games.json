@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:49:11.784Z",
-  "total_soundtracks": 1803,
+  "generated_at": "2026-10-16T05:49:24.859Z",
+  "total_soundtracks": 1804,
   "games": [
     {
       "igdb_id": 7522,
@@ -18871,6 +18871,20 @@
         {
           "album_name": "The Secret World (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6ZKnjYquFoDtuIdtpnrg0k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3695,
+      "game_name": "The Settlers 7: Paths to a Kingdom",
+      "game_url": "https://ostdb.net/games/the-settlers-7-paths-to-a-kingdom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df1186ffc9ca386d99931766",
+      "albums": [
+        {
+          "album_name": "The Settlers 7: Paths to a Kingdom (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/14h9S7VfePhEoSe2ixjGvn",
           "apple_music_url": "",
           "album_link_url": ""
         }
