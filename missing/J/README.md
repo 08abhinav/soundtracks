@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master Double Pack | 145392 | [145392-jewel-master-double-pack.json](./145392-jewel-master-double-pack.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
 | Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
+| Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | JohnGagz | 317354 | [317354-johngagz.json](./317354-johngagz.json) |
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
+| Johnny Bazookatone | 4256 | [4256-johnny-bazookatone.json](./4256-johnny-bazookatone.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 3248 | [3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
