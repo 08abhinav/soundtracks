@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
+| Tank Mechanic Simulator | 43115 | [43115-tank-mechanic-simulator.json](./43115-tank-mechanic-simulator.json) |
 | Tank Mechanic Simulator: Cromwell Mk.IV | 391333 | [391333-tank-mechanic-simulator-cromwell-mk-iv.json](./391333-tank-mechanic-simulator-cromwell-mk-iv.json) |
 | Tank Mechanic Simulator: First Supply DLC | 387696 | [387696-tank-mechanic-simulator-first-supply-dlc.json](./387696-tank-mechanic-simulator-first-supply-dlc.json) |
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
@@ -5207,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Sehwa Complete Edition | 401735 | [401735-the-coma-sehwa-complete-edition.json](./401735-the-coma-sehwa-complete-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
+| The Combatribes | 39639 | [39639-the-combatribes.json](./39639-the-combatribes.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
@@ -7208,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
+| The Grim Reaper Who Reaped My Heart | 134642 | [134642-the-grim-reaper-who-reaped-my-heart.json](./134642-the-grim-reaper-who-reaped-my-heart.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
@@ -9939,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
+| The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
@@ -10283,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pauser | 317299 | [317299-the-pauser.json](./317299-the-pauser.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
+| The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
