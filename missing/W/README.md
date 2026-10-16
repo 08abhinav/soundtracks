@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Rats: The Rat em Up | 326211 | [326211-war-rats-the-rat-em-up.json](./326211-war-rats-the-rat-em-up.json) |
 | War Records of Goddess Girls | 284285 | [284285-war-records-of-goddess-girls.json](./284285-war-records-of-goddess-girls.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
+| War Robots | 87352 | [87352-war-robots.json](./87352-war-robots.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
 | War Robots VR: The Skirmish | 55477 | [55477-war-robots-vr-the-skirmish.json](./55477-war-robots-vr-the-skirmish.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
@@ -2046,7 +2047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
-| We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
@@ -5399,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Friends Crosswords | 233405 | [233405-words-with-friends-crosswords.json](./233405-words-with-friends-crosswords.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
+| Wordscapes | 87056 | [87056-wordscapes.json](./87056-wordscapes.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsdom2 | 105835 | [105835-wordsdom2.json](./105835-wordsdom2.json) |
