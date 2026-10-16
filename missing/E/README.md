@@ -5547,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
+| Extraction Valley | 121020 | [121020-extraction-valley.json](./121020-extraction-valley.json) |
 | Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
