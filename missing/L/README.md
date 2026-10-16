@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
 | Limita Luminii | 188892 | [188892-limita-luminii.json](./188892-limita-luminii.json) |
+| Limited Express | 423259 | [423259-limited-express.json](./423259-limited-express.json) |
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
@@ -5204,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
+| Loop Spot | 423244 | [423244-loop-spot.json](./423244-loop-spot.json) |
 | Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
