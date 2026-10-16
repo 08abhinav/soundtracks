@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Cup '90 | 39858 | [39858-tecmo-world-cup-90.json](./39858-tecmo-world-cup-90.json) |
 | Tecmo World Cup '92 | 46102 | [46102-tecmo-world-cup-92.json](./46102-tecmo-world-cup-92.json) |
 | Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
+| Tecmo World Cup Soccer | 48225 | [48225-tecmo-world-cup-soccer.json](./48225-tecmo-world-cup-soccer.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
+| The Flash | 48945 | [48945-the-flash.json](./48945-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
 | The Flawless: Art's Tale | 119448 | [119448-the-flawless-arts-tale.json](./119448-the-flawless-arts-tale.json) |
@@ -7190,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
 | The Great Voyage | 109363 | [109363-the-great-voyage.json](./109363-the-great-voyage.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
+| The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
@@ -11517,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
+| The Sims 3: Showtime Katy Perry Collector's Edition | 30145 | [30145-the-sims-3-showtime-katy-perry-collectors-edition.json](./30145-the-sims-3-showtime-katy-perry-collectors-edition.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
@@ -17730,6 +17734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
+| Tony Hawk's Pro Skater 2x | 47325 | [47325-tony-hawks-pro-skater-2x.json](./47325-tony-hawks-pro-skater-2x.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3 | 334248 | [334248-tony-hawks-pro-skater-3.json](./334248-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3+4 | 334243 | [334243-tony-hawks-pro-skater-3-4.json](./334243-tony-hawks-pro-skater-3-4.json) |
@@ -19091,6 +19096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
 | Town (Working Title) | 131455 | [131455-town-working-title.json](./131455-town-working-title.json) |
 | Town & Country Surf Designs II: Thrilla's Surfari | 48177 | [48177-town-and-country-surf-designs-ii-thrillas-surfari.json](./48177-town-and-country-surf-designs-ii-thrillas-surfari.json) |
+| Town & Country Surf Designs: Wood & Water Rage | 48119 | [48119-town-and-country-surf-designs-wood-and-water-rage.json](./48119-town-and-country-surf-designs-wood-and-water-rage.json) |
 | Town Defence | 126350 | [126350-town-defence.json](./126350-town-defence.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
