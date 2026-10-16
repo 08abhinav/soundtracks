@@ -11635,6 +11635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Shopper | 310650 | [310650-psycho-shopper.json](./310650-psycho-shopper.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho Slasher | 176265 | [176265-psycho-slasher.json](./176265-psycho-slasher.json) |
+| Psycho Soldier | 41086 | [41086-psycho-soldier.json](./41086-psycho-soldier.json) |
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
