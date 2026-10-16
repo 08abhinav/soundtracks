@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
+| Real Steel | 47447 | [47447-real-steel.json](./47447-real-steel.json) |
 | Real Steel Mobile | 84110 | [84110-real-steel-mobile.json](./84110-real-steel-mobile.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Theory | 57736 | [57736-ricochet-theory.json](./57736-ricochet-theory.json) |
 | Ricochet Theory 2 | 57733 | [57733-ricochet-theory-2.json](./57733-ricochet-theory-2.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
+| Ricochet: Lost Worlds | 28987 | [28987-ricochet-lost-worlds.json](./28987-ricochet-lost-worlds.json) |
 | Ricochlime | 346013 | [346013-ricochlime.json](./346013-ricochlime.json) |
 | RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
@@ -5562,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising UpUp | 128901 | [128901-rising-upup.json](./128901-rising-upup.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising Warriors | 71026 | [71026-rising-warriors.json](./71026-rising-warriors.json) |
+| Rising Zan: The Samurai Gunman | 44976 | [44976-rising-zan-the-samurai-gunman.json](./44976-rising-zan-the-samurai-gunman.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
 | Risk | 16458 | [16458-risk.json](./16458-risk.json) |
 | Risk | 82434 | [82434-risk.json](./82434-risk.json) |
@@ -6010,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
+| Robin Hood: Prince of Thieves | 48088 | [48088-robin-hood-prince-of-thieves.json](./48088-robin-hood-prince-of-thieves.json) |
 | Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
@@ -7585,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Beer on Tap | 115566 | [115566-root-beer-on-tap.json](./115566-root-beer-on-tap.json) |
 | Root Connections | 249911 | [249911-root-connections.json](./249911-root-connections.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
+| Root Double: Before Crime * After Days - Xtend Edition | 33617 | [33617-root-double-before-crime-after-days-xtend-edition.json](./33617-root-double-before-crime-after-days-xtend-edition.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
 | Root Letter: Last Answer | 106807 | [106807-root-letter-last-answer.json](./106807-root-letter-last-answer.json) |
