@@ -2515,7 +2515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chasers: Nightwar - Mobile Edition | 122089 | [122089-battle-chasers-nightwar-mobile-edition.json](./122089-battle-chasers-nightwar-mobile-edition.json) |
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
 | Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
-| Battle Chef Brigade | 23689 | [23689-battle-chef-brigade.json](./23689-battle-chef-brigade.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
@@ -4757,7 +4756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
-| Beyond Blue | 103373 | [103373-beyond-blue.json](./103373-beyond-blue.json) |
 | Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
