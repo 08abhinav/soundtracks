@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Saga 3: Break Out | 53936 | [53936-vampire-saga-3-break-out.json](./53936-vampire-saga-3-break-out.json) |
 | Vampire Saga: Pandora's Box | 53935 | [53935-vampire-saga-pandoras-box.json](./53935-vampire-saga-pandoras-box.json) |
 | Vampire Saga: Welcome to Hell Lock | 53934 | [53934-vampire-saga-welcome-to-hell-lock.json](./53934-vampire-saga-welcome-to-hell-lock.json) |
+| Vampire Savior: The Lord of Vampire | 206672 | [206672-vampire-savior-the-lord-of-vampire.json](./206672-vampire-savior-the-lord-of-vampire.json) |
 | Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
