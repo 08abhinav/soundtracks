@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
+| Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
@@ -9757,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy | 140987 | [140987-the-mummy.json](./140987-the-mummy.json) |
 | The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
 | The Mummy | 49323 | [49323-the-mummy.json](./49323-the-mummy.json) |
+| The Mummy | 80821 | [80821-the-mummy.json](./80821-the-mummy.json) |
 | The Mummy Mystery | 68740 | [68740-the-mummy-mystery.json](./68740-the-mummy-mystery.json) |
 | The Mummy Online | 66550 | [66550-the-mummy-online.json](./66550-the-mummy-online.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
@@ -11754,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
+| The Sojourn | 106120 | [106120-the-sojourn.json](./106120-the-sojourn.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
@@ -16584,6 +16587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
+| Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
 | Titan Revenge | 278356 | [278356-titan-revenge.json](./278356-titan-revenge.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
