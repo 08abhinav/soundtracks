@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
 | Fire Pro Wrestling S: 6 Men Scramble | 46092 | [46092-fire-pro-wrestling-s-6-men-scramble.json](./46092-fire-pro-wrestling-s-6-men-scramble.json) |
+| Fire Pro Wrestling World | 27547 | [27547-fire-pro-wrestling-world.json](./27547-fire-pro-wrestling-world.json) |
 | Fire Pro Wrestling World: Deluxe Edition | 118928 | [118928-fire-pro-wrestling-world-deluxe-edition.json](./118928-fire-pro-wrestling-world-deluxe-edition.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
@@ -8200,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th | 8530 | [8530-friday-the-13th.json](./8530-friday-the-13th.json) |
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
+| Friday the 13th: Killer Puzzle | 83891 | [83891-friday-the-13th-killer-puzzle.json](./83891-friday-the-13th-killer-puzzle.json) |
 | Friday the 13th: Killer Puzzle - Cyber Jason | 163476 | [163476-friday-the-13th-killer-puzzle-cyber-jason.json](./163476-friday-the-13th-killer-puzzle-cyber-jason.json) |
 | Friday the 13th: Killer Puzzle - Episode 11: Knightmare | 163472 | [163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json](./163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json) |
 | Friday the 13th: Killer Puzzle - Episode 3: Winter Kills | 163471 | [163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json](./163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json) |
