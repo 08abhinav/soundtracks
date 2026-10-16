@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
+| FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
+| FIFA Street 2 | 240365 | [240365-fifa-street-2.json](./240365-fifa-street-2.json) |
 | FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
 | FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
@@ -4878,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
+| Five Nights at FuzzBoob's: Definitive Edition | 240483 | [240483-five-nights-at-fuzzboobs-definitive-edition.json](./240483-five-nights-at-fuzzboobs-definitive-edition.json) |
 | Five Nights At Ghost House | 175737 | [175737-five-nights-at-ghost-house.json](./175737-five-nights-at-ghost-house.json) |
 | Five Nights at Grasos's | 387586 | [387586-five-nights-at-grasoss.json](./387586-five-nights-at-grasoss.json) |
 | Five Nights at Haunted House | 281468 | [281468-five-nights-at-haunted-house.json](./281468-five-nights-at-haunted-house.json) |
