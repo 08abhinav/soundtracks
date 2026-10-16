@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basic's Advanced 0.0.1 | 179933 | [179933-baldis-basics-advanced-0-0-1.json](./179933-baldis-basics-advanced-0-0-1.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
+| Baldi's Basics Classic Remastered | 200473 | [200473-baldis-basics-classic-remastered.json](./200473-baldis-basics-classic-remastered.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandits at 3 O'Clock | 15659 | [15659-bandits-at-3-oclock.json](./15659-bandits-at-3-oclock.json) |
 | Bandits at Zero | 12933 | [12933-bandits-at-zero.json](./12933-bandits-at-zero.json) |
 | Bandits On West | 402929 | [402929-bandits-on-west.json](./402929-bandits-on-west.json) |
+| Bandits: Phoenix Rising | 3207 | [3207-bandits-phoenix-rising.json](./3207-bandits-phoenix-rising.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
 | Bandle Tale: Bigger-On-The-Inside Pack | 283187 | [283187-bandle-tale-bigger-on-the-inside-pack.json](./283187-bandle-tale-bigger-on-the-inside-pack.json) |
@@ -1625,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
 | Barbie | 3307 | [3307-barbie.json](./3307-barbie.json) |
+| Barbie | 3308 | [3308-barbie.json](./3308-barbie.json) |
 | Barbie Adventure: Riding Club | 45164 | [45164-barbie-adventure-riding-club.json](./45164-barbie-adventure-riding-club.json) |
 | Barbie and Her Magical House | 142980 | [142980-barbie-and-her-magical-house.json](./142980-barbie-and-her-magical-house.json) |
 | Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
@@ -1993,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart SimpSon Rambo Dwarf | 343927 | [343927-bart-simpson-rambo-dwarf.json](./343927-bart-simpson-rambo-dwarf.json) |
 | Bart Simpson Saw Game | 337137 | [337137-bart-simpson-saw-game.json](./337137-bart-simpson-saw-game.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
+| Bart Simpson's Escape from Camp Deadly | 2829 | [2829-bart-simpsons-escape-from-camp-deadly.json](./2829-bart-simpsons-escape-from-camp-deadly.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
@@ -4402,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
+| Beneath Apple Manor | 2873 | [2873-beneath-apple-manor.json](./2873-beneath-apple-manor.json) |
 | Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
@@ -7920,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
+| Bloxd.io | 280970 | [280970-bloxd-io.json](./280970-bloxd-io.json) |
 | Bloxeed | 38586 | [38586-bloxeed.json](./38586-bloxeed.json) |
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
@@ -10722,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
+| Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
 | Brigands and Barbarians | 223637 | [223637-brigands-and-barbarians.json](./223637-brigands-and-barbarians.json) |
