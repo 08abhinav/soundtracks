@@ -1202,6 +1202,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27391e0bc96d255c1e7237ca3c3" width="60" /> | [Space Quest: The Sarien Encounter](https://ostdb.net/games/space-quest-the-sarien-encounter) | **Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/80/26/7a802633-7b1c-4c35-5d40-8d2c05abbc18/artwork.jpg/600x600bb.jpg" width="60" /> | [Spellbreak](https://ostdb.net/games/spellbreak) | **Spellbreak (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/spellbreak-original-game-soundtrack/1584226155?uo=4) · [Album](https://album.link/i/1584226155) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4cf371f5fac45e30511d028" width="60" /> | [Spirit of the North](https://ostdb.net/games/spirit-of-the-north) | **Spirit of the North (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0BtErKLpIA9s7E2n0cMtfh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7c3216c4f1274f11571b1c5" width="60" /> | [Splatterhouse](https://ostdb.net/games/splatterhouse) | **Splatterhouse Original Soundtrack** · [Spotify](https://open.spotify.com/album/1FZjZgF7awIFhwXjQU50ce) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730dd0b246dd558c22d4130268" width="60" /> | [Split Fiction](https://ostdb.net/games/split-fiction) | **Split Fiction (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0AvtXMZEQFwONeBDf2N5ll) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4c/1f/b54c1ff5-52bc-b023-11a0-ceb2176e82ce/197773773184_cover.jpg/600x600bb.jpg" width="60" /> | [Spyro Reignited Trilogy](https://ostdb.net/games/spyro-reignited-trilogy) | **Spyro Reignited Trilogy (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/spyro-reignited-trilogy-official-game-soundtrack/1702933759?uo=4) · [Album](https://album.link/i/1702933759) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a62985be1117d736f9502d" width="60" /> | [Spyro the Dragon](https://ostdb.net/games/spyro-the-dragon) | **Spyro the Dragon, The Themes** · [Spotify](https://open.spotify.com/album/0tPPzqU4UiNPgJMcoPfCnO) |
@@ -1597,4 +1598,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1914 soundtracks · last updated 2026-10-16T14:42:54.356Z_
+_1915 soundtracks · last updated 2026-10-16T14:43:10.051Z_
