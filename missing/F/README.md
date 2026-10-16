@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
+| Ferrari Challenge: Trofeo Pirelli | 4855 | [4855-ferrari-challenge-trofeo-pirelli.json](./4855-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
 | Ferrari Grand Prix Challenge | 259770 | [259770-ferrari-grand-prix-challenge.json](./259770-ferrari-grand-prix-challenge.json) |
 | Ferrari Grand Prix Challenge | 259771 | [259771-ferrari-grand-prix-challenge.json](./259771-ferrari-grand-prix-challenge.json) |
@@ -8090,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
+| Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
@@ -8493,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
+| Frogger Beyond | 3922 | [3922-frogger-beyond.json](./3922-frogger-beyond.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
