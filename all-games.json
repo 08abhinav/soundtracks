@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:02:28.775Z",
-  "total_soundtracks": 1847,
+  "generated_at": "2026-10-16T06:02:44.065Z",
+  "total_soundtracks": 1848,
   "games": [
     {
       "igdb_id": 7522,
@@ -20021,6 +20021,20 @@
           "spotify_url": "https://open.spotify.com/album/6yBzSepSD88lrLHMdbe13w",
           "apple_music_url": "https://music.apple.com/us/album/trials-fusion-original-game-soundtrack/1593702644",
           "album_link_url": "https://album.link/i/1593702644"
+        }
+      ]
+    },
+    {
+      "igdb_id": 119391,
+      "game_name": "Trials of Mana",
+      "game_url": "https://ostdb.net/games/trials-of-mana",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273efee9661d6f61ee18be95c07",
+      "albums": [
+        {
+          "album_name": "Trials of Mana Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0YonQUg0xkMfX0rjlGNaTu",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
