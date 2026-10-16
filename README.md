@@ -1277,6 +1277,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4dcde04007fa5cf03b9effb" width="60" /> | [The Midnight Walk](https://ostdb.net/games/the-midnight-walk) | **The Midnight Walk (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/137eY5Pe8DpnI9V3CRONM0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fc9e5958e470e3aadfee468" width="60" /> | [The Night of the Rabbit](https://ostdb.net/games/the-night-of-the-rabbit) | **The Night Of The Rabbit (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4oI9WL5jT90gNx4VfZjccv) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2f/53/742f5353-69db-472f-2a21-52afcff54d45/7300349645881.jpg/1000x1000bb.jpg" width="60" /> | [The Occultist](https://ostdb.net/games/the-occultist) | **The Occultist (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/the-occultist-original-video-game-soundtrack/1892042305?uo=4) · [Album](https://album.link/i/1892042305) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3c3a048caf46d8ef2fb2a4f" width="60" /> | [The Operator](https://ostdb.net/games/the-operator) | **The Operator (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/312fW64Y1nnYQ9koe9xPRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e13b9a7a44f95ab37b99861" width="60" /> | [The Orange Box](https://ostdb.net/games/the-orange-box) | **The Orange Box (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syA0RmvTCZ3W78EMiByTa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733adab8dab81791a09ba11810" width="60" /> | [The Order: 1886](https://ostdb.net/games/the-order-1886) | **The Order: 1886 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5a5dc6fe110de0d2e06d635" width="60" /> | [The Outer Worlds](https://ostdb.net/games/the-outer-worlds) | **The Outer Worlds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) |
@@ -1483,4 +1484,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1800 soundtracks · last updated 2026-10-16T05:48:32.468Z_
+_1801 soundtracks · last updated 2026-10-16T05:48:44.765Z_
