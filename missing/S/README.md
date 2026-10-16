@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
+| Samurai Warriors 2 Empires | 7174 | [7174-samurai-warriors-2-empires.json](./7174-samurai-warriors-2-empires.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
 | Samurai Warriors 3: Xtreme Legends | 12286 | [12286-samurai-warriors-3-xtreme-legends.json](./12286-samurai-warriors-3-xtreme-legends.json) |
@@ -10988,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socxel \| Pixel Soccer | 29628 | [29628-socxel-pixel-soccer.json](./29628-socxel-pixel-soccer.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda City Tycoon | 106739 | [106739-soda-city-tycoon.json](./106739-soda-city-tycoon.json) |
+| Soda Crisis | 171963 | [171963-soda-crisis.json](./171963-soda-crisis.json) |
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Dungeon 2 | 122712 | [122712-soda-dungeon-2.json](./122712-soda-dungeon-2.json) |
@@ -22125,6 +22127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
 | Super Mario World | 150031 | [150031-super-mario-world.json](./150031-super-mario-world.json) |
+| Super Mario World | 178104 | [178104-super-mario-world.json](./178104-super-mario-world.json) |
 | Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
@@ -24756,6 +24759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sympathy Kiss | 222359 | [222359-sympathy-kiss.json](./222359-sympathy-kiss.json) |
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
+| Symphonia | 263008 | [263008-symphonia.json](./263008-symphonia.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
