@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10S | 134323 | [134323-10s.json](./134323-10s.json) |
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
+| 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 11-11: Memories Retold | 103249 | [103249-11-11-memories-retold.json](./103249-11-11-memories-retold.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Hours to Refund | 382985 | [382985-2-hours-to-refund.json](./382985-2-hours-to-refund.json) |
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
+| 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
 | 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
 | 2 in 1 Pack: Super Bubsy/Lollypop | 182328 | [182328-2-in-1-pack-super-bubsy-lollypop.json](./182328-2-in-1-pack-super-bubsy-lollypop.json) |
