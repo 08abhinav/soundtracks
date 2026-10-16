@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctoQuest | 165756 | [165756-octoquest.json](./165756-octoquest.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octordle | 194880 | [194880-octordle.json](./194880-octordle.json) |
+| Octoshield VR | 32392 | [32392-octoshield-vr.json](./32392-octoshield-vr.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Axes | 122935 | [122935-omni-axes.json](./122935-omni-axes.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
+| Omni Link | 31270 | [31270-omni-link.json](./31270-omni-link.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
@@ -2520,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
 | Operator | 250827 | [250827-operator.json](./250827-operator.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
+| Operator Overload | 32378 | [32378-operator-overload.json](./32378-operator-overload.json) |
 | Operator Unknown | 374424 | [374424-operator-unknown.json](./374424-operator-unknown.json) |
 | Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
 | Operator: Northridge Park | 148333 | [148333-operator-northridge-park.json](./148333-operator-northridge-park.json) |
@@ -2707,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Shipyards | 123945 | [123945-orbital-shipyards.json](./123945-orbital-shipyards.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
+| Orbital Strike: Arena | 32316 | [32316-orbital-strike-arena.json](./32316-orbital-strike-arena.json) |
 | Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
