@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:47:31.642Z",
-  "total_soundtracks": 1923,
+  "generated_at": "2026-10-16T14:47:49.087Z",
+  "total_soundtracks": 1924,
   "games": [
     {
       "igdb_id": 7522,
@@ -21614,6 +21614,20 @@
           "album_name": "Vampire: The Masquerade - Bloodlines 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4frosi4f327peOOCTIwX3F",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 124992,
+      "game_name": "Vampire: The Masquerade - Swansong",
+      "game_url": "https://ostdb.net/games/vampire-the-masquerade-swansong",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a1a97d7f4933f78dacc5bc1a",
+      "albums": [
+        {
+          "album_name": "Vampire: The Masquerade – Swansong (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2DdWmBthujemralSiKdAcN",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
