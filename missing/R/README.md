@@ -7877,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
+| Roulette Simulator | 82001 | [82001-roulette-simulator.json](./82001-roulette-simulator.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
@@ -8660,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
+| Runes | 82009 | [82009-runes.json](./82009-runes.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
