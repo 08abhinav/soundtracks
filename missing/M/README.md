@@ -6958,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
+| Metro: Last Light - Complete Edition | 42992 | [42992-metro-last-light-complete-edition.json](./42992-metro-last-light-complete-edition.json) |
 | Metro: Last Light - Faction Pack | 128647 | [128647-metro-last-light-faction-pack.json](./128647-metro-last-light-faction-pack.json) |
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
@@ -7664,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
 | Midnight Lights | 276751 | [276751-midnight-lights.json](./276751-midnight-lights.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
+| Midnight Magic | 41109 | [41109-midnight-magic.json](./41109-midnight-magic.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
 | Midnight Man | 330244 | [330244-midnight-man.json](./330244-midnight-man.json) |
@@ -9704,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizuki Shigeru no Youkai Zukan: Soushuu-hen | 263394 | [263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json](./263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json) |
 | Mizushima Shinji no Daikoushien | 48772 | [48772-mizushima-shinji-no-daikoushien.json](./48772-mizushima-shinji-no-daikoushien.json) |
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
+| Mizzurna Falls | 43839 | [43839-mizzurna-falls.json](./43839-mizzurna-falls.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
@@ -9853,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
+| Mobile Legends: Adventure | 133687 | [133687-mobile-legends-adventure.json](./133687-mobile-legends-adventure.json) |
 | Mobile Life | 181148 | [181148-mobile-life.json](./181148-mobile-life.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
@@ -11764,6 +11768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Tournament Liu Kang Skin | 404780 | [404780-mortal-kombat-1-tournament-liu-kang-skin.json](./404780-mortal-kombat-1-tournament-liu-kang-skin.json) |
 | Mortal Kombat 1+2+3 | 154416 | [154416-mortal-kombat-1-2-3.json](./154416-mortal-kombat-1-2-3.json) |
 | Mortal Kombat 11 + The Joker DLC | 136213 | [136213-mortal-kombat-11-the-joker-dlc.json](./136213-mortal-kombat-11-the-joker-dlc.json) |
+| Mortal Kombat 11: Aftermath | 133266 | [133266-mortal-kombat-11-aftermath.json](./133266-mortal-kombat-11-aftermath.json) |
 | Mortal Kombat 11: Aftermath | 276518 | [276518-mortal-kombat-11-aftermath.json](./276518-mortal-kombat-11-aftermath.json) |
 | Mortal Kombat 11: Aftermath + Kombat Pack Bundle | 136198 | [136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json](./136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json) |
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
