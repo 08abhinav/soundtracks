@@ -3864,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
 | Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
+| Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
@@ -9888,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 2252 | [2252-dragon-ball-z-budokai-tenkaichi-2.json](./2252-dragon-ball-z-budokai-tenkaichi-2.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 291555 | [291555-dragon-ball-z-budokai-tenkaichi-2.json](./291555-dragon-ball-z-budokai-tenkaichi-2.json) |
+| Dragon Ball Z: Burst Limit | 2569 | [2569-dragon-ball-z-burst-limit.json](./2569-dragon-ball-z-burst-limit.json) |
 | Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
@@ -9943,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
+| Dragon Ball: Raging Blast | 19310 | [19310-dragon-ball-raging-blast.json](./19310-dragon-ball-raging-blast.json) |
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
