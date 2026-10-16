@@ -4092,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IronWolf: Free Non-VR Edition | 265342 | [265342-ironwolf-free-non-vr-edition.json](./265342-ironwolf-free-non-vr-edition.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
 | Ironwood Conquest | 367629 | [367629-ironwood-conquest.json](./367629-ironwood-conquest.json) |
+| Irony Curtain: From Matryoshka with Love | 106108 | [106108-irony-curtain-from-matryoshka-with-love.json](./106108-irony-curtain-from-matryoshka-with-love.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
