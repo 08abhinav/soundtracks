@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T07:52:27.743Z",
-  "total_missing": 218478,
+  "generated_at": "2026-10-16T08:07:33.724Z",
+  "total_missing": 218528,
   "games": [
     {
       "igdb_id": 191680,
@@ -6682,6 +6682,11 @@
       "file": "missing/0-9/406696-3-on-3-dunk-madness.json"
     },
     {
+      "igdb_id": 21258,
+      "game_name": "3 on 3 NHL Arcade",
+      "file": "missing/0-9/21258-3-on-3-nhl-arcade.json"
+    },
+    {
       "igdb_id": 351237,
       "game_name": "3 on 3 Soccer",
       "file": "missing/0-9/351237-3-on-3-soccer.json"
@@ -8930,6 +8935,11 @@
       "igdb_id": 93492,
       "game_name": "4P Ping-Pong",
       "file": "missing/0-9/93492-4p-ping-pong.json"
+    },
+    {
+      "igdb_id": 8115,
+      "game_name": "4PM",
+      "file": "missing/0-9/8115-4pm.json"
     },
     {
       "igdb_id": 89410,
@@ -91597,6 +91607,11 @@
       "file": "missing/B/349460-beast-unleashed.json"
     },
     {
+      "igdb_id": 8018,
+      "game_name": "Beast Wars: Transformers",
+      "file": "missing/B/8018-beast-wars-transformers.json"
+    },
+    {
       "igdb_id": 192685,
       "game_name": "Beast Whalers",
       "file": "missing/B/192685-beast-whalers.json"
@@ -139222,6 +139237,11 @@
       "file": "missing/C/292788-call-of-duty-game-of-the-year-edition.json"
     },
     {
+      "igdb_id": 20936,
+      "game_name": "Call of Duty: Ghosts - Devastation",
+      "file": "missing/C/20936-call-of-duty-ghosts-devastation.json"
+    },
+    {
       "igdb_id": 240504,
       "game_name": "Call of Duty: Ghosts - Digital Hardened Edition",
       "file": "missing/C/240504-call-of-duty-ghosts-digital-hardened-edition.json"
@@ -159992,6 +160012,11 @@
       "file": "missing/C/232978-chex.json"
     },
     {
+      "igdb_id": 8192,
+      "game_name": "Chex Quest",
+      "file": "missing/C/8192-chex-quest.json"
+    },
+    {
       "igdb_id": 8718,
       "game_name": "Chex Quest 2: Flemoids Take Chextropolis",
       "file": "missing/C/8718-chex-quest-2-flemoids-take-chextropolis.json"
@@ -160220,6 +160245,11 @@
       "igdb_id": 369663,
       "game_name": "Chica Simulator",
       "file": "missing/C/369663-chica-simulator.json"
+    },
+    {
+      "igdb_id": 18873,
+      "game_name": "Chicago 1930",
+      "file": "missing/C/18873-chicago-1930.json"
     },
     {
       "igdb_id": 235999,
@@ -187707,6 +187737,11 @@
       "file": "missing/C/333497-cosmic-arcade-tycoon.json"
     },
     {
+      "igdb_id": 8466,
+      "game_name": "Cosmic Ark",
+      "file": "missing/C/8466-cosmic-ark.json"
+    },
+    {
       "igdb_id": 18504,
       "game_name": "Cosmic Avenger",
       "file": "missing/C/18504-cosmic-avenger.json"
@@ -205767,6 +205802,11 @@
       "file": "missing/C/51419-cutthroat-gunboat.json"
     },
     {
+      "igdb_id": 7828,
+      "game_name": "Cutthroat Island",
+      "file": "missing/C/7828-cutthroat-island.json"
+    },
+    {
       "igdb_id": 369594,
       "game_name": "Cutthroat Island GG2SMS",
       "file": "missing/C/369594-cutthroat-island-gg2sms.json"
@@ -215772,6 +215812,11 @@
       "file": "missing/D/2125-darkstar-one.json"
     },
     {
+      "igdb_id": 20414,
+      "game_name": "DarkStar One: Broken Alliance",
+      "file": "missing/D/20414-darkstar-one-broken-alliance.json"
+    },
+    {
       "igdb_id": 301101,
       "game_name": "DarkStar One: Nintendo Switch Edition",
       "file": "missing/D/301101-darkstar-one-nintendo-switch-edition.json"
@@ -221765,6 +221810,11 @@
       "igdb_id": 274514,
       "game_name": "Deadlocked",
       "file": "missing/D/274514-deadlocked.json"
+    },
+    {
+      "igdb_id": 8486,
+      "game_name": "Deadly 30",
+      "file": "missing/D/8486-deadly-30.json"
     },
     {
       "igdb_id": 61893,
@@ -235707,6 +235757,11 @@
       "file": "missing/D/229844-devilgotchi.json"
     },
     {
+      "igdb_id": 21546,
+      "game_name": "Devilish",
+      "file": "missing/D/21546-devilish.json"
+    },
+    {
       "igdb_id": 230324,
       "game_name": "Devilish Candy House",
       "file": "missing/D/230324-devilish-candy-house.json"
@@ -238975,6 +239030,11 @@
       "igdb_id": 47897,
       "game_name": "Digimon World Championship",
       "file": "missing/D/47897-digimon-world-championship.json"
+    },
+    {
+      "igdb_id": 20761,
+      "game_name": "Digimon World Data Squad",
+      "file": "missing/D/20761-digimon-world-data-squad.json"
     },
     {
       "igdb_id": 20609,
@@ -268647,6 +268707,11 @@
       "file": "missing/D/44885-duke-nukem-total-meltdown.json"
     },
     {
+      "igdb_id": 8503,
+      "game_name": "Duke Nukem: Zero Hour",
+      "file": "missing/D/8503-duke-nukem-zero-hour.json"
+    },
+    {
       "igdb_id": 218117,
       "game_name": "Duke Nukem's Penthouse Paradise",
       "file": "missing/D/218117-duke-nukems-penthouse-paradise.json"
@@ -293537,6 +293602,16 @@
       "file": "missing/E/385574-eschalism.json"
     },
     {
+      "igdb_id": 8206,
+      "game_name": "Eschalon: Book I",
+      "file": "missing/E/8206-eschalon-book-i.json"
+    },
+    {
+      "igdb_id": 8207,
+      "game_name": "Eschalon: Book II",
+      "file": "missing/E/8207-eschalon-book-ii.json"
+    },
+    {
       "igdb_id": 273485,
       "game_name": "Eschatology",
       "file": "missing/E/273485-eschatology.json"
@@ -303327,6 +303402,11 @@
       "file": "missing/F/5640-f-e-a-r-files.json"
     },
     {
+      "igdb_id": 7831,
+      "game_name": "F.E.A.R. Online",
+      "file": "missing/F/7831-f-e-a-r-online.json"
+    },
+    {
       "igdb_id": 519,
       "game_name": "F.E.A.R. Perseus Mandate",
       "file": "missing/F/519-f-e-a-r-perseus-mandate.json"
@@ -303440,6 +303520,11 @@
       "igdb_id": 84201,
       "game_name": "F/A-18E Super Hornet: The Albanian Campaign",
       "file": "missing/F/84201-f-a-18e-super-hornet-the-albanian-campaign.json"
+    },
+    {
+      "igdb_id": 8303,
+      "game_name": "F1 05",
+      "file": "missing/F/8303-f1-05.json"
     },
     {
       "igdb_id": 7308,
@@ -317967,6 +318052,11 @@
       "file": "missing/F/240239-fifa-international-soccer.json"
     },
     {
+      "igdb_id": 20675,
+      "game_name": "FIFA Manager 06",
+      "file": "missing/F/20675-fifa-manager-06.json"
+    },
+    {
       "igdb_id": 20676,
       "game_name": "FIFA Manager 07",
       "file": "missing/F/20676-fifa-manager-07.json"
@@ -318000,6 +318090,11 @@
       "igdb_id": 20686,
       "game_name": "FIFA Manager 13",
       "file": "missing/F/20686-fifa-manager-13.json"
+    },
+    {
+      "igdb_id": 20687,
+      "game_name": "FIFA Manager 14",
+      "file": "missing/F/20687-fifa-manager-14.json"
     },
     {
       "igdb_id": 56345,
@@ -339767,6 +339862,11 @@
       "file": "missing/F/20978-fossil-fighters.json"
     },
     {
+      "igdb_id": 20979,
+      "game_name": "Fossil Fighters: Champions",
+      "file": "missing/F/20979-fossil-fighters-champions.json"
+    },
+    {
       "igdb_id": 8609,
       "game_name": "Fossil Fighters: Frontier",
       "file": "missing/F/8609-fossil-fighters-frontier.json"
@@ -360990,6 +361090,11 @@
       "igdb_id": 134650,
       "game_name": "Geneforge 1: Mutagen",
       "file": "missing/G/134650-geneforge-1-mutagen.json"
+    },
+    {
+      "igdb_id": 8363,
+      "game_name": "Geneforge 2",
+      "file": "missing/G/8363-geneforge-2.json"
     },
     {
       "igdb_id": 50869,
@@ -397830,6 +397935,11 @@
       "igdb_id": 12137,
       "game_name": "Harley-Davidson: The Road to Sturgis",
       "file": "missing/H/12137-harley-davidson-the-road-to-sturgis.json"
+    },
+    {
+      "igdb_id": 20337,
+      "game_name": "Harley's Humongous Adventure",
+      "file": "missing/H/20337-harleys-humongous-adventure.json"
     },
     {
       "igdb_id": 151023,
@@ -449775,6 +449885,11 @@
       "igdb_id": 270756,
       "game_name": "Innocent Tour",
       "file": "missing/I/270756-innocent-tour.json"
+    },
+    {
+      "igdb_id": 7838,
+      "game_name": "Innocent Until Caught",
+      "file": "missing/I/7838-innocent-until-caught.json"
     },
     {
       "igdb_id": 219685,
@@ -504182,6 +504297,11 @@
       "file": "missing/L/348450-legend-of-hiraq.json"
     },
     {
+      "igdb_id": 8125,
+      "game_name": "Legend of Illusion Starring Mickey Mouse",
+      "file": "missing/L/8125-legend-of-illusion-starring-mickey-mouse.json"
+    },
+    {
       "igdb_id": 68979,
       "game_name": "Legend of Ixtona",
       "file": "missing/L/68979-legend-of-ixtona.json"
@@ -504565,6 +504685,11 @@
       "igdb_id": 288430,
       "game_name": "Legend of the Otherworld",
       "file": "missing/L/288430-legend-of-the-otherworld.json"
+    },
+    {
+      "igdb_id": 20514,
+      "game_name": "Legend of the River King GB",
+      "file": "missing/L/20514-legend-of-the-river-king-gb.json"
     },
     {
       "igdb_id": 140401,
@@ -523182,6 +523307,11 @@
       "file": "missing/L/175759-lost-in-blue.json"
     },
     {
+      "igdb_id": 21396,
+      "game_name": "Lost in Blue 2",
+      "file": "missing/L/21396-lost-in-blue-2.json"
+    },
+    {
       "igdb_id": 318018,
       "game_name": "Lost In Blue 2: Fate's Island",
       "file": "missing/L/318018-lost-in-blue-2-fates-island.json"
@@ -536765,6 +536895,11 @@
       "igdb_id": 118324,
       "game_name": "Magnetic Pull",
       "file": "missing/M/118324-magnetic-pull.json"
+    },
+    {
+      "igdb_id": 20888,
+      "game_name": "Magnetic: Cage Closed",
+      "file": "missing/M/20888-magnetic-cage-closed.json"
     },
     {
       "igdb_id": 20526,
@@ -561417,6 +561552,11 @@
       "file": "missing/M/10546-men-of-war-condemned-heroes.json"
     },
     {
+      "igdb_id": 8387,
+      "game_name": "Men of War: Red Tide",
+      "file": "missing/M/8387-men-of-war-red-tide.json"
+    },
+    {
       "igdb_id": 9855,
       "game_name": "Men of War: Vietnam",
       "file": "missing/M/9855-men-of-war-vietnam.json"
@@ -566735,6 +566875,11 @@
       "igdb_id": 8775,
       "game_name": "Micro Machines 2: Turbo Tournament",
       "file": "missing/M/8775-micro-machines-2-turbo-tournament.json"
+    },
+    {
+      "igdb_id": 8497,
+      "game_name": "Micro Machines 64 Turbo",
+      "file": "missing/M/8497-micro-machines-64-turbo.json"
     },
     {
       "igdb_id": 111552,
@@ -609222,6 +609367,11 @@
       "file": "missing/N/79297-naruto-ninja-council-2-european-version.json"
     },
     {
+      "igdb_id": 20778,
+      "game_name": "Naruto: Ninja Destiny",
+      "file": "missing/N/20778-naruto-ninja-destiny.json"
+    },
+    {
       "igdb_id": 64486,
       "game_name": "Naruto: Ninja Destiny II - European Version",
       "file": "missing/N/64486-naruto-ninja-destiny-ii-european-version.json"
@@ -642867,6 +643017,11 @@
       "file": "missing/O/21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json"
     },
     {
+      "igdb_id": 21117,
+      "game_name": "One Piece: Unlimited Cruise 2 - Awakening of a Hero",
+      "file": "missing/O/21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json"
+    },
+    {
       "igdb_id": 22875,
       "game_name": "One Piece: Unlimited Cruise SP",
       "file": "missing/O/22875-one-piece-unlimited-cruise-sp.json"
@@ -653960,6 +654115,11 @@
       "igdb_id": 270044,
       "game_name": "Overwatch 2: Season 7 - Rise of the Darkness",
       "file": "missing/O/270044-overwatch-2-season-7-rise-of-the-darkness.json"
+    },
+    {
+      "igdb_id": 21229,
+      "game_name": "Overwatch: Game of the Year Edition",
+      "file": "missing/O/21229-overwatch-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 118848,
@@ -667992,6 +668152,11 @@
       "file": "missing/P/14813-peggle-nights.json"
     },
     {
+      "igdb_id": 21257,
+      "game_name": "Peggle: Dual Shot",
+      "file": "missing/P/21257-peggle-dual-shot.json"
+    },
+    {
       "igdb_id": 302689,
       "game_name": "Pegglo",
       "file": "missing/P/302689-pegglo.json"
@@ -679782,6 +679947,11 @@
       "file": "missing/P/42474-pink-goes-to-hollywood.json"
     },
     {
+      "igdb_id": 8106,
+      "game_name": "Pink Goes to Hollywood",
+      "file": "missing/P/8106-pink-goes-to-hollywood.json"
+    },
+    {
       "igdb_id": 138499,
       "game_name": "Pink Gum",
       "file": "missing/P/138499-pink-gum.json"
@@ -684632,6 +684802,11 @@
       "file": "missing/P/10602-pixeljunk-nom-nom-galaxy.json"
     },
     {
+      "igdb_id": 20762,
+      "game_name": "PixelJunk Racers",
+      "file": "missing/P/20762-pixeljunk-racers.json"
+    },
+    {
       "igdb_id": 44576,
       "game_name": "PixelJunk Racers: 2nd Lap",
       "file": "missing/P/44576-pixeljunk-racers-2nd-lap.json"
@@ -684645,6 +684820,11 @@
       "igdb_id": 9912,
       "game_name": "PixelJunk Shooter",
       "file": "missing/P/9912-pixeljunk-shooter.json"
+    },
+    {
+      "igdb_id": 20446,
+      "game_name": "PixelJunk Shooter 2",
+      "file": "missing/P/20446-pixeljunk-shooter-2.json"
     },
     {
       "igdb_id": 20445,
@@ -727822,6 +728002,11 @@
       "file": "missing/R/35981-raiderssphere4th.json"
     },
     {
+      "igdb_id": 20883,
+      "game_name": "RaiderZ",
+      "file": "missing/R/20883-raiderz.json"
+    },
+    {
       "igdb_id": 160242,
       "game_name": "Raidfield 2",
       "file": "missing/R/160242-raidfield-2.json"
@@ -753307,6 +753492,11 @@
       "file": "missing/R/71438-road-runner-and-wile-e-coyote.json"
     },
     {
+      "igdb_id": 8099,
+      "game_name": "Road Runner's Death Valley Rally",
+      "file": "missing/R/8099-road-runners-death-valley-rally.json"
+    },
+    {
       "igdb_id": 235125,
       "game_name": "Road Rush Racer",
       "file": "missing/R/235125-road-rush-racer.json"
@@ -772257,6 +772447,11 @@
       "file": "missing/S/212330-sakura-sakura-limited-edition.json"
     },
     {
+      "igdb_id": 20811,
+      "game_name": "Sakura Samurai: Art of the Sword",
+      "file": "missing/S/20811-sakura-samurai-art-of-the-sword.json"
+    },
+    {
       "igdb_id": 34032,
       "game_name": "Sakura Santa",
       "file": "missing/S/34032-sakura-santa.json"
@@ -785265,6 +785460,11 @@
       "igdb_id": 236935,
       "game_name": "Secrets of Orion: Sword of Destiny.",
       "file": "missing/S/236935-secrets-of-orion-sword-of-destiny.json"
+    },
+    {
+      "igdb_id": 8276,
+      "game_name": "Secrets of Rætikon",
+      "file": "missing/S/8276-secrets-of-r-tikon.json"
     },
     {
       "igdb_id": 341022,
@@ -821302,6 +821502,11 @@
       "file": "missing/S/314238-sniper-elite-resistance.json"
     },
     {
+      "igdb_id": 20356,
+      "game_name": "Sniper Fury",
+      "file": "missing/S/20356-sniper-fury.json"
+    },
+    {
       "igdb_id": 411050,
       "game_name": "Sniper Game",
       "file": "missing/S/411050-sniper-game.json"
@@ -836775,6 +836980,11 @@
       "igdb_id": 42761,
       "game_name": "Space Invaders Evolution",
       "file": "missing/S/42761-space-invaders-evolution.json"
+    },
+    {
+      "igdb_id": 8199,
+      "game_name": "Space Invaders Extreme 2",
+      "file": "missing/S/8199-space-invaders-extreme-2.json"
     },
     {
       "igdb_id": 79611,
@@ -881722,6 +881932,11 @@
       "file": "missing/S/223665-super-puzzle-platformer.json"
     },
     {
+      "igdb_id": 20997,
+      "game_name": "Super Puzzle Platformer Deluxe",
+      "file": "missing/S/20997-super-puzzle-platformer-deluxe.json"
+    },
+    {
       "igdb_id": 147436,
       "game_name": "Super Puzzles Dream: Xmas",
       "file": "missing/S/147436-super-puzzles-dream-xmas.json"
@@ -921337,6 +921552,11 @@
       "file": "missing/T/315684-the-crow.json"
     },
     {
+      "igdb_id": 8538,
+      "game_name": "The Crow: City of Angels",
+      "file": "missing/T/8538-the-crow-city-of-angels.json"
+    },
+    {
       "igdb_id": 187854,
       "game_name": "The Crow's Eye: Deluxe Edition",
       "file": "missing/T/187854-the-crows-eye-deluxe-edition.json"
@@ -926200,6 +926420,11 @@
       "igdb_id": 57341,
       "game_name": "The Eye of Typhoon",
       "file": "missing/T/57341-the-eye-of-typhoon.json"
+    },
+    {
+      "igdb_id": 20789,
+      "game_name": "The Eyes of Ara",
+      "file": "missing/T/20789-the-eyes-of-ara.json"
     },
     {
       "igdb_id": 53736,
@@ -980890,6 +981115,11 @@
       "igdb_id": 307061,
       "game_name": "Tom and Jerry: Frantic Antics!",
       "file": "missing/T/307061-tom-and-jerry-frantic-antics.json"
+    },
+    {
+      "igdb_id": 8028,
+      "game_name": "Tom and Jerry: Frantic Antics!",
+      "file": "missing/T/8028-tom-and-jerry-frantic-antics.json"
     },
     {
       "igdb_id": 8031,
@@ -1038092,6 +1038322,11 @@
       "file": "missing/V/29957-vr-snowballs.json"
     },
     {
+      "igdb_id": 20642,
+      "game_name": "VR Soccer",
+      "file": "missing/V/20642-vr-soccer.json"
+    },
+    {
       "igdb_id": 86585,
       "game_name": "VR Soccer Training",
       "file": "missing/V/86585-vr-soccer-training.json"
@@ -1063127,6 +1063362,11 @@
       "file": "missing/W/228512-wolf-night-evening.json"
     },
     {
+      "igdb_id": 21342,
+      "game_name": "Wolf of the Battlefield: Commando 3",
+      "file": "missing/W/21342-wolf-of-the-battlefield-commando-3.json"
+    },
+    {
       "igdb_id": 196571,
       "game_name": "Wolf of the Mountain",
       "file": "missing/W/196571-wolf-of-the-mountain.json"
@@ -1070320,6 +1070560,11 @@
       "igdb_id": 199929,
       "game_name": "WRC Collection Vol. 2",
       "file": "missing/W/199929-wrc-collection-vol-2.json"
+    },
+    {
+      "igdb_id": 8314,
+      "game_name": "WRC II Extreme",
+      "file": "missing/W/8314-wrc-ii-extreme.json"
     },
     {
       "igdb_id": 7250,
@@ -1091165,6 +1091410,11 @@
       "igdb_id": 79604,
       "game_name": "Zoo Tycoon 2: Endangered Species",
       "file": "missing/Z/79604-zoo-tycoon-2-endangered-species.json"
+    },
+    {
+      "igdb_id": 21528,
+      "game_name": "Zoo Tycoon 2: Extinct Animals",
+      "file": "missing/Z/21528-zoo-tycoon-2-extinct-animals.json"
     },
     {
       "igdb_id": 100132,
