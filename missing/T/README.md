@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Time Warp | 333775 | [333775-tetris-time-warp.json](./333775-tetris-time-warp.json) |
 | Tetris Ultimate | 8194 | [8194-tetris-ultimate.json](./8194-tetris-ultimate.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
+| Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
@@ -6010,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
+| The Dukes of Hazzard | 24137 | [24137-the-dukes-of-hazzard.json](./24137-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
+| The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls IV: Knights of the Nine | 7959 | [7959-the-elder-scrolls-iv-knights-of-the-nine.json](./7959-the-elder-scrolls-iv-knights-of-the-nine.json) |
@@ -8580,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Threat | 214108 | [214108-the-last-threat.json](./214108-the-last-threat.json) |
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
+| The Last Time | 23942 | [23942-the-last-time.json](./23942-the-last-time.json) |
 | The Last Tinker: City of Colors | 2346 | [2346-the-last-tinker-city-of-colors.json](./2346-the-last-tinker-city-of-colors.json) |
 | The Last Tower | 93798 | [93798-the-last-tower.json](./93798-the-last-tower.json) |
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
@@ -9974,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
+| The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Castle | 70067 | [70067-the-new-castle.json](./70067-the-new-castle.json) |
