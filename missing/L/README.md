@@ -6354,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
+| Lucadian Chronicles | 34687 | [34687-lucadian-chronicles.json](./34687-lucadian-chronicles.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
 | Lucas the Game | 367761 | [367761-lucas-the-game.json](./367761-lucas-the-game.json) |
