@@ -6132,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elementalists 2 | 313742 | [313742-the-elementalists-2.json](./313742-the-elementalists-2.json) |
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
 | The Elementalists: Winters Past | 313743 | [313743-the-elementalists-winters-past.json](./313743-the-elementalists-winters-past.json) |
+| The Elephant Collection | 249612 | [249612-the-elephant-collection.json](./249612-the-elephant-collection.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 146563 | [146563-the-elevator.json](./146563-the-elevator.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
@@ -12878,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
+| The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
@@ -18839,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Elements | 63682 | [63682-tower-of-elements.json](./63682-tower-of-elements.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Fantasy | 256153 | [256153-tower-of-fantasy.json](./256153-tower-of-fantasy.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
