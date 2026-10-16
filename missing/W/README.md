@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
+| Wild West and Wizards | 117639 | [117639-wild-west-and-wizards.json](./117639-wild-west-and-wizards.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Chase | 415991 | [415991-wild-west-chase.json](./415991-wild-west-chase.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
