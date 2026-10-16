@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Playgrounds: Hot 'N Frosty | 170913 | [170913-nba-playgrounds-hot-n-frosty.json](./170913-nba-playgrounds-hot-n-frosty.json) |
 | NBA Quiz | 349805 | [349805-nba-quiz.json](./349805-nba-quiz.json) |
 | NBA ShootOut | 20260 | [20260-nba-shootout.json](./20260-nba-shootout.json) |
+| NBA ShootOut '97 | 20261 | [20261-nba-shootout-97.json](./20261-nba-shootout-97.json) |
 | NBA ShootOut 2000 | 20263 | [20263-nba-shootout-2000.json](./20263-nba-shootout-2000.json) |
 | NBA ShootOut 2001 | 20264 | [20264-nba-shootout-2001.json](./20264-nba-shootout-2001.json) |
 | NBA ShootOut 2002 | 20265 | [20265-nba-shootout-2002.json](./20265-nba-shootout-2002.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2004 | 175918 | [175918-ncaa-football-2004.json](./175918-ncaa-football-2004.json) |
 | NCAA Football 2004 | 5956 | [5956-ncaa-football-2004.json](./5956-ncaa-football-2004.json) |
 | NCAA Football 2005 | 5957 | [5957-ncaa-football-2005.json](./5957-ncaa-football-2005.json) |
+| NCAA Gamebreaker | 20297 | [20297-ncaa-gamebreaker.json](./20297-ncaa-gamebreaker.json) |
 | NCAA Gamebreaker 98 | 43825 | [43825-ncaa-gamebreaker-98.json](./43825-ncaa-gamebreaker-98.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA March Madness 07 | 21392 | [21392-ncaa-march-madness-07.json](./21392-ncaa-march-madness-07.json) |
@@ -2619,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football | 78935 | [78935-nfl-football.json](./78935-nfl-football.json) |
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
+| NFL GameDay | 20254 | [20254-nfl-gameday.json](./20254-nfl-gameday.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2001 | 43763 | [43763-nfl-gameday-2001.json](./43763-nfl-gameday-2001.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
@@ -2641,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback Club 96 | 25080 | [25080-nfl-quarterback-club-96.json](./25080-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
+| NFL Quarterback Club 97 | 20258 | [20258-nfl-quarterback-club-97.json](./20258-nfl-quarterback-club-97.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
@@ -5310,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
 | Numberzilla | 331380 | [331380-numberzilla.json](./331380-numberzilla.json) |
+| Numblast | 20282 | [20282-numblast.json](./20282-numblast.json) |
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
