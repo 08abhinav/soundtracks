@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Game of the Year Edition | 292788 | [292788-call-of-duty-game-of-the-year-edition.json](./292788-call-of-duty-game-of-the-year-edition.json) |
+| Call of Duty: Ghosts - Devastation | 20936 | [20936-call-of-duty-ghosts-devastation.json](./20936-call-of-duty-ghosts-devastation.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
 | Call of Duty: Ghosts - Invasion | 20870 | [20870-call-of-duty-ghosts-invasion.json](./20870-call-of-duty-ghosts-invasion.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
+| Chex Quest | 8192 | [8192-chex-quest.json](./8192-chex-quest.json) |
 | Chex Quest 2: Flemoids Take Chextropolis | 8718 | [8718-chex-quest-2-flemoids-take-chextropolis.json](./8718-chex-quest-2-flemoids-take-chextropolis.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
 | Chex Quest HD | 58136 | [58136-chex-quest-hd.json](./58136-chex-quest-hd.json) |
@@ -4670,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
+| Chicago 1930 | 18873 | [18873-chicago-1930.json](./18873-chicago-1930.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
 | Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
@@ -10167,6 +10170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmiads | 41191 | [41191-cosmiads.json](./41191-cosmiads.json) |
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
+| Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
@@ -13779,6 +13783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
+| Cutthroat Island | 7828 | [7828-cutthroat-island.json](./7828-cutthroat-island.json) |
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroat Pinochle | 90384 | [90384-cutthroat-pinochle.json](./90384-cutthroat-pinochle.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
