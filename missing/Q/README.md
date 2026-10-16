@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Moths | 253515 | [253515-queen-of-moths.json](./253515-queen-of-moths.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Phobos | 65034 | [65034-queen-of-phobos.json](./65034-queen-of-phobos.json) |
+| Queen of Seas | 29855 | [29855-queen-of-seas.json](./29855-queen-of-seas.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
