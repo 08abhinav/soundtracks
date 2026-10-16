@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
+| Talking Tom Camp | 91217 | [91217-talking-tom-camp.json](./91217-talking-tom-camp.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks With Hands: Armed and Treaded | 107787 | [107787-tanks-with-hands-armed-and-treaded.json](./107787-tanks-with-hands-armed-and-treaded.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
+| Tanks!!! | 91260 | [91260-tanks.json](./91260-tanks.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
 | Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
 | TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
@@ -6867,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frogs | 145444 | [145444-the-frogs.json](./145444-the-frogs.json) |
 | The Front of Greed | 106388 | [106388-the-front-of-greed.json](./106388-the-front-of-greed.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
+| The Frontier Outskirts VR | 91192 | [91192-the-frontier-outskirts-vr.json](./91192-the-frontier-outskirts-vr.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
@@ -12234,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
+| The Take | 90852 | [90852-the-take.json](./90852-the-take.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
@@ -16554,6 +16558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Love | 114880 | [114880-tiny-love.json](./114880-tiny-love.json) |
 | Tiny Mafia: War of Syndicates | 188355 | [188355-tiny-mafia-war-of-syndicates.json](./188355-tiny-mafia-war-of-syndicates.json) |
+| Tiny Mage | 90859 | [90859-tiny-mage.json](./90859-tiny-mage.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
