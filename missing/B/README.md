@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
+| Beatris | 75949 | [75949-beatris.json](./75949-beatris.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats Fever: Big Apple | 155369 | [155369-beats-fever-big-apple.json](./155369-beats-fever-big-apple.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
+| Boxlife | 36262 | [36262-boxlife.json](./36262-boxlife.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
 | Boxman | 267860 | [267860-boxman.json](./267860-boxman.json) |
@@ -10865,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
 | Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
+| Broadway: 1849 | 76299 | [76299-broadway-1849.json](./76299-broadway-1849.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
