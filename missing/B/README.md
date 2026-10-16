@@ -7702,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
 | Bloodright | 365822 | [365822-bloodright.json](./365822-bloodright.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
+| Bloodroots | 106822 | [106822-bloodroots.json](./106822-bloodroots.json) |
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
+| Boomerang Fu | 111529 | [111529-boomerang-fu.json](./111529-boomerang-fu.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
@@ -9789,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
+| Boyfriend Dungeon | 74692 | [74692-boyfriend-dungeon.json](./74692-boyfriend-dungeon.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
 | Boyfriend Kari Kirameki Note | 100066 | [100066-boyfriend-kari-kirameki-note.json](./100066-boyfriend-kari-kirameki-note.json) |
