@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorabilis | 254373 | [254373-adorabilis.json](./254373-adorabilis.json) |
+| Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
+| Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
@@ -5634,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambroise Niflette & the Gleaned Bell | 323975 | [323975-ambroise-niflette-and-the-gleaned-bell.json](./323975-ambroise-niflette-and-the-gleaned-bell.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
+| Ambrosia Sky | 348266 | [348266-ambrosia-sky.json](./348266-ambrosia-sky.json) |
 | Ambrosia Sky: Act Two | 404879 | [404879-ambrosia-sky-act-two.json](./404879-ambrosia-sky-act-two.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
@@ -8253,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
+| Arcade Archives 2: Air Combat 22 | 352492 | [352492-arcade-archives-2-air-combat-22.json](./352492-arcade-archives-2-air-combat-22.json) |
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
@@ -8477,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
+| Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
 | Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
@@ -10758,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Slider | 192262 | [192262-astral-slider.json](./192262-astral-slider.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
+| Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
@@ -12311,6 +12317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
+| Axis Football 2026 | 362506 | [362506-axis-football-2026.json](./362506-axis-football-2026.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
 | Axis Football League | 58041 | [58041-axis-football-league.json](./58041-axis-football-league.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
