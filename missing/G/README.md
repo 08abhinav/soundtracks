@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchphobia | 139462 | [139462-glitchphobia.json](./139462-glitchphobia.json) |
 | GlitchPoly | 140396 | [140396-glitchpoly.json](./140396-glitchpoly.json) |
 | Glitchrunners | 33456 | [33456-glitchrunners.json](./33456-glitchrunners.json) |
+| Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
@@ -5626,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
+| Grapple | 12878 | [12878-grapple.json](./12878-grapple.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Car | 346704 | [346704-grapple-car.json](./346704-grapple-car.json) |
@@ -6868,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
 | GT and the Evil Factory | 141611 | [141611-gt-and-the-evil-factory.json](./141611-gt-and-the-evil-factory.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
+| GT Cube | 3938 | [3938-gt-cube.json](./3938-gt-cube.json) |
 | GT Drift: Max Race Car | 108221 | [108221-gt-drift-max-race-car.json](./108221-gt-drift-max-race-car.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
