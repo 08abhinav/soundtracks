@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Wars 2: Complete Edition | 84476 | [84476-halo-wars-2-complete-edition.json](./84476-halo-wars-2-complete-edition.json) |
 | Halo Wars 2: Operation Spearbreaker | 75417 | [75417-halo-wars-2-operation-spearbreaker.json](./75417-halo-wars-2-operation-spearbreaker.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
+| Halo Wars: Definitive Edition | 26183 | [26183-halo-wars-definitive-edition.json](./26183-halo-wars-definitive-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
@@ -1476,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
+| Harry Potter and the Sorcerer's Stone | 117003 | [117003-harry-potter-and-the-sorcerers-stone.json](./117003-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone | 118554 | [118554-harry-potter-and-the-sorcerers-stone.json](./118554-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
 | Harry Potter Book of Spells | 198753 | [198753-harry-potter-book-of-spells.json](./198753-harry-potter-book-of-spells.json) |
@@ -6012,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight Randomizer | 341654 | [341654-hollow-knight-randomizer.json](./341654-hollow-knight-randomizer.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
 | Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
+| Hollow Knight: Hidden Dreams | 106818 | [106818-hollow-knight-hidden-dreams.json](./106818-hollow-knight-hidden-dreams.json) |
 | Hollow Knight: Lifeblood | 136396 | [136396-hollow-knight-lifeblood.json](./136396-hollow-knight-lifeblood.json) |
 | Hollow Knight: Pale Court | 255660 | [255660-hollow-knight-pale-court.json](./255660-hollow-knight-pale-court.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
