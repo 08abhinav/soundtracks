@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| Norpon | 113502 | [113502-norpon.json](./113502-norpon.json) |
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
 | Norr part II: Will Walker | 173178 | [173178-norr-part-ii-will-walker.json](./173178-norr-part-ii-will-walker.json) |
 | Norrland | 9127 | [9127-norrland.json](./9127-norrland.json) |
@@ -4926,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
+| Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
@@ -5379,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nusantara: Bermuda | 361034 | [361034-nusantara-bermuda.json](./361034-nusantara-bermuda.json) |
 | Nusantara: Bermuda Triangle | 177329 | [177329-nusantara-bermuda-triangle.json](./177329-nusantara-bermuda-triangle.json) |
+| Nusantara: Legend of The Winged Ones | 112744 | [112744-nusantara-legend-of-the-winged-ones.json](./112744-nusantara-legend-of-the-winged-ones.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
