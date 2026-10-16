@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:34:23.203Z",
-  "total_soundtracks": 1760,
+  "generated_at": "2026-10-16T05:34:38.037Z",
+  "total_soundtracks": 1761,
   "games": [
     {
       "igdb_id": 7522,
@@ -13359,6 +13359,20 @@
         {
           "album_name": "Planet of Lana (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/26vBjTqpavqsGycyHgr3ux",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 13200,
+      "game_name": "Planetbase",
+      "game_url": "https://ostdb.net/games/planetbase",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318c402a39b082e7a7ba82d41",
+      "albums": [
+        {
+          "album_name": "Planetbase (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6G4IJ2ngsYOHM2QvmO0Bs8",
           "apple_music_url": "",
           "album_link_url": ""
         }
