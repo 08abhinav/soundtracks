@@ -1031,7 +1031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
-| Tales of Vesperia | 1209 | [1209-tales-of-vesperia.json](./1209-tales-of-vesperia.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
@@ -1913,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of Victory | 253839 | [253839-taste-of-victory.json](./253839-taste-of-victory.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
+| Tastee Lethal Tactics | 18312 | [18312-tastee-lethal-tactics.json](./18312-tastee-lethal-tactics.json) |
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
@@ -10187,7 +10187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outfit | 7126 | [7126-the-outfit.json](./7126-the-outfit.json) |
 | The Outforce | 1167 | [1167-the-outforce.json](./1167-the-outforce.json) |
-| The Outlast Trials | 127165 | [127165-the-outlast-trials.json](./127165-the-outlast-trials.json) |
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
@@ -10274,7 +10273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
-| The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
 | The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
@@ -11622,7 +11620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Carnival: Bumper Blast | 91768 | [91768-the-sims-carnival-bumper-blast.json](./91768-the-sims-carnival-bumper-blast.json) |
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
-| The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
@@ -16545,7 +16542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyKeep | 10993 | [10993-tinykeep.json](./10993-tinykeep.json) |
-| Tinykin | 152267 | [152267-tinykin.json](./152267-tinykin.json) |
 | Tinykin Challenge Update | 229118 | [229118-tinykin-challenge-update.json](./229118-tinykin-challenge-update.json) |
 | Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -21563,6 +21559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
 | Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
+| Trillion: God of Destruction | 19445 | [19445-trillion-god-of-destruction.json](./19445-trillion-god-of-destruction.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy King Man | 148318 | [148318-trilogy-king-man.json](./148318-trilogy-king-man.json) |
