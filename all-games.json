@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:03:51.014Z",
-  "total_soundtracks": 1713,
+  "generated_at": "2026-10-16T05:04:04.965Z",
+  "total_soundtracks": 1714,
   "games": [
     {
       "igdb_id": 7522,
@@ -11559,6 +11559,20 @@
         {
           "album_name": "MULLET MADJACK (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5Jix2124Gc7frIqVp7m7v8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 64957,
+      "game_name": "Mutazione",
+      "game_url": "https://ostdb.net/games/mutazione",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27358d37cd29f65fd81bdfa25de",
+      "albums": [
+        {
+          "album_name": "Mutazione (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HWxyoTah0smeJHdiLh3K4",
           "apple_music_url": "",
           "album_link_url": ""
         }
