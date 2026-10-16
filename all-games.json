@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:26:25.203Z",
-  "total_soundtracks": 1893,
+  "generated_at": "2026-10-16T06:31:02.250Z",
+  "total_soundtracks": 1894,
   "games": [
     {
       "igdb_id": 7522,
@@ -9470,6 +9470,20 @@
           "album_name": "Hitman 2: Silent Assassin (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5kK1FFsw7e1Gu7yOV6rDgH",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 233571,
+      "game_name": "Hitman World of Assassination",
+      "game_url": "https://ostdb.net/games/hitman-world-of-assassination",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739771e0dfaef480b10ee18bb8",
+      "albums": [
+        {
+          "album_name": "HITMAN World of Assassination (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/3ctkhEXjKHYLGsLkiynpLo",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
