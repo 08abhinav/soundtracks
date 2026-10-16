@@ -445,6 +445,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c1455c23230dad29cf0ab2" width="60" /> | [Final Fantasy III](https://ostdb.net/games/final-fantasy-iii) | **FINAL FANTASY III Original Soundtrack** · [Spotify](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c1455c23230dad29cf0ab2" width="60" /> | [Final Fantasy III](https://ostdb.net/games/final-fantasy-iii) | **FINAL FANTASY III Original Soundtrack** · [Spotify](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5" width="60" /> | [Final Fantasy IV](https://ostdb.net/games/final-fantasy-iv) | **FINAL FANTASY IV Original Soundtrack** · [Spotify](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5" width="60" /> | [Final Fantasy IV](https://ostdb.net/games/final-fantasy-iv) | **FINAL FANTASY IV Original Soundtrack** · [Spotify](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373fdbf8281a526452f942410" width="60" /> | [Final Fantasy IX](https://ostdb.net/games/final-fantasy-ix) | **FINAL FANTASY IX Original Soundtrack** · [Spotify](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/c7/ec/33c7ec86-7fb3-8d92-3bd2-5c5c5047001a/mzi.tpayyyqa.tif/600x600bb.jpg" width="60" /> | [Final Fantasy Tactics](https://ostdb.net/games/final-fantasy-tactics) | **FINAL FANTASY TACTICS Original Soundtrack** · [Spotify](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) · [Apple Music](https://music.apple.com/us/album/final-fantasy-tactics-original-soundtrack/255190011) · [Album](https://album.link/i/255190011) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d74ab7d4e2d7d1657c16a1bd" width="60" /> | [Final Fantasy Type-0](https://ostdb.net/games/final-fantasy-type-0) | **FINAL FANTASY Type-0 HD Original Soundtrack** · [Spotify](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) |
@@ -1421,4 +1422,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1738 soundtracks · last updated 2026-10-16T05:21:52.114Z_
+_1739 soundtracks · last updated 2026-10-16T05:22:05.174Z_
