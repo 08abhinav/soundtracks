@@ -3877,6 +3877,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
+| Eschalon: Book I | 8206 | [8206-eschalon-book-i.json](./8206-eschalon-book-i.json) |
+| Eschalon: Book II | 8207 | [8207-eschalon-book-ii.json](./8207-eschalon-book-ii.json) |
 | Eschatology | 273485 | [273485-eschatology.json](./273485-eschatology.json) |
 | Eschaton | 199310 | [199310-eschaton.json](./199310-eschaton.json) |
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
