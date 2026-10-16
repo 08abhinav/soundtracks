@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 64480 | [64480-wheel-of-fortune.json](./64480-wheel-of-fortune.json) |
+| Wheel of Fortune | 69177 | [69177-wheel-of-fortune.json](./69177-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
 | Wheel of Fortune Cartridge #2 | 198966 | [198966-wheel-of-fortune-cartridge-2.json](./198966-wheel-of-fortune-cartridge-2.json) |
