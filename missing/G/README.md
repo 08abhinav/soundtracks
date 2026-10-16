@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
+| Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
@@ -6155,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
+| Green Phoenix | 148095 | [148095-green-phoenix.json](./148095-green-phoenix.json) |
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
