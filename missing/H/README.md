@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
+| Highway Encounter | 13877 | [13877-highway-encounter.json](./13877-highway-encounter.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
@@ -6782,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Hora | 364980 | [364980-hora.json](./364980-hora.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
+| Horace Goes Skiing | 13881 | [13881-horace-goes-skiing.json](./13881-horace-goes-skiing.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horas Extra Terrestres | 298989 | [298989-horas-extra-terrestres.json](./298989-horas-extra-terrestres.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
