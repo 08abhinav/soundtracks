@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:05:58.835Z",
-  "total_soundtracks": 1850,
+  "generated_at": "2026-10-16T06:06:12.290Z",
+  "total_soundtracks": 1851,
   "games": [
     {
       "igdb_id": 7522,
@@ -2253,6 +2253,20 @@
         {
           "album_name": "Before Your Eyes (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0n2i8bOgOuc9EjaSRd8wY7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 148499,
+      "game_name": "Behind the Frame: The Finest Scenery",
+      "game_url": "https://ostdb.net/games/behind-the-frame-the-finest-scenery",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27329cceffa764c75e20e4114ac",
+      "albums": [
+        {
+          "album_name": "Behind the Frame: The Finest Scenery (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5wiZTpK1QbdEorANrQYOuV",
           "apple_music_url": "",
           "album_link_url": ""
         }
