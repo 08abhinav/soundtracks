@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Wars | 35397 | [35397-chariot-wars.json](./35397-chariot-wars.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
+| Chariots of War | 23708 | [23708-chariots-of-war.json](./23708-chariots-of-war.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
 | Charles Haunted Mansion | 265519 | [265519-charles-haunted-mansion.json](./265519-charles-haunted-mansion.json) |
 | Charles the Bee | 258641 | [258641-charles-the-bee.json](./258641-charles-the-bee.json) |
@@ -7122,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
+| Close Combat 4: Battle of the Bulge | 24125 | [24125-close-combat-4-battle-of-the-bulge.json](./24125-close-combat-4-battle-of-the-bulge.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
@@ -11874,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
+| CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
 | Crimes of Passion 3 | 323994 | [323994-crimes-of-passion-3.json](./323994-crimes-of-passion-3.json) |
@@ -12580,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Sunset Invasion | 23980 | [23980-crusader-kings-ii-sunset-invasion.json](./23980-crusader-kings-ii-sunset-invasion.json) |
 | Crusader Kings II: Sword of Islam | 22660 | [22660-crusader-kings-ii-sword-of-islam.json](./22660-crusader-kings-ii-sword-of-islam.json) |
 | Crusader Kings II: The Old Gods | 22663 | [22663-crusader-kings-ii-the-old-gods.json](./22663-crusader-kings-ii-the-old-gods.json) |
+| Crusader Kings II: The Reaper's Due | 23850 | [23850-crusader-kings-ii-the-reapers-due.json](./23850-crusader-kings-ii-the-reapers-due.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
 | Crusader Kings II: The Reaper's Due Content Pack | 253291 | [253291-crusader-kings-ii-the-reapers-due-content-pack.json](./253291-crusader-kings-ii-the-reapers-due-content-pack.json) |
 | Crusader Kings II: Way of Life | 22667 | [22667-crusader-kings-ii-way-of-life.json](./22667-crusader-kings-ii-way-of-life.json) |
