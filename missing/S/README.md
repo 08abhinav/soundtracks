@@ -14947,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Maze | 363061 | [363061-spider-maze.json](./363061-spider-maze.json) |
+| Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
@@ -19273,12 +19274,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
+| Strategic War | 91167 | [91167-strategic-war.json](./91167-strategic-war.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
+| Stratego: Single Player | 91174 | [91174-stratego-single-player.json](./91174-stratego-single-player.json) |
 | Strategoria | 62283 | [62283-strategoria.json](./62283-strategoria.json) |
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
@@ -24281,6 +24284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
+| Sweep'n'Sweep | 91329 | [91329-sweepnsweep.json](./91329-sweepnsweep.json) |
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
