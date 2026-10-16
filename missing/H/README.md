@@ -7316,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
+| Hotel Barcelona | 125125 | [125125-hotel-barcelona.json](./125125-hotel-barcelona.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
