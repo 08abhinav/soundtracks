@@ -1535,7 +1535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
-| Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
 | DarkWind | 228505 | [228505-darkwind.json](./228505-darkwind.json) |
@@ -2026,7 +2025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Daymare: 1994 Sandcastle | 152844 | [152844-daymare-1994-sandcastle.json](./152844-daymare-1994-sandcastle.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
-| Daymare: 1998 | 23891 | [23891-daymare-1998.json](./23891-daymare-1998.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
@@ -5106,7 +5104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
-| Destroy All Humans! 2 | 2652 | [2652-destroy-all-humans-2.json](./2652-destroy-all-humans-2.json) |
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! 2: Reprobed - Dressed to Skill Edition | 203688 | [203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json](./203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json) |
@@ -5430,7 +5427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
-| Devil May Cry | 222654 | [222654-devil-may-cry.json](./222654-devil-may-cry.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry | 302713 | [302713-devil-may-cry.json](./302713-devil-may-cry.json) |
 | Devil May Cry | 338320 | [338320-devil-may-cry.json](./338320-devil-may-cry.json) |
@@ -6972,7 +6968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
-| Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
 | Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
@@ -9847,7 +9842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
 | Dragon Age: Origins - Feastday Gifts and Pranks | 368144 | [368144-dragon-age-origins-feastday-gifts-and-pranks.json](./368144-dragon-age-origins-feastday-gifts-and-pranks.json) |
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
-| Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - Return to Ostagar | 22975 | [22975-dragon-age-origins-return-to-ostagar.json](./22975-dragon-age-origins-return-to-ostagar.json) |
 | Dragon Age: Origins - The Golems of Amgarrak | 120314 | [120314-dragon-age-origins-the-golems-of-amgarrak.json](./120314-dragon-age-origins-the-golems-of-amgarrak.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
@@ -10431,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
+| DragonFable | 92725 | [92725-dragonfable.json](./92725-dragonfable.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
 | Dragonfield | 219758 | [219758-dragonfield.json](./219758-dragonfield.json) |
@@ -12916,7 +12911,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Digger | 346742 | [346742-dwarf-digger.json](./346742-dwarf-digger.json) |
 | Dwarf Dove | 293507 | [293507-dwarf-dove.json](./293507-dwarf-dove.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
-| Dwarf Fortress | 228456 | [228456-dwarf-fortress.json](./228456-dwarf-fortress.json) |
 | Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
 | Dwarf Hall | 258432 | [258432-dwarf-hall.json](./258432-dwarf-hall.json) |
 | Dwarf Journey | 144137 | [144137-dwarf-journey.json](./144137-dwarf-journey.json) |
