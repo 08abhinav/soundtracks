@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosthunter | 305475 | [305475-ghosthunter.json](./305475-ghosthunter.json) |
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
 | Ghostie Quest | 51854 | [51854-ghostie-quest.json](./51854-ghostie-quest.json) |
+| Ghostie Town | 423257 | [423257-ghostie-town.json](./423257-ghostie-town.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Whiskers | 384730 | [384730-ghostly-whiskers.json](./384730-ghostly-whiskers.json) |
 | Ghostmoons: Arcade | 357426 | [357426-ghostmoons-arcade.json](./357426-ghostmoons-arcade.json) |
 | Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
+| Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
@@ -5757,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Gravefire Tavern | 423242 | [423242-gravefire-tavern.json](./423242-gravefire-tavern.json) |
 | Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
 | Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
@@ -7162,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
+| Guildfire | 423294 | [423294-guildfire.json](./423294-guildfire.json) |
 | Guildlings | 96257 | [96257-guildlings.json](./96257-guildlings.json) |
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
