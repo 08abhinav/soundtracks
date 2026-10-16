@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
+| Papa's Bakeria | 101027 | [101027-papas-bakeria.json](./101027-papas-bakeria.json) |
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
@@ -2602,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peas! Animated Sudoku | 296217 | [296217-peas-animated-sudoku.json](./296217-peas-animated-sudoku.json) |
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
+| Peasant Knight | 76708 | [76708-peasant-knight.json](./76708-peasant-knight.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
 | Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
@@ -3243,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
+| Persona 5 Royal: Launch Edition | 134222 | [134222-persona-5-royal-launch-edition.json](./134222-persona-5-royal-launch-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
@@ -6654,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
+| Plasticity | 119192 | [119192-plasticity.json](./119192-plasticity.json) |
 | Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
 | Plastron | 92939 | [92939-plastron.json](./92939-plastron.json) |
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
