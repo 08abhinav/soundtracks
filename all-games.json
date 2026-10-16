@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:02:56.543Z",
-  "total_soundtracks": 1709,
+  "generated_at": "2026-10-16T05:03:07.792Z",
+  "total_soundtracks": 1710,
   "games": [
     {
       "igdb_id": 7522,
@@ -9852,6 +9852,20 @@
           "album_name": "Limbo (Original Videogame Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj",
           "apple_music_url": "https://music.apple.com/us/album/limbo-original-videogame-soundtrack-ep/1109391252",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26652,
+      "game_name": "Lisa: The First",
+      "game_url": "https://ostdb.net/games/lisa-the-first",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b872822ecaeef83de2f6014",
+      "albums": [
+        {
+          "album_name": "LISA: THE FIRST (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3qvhtavEBC5l3Yh6utgdiQ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
