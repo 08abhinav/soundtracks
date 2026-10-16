@@ -13695,6 +13695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP 07: NCAA Baseball | 21388 | [21388-mvp-07-ncaa-baseball.json](./21388-mvp-07-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
+| MVP Baseball 2003 | 11556 | [11556-mvp-baseball-2003.json](./11556-mvp-baseball-2003.json) |
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
@@ -14059,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
 | My Friends the Monster Trainers | 394097 | [394097-my-friends-the-monster-trainers.json](./394097-my-friends-the-monster-trainers.json) |
+| My Frogger Toy Trials | 11482 | [11482-my-frogger-toy-trials.json](./11482-my-frogger-toy-trials.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
