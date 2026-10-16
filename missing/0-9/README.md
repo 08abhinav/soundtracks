@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 31-in-1 Mighty Mix | 270048 | [270048-31-in-1-mighty-mix.json](./270048-31-in-1-mighty-mix.json) |
 | 32 in 1 Game Special | 219508 | [219508-32-in-1-game-special.json](./219508-32-in-1-game-special.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
+| 32 Secs | 148335 | [148335-32-secs.json](./148335-32-secs.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
