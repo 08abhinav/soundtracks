@@ -5289,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
+| Ring of Red | 22010 | [22010-ring-of-red.json](./22010-ring-of-red.json) |
 | Ring of The Devil | 285935 | [285935-ring-of-the-devil.json](./285935-ring-of-the-devil.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out 4x4 | 131317 | [131317-ring-out-4x4.json](./131317-ring-out-4x4.json) |
@@ -5484,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
+| Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of the Cones: Planetary Defense | 383576 | [383576-rise-of-the-cones-planetary-defense.json](./383576-rise-of-the-cones-planetary-defense.json) |
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
@@ -6439,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
+| Rock Manager | 22055 | [22055-rock-manager.json](./22055-rock-manager.json) |
 | Rock n' Bolt | 6127 | [6127-rock-n-bolt.json](./6127-rock-n-bolt.json) |
 | Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
@@ -7023,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
+| Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
