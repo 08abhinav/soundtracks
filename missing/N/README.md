@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
+| Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
 | Neko-Nin ExHeart 2 Love +Plus | 116863 | [116863-neko-nin-exheart-2-love-plus.json](./116863-neko-nin-exheart-2-love-plus.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
