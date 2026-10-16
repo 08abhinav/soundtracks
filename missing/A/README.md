@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
 | Actua Tennis | 44736 | [44736-actua-tennis.json](./44736-actua-tennis.json) |
+| Actual Crimes: Jack the Ripper | 20411 | [20411-actual-crimes-jack-the-ripper.json](./20411-actual-crimes-jack-the-ripper.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
 | Air Marty | 118136 | [118136-air-marty.json](./118136-air-marty.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
+| Air Missions: Hind | 20394 | [20394-air-missions-hind.json](./20394-air-missions-hind.json) |
 | Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
 | Air Navy Fighters | 104135 | [104135-air-navy-fighters.json](./104135-air-navy-fighters.json) |
 | Air Nights | 145516 | [145516-air-nights.json](./145516-air-nights.json) |
@@ -6519,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
 | Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
+| Angels That Kill | 20354 | [20354-angels-that-kill.json](./20354-angels-that-kill.json) |
 | Angels vs. Demons | 174064 | [174064-angels-vs-demons.json](./174064-angels-vs-demons.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
@@ -8217,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arakion | 64487 | [64487-arakion.json](./64487-arakion.json) |
 | Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
+| Aralon: Forge and Flame | 20357 | [20357-aralon-forge-and-flame.json](./20357-aralon-forge-and-flame.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Aramo | 401062 | [401062-aramo.json](./401062-aramo.json) |
 | Aran's Bike Trip | 154799 | [154799-arans-bike-trip.json](./154799-arans-bike-trip.json) |
@@ -10040,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascended | 158608 | [158608-ascended.json](./158608-ascended.json) |
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
+| Ascender | 20346 | [20346-ascender.json](./20346-ascender.json) |
 | Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
@@ -10764,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
 | Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
+| Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
@@ -12247,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
+| Awe | 20352 | [20352-awe.json](./20352-awe.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awele/Oware: Mancala | 89069 | [89069-awele-oware-mancala.json](./89069-awele-oware-mancala.json) |
