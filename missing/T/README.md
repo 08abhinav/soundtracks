@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts R: Infinite Evolve | 329142 | [329142-tales-of-hearts-r-infinite-evolve.json](./329142-tales-of-hearts-r-infinite-evolve.json) |
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
+| Tales of Hearts: Anime Movie Edition | 1210 | [1210-tales-of-hearts-anime-movie-edition.json](./1210-tales-of-hearts-anime-movie-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
 | Tales of Hongyuan | 90995 | [90995-tales-of-hongyuan.json](./90995-tales-of-hongyuan.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
@@ -2528,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 4 | 393182 | [393182-tekken-4.json](./393182-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
+| Tekken 5: Dark Resurrection Online | 1234 | [1234-tekken-5-dark-resurrection-online.json](./1234-tekken-5-dark-resurrection-online.json) |
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
@@ -18136,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
+| Toshinden 4 | 1416 | [1416-toshinden-4.json](./1416-toshinden-4.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
@@ -21112,6 +21115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treacherous Journeys | 176207 | [176207-treacherous-journeys.json](./176207-treacherous-journeys.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
+| Treachery in Beatdown City | 62700 | [62700-treachery-in-beatdown-city.json](./62700-treachery-in-beatdown-city.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Tread Heavy | 402947 | [402947-tread-heavy.json](./402947-tread-heavy.json) |
 | Treadmillasaurus Rex | 377740 | [377740-treadmillasaurus-rex.json](./377740-treadmillasaurus-rex.json) |
@@ -22769,6 +22773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
+| Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
