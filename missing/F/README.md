@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
+| Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
+| Fantasy Mosaics 14: Fourth Color | 32397 | [32397-fantasy-mosaics-14-fourth-color.json](./32397-fantasy-mosaics-14-fourth-color.json) |
 | Fantasy Mosaics 17: New Palette | 38777 | [38777-fantasy-mosaics-17-new-palette.json](./38777-fantasy-mosaics-17-new-palette.json) |
 | Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
 | Fist of Heaven & Hell | 120117 | [120117-fist-of-heaven-and-hell.json](./120117-fist-of-heaven-and-hell.json) |
+| Fist of Physics | 32130 | [32130-fist-of-physics.json](./32130-fist-of-physics.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
 | Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
