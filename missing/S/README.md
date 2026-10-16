@@ -8536,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
+| Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
@@ -14963,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Slingers | 201518 | [201518-spider-slingers.json](./201518-spider-slingers.json) |
+| Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
@@ -21683,6 +21685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Grappling Gecko | 154982 | [154982-super-grappling-gecko.json](./154982-super-grappling-gecko.json) |
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
+| Super Gravity Ball | 83499 | [83499-super-gravity-ball.json](./83499-super-gravity-ball.json) |
 | Super Greedy Cat | 216746 | [216746-super-greedy-cat.json](./216746-super-greedy-cat.json) |
 | Super Green Rally | 86546 | [86546-super-green-rally.json](./86546-super-green-rally.json) |
 | Super Grid Run | 58638 | [58638-super-grid-run.json](./58638-super-grid-run.json) |
