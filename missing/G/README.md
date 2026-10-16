@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
+| Ghostbusters: The Video Game Remastered | 119170 | [119170-ghostbusters-the-video-game-remastered.json](./119170-ghostbusters-the-video-game-remastered.json) |
 | GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gringo Hero | 339472 | [339472-gringo-hero.json](./339472-gringo-hero.json) |
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
+| Grip | 18452 | [18452-grip.json](./18452-grip.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip on Reality | 232527 | [232527-grip-on-reality.json](./232527-grip-on-reality.json) |
 | Grip on Reality: The Jaguar | 232529 | [232529-grip-on-reality-the-jaguar.json](./232529-grip-on-reality-the-jaguar.json) |
