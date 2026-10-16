@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
 | Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
+| Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acrophobia | 284274 | [284274-acrophobia.json](./284274-acrophobia.json) |
 | Acrophobia | 90914 | [90914-acrophobia.json](./90914-acrophobia.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
@@ -6470,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo | 373661 | [373661-angelo.json](./373661-angelo.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
+| Angelo and Deemon: One Hell of a Quest | 117084 | [117084-angelo-and-deemon-one-hell-of-a-quest.json](./117084-angelo-and-deemon-one-hell-of-a-quest.json) |
 | Angelo Skate Away | 82331 | [82331-angelo-skate-away.json](./82331-angelo-skate-away.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
