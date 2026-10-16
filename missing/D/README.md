@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
 | Dark Seed | 247395 | [247395-dark-seed.json](./247395-dark-seed.json) |
 | Dark Seed | 9260 | [9260-dark-seed.json](./9260-dark-seed.json) |
+| Dark Seed II | 9261 | [9261-dark-seed-ii.json](./9261-dark-seed-ii.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
@@ -4099,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
+| Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
@@ -8835,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 223631 | [223631-doom.json](./223631-doom.json) |
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
 | Doom | 259942 | [259942-doom.json](./259942-doom.json) |
+| Doom | 259943 | [259943-doom.json](./259943-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
@@ -10196,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest I.II | 89204 | [89204-dragon-quest-i-ii.json](./89204-dragon-quest-i-ii.json) |
+| Dragon Quest II: Akuryo no Kamigami | 239186 | [239186-dragon-quest-ii-akuryo-no-kamigami.json](./239186-dragon-quest-ii-akuryo-no-kamigami.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
