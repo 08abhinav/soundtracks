@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
+| Emlyn Hughes International Soccer | 13637 | [13637-emlyn-hughes-international-soccer.json](./13637-emlyn-hughes-international-soccer.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
+| Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
@@ -3006,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
+| Epanalepsis | 11425 | [11425-epanalepsis.json](./11425-epanalepsis.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epejsodion Dodgeball Speed | 367310 | [367310-epejsodion-dodgeball-speed.json](./367310-epejsodion-dodgeball-speed.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
