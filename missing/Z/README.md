@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
+| Zenden | 417938 | [417938-zenden.json](./417938-zenden.json) |
 | Zendoku | 21430 | [21430-zendoku.json](./21430-zendoku.json) |
 | Zenduko | 64220 | [64220-zenduko.json](./64220-zenduko.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Fun Run | 322849 | [322849-zombie-fun-run.json](./322849-zombie-fun-run.json) |
 | Zombie Game | 58761 | [58761-zombie-game.json](./58761-zombie-game.json) |
 | Zombie Girl | 270094 | [270094-zombie-girl.json](./270094-zombie-girl.json) |
+| Zombie Girl | 417984 | [417984-zombie-girl.json](./417984-zombie-girl.json) |
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
