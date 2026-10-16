@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
 | Ubermosh Vol.7 | 115377 | [115377-ubermosh-vol-7.json](./115377-ubermosh-vol-7.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
+| Ubermosh: Wraith | 29601 | [29601-ubermosh-wraith.json](./29601-ubermosh-wraith.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | UberSoldier | 92970 | [92970-ubersoldier.json](./92970-ubersoldier.json) |
 | Ubersoldier II | 17120 | [17120-ubersoldier-ii.json](./17120-ubersoldier-ii.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Caustic Snow, I Danced | 129503 | [129503-under-a-caustic-snow-i-danced.json](./129503-under-a-caustic-snow-i-danced.json) |
+| Under a Desert Sun | 29561 | [29561-under-a-desert-sun.json](./29561-under-a-desert-sun.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
