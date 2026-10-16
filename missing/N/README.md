@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum | 85608 | [85608-namco-museum.json](./85608-namco-museum.json) |
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum 50th Anniversary | 9889 | [9889-namco-museum-50th-anniversary.json](./9889-namco-museum-50th-anniversary.json) |
+| Namco Museum 64 | 47678 | [47678-namco-museum-64.json](./47678-namco-museum-64.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
 | Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 95 | 37285 | [37285-nba-live-95.json](./37285-nba-live-95.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
 | NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
+| NBA Live Mobile | 36874 | [36874-nba-live-mobile.json](./36874-nba-live-mobile.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
