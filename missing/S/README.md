@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
+| Save Daddy Trump | 119806 | [119806-save-daddy-trump.json](./119806-save-daddy-trump.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Dash | 54905 | [54905-save-dash.json](./54905-save-dash.json) |
@@ -12604,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
 | Sophie's Cubes | 143960 | [143960-sophies-cubes.json](./143960-sophies-cubes.json) |
+| Sophie's Dice | 119808 | [119808-sophies-dice.json](./119808-sophies-dice.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
@@ -15899,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Sequence: Chapter 2 - New Life | 166047 | [166047-sprite-sequence-chapter-2-new-life.json](./166047-sprite-sequence-chapter-2-new-life.json) |
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
+| SpritePile | 119789 | [119789-spritepile.json](./119789-spritepile.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
@@ -18960,6 +18963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
+| Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Casters Ultra | 57011 | [57011-storm-casters-ultra.json](./57011-storm-casters-ultra.json) |
