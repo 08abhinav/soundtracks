@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:51:23.341Z",
-  "total_soundtracks": 1811,
+  "generated_at": "2026-10-16T05:51:38.152Z",
+  "total_soundtracks": 1812,
   "games": [
     {
       "igdb_id": 7522,
@@ -6269,6 +6269,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4",
           "album_link_url": "https://album.link/i/1598151208"
+        }
+      ]
+    },
+    {
+      "igdb_id": 115851,
+      "game_name": "F.I.S.T.: Forged In Shadow Torch",
+      "game_url": "https://ostdb.net/games/f-i-s-t-forged-in-shadow-torch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273487b0df5c25baa35aae21592",
+      "albums": [
+        {
+          "album_name": "F.I.S.T.: Forged in Shadow Torch (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4MhKADAa670WfhrBZ4eXQ1",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
