@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KleptoCorns | 192105 | [192105-kleptocorns.json](./192105-kleptocorns.json) |
 | KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
+| Kleromancy | 422464 | [422464-kleromancy.json](./422464-kleromancy.json) |
 | Kletba Vlčího Moru | 254048 | [254048-kletba-vlciho-moru.json](./254048-kletba-vlciho-moru.json) |
 | Kletka | 312279 | [312279-kletka.json](./312279-kletka.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
