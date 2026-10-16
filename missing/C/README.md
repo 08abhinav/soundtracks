@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
+| Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
 | Calico | 122345 | [122345-calico.json](./122345-calico.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats Love Boxes | 199459 | [199459-cats-love-boxes.json](./199459-cats-love-boxes.json) |
+| Cats Love Cakes | 423277 | [423277-cats-love-cakes.json](./423277-cats-love-cakes.json) |
 | Cats Love Heat | 185490 | [185490-cats-love-heat.json](./185490-cats-love-heat.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats Make You Smarter! | 74227 | [74227-cats-make-you-smarter.json](./74227-cats-make-you-smarter.json) |
@@ -6765,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
 | ClasSimVR | 219738 | [219738-classimvr.json](./219738-classimvr.json) |
 | Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
+| Classroom 3B | 423252 | [423252-classroom-3b.json](./423252-classroom-3b.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
