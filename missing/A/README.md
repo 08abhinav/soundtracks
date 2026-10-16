@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Roswell | 124176 | [124176-agent-roswell.json](./124176-agent-roswell.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent Simulator | 172140 | [172140-agent-simulator.json](./172140-agent-simulator.json) |
+| Agent Skunk: Stink Ops | 419356 | [419356-agent-skunk-stink-ops.json](./419356-agent-skunk-stink-ops.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
@@ -9923,6 +9924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis' Minesweeper | 177378 | [177378-artemis-minesweeper.json](./177378-artemis-minesweeper.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
+| Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
@@ -9974,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
+| Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
 | Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
@@ -11100,6 +11103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | AstroViking | 106653 | [106653-astroviking.json](./106653-astroviking.json) |
 | Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
+| AstroVoids | 419327 | [419327-astrovoids.json](./419327-astrovoids.json) |
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
 | AstroWings: Space War | 147656 | [147656-astrowings-space-war.json](./147656-astrowings-space-war.json) |
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
