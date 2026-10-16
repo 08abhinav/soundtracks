@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:32:28.477Z",
-  "total_soundtracks": 1900,
+  "generated_at": "2026-10-16T06:32:42.779Z",
+  "total_soundtracks": 1901,
   "games": [
     {
       "igdb_id": 7522,
@@ -19353,6 +19353,20 @@
           "spotify_url": "https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1868934594"
+        }
+      ]
+    },
+    {
+      "igdb_id": 28213,
+      "game_name": "The Jackbox Party Pack 4",
+      "game_url": "https://ostdb.net/games/the-jackbox-party-pack-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27367cf5fd8b38da1109caa34bd",
+      "albums": [
+        {
+          "album_name": "The Jackbox Party Pack 4 Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7xnP8EvhTD2IR4shvrgYSR",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
