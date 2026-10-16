@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Brawl | 132591 | [132591-jelly-brawl.json](./132591-jelly-brawl.json) |
 | Jelly Brawl: Classic | 173191 | [173191-jelly-brawl-classic.json](./173191-jelly-brawl-classic.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
+| Jelly Collapse | 421799 | [421799-jelly-collapse.json](./421799-jelly-collapse.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
 | Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
+| Joltstone | 421823 | [421823-joltstone.json](./421823-joltstone.json) |
 | Joltt: Battle Pillars | 351784 | [351784-joltt-battle-pillars.json](./351784-joltt-battle-pillars.json) |
 | Jomey | 287576 | [287576-jomey.json](./287576-jomey.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
