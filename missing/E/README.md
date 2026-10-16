@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easyland 2 | 328065 | [328065-easyland-2.json](./328065-easyland-2.json) |
 | Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
 | EasyPianoGame | 130802 | [130802-easypianogame.json](./130802-easypianogame.json) |
+| Eat All the Things | 54724 | [54724-eat-all-the-things.json](./54724-eat-all-the-things.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
+| Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
