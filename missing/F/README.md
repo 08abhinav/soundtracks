@@ -6853,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
+| Forged Cards | 422467 | [422467-forged-cards.json](./422467-forged-cards.json) |
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
@@ -7643,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
 | Foxhole | 27091 | [27091-foxhole.json](./27091-foxhole.json) |
+| Foxhollow | 422527 | [422527-foxhollow.json](./422527-foxhollow.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
 | Foxnox | 247969 | [247969-foxnox.json](./247969-foxnox.json) |
@@ -8066,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
+| Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
 | Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
 | Free War | 188326 | [188326-free-war.json](./188326-free-war.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
