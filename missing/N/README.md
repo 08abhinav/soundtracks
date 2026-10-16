@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
+| Naruto: Uzumaki Chronicles | 20602 | [20602-naruto-uzumaki-chronicles.json](./20602-naruto-uzumaki-chronicles.json) |
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Love Project Vol. 4 | 384258 | [384258-nekopara-love-project-vol-4.json](./384258-nekopara-love-project-vol-4.json) |
 | Nekopara Vol. 0 | 26654 | [26654-nekopara-vol-0.json](./26654-nekopara-vol-0.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
+| Nekopara Vol. 2 | 34053 | [34053-nekopara-vol-2.json](./34053-nekopara-vol-2.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekopara Vol. 4 | 35254 | [35254-nekopara-vol-4.json](./35254-nekopara-vol-4.json) |
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
@@ -1560,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Breakout | 225594 | [225594-neo-breakout.json](./225594-neo-breakout.json) |
+| Neo Cab | 103319 | [103319-neo-cab.json](./103319-neo-cab.json) |
 | Neo Capitalist: Stock Market Survival Simulator | 407478 | [407478-neo-capitalist-stock-market-survival-simulator.json](./407478-neo-capitalist-stock-market-survival-simulator.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
