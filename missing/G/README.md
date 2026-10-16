@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glix | 264547 | [264547-glix.json](./264547-glix.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
+| Gloam | 144133 | [144133-gloam.json](./144133-gloam.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Gloaming Comedian Simulator: Scapegoath Science | 285120 | [285120-gloaming-comedian-simulator-scapegoath-science.json](./285120-gloaming-comedian-simulator-scapegoath-science.json) |
 | Gloamroot | 399850 | [399850-gloamroot.json](./399850-gloamroot.json) |
