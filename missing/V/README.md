@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
 | Versus: The Deathscapes | 157414 | [157414-versus-the-deathscapes.json](./157414-versus-the-deathscapes.json) |
+| Versus: The Elite Trials | 30025 | [30025-versus-the-elite-trials.json](./30025-versus-the-elite-trials.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
