@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredicer | 373346 | [373346-incredicer.json](./373346-incredicer.json) |
 | Incredifall | 309542 | [309542-incredifall.json](./309542-incredifall.json) |
 | IncrediMarble | 130637 | [130637-incredimarble.json](./130637-incredimarble.json) |
+| Incredipede | 16467 | [16467-incredipede.json](./16467-incredipede.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
