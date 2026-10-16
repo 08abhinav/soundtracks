@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
+| Diabotical | 22384 | [22384-diabotical.json](./22384-diabotical.json) |
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
@@ -8172,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolos: Your Best Future | 251744 | [251744-dolos-your-best-future.json](./251744-dolos-your-best-future.json) |
+| Dolphin | 22733 | [22733-dolphin.json](./22733-dolphin.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
