@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
+| GoldenEye: Rogue Agent | 1632 | [1632-goldeneye-rogue-agent.json](./1632-goldeneye-rogue-agent.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
@@ -5450,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto 2 | 200401 | [200401-grand-theft-auto-2.json](./200401-grand-theft-auto-2.json) |
 | Grand Theft Auto 2 | 200403 | [200403-grand-theft-auto-2.json](./200403-grand-theft-auto-2.json) |
 | Grand Theft Auto 64 | 198246 | [198246-grand-theft-auto-64.json](./198246-grand-theft-auto-64.json) |
+| Grand Theft Auto Advance | 3266 | [3266-grand-theft-auto-advance.json](./3266-grand-theft-auto-advance.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto III: The Definitive Edition | 178123 | [178123-grand-theft-auto-iii-the-definitive-edition.json](./178123-grand-theft-auto-iii-the-definitive-edition.json) |
 | Grand Theft Auto IV: Complete Edition | 27912 | [27912-grand-theft-auto-iv-complete-edition.json](./27912-grand-theft-auto-iv-complete-edition.json) |
