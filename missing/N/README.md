@@ -2740,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
+| Nibiru: Age of Secrets | 24263 | [24263-nibiru-age-of-secrets.json](./24263-nibiru-age-of-secrets.json) |
 | Nibiruman: 2080 | 185503 | [185503-nibiruman-2080.json](./185503-nibiruman-2080.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
