@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0h N0 | 229251 | [229251-0h-n0.json](./229251-0h-n0.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
+| 0rbitalis | 9583 | [9583-0rbitalis.json](./9583-0rbitalis.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1945 Air Strike | 76464 | [76464-1945-air-strike.json](./76464-1945-air-strike.json) |
 | 1945 Air Strike Classic | 88622 | [88622-1945-air-strike-classic.json](./88622-1945-air-strike-classic.json) |
 | 1945 I & II: The Arcade Games | 61500 | [61500-1945-i-and-ii-the-arcade-games.json](./61500-1945-i-and-ii-the-arcade-games.json) |
+| 1945k III | 6733 | [6733-1945k-iii.json](./6733-1945k-iii.json) |
 | 1948 Dawn of Future | 256213 | [256213-1948-dawn-of-future.json](./256213-1948-dawn-of-future.json) |
 | 195 Hours in the Cold | 216296 | [216296-195-hours-in-the-cold.json](./216296-195-hours-in-the-cold.json) |
 | 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
