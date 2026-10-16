@@ -6202,7 +6202,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
+| Black Desert Online: Explorer's Package | 91183 | [91183-black-desert-online-explorers-package.json](./91183-black-desert-online-explorers-package.json) |
 | Black Desert Online: Prestige Edition | 139914 | [139914-black-desert-online-prestige-edition.json](./139914-black-desert-online-prestige-edition.json) |
+| Black Desert Online: Traveler's Package | 91182 | [91182-black-desert-online-travelers-package.json](./91182-black-desert-online-travelers-package.json) |
 | Black Desert: Conqueror Edition | 164570 | [164570-black-desert-conqueror-edition.json](./164570-black-desert-conqueror-edition.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 213352 | [213352-black-diamond.json](./213352-black-diamond.json) |
