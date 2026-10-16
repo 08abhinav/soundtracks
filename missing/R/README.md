@@ -6089,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
+| Robo Inc Project | 121090 | [121090-robo-inc-project.json](./121090-robo-inc-project.json) |
 | Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
 | Robo Legend | 202555 | [202555-robo-legend.json](./202555-robo-legend.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
@@ -8224,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
 | Rude Breaker | 190046 | [190046-rude-breaker.json](./190046-rude-breaker.json) |
 | Rude Chess | 290351 | [290351-rude-chess.json](./290351-rude-chess.json) |
+| Rude Racers | 120839 | [120839-rude-racers.json](./120839-rude-racers.json) |
 | Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
