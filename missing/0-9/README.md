@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 42 Ways to Die in Space | 199346 | [199346-42-ways-to-die-in-space.json](./199346-42-ways-to-die-in-space.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
+| 428: Shibuya Scramble | 95069 | [95069-428-shibuya-scramble.json](./95069-428-shibuya-scramble.json) |
 | 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
 | 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
 | 44 Minutes in Nightmare | 144720 | [144720-44-minutes-in-nightmare.json](./144720-44-minutes-in-nightmare.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4RC4N01D! 2: Retro Edition | 334263 | [334263-4rc4n01d-2-retro-edition.json](./334263-4rc4n01d-2-retro-edition.json) |
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
+| 4Story Online | 27734 | [27734-4story-online.json](./27734-4story-online.json) |
 | 4Story: Summoner Armor Package | 377384 | [377384-4story-summoner-armor-package.json](./377384-4story-summoner-armor-package.json) |
 | 4Story: The Original | 349289 | [349289-4story-the-original.json](./349289-4story-the-original.json) |
 | 4Story: Warrior Armor Package | 377385 | [377385-4story-warrior-armor-package.json](./377385-4story-warrior-armor-package.json) |
