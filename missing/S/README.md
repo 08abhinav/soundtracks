@@ -8806,7 +8806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
-| Skylanders: Giants | 1586 | [1586-skylanders-giants.json](./1586-skylanders-giants.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
