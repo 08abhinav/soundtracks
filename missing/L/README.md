@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
+| Lexulous Word Game | 88525 | [88525-lexulous-word-game.json](./88525-lexulous-word-game.json) |
 | Lexy Lightspeed: Secret Agent Showdown | 137937 | [137937-lexy-lightspeed-secret-agent-showdown.json](./137937-lexy-lightspeed-secret-agent-showdown.json) |
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
+| Light Fantastik | 87765 | [87765-light-fantastik.json](./87765-light-fantastik.json) |
 | Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
 | Light Fantasy II | 37943 | [37943-light-fantasy-ii.json](./37943-light-fantasy-ii.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
@@ -4906,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
+| LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
