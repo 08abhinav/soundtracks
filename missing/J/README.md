@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
+| Jumps | 30790 | [30790-jumps.json](./30790-jumps.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare Simulator | 337568 | [337568-jumpscare-simulator.json](./337568-jumpscare-simulator.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
