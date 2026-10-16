@@ -995,6 +995,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal](https://ostdb.net/games/postal) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal 2](https://ostdb.net/games/postal-2) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d58a119899cc09fdb88e26cc" width="60" /> | [Postal: Redux](https://ostdb.net/games/postal-redux) | **Postal Redux (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7nnAFcactY1tDgNX7wnrAy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a9c19ad90a59ee522ddbd79" width="60" /> | [Potion Craft](https://ostdb.net/games/potion-craft) | **Potion Craft (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5jQzneucwEsCtGm6RXbwDB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f03076d720fe6a7dd78ed87" width="60" /> | [Pragmata](https://ostdb.net/games/pragmata) | **PRAGMATA - The Bounded Soundtrack** · [Spotify](https://open.spotify.com/album/2YvAJG1RdeIPgWOhbwvrmg) · [Apple Music](https://music.apple.com/us/album/pragmata-the-bounded-soundtrack-ep/1860840113) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
@@ -1564,4 +1565,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1881 soundtracks · last updated 2026-10-16T06:23:03.516Z_
+_1882 soundtracks · last updated 2026-10-16T06:23:18.604Z_
