@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
+| Harry Potter and the Chamber of Secrets | 166322 | [166322-harry-potter-and-the-chamber-of-secrets.json](./166322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166325 | [166325-harry-potter-and-the-chamber-of-secrets.json](./166325-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
 | Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
+| Harry Potter and the Goblet of Fire | 166333 | [166333-harry-potter-and-the-goblet-of-fire.json](./166333-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 248544 | [248544-harry-potter-and-the-goblet-of-fire.json](./248544-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 3942 | [3942-harry-potter-and-the-goblet-of-fire.json](./3942-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
@@ -8596,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercube: Source | 273293 | [273293-hypercube-source.json](./273293-hypercube-source.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
+| Hyperdimension Neptunia Mk2 | 7320 | [7320-hyperdimension-neptunia-mk2.json](./7320-hyperdimension-neptunia-mk2.json) |
 | Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
 | Hyperdimension Neptunia Re;Birth1 - DLC pack | 154605 | [154605-hyperdimension-neptunia-re-birth1-dlc-pack.json](./154605-hyperdimension-neptunia-re-birth1-dlc-pack.json) |
