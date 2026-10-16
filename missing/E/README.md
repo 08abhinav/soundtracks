@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily Archer: The Curse of King Tut's Tomb | 209211 | [209211-emily-archer-the-curse-of-king-tuts-tomb.json](./209211-emily-archer-the-curse-of-king-tuts-tomb.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily is Away | 14762 | [14762-emily-is-away.json](./14762-emily-is-away.json) |
+| Emily is Away <3 | 116053 | [116053-emily-is-away-3.json](./116053-emily-is-away-3.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
 | Emily Wants to Play Too | 75074 | [75074-emily-wants-to-play-too.json](./75074-emily-wants-to-play-too.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
+| Entropia Universe | 3086 | [3086-entropia-universe.json](./3086-entropia-universe.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
+| Etterna | 74732 | [74732-etterna.json](./74732-etterna.json) |
 | Ettrian: The Elf Prince | 240806 | [240806-ettrian-the-elf-prince.json](./240806-ettrian-the-elf-prince.json) |
 | Euchre | 131392 | [131392-euchre.json](./131392-euchre.json) |
 | Euchre | 370344 | [370344-euchre.json](./370344-euchre.json) |
