@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:25:57.908Z",
-  "total_soundtracks": 1744,
+  "generated_at": "2026-10-16T05:31:00.724Z",
+  "total_soundtracks": 1745,
   "games": [
     {
       "igdb_id": 7522,
@@ -77,6 +77,20 @@
         {
           "album_name": "1954: Alcatraz (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0VAY4OMHRKRYxWOXDBi6ID",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14360,
+      "game_name": "1979 Revolution: Black Friday",
+      "game_url": "https://ostdb.net/games/1979-revolution-black-friday",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d315449120e43fad59519ed",
+      "albums": [
+        {
+          "album_name": "1979 Revolution: Black Friday (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0BOZkpHdIigF2gkWvGGJ5Q",
           "apple_music_url": "",
           "album_link_url": ""
         }
