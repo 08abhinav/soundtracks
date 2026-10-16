@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Math | 398668 | [398668-incremental-math.json](./398668-incremental-math.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| IncrementalOS | 421841 | [421841-incrementalos.json](./421841-incrementalos.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
