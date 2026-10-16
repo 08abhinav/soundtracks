@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
+| Oktoraid | 419866 | [419866-oktoraid.json](./419866-oktoraid.json) |
 | Oku | 345536 | [345536-oku.json](./345536-oku.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Oku dake Nou-tre Yubi Ippon | 251527 | [251527-oku-dake-nou-tre-yubi-ippon.json](./251527-oku-dake-nou-tre-yubi-ippon.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit | 85597 | [85597-orbit.json](./85597-orbit.json) |
 | Orbit 2D | 415446 | [415446-orbit-2d.json](./415446-orbit-2d.json) |
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
+| Orbit Blade | 420004 | [420004-orbit-blade.json](./420004-orbit-blade.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
