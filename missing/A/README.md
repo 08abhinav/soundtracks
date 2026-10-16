@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alia's Carnival! Flowering Sky | 71581 | [71581-alias-carnival-flowering-sky.json](./71581-alias-carnival-flowering-sky.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alia's Carnival! Sacrament Plus | 113194 | [113194-alias-carnival-sacrament-plus.json](./113194-alias-carnival-sacrament-plus.json) |
+| Alia's Carnival! W-Package | 20965 | [20965-alias-carnival-w-package.json](./20965-alias-carnival-w-package.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
@@ -5415,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvin and the Chipmunks: The Squeakquel | 4671 | [4671-alvin-and-the-chipmunks-the-squeakquel.json](./4671-alvin-and-the-chipmunks-the-squeakquel.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
+| Alvora Tactics | 28771 | [28771-alvora-tactics.json](./28771-alvora-tactics.json) |
 | Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
 | Alwa's Awakening: The 8-Bit Edition | 207274 | [207274-alwas-awakening-the-8-bit-edition.json](./207274-alwas-awakening-the-8-bit-edition.json) |
@@ -9434,6 +9436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
+| Arkshot | 20982 | [20982-arkshot.json](./20982-arkshot.json) |
 | Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
