@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
+| Left Alive | 68287 | [68287-left-alive.json](./68287-left-alive.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
 | LittleBigPlanet 3: The Journey Home | 11252 | [11252-littlebigplanet-3-the-journey-home.json](./11252-littlebigplanet-3-the-journey-home.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
+| LittleBigPlanet PS Vita | 95002 | [95002-littlebigplanet-ps-vita.json](./95002-littlebigplanet-ps-vita.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
 | LittleBigPlanet: Marvel Super Hero Edition | 147222 | [147222-littlebigplanet-marvel-super-hero-edition.json](./147222-littlebigplanet-marvel-super-hero-edition.json) |
