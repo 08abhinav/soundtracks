@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
+| Saints Row IV: Enter the Dominatrix | 22142 | [22142-saints-row-iv-enter-the-dominatrix.json](./22142-saints-row-iv-enter-the-dominatrix.json) |
 | Saints Row IV: Game of the Century Edition | 51869 | [51869-saints-row-iv-game-of-the-century-edition.json](./51869-saints-row-iv-game-of-the-century-edition.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 2 Empires | 7174 | [7174-samurai-warriors-2-empires.json](./7174-samurai-warriors-2-empires.json) |
+| Samurai Warriors 2 Xtreme Legends | 7175 | [7175-samurai-warriors-2-xtreme-legends.json](./7175-samurai-warriors-2-xtreme-legends.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
 | Samurai Warriors 3: Xtreme Legends | 12286 | [12286-samurai-warriors-3-xtreme-legends.json](./12286-samurai-warriors-3-xtreme-legends.json) |
@@ -2009,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
+| Scene It? Lights, Camera, Action | 7182 | [7182-scene-it-lights-camera-action.json](./7182-scene-it-lights-camera-action.json) |
 | Scene It? Movie Mania | 287549 | [287549-scene-it-movie-mania.json](./287549-scene-it-movie-mania.json) |
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
@@ -3197,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Scout in the Temple of Demise | 48200 | [48200-secret-scout-in-the-temple-of-demise.json](./48200-secret-scout-in-the-temple-of-demise.json) |
 | Secret Sealing Travel | 371595 | [371595-secret-sealing-travel.json](./371595-secret-sealing-travel.json) |
+| Secret Service | 7183 | [7183-secret-service.json](./7183-secret-service.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
@@ -4430,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach 2 | 22421 | [22421-sexy-beach-2.json](./22421-sexy-beach-2.json) |
 | Sexy Beach 3 | 22422 | [22422-sexy-beach-3.json](./22422-sexy-beach-3.json) |
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
+| Sexy Beach Premium Resort | 22485 | [22485-sexy-beach-premium-resort.json](./22485-sexy-beach-premium-resort.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Beats | 301656 | [301656-sexy-beats.json](./301656-sexy-beats.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
@@ -10421,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite III: Save Churchill Part 3 - Confrontation | 10875 | [10875-sniper-elite-iii-save-churchill-part-3-confrontation.json](./10875-sniper-elite-iii-save-churchill-part-3-confrontation.json) |
 | Sniper Elite III: Target Hitler - Hunt the Grey Wolf | 10876 | [10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json](./10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json) |
 | Sniper Elite III: U.S. Camouflage Rifles Pack | 161727 | [161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json](./161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json) |
+| Sniper Elite III: Ultimate Edition | 21663 | [21663-sniper-elite-iii-ultimate-edition.json](./21663-sniper-elite-iii-ultimate-edition.json) |
 | Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
@@ -15846,6 +15852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
+| Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
@@ -17018,6 +17025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
+| Star Wars: Lethal Alliance | 23116 | [23116-star-wars-lethal-alliance.json](./23116-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Millennium Falcon CD-ROM Playset | 56979 | [56979-star-wars-millennium-falcon-cd-rom-playset.json](./56979-star-wars-millennium-falcon-cd-rom-playset.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
@@ -17075,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
 | Star Wars: The Old Republic - Onslaught | 202715 | [202715-star-wars-the-old-republic-onslaught.json](./202715-star-wars-the-old-republic-onslaught.json) |
+| Star Wars: The Old Republic - Rise of the Hutt Cartel | 22655 | [22655-star-wars-the-old-republic-rise-of-the-hutt-cartel.json](./22655-star-wars-the-old-republic-rise-of-the-hutt-cartel.json) |
 | Star Wars: The Old Republic - Shadow of Revan | 22658 | [22658-star-wars-the-old-republic-shadow-of-revan.json](./22658-star-wars-the-old-republic-shadow-of-revan.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
@@ -18153,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
 | Steins;Gate: Linear Bounded Phenogram | 65504 | [65504-steins-gate-linear-bounded-phenogram.json](./65504-steins-gate-linear-bounded-phenogram.json) |
+| Steins;Gate: My Darling's Embrace | 22357 | [22357-steins-gate-my-darlings-embrace.json](./22357-steins-gate-my-darlings-embrace.json) |
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
 | Steinstern: Spacewar | 173049 | [173049-steinstern-spacewar.json](./173049-steinstern-spacewar.json) |
 | Stel | 236166 | [236166-stel.json](./236166-stel.json) |
@@ -20627,6 +20637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games Challenge: Swimming | 362346 | [362346-summer-games-challenge-swimming.json](./362346-summer-games-challenge-swimming.json) |
 | Summer Games Challenge: Throwing & Lifting | 362347 | [362347-summer-games-challenge-throwing-and-lifting.json](./362347-summer-games-challenge-throwing-and-lifting.json) |
 | Summer Games Heroes | 127761 | [127761-summer-games-heroes.json](./127761-summer-games-heroes.json) |
+| Summer Games II | 22524 | [22524-summer-games-ii.json](./22524-summer-games-ii.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
@@ -21308,6 +21319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
 | Super Darts | 223903 | [223903-super-darts.json](./223903-super-darts.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
+| Super Daryl Deluxe | 21994 | [21994-super-daryl-deluxe.json](./21994-super-daryl-deluxe.json) |
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
@@ -23081,6 +23093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
+| Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
 | Super Zombie Arcade | 110094 | [110094-super-zombie-arcade.json](./110094-super-zombie-arcade.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
