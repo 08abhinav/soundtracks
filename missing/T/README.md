@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak: Mojo Mistake | 2782 | [2782-tak-mojo-mistake.json](./2782-tak-mojo-mistake.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
+| Tak: The Great Juju Challenge | 2780 | [2780-tak-the-great-juju-challenge.json](./2780-tak-the-great-juju-challenge.json) |
 | Taka Taka | 244162 | [244162-taka-taka.json](./244162-taka-taka.json) |
 | Takahashi Akiko no Mahjong Seminar | 54944 | [54944-takahashi-akiko-no-mahjong-seminar.json](./54944-takahashi-akiko-no-mahjong-seminar.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
@@ -3818,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
+| The Abandoned Planet | 204113 | [204113-the-abandoned-planet.json](./204113-the-abandoned-planet.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
@@ -9936,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Queen | 30623 | [30623-the-new-queen.json](./30623-the-new-queen.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
+| The New Tetris | 3339 | [3339-the-new-tetris.json](./3339-the-new-tetris.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The New York Times Simulator | 294777 | [294777-the-new-york-times-simulator.json](./294777-the-new-york-times-simulator.json) |
 | The Newton Mystery | 208332 | [208332-the-newton-mystery.json](./208332-the-newton-mystery.json) |
@@ -11474,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
+| The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
