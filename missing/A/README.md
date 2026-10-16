@@ -8347,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
 | Arcade Archives 2: Air Combat 22 | 352492 | [352492-arcade-archives-2-air-combat-22.json](./352492-arcade-archives-2-air-combat-22.json) |
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
+| Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
@@ -8371,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
+| Arcade Archives 2: Wiz | 417316 | [417316-arcade-archives-2-wiz.json](./417316-arcade-archives-2-wiz.json) |
 | Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
@@ -9309,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria and the Crystal Kingdom | 207605 | [207605-aria-and-the-crystal-kingdom.json](./207605-aria-and-the-crystal-kingdom.json) |
 | Aria and the Mysterious Mushroom | 249342 | [249342-aria-and-the-mysterious-mushroom.json](./249342-aria-and-the-mysterious-mushroom.json) |
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
+| Aria Blue I: Natsuoto | 417312 | [417312-aria-blue-i-natsuoto.json](./417312-aria-blue-i-natsuoto.json) |
 | Aria Chronicle | 135749 | [135749-aria-chronicle.json](./135749-aria-chronicle.json) |
 | Aria Chronicle: Necroknight Amazon Bundle | 199888 | [199888-aria-chronicle-necroknight-amazon-bundle.json](./199888-aria-chronicle-necroknight-amazon-bundle.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
@@ -9974,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts and Antiquity | 223385 | [223385-artifacts-and-antiquity.json](./223385-artifacts-and-antiquity.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
+| Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
