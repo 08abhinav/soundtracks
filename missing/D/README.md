@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
 | Dark Seed | 247395 | [247395-dark-seed.json](./247395-dark-seed.json) |
+| Dark Seed | 9260 | [9260-dark-seed.json](./9260-dark-seed.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
@@ -2422,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
+| Dead Island Retro Revenge | 19397 | [19397-dead-island-retro-revenge.json](./19397-dead-island-retro-revenge.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Epidemic | 2902 | [2902-dead-island-epidemic.json](./2902-dead-island-epidemic.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
@@ -2460,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
+| Dead Nation: Apocalypse Edition | 20063 | [20063-dead-nation-apocalypse-edition.json](./20063-dead-nation-apocalypse-edition.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
 | Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead Ninja Mortal Shadow | 280729 | [280729-dead-ninja-mortal-shadow.json](./280729-dead-ninja-mortal-shadow.json) |
@@ -7001,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
+| Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
