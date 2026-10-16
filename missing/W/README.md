@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW nWo Thunder | 198962 | [198962-wcw-nwo-thunder.json](./198962-wcw-nwo-thunder.json) |
 | WCW Sting | 217952 | [217952-wcw-sting.json](./217952-wcw-sting.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
+| WCW vs. the World | 18316 | [18316-wcw-vs-the-world.json](./18316-wcw-vs-the-world.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
+| Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
 | Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
 | Wu-Tang: Rise of the Deceiver | 347666 | [347666-wu-tang-rise-of-the-deceiver.json](./347666-wu-tang-rise-of-the-deceiver.json) |
+| Wu-Tang: Shaolin Style | 18300 | [18300-wu-tang-shaolin-style.json](./18300-wu-tang-shaolin-style.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubble Bubbles | 94975 | [94975-wubble-bubbles.json](./94975-wubble-bubbles.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
