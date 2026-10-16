@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
+| Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 335229 | [335229-unchained.json](./335229-unchained.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
+| Uncharted 2: Among Thieves - Limited Edition Collector's Box | 41882 | [41882-uncharted-2-among-thieves-limited-edition-collectors-box.json](./41882-uncharted-2-among-thieves-limited-edition-collectors-box.json) |
 | Uncharted 2: Among Thieves Remastered | 41877 | [41877-uncharted-2-among-thieves-remastered.json](./41877-uncharted-2-among-thieves-remastered.json) |
 | Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
 | Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
