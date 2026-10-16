@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Beasts | 58709 | [58709-fabulous-beasts.json](./58709-fabulous-beasts.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
+| Fabulous Food Truck | 32222 | [32222-fabulous-food-truck.json](./32222-fabulous-food-truck.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
@@ -4962,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-Finger Gunslinger | 155682 | [155682-five-finger-gunslinger.json](./155682-five-finger-gunslinger.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
 | Five-Star: Chef Ops | 279901 | [279901-five-star-chef-ops.json](./279901-five-star-chef-ops.json) |
+| Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
