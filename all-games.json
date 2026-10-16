@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:22:10.161Z",
-  "total_soundtracks": 1877,
+  "generated_at": "2026-10-16T06:22:23.467Z",
+  "total_soundtracks": 1878,
   "games": [
     {
       "igdb_id": 7522,
@@ -9748,6 +9748,20 @@
           "album_name": "ICO～霧の中の旋律～",
           "spotify_url": "https://open.spotify.com/album/0aF1ChvyWiOIDwWhg4Qljh",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152288,
+      "game_name": "Immortality",
+      "game_url": "https://ostdb.net/games/immortality",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730be700d9d6e4d49473b208a1",
+      "albums": [
+        {
+          "album_name": "Immortality (Original Soundtrack to the Interactive Trilogy)",
+          "spotify_url": "https://open.spotify.com/album/4VQs5Jvz14oDjSd24hrXVJ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
