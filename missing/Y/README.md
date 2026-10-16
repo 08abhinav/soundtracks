@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo, Matias 6: Contra los Ciber Robots | 343957 | [343957-yo-matias-6-contra-los-ciber-robots.json](./343957-yo-matias-6-contra-los-ciber-robots.json) |
 | Yo, Matias: Sueños Peligrosos | 343311 | [343311-yo-matias-suenos-peligrosos.json](./343311-yo-matias-suenos-peligrosos.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
+| Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
