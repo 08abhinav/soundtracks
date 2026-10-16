@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
+| Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Queen | 74716 | [74716-dash-queen.json](./74716-dash-queen.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
+| Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
@@ -10321,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
+| Dragon View | 42635 | [42635-dragon-view.json](./42635-dragon-view.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon Village Collection | 266259 | [266259-dragon-village-collection.json](./266259-dragon-village-collection.json) |
 | Dragon Village X | 193844 | [193844-dragon-village-x.json](./193844-dragon-village-x.json) |
@@ -11886,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
+| Duck Season | 56873 | [56873-duck-season.json](./56873-duck-season.json) |
 | Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
@@ -12049,6 +12053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D | 262575 | [262575-duke-nukem-3d.json](./262575-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
 | Duke Nukem 3D: 20th Anniversary World Tour | 23596 | [23596-duke-nukem-3d-20th-anniversary-world-tour.json](./23596-duke-nukem-3d-20th-anniversary-world-tour.json) |
+| Duke Nukem 3D: Atomic Edition | 50347 | [50347-duke-nukem-3d-atomic-edition.json](./50347-duke-nukem-3d-atomic-edition.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem 3D: Megaton Edition | 20868 | [20868-duke-nukem-3d-megaton-edition.json](./20868-duke-nukem-3d-megaton-edition.json) |
