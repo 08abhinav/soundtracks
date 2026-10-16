@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Protocol | 137906 | [137906-quantum-protocol.json](./137906-quantum-protocol.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
+| Quantum Redshift | 5996 | [5996-quantum-redshift.json](./5996-quantum-redshift.json) |
 | Quantum Replica | 32642 | [32642-quantum-replica.json](./32642-quantum-replica.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
 | Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
