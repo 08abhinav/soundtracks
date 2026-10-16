@@ -6226,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Lake | 63763 | [63763-black-lake.json](./63763-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
+| Black Legend | 138900 | [138900-black-legend.json](./138900-black-legend.json) |
 | Black Licorice | 307677 | [307677-black-licorice.json](./307677-black-licorice.json) |
 | Black Light Kills | 332444 | [332444-black-light-kills.json](./332444-black-light-kills.json) |
 | Black Light Wave | 329084 | [329084-black-light-wave.json](./329084-black-light-wave.json) |
@@ -7674,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne: Game of the Year Edition | 42931 | [42931-bloodborne-game-of-the-year-edition.json](./42931-bloodborne-game-of-the-year-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
+| Bloodborne: The Old Hunters Edition | 136691 | [136691-bloodborne-the-old-hunters-edition.json](./136691-bloodborne-the-old-hunters-edition.json) |
 | BloodBound Knights | 344873 | [344873-bloodbound-knights.json](./344873-bloodbound-knights.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
@@ -8011,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
+| Blue Lightning | 74903 | [74903-blue-lightning.json](./74903-blue-lightning.json) |
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
