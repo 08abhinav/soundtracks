@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Story: The Desolate | 265068 | [265068-cave-story-the-desolate.json](./265068-cave-story-the-desolate.json) |
+| Cave Story's Secret Santa | 185317 | [185317-cave-storys-secret-santa.json](./185317-cave-storys-secret-santa.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
+| Chill Corner | 173072 | [173072-chill-corner.json](./173072-chill-corner.json) |
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
 | Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
@@ -12911,6 +12913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
+| Ctrl Alt Ego | 178378 | [178378-ctrl-alt-ego.json](./178378-ctrl-alt-ego.json) |
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | CTRL Phreak | 169758 | [169758-ctrl-phreak.json](./169758-ctrl-phreak.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
