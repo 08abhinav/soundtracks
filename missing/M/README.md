@@ -6169,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of Conviction | 316357 | [316357-men-of-conviction.json](./316357-men-of-conviction.json) |
 | Men of Valor | 5913 | [5913-men-of-valor.json](./5913-men-of-valor.json) |
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
+| Men of War II | 182378 | [182378-men-of-war-ii.json](./182378-men-of-war-ii.json) |
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad | 1144 | [1144-men-of-war-assault-squad.json](./1144-men-of-war-assault-squad.json) |
@@ -7546,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
+| Microsoft Wordament | 7085 | [7085-microsoft-wordament.json](./7085-microsoft-wordament.json) |
 | Microsoft World of Flight | 209514 | [209514-microsoft-world-of-flight.json](./209514-microsoft-world-of-flight.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
@@ -11236,6 +11238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley II: Panoramic Edition | 203388 | [203388-monument-valley-ii-panoramic-edition.json](./203388-monument-valley-ii-panoramic-edition.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
+| Monument Valley: Forgotten Shores | 175965 | [175965-monument-valley-forgotten-shores.json](./175965-monument-valley-forgotten-shores.json) |
+| Monument Valley: Ida's Dream | 186128 | [186128-monument-valley-idas-dream.json](./186128-monument-valley-idas-dream.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
 | Monument Village | 265320 | [265320-monument-village.json](./265320-monument-village.json) |
@@ -12180,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
 | MotoGP '07 | 186046 | [186046-motogp-07.json](./186046-motogp-07.json) |
+| MotoGP '07 | 7079 | [7079-motogp-07.json](./7079-motogp-07.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
 | MotoGP '17 | 28133 | [28133-motogp-17.json](./28133-motogp-17.json) |
 | MotoGP 10/11 | 20439 | [20439-motogp-10-11.json](./20439-motogp-10-11.json) |
@@ -13893,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup: Sim Racing | 375594 | [375594-my-dream-setup-sim-racing.json](./375594-my-dream-setup-sim-racing.json) |
 | My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
+| My Dystopian Robot Girlfriend | 207769 | [207769-my-dystopian-robot-girlfriend.json](./207769-my-dystopian-robot-girlfriend.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
