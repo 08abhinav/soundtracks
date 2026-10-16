@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
+| Patluk | 417979 | [417979-patluk.json](./417979-patluk.json) |
 | Pato & Lobo | 325690 | [325690-pato-and-lobo.json](./325690-pato-and-lobo.json) |
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
 | Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
+| Pirate Troops | 417939 | [417939-pirate-troops.json](./417939-pirate-troops.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
@@ -6086,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
+| Pixelfest | 417975 | [417975-pixelfest.json](./417975-pixelfest.json) |
 | PixelForces.io | 130211 | [130211-pixelforces-io.json](./130211-pixelforces-io.json) |
 | Pixelgroove | 292441 | [292441-pixelgroove.json](./292441-pixelgroove.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
@@ -12245,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
+| Puppetsite | 417940 | [417940-puppetsite.json](./417940-puppetsite.json) |
 | PuppetsVR | 56872 | [56872-puppetsvr.json](./56872-puppetsvr.json) |
 | Puppies vs Undead | 86359 | [86359-puppies-vs-undead.json](./86359-puppies-vs-undead.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
