@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T12:23:43.185Z",
-  "total_missing": 219323,
+  "generated_at": "2026-10-16T12:37:26.471Z",
+  "total_missing": 219373,
   "games": [
     {
       "igdb_id": 191680,
@@ -5532,6 +5532,11 @@
       "file": "missing/0-9/240282-2006-fifa-world-cup.json"
     },
     {
+      "igdb_id": 240283,
+      "game_name": "2006 FIFA World Cup",
+      "file": "missing/0-9/240283-2006-fifa-world-cup.json"
+    },
+    {
       "igdb_id": 240284,
       "game_name": "2006 FIFA World Cup",
       "file": "missing/0-9/240284-2006-fifa-world-cup.json"
@@ -5550,6 +5555,11 @@
       "igdb_id": 283079,
       "game_name": "2007",
       "file": "missing/0-9/283079-2007.json"
+    },
+    {
+      "igdb_id": 240361,
+      "game_name": "2010 FIFA World Cup South Africa",
+      "file": "missing/0-9/240361-2010-fifa-world-cup-south-africa.json"
     },
     {
       "igdb_id": 240362,
@@ -64012,6 +64022,11 @@
       "file": "missing/A/44750-assault-suits-valken-2.json"
     },
     {
+      "igdb_id": 240410,
+      "game_name": "Assault Suits Valken Declassified",
+      "file": "missing/A/240410-assault-suits-valken-declassified.json"
+    },
+    {
       "igdb_id": 274517,
       "game_name": "Assault Wing",
       "file": "missing/A/274517-assault-wing.json"
@@ -83700,6 +83715,11 @@
       "igdb_id": 234093,
       "game_name": "Barnstorming",
       "file": "missing/B/234093-barnstorming.json"
+    },
+    {
+      "igdb_id": 242988,
+      "game_name": "Barnyard",
+      "file": "missing/B/242988-barnyard.json"
     },
     {
       "igdb_id": 3794,
@@ -113815,6 +113835,11 @@
       "igdb_id": 385285,
       "game_name": "Blossom Sort",
       "file": "missing/B/385285-blossom-sort.json"
+    },
+    {
+      "igdb_id": 172489,
+      "game_name": "Blossom Tales 2: The Minotaur Prince",
+      "file": "missing/B/172489-blossom-tales-2-the-minotaur-prince.json"
     },
     {
       "igdb_id": 27994,
@@ -147260,6 +147285,21 @@
       "igdb_id": 243201,
       "game_name": "Cars",
       "file": "missing/C/243201-cars.json"
+    },
+    {
+      "igdb_id": 243202,
+      "game_name": "Cars",
+      "file": "missing/C/243202-cars.json"
+    },
+    {
+      "igdb_id": 243203,
+      "game_name": "Cars",
+      "file": "missing/C/243203-cars.json"
+    },
+    {
+      "igdb_id": 243204,
+      "game_name": "Cars",
+      "file": "missing/C/243204-cars.json"
     },
     {
       "igdb_id": 243205,
@@ -220622,6 +220662,11 @@
       "file": "missing/D/358409-dead-by-daylight-the-walking-dead-daryl-dixon.json"
     },
     {
+      "igdb_id": 241319,
+      "game_name": "Dead by Daylight: Tools of Torment Chapter",
+      "file": "missing/D/241319-dead-by-daylight-tools-of-torment-chapter.json"
+    },
+    {
       "igdb_id": 74144,
       "game_name": "Dead By Murder",
       "file": "missing/D/74144-dead-by-murder.json"
@@ -245292,6 +245337,11 @@
       "file": "missing/D/69231-disneys-winnie-the-pooh-preschool.json"
     },
     {
+      "igdb_id": 243185,
+      "game_name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure",
+      "file": "missing/D/243185-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json"
+    },
+    {
       "igdb_id": 4234,
       "game_name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure",
       "file": "missing/D/4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json"
@@ -257267,6 +257317,11 @@
       "file": "missing/D/181147-dr-emoji.json"
     },
     {
+      "igdb_id": 242082,
+      "game_name": "Dr. Fetus' Mean Meat Machine",
+      "file": "missing/D/242082-dr-fetus-mean-meat-machine.json"
+    },
+    {
       "igdb_id": 275560,
       "game_name": "Dr. Finklestein's Marvelous Room",
       "file": "missing/D/275560-dr-finklesteins-marvelous-room.json"
@@ -265022,6 +265077,11 @@
       "file": "missing/D/55172-dreamworks-voltron-vr-chronicles.json"
     },
     {
+      "igdb_id": 243200,
+      "game_name": "Dreamworks' Shark Tale",
+      "file": "missing/D/243200-dreamworks-shark-tale.json"
+    },
+    {
       "igdb_id": 4148,
       "game_name": "Dreamworks' Shark Tale",
       "file": "missing/D/4148-dreamworks-shark-tale.json"
@@ -270990,6 +271050,11 @@
       "igdb_id": 204968,
       "game_name": "Dungeon Dwarves",
       "file": "missing/D/204968-dungeon-dwarves.json"
+    },
+    {
+      "igdb_id": 172756,
+      "game_name": "Dungeon Encounters",
+      "file": "missing/D/172756-dungeon-encounters.json"
     },
     {
       "igdb_id": 207291,
@@ -303517,6 +303582,11 @@
       "file": "missing/E/47129-exzeus-2.json"
     },
     {
+      "igdb_id": 173140,
+      "game_name": "ExZeus: The Complete Collection",
+      "file": "missing/E/173140-exzeus-the-complete-collection.json"
+    },
+    {
       "igdb_id": 42666,
       "game_name": "Exzore: The Rising",
       "file": "missing/E/42666-exzore-the-rising.json"
@@ -319207,6 +319277,11 @@
       "file": "missing/F/240422-fifa-14.json"
     },
     {
+      "igdb_id": 240417,
+      "game_name": "FIFA 14 Mobile",
+      "file": "missing/F/240417-fifa-14-mobile.json"
+    },
+    {
       "igdb_id": 240426,
       "game_name": "FIFA 15",
       "file": "missing/F/240426-fifa-15.json"
@@ -319517,6 +319592,11 @@
       "file": "missing/F/240334-fifa-soccer-10.json"
     },
     {
+      "igdb_id": 240335,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240335-fifa-soccer-10.json"
+    },
+    {
       "igdb_id": 240336,
       "game_name": "FIFA Soccer 10",
       "file": "missing/F/240336-fifa-soccer-10.json"
@@ -319537,9 +319617,19 @@
       "file": "missing/F/240381-fifa-soccer-11.json"
     },
     {
+      "igdb_id": 240383,
+      "game_name": "FIFA Soccer 11",
+      "file": "missing/F/240383-fifa-soccer-11.json"
+    },
+    {
       "igdb_id": 503,
       "game_name": "FIFA Soccer 11",
       "file": "missing/F/503-fifa-soccer-11.json"
+    },
+    {
+      "igdb_id": 240390,
+      "game_name": "FIFA Soccer 12",
+      "file": "missing/F/240390-fifa-soccer-12.json"
     },
     {
       "igdb_id": 2946,
@@ -319670,6 +319760,11 @@
       "igdb_id": 5832,
       "game_name": "FIFA Street",
       "file": "missing/F/5832-fifa-street.json"
+    },
+    {
+      "igdb_id": 240364,
+      "game_name": "FIFA Street 2",
+      "file": "missing/F/240364-fifa-street-2.json"
     },
     {
       "igdb_id": 240365,
@@ -328045,6 +328140,11 @@
       "igdb_id": 279869,
       "game_name": "Fitness Boxing: Fist of the North Star - Expansion Pack",
       "file": "missing/F/279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json"
+    },
+    {
+      "igdb_id": 241103,
+      "game_name": "Fitness Circuit",
+      "file": "missing/F/241103-fitness-circuit.json"
     },
     {
       "igdb_id": 16078,
@@ -437487,6 +437587,11 @@
       "file": "missing/I/152218-i-expect-you-to-die-2.json"
     },
     {
+      "igdb_id": 240584,
+      "game_name": "I Expect You to Die 3",
+      "file": "missing/I/240584-i-expect-you-to-die-3.json"
+    },
+    {
       "igdb_id": 223146,
       "game_name": "I Expect You to Die: Home Sweet Home",
       "file": "missing/I/223146-i-expect-you-to-die-home-sweet-home.json"
@@ -462027,6 +462132,11 @@
       "file": "missing/J/1644-james-bond-007-everything-or-nothing.json"
     },
     {
+      "igdb_id": 243013,
+      "game_name": "James Bond 007: Everything or Nothing",
+      "file": "missing/J/243013-james-bond-007-everything-or-nothing.json"
+    },
+    {
       "igdb_id": 1645,
       "game_name": "James Bond 007: From Russia with Love",
       "file": "missing/J/1645-james-bond-007-from-russia-with-love.json"
@@ -483860,6 +483970,11 @@
       "igdb_id": 252847,
       "game_name": "Kill it with Fire 2",
       "file": "missing/K/252847-kill-it-with-fire-2.json"
+    },
+    {
+      "igdb_id": 239612,
+      "game_name": "Kill It With Fire VR",
+      "file": "missing/K/239612-kill-it-with-fire-vr.json"
     },
     {
       "igdb_id": 208574,
@@ -517792,6 +517907,11 @@
       "file": "missing/L/110337-little-friends-dogs-and-cats.json"
     },
     {
+      "igdb_id": 242923,
+      "game_name": "Little Friends: Puppy Island",
+      "file": "missing/L/242923-little-friends-puppy-island.json"
+    },
+    {
       "igdb_id": 229057,
       "game_name": "Little Frog Game",
       "file": "missing/L/229057-little-frog-game.json"
@@ -526827,6 +526947,11 @@
       "file": "missing/L/307239-loud-run.json"
     },
     {
+      "igdb_id": 241712,
+      "game_name": "Loud: My Road to Fame",
+      "file": "missing/L/241712-loud-my-road-to-fame.json"
+    },
+    {
       "igdb_id": 195647,
       "game_name": "Louder Than Words: The Story of a Field Trip",
       "file": "missing/L/195647-louder-than-words-the-story-of-a-field-trip.json"
@@ -528220,6 +528345,11 @@
       "igdb_id": 248055,
       "game_name": "Lovecraft's Mythos Run",
       "file": "missing/L/248055-lovecrafts-mythos-run.json"
+    },
+    {
+      "igdb_id": 172449,
+      "game_name": "Lovecraft's Untold Stories 2",
+      "file": "missing/L/172449-lovecrafts-untold-stories-2.json"
     },
     {
       "igdb_id": 259512,
@@ -534482,6 +534612,16 @@
       "file": "missing/M/282501-madden-nfl-95.json"
     },
     {
+      "igdb_id": 243002,
+      "game_name": "Madden NFL 06",
+      "file": "missing/M/243002-madden-nfl-06.json"
+    },
+    {
+      "igdb_id": 243003,
+      "game_name": "Madden NFL 06",
+      "file": "missing/M/243003-madden-nfl-06.json"
+    },
+    {
       "igdb_id": 243004,
       "game_name": "Madden NFL 06",
       "file": "missing/M/243004-madden-nfl-06.json"
@@ -534495,6 +534635,11 @@
       "igdb_id": 243006,
       "game_name": "Madden NFL 06",
       "file": "missing/M/243006-madden-nfl-06.json"
+    },
+    {
+      "igdb_id": 243007,
+      "game_name": "Madden NFL 06",
+      "file": "missing/M/243007-madden-nfl-06.json"
     },
     {
       "igdb_id": 5906,
@@ -534805,6 +534950,11 @@
       "igdb_id": 243181,
       "game_name": "Madden NFL 2005",
       "file": "missing/M/243181-madden-nfl-2005.json"
+    },
+    {
+      "igdb_id": 243182,
+      "game_name": "Madden NFL 2005",
+      "file": "missing/M/243182-madden-nfl-2005.json"
     },
     {
       "igdb_id": 778,
@@ -563212,6 +563362,11 @@
       "file": "missing/M/183355-memory-leak.json"
     },
     {
+      "igdb_id": 172897,
+      "game_name": "Memory Lost",
+      "file": "missing/M/172897-memory-lost.json"
+    },
+    {
       "igdb_id": 351138,
       "game_name": "Memory Lost - Shift Edition",
       "file": "missing/M/351138-memory-lost-shift-edition.json"
@@ -587452,6 +587607,11 @@
       "file": "missing/M/223548-monster-jam-steel-titans-2-inverse-truck-pack.json"
     },
     {
+      "igdb_id": 242805,
+      "game_name": "Monster Jam: Maximum Destruction",
+      "file": "missing/M/242805-monster-jam-maximum-destruction.json"
+    },
+    {
       "igdb_id": 4019,
       "game_name": "Monster Jam: Maximum Destruction",
       "file": "missing/M/4019-monster-jam-maximum-destruction.json"
@@ -594020,6 +594180,11 @@
       "igdb_id": 300469,
       "game_name": "MotoGP 22: Day One Edition",
       "file": "missing/M/300469-motogp-22-day-one-edition.json"
+    },
+    {
+      "igdb_id": 243215,
+      "game_name": "MotoGP 23",
+      "file": "missing/M/243215-motogp-23.json"
     },
     {
       "igdb_id": 292136,
@@ -615715,6 +615880,11 @@
       "igdb_id": 229854,
       "game_name": "Need for Speed: Underground 2",
       "file": "missing/N/229854-need-for-speed-underground-2.json"
+    },
+    {
+      "igdb_id": 242997,
+      "game_name": "Need for Speed: Underground 2",
+      "file": "missing/N/242997-need-for-speed-underground-2.json"
     },
     {
       "igdb_id": 72073,
@@ -658052,6 +658222,11 @@
       "file": "missing/P/243196-pac-man-world-3.json"
     },
     {
+      "igdb_id": 243197,
+      "game_name": "Pac-Man World 3",
+      "file": "missing/P/243197-pac-man-world-3.json"
+    },
+    {
       "igdb_id": 4064,
       "game_name": "Pac-Man World 3",
       "file": "missing/P/4064-pac-man-world-3.json"
@@ -696827,6 +697002,11 @@
       "file": "missing/P/203516-pokemon-scarlet-and-pokemon-violet-double-pack.json"
     },
     {
+      "igdb_id": 239935,
+      "game_name": "Pokémon Scarlet: The Hidden Treasure of Area Zero",
+      "file": "missing/P/239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json"
+    },
+    {
       "igdb_id": 239932,
       "game_name": "Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk",
       "file": "missing/P/239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json"
@@ -707235,6 +707415,11 @@
       "igdb_id": 407278,
       "game_name": "Prince of Persia: New Era Bundle",
       "file": "missing/P/407278-prince-of-persia-new-era-bundle.json"
+    },
+    {
+      "igdb_id": 243129,
+      "game_name": "Prince of Persia: Rival Swords",
+      "file": "missing/P/243129-prince-of-persia-rival-swords.json"
     },
     {
       "igdb_id": 243130,
@@ -781787,6 +781972,11 @@
       "file": "missing/S/154985-scarred-stars.json"
     },
     {
+      "igdb_id": 173405,
+      "game_name": "Scarred Stars: Traumatic Edition",
+      "file": "missing/S/173405-scarred-stars-traumatic-edition.json"
+    },
+    {
       "igdb_id": 374780,
       "game_name": "Scarred Steel",
       "file": "missing/S/374780-scarred-steel.json"
@@ -817557,6 +817747,11 @@
       "file": "missing/S/297650-slavic-mythology-creatures.json"
     },
     {
+      "igdb_id": 239657,
+      "game_name": "SlavicPunk: Oldtimer",
+      "file": "missing/S/239657-slavicpunk-oldtimer.json"
+    },
+    {
       "igdb_id": 32152,
       "game_name": "Slavistan",
       "file": "missing/S/32152-slavistan.json"
@@ -846905,6 +847100,11 @@
       "igdb_id": 200980,
       "game_name": "Spider-Man 2",
       "file": "missing/S/200980-spider-man-2.json"
+    },
+    {
+      "igdb_id": 243027,
+      "game_name": "Spider-Man 2",
+      "file": "missing/S/243027-spider-man-2.json"
     },
     {
       "igdb_id": 230180,
@@ -913207,6 +913407,11 @@
       "file": "missing/T/103434-tentlan.json"
     },
     {
+      "igdb_id": 240056,
+      "game_name": "Tents and Trees",
+      "file": "missing/T/240056-tents-and-trees.json"
+    },
+    {
       "igdb_id": 230340,
       "game_name": "Tenuous:City",
       "file": "missing/T/230340-tenuous-city.json"
@@ -919722,6 +919927,11 @@
       "file": "missing/T/97454-the-bananatree-brothers-eat-carrots.json"
     },
     {
+      "igdb_id": 242009,
+      "game_name": "The Banished Vault",
+      "file": "missing/T/242009-the-banished-vault.json"
+    },
+    {
       "igdb_id": 379340,
       "game_name": "The Banker Tycoon",
       "file": "missing/T/379340-the-banker-tycoon.json"
@@ -926010,6 +926220,11 @@
       "igdb_id": 257077,
       "game_name": "The Dark Pictures Anthology: Winterfold",
       "file": "missing/T/257077-the-dark-pictures-anthology-winterfold.json"
+    },
+    {
+      "igdb_id": 224413,
+      "game_name": "The Dark Pictures: Switchback VR",
+      "file": "missing/T/224413-the-dark-pictures-switchback-vr.json"
     },
     {
       "igdb_id": 249739,
@@ -967407,6 +967622,11 @@
       "file": "missing/T/31392-thick-air.json"
     },
     {
+      "igdb_id": 224511,
+      "game_name": "Thick as Thieves",
+      "file": "missing/T/224511-thick-as-thieves.json"
+    },
+    {
       "igdb_id": 334794,
       "game_name": "Thick Light",
       "file": "missing/T/334794-thick-light.json"
@@ -977135,6 +977355,11 @@
       "igdb_id": 904,
       "game_name": "Tiger Woods PGA Tour 2003",
       "file": "missing/T/904-tiger-woods-pga-tour-2003.json"
+    },
+    {
+      "igdb_id": 243022,
+      "game_name": "Tiger Woods PGA Tour 2004",
+      "file": "missing/T/243022-tiger-woods-pga-tour-2004.json"
     },
     {
       "igdb_id": 243023,
@@ -991730,6 +991955,11 @@
       "igdb_id": 234776,
       "game_name": "Touhou: Lost Children at the Bamboo Forest",
       "file": "missing/T/234776-touhou-lost-children-at-the-bamboo-forest.json"
+    },
+    {
+      "igdb_id": 242038,
+      "game_name": "Touhou: New World",
+      "file": "missing/T/242038-touhou-new-world.json"
     },
     {
       "igdb_id": 230169,
@@ -1016032,6 +1016262,11 @@
       "file": "missing/U/294725-ufo-ride.json"
     },
     {
+      "igdb_id": 239407,
+      "game_name": "UFO Robot Grendizer: The Feast of the Wolves",
+      "file": "missing/U/239407-ufo-robot-grendizer-the-feast-of-the-wolves.json"
+    },
+    {
       "igdb_id": 312273,
       "game_name": "UFO Shooting",
       "file": "missing/U/312273-ufo-shooting.json"
@@ -1018995,6 +1019230,11 @@
       "igdb_id": 27323,
       "game_name": "Ultrawings",
       "file": "missing/U/27323-ultrawings.json"
+    },
+    {
+      "igdb_id": 173019,
+      "game_name": "Ultrawings 2",
+      "file": "missing/U/173019-ultrawings-2.json"
     },
     {
       "igdb_id": 113038,
@@ -1039580,6 +1039820,11 @@
       "igdb_id": 404966,
       "game_name": "Void Crawlers",
       "file": "missing/V/404966-void-crawlers.json"
+    },
+    {
+      "igdb_id": 243017,
+      "game_name": "Void Crew",
+      "file": "missing/V/243017-void-crew.json"
     },
     {
       "igdb_id": 314003,
@@ -1094485,6 +1094730,11 @@
       "igdb_id": 101335,
       "game_name": "ZombieHunterZ",
       "file": "missing/Z/101335-zombiehunterz.json"
+    },
+    {
+      "igdb_id": 239423,
+      "game_name": "Zombieland: Headshot Fever - Reloaded",
+      "file": "missing/Z/239423-zombieland-headshot-fever-reloaded.json"
     },
     {
       "igdb_id": 297758,
