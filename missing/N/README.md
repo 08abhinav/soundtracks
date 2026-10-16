@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K6 | 8835 | [8835-nba-2k6.json](./8835-nba-2k6.json) |
 | NBA 2K7 | 8836 | [8836-nba-2k7.json](./8836-nba-2k7.json) |
 | NBA 2K8 | 8837 | [8837-nba-2k8.json](./8837-nba-2k8.json) |
+| NBA 2K9 | 8838 | [8838-nba-2k9.json](./8838-nba-2k9.json) |
 | NBA 2KVR Experience | 25907 | [25907-nba-2kvr-experience.json](./25907-nba-2kvr-experience.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
+| Ninja Gaiden Shadow | 48929 | [48929-ninja-gaiden-shadow.json](./48929-ninja-gaiden-shadow.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
