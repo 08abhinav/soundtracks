@@ -5132,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
+| Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn City | 286758 | [286758-looking-for-cats-in-a-badly-drawn-city.json](./286758-looking-for-cats-in-a-badly-drawn-city.json) |
