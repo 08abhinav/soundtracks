@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
+| Ravensword: Shadowlands | 7196 | [7196-ravensword-shadowlands.json](./7196-ravensword-shadowlands.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
@@ -5037,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
 | Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
+| Ridge Racer 6 | 7160 | [7160-ridge-racer-6.json](./7160-ridge-racer-6.json) |
 | Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Accelerated HD | 21572 | [21572-ridge-racer-accelerated-hd.json](./21572-ridge-racer-accelerated-hd.json) |
@@ -5566,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
 | Risk of Rain 2: Stagnant Pipeworks | 410940 | [410940-risk-of-rain-2-stagnant-pipeworks.json](./410940-risk-of-rain-2-stagnant-pipeworks.json) |
 | Risk of Rain 2: Starstorm 2 | 310529 | [310529-risk-of-rain-2-starstorm-2.json](./310529-risk-of-rain-2-starstorm-2.json) |
+| Risk of Rain 2: Survivors of the Void | 189842 | [189842-risk-of-rain-2-survivors-of-the-void.json](./189842-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
