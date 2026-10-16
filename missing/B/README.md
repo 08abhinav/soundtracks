@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 358833 | [358833-baseball.json](./358833-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
+| Baseball | 85454 | [85454-baseball.json](./85454-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
@@ -2935,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
 | Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
+| Battlefield 1: Apocalypse | 82528 | [82528-battlefield-1-apocalypse.json](./82528-battlefield-1-apocalypse.json) |
 | Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
@@ -2995,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
+| Battlefleet Gothic: Armada 2 | 83844 | [83844-battlefleet-gothic-armada-2.json](./83844-battlefleet-gothic-armada-2.json) |
 | Battlefleet Gothic: Armada 2 - Chaos Campaign Expansion | 120157 | [120157-battlefleet-gothic-armada-2-chaos-campaign-expansion.json](./120157-battlefleet-gothic-armada-2-chaos-campaign-expansion.json) |
 | Battlefleet Gothic: Armada 2 - Complete Edition | 154949 | [154949-battlefleet-gothic-armada-2-complete-edition.json](./154949-battlefleet-gothic-armada-2-complete-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
@@ -3183,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
+| Battlezone | 14368 | [14368-battlezone.json](./14368-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
@@ -3956,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bed Wars | 265850 | [265850-bed-wars.json](./265850-bed-wars.json) |
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
+| Bedlam | 13391 | [13391-bedlam.json](./13391-bedlam.json) |
 | Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
