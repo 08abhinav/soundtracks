@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
+| Scarred Stars: Traumatic Edition | 173405 | [173405-scarred-stars-traumatic-edition.json](./173405-scarred-stars-traumatic-edition.json) |
 | Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
 | Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
 | Scars of Honor | 133695 | [133695-scars-of-honor.json](./133695-scars-of-honor.json) |
@@ -9084,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
+| SlavicPunk: Oldtimer | 239657 | [239657-slavicpunk-oldtimer.json](./239657-slavicpunk-oldtimer.json) |
 | Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
@@ -14953,6 +14955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man & Friends: Doc Ock's Challenge | 72999 | [72999-spider-man-and-friends-doc-ocks-challenge.json](./72999-spider-man-and-friends-doc-ocks-challenge.json) |
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
+| Spider-Man 2 | 243027 | [243027-spider-man-2.json](./243027-spider-man-2.json) |
 | Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
