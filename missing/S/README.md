@@ -11815,6 +11815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
+| Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
@@ -17054,6 +17055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
+| Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
