@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
+| Ultrawings 2 | 173019 | [173019-ultrawings-2.json](./173019-ultrawings-2.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
