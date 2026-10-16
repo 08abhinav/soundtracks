@@ -4999,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoPogo | 235681 | [235681-gopogo.json](./235681-gopogo.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
+| Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
@@ -7557,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR | 71456 | [71456-gungrave-vr.json](./71456-gungrave-vr.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
+| Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
