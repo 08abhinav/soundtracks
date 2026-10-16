@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
 | Legend of Master 2 | 63396 | [63396-legend-of-master-2.json](./63396-legend-of-master-2.json) |
 | Legend of Master 3 | 63395 | [63395-legend-of-master-3.json](./63395-legend-of-master-3.json) |
+| Legend of Merchant | 30756 | [30756-legend-of-merchant.json](./30756-legend-of-merchant.json) |
 | Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 2 | 67644 | [67644-legend-of-mir-2.json](./67644-legend-of-mir-2.json) |
@@ -3471,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Bit Bit | 259069 | [259069-lightspeed-bit-bit.json](./259069-lightspeed-bit-bit.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
+| Lightspeed Frontier | 30708 | [30708-lightspeed-frontier.json](./30708-lightspeed-frontier.json) |
 | LightSpeed is Overrated | 220803 | [220803-lightspeed-is-overrated.json](./220803-lightspeed-is-overrated.json) |
 | Lightspeed Lina | 417659 | [417659-lightspeed-lina.json](./417659-lightspeed-lina.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
@@ -4712,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
+| Locked Fears | 30696 | [30696-locked-fears.json](./30696-locked-fears.json) |
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
 | Locked Heart | 347104 | [347104-locked-heart.json](./347104-locked-heart.json) |
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
