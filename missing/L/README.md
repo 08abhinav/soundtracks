@@ -6663,7 +6663,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminite Era: Expedition | 245990 | [245990-luminite-era-expedition.json](./245990-luminite-era-expedition.json) |
 | Luminleaf Chronicles | 301068 | [301068-luminleaf-chronicles.json](./301068-luminleaf-chronicles.json) |
-| Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminoso | 35410 | [35410-luminoso.json](./35410-luminoso.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
