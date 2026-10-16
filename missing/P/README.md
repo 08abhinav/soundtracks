@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
 | Pac 'n Roll Remix | 203270 | [203270-pac-n-roll-remix.json](./203270-pac-n-roll-remix.json) |
+| Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
@@ -6349,7 +6350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Commander: Space Action | 249665 | [249665-planet-commander-space-action.json](./249665-planet-commander-space-action.json) |
 | Planet Cracker | 66969 | [66969-planet-cracker.json](./66969-planet-cracker.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
-| Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crafter | 182874 | [182874-planet-crafter.json](./182874-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
@@ -8991,7 +8991,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
 | Portal: Project Beta | 219158 | [219158-portal-project-beta.json](./219158-portal-project-beta.json) |
 | Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
-| Portal: Revolution | 171704 | [171704-portal-revolution.json](./171704-portal-revolution.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
 | Portal: Still Alive | 21798 | [21798-portal-still-alive.json](./21798-portal-still-alive.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
@@ -9158,7 +9157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
-| Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Dealer | 411087 | [411087-potion-dealer.json](./411087-potion-dealer.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
@@ -10482,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
+| Pro Wrestling | 18143 | [18143-pro-wrestling.json](./18143-pro-wrestling.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
 | Pro Wrestling Sengokuden: Hyper Tag Match | 45107 | [45107-pro-wrestling-sengokuden-hyper-tag-match.json](./45107-pro-wrestling-sengokuden-hyper-tag-match.json) |
 | Pro Wrestling Sim | 151459 | [151459-pro-wrestling-sim.json](./151459-pro-wrestling-sim.json) |
@@ -12264,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
+| Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
 | Push Push Boom | 284291 | [284291-push-push-boom.json](./284291-push-push-boom.json) |
