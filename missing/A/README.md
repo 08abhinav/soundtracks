@@ -10415,7 +10415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble Ensemble | 334315 | [334315-assemble-ensemble.json](./334315-assemble-ensemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
-| Assemble With Care | 117008 | [117008-assemble-with-care.json](./117008-assemble-with-care.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assemble!: Classic and Future Vehicles | 340559 | [340559-assemble-classic-and-future-vehicles.json](./340559-assemble-classic-and-future-vehicles.json) |
 | Assembloids | 195065 | [195065-assembloids.json](./195065-assembloids.json) |
