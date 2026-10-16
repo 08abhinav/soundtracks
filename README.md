@@ -563,6 +563,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27358016d0b6eaaec59826bed57" width="60" /> | [Halo: Spartan Assault](https://ostdb.net/games/halo-spartan-assault) | **Halo: Spartan Assault (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2WDRtEWdtQijffW7PrP8E9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e" width="60" /> | [Halo: The Master Chief Collection](https://ostdb.net/games/halo-the-master-chief-collection) | **Halo 2, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/29K85ghxBzcQHPNPX6QVld)<br>**Halo 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5X4MhnXjrQ0zQIBW8a4ivf)<br>**Halo 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7utu5zCUpUhmh0kbPsku7N)<br>**Halo 4: Forward Unto Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5QaiPJKkEujdDDAE4zx3Zm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273231bdf157b79a745ae20a240" width="60" /> | [Happy Game](https://ostdb.net/games/happy-game) | **Happy Game (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/22wfKDQQWIZnqyZ4GDhgLf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366742235355b00a2540c9df4" width="60" /> | [Hard West](https://ostdb.net/games/hard-west) | **Hard West (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5AaJEEiXLiq8H8fnSxO2Xb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737111a362ba32266ae5b738f4" width="60" /> | [Harold Halibut](https://ostdb.net/games/harold-halibut) | **Harold Halibut (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KlL7ddeIkQ8wqHvqubURS) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b4/fe/e9b4fe63-8e19-a489-e793-f6cf21d30ea0/3663729140869_cover.jpg/600x600bb.jpg" width="60" /> | [Haven](https://ostdb.net/games/haven) | **Haven (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/haven-original-game-soundtrack/1541662378?uo=4) · [Album](https://album.link/i/1541662378) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e29150a6bdc5a9241a180219" width="60" /> | [Heartopia](https://ostdb.net/games/heartopia) | **Heartopia:Star 118 (Heartopia Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7lqzi0j78MezodzpYAfw30) |
@@ -1389,4 +1390,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1706 soundtracks · last updated 2026-10-16T05:02:20.246Z_
+_1707 soundtracks · last updated 2026-10-16T05:02:31.311Z_
