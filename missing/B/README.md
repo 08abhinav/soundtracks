@@ -7856,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
+| Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
@@ -11392,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Masters: Peace Edition | 294040 | [294040-bud-masters-peace-edition.json](./294040-bud-masters-peace-edition.json) |
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
+| Bud Spencer & Terence Hill: Slaps and Beans | 77187 | [77187-bud-spencer-and-terence-hill-slaps-and-beans.json](./77187-bud-spencer-and-terence-hill-slaps-and-beans.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
 | Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
@@ -11812,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
+| Bum Simulator | 101320 | [101320-bum-simulator.json](./101320-bum-simulator.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
 | Bumballon | 190027 | [190027-bumballon.json](./190027-bumballon.json) |
@@ -12451,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
+| Butterfly Soup | 69414 | [69414-butterfly-soup.json](./69414-butterfly-soup.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
 | Butterfly X | 373209 | [373209-butterfly-x.json](./373209-butterfly-x.json) |
 | Butterfly: Inchworm Animation II | 57375 | [57375-butterfly-inchworm-animation-ii.json](./57375-butterfly-inchworm-animation-ii.json) |
