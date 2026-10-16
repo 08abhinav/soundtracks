@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Ladder | 340424 | [340424-heavens-ladder.json](./340424-heavens-ladder.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
+| Heaven's Vault | 27509 | [27509-heavens-vault.json](./27509-heavens-vault.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
 | Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
@@ -5663,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
+| Hitman: Game of the Year Edition | 74878 | [74878-hitman-game-of-the-year-edition.json](./74878-hitman-game-of-the-year-edition.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
 | Hitman: Sniper Assassin | 99073 | [99073-hitman-sniper-assassin.json](./99073-hitman-sniper-assassin.json) |
