@@ -4665,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
 | Golgo 13: Moretti Ichizoku Zansatsu Jiken | 80431 | [80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json](./80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json) |
+| Golgo 13: Top Secret Episode | 48059 | [48059-golgo-13-top-secret-episode.json](./48059-golgo-13-top-secret-episode.json) |
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
