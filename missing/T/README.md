@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
 | Tanki 2.0 | 344902 | [344902-tanki-2-0.json](./344902-tanki-2-0.json) |
 | Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
+| Tanki Online | 23614 | [23614-tanki-online.json](./23614-tanki-online.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankiro | 346179 | [346179-tankiro.json](./346179-tankiro.json) |
@@ -3534,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Splash | 20766 | [20766-tetris-splash.json](./20766-tetris-splash.json) |
 | Tetris Time Warp | 333775 | [333775-tetris-time-warp.json](./333775-tetris-time-warp.json) |
+| Tetris Ultimate | 8194 | [8194-tetris-ultimate.json](./8194-tetris-ultimate.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
@@ -17448,6 +17450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Forbidden Falcon | 298980 | [298980-tomb-of-the-forbidden-falcon.json](./298980-tomb-of-the-forbidden-falcon.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
+| Tomb of the Mask | 58348 | [58348-tomb-of-the-mask.json](./58348-tomb-of-the-mask.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
 | Tomb of the Overlord | 341529 | [341529-tomb-of-the-overlord.json](./341529-tomb-of-the-overlord.json) |
 | Tomb of the TaskMaker | 66906 | [66906-tomb-of-the-taskmaker.json](./66906-tomb-of-the-taskmaker.json) |
@@ -22233,6 +22236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
+| Tsioque | 34700 | [34700-tsioque.json](./34700-tsioque.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsos | 191580 | [191580-tsos.json](./191580-tsos.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
