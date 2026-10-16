@@ -4731,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
+| The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2002 | 5884 | [5884-the-king-of-fighters-2002.json](./5884-the-king-of-fighters-2002.json) |
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
+| The King of Fighters AllStar | 102809 | [102809-the-king-of-fighters-allstar.json](./102809-the-king-of-fighters-allstar.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
 | The King of Fighters Collection: The Orochi Saga | 21711 | [21711-the-king-of-fighters-collection-the-orochi-saga.json](./21711-the-king-of-fighters-collection-the-orochi-saga.json) |
@@ -8951,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The LEGO Movie Videogame: Wild West Pack | 168792 | [168792-the-lego-movie-videogame-wild-west-pack.json](./168792-the-lego-movie-videogame-wild-west-pack.json) |
 | The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
+| The Leisure of Grisaia | 33058 | [33058-the-leisure-of-grisaia.json](./33058-the-leisure-of-grisaia.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
@@ -8965,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lewd of the Cock Rings: The Return of Doug Fooker | 385276 | [385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json](./385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
+| The Librarian | 96203 | [96203-the-librarian.json](./96203-the-librarian.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
@@ -14280,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
+| Through Abandoned 2: The Forest | 31779 | [31779-through-abandoned-2-the-forest.json](./31779-through-abandoned-2-the-forest.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Blocks | 74213 | [74213-through-blocks.json](./74213-through-blocks.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
@@ -15934,6 +15939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
 | Timberman VR | 210843 | [210843-timberman-vr.json](./210843-timberman-vr.json) |
+| Timberman VS | 99289 | [99289-timberman-vs.json](./99289-timberman-vs.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
@@ -17214,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
 | Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
+| Tokyo Ghoul:re Call to Exist | 103495 | [103495-tokyo-ghoul-re-call-to-exist.json](./103495-tokyo-ghoul-re-call-to-exist.json) |
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Hotel | 379964 | [379964-tokyo-hotel.json](./379964-tokyo-hotel.json) |
@@ -17632,6 +17639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomoyasu Hotei: Stolen Song | 44823 | [44823-tomoyasu-hotei-stolen-song.json](./44823-tomoyasu-hotei-stolen-song.json) |
 | Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
 | Tomoyo After: It's a Wonderful Life - CS Edition | 134567 | [134567-tomoyo-after-its-a-wonderful-life-cs-edition.json](./134567-tomoyo-after-its-a-wonderful-life-cs-edition.json) |
+| Tomoyo After: It's a Wonderful Life - Memorial Edition | 33000 | [33000-tomoyo-after-its-a-wonderful-life-memorial-edition.json](./33000-tomoyo-after-its-a-wonderful-life-memorial-edition.json) |
 | Tomoyo Venture Episode 1 | 98033 | [98033-tomoyo-venture-episode-1.json](./98033-tomoyo-venture-episode-1.json) |
 | Tomoyo Venture Episode 2 | 98034 | [98034-tomoyo-venture-episode-2.json](./98034-tomoyo-venture-episode-2.json) |
 | Tomscape | 129570 | [129570-tomscape.json](./129570-tomscape.json) |
@@ -17777,6 +17785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
+| Toodee and Topdee | 101690 | [101690-toodee-and-topdee.json](./101690-toodee-and-topdee.json) |
 | Toodle's Toboggan: Wintery Slopes | 109517 | [109517-toodles-toboggan-wintery-slopes.json](./109517-toodles-toboggan-wintery-slopes.json) |
 | Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
@@ -18140,6 +18149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
+| Total Extreme Wrestling 2013 | 31239 | [31239-total-extreme-wrestling-2013.json](./31239-total-extreme-wrestling-2013.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
 | Total Extreme Wrestling IX | 307862 | [307862-total-extreme-wrestling-ix.json](./307862-total-extreme-wrestling-ix.json) |
