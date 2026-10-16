@@ -7777,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon LuigiGreen | 372605 | [372605-pokemon-luigigreen.json](./372605-pokemon-luigigreen.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
+| Pokémon Masters | 119156 | [119156-pokemon-masters.json](./119156-pokemon-masters.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
@@ -10861,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
+| Project Highrise | 20875 | [20875-project-highrise.json](./20875-project-highrise.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
