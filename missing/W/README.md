@@ -1058,7 +1058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
-| Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition | 219440 | [219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json](./219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json) |
@@ -1410,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
 | Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
+| Warriors & Castles | 35200 | [35200-warriors-and-castles.json](./35200-warriors-and-castles.json) |
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
@@ -3164,7 +3164,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Memories | 334219 | [334219-whispering-memories.json](./334219-whispering-memories.json) |
 | Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
 | Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
-| Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
 | Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
@@ -3905,7 +3904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilma's Dreams | 155700 | [155700-wilmas-dreams.json](./155700-wilmas-dreams.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
-| Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
 | Wilson Chronicles | 127888 | [127888-wilson-chronicles.json](./127888-wilson-chronicles.json) |
 | Wilson: In Search of Tom | 307088 | [307088-wilson-in-search-of-tom.json](./307088-wilson-in-search-of-tom.json) |
