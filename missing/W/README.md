@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
+| Winged Sakura: Endless Dream | 54803 | [54803-winged-sakura-endless-dream.json](./54803-winged-sakura-endless-dream.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winged Warrior | 365219 | [365219-winged-warrior.json](./365219-winged-warrior.json) |
 | Winged Warrior II: The Alien Empire | 365238 | [365238-winged-warrior-ii-the-alien-empire.json](./365238-winged-warrior-ii-the-alien-empire.json) |
