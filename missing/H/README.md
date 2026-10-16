@@ -8620,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBowl: Arcade Edition | 73880 | [73880-hyperbowl-arcade-edition.json](./73880-hyperbowl-arcade-edition.json) |
+| HyperBrawl Tournament | 29495 | [29495-hyperbrawl-tournament.json](./29495-hyperbrawl-tournament.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
