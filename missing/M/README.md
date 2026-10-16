@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
 | Mario Is Missing! | 210224 | [210224-mario-is-missing.json](./210224-mario-is-missing.json) |
+| Mario Is Missing! | 48135 | [48135-mario-is-missing.json](./48135-mario-is-missing.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
+| Marvel Heroes | 50867 | [50867-marvel-heroes.json](./50867-marvel-heroes.json) |
 | Marvel Heroes: 001 - Character: Spider-Man | 363438 | [363438-marvel-heroes-001-character-spider-man.json](./363438-marvel-heroes-001-character-spider-man.json) |
 | Marvel Heroes: 002 - Character: Captain America | 363439 | [363439-marvel-heroes-002-character-captain-america.json](./363439-marvel-heroes-002-character-captain-america.json) |
 | Marvel Heroes: 003 - Character: Hulk | 363440 | [363440-marvel-heroes-003-character-hulk.json](./363440-marvel-heroes-003-character-hulk.json) |
@@ -5697,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: Wired - Victory Pose: Karate | 302539 | [302539-megaton-musashi-w-wired-victory-pose-karate.json](./302539-megaton-musashi-w-wired-victory-pose-karate.json) |
 | Megaton Musashi W: Wired - Victory Pose: Robot Dance | 302540 | [302540-megaton-musashi-w-wired-victory-pose-robot-dance.json](./302540-megaton-musashi-w-wired-victory-pose-robot-dance.json) |
 | Megaton Punch | 134458 | [134458-megaton-punch.json](./134458-megaton-punch.json) |
+| Megaton Rainfall | 54580 | [54580-megaton-rainfall.json](./54580-megaton-rainfall.json) |
 | Megaton: Total Destruction | 69413 | [69413-megaton-total-destruction.json](./69413-megaton-total-destruction.json) |
 | Megatouch Mobile Arcade | 286675 | [286675-megatouch-mobile-arcade.json](./286675-megatouch-mobile-arcade.json) |
 | Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
@@ -7181,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Orange Express | 218352 | [218352-mickey-mouse-orange-express.json](./218352-mickey-mouse-orange-express.json) |
 | Mickey Mouse: The Computer Game | 12921 | [12921-mickey-mouse-the-computer-game.json](./12921-mickey-mouse-the-computer-game.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
+| Mickey to Donald Magical Adventure 3 | 42489 | [42489-mickey-to-donald-magical-adventure-3.json](./42489-mickey-to-donald-magical-adventure-3.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
