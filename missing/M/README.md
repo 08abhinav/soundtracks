@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
+| Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
+| MachineCraft | 34580 | [34580-machinecraft.json](./34580-machinecraft.json) |
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
@@ -5689,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
+| MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
 | Megasuki: Love Through Lenses with Otoha Inami | 416599 | [416599-megasuki-love-through-lenses-with-otoha-inami.json](./416599-megasuki-love-through-lenses-with-otoha-inami.json) |
 | Megasuki: Love Through Lenses with Yuuki Hoshino | 416597 | [416597-megasuki-love-through-lenses-with-yuuki-hoshino.json](./416597-megasuki-love-through-lenses-with-yuuki-hoshino.json) |
@@ -11328,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Lander | 118528 | [118528-moo-lander.json](./118528-moo-lander.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
+| Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
 | Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
@@ -13265,6 +13269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Muramasa: Revenant Blades | 405445 | [405445-muramasa-revenant-blades.json](./405445-muramasa-revenant-blades.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
+| Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
@@ -15123,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
+| Mystic Saga | 34123 | [34123-mystic-saga.json](./34123-mystic-saga.json) |
 | Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
