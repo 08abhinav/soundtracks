@@ -6202,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
+| Shmups Skill Test | 33834 | [33834-shmups-skill-test.json](./33834-shmups-skill-test.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Island | 29066 | [29066-silver-island.json](./29066-silver-island.json) |
 | Silver Jiken | 84317 | [84317-silver-jiken.json](./84317-silver-jiken.json) |
 | Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
+| Silver Knight | 33791 | [33791-silver-knight.json](./33791-silver-knight.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
@@ -14427,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Strike | 345975 | [345975-special-strike.json](./345975-special-strike.json) |
+| Special Tactics | 33750 | [33750-special-tactics.json](./33750-special-tactics.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
 | Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
@@ -21645,6 +21648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
 | Super Flipman Adventure World | 25887 | [25887-super-flipman-adventure-world.json](./25887-super-flipman-adventure-world.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
+| Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
@@ -24276,6 +24280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
 | Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
+| Swarmriders | 32839 | [32839-swarmriders.json](./32839-swarmriders.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
