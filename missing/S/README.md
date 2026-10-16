@@ -4246,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
@@ -18974,6 +18975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
+| Storage Inc 2 | 30720 | [30720-storage-inc-2.json](./30720-storage-inc-2.json) |
 | Storage Kings | 115497 | [115497-storage-kings.json](./115497-storage-kings.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
@@ -19478,6 +19480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boyz | 43237 | [43237-street-boyz.json](./43237-street-boyz.json) |
 | Street Burners | 110854 | [110854-street-burners.json](./110854-street-burners.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
+| Street Champ VR | 30699 | [30699-street-champ-vr.json](./30699-street-champ-vr.json) |
 | Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
 | Street Chaves | 141519 | [141519-street-chaves.json](./141519-street-chaves.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
@@ -22727,6 +22730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
+| Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
