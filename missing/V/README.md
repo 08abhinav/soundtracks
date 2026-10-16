@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
 | Void Tech | 346535 | [346535-void-tech.json](./346535-void-tech.json) |
+| Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Terrarium++ | 143999 | [143999-void-terrarium.json](./143999-void-terrarium.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
@@ -2600,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelfield | 137581 | [137581-voxelfield.json](./137581-voxelfield.json) |
+| Voxelgram | 122807 | [122807-voxelgram.json](./122807-voxelgram.json) |
 | Voxelgram + Voxelgram 2 | 407275 | [407275-voxelgram-voxelgram-2.json](./407275-voxelgram-voxelgram-2.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
 | Voxeliens | 53153 | [53153-voxeliens.json](./53153-voxeliens.json) |
