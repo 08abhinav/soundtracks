@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe is Not Lost: Jigsaw Landscapes | 284900 | [284900-joe-is-not-lost-jigsaw-landscapes.json](./284900-joe-is-not-lost-jigsaw-landscapes.json) |
 | Joe Kowalski Chronicles: Murder in a flat | 150742 | [150742-joe-kowalski-chronicles-murder-in-a-flat.json](./150742-joe-kowalski-chronicles-murder-in-a-flat.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
+| Joe Montana Football | 5396 | [5396-joe-montana-football.json](./5396-joe-montana-football.json) |
 | Joe Montana Football | 80420 | [80420-joe-montana-football.json](./80420-joe-montana-football.json) |
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
