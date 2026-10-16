@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:34:10.145Z",
-  "total_soundtracks": 1759,
+  "generated_at": "2026-10-16T05:34:23.203Z",
+  "total_soundtracks": 1760,
   "games": [
     {
       "igdb_id": 7522,
@@ -13331,6 +13331,20 @@
         {
           "album_name": "Plague Inc. (Cure Edition) [Original Game Soundtrack]",
           "spotify_url": "https://open.spotify.com/album/6BDkiEhXWoPDXtFa8oI6N6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28070,
+      "game_name": "Planet Alpha",
+      "game_url": "https://ostdb.net/games/planet-alpha",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ade80ad0c73719af019b5366",
+      "albums": [
+        {
+          "album_name": "Planet Alpha (Original Video Game Music)",
+          "spotify_url": "https://open.spotify.com/album/0MUfSsNWsEDyg0LhnoYrxx",
           "apple_music_url": "",
           "album_link_url": ""
         }
