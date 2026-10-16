@@ -8334,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: Protect & Serve | 422115 | [422115-huntsman-protect-and-serve.json](./422115-huntsman-protect-and-serve.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
+| Huntsman: The Orphanage - Halloween Edition | 30246 | [30246-huntsman-the-orphanage-halloween-edition.json](./30246-huntsman-the-orphanage-halloween-edition.json) |
 | Hunyadi Strategy | 197200 | [197200-hunyadi-strategy.json](./197200-hunyadi-strategy.json) |
 | Huǒshùyínhuā | 350981 | [350981-huoshuyinhua.json](./350981-huoshuyinhua.json) |
 | Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
