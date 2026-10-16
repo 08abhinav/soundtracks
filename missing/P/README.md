@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
+| Personal Disco VR | 28895 | [28895-personal-disco-vr.json](./28895-personal-disco-vr.json) |
 | Personal Finance Simulator | 292977 | [292977-personal-finance-simulator.json](./292977-personal-finance-simulator.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
@@ -5086,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Time | 68541 | [68541-ping-time.json](./68541-ping-time.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
+| PingBall | 28690 | [28690-pingball.json](./28690-pingball.json) |
 | Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
 | Pingbert's Snow Ride | 379963 | [379963-pingberts-snow-ride.json](./379963-pingberts-snow-ride.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
@@ -5778,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Fantasy Jigsaws | 389396 | [389396-pixel-puzzles-fantasy-jigsaws.json](./389396-pixel-puzzles-fantasy-jigsaws.json) |
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
+| Pixel Puzzles Mosaics | 28746 | [28746-pixel-puzzles-mosaics.json](./28746-pixel-puzzles-mosaics.json) |
 | Pixel Puzzles Traditional Jigsaws | 130274 | [130274-pixel-puzzles-traditional-jigsaws.json](./130274-pixel-puzzles-traditional-jigsaws.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 10 | 262250 | [262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json](./262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json) |
@@ -6012,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
+| Pixel Shinobi: Nine demons of Mamoru | 28682 | [28682-pixel-shinobi-nine-demons-of-mamoru.json](./28682-pixel-shinobi-nine-demons-of-mamoru.json) |
 | Pixel Ship Shooter | 112833 | [112833-pixel-ship-shooter.json](./112833-pixel-ship-shooter.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Shooter Infinity | 193712 | [193712-pixel-shooter-infinity.json](./193712-pixel-shooter-infinity.json) |
@@ -6455,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
+| Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
@@ -7175,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PO'ed: Definitive Edition | 294706 | [294706-poed-definitive-edition.json](./294706-poed-definitive-edition.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Poacher | 93546 | [93546-poacher.json](./93546-poacher.json) |
+| Pobeda | 28691 | [28691-pobeda.json](./28691-pobeda.json) |
 | Poca Mate | 381790 | [381790-poca-mate.json](./381790-poca-mate.json) |
 | Pocahontas | 209354 | [209354-pocahontas.json](./209354-pocahontas.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
@@ -9759,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premiere | 12721 | [12721-premiere.json](./12721-premiere.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
 | Premium Brettspiele | 91595 | [91595-premium-brettspiele.json](./91595-premium-brettspiele.json) |
+| Premium Pool Arena | 28943 | [28943-premium-pool-arena.json](./28943-premium-pool-arena.json) |
 | Premortal VR | 197107 | [197107-premortal-vr.json](./197107-premortal-vr.json) |
 | Prens Cavid | 127736 | [127736-prens-cavid.json](./127736-prens-cavid.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
