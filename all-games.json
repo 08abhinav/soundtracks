@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:36:27.378Z",
-  "total_soundtracks": 1947,
+  "generated_at": "2026-10-16T19:40:58.865Z",
+  "total_soundtracks": 1948,
   "games": [
     {
       "igdb_id": 7522,
@@ -901,6 +901,20 @@
           "spotify_url": "https://open.spotify.com/album/723enP78JetX37xpL5NcbG",
           "apple_music_url": "https://music.apple.com/us/album/angry-birds-original-game-soundtrack-extended-edition-ep/1530256320",
           "album_link_url": "https://album.link/i/1530256320"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19276,
+      "game_name": "Angry Birds Epic",
+      "game_url": "https://ostdb.net/games/angry-birds-epic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733ed0b80b10c91f5cf64dc867",
+      "albums": [
+        {
+          "album_name": "Angry Birds Epic! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21Ur9OWnLhUL3XajasOv32",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
