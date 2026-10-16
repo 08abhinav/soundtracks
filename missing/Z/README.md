@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
+| Zen! | 91331 | [91331-zen.json](./91331-zen.json) |
 | Zen! Slider | 151100 | [151100-zen-slider.json](./151100-zen-slider.json) |
 | Zenatria | 301090 | [301090-zenatria.json](./301090-zenatria.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
 | Zombie Derby: Pixel Survival | 169364 | [169364-zombie-derby-pixel-survival.json](./169364-zombie-derby-pixel-survival.json) |
+| Zombie Desperation | 90861 | [90861-zombie-desperation.json](./90861-zombie-desperation.json) |
 | Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
 | Zombie Diary 2: Evolution | 399880 | [399880-zombie-diary-2-evolution.json](./399880-zombie-diary-2-evolution.json) |
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
