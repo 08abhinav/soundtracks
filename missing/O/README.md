@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Shell | 383151 | [383151-once-upon-a-shell.json](./383151-once-upon-a-shell.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
+| Once Upon a Swagman | 423248 | [423248-once-upon-a-swagman.json](./423248-once-upon-a-swagman.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon a Time | 376670 | [376670-once-upon-a-time.json](./376670-once-upon-a-time.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
 | Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
+| OrderlyWorld | 423288 | [423288-orderlyworld.json](./423288-orderlyworld.json) |
 | Orders of the Ruler | 123366 | [123366-orders-of-the-ruler.json](./123366-orders-of-the-ruler.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
