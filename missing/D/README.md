@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
 | Damocles: Mission Disk 1 | 15502 | [15502-damocles-mission-disk-1.json](./15502-damocles-mission-disk-1.json) |
+| Damon and Baby | 351213 | [351213-damon-and-baby.json](./351213-damon-and-baby.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
+| Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
 | Dead Secret Circle | 99822 | [99822-dead-secret-circle.json](./99822-dead-secret-circle.json) |
@@ -5192,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Destructure: Among Debris | 189006 | [189006-destructure-among-debris.json](./189006-destructure-among-debris.json) |
+| Desvelado | 295592 | [295592-desvelado.json](./295592-desvelado.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached | 280423 | [280423-detached.json](./280423-detached.json) |
@@ -7071,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
+| Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Cinderella's Magic Wishes | 79552 | [79552-disney-princess-cinderellas-magic-wishes.json](./79552-disney-princess-cinderellas-magic-wishes.json) |
@@ -9746,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
+| Dracamar | 348061 | [348061-dracamar.json](./348061-dracamar.json) |
 | Dracanea: The Ragtag Regalia | 422129 | [422129-dracanea-the-ragtag-regalia.json](./422129-dracanea-the-ragtag-regalia.json) |
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
@@ -12684,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
+| Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition | 348267 | [348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json](./348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
