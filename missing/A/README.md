@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Live 2 | 6907 | [6907-afl-live-2.json](./6907-afl-live-2.json) |
+| AFL Mascot Manor | 91707 | [91707-afl-mascot-manor.json](./91707-afl-mascot-manor.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
 | AFL Premiership Coach 2010 | 66019 | [66019-afl-premiership-coach-2010.json](./66019-afl-premiership-coach-2010.json) |
@@ -10489,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault ChaingunS KM | 139097 | [139097-assault-chainguns-km.json](./139097-assault-chainguns-km.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
+| Assault Commander Ultimate | 91235 | [91235-assault-commander-ultimate.json](./91235-assault-commander-ultimate.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
