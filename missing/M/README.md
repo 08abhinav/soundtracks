@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
+| Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
@@ -6094,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Innocent Fille | 71590 | [71590-memories-off-innocent-fille.json](./71590-memories-off-innocent-fille.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
 | Memories Off: Yubikiri no Kioku | 288769 | [288769-memories-off-yubikiri-no-kioku.json](./288769-memories-off-yubikiri-no-kioku.json) |
+| Memories Off: Yubikiri no Kioku | 7067 | [7067-memories-off-yubikiri-no-kioku.json](./7067-memories-off-yubikiri-no-kioku.json) |
 | Memories Off: Yubikiri no Kioku - Futari no Fuuryuuan | 413656 | [413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json](./413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json) |
 | Memories Off: Yubikiri no Kioku - Limited Edition | 413661 | [413661-memories-off-yubikiri-no-kioku-limited-edition.json](./413661-memories-off-yubikiri-no-kioku-limited-edition.json) |
 | Memories Off: Yubikiri no Kioku + Sweets Pack - Limited Edition | 413666 | [413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json](./413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json) |
@@ -13825,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - KTM Pack 2025 | 350643 | [350643-mx-vs-atv-legends-ktm-pack-2025.json](./350643-mx-vs-atv-legends-ktm-pack-2025.json) |
 | MX vs. ATV: Legends - Polaris Pack | 350650 | [350650-mx-vs-atv-legends-polaris-pack.json](./350650-mx-vs-atv-legends-polaris-pack.json) |
 | MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
+| MX vs. ATV: Legends - Season Two | 423992 | [423992-mx-vs-atv-legends-season-two.json](./423992-mx-vs-atv-legends-season-two.json) |
 | MX vs. ATV: Legends - Slayground | 350645 | [350645-mx-vs-atv-legends-slayground.json](./350645-mx-vs-atv-legends-slayground.json) |
 | MX vs. ATV: Legends - Supercross World Tour | 350646 | [350646-mx-vs-atv-legends-supercross-world-tour.json](./350646-mx-vs-atv-legends-supercross-world-tour.json) |
 | MX vs. ATV: Legends - Suzuki Pack | 350647 | [350647-mx-vs-atv-legends-suzuki-pack.json](./350647-mx-vs-atv-legends-suzuki-pack.json) |
