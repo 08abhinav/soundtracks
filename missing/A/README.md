@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
 | After Juice: Animal Disco Mafia | 346636 | [346636-after-juice-animal-disco-mafia.json](./346636-after-juice-animal-disco-mafia.json) |
 | After L!fe: The Sacred Kaleidoscope | 233023 | [233023-after-l-fe-the-sacred-kaleidoscope.json](./233023-after-l-fe-the-sacred-kaleidoscope.json) |
+| After Life: Story of a Father | 30704 | [30704-after-life-story-of-a-father.json](./30704-after-life-story-of-a-father.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altar | 25598 | [25598-altar.json](./25598-altar.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
+| Altar Guardian | 30776 | [30776-altar-guardian.json](./30776-altar-guardian.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar of Gems | 80167 | [80167-altar-of-gems.json](./80167-altar-of-gems.json) |
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
