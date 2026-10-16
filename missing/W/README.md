@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
 | World Boxing Manager | 30292 | [30292-world-boxing-manager.json](./30292-world-boxing-manager.json) |
+| World Builder | 29518 | [29518-world-builder.json](./29518-world-builder.json) |
 | World Bus Driving Simulator | 174613 | [174613-world-bus-driving-simulator.json](./174613-world-bus-driving-simulator.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
