@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
 | Adibou: Je lis, je calcule 5-6 ans | 242528 | [242528-adibou-je-lis-je-calcule-5-6-ans.json](./242528-adibou-je-lis-je-calcule-5-6-ans.json) |
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
+| Adidas Championship Football | 13286 | [13286-adidas-championship-football.json](./13286-adidas-championship-football.json) |
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
@@ -6766,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Genius | 69192 | [69192-animal-genius.json](./69192-animal-genius.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
+| Animal Gods | 13191 | [13191-animal-gods.json](./13191-animal-gods.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital | 84754 | [84754-animal-hospital.json](./84754-animal-hospital.json) |
@@ -7071,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
 | Anka | 22122 | [22122-anka.json](./22122-anka.json) |
 | Ankewill | 235783 | [235783-ankewill.json](./235783-ankewill.json) |
+| Ankh | 13803 | [13803-ankh.json](./13803-ankh.json) |
 | Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
@@ -7422,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
+| Ant Attack | 13954 | [13954-ant-attack.json](./13954-ant-attack.json) |
 | Ant Attack | 303148 | [303148-ant-attack.json](./303148-ant-attack.json) |
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
 | Ant Destroyer 2 | 102596 | [102596-ant-destroyer-2.json](./102596-ant-destroyer-2.json) |
@@ -9459,6 +9463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armajet | 57939 | [57939-armajet.json](./57939-armajet.json) |
+| Armalyte | 13795 | [13795-armalyte.json](./13795-armalyte.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
@@ -11305,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
+| ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
 | Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
