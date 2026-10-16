@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
 | Max Surfing 2nd | 398002 | [398002-max-surfing-2nd.json](./398002-max-surfing-2nd.json) |
 | Max the Frog | 68551 | [68551-max-the-frog.json](./68551-max-the-frog.json) |
+| Max the Unifox | 423246 | [423246-max-the-unifox.json](./423246-max-the-unifox.json) |
 | Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
+| Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
@@ -6640,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | Metaball: Space Guide Pack | 409071 | [409071-metaball-space-guide-pack.json](./409071-metaball-space-guide-pack.json) |
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
+| Metabolis | 423284 | [423284-metabolis.json](./423284-metabolis.json) |
 | Metacell: Genesis Arcade | 147233 | [147233-metacell-genesis-arcade.json](./147233-metacell-genesis-arcade.json) |
 | MetaChampions | 131988 | [131988-metachampions.json](./131988-metachampions.json) |
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
@@ -7676,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight 2 | 58602 | [58602-midnight-2.json](./58602-midnight-2.json) |
 | Midnight Acres | 262876 | [262876-midnight-acres.json](./262876-midnight-acres.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
+| Midnight Arcade Orchestra | 423241 | [423241-midnight-arcade-orchestra.json](./423241-midnight-arcade-orchestra.json) |
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
@@ -9536,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Pieces | 221124 | [221124-missing-pieces.json](./221124-missing-pieces.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
+| Missing Protocol | 423258 | [423258-missing-protocol.json](./423258-missing-protocol.json) |
 | Missing Road | 82349 | [82349-missing-road.json](./82349-missing-road.json) |
 | Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
 | Missing Stars: Act One | 180521 | [180521-missing-stars-act-one.json](./180521-missing-stars-act-one.json) |
