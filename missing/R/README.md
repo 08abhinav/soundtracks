@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
+| RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
 | RaidLand | 132728 | [132728-raidland.json](./132728-raidland.json) |
@@ -5849,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
+| Road Runner's Death Valley Rally | 8099 | [8099-road-runners-death-valley-rally.json](./8099-road-runners-death-valley-rally.json) |
 | Road Rush Racer | 235125 | [235125-road-rush-racer.json](./235125-road-rush-racer.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
