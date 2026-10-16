@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
+| Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
 | Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
