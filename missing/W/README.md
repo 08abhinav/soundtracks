@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
+| Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
 | Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pure: Delta Pack | 241253 | [241253-wipeout-pure-delta-pack.json](./241253-wipeout-pure-delta-pack.json) |
 | Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
+| Wipeout: The Game | 47821 | [47821-wipeout-the-game.json](./47821-wipeout-the-game.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wiping | 38558 | [38558-wiping.json](./38558-wiping.json) |
@@ -4718,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
+| Wizards & Warriors X: Fortress of Fear | 48922 | [48922-wizards-and-warriors-x-fortress-of-fear.json](./48922-wizards-and-warriors-x-fortress-of-fear.json) |
 | Wizards 2: Better Dead Than Red | 105813 | [105813-wizards-2-better-dead-than-red.json](./105813-wizards-2-better-dead-than-red.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
