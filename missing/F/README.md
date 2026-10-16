@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: Hours of Darkness | 90083 | [90083-far-cry-5-hours-of-darkness.json](./90083-far-cry-5-hours-of-darkness.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
+| Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Game of the Year Edition | 220800 | [220800-far-cry-6-game-of-the-year-edition.json](./220800-far-cry-6-game-of-the-year-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
@@ -6733,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
 | Forever Skies: The Final Echoes Update | 404906 | [404906-forever-skies-the-final-echoes-update.json](./404906-forever-skies-the-final-echoes-update.json) |
 | Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
