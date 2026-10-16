@@ -793,6 +793,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9d14a61f033ae9e82a7a7ee" width="60" /> | [Metal Gear Solid 4: Guns of the Patriots](https://ostdb.net/games/metal-gear-solid-4-guns-of-the-patriots) | **METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5f25a9bc55275bcf4c2d2b9" width="60" /> | [Metal Gear Solid Delta: Snake Eater](https://ostdb.net/games/metal-gear-solid-delta-snake-eater) | **METAL GEAR SOLID Δ: SNAKE EATER (ORIGINAL SOUNDTRACK)** · [Spotify](https://open.spotify.com/album/1tSkLcMMxz6JRI6A3tLTRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5f25a9bc55275bcf4c2d2b9" width="60" /> | [Metal Gear Solid V: The Phantom Pain](https://ostdb.net/games/metal-gear-solid-v-the-phantom-pain) | **METAL GEAR SOLID Δ: SNAKE EATER (ORIGINAL SOUNDTRACK)** · [Spotify](https://open.spotify.com/album/1tSkLcMMxz6JRI6A3tLTRE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d848a88809a80e5f6f32415" width="60" /> | [Metal Gear Survive](https://ostdb.net/games/metal-gear-survive) | **METAL GEAR SURVIVE ORIGINAL (Soundtrack Version)** · [Spotify](https://open.spotify.com/album/0h1DnEMBUchn3dHezahTde) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273190c14807f4821560cfb8614" width="60" /> | [Metal Slug](https://ostdb.net/games/metal-slug) | **Metal Slug Tactics (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6hKl1F85awlR62pFFqGl2I) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/5a/e7/9c5ae7f5-2f63-2bfb-cd1d-6dcc78c011fc/3663729343888_cover.jpg/600x600bb.jpg" width="60" /> | [Metal Slug Tactics](https://ostdb.net/games/metal-slug-tactics) | **Metal Slug Tactics (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/metal-slug-tactics-original-game-soundtrack/1776636935?uo=4) · [Album](https://album.link/i/1776636935) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc5dea6d3b98b9745a5ae7" width="60" /> | [Metaphor: ReFantazio](https://ostdb.net/games/metaphor-refantazio) | **Metaphor: ReFantazio Original Soundtrack** · [Spotify](https://open.spotify.com/album/2xtfVwo1C8S6pwAoOoU559)<br>**Metaphor: ReFantazio Special Soundtrack** · [Spotify](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) |
@@ -1459,4 +1460,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1776 soundtracks · last updated 2026-10-16T05:42:32.555Z_
+_1777 soundtracks · last updated 2026-10-16T05:42:46.085Z_
