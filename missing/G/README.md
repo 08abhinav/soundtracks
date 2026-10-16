@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
+| Garden Story | 119856 | [119856-garden-story.json](./119856-garden-story.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Trills | 276659 | [276659-garden-trills.json](./276659-garden-trills.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
@@ -4690,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
 | Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
+| Gone Home: Console Edition | 82387 | [82387-gone-home-console-edition.json](./82387-gone-home-console-edition.json) |
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
@@ -6363,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
+| Grim Dawn: Ashes of Malmouth | 75682 | [75682-grim-dawn-ashes-of-malmouth.json](./75682-grim-dawn-ashes-of-malmouth.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
