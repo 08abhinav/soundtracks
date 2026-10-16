@@ -6868,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization III: Play the World | 10831 | [10831-sid-meiers-civilization-iii-play-the-world.json](./10831-sid-meiers-civilization-iii-play-the-world.json) |
+| Sid Meier's Civilization IV: Complete Edition | 54356 | [54356-sid-meiers-civilization-iv-complete-edition.json](./54356-sid-meiers-civilization-iv-complete-edition.json) |
 | Sid Meier's Civilization IV: Gold Edition | 21856 | [21856-sid-meiers-civilization-iv-gold-edition.json](./21856-sid-meiers-civilization-iv-gold-edition.json) |
 | Sid Meier's Civilization IV: Warlords | 865 | [865-sid-meiers-civilization-iv-warlords.json](./865-sid-meiers-civilization-iv-warlords.json) |
 | Sid Meier's Civilization Revolution | 2152 | [2152-sid-meiers-civilization-revolution.json](./2152-sid-meiers-civilization-revolution.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
+| Sid Meier's Starships | 8714 | [8714-sid-meiers-starships.json](./8714-sid-meiers-starships.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
 | SID the Spellbinder | 41557 | [41557-sid-the-spellbinder.json](./41557-sid-the-spellbinder.json) |
 | Side | 149025 | [149025-side.json](./149025-side.json) |
@@ -9066,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
 | Sled Racer | 200378 | [200378-sled-racer.json](./200378-sled-racer.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
+| Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
@@ -14915,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
+| Spider-Man: Return of the Sinister Six | 46123 | [46123-spider-man-return-of-the-sinister-six.json](./46123-spider-man-return-of-the-sinister-six.json) |
 | Spider-Man: Revenge of the Spider-Slayers | 198901 | [198901-spider-man-revenge-of-the-spider-slayers.json](./198901-spider-man-revenge-of-the-spider-slayers.json) |
 | Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
 | Spider-Man: Shattered Dimensions | 209975 | [209975-spider-man-shattered-dimensions.json](./209975-spider-man-shattered-dimensions.json) |
@@ -15293,6 +15297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse 2 | 46248 | [46248-splatterhouse-2.json](./46248-splatterhouse-2.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | SplatterHouse 3D: Gold Edition | 50376 | [50376-splatterhouse-3d-gold-edition.json](./50376-splatterhouse-3d-gold-edition.json) |
+| Splatterhouse: Wanpaku Graffiti | 48653 | [48653-splatterhouse-wanpaku-graffiti.json](./48653-splatterhouse-wanpaku-graffiti.json) |
 | Splatterworld: Rick to Kyoufu no Daiou | 377793 | [377793-splatterworld-rick-to-kyoufu-no-daiou.json](./377793-splatterworld-rick-to-kyoufu-no-daiou.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
@@ -19391,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
+| Street Hoop | 46820 | [46820-street-hoop.json](./46820-street-hoop.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Jam Basketball | 49219 | [49219-street-jam-basketball.json](./49219-street-jam-basketball.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
@@ -22610,6 +22616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
+| Super Sidekicks | 52191 | [52191-super-sidekicks.json](./52191-super-sidekicks.json) |
 | Super Sidekicks 2: The World Championship | 100707 | [100707-super-sidekicks-2-the-world-championship.json](./100707-super-sidekicks-2-the-world-championship.json) |
 | Super Silly Makeover | 220124 | [220124-super-silly-makeover.json](./220124-super-silly-makeover.json) |
 | Super Silverbrothers | 71235 | [71235-super-silverbrothers.json](./71235-super-silverbrothers.json) |
@@ -22953,6 +22960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
+| Super Turrican | 48231 | [48231-super-turrican.json](./48231-super-turrican.json) |
 | Super Turrican 2: Special Edition | 195988 | [195988-super-turrican-2-special-edition.json](./195988-super-turrican-2-special-edition.json) |
 | Super Turrican: Director's Cut | 172518 | [172518-super-turrican-directors-cut.json](./172518-super-turrican-directors-cut.json) |
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
