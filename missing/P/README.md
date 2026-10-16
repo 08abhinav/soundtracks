@@ -1240,18 +1240,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papetura | 121567 | [121567-papetura.json](./121567-papetura.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
+| PapiBatting | 87237 | [87237-papibatting.json](./87237-papibatting.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
+| PapiDiving | 87246 | [87246-papidiving.json](./87246-papidiving.json) |
 | PapiDrive | 88821 | [88821-papidrive.json](./88821-papidrive.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
+| PapiMirror | 87231 | [87231-papimirror.json](./87231-papimirror.json) |
 | PapiMissile | 88788 | [88788-papimissile.json](./88788-papimissile.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiOrange | 88786 | [88786-papiorange.json](./88786-papiorange.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
 | PapiRiver | 87116 | [87116-papiriver.json](./87116-papiriver.json) |
+| PapiRubber | 87232 | [87232-papirubber.json](./87232-papirubber.json) |
+| PapiStep | 87235 | [87235-papistep.json](./87235-papistep.json) |
+| PapiSurvival | 87248 | [87248-papisurvival.json](./87248-papisurvival.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
@@ -8923,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger | 186701 | [186701-popslinger.json](./186701-popslinger.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
+| PopStar 3 | 87082 | [87082-popstar-3.json](./87082-popstar-3.json) |
 | Popstars | 268384 | [268384-popstars.json](./268384-popstars.json) |
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
@@ -9763,6 +9770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
+| Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool EduKitty-Kids Games | 91177 | [91177-preschool-edukitty-kids-games.json](./91177-preschool-edukitty-kids-games.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
@@ -13062,6 +13070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
 | Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
+| Pyraminx Solver | 87254 | [87254-pyraminx-solver.json](./87254-pyraminx-solver.json) |
 | Pyramis | 235652 | [235652-pyramis.json](./235652-pyramis.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
