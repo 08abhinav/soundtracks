@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
 | Warhammer Underworlds: Online - Warband: Mollog's Mob | 196057 | [196057-warhammer-underworlds-online-warband-mollogs-mob.json](./196057-warhammer-underworlds-online-warband-mollogs-mob.json) |
 | Warhammer Underworlds: Shadespire Edition | 251096 | [251096-warhammer-underworlds-shadespire-edition.json](./251096-warhammer-underworlds-shadespire-edition.json) |
+| Warhammer: Arcane Magic | 33565 | [33565-warhammer-arcane-magic.json](./33565-warhammer-arcane-magic.json) |
 | Warhammer: Arcane Magic Deluxe | 53907 | [53907-warhammer-arcane-magic-deluxe.json](./53907-warhammer-arcane-magic-deluxe.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
@@ -4389,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishlair | 164076 | [164076-wishlair.json](./164076-wishlair.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
+| Wishmaster | 33734 | [33734-wishmaster.json](./33734-wishmaster.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
