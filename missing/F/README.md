@@ -5644,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flockoban | 183399 | [183399-flockoban.json](./183399-flockoban.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flockwork | 252926 | [252926-flockwork.json](./252926-flockwork.json) |
+| Floigan Bros. | 22050 | [22050-floigan-bros.json](./22050-floigan-bros.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
@@ -8606,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
 | From Day to Day | 151106 | [151106-from-day-to-day.json](./151106-from-day-to-day.json) |
+| From Dusk Till Dawn | 22014 | [22014-from-dusk-till-dawn.json](./22014-from-dusk-till-dawn.json) |
 | From Dust | 3160 | [3160-from-dust.json](./3160-from-dust.json) |
 | From Earth | 127928 | [127928-from-earth.json](./127928-from-earth.json) |
 | From Earth to Heaven | 165606 | [165606-from-earth-to-heaven.json](./165606-from-earth-to-heaven.json) |
