@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
+| Global Soccer Manager 2017 | 28646 | [28646-global-soccer-manager-2017.json](./28646-global-soccer-manager-2017.json) |
 | Global Soccer Manager 2018 | 89413 | [89413-global-soccer-manager-2018.json](./89413-global-soccer-manager-2018.json) |
 | Global Soccer Manager 2019 | 116870 | [116870-global-soccer-manager-2019.json](./116870-global-soccer-manager-2019.json) |
 | Global Steel | 188898 | [188898-global-steel.json](./188898-global-steel.json) |
