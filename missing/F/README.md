@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2002 | 229739 | [229739-f1-2002.json](./229739-f1-2002.json) |
 | F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
+| F1 2012 | 1373 | [1373-f1-2012.json](./1373-f1-2012.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
@@ -6351,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
+| Football Manager 2021 | 139077 | [139077-football-manager-2021.json](./139077-football-manager-2021.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2021: Xbox Edition | 142214 | [142214-football-manager-2021-xbox-edition.json](./142214-football-manager-2021-xbox-edition.json) |
