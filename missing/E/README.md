@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnigmaSand | 152035 | [152035-enigmasand.json](./152035-enigmasand.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
+| Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
