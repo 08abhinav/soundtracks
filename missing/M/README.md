@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
+| Mable and the Wood | 89773 | [89773-mable-and-the-wood.json](./89773-mable-and-the-wood.json) |
 | Maboroshi Caravan | 225197 | [225197-maboroshi-caravan.json](./225197-maboroshi-caravan.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
@@ -1509,7 +1510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Mansion | 25826 | [25826-maid-mansion.json](./25826-maid-mansion.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
-| Maid of Sker | 111544 | [111544-maid-of-sker.json](./111544-maid-of-sker.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
@@ -3503,7 +3503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
-| Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
@@ -5372,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
+| Mega Man X | 88645 | [88645-mega-man-x.json](./88645-mega-man-x.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
 | Mega Man X Collection | 4001 | [4001-mega-man-x-collection.json](./4001-mega-man-x-collection.json) |
@@ -8467,7 +8467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Jurassic World | 148125 | [148125-minecraft-jurassic-world.json](./148125-minecraft-jurassic-world.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
-| Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
@@ -12201,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
 | MotoGP 15: Red Bull Rookies Cup | 167923 | [167923-motogp-15-red-bull-rookies-cup.json](./167923-motogp-15-red-bull-rookies-cup.json) |
 | MotoGP 15: Special Edition | 53366 | [53366-motogp-15-special-edition.json](./53366-motogp-15-special-edition.json) |
+| MotoGP 18 | 96090 | [96090-motogp-18.json](./96090-motogp-18.json) |
 | MotoGP 19 | 116136 | [116136-motogp-19.json](./116136-motogp-19.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
 | MotoGP 2 | 195571 | [195571-motogp-2.json](./195571-motogp-2.json) |
@@ -13598,7 +13598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation of J.B. | 186582 | [186582-mutation-of-j-b.json](./186582-mutation-of-j-b.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
-| Mutazione | 64957 | [64957-mutazione.json](./64957-mutazione.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
@@ -14723,7 +14722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
 | Myst Trilogy | 111547 | [111547-myst-trilogy.json](./111547-myst-trilogy.json) |
-| Myst V: End of Ages | 8475 | [8475-myst-v-end-of-ages.json](./8475-myst-v-end-of-ages.json) |
 | Myst V: End of Ages - Limited Edition | 51833 | [51833-myst-v-end-of-ages-limited-edition.json](./51833-myst-v-end-of-ages-limited-edition.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
