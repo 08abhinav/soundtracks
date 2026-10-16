@@ -7563,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
+| Blood Feed | 29879 | [29879-blood-feed.json](./29879-blood-feed.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
 | Blood Flows Where My Shotgun Blows | 263405 | [263405-blood-flows-where-my-shotgun-blows.json](./263405-blood-flows-where-my-shotgun-blows.json) |
