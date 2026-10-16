@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
 | Earthlock | 80895 | [80895-earthlock.json](./80895-earthlock.json) |
+| Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthpedia | 92393 | [92393-earthpedia.json](./92393-earthpedia.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
@@ -4265,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
 | Etrian Odyssey Untold: The Millennium Girl | 6768 | [6768-etrian-odyssey-untold-the-millennium-girl.json](./6768-etrian-odyssey-untold-the-millennium-girl.json) |
+| Etrian Odyssey V: Beyond the Myth | 18224 | [18224-etrian-odyssey-v-beyond-the-myth.json](./18224-etrian-odyssey-v-beyond-the-myth.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
@@ -5694,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play: Astro Zoo | 43211 | [43211-eyetoy-play-astro-zoo.json](./43211-eyetoy-play-astro-zoo.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
+| EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
