@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
+| A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
 | A Witch's Game | 293552 | [293552-a-witchs-game.json](./293552-a-witchs-game.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
+| After The End: The Harvest | 34892 | [34892-after-the-end-the-harvest.json](./34892-after-the-end-the-harvest.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Complete Edition | 237751 | [237751-after-the-fall-complete-edition.json](./237751-after-the-fall-complete-edition.json) |
 | After the Fall: Frontrunner Edition | 191495 | [191495-after-the-fall-frontrunner-edition.json](./191495-after-the-fall-frontrunner-edition.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aktie | 242687 | [242687-aktie.json](./242687-aktie.json) |
 | Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
+| Akuatica | 34497 | [34497-akuatica.json](./34497-akuatica.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
@@ -4448,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Attack Team 2 | 102036 | [102036-alien-attack-team-2.json](./102036-alien-attack-team-2.json) |
+| Alien Attack: In Space | 34728 | [34728-alien-attack-in-space.json](./34728-alien-attack-in-space.json) |
 | Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
