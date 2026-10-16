@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
 | Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
+| Active Life: Explorer | 4659 | [4659-active-life-explorer.json](./4659-active-life-explorer.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts | 1490 | [1490-air-conflicts.json](./1490-air-conflicts.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
+| Air Conflicts: Aces of World War II | 3829 | [3829-air-conflicts-aces-of-world-war-ii.json](./3829-air-conflicts-aces-of-world-war-ii.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
 | Air Conflicts: Pacific Carriers - PlayStation 4 Edition | 99768 | [99768-air-conflicts-pacific-carriers-playstation-4-edition.json](./99768-air-conflicts-pacific-carriers-playstation-4-edition.json) |
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
 | Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
+| Alvin and the Chipmunks: The Squeakquel | 4671 | [4671-alvin-and-the-chipmunks-the-squeakquel.json](./4671-alvin-and-the-chipmunks-the-squeakquel.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
@@ -5865,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
 | AMF Bowling Deluxe 2D | 206116 | [206116-amf-bowling-deluxe-2d.json](./206116-amf-bowling-deluxe-2d.json) |
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
+| AMF Bowling Pinbusters! | 4672 | [4672-amf-bowling-pinbusters.json](./4672-amf-bowling-pinbusters.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
@@ -7605,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
+| Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
@@ -9011,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Stud Poker Run | 21432 | [21432-arctic-stud-poker-run.json](./21432-arctic-stud-poker-run.json) |
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
+| Arctic Tale | 4679 | [4679-arctic-tale.json](./4679-arctic-tale.json) |
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
 | Arctic Wolves | 338153 | [338153-arctic-wolves.json](./338153-arctic-wolves.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
