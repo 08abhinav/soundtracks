@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Art: Jigsaw Puzzle | 106748 | [106748-science-art-jigsaw-puzzle.json](./106748-science-art-jigsaw-puzzle.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Girls | 340006 | [340006-science-girls.json](./340006-science-girls.json) |
+| Science Girls | 5603 | [5603-science-girls.json](./5603-science-girls.json) |
 | Science Kombat | 58686 | [58686-science-kombat.json](./58686-science-kombat.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Show VR: The Abyss | 128265 | [128265-science-show-vr-the-abyss.json](./128265-science-show-vr-the-abyss.json) |
@@ -3753,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Senbazuru | 288681 | [288681-senbazuru.json](./288681-senbazuru.json) |
 | Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
+| Send In The Clown | 424041 | [424041-send-in-the-clown.json](./424041-send-in-the-clown.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
@@ -8461,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
 | Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
+| Ski Region Simulator 2012 | 3177 | [3177-ski-region-simulator-2012.json](./3177-ski-region-simulator-2012.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
 | Ski Resort Tycoon II | 73177 | [73177-ski-resort-tycoon-ii.json](./73177-ski-resort-tycoon-ii.json) |
@@ -8999,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam: Shaq vs. The Legends | 46180 | [46180-slam-shaq-vs-the-legends.json](./46180-slam-shaq-vs-the-legends.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
+| Slamaverse! | 424042 | [424042-slamaverse.json](./424042-slamaverse.json) |
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
@@ -13187,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
 | South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
 | South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
+| South Park: The Fractured But Whole - SteelBook Gold Edition | 5245 | [5245-south-park-the-fractured-but-whole-steelbook-gold-edition.json](./5245-south-park-the-fractured-but-whole-steelbook-gold-edition.json) |
 | South Park: The Fractured But Whole - Towelie: Your Gaming Bud | 153698 | [153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json](./153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json) |
 | South Park: The Stick of Truth - Super Samurai Spaceman Pack | 74744 | [74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json](./74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json) |
 | South Park: The Stick of Truth - Ultimate Fellowship Pack | 74743 | [74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json](./74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json) |
@@ -14533,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
+| Speed Challenge: Jacques Villeneuve's Racing Vision | 4162 | [4162-speed-challenge-jacques-villeneuves-racing-vision.json](./4162-speed-challenge-jacques-villeneuves-racing-vision.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Crew | 243216 | [243216-speed-crew.json](./243216-speed-crew.json) |
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
@@ -19352,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
+| Stravaeger | 424024 | [424024-stravaeger.json](./424024-stravaeger.json) |
 | Straw Hat Samurai: Duels | 101931 | [101931-straw-hat-samurai-duels.json](./101931-straw-hat-samurai-duels.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
@@ -22802,6 +22809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen EX | 38234 | [38234-super-robot-taisen-ex.json](./38234-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
+| Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
