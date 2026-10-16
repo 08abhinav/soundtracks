@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
+| Nintendogs: Dachshund & Friends | 47710 | [47710-nintendogs-dachshund-and-friends.json](./47710-nintendogs-dachshund-and-friends.json) |
 | Nintendogs: Dalmatian & Friends | 23817 | [23817-nintendogs-dalmatian-and-friends.json](./23817-nintendogs-dalmatian-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
 | Nintengogo 11 | 89849 | [89849-nintengogo-11.json](./89849-nintengogo-11.json) |
@@ -5110,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
+| Nuclear Strike | 51274 | [51274-nuclear-strike.json](./51274-nuclear-strike.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
 | Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
 | Nuclear Throne | 3227 | [3227-nuclear-throne.json](./3227-nuclear-throne.json) |
