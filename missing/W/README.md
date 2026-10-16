@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
+| Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Wishful Journey: Love Across Time | 291185 | [291185-wishful-journey-love-across-time.json](./291185-wishful-journey-love-across-time.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
