@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
+| Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
 | Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
+| Rayman: Hoodlums' Revenge | 1967 | [1967-rayman-hoodlums-revenge.json](./1967-rayman-hoodlums-revenge.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
