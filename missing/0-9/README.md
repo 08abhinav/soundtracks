@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | .Hack//G.U. Last Recode: Premium Edition | 166181 | [166181-hack-g-u-last-recode-premium-edition.json](./166181-hack-g-u-last-recode-premium-edition.json) |
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
+| .Hack//G.U. Vol. 2: Reminisce | 11988 | [11988-hack-g-u-vol-2-reminisce.json](./11988-hack-g-u-vol-2-reminisce.json) |
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
