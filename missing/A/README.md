@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
+| Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
 | Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
