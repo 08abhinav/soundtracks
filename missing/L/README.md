@@ -5203,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Land | 116424 | [116424-loop-land.json](./116424-loop-land.json) |
 | Loop Legend | 247032 | [247032-loop-legend.json](./247032-loop-legend.json) |
 | Loop Line | 179449 | [179449-loop-line.json](./179449-loop-line.json) |
+| Loop Loader | 419325 | [419325-loop-loader.json](./419325-loop-loader.json) |
 | Loop Merchant | 364669 | [364669-loop-merchant.json](./364669-loop-merchant.json) |
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
