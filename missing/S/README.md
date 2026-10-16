@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
+| Sega Ages Phantasy Star | 109596 | [109596-sega-ages-phantasy-star.json](./109596-sega-ages-phantasy-star.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
@@ -6638,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
+| Shrek | 3667 | [3667-shrek.json](./3667-shrek.json) |
 | Shrek 2 | 175940 | [175940-shrek-2.json](./175940-shrek-2.json) |
 | Shrek 2 | 248500 | [248500-shrek-2.json](./248500-shrek-2.json) |
 | Shrek 2 | 248501 | [248501-shrek-2.json](./248501-shrek-2.json) |
@@ -6646,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek 2: Beg for Mercy! | 49223 | [49223-shrek-2-beg-for-mercy.json](./49223-shrek-2-beg-for-mercy.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
+| Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
@@ -15011,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders in the Bath | 256223 | [256223-spiders-in-the-bath.json](./256223-spiders-in-the-bath.json) |
 | Spiders of Mars | 23498 | [23498-spiders-of-mars.json](./23498-spiders-of-mars.json) |
 | Spiders: Cobweb Shooter | 233432 | [233432-spiders-cobweb-shooter.json](./233432-spiders-cobweb-shooter.json) |
+| Spidersaurs | 117014 | [117014-spidersaurs.json](./117014-spidersaurs.json) |
 | Spidersilk | 262266 | [262266-spidersilk.json](./262266-spidersilk.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
@@ -18674,6 +18678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
 | Stillwell | 390600 | [390600-stillwell.json](./390600-stillwell.json) |
+| Stilt Fella | 108781 | [108781-stilt-fella.json](./108781-stilt-fella.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
@@ -22986,6 +22991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
 | Super Street Racer | 124066 | [124066-super-street-racer.json](./124066-super-street-racer.json) |
+| Super Street: The Game | 109292 | [109292-super-street-the-game.json](./109292-super-street-the-game.json) |
 | Super Strike Eagle | 42449 | [42449-super-strike-eagle.json](./42449-super-strike-eagle.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Stroke the Pants | 343931 | [343931-super-stroke-the-pants.json](./343931-super-stroke-the-pants.json) |
