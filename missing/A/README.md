@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterconflict Lost War | 123324 | [123324-afterconflict-lost-war.json](./123324-afterconflict-lost-war.json) |
 | Afterdream | 207735 | [207735-afterdream.json](./207735-afterdream.json) |
 | Afterdream & Distraint Series Bundle | 271122 | [271122-afterdream-and-distraint-series-bundle.json](./271122-afterdream-and-distraint-series-bundle.json) |
+| Afterfall: Insanity | 8375 | [8375-afterfall-insanity.json](./8375-afterfall-insanity.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
@@ -4600,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Up | 230963 | [230963-alien-up.json](./230963-alien-up.json) |
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
+| Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
@@ -9519,6 +9522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
+| Army Men: RTS | 8498 | [8498-army-men-rts.json](./8498-army-men-rts.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
 | Army Men: Sarge's Heroes 2 | 3441 | [3441-army-men-sarges-heroes-2.json](./3441-army-men-sarges-heroes-2.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
@@ -10175,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
+| Asphalt 7: Heat | 23305 | [23305-asphalt-7-heat.json](./23305-asphalt-7-heat.json) |
 | Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
