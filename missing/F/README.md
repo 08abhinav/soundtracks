@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight of Animals: Legend of the Strongest Creature | 125376 | [125376-fight-of-animals-legend-of-the-strongest-creature.json](./125376-fight-of-animals-legend-of-the-strongest-creature.json) |
+| Fight of Gods | 29056 | [29056-fight-of-gods.json](./29056-fight-of-gods.json) |
 | Fight of Steel: Infinity Warrior | 197157 | [197157-fight-of-steel-infinity-warrior.json](./197157-fight-of-steel-infinity-warrior.json) |
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
@@ -7783,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
+| Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
 | Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
 | Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
@@ -8883,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
+| Fruit Ninja Kinect | 65910 | [65910-fruit-ninja-kinect.json](./65910-fruit-ninja-kinect.json) |
 | Fruit Ninja Kinect 2 | 20947 | [20947-fruit-ninja-kinect-2.json](./20947-fruit-ninja-kinect-2.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
