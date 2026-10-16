@@ -6375,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - Goliath Edition | 89840 | [89840-homefront-the-revolution-goliath-edition.json](./89840-homefront-the-revolution-goliath-edition.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
+| Homeguard | 423249 | [423249-homeguard.json](./423249-homeguard.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homekeeping | 341675 | [341675-homekeeping.json](./341675-homekeeping.json) |
 | Homeland | 146056 | [146056-homeland.json](./146056-homeland.json) |
