@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabyrInk | 252287 | [252287-labyrink.json](./252287-labyrink.json) |
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 129619 | [129619-labyrinth.json](./129619-labyrinth.json) |
+| Labyrinth | 18211 | [18211-labyrinth.json](./18211-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
@@ -1768,7 +1769,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
-| Legend of Grimrock 2 | 8456 | [8456-legend-of-grimrock-2.json](./8456-legend-of-grimrock-2.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
@@ -3189,7 +3189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
-| Lifeless Planet | 8433 | [8433-lifeless-planet.json](./8433-lifeless-planet.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
@@ -3913,9 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
-| Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
-| Lisa: The Joyful | 22711 | [22711-lisa-the-joyful.json](./22711-lisa-the-joyful.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
@@ -4332,7 +4329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
-| LittleBigPlanet | 21911 | [21911-littlebigplanet.json](./21911-littlebigplanet.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
@@ -4382,7 +4378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
-| Live A Live | 191407 | [191407-live-a-live.json](./191407-live-a-live.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
@@ -4942,7 +4937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
-| Lone Survivor | 8117 | [8117-lone-survivor.json](./8117-lone-survivor.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
@@ -5731,7 +5725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Pig (And Place Under Ground) | 84463 | [84463-lost-pig-and-place-under-ground.json](./84463-lost-pig-and-place-under-ground.json) |
 | Lost Pixel | 274536 | [274536-lost-pixel.json](./274536-lost-pixel.json) |
 | Lost Planet 2 | 1915 | [1915-lost-planet-2.json](./1915-lost-planet-2.json) |
-| Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
 | Lost Planet: Extreme Condition - Colonies Edition | 27861 | [27861-lost-planet-extreme-condition-colonies-edition.json](./27861-lost-planet-extreme-condition-colonies-edition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
