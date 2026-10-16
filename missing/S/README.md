@@ -21265,6 +21265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
+| Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
@@ -22256,6 +22257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Momotarou Dentetsu III | 282486 | [282486-super-momotarou-dentetsu-iii.json](./282486-super-momotarou-dentetsu-iii.json) |
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
+| Super Monday Night Combat | 16255 | [16255-super-monday-night-combat.json](./16255-super-monday-night-combat.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
@@ -22388,6 +22390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
+| Super People | 158813 | [158813-super-people.json](./158813-super-people.json) |
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
