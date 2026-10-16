@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Todo Ryuunosuke Tantei Nikki vol.1 - Kohakuiro no Igon: Seiyou Karuta Renzoku Satsujin Jiken | 251475 | [251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json](./251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
+| G-Police | 8305 | [8305-g-police.json](./8305-g-police.json) |
 | G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Female Boss | 276660 | [276660-gentle-female-boss.json](./276660-gentle-female-boss.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
 | Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
