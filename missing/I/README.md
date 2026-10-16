@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle accelerator | 101743 | [101743-idle-accelerator.json](./101743-idle-accelerator.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
+| Idle Agency | 423290 | [423290-idle-agency.json](./423290-idle-agency.json) |
 | Idle Aircraft Carrier | 256176 | [256176-idle-aircraft-carrier.json](./256176-idle-aircraft-carrier.json) |
 | Idle Airport CEO | 340518 | [340518-idle-airport-ceo.json](./340518-idle-airport-ceo.json) |
 | Idle Angels | 171895 | [171895-idle-angels.json](./171895-idle-angels.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
 | Idle Raid | 147245 | [147245-idle-raid.json](./147245-idle-raid.json) |
+| Idle Raiders: Second Run | 423291 | [423291-idle-raiders-second-run.json](./423291-idle-raiders-second-run.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
