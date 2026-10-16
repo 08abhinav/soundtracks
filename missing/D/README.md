@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: Dabtastic Bundle | 112793 | [112793-dabman-dabtastic-bundle.json](./112793-dabman-dabtastic-bundle.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
+| Dabwoman: When the Dab isn't Sexist | 106622 | [106622-dabwoman-when-the-dab-isnt-sexist.json](./106622-dabwoman-when-the-dab-isnt-sexist.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dachinko | 25484 | [25484-dachinko.json](./25484-dachinko.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
+| Diesel Brothers: The Game | 105264 | [105264-diesel-brothers-the-game.json](./105264-diesel-brothers-the-game.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
@@ -12194,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Zero Hour | 8503 | [8503-duke-nukem-zero-hour.json](./8503-duke-nukem-zero-hour.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
+| Duke of Defense | 106396 | [106396-duke-of-defense.json](./106396-duke-of-defense.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Duke: The Apocalypse | 35522 | [35522-duke-the-apocalypse.json](./35522-duke-the-apocalypse.json) |
