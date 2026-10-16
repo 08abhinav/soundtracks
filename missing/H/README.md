@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
 | Head On | 339852 | [339852-head-on.json](./339852-head-on.json) |
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
+| Head Over Heels | 12138 | [12138-head-over-heels.json](./12138-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
 | Head Over Heels: Deluxe | 340421 | [340421-head-over-heels-deluxe.json](./340421-head-over-heels-deluxe.json) |
