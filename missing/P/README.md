@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
+| Paint Tower! | 88763 | [88763-paint-tower.json](./88763-paint-tower.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
@@ -1241,11 +1242,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
+| PapiDrive | 88821 | [88821-papidrive.json](./88821-papidrive.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
+| PapiMissile | 88788 | [88788-papimissile.json](./88788-papimissile.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
+| PapiOrange | 88786 | [88786-papiorange.json](./88786-papiorange.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
 | PapiRiver | 87116 | [87116-papiriver.json](./87116-papiriver.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
@@ -4362,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
+| Pictures Mania Deluxe | 88748 | [88748-pictures-mania-deluxe.json](./88748-pictures-mania-deluxe.json) |
 | Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
 | Piczle Cells | 150262 | [150262-piczle-cells.json](./150262-piczle-cells.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
@@ -5741,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
+| Pixel Puzzle | 88484 | [88484-pixel-puzzle.json](./88484-pixel-puzzle.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
@@ -8115,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
+| Poker Online: Texas Holdem | 88829 | [88829-poker-online-texas-holdem.json](./88829-poker-online-texas-holdem.json) |
 | Poker Pals | 64849 | [64849-poker-pals.json](./64849-poker-pals.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
@@ -8771,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
+| Pop the Balloons | 88745 | [88745-pop-the-balloons.json](./88745-pop-the-balloons.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Ice | 107080 | [107080-pop-the-ice.json](./107080-pop-the-ice.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
@@ -11724,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
+| Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
