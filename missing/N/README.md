@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
+| NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
