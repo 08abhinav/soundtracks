@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
+| Last Heroes | 35248 | [35248-last-heroes.json](./35248-last-heroes.json) |
 | Last Heroes 2 | 33695 | [33695-last-heroes-2.json](./33695-last-heroes-2.json) |
 | Last Heroes 4 | 29167 | [29167-last-heroes-4.json](./29167-last-heroes-4.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
@@ -2006,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Old | 278470 | [278470-legends-of-old.json](./278470-legends-of-old.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
+| Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
 | Legends of Savvarah: Time of Pariah | 264002 | [264002-legends-of-savvarah-time-of-pariah.json](./264002-legends-of-savvarah-time-of-pariah.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
@@ -3574,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
+| Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
