@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
 | Fantasia Sango 5 | 107868 | [107868-fantasia-sango-5.json](./107868-fantasia-sango-5.json) |
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
+| Fantasia: Music Evolved | 83509 | [83509-fantasia-music-evolved.json](./83509-fantasia-music-evolved.json) |
 | Fantasia: Surreal Cosmic Progeny | 133391 | [133391-fantasia-surreal-cosmic-progeny.json](./133391-fantasia-surreal-cosmic-progeny.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal Zero Action | 50461 | [50461-fatal-zero-action.json](./50461-fatal-zero-action.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
+| Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
 | Fate | 364622 | [364622-fate.json](./364622-fate.json) |
@@ -5355,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Color | 252928 | [252928-flight-color.json](./252928-flight-color.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
+| Flight Control | 15103 | [15103-flight-control.json](./15103-flight-control.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
