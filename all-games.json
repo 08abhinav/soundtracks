@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:20:59.199Z",
-  "total_soundtracks": 1734,
+  "generated_at": "2026-10-16T05:21:12.839Z",
+  "total_soundtracks": 1735,
   "games": [
     {
       "igdb_id": 7522,
@@ -3042,6 +3042,20 @@
           "album_name": "Celeste: Farewell (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2AdTRKcovqwu73wltc4ufs",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117271,
+      "game_name": "Chained Echoes",
+      "game_url": "https://ostdb.net/games/chained-echoes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1c8a34ac5ab5109cd6a0e63",
+      "albums": [
+        {
+          "album_name": "Chained Echoes (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ZfNvXO4HsYcklqiRWpD1p",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
