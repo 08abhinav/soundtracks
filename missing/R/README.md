@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
+| Receiver | 8141 | [8141-receiver.json](./8141-receiver.json) |
 | Receiver 2 | 127489 | [127489-receiver-2.json](./127489-receiver-2.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
 | Resident Evil 7: Biohazard - Steelbook Edition | 41857 | [41857-resident-evil-7-biohazard-steelbook-edition.json](./41857-resident-evil-7-biohazard-steelbook-edition.json) |
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
+| Resident Evil Archives: Resident Evil Zero | 23251 | [23251-resident-evil-archives-resident-evil-zero.json](./23251-resident-evil-archives-resident-evil-zero.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
 | Resident Evil Code: Veronica X | 24369 | [24369-resident-evil-code-veronica-x.json](./24369-resident-evil-code-veronica-x.json) |
 | Resident Evil Code: Veronica X HD | 20622 | [20622-resident-evil-code-veronica-x-hd.json](./20622-resident-evil-code-veronica-x-hd.json) |
@@ -4383,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
 | ReVeN: XBridge | 33990 | [33990-reven-xbridge.json](./33990-reven-xbridge.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
+| Revenant | 26630 | [26630-revenant.json](./26630-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
 | Revenant Dogma | 38505 | [38505-revenant-dogma.json](./38505-revenant-dogma.json) |
@@ -6033,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rapture | 176306 | [176306-robo-rapture.json](./176306-robo-rapture.json) |
+| Robo Recall | 26451 | [26451-robo-recall.json](./26451-robo-recall.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Ret | 254062 | [254062-robo-ret.json](./254062-robo-ret.json) |
 | Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
@@ -8617,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
+| Runner3 | 25658 | [25658-runner3.json](./25658-runner3.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
 | Runners | 176817 | [176817-runners.json](./176817-runners.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
