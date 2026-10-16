@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machina Blue | 415173 | [415173-machina-blue.json](./415173-machina-blue.json) |
 | Machina of the Farthest | 296489 | [296489-machina-of-the-farthest.json](./296489-machina-of-the-farthest.json) |
+| Machina of the Planet Tree -Planet Ruler- | 11539 | [11539-machina-of-the-planet-tree-planet-ruler.json](./11539-machina-of-the-planet-tree-planet-ruler.json) |
 | Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
@@ -12417,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
+| MotorSport Revolution | 17718 | [17718-motorsport-revolution.json](./17718-motorsport-revolution.json) |
 | MotorStorm | 2553 | [2553-motorstorm.json](./2553-motorstorm.json) |
 | Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
 | Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
@@ -14065,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
+| My Ex-Boyfriend the Space Tyrant | 17624 | [17624-my-ex-boyfriend-the-space-tyrant.json](./17624-my-ex-boyfriend-the-space-tyrant.json) |
 | My Ex-future Family: Premium Edition | 266989 | [266989-my-ex-future-family-premium-edition.json](./266989-my-ex-future-family-premium-edition.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
