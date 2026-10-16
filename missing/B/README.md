@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
 | Battlefield 4: Final Stand | 3096 | [3096-battlefield-4-final-stand.json](./3096-battlefield-4-final-stand.json) |
 | Battlefield 4: Limited Edition | 51530 | [51530-battlefield-4-limited-edition.json](./51530-battlefield-4-limited-edition.json) |
+| Battlefield 4: Premium | 26098 | [26098-battlefield-4-premium.json](./26098-battlefield-4-premium.json) |
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
