@@ -5000,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
 | Despot's Game: Challenges | 219242 | [219242-despots-game-challenges.json](./219242-despots-game-challenges.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
+| Despot's Game: Dystopian Army Builder | 176088 | [176088-despots-game-dystopian-army-builder.json](./176088-despots-game-dystopian-army-builder.json) |
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
 | Despotism 3k | 75056 | [75056-despotism-3k.json](./75056-despotism-3k.json) |
 | Dessert DIY | 247588 | [247588-dessert-diy.json](./247588-dessert-diy.json) |
@@ -8860,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 260027 | [260027-doom-3-resurrection-of-evil.json](./260027-doom-3-resurrection-of-evil.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
+| Doom 3: The Lost Mission | 167753 | [167753-doom-3-the-lost-mission.json](./167753-doom-3-the-lost-mission.json) |
 | Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 64 | 224522 | [224522-doom-64.json](./224522-doom-64.json) |
