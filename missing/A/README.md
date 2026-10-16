@@ -10291,7 +10291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 2: Torment of Hades | 327927 | [327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json](./327927-assassins-creed-odyssey-the-fate-of-atlantis-episode-2-torment-of-hades.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
-| Assassin's Creed Origins: The Curse of the Pharaohs | 17783 | [17783-assassins-creed-origins-the-curse-of-the-pharaohs.json](./17783-assassins-creed-origins-the-curse-of-the-pharaohs.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations Mobile | 68529 | [68529-assassins-creed-revelations-mobile.json](./68529-assassins-creed-revelations-mobile.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
