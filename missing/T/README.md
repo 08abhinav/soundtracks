@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
 | Tap To Jump On Time 3D | 254389 | [254389-tap-to-jump-on-time-3d.json](./254389-tap-to-jump-on-time-3d.json) |
 | Tap to Merge | 227164 | [227164-tap-to-merge.json](./227164-tap-to-merge.json) |
+| Tap Touch Run | 37422 | [37422-tap-touch-run.json](./37422-tap-touch-run.json) |
 | Tap Track Heroes | 241864 | [241864-tap-track-heroes.json](./241864-tap-track-heroes.json) |
 | Tap Transcend | 58137 | [58137-tap-transcend.json](./58137-tap-transcend.json) |
 | Tap Transcend: Rebirth | 58130 | [58130-tap-transcend-rebirth.json](./58130-tap-transcend-rebirth.json) |
@@ -6851,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Foxglove Catcher | 229755 | [229755-the-foxglove-catcher.json](./229755-the-foxglove-catcher.json) |
 | The Fractured Shimmer | 328688 | [328688-the-fractured-shimmer.json](./328688-the-fractured-shimmer.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
+| The Frankenstein Wars | 36955 | [36955-the-frankenstein-wars.json](./36955-the-frankenstein-wars.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
@@ -8279,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The L.E.D. Wars | 14198 | [14198-the-l-e-d-wars.json](./14198-the-l-e-d-wars.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
+| The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
@@ -13523,6 +13526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
+| The World Named Fred | 35673 | [35673-the-world-named-fred.json](./35673-the-world-named-fred.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
@@ -14400,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thronefall | 236547 | [236547-thronefall.json](./236547-thronefall.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
+| Throttle Powah VR | 36976 | [36976-throttle-powah-vr.json](./36976-throttle-powah-vr.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned 2: The Forest | 31779 | [31779-through-abandoned-2-the-forest.json](./31779-through-abandoned-2-the-forest.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
@@ -16994,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
+| To the Light | 36719 | [36719-to-the-light.json](./36719-to-the-light.json) |
 | To The Mars | 264573 | [264573-to-the-mars.json](./264573-to-the-mars.json) |
 | To the Mars! | 59074 | [59074-to-the-mars.json](./59074-to-the-mars.json) |
 | To the Max | 164242 | [164242-to-the-max.json](./164242-to-the-max.json) |
@@ -17917,6 +17923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
+| Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
@@ -22263,6 +22270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Abstraction: Rewind | 264538 | [264538-true-abstraction-rewind.json](./264538-true-abstraction-rewind.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
+| True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
