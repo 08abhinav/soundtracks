@@ -6430,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
 | Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
+| Griffinblade | 420010 | [420010-griffinblade.json](./420010-griffinblade.json) |
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
