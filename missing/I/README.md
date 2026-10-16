@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Emblem: Gaiden | 353819 | [353819-iron-emblem-gaiden.json](./353819-iron-emblem-gaiden.json) |
 | Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
 | Iron Feather | 71609 | [71609-iron-feather.json](./71609-iron-feather.json) |
+| Iron Fisticle | 17529 | [17529-iron-fisticle.json](./17529-iron-fisticle.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
 | Iron Front: Liberation 1944 | 20830 | [20830-iron-front-liberation-1944.json](./20830-iron-front-liberation-1944.json) |
