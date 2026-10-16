@@ -4682,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
+| Aliens vs. Predator: Requiem | 21675 | [21675-aliens-vs-predator-requiem.json](./21675-aliens-vs-predator-requiem.json) |
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
@@ -9770,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
 | Art Style: Orbient | 21181 | [21181-art-style-orbient.json](./21181-art-style-orbient.json) |
+| Art Style: Pictobits | 21672 | [21672-art-style-pictobits.json](./21672-art-style-pictobits.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
 | Art Style: Rotohex | 21177 | [21177-art-style-rotohex.json](./21177-art-style-rotohex.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
