@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
+| Call of Cthulhu: Shadow of the Comet | 34783 | [34783-call-of-cthulhu-shadow-of-the-comet.json](./34783-call-of-cthulhu-shadow-of-the-comet.json) |
 | Call of Cthulhu: The Darkness Within Book 1 | 228320 | [228320-call-of-cthulhu-the-darkness-within-book-1.json](./228320-call-of-cthulhu-the-darkness-within-book-1.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
@@ -12683,6 +12684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
 | Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
+| Crysis 2: Maximum Edition | 28722 | [28722-crysis-2-maximum-edition.json](./28722-crysis-2-maximum-edition.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
 | Crysis 3: Digital Deluxe Edition | 52850 | [52850-crysis-3-digital-deluxe-edition.json](./52850-crysis-3-digital-deluxe-edition.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
