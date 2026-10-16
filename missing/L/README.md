@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
+| Laser Maze | 100243 | [100243-laser-maze.json](./100243-laser-maze.json) |
 | Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
+| Legend of Vikings | 100793 | [100793-legend-of-vikings.json](./100793-legend-of-vikings.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
 | Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
@@ -5128,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
+| Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
