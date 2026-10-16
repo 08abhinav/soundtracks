@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar '97 | 123056 | [123056-dakar-97.json](./123056-dakar-97.json) |
 | Dakar 18 | 81256 | [81256-dakar-18.json](./81256-dakar-18.json) |
 | Dakar 18: Day One Edition | 110333 | [110333-dakar-18-day-one-edition.json](./110333-dakar-18-day-one-edition.json) |
+| Dakar 2: The World's Ultimate Rally | 3868 | [3868-dakar-2-the-worlds-ultimate-rally.json](./3868-dakar-2-the-worlds-ultimate-rally.json) |
 | Dakar Desert Rally: Audi RS Q e-tron Hybrid Car | 220597 | [220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json](./220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json) |
 | Dakar Desert Rally: Classics Vehicle Pack #2 | 278430 | [278430-dakar-desert-rally-classics-vehicle-pack-2.json](./278430-dakar-desert-rally-classics-vehicle-pack-2.json) |
 | Dakar Desert Rally: Hybrid Vehicle Pack | 278429 | [278429-dakar-desert-rally-hybrid-vehicle-pack.json](./278429-dakar-desert-rally-hybrid-vehicle-pack.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
+| Demon Hunter 5: Ascendance | 116856 | [116856-demon-hunter-5-ascendance.json](./116856-demon-hunter-5-ascendance.json) |
 | Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
 | Demon Hunter High School | 210607 | [210607-demon-hunter-high-school.json](./210607-demon-hunter-high-school.json) |
 | Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
@@ -5580,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dewdrop | 379048 | [379048-dewdrop.json](./379048-dewdrop.json) |
 | Dewdrop Dynasty | 144260 | [144260-dewdrop-dynasty.json](./144260-dewdrop-dynasty.json) |
 | Dewy's Adventure | 248737 | [248737-dewys-adventure.json](./248737-dewys-adventure.json) |
+| Dewy's Adventure | 4627 | [4627-dewys-adventure.json](./4627-dewys-adventure.json) |
 | Dex | 16925 | [16925-dex.json](./16925-dex.json) |
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
@@ -7089,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Football | 78590 | [78590-disney-sports-football.json](./78590-disney-sports-football.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
+| Disney Sports Soccer | 3882 | [3882-disney-sports-soccer.json](./3882-disney-sports-soccer.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney Stitch Jam | 47822 | [47822-disney-stitch-jam.json](./47822-disney-stitch-jam.json) |
@@ -7231,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Villains' Revenge | 46431 | [46431-disneys-villains-revenge.json](./46431-disneys-villains-revenge.json) |
 | Disney's Winnie the Pooh & Tigger Too: Animated Storybook | 209032 | [209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json](./209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json) |
 | Disney's Winnie the Pooh Preschool | 69231 | [69231-disneys-winnie-the-pooh-preschool.json](./69231-disneys-winnie-the-pooh-preschool.json) |
+| Disney's Winnie the Pooh's Rumbly Tumbly Adventure | 4234 | [4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json](./4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disney's You Can Fly! with Tinker Bell | 209033 | [209033-disneys-you-can-fly-with-tinker-bell.json](./209033-disneys-you-can-fly-with-tinker-bell.json) |
 | Disneyland Adventures | 108251 | [108251-disneyland-adventures.json](./108251-disneyland-adventures.json) |
@@ -11153,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwalker | 239716 | [239716-dreamwalker.json](./239716-dreamwalker.json) |
 | Dreamwalker | 271150 | [271150-dreamwalker.json](./271150-dreamwalker.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
+| Dreamwalker: Never Fall Asleep | 110915 | [110915-dreamwalker-never-fall-asleep.json](./110915-dreamwalker-never-fall-asleep.json) |
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
