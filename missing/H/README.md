@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hans Klosss | 61508 | [61508-hans-klosss.json](./61508-hans-klosss.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
+| Hanse - The Hanseatic League | 100340 | [100340-hanse-the-hanseatic-league.json](./100340-hanse-the-hanseatic-league.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
 | Hansel | 215308 | [215308-hansel.json](./215308-hansel.json) |
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
+| Helix Bounce Space | 100841 | [100841-helix-bounce-space.json](./100841-helix-bounce-space.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
 | Helix Fall | 104545 | [104545-helix-fall.json](./104545-helix-fall.json) |
 | Helix Fruit Jump | 316193 | [316193-helix-fruit-jump.json](./316193-helix-fruit-jump.json) |
