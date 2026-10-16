@@ -10464,6 +10464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
 | Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
+| Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
