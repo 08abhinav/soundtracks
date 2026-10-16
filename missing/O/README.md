@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Roots | 204940 | [204940-old-roots.json](./204940-old-roots.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
+| Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Thorne: The King's Challenge | 51860 | [51860-order-of-the-thorne-the-kings-challenge.json](./51860-order-of-the-thorne-the-kings-challenge.json) |
 | Order of War: Challenge | 66900 | [66900-order-of-war-challenge.json](./66900-order-of-war-challenge.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
+| Order Up VR! | 75093 | [75093-order-up-vr.json](./75093-order-up-vr.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Order: VR | 53093 | [53093-order-vr.json](./53093-order-vr.json) |
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
@@ -3409,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
+| Oure | 75237 | [75237-oure.json](./75237-oure.json) |
 | Ourea | 132681 | [132681-ourea.json](./132681-ourea.json) |
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
 | Ourkade | 341521 | [341521-ourkade.json](./341521-ourkade.json) |
