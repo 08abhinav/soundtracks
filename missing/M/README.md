@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
+| Matrioshkas On a Roll! | 418615 | [418615-matrioshkas-on-a-roll.json](./418615-matrioshkas-on-a-roll.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
@@ -5453,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X2 | 1742 | [1742-mega-man-x2.json](./1742-mega-man-x2.json) |
 | Mega Man X2 Alpha | 222927 | [222927-mega-man-x2-alpha.json](./222927-mega-man-x2-alpha.json) |
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
+| Mega Man X2: Recompiled | 418634 | [418634-mega-man-x2-recompiled.json](./418634-mega-man-x2-recompiled.json) |
 | Mega Man X2: Ultimate Armor | 268416 | [268416-mega-man-x2-ultimate-armor.json](./268416-mega-man-x2-ultimate-armor.json) |
 | Mega Man X2: Zero Playable | 268417 | [268417-mega-man-x2-zero-playable.json](./268417-mega-man-x2-zero-playable.json) |
 | Mega Man X3 | 282110 | [282110-mega-man-x3.json](./282110-mega-man-x3.json) |
@@ -9316,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
+| Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
@@ -10565,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
+| Monitoball | 418637 | [418637-monitoball.json](./418637-monitoball.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
 | Monitor State | 374440 | [374440-monitor-state.json](./374440-monitor-state.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
@@ -11059,6 +11063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
+| Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
@@ -13673,6 +13678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
 | Musika | 94641 | [94641-musika.json](./94641-musika.json) |
+| Musings in Nonograms | 418592 | [418592-musings-in-nonograms.json](./418592-musings-in-nonograms.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
@@ -13796,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
 | MV Mazes | 150272 | [150272-mv-mazes.json](./150272-mv-mazes.json) |
 | MV-017 Metal Armor | 397417 | [397417-mv-017-metal-armor.json](./397417-mv-017-metal-armor.json) |
+| MVM10 | 418597 | [418597-mvm10.json](./418597-mvm10.json) |
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP 07: NCAA Baseball | 21388 | [21388-mvp-07-ncaa-baseball.json](./21388-mvp-07-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
