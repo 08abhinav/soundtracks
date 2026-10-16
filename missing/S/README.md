@@ -15413,7 +15413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 218366 | [218366-splatterhouse.json](./218366-splatterhouse.json) |
-| Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 2 | 46248 | [46248-splatterhouse-2.json](./46248-splatterhouse-2.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
