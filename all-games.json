@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:24:55.512Z",
-  "total_soundtracks": 1889,
+  "generated_at": "2026-10-16T06:25:09.592Z",
+  "total_soundtracks": 1890,
   "games": [
     {
       "igdb_id": 7522,
@@ -21723,6 +21723,20 @@
         {
           "album_name": "We Were Here Forever (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3lLs5B7BP4p15bJ5bQ345f",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 109535,
+      "game_name": "We Were Here Together",
+      "game_url": "https://ostdb.net/games/we-were-here-together",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cdf0225f37f6af235271fb4d",
+      "albums": [
+        {
+          "album_name": "We Were Here Together (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/07BbfF6rf2TQ2i2IpXY719",
           "apple_music_url": "",
           "album_link_url": ""
         }
