@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
+| Remnant: From the Ashes - Subject 2923 | 134829 | [134829-remnant-from-the-ashes-subject-2923.json](./134829-remnant-from-the-ashes-subject-2923.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
@@ -3894,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Prologue Mission | 405577 | [405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json](./405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json) |
 | Resident Evil: Operation Raccoon City - Special Edition | 41859 | [41859-resident-evil-operation-raccoon-city-special-edition.json](./41859-resident-evil-operation-raccoon-city-special-edition.json) |
+| Resident Evil: Origins Collection | 41862 | [41862-resident-evil-origins-collection.json](./41862-resident-evil-origins-collection.json) |
 | Resident Evil: Revelations | 150045 | [150045-resident-evil-revelations.json](./150045-resident-evil-revelations.json) |
 | Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
@@ -8315,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
+| Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
 | Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
 | Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
