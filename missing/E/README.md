@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Space | 16533 | [16533-edge-of-space.json](./16533-edge-of-space.json) |
 | Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
+| Edge of the Blade | 420005 | [420005-edge-of-the-blade.json](./420005-edge-of-the-blade.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
 | Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Pets: Virtual Reindeer | 95345 | [95345-elf-pets-virtual-reindeer.json](./95345-elf-pets-virtual-reindeer.json) |
 | Elf Shield | 279891 | [279891-elf-shield.json](./279891-elf-shield.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
+| Elf Tennis Club | 419881 | [419881-elf-tennis-club.json](./419881-elf-tennis-club.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
