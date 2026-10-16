@@ -6898,6 +6898,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
 | Playmobil Dinos | 344974 | [344974-playmobil-dinos.json](./344974-playmobil-dinos.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
+| Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
+| Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
@@ -11302,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gorgon - Extra Character Slots Pack | 316389 | [316389-project-gorgon-extra-character-slots-pack.json](./316389-project-gorgon-extra-character-slots-pack.json) |
 | Project: Halloween | 188935 | [188935-project-halloween.json](./188935-project-halloween.json) |
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
+| Project: Horned Owl | 20296 | [20296-project-horned-owl.json](./20296-project-horned-owl.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
 | Project: Island | 220168 | [220168-project-island.json](./220168-project-island.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
