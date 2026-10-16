@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | Mechanism | 251718 | [251718-mechanism.json](./251718-mechanism.json) |
+| Mechanism | 68169 | [68169-mechanism.json](./68169-mechanism.json) |
 | Mechanita | 328100 | [328100-mechanita.json](./328100-mechanita.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
@@ -7863,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
+| Mighty Flip Champs! | 29079 | [29079-mighty-flip-champs.json](./29079-mighty-flip-champs.json) |
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
 | Mighty Gemstones | 81982 | [81982-mighty-gemstones.json](./81982-mighty-gemstones.json) |
@@ -7999,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
+| Miles & Kilo | 76041 | [76041-miles-and-kilo.json](./76041-miles-and-kilo.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
 | Miles Between Us | 396122 | [396122-miles-between-us.json](./396122-miles-between-us.json) |
 | Miles Edgeworth: Ace Attorney - Shattered Glass | 303030 | [303030-miles-edgeworth-ace-attorney-shattered-glass.json](./303030-miles-edgeworth-ace-attorney-shattered-glass.json) |
@@ -8868,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
+| Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
@@ -9399,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 239489 | [239489-missile-command.json](./239489-missile-command.json) |
 | Missile Command | 245436 | [245436-missile-command.json](./245436-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
+| Missile Command | 69142 | [69142-missile-command.json](./69142-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missile Command: Delta | 335829 | [335829-missile-command-delta.json](./335829-missile-command-delta.json) |
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
@@ -10064,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
+| Modern Tales: Age of Invention | 74152 | [74152-modern-tales-age-of-invention.json](./74152-modern-tales-age-of-invention.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War | 59311 | [59311-modern-war.json](./59311-modern-war.json) |
@@ -11695,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
+| Morph Girl | 54443 | [54443-morph-girl.json](./54443-morph-girl.json) |
 | Morph King | 190911 | [190911-morph-king.json](./190911-morph-king.json) |
 | Morph Pong | 114240 | [114240-morph-pong.json](./114240-morph-pong.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
