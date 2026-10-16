@@ -10267,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
 | Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
+| Assassin's Creed III Remastered | 237701 | [237701-assassins-creed-iii-remastered.json](./237701-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Freedom Edition | 383009 | [383009-assassins-creed-iii-freedom-edition.json](./383009-assassins-creed-iii-freedom-edition.json) |
 | Assassin's Creed III: Join or Die Edition | 45117 | [45117-assassins-creed-iii-join-or-die-edition.json](./45117-assassins-creed-iii-join-or-die-edition.json) |
