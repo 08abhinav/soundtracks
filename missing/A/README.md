@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
+| A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
 | Ace of Hearts | 98902 | [98902-ace-of-hearts.json](./98902-ace-of-hearts.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
+| Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
@@ -5102,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Along Came a Spider: Valley of The Hollow | 314984 | [314984-along-came-a-spider-valley-of-the-hollow.json](./314984-along-came-a-spider-valley-of-the-hollow.json) |
 | Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
+| Along the Edge | 32136 | [32136-along-the-edge.json](./32136-along-the-edge.json) |
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
 | Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
