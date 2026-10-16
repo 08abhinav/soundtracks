@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
 | Zumba Blitz | 214661 | [214661-zumba-blitz.json](./214661-zumba-blitz.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
+| Zumba Fitness Core | 5307 | [5307-zumba-fitness-core.json](./5307-zumba-fitness-core.json) |
 | Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba Marble Blast | 309056 | [309056-zumba-marble-blast.json](./309056-zumba-marble-blast.json) |
