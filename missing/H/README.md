@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
+| Habroxia 2 | 141326 | [141326-habroxia-2.json](./141326-habroxia-2.json) |
 | Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellboy: Web of Wyrd - Collector's Edition | 287044 | [287044-hellboy-web-of-wyrd-collectors-edition.json](./287044-hellboy-web-of-wyrd-collectors-edition.json) |
+| Hellbreachers | 145888 | [145888-hellbreachers.json](./145888-hellbreachers.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellbridge | 399268 | [399268-hellbridge.json](./399268-hellbridge.json) |
