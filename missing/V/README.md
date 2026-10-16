@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Motions: Project Unleashed | 126887 | [126887-vega-motions-project-unleashed.json](./126887-vega-motions-project-unleashed.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
+| Vegas Bowling | 88840 | [88840-vegas-bowling.json](./88840-vegas-bowling.json) |
 | Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
