@@ -12282,7 +12282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
-| Awaria | 321629 | [321629-awaria.json](./321629-awaria.json) |
 | Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
