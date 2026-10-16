@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
+| Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
 | Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
+| Rockstar Games presents Table Tennis | 2541 | [2541-rockstar-games-presents-table-tennis.json](./2541-rockstar-games-presents-table-tennis.json) |
 | Rockstar Life | 192668 | [192668-rockstar-life.json](./192668-rockstar-life.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | RockTop | 252270 | [252270-rocktop.json](./252270-rocktop.json) |
