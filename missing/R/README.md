@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
 | Raptor Territory | 143449 | [143449-raptor-territory.json](./143449-raptor-territory.json) |
 | Raptor: Call of the Shadows - 2010 Edition | 51880 | [51880-raptor-call-of-the-shadows-2010-edition.json](./51880-raptor-call-of-the-shadows-2010-edition.json) |
+| Raptor: Call of the Shadows - 2015 Edition | 36115 | [36115-raptor-call-of-the-shadows-2015-edition.json](./36115-raptor-call-of-the-shadows-2015-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
 | Realms of Illusion: Sentinel | 25485 | [25485-realms-of-illusion-sentinel.json](./25485-realms-of-illusion-sentinel.json) |
 | Realms of Madness | 280261 | [280261-realms-of-madness.json](./280261-realms-of-madness.json) |
+| Realms of Magic | 76686 | [76686-realms-of-magic.json](./76686-realms-of-magic.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
