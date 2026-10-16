@@ -7196,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Toy Story | 228497 | [228497-disneys-toy-story.json](./228497-disneys-toy-story.json) |
 | Disney's Toy Story | 8020 | [8020-disneys-toy-story.json](./8020-disneys-toy-story.json) |
 | Disney's Treasure Planet | 144084 | [144084-disneys-treasure-planet.json](./144084-disneys-treasure-planet.json) |
+| Disney's Treasure Planet | 19248 | [19248-disneys-treasure-planet.json](./19248-disneys-treasure-planet.json) |
 | Disney's Treasure Planet | 49202 | [49202-disneys-treasure-planet.json](./49202-disneys-treasure-planet.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
@@ -10702,6 +10703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
+| DreadOut: Keepers of The Dark | 20179 | [20179-dreadout-keepers-of-the-dark.json](./20179-dreadout-keepers-of-the-dark.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
@@ -12971,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
+| DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
