@@ -6629,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
+| Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
