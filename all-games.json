@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:51:11.017Z",
-  "total_soundtracks": 1810,
+  "generated_at": "2026-10-16T05:51:23.341Z",
+  "total_soundtracks": 1811,
   "games": [
     {
       "igdb_id": 7522,
@@ -5221,6 +5221,20 @@
           "spotify_url": "https://open.spotify.com/album/6uvJvKD5z98wDl4haYoIMm",
           "apple_music_url": "https://music.apple.com/us/album/dishonored-death-of-the-outsider-original-game-soundtrack/1526283908",
           "album_link_url": "https://album.link/i/1526283908"
+        }
+      ]
+    },
+    {
+      "igdb_id": 198506,
+      "game_name": "Disney Dreamlight Valley",
+      "game_url": "https://ostdb.net/games/disney-dreamlight-valley",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273faa1acb9837f93b2f9123970",
+      "albums": [
+        {
+          "album_name": "Disney Dreamlight Valley (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5j8xgyQHFd4CbDnkdvCIew",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
