@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:37:39.262Z",
-  "total_missing": 219722,
+  "generated_at": "2026-10-16T14:45:38.718Z",
+  "total_missing": 219712,
   "games": [
     {
       "igdb_id": 191680,
@@ -246007,11 +246007,6 @@
       "file": "missing/D/41848-dissidia-duodecim-prologus-final-fantasy.json"
     },
     {
-      "igdb_id": 36831,
-      "game_name": "Dissidia Final Fantasy NT",
-      "file": "missing/D/36831-dissidia-final-fantasy-nt.json"
-    },
-    {
       "igdb_id": 386253,
       "game_name": "Dissidia Final Fantasy NT: Special Steelbook Edition",
       "file": "missing/D/386253-dissidia-final-fantasy-nt-special-steelbook-edition.json"
@@ -373907,11 +373902,6 @@
       "file": "missing/G/11857-god-eater-2-rage-burst.json"
     },
     {
-      "igdb_id": 28010,
-      "game_name": "God Eater 3",
-      "file": "missing/G/28010-god-eater-3.json"
-    },
-    {
       "igdb_id": 294702,
       "game_name": "God Eater 3: Collector's Edition",
       "file": "missing/G/294702-god-eater-3-collectors-edition.json"
@@ -380750,11 +380740,6 @@
       "igdb_id": 235162,
       "game_name": "Grand Hotel Mania",
       "file": "missing/G/235162-grand-hotel-mania.json"
-    },
-    {
-      "igdb_id": 19163,
-      "game_name": "Grand Kingdom",
-      "file": "missing/G/19163-grand-kingdom.json"
     },
     {
       "igdb_id": 89908,
@@ -580272,11 +580257,6 @@
       "file": "missing/M/105232-mischief-on-main-street.json"
     },
     {
-      "igdb_id": 17379,
-      "game_name": "Miscreated",
-      "file": "missing/M/17379-miscreated.json"
-    },
-    {
       "igdb_id": 171581,
       "game_name": "Miscreated: Canyonlands",
       "file": "missing/M/171581-miscreated-canyonlands.json"
@@ -591245,11 +591225,6 @@
       "igdb_id": 148888,
       "game_name": "MoonRun",
       "file": "missing/M/148888-moonrun.json"
-    },
-    {
-      "igdb_id": 22499,
-      "game_name": "Moons of Madness",
-      "file": "missing/M/22499-moons-of-madness.json"
     },
     {
       "igdb_id": 263204,
@@ -605490,11 +605465,6 @@
       "igdb_id": 97813,
       "game_name": "My Melody: Negai ga Kanau Fushigi na Hako",
       "file": "missing/M/97813-my-melody-negai-ga-kanau-fushigi-na-hako.json"
-    },
-    {
-      "igdb_id": 27192,
-      "game_name": "My Memory of Us",
-      "file": "missing/M/27192-my-memory-of-us.json"
     },
     {
       "igdb_id": 208366,
@@ -666035,11 +666005,6 @@
       "igdb_id": 388426,
       "game_name": "Paranormasight: The Mermaid's Curse",
       "file": "missing/P/388426-paranormasight-the-mermaids-curse.json"
-    },
-    {
-      "igdb_id": 236694,
-      "game_name": "Paranormasight: The Seven Mysteries of Honjo",
-      "file": "missing/P/236694-paranormasight-the-seven-mysteries-of-honjo.json"
     },
     {
       "igdb_id": 273828,
@@ -738695,11 +738660,6 @@
       "igdb_id": 90669,
       "game_name": "Real Racing 2 HD",
       "file": "missing/R/90669-real-racing-2-hd.json"
-    },
-    {
-      "igdb_id": 22179,
-      "game_name": "Real Racing 3",
-      "file": "missing/R/22179-real-racing-3.json"
     },
     {
       "igdb_id": 343794,
@@ -850602,11 +850562,6 @@
       "file": "missing/S/218366-splatterhouse.json"
     },
     {
-      "igdb_id": 6929,
-      "game_name": "Splatterhouse",
-      "file": "missing/S/6929-splatterhouse.json"
-    },
-    {
       "igdb_id": 7191,
       "game_name": "Splatterhouse",
       "file": "missing/S/7191-splatterhouse.json"
@@ -941485,11 +941440,6 @@
       "igdb_id": 190905,
       "game_name": "The Last Exterminator",
       "file": "missing/T/190905-the-last-exterminator.json"
-    },
-    {
-      "igdb_id": 133896,
-      "game_name": "The Last Faith",
-      "file": "missing/T/133896-the-last-faith.json"
     },
     {
       "igdb_id": 376704,
