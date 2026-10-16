@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Demons Shader Pack | 323385 | [323385-injustice-2-demons-shader-pack.json](./323385-injustice-2-demons-shader-pack.json) |
 | Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
 | Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
+| Injustice 2: Fighter Pack 3 | 75691 | [75691-injustice-2-fighter-pack-3.json](./75691-injustice-2-fighter-pack-3.json) |
 | Injustice 2: Gods Shader Pack | 323384 | [323384-injustice-2-gods-shader-pack.json](./323384-injustice-2-gods-shader-pack.json) |
 | Injustice 2: John Stewart | 323388 | [323388-injustice-2-john-stewart.json](./323388-injustice-2-john-stewart.json) |
 | Injustice 2: Legendary Edition | 95063 | [95063-injustice-2-legendary-edition.json](./95063-injustice-2-legendary-edition.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
 | Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
+| Insane Cold: Back to the Ice Age | 76664 | [76664-insane-cold-back-to-the-ice-age.json](./76664-insane-cold-back-to-the-ice-age.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insane Escape | 244322 | [244322-insane-escape.json](./244322-insane-escape.json) |
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
@@ -3965,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
 | Irmão Grande & Brasileiro | 144719 | [144719-irmao-grande-and-brasileiro.json](./144719-irmao-grande-and-brasileiro.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
+| Iro Hero | 76090 | [76090-iro-hero.json](./76090-iro-hero.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iromaze Ink Shop | 250244 | [250244-iromaze-ink-shop.json](./250244-iromaze-ink-shop.json) |
@@ -4106,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironwood Conquest | 367629 | [367629-ironwood-conquest.json](./367629-ironwood-conquest.json) |
 | Irony Curtain: From Matryoshka with Love | 106108 | [106108-irony-curtain-from-matryoshka-with-love.json](./106108-irony-curtain-from-matryoshka-with-love.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
+| Irony of Nightmare | 76540 | [76540-irony-of-nightmare.json](./76540-irony-of-nightmare.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irotoridori No Sekai: The Colorful World | 276652 | [276652-irotoridori-no-sekai-the-colorful-world.json](./276652-irotoridori-no-sekai-the-colorful-world.json) |
