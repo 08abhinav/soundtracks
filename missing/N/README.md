@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
+| NBA Ballers: Phenom | 5949 | [5949-nba-ballers-phenom.json](./5949-nba-ballers-phenom.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Basketball 2000 | 24114 | [24114-nba-basketball-2000.json](./24114-nba-basketball-2000.json) |
 | NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
+| Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
 | Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
@@ -5484,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 297167 | [297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
+| Nyra and the Garden of Moros | 424038 | [424038-nyra-and-the-garden-of-moros.json](./424038-nyra-and-the-garden-of-moros.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | Nyrthos | 120242 | [120242-nyrthos.json](./120242-nyrthos.json) |
 | Nysunder | 216975 | [216975-nysunder.json](./216975-nysunder.json) |
