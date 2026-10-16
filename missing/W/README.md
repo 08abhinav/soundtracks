@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
+| Wildlife Tycoon: Venture Africa | 91661 | [91661-wildlife-tycoon-venture-africa.json](./91661-wildlife-tycoon-venture-africa.json) |
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
 | Wildlife Zoo | 61441 | [61441-wildlife-zoo.json](./61441-wildlife-zoo.json) |
 | Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
