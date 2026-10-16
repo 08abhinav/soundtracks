@@ -3864,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Resistance | 122108 | [122108-resident-evil-resistance.json](./122108-resident-evil-resistance.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
+| Resident Evil Revelations Collection | 53790 | [53790-resident-evil-revelations-collection.json](./53790-resident-evil-revelations-collection.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
 | Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
 | Resident Evil Village & Resident Evil 7 Complete Bundle | 142813 | [142813-resident-evil-village-and-resident-evil-7-complete-bundle.json](./142813-resident-evil-village-and-resident-evil-7-complete-bundle.json) |
