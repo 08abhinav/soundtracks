@@ -2589,6 +2589,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
 | Mario Bros. | 131939 | [131939-mario-bros.json](./131939-mario-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
+| Mario Bros. | 192277 | [192277-mario-bros.json](./192277-mario-bros.json) |
+| Mario Bros. | 192917 | [192917-mario-bros.json](./192917-mario-bros.json) |
 | Mario Bros. | 192918 | [192918-mario-bros.json](./192918-mario-bros.json) |
 | Mario Bros. | 192919 | [192919-mario-bros.json](./192919-mario-bros.json) |
 | Mario Bros. | 192920 | [192920-mario-bros.json](./192920-mario-bros.json) |
@@ -3513,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
+| Mass Effect: Genesis | 202311 | [202311-mass-effect-genesis.json](./202311-mass-effect-genesis.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
 | Mass Effect: Limited Collector's Edition | 45179 | [45179-mass-effect-limited-collectors-edition.json](./45179-mass-effect-limited-collectors-edition.json) |
 | Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
@@ -5615,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
+| Megamania | 12312 | [12312-megamania.json](./12312-megamania.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | Megamedia's Megapak 3 | 113531 | [113531-megamedias-megapak-3.json](./113531-megamedias-megapak-3.json) |
 | MegaMegaEggs | 309484 | [309484-megamegaeggs.json](./309484-megamegaeggs.json) |
@@ -7807,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
 | Might and Magic II: Gates to Another World | 7734 | [7734-might-and-magic-ii-gates-to-another-world.json](./7734-might-and-magic-ii-gates-to-another-world.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
+| Might and Magic IX | 7741 | [7741-might-and-magic-ix.json](./7741-might-and-magic-ix.json) |
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic VII: For Blood and Honor | 7739 | [7739-might-and-magic-vii-for-blood-and-honor.json](./7739-might-and-magic-vii-for-blood-and-honor.json) |
@@ -11225,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
+| Monument Valley II: Panoramic Edition | 203388 | [203388-monument-valley-ii-panoramic-edition.json](./203388-monument-valley-ii-panoramic-edition.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
