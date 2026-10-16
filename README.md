@@ -1358,6 +1358,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273032278dd79f7273594f1a6a3" width="60" /> | [Trine](https://ostdb.net/games/trine) | **Trine Soundtrack** · [Spotify](https://open.spotify.com/album/4GtBf49nlE85eh3FCCfmFT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b09b430894fceb13914835fd" width="60" /> | [Trine 2](https://ostdb.net/games/trine-2) | **Trine 2 Soundtrack Special Edition** · [Spotify](https://open.spotify.com/album/5eioYQgcYJOfQhsxFjqV6a)<br>**Trine 2: Goblin Menace (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5azA00u9MDeXcBdBu2RXZZ) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/55/67/c4556739-224f-e7a6-56be-fd427742cbc7/artwork.jpg/600x600bb.jpg" width="60" /> | [Tropico 6](https://ostdb.net/games/tropico-6) | **Tropico 6, Vol. 1 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tropico-6-vol-1-original-game-soundtrack/1756969401?uo=4) · [Album](https://album.link/i/1756969401)<br>**Tropico 6, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tropico-6-vol-2-original-game-soundtrack/1767680159?uo=4) · [Album](https://album.link/i/1767680159)<br>**Tropico 6, Vol. 3 (Original Game Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/tropico-6-vol-3-original-game-soundtrack-ep/1767236858?uo=4) · [Album](https://album.link/i/1767236858) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ecba831ed7585b5b55ce19e1" width="60" /> | [Trover Saves the Universe](https://ostdb.net/games/trover-saves-the-universe) | **Trover Saves the Universe (Official Soundtrack) [Deluxe Edition]** · [Spotify](https://open.spotify.com/album/6GJQ4mCR4OXIlWm0QDOcIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736682939ddefafa4ca0841e94" width="60" /> | [Tunic](https://ostdb.net/games/tunic) | **Tunic (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f1d37fb81ab36539d951d3" width="60" /> | [Turmoil](https://ostdb.net/games/turmoil) | **Turmoil (The Original Soundtrack)** · [Spotify](https://open.spotify.com/album/04oGvmw6mLF1TCFP9yk6Fb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739de84199defda845906bd96e" width="60" /> | [Twelve Minutes](https://ostdb.net/games/twelve-minutes) | **Twelve Minutes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4iQp0T3hWqb5XUnHG6Uh8t) |
@@ -1503,4 +1504,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1820 soundtracks · last updated 2026-10-16T05:53:26.834Z_
+_1821 soundtracks · last updated 2026-10-16T05:53:40.711Z_
