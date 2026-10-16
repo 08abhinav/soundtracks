@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
+| Need for Speed: Most Wanted - Black Edition | 43492 | [43492-need-for-speed-most-wanted-black-edition.json](./43492-need-for-speed-most-wanted-black-edition.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 96 | 299310 | [299310-nhl-96.json](./299310-nhl-96.json) |
 | NHL 96 | 299311 | [299311-nhl-96.json](./299311-nhl-96.json) |
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
+| NHL 99 | 3561 | [3561-nhl-99.json](./3561-nhl-99.json) |
 | NHL All-Star Hockey | 19732 | [19732-nhl-all-star-hockey.json](./19732-nhl-all-star-hockey.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
@@ -4140,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Time Left | 397935 | [397935-no-time-left.json](./397935-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Time to Explain | 9560 | [9560-no-time-to-explain.json](./9560-no-time-to-explain.json) |
+| No Time to Explain: Remastered | 35289 | [35289-no-time-to-explain-remastered.json](./35289-no-time-to-explain-remastered.json) |
 | No Time to Live | 34550 | [34550-no-time-to-live.json](./34550-no-time-to-live.json) |
 | No Time to Relax | 111370 | [111370-no-time-to-relax.json](./111370-no-time-to-relax.json) |
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
