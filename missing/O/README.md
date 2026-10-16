@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Katamari: Katamari Damacy Series Neo Remixes | 377266 | [377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json](./377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
+| Once Upon A Knight | 24098 | [24098-once-upon-a-knight.json](./24098-once-upon-a-knight.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
@@ -3418,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
 | Out Live: It's Far a Future on Planet | 37666 | [37666-out-live-its-far-a-future-on-planet.json](./37666-out-live-its-far-a-future-on-planet.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
+| Out of Ammo | 23990 | [23990-out-of-ammo.json](./23990-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
 | Out of Bounds | 204817 | [204817-out-of-bounds.json](./204817-out-of-bounds.json) |
