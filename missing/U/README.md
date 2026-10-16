@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
 | Ultrafun | 211908 | [211908-ultrafun.json](./211908-ultrafun.json) |
+| UltraGoodness | 36966 | [36966-ultragoodness.json](./36966-ultragoodness.json) |
 | UltraGoodness 2 | 121539 | [121539-ultragoodness-2.json](./121539-ultragoodness-2.json) |
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untime | 372040 | [372040-untime.json](./372040-untime.json) |
 | Untitled | 186022 | [186022-untitled.json](./186022-untitled.json) |
 | Untitled | 218540 | [218540-untitled.json](./218540-untitled.json) |
+| Untitled | 37015 | [37015-untitled.json](./37015-untitled.json) |
 | Untitled Block Platformer | 218384 | [218384-untitled-block-platformer.json](./218384-untitled-block-platformer.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
