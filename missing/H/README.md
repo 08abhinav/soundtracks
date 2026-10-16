@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
+| Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
 | Honey Select Unlimited | 108930 | [108930-honey-select-unlimited.json](./108930-honey-select-unlimited.json) |
@@ -8092,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Shark Evolution | 62032 | [62032-hungry-shark-evolution.json](./62032-hungry-shark-evolution.json) |
 | Hungry Shark Heroes | 300682 | [300682-hungry-shark-heroes.json](./300682-hungry-shark-heroes.json) |
 | Hungry Shark VR | 300681 | [300681-hungry-shark-vr.json](./300681-hungry-shark-vr.json) |
+| Hungry Shark World | 58597 | [58597-hungry-shark-world.json](./58597-hungry-shark-world.json) |
 | Hungry Shark: Night | 300680 | [300680-hungry-shark-night.json](./300680-hungry-shark-night.json) |
 | Hungry Shark: Part 1 | 300676 | [300676-hungry-shark-part-1.json](./300676-hungry-shark-part-1.json) |
 | Hungry Shark: Part 2 | 300678 | [300678-hungry-shark-part-2.json](./300678-hungry-shark-part-2.json) |
