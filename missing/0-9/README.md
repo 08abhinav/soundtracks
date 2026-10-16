@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Golden Warrior | 77216 | [77216-3d-golden-warrior.json](./77216-3d-golden-warrior.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
+| 3D Hardcore Cube | 55329 | [55329-3d-hardcore-cube.json](./55329-3d-hardcore-cube.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hentai Puzzle | 163558 | [163558-3d-hentai-puzzle.json](./163558-3d-hentai-puzzle.json) |
