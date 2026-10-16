@@ -8669,7 +8669,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
 | Command & Conquer 3: Tiberium Wars - Kane Edition | 207005 | [207005-command-and-conquer-3-tiberium-wars-kane-edition.json](./207005-command-and-conquer-3-tiberium-wars-kane-edition.json) |
 | Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
-| Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
