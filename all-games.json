@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:12:34.938Z",
-  "total_soundtracks": 1869,
+  "generated_at": "2026-10-16T06:12:47.715Z",
+  "total_soundtracks": 1870,
   "games": [
     {
       "igdb_id": 7522,
@@ -16113,6 +16113,20 @@
         {
           "album_name": "Shadowrun: Dragonfall (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5eXv3ICWOJBZhIMNe6QkIe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11772,
+      "game_name": "Shadowrun: Hong Kong",
+      "game_url": "https://ostdb.net/games/shadowrun-hong-kong",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a81471a33149aac109d76b73",
+      "albums": [
+        {
+          "album_name": "Shadowrun: Hong Kong (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2cPhBpK0IFYL75OP2mDT3e",
           "apple_music_url": "",
           "album_link_url": ""
         }
