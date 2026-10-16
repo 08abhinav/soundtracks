@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:48:57.515Z",
-  "total_soundtracks": 1802,
+  "generated_at": "2026-10-16T05:49:11.784Z",
+  "total_soundtracks": 1803,
   "games": [
     {
       "igdb_id": 7522,
@@ -18858,6 +18858,20 @@
           "album_name": "Monkey Island Theme (From \"The Secret of Monkey Island\") [Tavern Version]",
           "spotify_url": "https://open.spotify.com/album/0ET5NuhF5WJpuRxuTVpC9N",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1064,
+      "game_name": "The Secret World",
+      "game_url": "https://ostdb.net/games/the-secret-world",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fa7a98fcd2c59e610ecea06",
+      "albums": [
+        {
+          "album_name": "The Secret World (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6ZKnjYquFoDtuIdtpnrg0k",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
