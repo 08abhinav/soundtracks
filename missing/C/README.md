@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauldrons of War: Stalingrad | 169145 | [169145-cauldrons-of-war-stalingrad.json](./169145-cauldrons-of-war-stalingrad.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
+| Causa: Into the Dusk | 417958 | [417958-causa-into-the-dusk.json](./417958-causa-into-the-dusk.json) |
 | Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
 | Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
