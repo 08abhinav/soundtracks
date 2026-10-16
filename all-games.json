@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:31:57.397Z",
-  "total_soundtracks": 1898,
+  "generated_at": "2026-10-16T06:32:14.276Z",
+  "total_soundtracks": 1899,
   "games": [
     {
       "igdb_id": 7522,
@@ -18692,6 +18692,20 @@
           "album_name": "The Alters (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ioR5U3lseaIqK7ligASmi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25935,
+      "game_name": "The Artful Escape",
+      "game_url": "https://ostdb.net/games/the-artful-escape",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a70c43e90ad2313cfabc7526",
+      "albums": [
+        {
+          "album_name": "The Artful Escape (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1D3nnNOHSUnzizbcOZJkZ2",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
