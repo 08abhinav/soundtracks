@@ -6986,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive 'N' Wrench: Collector's Edition | 222955 | [222955-clive-n-wrench-collectors-edition.json](./222955-clive-n-wrench-collectors-edition.json) |
+| Clive Barker's Hellraiser: Revival | 356552 | [356552-clive-barkers-hellraiser-revival.json](./356552-clive-barkers-hellraiser-revival.json) |
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive Barker's Undying | 636 | [636-clive-barkers-undying.json](./636-clive-barkers-undying.json) |
@@ -10724,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Catch | 352355 | [352355-cozy-catch.json](./352355-cozy-catch.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
+| Cozy Cleaner | 393392 | [393392-cozy-cleaner.json](./393392-cozy-cleaner.json) |
 | Cozy Cleanup | 407203 | [407203-cozy-cleanup.json](./407203-cozy-cleanup.json) |
 | Cozy Climbing Game | 364976 | [364976-cozy-climbing-game.json](./364976-cozy-climbing-game.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
@@ -11179,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crat Strat's Sonic 1 Hack | 332648 | [332648-crat-strats-sonic-1-hack.json](./332648-crat-strats-sonic-1-hack.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
+| Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
