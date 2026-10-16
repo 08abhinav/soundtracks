@@ -119,7 +119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
 | F.H. Memento: Playground | 95931 | [95931-f-h-memento-playground.json](./95931-f-h-memento-playground.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
-| F.I.S.T.: Forged In Shadow Torch | 115851 | [115851-f-i-s-t-forged-in-shadow-torch.json](./115851-f-i-s-t-forged-in-shadow-torch.json) |
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
@@ -2669,7 +2668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat | 200368 | [200368-felix-the-cat.json](./200368-felix-the-cat.json) |
 | Felix the Cat | 240932 | [240932-felix-the-cat.json](./240932-felix-the-cat.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
-| Felix the Cat | 8449 | [8449-felix-the-cat.json](./8449-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felix the Cat's Giant Electronic Comic Book | 200374 | [200374-felix-the-cats-giant-electronic-comic-book.json](./200374-felix-the-cats-giant-electronic-comic-book.json) |
@@ -4869,7 +4867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
-| Five Nights at Freddy's: Security Breach | 138933 | [138933-five-nights-at-freddys-security-breach.json](./138933-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
@@ -8921,7 +8918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB Oceanblock | 234178 | [234178-ftb-oceanblock.json](./234178-ftb-oceanblock.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTD2 | 147180 | [147180-ftd2.json](./147180-ftd2.json) |
-| FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
