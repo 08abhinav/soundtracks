@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
+| Cat Music Chaos | 419335 | [419335-cat-music-chaos.json](./419335-cat-music-chaos.json) |
 | Cat N Can | 223366 | [223366-cat-n-can.json](./223366-cat-n-can.json) |
 | Cat Named Mojave | 342774 | [342774-cat-named-mojave.json](./342774-cat-named-mojave.json) |
 | Cat Named Spirit | 254567 | [254567-cat-named-spirit.json](./254567-cat-named-spirit.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiaroscuro Lovers | 411772 | [411772-chiaroscuro-lovers.json](./411772-chiaroscuro-lovers.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chiasm | 149482 | [149482-chiasm.json](./149482-chiasm.json) |
+| Chiasmus | 419336 | [419336-chiasmus.json](./419336-chiasmus.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Akuma's | 112263 | [112263-chibi-akumas.json](./112263-chibi-akumas.json) |
 | Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
@@ -8609,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
 | Combat II Advanced | 70301 | [70301-combat-ii-advanced.json](./70301-combat-ii-advanced.json) |
+| Combat in the Void | 419328 | [419328-combat-in-the-void.json](./419328-combat-in-the-void.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
 | Combat Instinct | 74232 | [74232-combat-instinct.json](./74232-combat-instinct.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
@@ -12221,6 +12224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
+| Cronus' Tomb: First Quest | 419368 | [419368-cronus-tomb-first-quest.json](./419368-cronus-tomb-first-quest.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
