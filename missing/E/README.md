@@ -4520,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
+| EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
 | EVE: War of Ascension | 74277 | [74277-eve-war-of-ascension.json](./74277-eve-war-of-ascension.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
