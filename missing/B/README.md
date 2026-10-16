@@ -629,7 +629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
-| Bad End Theater | 178264 | [178264-bad-end-theater.json](./178264-bad-end-theater.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
@@ -1917,7 +1916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
 | Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
-| Barnyard | 3794 | [3794-barnyard.json](./3794-barnyard.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
@@ -2321,7 +2319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
-| Baten Kaitos: Eternal Wings and the Lost Ocean | 3795 | [3795-baten-kaitos-eternal-wings-and-the-lost-ocean.json](./3795-baten-kaitos-eternal-wings-and-the-lost-ocean.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
