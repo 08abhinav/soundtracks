@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Talk Stories: Dreamwalker | 345852 | [345852-tavern-talk-stories-dreamwalker.json](./345852-tavern-talk-stories-dreamwalker.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
 | Tavern Timer | 406886 | [406886-tavern-timer.json](./406886-tavern-timer.json) |
+| Tavern Tycoon | 33603 | [33603-tavern-tycoon.json](./33603-tavern-tycoon.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | Tavern Ventures: Guilds & Tales | 298163 | [298163-tavern-ventures-guilds-and-tales.json](./298163-tavern-ventures-guilds-and-tales.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
 | Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
+| Teen Titans | 4195 | [4195-teen-titans.json](./4195-teen-titans.json) |
 | Teen Titans 2 | 49214 | [49214-teen-titans-2.json](./49214-teen-titans-2.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
@@ -2451,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 326787 | [326787-teenage-mutant-ninja-turtles-smash-up.json](./326787-teenage-mutant-ninja-turtles-smash-up.json) |
+| Teenage Mutant Ninja Turtles: Smash-Up | 5214 | [5214-teenage-mutant-ninja-turtles-smash-up.json](./5214-teenage-mutant-ninja-turtles-smash-up.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Casey Jones & the Junkyard Jam | 329839 | [329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json](./329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
@@ -8301,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Door | 9072 | [9072-the-last-door.json](./9072-the-last-door.json) |
 | The Last Door on the Left | 177314 | [177314-the-last-door-on-the-left.json](./177314-the-last-door-on-the-left.json) |
+| The Last Door: Collector's Edition | 36443 | [36443-the-last-door-collectors-edition.json](./36443-the-last-door-collectors-edition.json) |
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
@@ -8551,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
+| The Lawnmower Man | 5397 | [5397-the-lawnmower-man.json](./5397-the-lawnmower-man.json) |
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
 | The Lawyer: Episode 1 - The White Bag | 204848 | [204848-the-lawyer-episode-1-the-white-bag.json](./204848-the-lawyer-episode-1-the-white-bag.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
@@ -13189,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
+| The Whispered World: Special Edition | 30377 | [30377-the-whispered-world-special-edition.json](./30377-the-whispered-world-special-edition.json) |
 | The Whisperer | 161600 | [161600-the-whisperer.json](./161600-the-whisperer.json) |
 | The Whisperer | 240127 | [240127-the-whisperer.json](./240127-the-whisperer.json) |
 | The Whisperer in Darkness | 33700 | [33700-the-whisperer-in-darkness.json](./33700-the-whisperer-in-darkness.json) |
@@ -15740,10 +15746,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 08 | 5221 | [5221-tiger-woods-pga-tour-08.json](./5221-tiger-woods-pga-tour-08.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
+| Tiger Woods PGA Tour 10 | 5223 | [5223-tiger-woods-pga-tour-10.json](./5223-tiger-woods-pga-tour-10.json) |
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
 | Tiger Woods PGA Tour 12 | 5225 | [5225-tiger-woods-pga-tour-12.json](./5225-tiger-woods-pga-tour-12.json) |
 | Tiger Woods PGA Tour 13 | 5226 | [5226-tiger-woods-pga-tour-13.json](./5226-tiger-woods-pga-tour-13.json) |
 | Tiger Woods PGA Tour 13: Masters Collector's Edition | 47419 | [47419-tiger-woods-pga-tour-13-masters-collectors-edition.json](./47419-tiger-woods-pga-tour-13-masters-collectors-edition.json) |
+| Tiger Woods PGA Tour 14 | 5227 | [5227-tiger-woods-pga-tour-14.json](./5227-tiger-woods-pga-tour-14.json) |
 | Tiger Woods PGA Tour 14: Masters Historic Edition | 21694 | [21694-tiger-woods-pga-tour-14-masters-historic-edition.json](./21694-tiger-woods-pga-tour-14-masters-historic-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2000 | 8811 | [8811-tiger-woods-pga-tour-2000.json](./8811-tiger-woods-pga-tour-2000.json) |
