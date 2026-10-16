@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Treasure Cruise | 18376 | [18376-one-piece-treasure-cruise.json](./18376-one-piece-treasure-cruise.json) |
 | One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
 | One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
+| One Piece: Unlimited Cruise 2 - Awakening of a Hero | 21117 | [21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json](./21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json) |
 | One Piece: Unlimited Cruise SP | 22875 | [22875-one-piece-unlimited-cruise-sp.json](./22875-one-piece-unlimited-cruise-sp.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
 | Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
+| Overwatch: Game of the Year Edition | 21229 | [21229-overwatch-game-of-the-year-edition.json](./21229-overwatch-game-of-the-year-edition.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
 | Overwatch: Reign of Talon - Season 1: Conquest | 388391 | [388391-overwatch-reign-of-talon-season-1-conquest.json](./388391-overwatch-reign-of-talon-season-1-conquest.json) |
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
