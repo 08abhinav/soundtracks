@@ -14917,6 +14917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3: Collector's Edition | 21616 | [21616-spider-man-3-collectors-edition.json](./21616-spider-man-3-collectors-edition.json) |
 | Spider-Man 3: Escape the Sandman | 245399 | [245399-spider-man-3-escape-the-sandman.json](./245399-spider-man-3-escape-the-sandman.json) |
 | Spider-Man 3: High-Rise Hysteria | 245398 | [245398-spider-man-3-high-rise-hysteria.json](./245398-spider-man-3-high-rise-hysteria.json) |
+| Spider-Man 3: Invasion of Spider-Slayers | 48926 | [48926-spider-man-3-invasion-of-spider-slayers.json](./48926-spider-man-3-invasion-of-spider-slayers.json) |
 | Spider-Man 3: The Goblin Strikes! | 245397 | [245397-spider-man-3-the-goblin-strikes.json](./245397-spider-man-3-the-goblin-strikes.json) |
 | Spider-Man 3: Trio of Terror | 245396 | [245396-spider-man-3-trio-of-terror.json](./245396-spider-man-3-trio-of-terror.json) |
 | Spider-Man 3: Vigilante Vengeance | 245395 | [245395-spider-man-3-vigilante-vengeance.json](./245395-spider-man-3-vigilante-vengeance.json) |
@@ -20630,6 +20631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp | 47189 | [47189-summer-camp.json](./47189-summer-camp.json) |
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '92 Alzadick | 56374 | [56374-summer-carnival-92-alzadick.json](./56374-summer-carnival-92-alzadick.json) |
+| Summer Carnival '92: Recca | 48642 | [48642-summer-carnival-92-recca.json](./48642-summer-carnival-92-recca.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Catchers | 106435 | [106435-summer-catchers.json](./106435-summer-catchers.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
@@ -24622,6 +24624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
+| Sword With Sauce | 29725 | [29725-sword-with-sauce.json](./29725-sword-with-sauce.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Sword World VR | 372808 | [372808-sword-world-vr.json](./372808-sword-world-vr.json) |
