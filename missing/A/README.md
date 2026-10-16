@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
+| Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
 | Adult Puzzle: My Pretty Neighbor Chloe | 270861 | [270861-adult-puzzle-my-pretty-neighbor-chloe.json](./270861-adult-puzzle-my-pretty-neighbor-chloe.json) |
 | Adult Puzzles: CamGirls | 286454 | [286454-adult-puzzles-camgirls.json](./286454-adult-puzzles-camgirls.json) |
@@ -12260,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
+| Away From Earth: Moon | 113561 | [113561-away-from-earth-moon.json](./113561-away-from-earth-moon.json) |
 | Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
