@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltrator | 26455 | [26455-infiltrator.json](./26455-infiltrator.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
+| Infini | 122650 | [122650-infini.json](./122650-infini.json) |
 | Infini Orbis | 376860 | [376860-infini-orbis.json](./376860-infini-orbis.json) |
 | Infini: #InfiniPrison | 170440 | [170440-infini-infiniprison.json](./170440-infini-infiniprison.json) |
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
