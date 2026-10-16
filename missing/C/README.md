@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
+| Captain Blood | 11989 | [11989-captain-blood.json](./11989-captain-blood.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
@@ -9508,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
 | Contra | 186207 | [186207-contra.json](./186207-contra.json) |
+| Contra | 186208 | [186208-contra.json](./186208-contra.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra | 217544 | [217544-contra.json](./217544-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
@@ -10833,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack a Pack | 413193 | [413193-crack-a-pack.json](./413193-crack-a-pack.json) |
+| Crack Down | 12015 | [12015-crack-down.json](./12015-crack-down.json) |
 | Crack in the Dark | 389464 | [389464-crack-in-the-dark.json](./389464-crack-in-the-dark.json) |
 | Crack in the Sky | 271216 | [271216-crack-in-the-sky.json](./271216-crack-in-the-sky.json) |
 | Crack it Up! | 302384 | [302384-crack-it-up.json](./302384-crack-it-up.json) |
@@ -12849,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS Manager | 404337 | [404337-cs-manager.json](./404337-cs-manager.json) |
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CS-VR | 371401 | [371401-cs-vr.json](./371401-cs-vr.json) |
+| CS2D | 180339 | [180339-cs2d.json](./180339-cs2d.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
