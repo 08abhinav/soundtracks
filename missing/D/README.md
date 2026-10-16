@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
+| Death Coming | 77550 | [77550-death-coming.json](./77550-death-coming.json) |
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
 | Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
@@ -9827,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - Return to Ostagar | 22975 | [22975-dragon-age-origins-return-to-ostagar.json](./22975-dragon-age-origins-return-to-ostagar.json) |
+| Dragon Age: Origins - The Golems of Amgarrak | 120314 | [120314-dragon-age-origins-the-golems-of-amgarrak.json](./120314-dragon-age-origins-the-golems-of-amgarrak.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Age: Origins - Ultimate Edition | 27911 | [27911-dragon-age-origins-ultimate-edition.json](./27911-dragon-age-origins-ultimate-edition.json) |
 | Dragon Age: Origins - Warden's Keep | 17466 | [17466-dragon-age-origins-wardens-keep.json](./17466-dragon-age-origins-wardens-keep.json) |
