@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
+| One Piece: World Seeker | 76742 | [76742-one-piece-world-seeker.json](./76742-one-piece-world-seeker.json) |
 | One Piece: World Seeker - Deluxe Edition | 121417 | [121417-one-piece-world-seeker-deluxe-edition.json](./121417-one-piece-world-seeker-deluxe-edition.json) |
 | One Piece: World Seeker - The Pirate King Edition | 166282 | [166282-one-piece-world-seeker-the-pirate-king-edition.json](./166282-one-piece-world-seeker-the-pirate-king-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
