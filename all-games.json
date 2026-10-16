@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:33:29.483Z",
-  "total_soundtracks": 1756,
+  "generated_at": "2026-10-16T05:33:42.187Z",
+  "total_soundtracks": 1757,
   "games": [
     {
       "igdb_id": 7522,
@@ -12765,6 +12765,20 @@
         {
           "album_name": "Onimusha: Warlords (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Xfhs2fSndWIkTlEFHr8sq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134822,
+      "game_name": "Operation: Tango",
+      "game_url": "https://ostdb.net/games/operation-tango",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ff73aff3a8e3916bea66a88c",
+      "albums": [
+        {
+          "album_name": "Operation Tango Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7M6UQir2d07cvQXWpIMryt",
           "apple_music_url": "",
           "album_link_url": ""
         }
