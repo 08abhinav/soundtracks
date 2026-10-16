@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
 | Mega Man X Innocent Impulse | 247090 | [247090-mega-man-x-innocent-impulse.json](./247090-mega-man-x-innocent-impulse.json) |
+| Mega Man X Legacy Collection 2 | 96254 | [96254-mega-man-x-legacy-collection-2.json](./96254-mega-man-x-legacy-collection-2.json) |
 | Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
@@ -8943,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
+| Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
@@ -13491,6 +13493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Quiz | 131282 | [131282-music-quiz.json](./131282-music-quiz.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
 | Music Quiz Party | 173105 | [173105-music-quiz-party.json](./173105-music-quiz-party.json) |
+| Music Racer | 105237 | [105237-music-racer.json](./105237-music-racer.json) |
 | Music Racer 2000 | 167568 | [167568-music-racer-2000.json](./167568-music-racer-2000.json) |
 | Music Racer: Ultimate | 193667 | [193667-music-racer-ultimate.json](./193667-music-racer-ultimate.json) |
 | Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
@@ -13569,6 +13572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Football League: Diami Krakens | 226704 | [226704-mutant-football-league-diami-krakens.json](./226704-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Diami Krakens | 227388 | [227388-mutant-football-league-diami-krakens.json](./227388-mutant-football-league-diami-krakens.json) |
+| Mutant Football League: Dynasty Edition | 104819 | [104819-mutant-football-league-dynasty-edition.json](./104819-mutant-football-league-dynasty-edition.json) |
 | Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
 | Mutant Football League: Gnashville Lycans | 154929 | [154929-mutant-football-league-gnashville-lycans.json](./154929-mutant-football-league-gnashville-lycans.json) |
@@ -13615,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
+| Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
