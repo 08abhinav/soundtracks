@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
+| Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
 | Killer Instinct Gold | 10613 | [10613-killer-instinct-gold.json](./10613-killer-instinct-gold.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
+| Killer Instinct: Season 3 | 11546 | [11546-killer-instinct-season-3.json](./11546-killer-instinct-season-3.json) |
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
 | Killer Island | 358984 | [358984-killer-island.json](./358984-killer-island.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
@@ -3258,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
 | Knights of the Round | 6816 | [6816-knights-of-the-round.json](./6816-knights-of-the-round.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
+| Knights of the Sky | 12167 | [12167-knights-of-the-sky.json](./12167-knights-of-the-sky.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
 | Knights of the Throne | 249927 | [249927-knights-of-the-throne.json](./249927-knights-of-the-throne.json) |
 | Knights of the Tiny Table | 178403 | [178403-knights-of-the-tiny-table.json](./178403-knights-of-the-tiny-table.json) |
@@ -3490,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
+| Koihime Enbu | 13198 | [13198-koihime-enbu.json](./13198-koihime-enbu.json) |
 | Koihime Enbu RyoRaiRai | 104257 | [104257-koihime-enbu-ryorairai.json](./104257-koihime-enbu-ryorairai.json) |
 | Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
@@ -3704,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
+| Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
