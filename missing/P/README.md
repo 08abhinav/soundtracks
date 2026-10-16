@@ -5385,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
 | Pistol Daimyo no Bouken | 40089 | [40089-pistol-daimyo-no-bouken.json](./40089-pistol-daimyo-no-bouken.json) |
 | Pistol shooting: Realistic gun simulator | 164074 | [164074-pistol-shooting-realistic-gun-simulator.json](./164074-pistol-shooting-realistic-gun-simulator.json) |
+| Pistol Whip | 119341 | [119341-pistol-whip.json](./119341-pistol-whip.json) |
 | Pistola | 202750 | [202750-pistola.json](./202750-pistola.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
 | Pit & Run | 40402 | [40402-pit-and-run.json](./40402-pit-and-run.json) |
@@ -9333,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
 | Power Rangers Time Force and Power Rangers Ninja Storm | 136206 | [136206-power-rangers-time-force-and-power-rangers-ninja-storm.json](./136206-power-rangers-time-force-and-power-rangers-ninja-storm.json) |
 | Power Rangers Zeo: Battle Racers | 3295 | [3295-power-rangers-zeo-battle-racers.json](./3295-power-rangers-zeo-battle-racers.json) |
+| Power Rangers: Battle for the Grid | 114032 | [114032-power-rangers-battle-for-the-grid.json](./114032-power-rangers-battle-for-the-grid.json) |
 | Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
 | Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
 | Power Rangers: Battle for the Grid - Chun-Li Blue Phoenix Ranger | 167793 | [167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json](./167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json) |
@@ -12421,6 +12423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
+| Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Birds | 175645 | [175645-puzzle-art-birds.json](./175645-puzzle-art-birds.json) |
