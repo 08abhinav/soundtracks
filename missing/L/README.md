@@ -4736,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 69179 | [69179-lode-runner.json](./69179-lode-runner.json) |
 | Lode Runner - Teikoku Karano Dasshutsu | 40081 | [40081-lode-runner-teikoku-karano-dasshutsu.json](./40081-lode-runner-teikoku-karano-dasshutsu.json) |
 | Lode Runner 2 | 73760 | [73760-lode-runner-2.json](./73760-lode-runner-2.json) |
+| Lode Runner 3-D | 3372 | [3372-lode-runner-3-d.json](./3372-lode-runner-3-d.json) |
 | Lode Runner Classic | 64881 | [64881-lode-runner-classic.json](./64881-lode-runner-classic.json) |
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
