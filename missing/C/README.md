@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
 | Castlevania: Lords of Shadow Collection | 21877 | [21877-castlevania-lords-of-shadow-collection.json](./21877-castlevania-lords-of-shadow-collection.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
+| Castlevania: Moonlight Rhapsody | 421838 | [421838-castlevania-moonlight-rhapsody.json](./421838-castlevania-moonlight-rhapsody.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Order of Shadows | 1140 | [1140-castlevania-order-of-shadows.json](./1140-castlevania-order-of-shadows.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
@@ -10453,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Run | 106100 | [106100-cosmo-run.json](./106100-cosmo-run.json) |
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
+| Cosmo Solitaire 4: Edge of the Galaxy | 421790 | [421790-cosmo-solitaire-4-edge-of-the-galaxy.json](./421790-cosmo-solitaire-4-edge-of-the-galaxy.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
 | Cosmo-s | 240860 | [240860-cosmo-s.json](./240860-cosmo-s.json) |
