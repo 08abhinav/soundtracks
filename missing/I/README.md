@@ -3842,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigator Trials | 289229 | [289229-investigator-trials.json](./289229-investigator-trials.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
+| Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
 | Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
