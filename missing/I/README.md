@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoge Hero | 379573 | [379573-isoge-hero.json](./379573-isoge-hero.json) |
 | Isoge! Doraemon | 385850 | [385850-isoge-doraemon.json](./385850-isoge-doraemon.json) |
 | Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
+| Isoland 2: Ashes of Time | 99606 | [99606-isoland-2-ashes-of-time.json](./99606-isoland-2-ashes-of-time.json) |
 | Isoland 3: Dust of the Universe | 130096 | [130096-isoland-3-dust-of-the-universe.json](./130096-isoland-3-dust-of-the-universe.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
