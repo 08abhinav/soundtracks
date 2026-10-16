@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
+| Jewel Match | 88713 | [88713-jewel-match.json](./88713-jewel-match.json) |
 | Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
 | Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
 | Jewel Match Aquascapes: Collector's Edition | 244845 | [244845-jewel-match-aquascapes-collectors-edition.json](./244845-jewel-match-aquascapes-collectors-edition.json) |
