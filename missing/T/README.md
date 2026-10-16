@@ -18218,7 +18218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
-| Total War: Three Kingdoms | 80961 | [80961-total-war-three-kingdoms.json](./80961-total-war-three-kingdoms.json) |
 | Total War: Three Kingdoms - A World Betrayed | 167647 | [167647-total-war-three-kingdoms-a-world-betrayed.json](./167647-total-war-three-kingdoms-a-world-betrayed.json) |
 | Total War: Three Kingdoms - Eight Princes | 167640 | [167640-total-war-three-kingdoms-eight-princes.json](./167640-total-war-three-kingdoms-eight-princes.json) |
 | Total War: Three Kingdoms - Reign of Blood | 167645 | [167645-total-war-three-kingdoms-reign-of-blood.json](./167645-total-war-three-kingdoms-reign-of-blood.json) |
@@ -21359,7 +21358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
 | Trials of Mana | 11227 | [11227-trials-of-mana.json](./11227-trials-of-mana.json) |
-| Trials of Mana | 119391 | [119391-trials-of-mana.json](./119391-trials-of-mana.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
