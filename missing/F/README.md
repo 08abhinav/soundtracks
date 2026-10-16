@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Brave Exvius | 19334 | [19334-final-fantasy-brave-exvius.json](./19334-final-fantasy-brave-exvius.json) |
 | Final Fantasy: Crystal Chronicles | 412 | [412-final-fantasy-crystal-chronicles.json](./412-final-fantasy-crystal-chronicles.json) |
+| Final Fantasy: Crystal Chronicles - Echoes of Time | 23016 | [23016-final-fantasy-crystal-chronicles-echoes-of-time.json](./23016-final-fantasy-crystal-chronicles-echoes-of-time.json) |
 | Final Fantasy: Crystal Chronicles - My Life as a King | 21054 | [21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json](./21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json) |
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - Ring of Fates | 9585 | [9585-final-fantasy-crystal-chronicles-ring-of-fates.json](./9585-final-fantasy-crystal-chronicles-ring-of-fates.json) |
