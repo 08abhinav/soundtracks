@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap and Battery | 284297 | [284297-scrap-and-battery.json](./284297-scrap-and-battery.json) |
+| Scrap Ascent | 423274 | [423274-scrap-ascent.json](./423274-scrap-ascent.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
@@ -9966,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
+| Smash Their Heads | 423272 | [423272-smash-their-heads.json](./423272-smash-their-heads.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
@@ -11765,6 +11767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
 | Son of a Witch | 102107 | [102107-son-of-a-witch.json](./102107-son-of-a-witch.json) |
 | Son of Aral | 135711 | [135711-son-of-aral.json](./135711-son-of-aral.json) |
+| Son of Beach | 423247 | [423247-son-of-beach.json](./423247-son-of-beach.json) |
 | Son of Blagger | 47238 | [47238-son-of-blagger.json](./47238-son-of-blagger.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
@@ -24260,6 +24263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap | 247928 | [247928-swap.json](./247928-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
+| Swap Bots | 423292 | [423292-swap-bots.json](./423292-swap-bots.json) |
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Fire | 77773 | [77773-swap-fire.json](./77773-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
