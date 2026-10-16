@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:42:45.553Z",
-  "total_soundtracks": 1956,
+  "generated_at": "2026-10-16T19:43:00.342Z",
+  "total_soundtracks": 1957,
   "games": [
     {
       "igdb_id": 7522,
@@ -19525,6 +19525,20 @@
           "spotify_url": "https://open.spotify.com/album/22hbndfpmPHrxemQ0B8rgt",
           "apple_music_url": "https://music.apple.com/us/album/the-cat-lady-album-music-from-the-video-game/1563562290",
           "album_link_url": "https://album.link/i/1563562290"
+        }
+      ]
+    },
+    {
+      "igdb_id": 247578,
+      "game_name": "The Cosmic Wheel Sisterhood",
+      "game_url": "https://ostdb.net/games/the-cosmic-wheel-sisterhood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332ea8307b1690c246b3309a1",
+      "albums": [
+        {
+          "album_name": "The Cosmic Wheel Sisterhood Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4rdNAHhdLACuncezuAmOqS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
