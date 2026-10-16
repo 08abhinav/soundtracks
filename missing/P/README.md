@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan Galactic Railway | 101447 | [101447-pan-galactic-railway.json](./101447-pan-galactic-railway.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
+| Pan-Pan | 23352 | [23352-pan-pan.json](./23352-pan-pan.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pan's Permia | 346203 | [346203-pans-permia.json](./346203-pans-permia.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
+| PaRappa the Rapper Remastered | 26232 | [26232-parappa-the-rapper-remastered.json](./26232-parappa-the-rapper-remastered.json) |
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
+| Phogs! | 105680 | [105680-phogs.json](./105680-phogs.json) |
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
@@ -4504,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
+| Pikmin Bloom | 178290 | [178290-pikmin-bloom.json](./178290-pikmin-bloom.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
@@ -8442,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
 | Polytope | 250218 | [250218-polytope.json](./250218-polytope.json) |
+| Polytoria | 194461 | [194461-polytoria.json](./194461-polytoria.json) |
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polyturned | 238383 | [238383-polyturned.json](./238383-polyturned.json) |
@@ -10039,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maira: Initiation | 192658 | [192658-princess-maira-initiation.json](./192658-princess-maira-initiation.json) |
 | Princess Maker | 100085 | [100085-princess-maker.json](./100085-princess-maker.json) |
 | Princess Maker 2 | 194280 | [194280-princess-maker-2.json](./194280-princess-maker-2.json) |
+| Princess Maker 2 Refine | 24980 | [24980-princess-maker-2-refine.json](./24980-princess-maker-2-refine.json) |
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
 | Princess Maker 4 | 72591 | [72591-princess-maker-4.json](./72591-princess-maker-4.json) |
