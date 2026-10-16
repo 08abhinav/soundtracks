@@ -4882,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
+| Wolverine | 85885 | [85885-wolverine.json](./85885-wolverine.json) |
 | Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
