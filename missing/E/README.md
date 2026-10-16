@@ -4900,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Origin | 348814 | [348814-evil-origin.json](./348814-evil-origin.json) |
 | Evil Park | 54888 | [54888-evil-park.json](./54888-evil-park.json) |
 | Evil Plays Dice | 381370 | [381370-evil-plays-dice.json](./381370-evil-plays-dice.json) |
+| Evil Possession | 28796 | [28796-evil-possession.json](./28796-evil-possession.json) |
 | Evil Pumpkin: The Lost Halloween | 17387 | [17387-evil-pumpkin-the-lost-halloween.json](./17387-evil-pumpkin-the-lost-halloween.json) |
 | Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
