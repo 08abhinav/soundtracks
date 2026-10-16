@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR2: Vacate 2 Rooms | 99191 | [99191-vr2-vacate-2-rooms.json](./99191-vr2-vacate-2-rooms.json) |
 | Vradark's Revenge | 231823 | [231823-vradarks-revenge.json](./231823-vradarks-revenge.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
+| VRAmp | 33766 | [33766-vramp.json](./33766-vramp.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
