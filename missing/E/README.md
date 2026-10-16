@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
+| Embark | 83286 | [83286-embark.json](./83286-embark.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
@@ -5092,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
+| Excave | 82595 | [82595-excave.json](./82595-excave.json) |
 | Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
