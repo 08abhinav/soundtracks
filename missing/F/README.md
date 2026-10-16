@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fable Legends | 5624 | [5624-fable-legends.json](./5624-fable-legends.json) |
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
+| Fable of the Sword | 83486 | [83486-fable-of-the-sword.json](./83486-fable-of-the-sword.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: Coin Golf | 92131 | [92131-fable-coin-golf.json](./92131-fable-coin-golf.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith Fighter | 71391 | [71391-faith-fighter.json](./71391-faith-fighter.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faith in Despair | 287907 | [287907-faith-in-despair.json](./287907-faith-in-despair.json) |
+| Faith of Danschant | 83339 | [83339-faith-of-danschant.json](./83339-faith-of-danschant.json) |
 | Faith of Danschant: Hereafter | 247377 | [247377-faith-of-danschant-hereafter.json](./247377-faith-of-danschant-hereafter.json) |
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
@@ -3469,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Desolation | 287309 | [287309-final-desolation.json](./287309-final-desolation.json) |
 | Final Destiny | 307244 | [307244-final-destiny.json](./307244-final-destiny.json) |
+| Final Directive | 83588 | [83588-final-directive.json](./83588-final-directive.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
@@ -4477,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
 | First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
+| First-Person Bundle | 82545 | [82545-first-person-bundle.json](./82545-first-person-bundle.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
