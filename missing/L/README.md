@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
+| Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
 | Lords of Xulima: Deluxe Edition | 51840 | [51840-lords-of-xulima-deluxe-edition.json](./51840-lords-of-xulima-deluxe-edition.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
 | Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
