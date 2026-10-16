@@ -3510,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
+| Sega Rally Revo | 1574 | [1574-sega-rally-revo.json](./1574-sega-rally-revo.json) |
 | Sega Rally Revo | 209018 | [209018-sega-rally-revo.json](./209018-sega-rally-revo.json) |
 | Sega Ski Super G | 39796 | [39796-sega-ski-super-g.json](./39796-sega-ski-super-g.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
@@ -5452,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellshock 2: Blood Trails | 7186 | [7186-shellshock-2-blood-trails.json](./7186-shellshock-2-blood-trails.json) |
 | ShellShock Live | 17904 | [17904-shellshock-live.json](./17904-shellshock-live.json) |
 | ShellShock Live | 293356 | [293356-shellshock-live.json](./293356-shellshock-live.json) |
+| Shellshock: Nam '67 | 1870 | [1870-shellshock-nam-67.json](./1870-shellshock-nam-67.json) |
 | ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
 | Shelltered | 353359 | [353359-shelltered.json](./353359-shelltered.json) |
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
@@ -6607,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
+| Shrek 2 | 175940 | [175940-shrek-2.json](./175940-shrek-2.json) |
 | Shrek 2 | 248500 | [248500-shrek-2.json](./248500-shrek-2.json) |
 | Shrek 2 | 248501 | [248501-shrek-2.json](./248501-shrek-2.json) |
 | Shrek 2 | 3668 | [3668-shrek-2.json](./3668-shrek-2.json) |
@@ -7430,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
+| SimCity | 180001 | [180001-simcity.json](./180001-simcity.json) |
 | SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
@@ -16983,6 +16987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
 | Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
+| Star Wars: Rebellion | 151 | [151-star-wars-rebellion.json](./151-star-wars-rebellion.json) |
 | Star Wars: Republic Squadron | 220265 | [220265-star-wars-republic-squadron.json](./220265-star-wars-republic-squadron.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
@@ -18116,6 +18121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Incus | 390222 | [390222-stella-incus.json](./390222-stella-incus.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
+| Stella Sora | 326127 | [326127-stella-sora.json](./326127-stella-sora.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stella: My Friend | 255891 | [255891-stella-my-friend.json](./255891-stella-my-friend.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
@@ -18553,6 +18559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Still Wakes the Deep: Siren's Rest | 349523 | [349523-still-wakes-the-deep-sirens-rest.json](./349523-still-wakes-the-deep-sirens-rest.json) |
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
