@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
+| AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
+| Alphabear: Hardcover Edition | 52053 | [52053-alphabear-hardcover-edition.json](./52053-alphabear-hardcover-edition.json) |
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet | 370480 | [370480-alphabet.json](./370480-alphabet.json) |
@@ -5513,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
+| Amaze Zer0 | 51424 | [51424-amaze-zer0.json](./51424-amaze-zer0.json) |
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
@@ -6678,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
+| Anima: Ark of Sinners | 51096 | [51096-anima-ark-of-sinners.json](./51096-anima-ark-of-sinners.json) |
 | Anima: Gate of Memories | 19851 | [19851-anima-gate-of-memories.json](./19851-anima-gate-of-memories.json) |
 | Anima: Gate of Memories - The Nameless Chronicles | 101608 | [101608-anima-gate-of-memories-the-nameless-chronicles.json](./101608-anima-gate-of-memories-the-nameless-chronicles.json) |
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
@@ -9739,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
 | Art Academy: Second Semester | 84766 | [84766-art-academy-second-semester.json](./84766-art-academy-second-semester.json) |
+| Art Academy: Sketchpad | 51185 | [51185-art-academy-sketchpad.json](./51185-art-academy-sketchpad.json) |
 | Art Apart | 206011 | [206011-art-apart.json](./206011-art-apart.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
@@ -10708,6 +10713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astor: Blade of the Monolith | 256291 | [256291-astor-blade-of-the-monolith.json](./256291-astor-blade-of-the-monolith.json) |
 | Astoria Legends: Red Moon | 159145 | [159145-astoria-legends-red-moon.json](./159145-astoria-legends-red-moon.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
+| Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
