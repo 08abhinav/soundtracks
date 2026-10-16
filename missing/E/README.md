@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellen Whitaker's Horse Life | 92406 | [92406-ellen-whitakers-horse-life.json](./92406-ellen-whitakers-horse-life.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
+| Elleros Openworld | 113245 | [113245-elleros-openworld.json](./113245-elleros-openworld.json) |
 | Elli | 111546 | [111546-elli.json](./111546-elli.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evermore | 57514 | [57514-evermore.json](./57514-evermore.json) |
 | Evermore Knights | 235096 | [235096-evermore-knights.json](./235096-evermore-knights.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
+| Everpath: A pixel art roguelite | 113516 | [113516-everpath-a-pixel-art-roguelite.json](./113516-everpath-a-pixel-art-roguelite.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
