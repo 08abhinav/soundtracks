@@ -7334,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Olympics on Mars | 261456 | [261456-micro-olympics-on-mars.json](./261456-micro-olympics-on-mars.json) |
 | Micro Overdrive: Home Tour | 383068 | [383068-micro-overdrive-home-tour.json](./383068-micro-overdrive-home-tour.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
+| Micro Pinball | 421193 | [421193-micro-pinball.json](./421193-micro-pinball.json) |
 | Micro Platformer | 142136 | [142136-micro-platformer.json](./142136-micro-platformer.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
@@ -9567,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical | 791 | [791-mission-critical.json](./791-mission-critical.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
+| Mission Destruct | 421194 | [421194-mission-destruct.json](./421194-mission-destruct.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
@@ -10164,6 +10166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
+| Modice | 421198 | [421198-modice.json](./421198-modice.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
@@ -14408,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
+| My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
