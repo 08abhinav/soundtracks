@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Killer's Dream | 91625 | [91625-a-killers-dream.json](./91625-a-killers-dream.json) |
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
+| A Kingdom for Keflings | 15860 | [15860-a-kingdom-for-keflings.json](./15860-a-kingdom-for-keflings.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
+| Alpha Polaris | 14199 | [14199-alpha-polaris.json](./14199-alpha-polaris.json) |
 | Alpha Protocol | 2539 | [2539-alpha-protocol.json](./2539-alpha-protocol.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
@@ -11229,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
 | Athos'Code | 371405 | [371405-athoscode.json](./371405-athoscode.json) |
 | Athyra: Rock, Paper, Scissors | 345025 | [345025-athyra-rock-paper-scissors.json](./345025-athyra-rock-paper-scissors.json) |
+| Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
@@ -12361,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Adventure: The Golden Road to Paradise | 71972 | [71972-aztec-adventure-the-golden-road-to-paradise.json](./71972-aztec-adventure-the-golden-road-to-paradise.json) |
 | Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
+| Aztec Challenge | 13809 | [13809-aztec-challenge.json](./13809-aztec-challenge.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
 | Aztec Ride | 184829 | [184829-aztec-ride.json](./184829-aztec-ride.json) |
