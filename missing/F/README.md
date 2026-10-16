@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
+| Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi | 1433 | [1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json](./1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json) |
 | Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
 | Fire Emblem: Awakening - Challenge Pack | 237421 | [237421-fire-emblem-awakening-challenge-pack.json](./237421-fire-emblem-awakening-challenge-pack.json) |
 | Fire Emblem: Awakening - Champions Pack | 237415 | [237415-fire-emblem-awakening-champions-pack.json](./237415-fire-emblem-awakening-champions-pack.json) |
@@ -6349,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
+| Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
 | Football Manager 2016 | 19875 | [19875-football-manager-2016.json](./19875-football-manager-2016.json) |
@@ -6901,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
+| Forma.8 | 27277 | [27277-forma-8.json](./27277-forma-8.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formata | 29754 | [29754-formata.json](./29754-formata.json) |
@@ -7877,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
 | Freddi Fish 5: The Case of the Creature of Coral Cove | 3747 | [3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json](./3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json) |
 | Freddi Fish and Luther's Water Worries | 17296 | [17296-freddi-fish-and-luthers-water-worries.json](./17296-freddi-fish-and-luthers-water-worries.json) |
+| Freddi Fish and The Case of the Missing Kelp Seeds | 3743 | [3743-freddi-fish-and-the-case-of-the-missing-kelp-seeds.json](./3743-freddi-fish-and-the-case-of-the-missing-kelp-seeds.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
