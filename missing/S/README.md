@@ -13486,6 +13486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
+| Space Hulk: Tactics | 86269 | [86269-space-hulk-tactics.json](./86269-space-hulk-tactics.json) |
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
@@ -14365,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
 | Spectrobes: Origins | 5173 | [5173-spectrobes-origins.json](./5173-spectrobes-origins.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
+| Spectromancer | 15972 | [15972-spectromancer.json](./15972-spectromancer.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
 | Spectromancer: League of Heroes | 164385 | [164385-spectromancer-league-of-heroes.json](./164385-spectromancer-league-of-heroes.json) |
 | Spectromancer: Truth & Beauty | 164384 | [164384-spectromancer-truth-and-beauty.json](./164384-spectromancer-truth-and-beauty.json) |
@@ -15057,6 +15059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
+| Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
@@ -16103,6 +16106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
+| Squidlit | 86574 | [86574-squidlit.json](./86574-squidlit.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squidoku | 181075 | [181075-squidoku.json](./181075-squidoku.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
@@ -18259,6 +18263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
+| Stellaris: Apocalypse | 90095 | [90095-stellaris-apocalypse.json](./90095-stellaris-apocalypse.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
 | Stellaris: BioGenesis | 336706 | [336706-stellaris-biogenesis.json](./336706-stellaris-biogenesis.json) |
