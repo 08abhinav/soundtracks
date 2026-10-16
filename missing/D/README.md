@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
+| Defend the Cake | 55471 | [55471-defend-the-cake.json](./55471-defend-the-cake.json) |
 | Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
 | Defend the Castle | 381735 | [381735-defend-the-castle.json](./381735-defend-the-castle.json) |
 | Defend the Circle | 132691 | [132691-defend-the-circle.json](./132691-defend-the-circle.json) |
@@ -12784,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Lesbians | 134554 | [134554-dungeons-and-lesbians.json](./134554-dungeons-and-lesbians.json) |
 | Dungeons & Miners | 174256 | [174256-dungeons-and-miners.json](./174256-dungeons-and-miners.json) |
 | Dungeons & Such | 104511 | [104511-dungeons-and-such.json](./104511-dungeons-and-such.json) |
+| Dungeons & Treasure VR | 55377 | [55377-dungeons-and-treasure-vr.json](./55377-dungeons-and-treasure-vr.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
