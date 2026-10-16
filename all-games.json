@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:46:39.326Z",
-  "total_soundtracks": 1792,
+  "generated_at": "2026-10-16T05:46:51.362Z",
+  "total_soundtracks": 1793,
   "games": [
     {
       "igdb_id": 7522,
@@ -9977,6 +9977,20 @@
           "spotify_url": "https://open.spotify.com/album/2bGNL08cwHVjGD4mxrEsAu",
           "apple_music_url": "https://music.apple.com/us/album/killzone-2-original-soundtrack-from-the-video-game/1783817126",
           "album_link_url": "https://album.link/i/1783817126"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1869,
+      "game_name": "Killzone: Mercenary",
+      "game_url": "https://ostdb.net/games/killzone-mercenary",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736dd1ce9f09b1be92073cd2ea",
+      "albums": [
+        {
+          "album_name": "Killzone: Mercenary (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2H5bDSXlhW6X3lRxA2Bpb0",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
