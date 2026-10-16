@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
 | Risky Wings: 'Dizzy Kitten' Character | 170782 | [170782-risky-wings-dizzy-kitten-character.json](./170782-risky-wings-dizzy-kitten-character.json) |
+| Risky Woods | 12205 | [12205-risky-woods.json](./12205-risky-woods.json) |
 | Risnuch | 126932 | [126932-risnuch.json](./126932-risnuch.json) |
 | Risorgimento Represso | 300506 | [300506-risorgimento-represso.json](./300506-risorgimento-represso.json) |
 | Ristar | 7431 | [7431-ristar.json](./7431-ristar.json) |
