@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >//:System.Hack | 30473 | [30473-system-hack.json](./30473-system-hack.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
+| >Start ai | 366670 | [366670-start-ai.json](./366670-start-ai.json) |
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
