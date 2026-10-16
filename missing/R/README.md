@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
 | Rampage World Tour | 3056 | [3056-rampage-world-tour.json](./3056-rampage-world-tour.json) |
 | Rampage: AR Unleashed | 97528 | [97528-rampage-ar-unleashed.json](./97528-rampage-ar-unleashed.json) |
+| Rampage: Total Destruction | 2634 | [2634-rampage-total-destruction.json](./2634-rampage-total-destruction.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
 | Rogue | 126478 | [126478-rogue.json](./126478-rogue.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
+| Rogue | 2872 | [2872-rogue.json](./2872-rogue.json) |
 | Rogue 'n' Roll: Dice of Fate | 400466 | [400466-rogue-n-roll-dice-of-fate.json](./400466-rogue-n-roll-dice-of-fate.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Aces Deluxe | 139683 | [139683-rogue-aces-deluxe.json](./139683-rogue-aces-deluxe.json) |
