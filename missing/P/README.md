@@ -7680,8 +7680,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
+| Pokémon Dream Radar | 24945 | [24945-pokemon-dream-radar.json](./24945-pokemon-dream-radar.json) |
 | Pokémon Dreams | 213844 | [213844-pokemon-dreams.json](./213844-pokemon-dreams.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
+| Pokémon Duel | 27052 | [27052-pokemon-duel.json](./27052-pokemon-duel.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
 | Pokémon Dumbdumb Island | 362817 | [362817-pokemon-dumbdumb-island.json](./362817-pokemon-dumbdumb-island.json) |
 | Pokémon Echo | 392776 | [392776-pokemon-echo.json](./392776-pokemon-echo.json) |
@@ -11299,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
+| Prominence Poker | 23214 | [23214-prominence-poker.json](./23214-prominence-poker.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
