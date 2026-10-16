@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
+| Faron's Fate | 34311 | [34311-farons-fate.json](./34311-farons-fate.json) |
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
 | Farpoint | 19575 | [19575-farpoint.json](./19575-farpoint.json) |
 | Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
+| Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
@@ -8732,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
+| Front Wars | 35279 | [35279-front-wars.json](./35279-front-wars.json) |
 | Front Wars: World War II | 90521 | [90521-front-wars-world-war-ii.json](./90521-front-wars-world-war-ii.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
