@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
+| Tango: The Adventure Game | 106402 | [106402-tango-the-adventure-game.json](./106402-tango-the-adventure-game.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
+| Tavern Guardians: Banquet | 106393 | [106393-tavern-guardians-banquet.json](./106393-tavern-guardians-banquet.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
 | Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
 | Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
@@ -8620,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Witness | 374950 | [374950-the-last-witness.json](./374950-the-last-witness.json) |
+| The Last Wizard | 106140 | [106140-the-last-wizard.json](./106140-the-last-wizard.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Word | 53755 | [53755-the-last-word.json](./53755-the-last-word.json) |
 | The Last World | 275821 | [275821-the-last-world.json](./275821-the-last-world.json) |
@@ -12211,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
+| The Swordsmen X | 106137 | [106137-the-swordsmen-x.json](./106137-the-swordsmen-x.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
