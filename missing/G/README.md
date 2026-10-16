@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster Town | 45650 | [45650-gangster-town.json](./45650-gangster-town.json) |
 | Gangster War | 149195 | [149195-gangster-war.json](./149195-gangster-war.json) |
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
+| Gangsters 2: Vendetta | 51226 | [51226-gangsters-2-vendetta.json](./51226-gangsters-2-vendetta.json) |
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
 | Ganja Farmer | 25801 | [25801-ganja-farmer.json](./25801-ganja-farmer.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
+| Golden Axe Warrior | 46147 | [46147-golden-axe-warrior.json](./46147-golden-axe-warrior.json) |
 | Golden Axe: Beast Rider | 7001 | [7001-golden-axe-beast-rider.json](./7001-golden-axe-beast-rider.json) |
 | Golden Axe: The Curse of Death Adder | 198345 | [198345-golden-axe-the-curse-of-death-adder.json](./198345-golden-axe-the-curse-of-death-adder.json) |
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
@@ -7528,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
+| Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Taco Truck | 27084 | [27084-gunman-taco-truck.json](./27084-gunman-taco-truck.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
