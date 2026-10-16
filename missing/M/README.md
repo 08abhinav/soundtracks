@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
+| Mario Kills Tanooki | 18448 | [18448-mario-kills-tanooki.json](./18448-mario-kills-tanooki.json) |
 | Mario Land: Minigame Mayhem | 134958 | [134958-mario-land-minigame-mayhem.json](./134958-mario-land-minigame-mayhem.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Merchants - A historical trading simulation | 95298 | [95298-medieval-merchants-a-historical-trading-simulation.json](./95298-medieval-merchants-a-historical-trading-simulation.json) |
 | Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
+| Medieval Moves: Deadmund's Quest | 18230 | [18230-medieval-moves-deadmunds-quest.json](./18230-medieval-moves-deadmunds-quest.json) |
 | Medieval Mystery Match | 46473 | [46473-medieval-mystery-match.json](./46473-medieval-mystery-match.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Pathfinder | 336050 | [336050-medieval-pathfinder.json](./336050-medieval-pathfinder.json) |
@@ -9180,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
+| Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
@@ -11377,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
+| Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
@@ -13447,6 +13451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
+| Mushroom Wars | 18687 | [18687-mushroom-wars.json](./18687-mushroom-wars.json) |
 | Mushroom Wars 2 | 19786 | [19786-mushroom-wars-2.json](./19786-mushroom-wars-2.json) |
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
 | Mushroom Wars: Space! | 268502 | [268502-mushroom-wars-space.json](./268502-mushroom-wars-space.json) |
@@ -13716,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 7091 | [7091-mx-vs-atv-reflex.json](./7091-mx-vs-atv-reflex.json) |
+| MX vs. ATV: Supercross - Encore | 14297 | [14297-mx-vs-atv-supercross-encore.json](./14297-mx-vs-atv-supercross-encore.json) |
 | MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 248556 | [248556-mx-vs-atv-untamed.json](./248556-mx-vs-atv-untamed.json) |
