@@ -8864,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous II: The Challenge Games | 8896 | [8896-populous-ii-the-challenge-games.json](./8896-populous-ii-the-challenge-games.json) |
+| Populous II: Trials of the Olympian Gods | 8895 | [8895-populous-ii-trials-of-the-olympian-gods.json](./8895-populous-ii-trials-of-the-olympian-gods.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
 | Populous: The Beginning - Undiscovered Worlds | 8897 | [8897-populous-the-beginning-undiscovered-worlds.json](./8897-populous-the-beginning-undiscovered-worlds.json) |
 | Populous: The Final Frontier | 8894 | [8894-populous-the-final-frontier.json](./8894-populous-the-final-frontier.json) |
@@ -8908,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
+| Port Royale 2 | 8391 | [8391-port-royale-2.json](./8391-port-royale-2.json) |
 | Port Royale 3: Dawn of Pirates | 10713 | [10713-port-royale-3-dawn-of-pirates.json](./10713-port-royale-3-dawn-of-pirates.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
@@ -9465,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
+| PowerSlave | 8338 | [8338-powerslave.json](./8338-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
 | PowerSpinners | 58687 | [58687-powerspinners.json](./58687-powerspinners.json) |
@@ -12138,6 +12141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
+| Pure Pool | 8409 | [8409-pure-pool.json](./8409-pure-pool.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
