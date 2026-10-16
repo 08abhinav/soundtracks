@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Advent Rising | 5716 | [5716-advent-rising.json](./5716-advent-rising.json) |
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
@@ -8117,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
+| Aragami 2 | 138031 | [138031-aragami-2.json](./138031-aragami-2.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Araha : Curse of Yieun Island | 126347 | [126347-araha-curse-of-yieun-island.json](./126347-araha-curse-of-yieun-island.json) |
