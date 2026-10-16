@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecco: The Tides of Time | 5379 | [5379-ecco-the-tides-of-time.json](./5379-ecco-the-tides-of-time.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | eCheese Zone | 128332 | [128332-echeese-zone.json](./128332-echeese-zone.json) |
+| Echelon | 13628 | [13628-echelon.json](./13628-echelon.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
+| Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
