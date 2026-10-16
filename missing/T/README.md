@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Storm X: Hyperspace Dream | 55798 | [55798-temporal-storm-x-hyperspace-dream.json](./55798-temporal-storm-x-hyperspace-dream.json) |
+| Temporal Temple | 33563 | [33563-temporal-temple.json](./33563-temporal-temple.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banshee | 231514 | [231514-the-banshee.json](./231514-the-banshee.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
+| The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
