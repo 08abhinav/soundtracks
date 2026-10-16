@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
+| Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Nowhere: Dreamy Bubble | 377968 | [377968-path-to-nowhere-dreamy-bubble.json](./377968-path-to-nowhere-dreamy-bubble.json) |
 | Path to Nowhere: Raging Sands | 377967 | [377967-path-to-nowhere-raging-sands.json](./377967-path-to-nowhere-raging-sands.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | Potato's Dream | 164958 | [164958-potatos-dream.json](./164958-potatos-dream.json) |
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
+| Potatoman Seeks the Troof | 36224 | [36224-potatoman-seeks-the-troof.json](./36224-potatoman-seeks-the-troof.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
 | Potemkin | 59254 | [59254-potemkin.json](./59254-potemkin.json) |
