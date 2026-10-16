@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
+| Tarot Tokens | 417282 | [417282-tarot-tokens.json](./417282-tarot-tokens.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
 | Tarot: Theo's Quest | 190416 | [190416-tarot-theos-quest.json](./190416-tarot-theos-quest.json) |
 | Tarotica Voo Doo | 28737 | [28737-tarotica-voo-doo.json](./28737-tarotica-voo-doo.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis in the Face | 19497 | [19497-tennis-in-the-face.json](./19497-tennis-in-the-face.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
+| Tennis Legend 2026 | 417283 | [417283-tennis-legend-2026.json](./417283-tennis-legend-2026.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
@@ -5779,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decimation of Olarath | 57761 | [57761-the-decimation-of-olarath.json](./57761-the-decimation-of-olarath.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
+| The Decree | 417325 | [417325-the-decree.json](./417325-the-decree.json) |
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
