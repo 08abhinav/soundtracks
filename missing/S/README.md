@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
 | Screaming Wings | 12759 | [12759-screaming-wings.json](./12759-screaming-wings.json) |
+| ScreamRide | 8730 | [8730-screamride.json](./8730-screamride.json) |
 | Screams from the Past | 256731 | [256731-screams-from-the-past.json](./256731-screams-from-the-past.json) |
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
@@ -8359,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
+| Ski or Die | 11675 | [11675-ski-or-die.json](./11675-ski-or-die.json) |
 | Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
@@ -8592,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
 | Sky Force Bundle | 118869 | [118869-sky-force-bundle.json](./118869-sky-force-bundle.json) |
+| Sky Force Reloaded | 19469 | [19469-sky-force-reloaded.json](./19469-sky-force-reloaded.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
@@ -16829,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
+| Star Trucker | 252787 | [252787-star-trucker.json](./252787-star-trucker.json) |
 | Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
@@ -19553,6 +19557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike the Striker Z | 164071 | [164071-strike-the-striker-z.json](./164071-strike-the-striker-z.json) |
+| Strike Vector EX | 22798 | [22798-strike-vector-ex.json](./22798-strike-vector-ex.json) |
 | Strike Vector EX Open Beta | 51433 | [51433-strike-vector-ex-open-beta.json](./51433-strike-vector-ex-open-beta.json) |
 | Strike VR | 155886 | [155886-strike-vr.json](./155886-strike-vr.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
@@ -20140,6 +20145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
