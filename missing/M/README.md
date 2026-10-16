@@ -7130,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
+| Mi Mi Mi | 119795 | [119795-mi-mi-mi.json](./119795-mi-mi-mi.json) |
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
 | Mi Scusi | 175650 | [175650-mi-scusi.json](./175650-mi-scusi.json) |
 | Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
@@ -8072,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
+| Militia 2 | 121293 | [121293-militia-2.json](./121293-militia-2.json) |
 | Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
@@ -8683,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
 | Mines of Titan | 68301 | [68301-mines-of-titan.json](./68301-mines-of-titan.json) |
+| Mines of Volantis | 121354 | [121354-mines-of-volantis.json](./121354-mines-of-volantis.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
@@ -11237,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
+| Monsters' Den Chronicles | 121171 | [121171-monsters-den-chronicles.json](./121171-monsters-den-chronicles.json) |
 | Monsters' Den: Book of Dread | 32035 | [32035-monsters-den-book-of-dread.json](./32035-monsters-den-book-of-dread.json) |
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
@@ -12074,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Most Wanted | 313777 | [313777-most-wanted.json](./313777-most-wanted.json) |
 | Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
 | Mostly Harmless | 275804 | [275804-mostly-harmless.json](./275804-mostly-harmless.json) |
+| Mostly Intense Monster Defense | 120961 | [120961-mostly-intense-monster-defense.json](./120961-mostly-intense-monster-defense.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mostroscopy | 269231 | [269231-mostroscopy.json](./269231-mostroscopy.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
@@ -13866,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
+| My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
