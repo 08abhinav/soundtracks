@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:02:20.246Z",
-  "total_soundtracks": 1706,
+  "generated_at": "2026-10-16T05:02:31.311Z",
+  "total_soundtracks": 1707,
   "games": [
     {
       "igdb_id": 7522,
@@ -8209,6 +8209,20 @@
         {
           "album_name": "Happy Game (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/22wfKDQQWIZnqyZ4GDhgLf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7675,
+      "game_name": "Hard West",
+      "game_url": "https://ostdb.net/games/hard-west",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27366742235355b00a2540c9df4",
+      "albums": [
+        {
+          "album_name": "Hard West (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AaJEEiXLiq8H8fnSxO2Xb",
           "apple_music_url": "",
           "album_link_url": ""
         }
