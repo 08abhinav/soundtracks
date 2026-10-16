@@ -17380,6 +17380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 138158 | [138158-starfighter.json](./138158-starfighter.json) |
 | Starfighter | 364088 | [364088-starfighter.json](./364088-starfighter.json) |
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
+| Starfighter 3000 | 4261 | [4261-starfighter-3000.json](./4261-starfighter-3000.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
