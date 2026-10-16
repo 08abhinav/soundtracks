@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
+| Terminal Toads | 419892 | [419892-terminal-toads.json](./419892-terminal-toads.json) |
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal Velocity | 11629 | [11629-terminal-velocity.json](./11629-terminal-velocity.json) |
@@ -12374,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Testing Chamber | 195461 | [195461-the-testing-chamber.json](./195461-the-testing-chamber.json) |
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
+| The Tether | 419873 | [419873-the-tether.json](./419873-the-tether.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack | 273839 | [273839-the-texas-chain-saw-massacre-ana-outfit-pack.json](./273839-the-texas-chain-saw-massacre-ana-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack 2 | 298252 | [298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json](./298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json) |
@@ -14615,6 +14617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
+| TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
@@ -18129,6 +18132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topper the Copper | 354597 | [354597-topper-the-copper.json](./354597-topper-the-copper.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
+| Topple | 419952 | [419952-topple.json](./419952-topple.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
 | Topple 2 | 69189 | [69189-topple-2.json](./69189-topple-2.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
@@ -19246,6 +19250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerlings | 387089 | [387089-towerlings.json](./387089-towerlings.json) |
 | TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
 | TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
+| Towermouth | 419865 | [419865-towermouth.json](./419865-towermouth.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
 | Towers | 105286 | [105286-towers.json](./105286-towers.json) |
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
