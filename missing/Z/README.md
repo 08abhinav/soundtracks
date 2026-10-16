@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
 | Zombiotik | 117446 | [117446-zombiotik.json](./117446-zombiotik.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
+| Zombitatos: Ultimate Game of the Year Edition | 55407 | [55407-zombitatos-ultimate-game-of-the-year-edition.json](./55407-zombitatos-ultimate-game-of-the-year-edition.json) |
 | Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
