@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vona: She | 241263 | [241263-vona-she.json](./241263-vona-she.json) |
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
+| Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
 | Voodoo Chronicles: The First Sign HD - Director's Cut Edition | 24762 | [24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json](./24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
