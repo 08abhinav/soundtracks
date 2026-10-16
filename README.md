@@ -920,6 +920,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2730109ede31de9fc5d7df527f3" width="60" /> | [Plague Inc.](https://ostdb.net/games/plague-inc) | **Plague Inc. (Cure Edition) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/6BDkiEhXWoPDXtFa8oI6N6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ade80ad0c73719af019b5366" width="60" /> | [Planet Alpha](https://ostdb.net/games/planet-alpha) | **Planet Alpha (Original Video Game Music)** · [Spotify](https://open.spotify.com/album/0MUfSsNWsEDyg0LhnoYrxx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a99659889fc1c53318b652" width="60" /> | [Planet of Lana](https://ostdb.net/games/planet-of-lana) | **Planet of Lana (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26vBjTqpavqsGycyHgr3ux) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318c402a39b082e7a7ba82d41" width="60" /> | [Planetbase](https://ostdb.net/games/planetbase) | **Planetbase (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6G4IJ2ngsYOHM2QvmO0Bs8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273486983be2d3af3d6d09d20d4" width="60" /> | [Plants vs. Zombies](https://ostdb.net/games/plants-vs-zombies) | **Plants Vs. Zombies (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2362558f7ad4958afc0bba2" width="60" /> | [Pokémon HeartGold Version](https://ostdb.net/games/pokemon-heartgold-version) | **Pokémon HeartGold, SoulSilver: Iconic Themes** · [Spotify](https://open.spotify.com/album/6bVKXTToP5bUlXgZ5VodxV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc24bedcfef42844fcb07b6f" width="60" /> | [Pokémon Ultra Sun](https://ostdb.net/games/pokemon-ultra-sun) | **Pokémon Ultra Sun & Ultra Moon, Alola (Original Game Score)** · [Spotify](https://open.spotify.com/album/5WEHZUjHRx0Ny7rd8h9WpG) |
@@ -1443,4 +1444,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1760 soundtracks · last updated 2026-10-16T05:34:23.203Z_
+_1761 soundtracks · last updated 2026-10-16T05:34:38.037Z_
