@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Rabbits | 15272 | [15272-ninja-rabbits.json](./15272-ninja-rabbits.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
+| Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
 | Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
