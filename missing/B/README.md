@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
+| Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 3: Fractured Mask | 80910 | [80910-batman-the-enemy-within-episode-3-fractured-mask.json](./80910-batman-the-enemy-within-episode-3-fractured-mask.json) |
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
+| Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
 | Block Mover Challenge | 338249 | [338249-block-mover-challenge.json](./338249-block-mover-challenge.json) |
 | Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
+| Block N Load | 8437 | [8437-block-n-load.json](./8437-block-n-load.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
@@ -7782,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
+| Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
@@ -10258,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach | 94147 | [94147-breach.json](./94147-breach.json) |
+| Breach & Clear | 8422 | [8422-breach-and-clear.json](./8422-breach-and-clear.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
