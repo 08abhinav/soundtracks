@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
+| Ultimate Band | 5250 | [5250-ultimate-band.json](./5250-ultimate-band.json) |
 | Ultimate Baseball Online | 23787 | [23787-ultimate-baseball-online.json](./23787-ultimate-baseball-online.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
@@ -347,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate DragonMaster | 299412 | [299412-ultimate-dragonmaster.json](./299412-ultimate-dragonmaster.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
+| Ultimate Duck Hunting | 5251 | [5251-ultimate-duck-hunting.json](./5251-ultimate-duck-hunting.json) |
 | Ultimate Dungeon: Kurenai | 286788 | [286788-ultimate-dungeon-kurenai.json](./286788-ultimate-dungeon-kurenai.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Unchained | 335229 | [335229-unchained.json](./335229-unchained.json) |
+| Unchained Blades | 6906 | [6906-unchained-blades.json](./6906-unchained-blades.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
 | Uncharted 2: Among Thieves - Limited Edition Collector's Box | 41882 | [41882-uncharted-2-among-thieves-limited-edition-collectors-box.json](./41882-uncharted-2-among-thieves-limited-edition-collectors-box.json) |
