@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
+| Zup! X | 101515 | [101515-zup-x.json](./101515-zup-x.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
 | Zup! Zero: DLC | 167890 | [167890-zup-zero-dlc.json](./167890-zup-zero-dlc.json) |
