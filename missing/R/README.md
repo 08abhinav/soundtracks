@@ -3844,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
 | Resident Evil Code: Veronica X | 24369 | [24369-resident-evil-code-veronica-x.json](./24369-resident-evil-code-veronica-x.json) |
+| Resident Evil Code: Veronica X HD | 20622 | [20622-resident-evil-code-veronica-x-hd.json](./20622-resident-evil-code-veronica-x-hd.json) |
 | Resident Evil Confidential Report File #2 | 402391 | [402391-resident-evil-confidential-report-file-2.json](./402391-resident-evil-confidential-report-file-2.json) |
 | Resident Evil Confidential Report File #3 | 402392 | [402392-resident-evil-confidential-report-file-3.json](./402392-resident-evil-confidential-report-file-3.json) |
 | Resident Evil Confidential Report File #4 | 402393 | [402393-resident-evil-confidential-report-file-4.json](./402393-resident-evil-confidential-report-file-4.json) |
@@ -5414,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Mythos | 23618 | [23618-rise-of-mythos.json](./23618-rise-of-mythos.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
+| Rise of Nations: Extended Edition | 22344 | [22344-rise-of-nations-extended-edition.json](./22344-rise-of-nations-extended-edition.json) |
 | Rise of Nations: Rise of Legends | 18797 | [18797-rise-of-nations-rise-of-legends.json](./18797-rise-of-nations-rise-of-legends.json) |
 | Rise of Nations: Thrones & Patriots | 849 | [849-rise-of-nations-thrones-and-patriots.json](./849-rise-of-nations-thrones-and-patriots.json) |
 | Rise of Nightmares | 20159 | [20159-rise-of-nightmares.json](./20159-rise-of-nightmares.json) |
@@ -5669,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals: Esports Manager | 327799 | [327799-rivals-esports-manager.json](./327799-rivals-esports-manager.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Rivandy | 278373 | [278373-rivandy.json](./278373-rivandy.json) |
+| Rive | 17069 | [17069-rive.json](./17069-rive.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
 | Riven Crown | 339237 | [339237-riven-crown.json](./339237-riven-crown.json) |
