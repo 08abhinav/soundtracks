@@ -2836,7 +2836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters DS | 298945 | [298945-giana-sisters-ds.json](./298945-giana-sisters-ds.json) |
 | Giana Sisters: Dream Runners | 20879 | [20879-giana-sisters-dream-runners.json](./20879-giana-sisters-dream-runners.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
-| Giana Sisters: Twisted Dreams | 3098 | [3098-giana-sisters-twisted-dreams.json](./3098-giana-sisters-twisted-dreams.json) |
 | Giana Sisters: Twisted Dreams - Director's Cut | 44541 | [44541-giana-sisters-twisted-dreams-directors-cut.json](./44541-giana-sisters-twisted-dreams-directors-cut.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Gianluca Vialli's European Manager | 93211 | [93211-gianluca-viallis-european-manager.json](./93211-gianluca-viallis-european-manager.json) |
@@ -4098,7 +4097,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Bonus Edition | 136128 | [136128-god-of-war-bonus-edition.json](./136128-god-of-war-bonus-edition.json) |
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
-| God of War: Ghost of Sparta | 224438 | [224438-god-of-war-ghost-of-sparta.json](./224438-god-of-war-ghost-of-sparta.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
@@ -5947,11 +5945,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
 | Gray Grofa | 51773 | [51773-gray-grofa.json](./51773-gray-grofa.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
-| Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
 | Gray Memory | 116269 | [116269-gray-memory.json](./116269-gray-memory.json) |
 | Gray Planet | 344872 | [344872-gray-planet.json](./344872-gray-planet.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
-| Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
