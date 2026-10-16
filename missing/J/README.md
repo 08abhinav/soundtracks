@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Buffalo Slots | 393538 | [393538-jackpot-buffalo-slots.json](./393538-jackpot-buffalo-slots.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
+| Jackpot Dungeon | 423250 | [423250-jackpot-dungeon.json](./423250-jackpot-dungeon.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Ken Pro! | 333638 | [333638-jan-ken-pro.json](./333638-jan-ken-pro.json) |
 | Jan Pienkowski Haunted House | 186076 | [186076-jan-pienkowski-haunted-house.json](./186076-jan-pienkowski-haunted-house.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
+| Jancer | 423253 | [423253-jancer.json](./423253-jancer.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
