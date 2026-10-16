@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: Beat 'Em Up Archives | 252629 | [252629-qubyte-classics-beat-em-up-archives.json](./252629-qubyte-classics-beat-em-up-archives.json) |
 | QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
+| QUByte Classics: Gaelco Sports Collection | 422551 | [422551-qubyte-classics-gaelco-sports-collection.json](./422551-qubyte-classics-gaelco-sports-collection.json) |
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: Jim Power - The Lost Dimension by Piko | 203269 | [203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json](./203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json) |
 | QUByte Classics: Radical Rex | 216195 | [216195-qubyte-classics-radical-rex.json](./216195-qubyte-classics-radical-rex.json) |
