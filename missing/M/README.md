@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
+| Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
 | Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
@@ -5382,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
+| Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man CX | 45187 | [45187-mega-man-cx.json](./45187-mega-man-cx.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
@@ -6127,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
+| Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
@@ -11273,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
+| Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
@@ -11394,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
+| Monuments Renovator | 417314 | [417314-monuments-renovator.json](./417314-monuments-renovator.json) |
 | Monumentum | 361074 | [361074-monumentum.json](./361074-monumentum.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
