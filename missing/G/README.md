@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
 | Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
+| Game Boy Camera | 84643 | [84643-game-boy-camera.json](./84643-game-boy-camera.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
 | Game Boy Wars | 1687 | [1687-game-boy-wars.json](./1687-game-boy-wars.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
+| Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed Knight | 58680 | [58680-greed-knight.json](./58680-greed-knight.json) |
@@ -7326,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fever | 233551 | [233551-gun-fever.json](./233551-gun-fever.json) |
+| Gun Fight | 85868 | [85868-gun-fight.json](./85868-gun-fight.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Fire: AI Rebellion | 328523 | [328523-gun-fire-ai-rebellion.json](./328523-gun-fire-ai-rebellion.json) |
 | Gun Force II | 10450 | [10450-gun-force-ii.json](./10450-gun-force-ii.json) |
