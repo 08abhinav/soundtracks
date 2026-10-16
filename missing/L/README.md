@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
 | Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
+| Liberator | 18456 | [18456-liberator.json](./18456-liberator.json) |
 | Liberator TD | 68573 | [68573-liberator-td.json](./68573-liberator-td.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
