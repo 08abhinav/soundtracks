@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last 22 | 340896 | [340896-last-22.json](./340896-last-22.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
+| Last Action Hero | 16139 | [16139-last-action-hero.json](./16139-last-action-hero.json) |
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
 | Legbreaker | 129546 | [129546-legbreaker.json](./129546-legbreaker.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
+| Legend | 15247 | [15247-legend.json](./15247-legend.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
