@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Samawa Idle | 265304 | [265304-samawa-idle.json](./265304-samawa-idle.json) |
+| Samba de Amigo | 21807 | [21807-samba-de-amigo.json](./21807-samba-de-amigo.json) |
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Samba de Amigo: Party Central | 236658 | [236658-samba-de-amigo-party-central.json](./236658-samba-de-amigo-party-central.json) |
 | Samba de Amigo: Party Central - Digital Deluxe Edition | 251097 | [251097-samba-de-amigo-party-central-digital-deluxe-edition.json](./251097-samba-de-amigo-party-central-digital-deluxe-edition.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
+| Schizoid | 21809 | [21809-schizoid.json](./21809-schizoid.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
@@ -6484,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Maps for Short People 3 | 281358 | [281358-short-maps-for-short-people-3.json](./281358-short-maps-for-short-people-3.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
+| Short Peace: Ranko Tsukigime's Longest Day | 21710 | [21710-short-peace-ranko-tsukigimes-longest-day.json](./21710-short-peace-ranko-tsukigimes-longest-day.json) |
 | Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
 | Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
 | Short Scary Stories | 126892 | [126892-short-scary-stories.json](./126892-short-scary-stories.json) |
@@ -7068,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
 | Sierra Sports NFL Football Pro 2000 | 22609 | [22609-sierra-sports-nfl-football-pro-2000.json](./22609-sierra-sports-nfl-football-pro-2000.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
+| Siesta Fiesta | 21667 | [21667-siesta-fiesta.json](./21667-siesta-fiesta.json) |
 | Siete Olas | 351563 | [351563-siete-olas.json](./351563-siete-olas.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
@@ -13575,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
 | Space Invaders Mini Electronic | 198898 | [198898-space-invaders-mini-electronic.json](./198898-space-invaders-mini-electronic.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
+| Space Invaders Revolution | 22290 | [22290-space-invaders-revolution.json](./22290-space-invaders-revolution.json) |
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
@@ -15427,6 +15432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
+| Spogs Racing | 21048 | [21048-spogs-racing.json](./21048-spogs-racing.json) |
 | Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
@@ -20670,6 +20676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
+| Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
 | Summer Flower of Summer Snow | 339482 | [339482-summer-flower-of-summer-snow.json](./339482-summer-flower-of-summer-snow.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Fruit | 134921 | [134921-summer-fruit.json](./134921-summer-fruit.json) |
