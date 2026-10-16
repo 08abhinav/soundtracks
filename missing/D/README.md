@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan the Man | 38946 | [38946-dan-the-man.json](./38946-dan-the-man.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
+| Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
 | Danball Senki | 72572 | [72572-danball-senki.json](./72572-danball-senki.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
+| Debug | 417988 | [417988-debug.json](./417988-debug.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
@@ -11098,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
+| Dream'On Linus | 417992 | [417992-dreamon-linus.json](./417992-dreamon-linus.json) |
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
 | Dream's Reach: Village of the Gods | 154078 | [154078-dreams-reach-village-of-the-gods.json](./154078-dreams-reach-village-of-the-gods.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
@@ -13336,6 +13339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
+| DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
