@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:36:27.688Z",
-  "total_soundtracks": 1767,
+  "generated_at": "2026-10-16T05:36:41.303Z",
+  "total_soundtracks": 1768,
   "games": [
     {
       "igdb_id": 7522,
@@ -4455,6 +4455,20 @@
           "spotify_url": "https://music.apple.com/us/album/dead-static-drive-original-game-soundtrack/1850755043?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1850755043"
+        }
+      ]
+    },
+    {
+      "igdb_id": 11398,
+      "game_name": "Dead Synchronicity: Tomorrow Comes Today",
+      "game_url": "https://ostdb.net/games/dead-synchronicity-tomorrow-comes-today",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27359140fe83b2b8bdbc50e07b0",
+      "albums": [
+        {
+          "album_name": "Dead Synchronicity: Tomorrow Comes Today (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5sx2Oap5PqIj41jF4hIZQB",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
