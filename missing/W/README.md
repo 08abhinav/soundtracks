@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WALL-E | 320385 | [320385-wall-e.json](./320385-wall-e.json) |
 | WALL-E | 350049 | [350049-wall-e.json](./350049-wall-e.json) |
 | WALL-E | 357198 | [357198-wall-e.json](./357198-wall-e.json) |
+| WALL-E | 5261 | [5261-wall-e.json](./5261-wall-e.json) |
 | WALL-E 2 | 186658 | [186658-wall-e-2.json](./186658-wall-e-2.json) |
 | Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
+| Wheelman | 6638 | [6638-wheelman.json](./6638-wheelman.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
