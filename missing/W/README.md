@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust | 61175 | [61175-wanderlust.json](./61175-wanderlust.json) |
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
+| Wanderlust Adventures | 30245 | [30245-wanderlust-adventures.json](./30245-wanderlust-adventures.json) |
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Bermuda Secret - Collector's Edition | 166046 | [166046-wanderlust-the-bermuda-secret-collectors-edition.json](./166046-wanderlust-the-bermuda-secret-collectors-edition.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine II - Ultramarines Cosmetic Pack | 332084 | [332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json](./332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
+| Warhammer 40,000: Space Wolf | 30283 | [30283-warhammer-40-000-space-wolf.json](./30283-warhammer-40-000-space-wolf.json) |
 | Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
 | Warhammer 40,000: Space Wolf - Fall of Kanak | 163386 | [163386-warhammer-40-000-space-wolf-fall-of-kanak.json](./163386-warhammer-40-000-space-wolf-fall-of-kanak.json) |
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
@@ -6099,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
+| Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormax.io | 115449 | [115449-wormax-io.json](./115449-wormax-io.json) |
 | Wormax2.io | 125811 | [125811-wormax2-io.json](./125811-wormax2-io.json) |
