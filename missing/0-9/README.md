@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
 | #AkiRobots | 141023 | [141023-akirobots.json](./141023-akirobots.json) |
+| #Archery | 32298 | [32298-archery.json](./32298-archery.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #COMPASS | 107623 | [107623-compass.json](./107623-compass.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
