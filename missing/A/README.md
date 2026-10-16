@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
+| Afrika | 7267 | [7267-afrika.json](./7267-afrika.json) |
 | Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
@@ -8793,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
 | Archer Maclean's DropZone: 40th Anniversary Edition | 325012 | [325012-archer-macleans-dropzone-40th-anniversary-edition.json](./325012-archer-macleans-dropzone-40th-anniversary-edition.json) |
+| Archer Maclean's Mercury | 22293 | [22293-archer-macleans-mercury.json](./22293-archer-macleans-mercury.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
@@ -9672,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
 | Arsonist Heaven Remastered | 238440 | [238440-arsonist-heaven-remastered.json](./238440-arsonist-heaven-remastered.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
+| Art Academy | 22959 | [22959-art-academy.json](./22959-art-academy.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
 | Art Academy: Second Semester | 84766 | [84766-art-academy-second-semester.json](./84766-art-academy-second-semester.json) |
