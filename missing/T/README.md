@@ -2593,7 +2593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
 | Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
 | Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
-| Tekken Tag Tournament | 289037 | [289037-tekken-tag-tournament.json](./289037-tekken-tag-tournament.json) |
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament 2: We Are Tekken Edition | 89871 | [89871-tekken-tag-tournament-2-we-are-tekken-edition.json](./89871-tekken-tag-tournament-2-we-are-tekken-edition.json) |
@@ -5322,7 +5321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
-| The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
 | The Cosmic Wheel Sisterhood - Deluxe Edition | 261993 | [261993-the-cosmic-wheel-sisterhood-deluxe-edition.json](./261993-the-cosmic-wheel-sisterhood-deluxe-edition.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
 | The Cost Of Bliss | 282057 | [282057-the-cost-of-bliss.json](./282057-the-cost-of-bliss.json) |
