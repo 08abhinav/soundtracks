@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
+| Yet Another Research Dog | 83589 | [83589-yet-another-research-dog.json](./83589-yet-another-research-dog.json) |
 | Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet Another Sonic the Hedgehog Minigame | 326830 | [326830-yet-another-sonic-the-hedgehog-minigame.json](./326830-yet-another-sonic-the-hedgehog-minigame.json) |
