@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Bold Moves Street Racing | 43384 | [43384-ford-bold-moves-street-racing.json](./43384-ford-bold-moves-street-racing.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford Racing | 4867 | [4867-ford-racing.json](./4867-ford-racing.json) |
+| Ford Racing 2 | 4869 | [4869-ford-racing-2.json](./4869-ford-racing-2.json) |
 | Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
