@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
+| Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
