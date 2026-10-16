@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Gives Up Her Dead | 290350 | [290350-never-gives-up-her-dead.json](./290350-never-gives-up-her-dead.json) |
 | Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
 | Never Gone | 110211 | [110211-never-gone.json](./110211-never-gone.json) |
+| Never Happened | 421829 | [421829-never-happened.json](./421829-never-happened.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
