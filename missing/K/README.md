@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
+| Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
+| Knight & Damsel | 24023 | [24023-knight-and-damsel.json](./24023-knight-and-damsel.json) |
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
