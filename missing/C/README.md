@@ -3639,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
+| Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
 | Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
+| Chest & Blade | 420009 | [420009-chest-and-blade.json](./420009-chest-and-blade.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
