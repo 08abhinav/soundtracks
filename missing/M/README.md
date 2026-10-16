@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
+| Magic Heroes: Save Our Park | 28911 | [28911-magic-heroes-save-our-park.json](./28911-magic-heroes-save-our-park.json) |
 | Magic Hop | 221354 | [221354-magic-hop.json](./221354-magic-hop.json) |
 | Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
@@ -6715,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 3: Snake Eater - Limited Metal Edition | 43264 | [43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json](./43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - Slipcase Edition | 43262 | [43262-metal-gear-solid-3-snake-eater-slipcase-edition.json](./43262-metal-gear-solid-3-snake-eater-slipcase-edition.json) |
+| Metal Gear Solid 3: Subsistence - Limited Edition | 20829 | [20829-metal-gear-solid-3-subsistence-limited-edition.json](./20829-metal-gear-solid-3-subsistence-limited-edition.json) |
 | Metal Gear Solid 4 Database | 131255 | [131255-metal-gear-solid-4-database.json](./131255-metal-gear-solid-4-database.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
