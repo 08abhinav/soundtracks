@@ -620,7 +620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
 | Ibatic | 187188 | [187188-ibatic.json](./187188-ibatic.json) |
-| Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
@@ -2562,7 +2561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
 | Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
 | Infinideer: Deerfinity | 387044 | [387044-infinideer-deerfinity.json](./387044-infinideer-deerfinity.json) |
-| Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
