@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
 | Darius | 6789 | [6789-darius.json](./6789-darius.json) |
+| Darius Cozmic Collection | 104778 | [104778-darius-cozmic-collection.json](./104778-darius-cozmic-collection.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
@@ -1963,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Defeat: Source | 3267 | [3267-day-of-defeat-source.json](./3267-day-of-defeat-source.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
+| Day of Dragons | 122643 | [122643-day-of-dragons.json](./122643-day-of-dragons.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
@@ -2529,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
+| Dead or School | 105058 | [105058-dead-or-school.json](./105058-dead-or-school.json) |
 | Dead Outbreak | 274113 | [274113-dead-outbreak.json](./274113-dead-outbreak.json) |
 | Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
@@ -2858,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
 | Deadswitch 3 | 147182 | [147182-deadswitch-3.json](./147182-deadswitch-3.json) |
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
+| Deadtime Defenders | 123520 | [123520-deadtime-defenders.json](./123520-deadtime-defenders.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deaduction | 276683 | [276683-deaduction.json](./276683-deaduction.json) |
 | Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
