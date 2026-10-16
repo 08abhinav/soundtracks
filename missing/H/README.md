@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
 | Harvest of the Sun Vincent Van Gogh Revisited | 45887 | [45887-harvest-of-the-sun-vincent-van-gogh-revisited.json](./45887-harvest-of-the-sun-vincent-van-gogh-revisited.json) |
 | Harvest on Jupiter | 260331 | [260331-harvest-on-jupiter.json](./260331-harvest-on-jupiter.json) |
+| Harvest Overdrive | 420514 | [420514-harvest-overdrive.json](./420514-harvest-overdrive.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
+| Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
+| Here Comes the Horde | 420511 | [420511-here-comes-the-horde.json](./420511-here-comes-the-horde.json) |
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
@@ -6828,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
+| Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
