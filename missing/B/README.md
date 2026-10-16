@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
+| Babo & Luda Adventure | 421215 | [421215-babo-and-luda-adventure.json](./421215-babo-and-luda-adventure.json) |
 | Babo Violent 2 | 72760 | [72760-babo-violent-2.json](./72760-babo-violent-2.json) |
 | Babol the Walking Box | 154820 | [154820-babol-the-walking-box.json](./154820-babol-the-walking-box.json) |
 | Baboon | 8659 | [8659-baboon.json](./8659-baboon.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berks 3: They're Angry! | 60520 | [60520-berks-3-theyre-angry.json](./60520-berks-3-theyre-angry.json) |
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
+| Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
+| Blade Man's Less Successful Business Ventures | 421196 | [421196-blade-mans-less-successful-business-ventures.json](./421196-blade-mans-less-successful-business-ventures.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
@@ -7355,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
+| Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block Zombies! | 65415 | [65415-block-zombies.json](./65415-block-zombies.json) |
