@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
 | Allspace | 114237 | [114237-allspace.json](./114237-allspace.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
+| Allumette | 33070 | [33070-allumette.json](./33070-allumette.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Allura: Curse of the Mermaid | 148114 | [148114-allura-curse-of-the-mermaid.json](./148114-allura-curse-of-the-mermaid.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
 | Among the Zombies | 261739 | [261739-among-the-zombies.json](./261739-among-the-zombies.json) |
 | Among Thorns | 25959 | [25959-among-thorns.json](./25959-among-thorns.json) |
+| Among Trees | 106279 | [106279-among-trees.json](./106279-among-trees.json) |
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
@@ -6642,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
 | Anima: Gate of Memories | 19851 | [19851-anima-gate-of-memories.json](./19851-anima-gate-of-memories.json) |
+| Anima: Gate of Memories - The Nameless Chronicles | 101608 | [101608-anima-gate-of-memories-the-nameless-chronicles.json](./101608-anima-gate-of-memories-the-nameless-chronicles.json) |
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
 | ANIMAC | 145243 | [145243-animac.json](./145243-animac.json) |
@@ -9303,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
+| Arkham Horror: Mother's Embrace | 96482 | [96482-arkham-horror-mothers-embrace.json](./96482-arkham-horror-mothers-embrace.json) |
 | Arkham Nightmares | 31700 | [31700-arkham-nightmares.json](./31700-arkham-nightmares.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
@@ -11152,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Rorona Plus: The Alchemist of Arland | 43039 | [43039-atelier-rorona-plus-the-alchemist-of-arland.json](./43039-atelier-rorona-plus-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
+| Atelier Rorona: The Alchemist of Arland DX | 105031 | [105031-atelier-rorona-the-alchemist-of-arland-dx.json](./105031-atelier-rorona-the-alchemist-of-arland-dx.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy | 136414 | [136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json](./136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Additional Area "Keldorah Castle" | 168937 | [168937-atelier-ryza-2-lost-legends-and-the-secret-fairy-additional-area-keldorah-castle.json](./168937-atelier-ryza-2-lost-legends-and-the-secret-fairy-additional-area-keldorah-castle.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition | 222263 | [222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json](./222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json) |
