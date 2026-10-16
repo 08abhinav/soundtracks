@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
 | 200 Hidden House Cats | 308939 | [308939-200-hidden-house-cats.json](./308939-200-hidden-house-cats.json) |
 | 200 Klassische Bucher | 269539 | [269539-200-klassische-bucher.json](./269539-200-klassische-bucher.json) |
+| 200% Mixed Juice! | 14048 | [14048-200-mixed-juice.json](./14048-200-mixed-juice.json) |
 | 2000:1 - A Space Felony: Or How I Came to Value My Life and Murder Mercilessly | 69515 | [69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json](./69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json) |
 | 20000 Atmospheres | 44084 | [44084-20000-atmospheres.json](./44084-20000-atmospheres.json) |
 | 2001 A Space Oddysey | 377711 | [377711-2001-a-space-oddysey.json](./377711-2001-a-space-oddysey.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
+| 2064: Read Only Memories Integral | 84927 | [84927-2064-read-only-memories-integral.json](./84927-2064-read-only-memories-integral.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
