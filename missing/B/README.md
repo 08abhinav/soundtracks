@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
+| Badass | 29536 | [29536-badass.json](./29536-badass.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
 | Badd Bunny Breakout | 410068 | [410068-badd-bunny-breakout.json](./410068-badd-bunny-breakout.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
@@ -9978,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Booster | 206480 | [206480-brain-booster.json](./206480-brain-booster.json) |
+| Brain Booster | 30767 | [30767-brain-booster.json](./30767-brain-booster.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
@@ -12080,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
+| Bunny & Piggy | 30692 | [30692-bunny-and-piggy.json](./30692-bunny-and-piggy.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
