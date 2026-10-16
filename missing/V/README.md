@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
 | VacBot Simulator | 389716 | [389716-vacbot-simulator.json](./389716-vacbot-simulator.json) |
 | Vaccine | 147168 | [147168-vaccine.json](./147168-vaccine.json) |
+| Vaccine | 30698 | [30698-vaccine.json](./30698-vaccine.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
