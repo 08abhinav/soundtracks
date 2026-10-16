@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Brooklyn Guy! | 342711 | [342711-find-brooklyn-guy.json](./342711-find-brooklyn-guy.json) |
+| Find Bunny: A Little Hidden Journey | 423233 | [423233-find-bunny-a-little-hidden-journey.json](./423233-find-bunny-a-little-hidden-journey.json) |
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
 | Find Cats 4 | 344984 | [344984-find-cats-4.json](./344984-find-cats-4.json) |
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
