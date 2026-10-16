@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 2 - Sapienza | 91021 | [91021-hitman-episode-2-sapienza.json](./91021-hitman-episode-2-sapienza.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
+| Hitman: Episode 6 - Hokkaido | 91025 | [91025-hitman-episode-6-hokkaido.json](./91025-hitman-episode-6-hokkaido.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Game of the Year Edition | 74878 | [74878-hitman-game-of-the-year-edition.json](./74878-hitman-game-of-the-year-edition.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
