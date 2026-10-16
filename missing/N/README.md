@@ -3827,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
+| Nioh 2: Darkness in the Capital | 140049 | [140049-nioh-2-darkness-in-the-capital.json](./140049-nioh-2-darkness-in-the-capital.json) |
 | Nioh 2: Special Edition | 136139 | [136139-nioh-2-special-edition.json](./136139-nioh-2-special-edition.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
 | Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
