@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might & Mushroom | 412236 | [412236-might-and-mushroom.json](./412236-might-and-mushroom.json) |
 | Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
+| Might and Magic II: Gates to Another World | 7734 | [7734-might-and-magic-ii-gates-to-another-world.json](./7734-might-and-magic-ii-gates-to-another-world.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
@@ -11535,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
 | Mordhau: Gold Edition | 256429 | [256429-mordhau-gold-edition.json](./256429-mordhau-gold-edition.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
+| Mordheim: City of the Damned | 8209 | [8209-mordheim-city-of-the-damned.json](./8209-mordheim-city-of-the-damned.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
 | Mordheim: City of the Damned - Doomweaver | 53373 | [53373-mordheim-city-of-the-damned-doomweaver.json](./53373-mordheim-city-of-the-damned-doomweaver.json) |
 | Mordheim: City of the Damned - The Poison Wind Globadier | 53372 | [53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json](./53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json) |
@@ -12904,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
 | MTV's Beavis and Butt-head | 307114 | [307114-mtvs-beavis-and-butt-head.json](./307114-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head | 307115 | [307115-mtvs-beavis-and-butt-head.json](./307115-mtvs-beavis-and-butt-head.json) |
+| MTV's Beavis and Butt-head in Virtual Stupidity | 8457 | [8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json](./8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json) |
 | MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
 | MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
@@ -13652,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 7091 | [7091-mx-vs-atv-reflex.json](./7091-mx-vs-atv-reflex.json) |
+| MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 248556 | [248556-mx-vs-atv-untamed.json](./248556-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
