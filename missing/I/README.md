@@ -1734,7 +1734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
 | Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
-| Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
