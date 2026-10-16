@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
 | Battle Monsters | 45504 | [45504-battle-monsters.json](./45504-battle-monsters.json) |
 | Battle Moon Wars | 47065 | [47065-battle-moon-wars.json](./47065-battle-moon-wars.json) |
+| Battle Motion | 113547 | [113547-battle-motion.json](./113547-battle-motion.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle Mythic Maidens Arena | 351089 | [351089-battle-mythic-maidens-arena.json](./351089-battle-mythic-maidens-arena.json) |
 | Battle Nations | 50387 | [50387-battle-nations.json](./50387-battle-nations.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
+| Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
@@ -11329,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
+| Bubble Burst | 113274 | [113274-bubble-burst.json](./113274-bubble-burst.json) |
 | Bubble Burst | 362446 | [362446-bubble-burst.json](./362446-bubble-burst.json) |
 | Bubble Burst Remix | 206689 | [206689-bubble-burst-remix.json](./206689-bubble-burst-remix.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
