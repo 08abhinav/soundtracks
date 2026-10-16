@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Confucius's Journey | 133129 | [133129-the-chronicles-of-confuciuss-journey.json](./133129-the-chronicles-of-confuciuss-journey.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
+| The Chronicles of Emerland Solitaire | 22089 | [22089-the-chronicles-of-emerland-solitaire.json](./22089-the-chronicles-of-emerland-solitaire.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Jonah and the Whale | 113480 | [113480-the-chronicles-of-jonah-and-the-whale.json](./113480-the-chronicles-of-jonah-and-the-whale.json) |
@@ -17907,6 +17908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tools Up!: Ultimate Edition | 280131 | [280131-tools-up-ultimate-edition.json](./280131-tools-up-ultimate-edition.json) |
 | Toon Blast | 56586 | [56586-toon-blast.json](./56586-toon-blast.json) |
 | Toon Breakout 3D | 328444 | [328444-toon-breakout-3d.json](./328444-toon-breakout-3d.json) |
+| Toon Car | 22046 | [22046-toon-car.json](./22046-toon-car.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Cup 2016 | 317547 | [317547-toon-cup-2016.json](./317547-toon-cup-2016.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
@@ -18319,6 +18321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Pharaoh Dynasties | 333730 | [333730-total-war-pharaoh-dynasties.json](./333730-total-war-pharaoh-dynasties.json) |
 | Total War: Rome II - Black Sea Colonies | 53824 | [53824-total-war-rome-ii-black-sea-colonies.json](./53824-total-war-rome-ii-black-sea-colonies.json) |
 | Total War: Rome II - Blood & Gore | 53826 | [53826-total-war-rome-ii-blood-and-gore.json](./53826-total-war-rome-ii-blood-and-gore.json) |
+| Total War: Rome II - Caesar in Gaul | 22145 | [22145-total-war-rome-ii-caesar-in-gaul.json](./22145-total-war-rome-ii-caesar-in-gaul.json) |
 | Total War: Rome II - Campaign Pack: Rise of the Republic | 167651 | [167651-total-war-rome-ii-campaign-pack-rise-of-the-republic.json](./167651-total-war-rome-ii-campaign-pack-rise-of-the-republic.json) |
 | Total War: Rome II - Campaign Pack: Wrath of Sparta | 53830 | [53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json](./53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json) |
 | Total War: Rome II - Culture Pack: Black Seas Colonies | 53831 | [53831-total-war-rome-ii-culture-pack-black-seas-colonies.json](./53831-total-war-rome-ii-culture-pack-black-seas-colonies.json) |
