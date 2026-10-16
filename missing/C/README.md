@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
+| Chef Solitaire: USA | 33793 | [33793-chef-solitaire-usa.json](./33793-chef-solitaire-usa.json) |
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
