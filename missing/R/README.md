@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radiant Sea | 316631 | [316631-radiant-sea.json](./316631-radiant-sea.json) |
 | Radiant Silvergun | 356228 | [356228-radiant-silvergun.json](./356228-radiant-silvergun.json) |
+| Radiant Silvergun | 51624 | [51624-radiant-silvergun.json](./51624-radiant-silvergun.json) |
 | Radiant Silvergun | 5422 | [5422-radiant-silvergun.json](./5422-radiant-silvergun.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
+| Railworks 3: Train Simulator 2012 | 51271 | [51271-railworks-3-train-simulator-2012.json](./51271-railworks-3-train-simulator-2012.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
 | Red Victory | 59320 | [59320-red-victory.json](./59320-red-victory.json) |
 | Red vs. Green | 362395 | [362395-red-vs-green.json](./362395-red-vs-green.json) |
+| Red Wake Carnage | 51435 | [51435-red-wake-carnage.json](./51435-red-wake-carnage.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
