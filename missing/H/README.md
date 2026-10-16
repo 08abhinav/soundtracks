@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
+| Hakuoki: Memories of the Shinsengumi | 22148 | [22148-hakuoki-memories-of-the-shinsengumi.json](./22148-hakuoki-memories-of-the-shinsengumi.json) |
 | Hakuoki: Shinsengumi Kitan | 127171 | [127171-hakuoki-shinsengumi-kitan.json](./127171-hakuoki-shinsengumi-kitan.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
+| Hexic 2 | 21834 | [21834-hexic-2.json](./21834-hexic-2.json) |
 | Hexic HD | 2732 | [2732-hexic-hd.json](./2732-hexic-hd.json) |
 | Hexic Rush | 91836 | [91836-hexic-rush.json](./91836-hexic-rush.json) |
 | Hexical | 240686 | [240686-hexical.json](./240686-hexical.json) |
