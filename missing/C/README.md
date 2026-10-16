@@ -1957,6 +1957,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Cars | 230423 | [230423-cars.json](./230423-cars.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
+| Cars | 243202 | [243202-cars.json](./243202-cars.json) |
+| Cars | 243203 | [243203-cars.json](./243203-cars.json) |
+| Cars | 243204 | [243204-cars.json](./243204-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
 | Cars | 295142 | [295142-cars.json](./295142-cars.json) |
