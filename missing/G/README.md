@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station: Idle Simulator | 362341 | [362341-gas-station-idle-simulator.json](./362341-gas-station-idle-simulator.json) |
 | Gas Station: Trucker Parking | 231950 | [231950-gas-station-trucker-parking.json](./231950-gas-station-trucker-parking.json) |
 | Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
+| Gasbound | 418611 | [418611-gasbound.json](./418611-gasbound.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
