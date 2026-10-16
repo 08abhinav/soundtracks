@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Chess | 151035 | [151035-ragnarok-chess.json](./151035-ragnarok-chess.json) |
 | Ragnarok Console Project | 403762 | [403762-ragnarok-console-project.json](./403762-ragnarok-console-project.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
+| Ragnarok DS | 21097 | [21097-ragnarok-ds.json](./21097-ragnarok-ds.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
 | Ragnarok M: Eternal Love | 111880 | [111880-ragnarok-m-eternal-love.json](./111880-ragnarok-m-eternal-love.json) |
@@ -6097,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
+| Robocalypse | 21454 | [21454-robocalypse.json](./21454-robocalypse.json) |
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
