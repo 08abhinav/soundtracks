@@ -9887,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copernicus | 72907 | [72907-copernicus.json](./72907-copernicus.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
+| Copoka | 19812 | [19812-copoka.json](./19812-copoka.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
@@ -11556,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyTV | 261225 | [261225-crazytv.json](./261225-crazytv.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
+| Crea | 17105 | [17105-crea.json](./17105-crea.json) |
 | creak, Creak | 58706 | [58706-creak-creak.json](./58706-creak-creak.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
@@ -12651,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
 | Crypt of the Necrodancer: Nintendo Switch Edition | 135593 | [135593-crypt-of-the-necrodancer-nintendo-switch-edition.json](./135593-crypt-of-the-necrodancer-nintendo-switch-edition.json) |
 | Crypt of the Necrodancer: Shovel Knight | 376071 | [376071-crypt-of-the-necrodancer-shovel-knight.json](./376071-crypt-of-the-necrodancer-shovel-knight.json) |
+| Crypt of the Serpent King | 31307 | [31307-crypt-of-the-serpent-king.json](./31307-crypt-of-the-serpent-king.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
