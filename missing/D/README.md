@@ -3309,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debrisverse | 408000 | [408000-debrisverse.json](./408000-debrisverse.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
+| Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
@@ -13056,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
+| Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
