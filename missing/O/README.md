@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Trail | 341500 | [341500-off-trail.json](./341500-off-trail.json) |
 | Off Your Rocker | 40680 | [40680-off-your-rocker.json](./40680-off-your-rocker.json) |
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
+| Off-Peak | 25849 | [25849-off-peak.json](./25849-off-peak.json) |
 | Off-Planet Dreams | 319128 | [319128-off-planet-dreams.json](./319128-off-planet-dreams.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
