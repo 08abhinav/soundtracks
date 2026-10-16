@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Embervale.TV | 239577 | [239577-embervale-tv.json](./239577-embervale-tv.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
+| Emberwall | 417300 | [417300-emberwall.json](./417300-emberwall.json) |
 | Emberward | 260224 | [260224-emberward.json](./260224-emberward.json) |
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
@@ -3464,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape - Norm's World XL | 76176 | [76176-escape-norms-world-xl.json](./76176-escape-norms-world-xl.json) |
+| Escape + Rooms Horror Bundle | 417286 | [417286-escape-rooms-horror-bundle.json](./417286-escape-rooms-horror-bundle.json) |
 | Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
