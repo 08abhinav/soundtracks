@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Ztime Story | 227162 | [227162-ztime-story.json](./227162-ztime-story.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
+| Zubo | 21472 | [21472-zubo.json](./21472-zubo.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
