@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
+| Odd Shop | 424048 | [424048-odd-shop.json](./424048-odd-shop.json) |
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Odd\|\|Even | 33196 | [33196-odd-even.json](./33196-odd-even.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
 | One | 247411 | [247411-one.json](./247411-one.json) |
+| One | 6267 | [6267-one.json](./6267-one.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
