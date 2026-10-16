@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Hard | 67636 | [67636-rage-hard.json](./67636-rage-hard.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
+| Rage Mountain Rally | 420485 | [420485-rage-mountain-rally.json](./420485-rage-mountain-rally.json) |
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
 | Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
+| Redline Horde | 420507 | [420507-redline-horde.json](./420507-redline-horde.json) |
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
 | RedLine Racer | 39508 | [39508-redline-racer.json](./39508-redline-racer.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
