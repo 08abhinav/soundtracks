@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:11:40.867Z",
-  "total_soundtracks": 1865,
+  "generated_at": "2026-10-16T06:11:54.822Z",
+  "total_soundtracks": 1866,
   "games": [
     {
       "igdb_id": 7522,
@@ -3909,6 +3909,20 @@
         {
           "album_name": "Crawl (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3h7x7PhaYHXgOBPOHMsw3E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 110834,
+      "game_name": "Creaks",
+      "game_url": "https://ostdb.net/games/creaks",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27328b855927aec5c7af020ab78",
+      "albums": [
+        {
+          "album_name": "Creaks (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2b3U8tdKEAO7ZHYruqvFMP",
           "apple_music_url": "",
           "album_link_url": ""
         }
