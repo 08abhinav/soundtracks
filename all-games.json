@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:57:47.502Z",
-  "total_soundtracks": 1837,
+  "generated_at": "2026-10-16T05:58:00.028Z",
+  "total_soundtracks": 1838,
   "games": [
     {
       "igdb_id": 7522,
@@ -21849,6 +21849,20 @@
         {
           "album_name": "Ys VI - the Ark of Napishtim - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/243abdc5kJkLqCupxJzWj1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15455,
+      "game_name": "Ys: The Oath in Felghana",
+      "game_url": "https://ostdb.net/games/ys-the-oath-in-felghana",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b7be1b7f64bb2aa723080468",
+      "albums": [
+        {
+          "album_name": "Original Soundtrack Ys - The Oath in Felghana -",
+          "spotify_url": "https://open.spotify.com/album/2dGabxne4MenKxR22c5C0I",
           "apple_music_url": "",
           "album_link_url": ""
         }
