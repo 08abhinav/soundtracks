@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:55:10.707Z",
-  "total_soundtracks": 1828,
+  "generated_at": "2026-10-16T05:55:57.718Z",
+  "total_soundtracks": 1829,
   "games": [
     {
       "igdb_id": 7522,
@@ -732,6 +732,20 @@
           "album_name": "Alien: Isolation (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144153,
+      "game_name": "Aliens: Fireteam Elite",
+      "game_url": "https://ostdb.net/games/aliens-fireteam-elite",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27355434993dfd3bf621afd1f2e",
+      "albums": [
+        {
+          "album_name": "Aliens: Fireteam Elite (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
