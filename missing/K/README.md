@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.O.L.M. | 68899 | [68899-k-o-l-m.json](./68899-k-o-l-m.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
+| K*A*O*R*I | 417949 | [417949-k-a-o-r-i.json](./417949-k-a-o-r-i.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
 | K2 Story | 245800 | [245800-k2-story.json](./245800-k2-story.json) |
 | K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kalit | 347651 | [347651-kalit.json](./347651-kalit.json) |
+| Kalkuhue | 417977 | [417977-kalkuhue.json](./417977-kalkuhue.json) |
 | Kallax | 217284 | [217284-kallax.json](./217284-kallax.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
@@ -403,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
+| Kami's Garden: Bound To The Pages | 417936 | [417936-kamis-garden-bound-to-the-pages.json](./417936-kamis-garden-bound-to-the-pages.json) |
 | Kamibako: Mythology of Cube | 212986 | [212986-kamibako-mythology-of-cube.json](./212986-kamibako-mythology-of-cube.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi Ludere Deorum: Unite Edition | 165172 | [165172-kamigami-no-asobi-ludere-deorum-unite-edition.json](./165172-kamigami-no-asobi-ludere-deorum-unite-edition.json) |
