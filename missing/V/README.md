@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
 | Veilia | 31616 | [31616-veilia.json](./31616-veilia.json) |
+| Veillombre | 421798 | [421798-veillombre.json](./421798-veillombre.json) |
 | VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
