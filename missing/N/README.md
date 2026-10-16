@@ -3529,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
+| Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
 | Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
 | Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Nott Longa | 181090 | [181090-nott-longa.json](./181090-nott-longa.json) |
+| NotTheNameWeWanted | 11315 | [11315-notthenamewewanted.json](./11315-notthenamewewanted.json) |
 | Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | NotZilla Ice Cream Vendor | 179533 | [179533-notzilla-ice-cream-vendor.json](./179533-notzilla-ice-cream-vendor.json) |
