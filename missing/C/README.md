@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter 2006 Trophy Season | 60229 | [60229-cabelas-big-game-hunter-2006-trophy-season.json](./60229-cabelas-big-game-hunter-2006-trophy-season.json) |
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
+| Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter III: The Next Harvest | 73693 | [73693-cabelas-big-game-hunter-iii-the-next-harvest.json](./73693-cabelas-big-game-hunter-iii-the-next-harvest.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's GrandSlam Hunting: 2004 Trophies | 209774 | [209774-cabelas-grandslam-hunting-2004-trophies.json](./209774-cabelas-grandslam-hunting-2004-trophies.json) |
 | Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
+| Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
@@ -1087,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Classics Mini Mix | 49192 | [49192-capcom-classics-mini-mix.json](./49192-capcom-classics-mini-mix.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
+| Capcom Digital Collection | 6933 | [6933-capcom-digital-collection.json](./6933-capcom-digital-collection.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
 | Capcom Fighting Collection 2 | 314942 | [314942-capcom-fighting-collection-2.json](./314942-capcom-fighting-collection-2.json) |
@@ -1188,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
+| Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
@@ -2047,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
 | Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
+| Carve | 5767 | [5767-carve.json](./5767-carve.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
@@ -7094,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
+| Close Combat: First to Fight | 5779 | [5779-close-combat-first-to-fight.json](./5779-close-combat-first-to-fight.json) |
 | Close Combat: Gateway to Caen | 17346 | [17346-close-combat-gateway-to-caen.json](./17346-close-combat-gateway-to-caen.json) |
 | Close Combat: Modern Tactics | 21519 | [21519-close-combat-modern-tactics.json](./21519-close-combat-modern-tactics.json) |
 | Close Combat: RAF Regiment | 63190 | [63190-close-combat-raf-regiment.json](./63190-close-combat-raf-regiment.json) |
@@ -12346,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
+| Crouching Tiger, Hidden Dragon | 5794 | [5794-crouching-tiger-hidden-dragon.json](./5794-crouching-tiger-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
@@ -13282,6 +13289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
 | Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
+| Cuisineer | 211330 | [211330-cuisineer.json](./211330-cuisineer.json) |
 | Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
