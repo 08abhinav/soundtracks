@@ -5010,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
+| Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
 | Big Babies: Argument | 324835 | [324835-big-babies-argument.json](./324835-big-babies-argument.json) |
 | Big Babies: Instructions | 324834 | [324834-big-babies-instructions.json](./324834-big-babies-instructions.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
+| Bloons TD Battles 2 | 153002 | [153002-bloons-td-battles-2.json](./153002-bloons-td-battles-2.json) |
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
@@ -10932,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
+| BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
 | Brookelle's FreeCell | 100274 | [100274-brookelles-freecell.json](./100274-brookelles-freecell.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
