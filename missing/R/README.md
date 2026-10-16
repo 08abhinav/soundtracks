@@ -5205,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Undertale Music Pack | 397807 | [397807-rift-of-the-necrodancer-undertale-music-pack.json](./397807-rift-of-the-necrodancer-undertale-music-pack.json) |
 | Rift of the NecroDancer: VA-11 Hall-A - "Yliad" - Garoad | 401874 | [401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json](./401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json) |
 | Rift of the NecroDancer: VA-11 Hall-A Music Pack | 401873 | [401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json](./401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json) |
+| Rift Raiders | 423256 | [423256-rift-raiders.json](./423256-rift-raiders.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Riff | 293543 | [293543-rift-riff.json](./293543-rift-riff.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
