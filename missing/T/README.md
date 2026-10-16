@@ -8091,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
+| The Kindred | 14576 | [14576-the-kindred.json](./14576-the-kindred.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
@@ -18253,6 +18254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
+| Total Distortion | 13787 | [13787-total-distortion.json](./13787-total-distortion.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
@@ -20918,6 +20920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transparent Machines | 60448 | [60448-transparent-machines.json](./60448-transparent-machines.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
+| TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
