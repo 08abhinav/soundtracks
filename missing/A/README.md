@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
+| Advance Wars: Days of Ruin | 1694 | [1694-advance-wars-days-of-ruin.json](./1694-advance-wars-days-of-ruin.json) |
 | Advance Wars: Dual Strike | 1693 | [1693-advance-wars-dual-strike.json](./1693-advance-wars-dual-strike.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Basketball Simulator | 13791 | [13791-advanced-basketball-simulator.json](./13791-advanced-basketball-simulator.json) |
@@ -7556,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
 | Ao no Kanata no Four Rhythm IF 01: Minamo Shirase | 178329 | [178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json](./178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json) |
 | Ao no Kanata no Four Rhythm: HD Edition | 136793 | [136793-ao-no-kanata-no-four-rhythm-hd-edition.json](./136793-ao-no-kanata-no-four-rhythm-hd-edition.json) |
+| Ao Oni | 46941 | [46941-ao-oni.json](./46941-ao-oni.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
