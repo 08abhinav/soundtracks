@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
+| Shadow Company: Left for Dead | 22069 | [22069-shadow-company-left-for-dead.json](./22069-shadow-company-left-for-dead.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
@@ -6999,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
+| Sid Meier's CivNet | 21930 | [21930-sid-meiers-civnet.json](./21930-sid-meiers-civnet.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid Meier's Starships | 8714 | [8714-sid-meiers-starships.json](./8714-sid-meiers-starships.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
+| Silpheed: The Lost Planet | 22009 | [22009-silpheed-the-lost-planet.json](./22009-silpheed-the-lost-planet.json) |
 | Silt | 152261 | [152261-silt.json](./152261-silt.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
@@ -12957,6 +12960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Setsuka | 168727 | [168727-soulcalibur-vi-setsuka.json](./168727-soulcalibur-vi-setsuka.json) |
 | SoulCalibur VI: Tira | 168721 | [168721-soulcalibur-vi-tira.json](./168721-soulcalibur-vi-tira.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
+| Soulcalibur: Lost Swords | 22030 | [22030-soulcalibur-lost-swords.json](./22030-soulcalibur-lost-swords.json) |
 | SoulCalibur: Unbreakable Soul | 25145 | [25145-soulcalibur-unbreakable-soul.json](./25145-soulcalibur-unbreakable-soul.json) |
 | SoulCast | 240890 | [240890-soulcast.json](./240890-soulcast.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
@@ -13054,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
 | Sound Science | 133158 | [133158-sound-science.json](./133158-sound-science.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
+| Sound Shapes: Car Mini-Album & Creator Pack | 21728 | [21728-sound-shapes-car-mini-album-and-creator-pack.json](./21728-sound-shapes-car-mini-album-and-creator-pack.json) |
 | Sound Shift | 12890 | [12890-sound-shift.json](./12890-sound-shift.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
@@ -18588,6 +18593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
+| Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
@@ -20867,6 +20873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
+| Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Greed | 158957 | [158957-summoners-greed.json](./158957-summoners-greed.json) |
@@ -21074,6 +21081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
+| Sunset Overdrive: Dawn of the Rise of the Fallen Machines | 21934 | [21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json](./21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Overdrive: Mystery of the Mooil Rig | 20050 | [20050-sunset-overdrive-mystery-of-the-mooil-rig.json](./20050-sunset-overdrive-mystery-of-the-mooil-rig.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
