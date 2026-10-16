@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:24:26.567Z",
-  "total_soundtracks": 1887,
+  "generated_at": "2026-10-16T06:24:41.581Z",
+  "total_soundtracks": 1888,
   "games": [
     {
       "igdb_id": 7522,
@@ -19794,6 +19794,20 @@
           "album_name": "The Sims 4, Vol. 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10632,
+      "game_name": "The Sims Medieval",
+      "game_url": "https://ostdb.net/games/the-sims-medieval",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27310e44593c13796757fc20594",
+      "albums": [
+        {
+          "album_name": "The Sims Medieval, Vol. 1 (Original Score Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
