@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
 | Ladybugs and Storm | 236736 | [236736-ladybugs-and-storm.json](./236736-ladybugs-and-storm.json) |
+| Ladykiller in a Bind | 25572 | [25572-ladykiller-in-a-bind.json](./25572-ladykiller-in-a-bind.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laetus. | 198297 | [198297-laetus.json](./198297-laetus.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorera | 135769 | [135769-lorera.json](./135769-lorera.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
+| Loretta | 203642 | [203642-loretta.json](./203642-loretta.json) |
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
