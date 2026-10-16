@@ -4847,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
+| Wolf Tails | 99604 | [99604-wolf-tails.json](./99604-wolf-tails.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
