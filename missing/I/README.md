@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
+| Illie | 74950 | [74950-illie.json](./74950-illie.json) |
 | Illiteracy | 178489 | [178489-illiteracy.json](./178489-illiteracy.json) |
 | Illmatic Envelope Swamp + Radirgy Swag | 158949 | [158949-illmatic-envelope-swamp-radirgy-swag.json](./158949-illmatic-envelope-swamp-radirgy-swag.json) |
 | Illness | 166584 | [166584-illness.json](./166584-illness.json) |
