@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Grove 3 | 219764 | [219764-keeper-of-the-grove-3.json](./219764-keeper-of-the-grove-3.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
+| Keeper of the Sun and Moon | 120840 | [120840-keeper-of-the-sun-and-moon.json](./120840-keeper-of-the-sun-and-moon.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
 | Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
+| Kid's Safety With George Blessure | 120988 | [120988-kids-safety-with-george-blessure.json](./120988-kids-safety-with-george-blessure.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
 | Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
 | Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
