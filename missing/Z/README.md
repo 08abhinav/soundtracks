@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
+| Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Redbox | 112187 | [112187-zombie-redbox.json](./112187-zombie-redbox.json) |
 | Zombie Retro Simulation | 177273 | [177273-zombie-retro-simulation.json](./177273-zombie-retro-simulation.json) |
+| Zombie Riot | 36711 | [36711-zombie-riot.json](./36711-zombie-riot.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
 | Zombie Road Trip HD | 99145 | [99145-zombie-road-trip-hd.json](./99145-zombie-road-trip-hd.json) |
 | Zombie Roadkill 3D | 260869 | [260869-zombie-roadkill-3d.json](./260869-zombie-roadkill-3d.json) |
