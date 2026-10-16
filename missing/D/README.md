@@ -8185,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolos: Your Best Future | 251744 | [251744-dolos-your-best-future.json](./251744-dolos-your-best-future.json) |
 | Dolphin | 22733 | [22733-dolphin.json](./22733-dolphin.json) |
+| Dolphin Blue | 3114 | [3114-dolphin-blue.json](./3114-dolphin-blue.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
@@ -9065,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
+| Doors: Origins | 202396 | [202396-doors-origins.json](./202396-doors-origins.json) |
 | Doors: Paradox | 174803 | [174803-doors-paradox.json](./174803-doors-paradox.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
@@ -9992,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
+| Dragon Ball Z: V.R.V.S. | 2561 | [2561-dragon-ball-z-v-r-v-s.json](./2561-dragon-ball-z-v-r-v-s.json) |
 | Dragon Ball Z: W Bakuretsu Impact | 66914 | [66914-dragon-ball-z-w-bakuretsu-impact.json](./66914-dragon-ball-z-w-bakuretsu-impact.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
@@ -10741,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
 | Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
+| Dream | 3104 | [3104-dream.json](./3104-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Abyss: Survivors | 346560 | [346560-dream-abyss-survivors.json](./346560-dream-abyss-survivors.json) |
