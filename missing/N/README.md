@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2 | 28829 | [28829-nascar-heat-2.json](./28829-nascar-heat-2.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
+| NASCAR Heat 3 | 104983 | [104983-nascar-heat-3.json](./104983-nascar-heat-3.json) |
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
 | NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
 | NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
+| Never Split the Party | 99046 | [99046-never-split-the-party.json](./99046-never-split-the-party.json) |
 | Never Stop | 102053 | [102053-never-stop.json](./102053-never-stop.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
@@ -2173,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
+| Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | NeverRage | 266973 | [266973-neverrage.json](./266973-neverrage.json) |
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
