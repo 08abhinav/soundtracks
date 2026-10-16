@@ -7774,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
+| Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
 | MindHunt | 223101 | [223101-mindhunt.json](./223101-mindhunt.json) |
+| MindJack | 7072 | [7072-mindjack.json](./7072-mindjack.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
+| MLB 12: The Show | 7374 | [7374-mlb-12-the-show.json](./7374-mlb-12-the-show.json) |
 | MLB 14: The Show | 9642 | [9642-mlb-14-the-show.json](./9642-mlb-14-the-show.json) |
 | MLB 15: The Show | 8655 | [8655-mlb-15-the-show.json](./8655-mlb-15-the-show.json) |
 | MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
@@ -13709,6 +13712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP Motocross Rush | 251736 | [251736-mxgp-motocross-rush.json](./251736-mxgp-motocross-rush.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
+| MXGP: The Official Motocross Videogame | 7692 | [7692-mxgp-the-official-motocross-videogame.json](./7692-mxgp-the-official-motocross-videogame.json) |
 | MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | MXGP2: The Official Motocross Videogame - Day One Edition | 89839 | [89839-mxgp2-the-official-motocross-videogame-day-one-edition.json](./89839-mxgp2-the-official-motocross-videogame-day-one-edition.json) |
