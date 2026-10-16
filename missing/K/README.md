@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
+| Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
 | Katsuragi Misato Houdou Keikaku | 68229 | [68229-katsuragi-misato-houdou-keikaku.json](./68229-katsuragi-misato-houdou-keikaku.json) |
 | Katsute Watashitachi ha Jigoku no Mattadanaka Deshita | 331896 | [331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json](./331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json) |
+| Kattastick | 91214 | [91214-kattastick.json](./91214-kattastick.json) |
 | Katte ni Shirokuma | 77407 | [77407-katte-ni-shirokuma.json](./77407-katte-ni-shirokuma.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
