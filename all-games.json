@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:42:46.085Z",
-  "total_soundtracks": 1777,
+  "generated_at": "2026-10-16T05:42:58.971Z",
+  "total_soundtracks": 1778,
   "games": [
     {
       "igdb_id": 7522,
@@ -14218,6 +14218,20 @@
           "album_name": "Red Dead Redemption Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 260737,
+      "game_name": "Red Dead Redemption",
+      "game_url": "https://ostdb.net/games/red-dead-redemption",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd4b3fc20c85ab28df641ea9",
+      "albums": [
+        {
+          "album_name": "Red Dead Redemption Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
