@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelpet: Magical Dance in Style Deco! | 6831 | [6831-jewelpet-magical-dance-in-style-deco.json](./6831-jewelpet-magical-dance-in-style-deco.json) |
 | Jewelpet: Mahou no DS Kirapikarin | 67227 | [67227-jewelpet-mahou-no-ds-kirapikarin.json](./67227-jewelpet-mahou-no-ds-kirapikarin.json) |
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
+| Jewelrift | 419879 | [419879-jewelrift.json](./419879-jewelrift.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels Fantasy | 100837 | [100837-jewels-fantasy.json](./100837-jewels-fantasy.json) |
