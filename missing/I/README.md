@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
+| Incident Commander | 121073 | [121073-incident-commander.json](./121073-incident-commander.json) |
 | Incident In Oakwood | 285413 | [285413-incident-in-oakwood.json](./285413-incident-in-oakwood.json) |
 | Incident Mahjong | 320828 | [320828-incident-mahjong.json](./320828-incident-mahjong.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
