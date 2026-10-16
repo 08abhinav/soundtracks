@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
+| Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
 | July | 200946 | [200946-july.json](./200946-july.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
