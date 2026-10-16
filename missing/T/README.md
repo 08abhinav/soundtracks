@@ -8040,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Katydids Incident | 203675 | [203675-the-katydids-incident.json](./203675-the-katydids-incident.json) |
 | The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
+| The Keep | 36254 | [36254-the-keep.json](./36254-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keepers 2: The Order's Last Secret - Collector's Edition | 22088 | [22088-the-keepers-2-the-orders-last-secret-collectors-edition.json](./22088-the-keepers-2-the-orders-last-secret-collectors-edition.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
@@ -10417,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
+| The Pirate's Fate | 76587 | [76587-the-pirates-fate.json](./76587-the-pirates-fate.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
 | The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
@@ -14492,6 +14494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
 | Thymesia: Cloud Version | 213562 | [213562-thymesia-cloud-version.json](./213562-thymesia-cloud-version.json) |
 | Thymesia: Digital Deluxe Edition | 213994 | [213994-thymesia-digital-deluxe-edition.json](./213994-thymesia-digital-deluxe-edition.json) |
@@ -18596,6 +18599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hisouten: Scarlet Weather Rhapsody | 27160 | [27160-touhou-hisouten-scarlet-weather-rhapsody.json](./27160-touhou-hisouten-scarlet-weather-rhapsody.json) |
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
+| Touhou Hyouibana: Antinomy of Common Flowers | 76829 | [76829-touhou-hyouibana-antinomy-of-common-flowers.json](./76829-touhou-hyouibana-antinomy-of-common-flowers.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
@@ -22511,6 +22515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
+| Tulpa | 36170 | [36170-tulpa.json](./36170-tulpa.json) |
 | Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble | 237268 | [237268-tumble.json](./237268-tumble.json) |
