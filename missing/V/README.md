@@ -907,7 +907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
-| Velocity 2X | 8467 | [8467-velocity-2x.json](./8467-velocity-2x.json) |
 | Velocity 2X: Critical Mass Edition | 167039 | [167039-velocity-2x-critical-mass-edition.json](./167039-velocity-2x-critical-mass-edition.json) |
 | Velocity 2X: Critical Urgency DLC Pack | 250375 | [250375-velocity-2x-critical-urgency-dlc-pack.json](./250375-velocity-2x-critical-urgency-dlc-pack.json) |
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
@@ -1323,7 +1322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria | 113452 | [113452-victoria.json](./113452-victoria.json) |
-| Victoria 3 | 148372 | [148372-victoria-3.json](./148372-victoria-3.json) |
 | Victoria 3: American Buildings Pack | 258895 | [258895-victoria-3-american-buildings-pack.json](./258895-victoria-3-american-buildings-pack.json) |
 | Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
 | Victoria 3: Dawn of Wonder | 258894 | [258894-victoria-3-dawn-of-wonder.json](./258894-victoria-3-dawn-of-wonder.json) |
@@ -1684,7 +1682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
 | Vintage Hero | 46482 | [46482-vintage-hero.json](./46482-vintage-hero.json) |
-| Vintage Story | 69547 | [69547-vintage-story.json](./69547-vintage-story.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
 | Vinyl Freak: Unsorted | 419996 | [419996-vinyl-freak-unsorted.json](./419996-vinyl-freak-unsorted.json) |
