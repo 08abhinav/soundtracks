@@ -12464,7 +12464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
 | Move On | 237261 | [237261-move-on.json](./237261-move-on.json) |
-| Move or Die | 17012 | [17012-move-or-die.json](./17012-move-or-die.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
 | Move or Fire: Space Desire | 178977 | [178977-move-or-fire-space-desire.json](./178977-move-or-fire-space-desire.json) |
