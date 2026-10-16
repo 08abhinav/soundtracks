@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle | 91527 | [91527-chopper-battle.json](./91527-chopper-battle.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
+| Chopper Command | 18408 | [18408-chopper-command.json](./18408-chopper-command.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
@@ -5662,7 +5663,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
-| Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
@@ -7088,7 +7088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
 | Close the Windows, Lock the Doors | 184965 | [184965-close-the-windows-lock-the-doors.json](./184965-close-the-windows-lock-the-doors.json) |
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
-| Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
 | Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
