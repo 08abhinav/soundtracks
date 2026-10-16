@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T06:00:31.376Z",
-  "total_missing": 218227,
+  "generated_at": "2026-10-16T06:05:10.813Z",
+  "total_missing": 218220,
   "games": [
     {
       "igdb_id": 191680,
@@ -63660,11 +63660,6 @@
       "igdb_id": 233488,
       "game_name": "Assemble the Car",
       "file": "missing/A/233488-assemble-the-car.json"
-    },
-    {
-      "igdb_id": 117008,
-      "game_name": "Assemble With Care",
-      "file": "missing/A/117008-assemble-with-care.json"
     },
     {
       "igdb_id": 304679,
@@ -180057,11 +180052,6 @@
       "file": "missing/C/414520-command-and-conquer-3d.json"
     },
     {
-      "igdb_id": 670,
-      "game_name": "Command & Conquer 4: Tiberian Twilight",
-      "file": "missing/C/670-command-and-conquer-4-tiberian-twilight.json"
-    },
-    {
       "igdb_id": 112104,
       "game_name": "Command & Conquer Remastered Collection",
       "file": "missing/C/112104-command-and-conquer-remastered-collection.json"
@@ -235050,11 +235040,6 @@
       "igdb_id": 39183,
       "game_name": "Devil Maker: Tokyo",
       "file": "missing/D/39183-devil-maker-tokyo.json"
-    },
-    {
-      "igdb_id": 222654,
-      "game_name": "Devil May Cry",
-      "file": "missing/D/222654-devil-may-cry.json"
     },
     {
       "igdb_id": 302712,
@@ -812237,11 +812222,6 @@
       "file": "missing/S/65286-skylanders-cloud-patrol.json"
     },
     {
-      "igdb_id": 1586,
-      "game_name": "Skylanders: Giants",
-      "file": "missing/S/1586-skylanders-giants.json"
-    },
-    {
       "igdb_id": 256679,
       "game_name": "Skylanders: Giants",
       "file": "missing/S/256679-skylanders-giants.json"
@@ -984387,11 +984367,6 @@
       "file": "missing/T/83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json"
     },
     {
-      "igdb_id": 80961,
-      "game_name": "Total War: Three Kingdoms",
-      "file": "missing/T/80961-total-war-three-kingdoms.json"
-    },
-    {
       "igdb_id": 167647,
       "game_name": "Total War: Three Kingdoms - A World Betrayed",
       "file": "missing/T/167647-total-war-three-kingdoms-a-world-betrayed.json"
@@ -1000090,11 +1000065,6 @@
       "igdb_id": 11227,
       "game_name": "Trials of Mana",
       "file": "missing/T/11227-trials-of-mana.json"
-    },
-    {
-      "igdb_id": 119391,
-      "game_name": "Trials of Mana",
-      "file": "missing/T/119391-trials-of-mana.json"
     },
     {
       "igdb_id": 187268,
@@ -1050075,11 +1050045,6 @@
       "igdb_id": 154954,
       "game_name": "West of Dead: Path of the Crow Edition",
       "file": "missing/W/154954-west-of-dead-path-of-the-crow-edition.json"
-    },
-    {
-      "igdb_id": 44516,
-      "game_name": "West of Loathing",
-      "file": "missing/W/44516-west-of-loathing.json"
     },
     {
       "igdb_id": 272882,
