@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
+| Jack the Ripper | 20410 | [20410-jack-the-ripper.json](./20410-jack-the-ripper.json) |
 | Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
+| Jupiter Strike | 20251 | [20251-jupiter-strike.json](./20251-jupiter-strike.json) |
 | Jupiter-Saturn: Testing Conviction | 410439 | [410439-jupiter-saturn-testing-conviction.json](./410439-jupiter-saturn-testing-conviction.json) |
 | Jupiter's Masterdrive | 71232 | [71232-jupiters-masterdrive.json](./71232-jupiters-masterdrive.json) |
 | Jupiter's Orbit | 374248 | [374248-jupiters-orbit.json](./374248-jupiters-orbit.json) |
