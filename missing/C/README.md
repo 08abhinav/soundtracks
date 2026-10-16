@@ -5568,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Crew | 421389 | [421389-chroma-crew.json](./421389-chroma-crew.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
+| Chroma Lab | 51382 | [51382-chroma-lab.json](./51382-chroma-lab.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
@@ -6209,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
+| City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
 | City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
+| Close Me | 51579 | [51579-close-me.json](./51579-close-me.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
 | Close Quarters Conflict | 27472 | [27472-close-quarters-conflict.json](./27472-close-quarters-conflict.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
@@ -8663,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
+| Comet Crash 2: The Kronkoid Wars | 52155 | [52155-comet-crash-2-the-kronkoid-wars.json](./52155-comet-crash-2-the-kronkoid-wars.json) |
 | Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
 | Comet Cutter | 417680 | [417680-comet-cutter.json](./417680-comet-cutter.json) |
