@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebbles? Wenches? | 176286 | [176286-pebbles-wenches.json](./176286-pebbles-wenches.json) |
 | Peblito: Rock and Roll | 163015 | [163015-peblito-rock-and-roll.json](./163015-peblito-rock-and-roll.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
+| Pecaminosa | 140807 | [140807-pecaminosa.json](./140807-pecaminosa.json) |
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
+| Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
@@ -3165,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periphery Online | 207598 | [207598-periphery-online.json](./207598-periphery-online.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Periscope Up | 13023 | [13023-periscope-up.json](./13023-periscope-up.json) |
+| Perish | 145797 | [145797-perish.json](./145797-perish.json) |
 | Perish Parade | 352880 | [352880-perish-parade.json](./352880-perish-parade.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
