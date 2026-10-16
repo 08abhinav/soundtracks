@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
 | Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
+| Yo-Kai Watch 3: Sushi/Tempura Busters T Pack | 11660 | [11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json](./11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4 | 96246 | [96246-yo-kai-watch-4.json](./96246-yo-kai-watch-4.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
