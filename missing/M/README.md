@@ -10044,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
+| Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Modavuj Multiplayer Market Simulator | 392946 | [392946-modavuj-multiplayer-market-simulator.json](./392946-modavuj-multiplayer-market-simulator.json) |
 | Modavuj Platform | 369631 | [369631-modavuj-platform.json](./369631-modavuj-platform.json) |
@@ -11541,6 +11542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
 | Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
+| Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
@@ -13841,6 +13843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
+| My Ballet Studio | 20415 | [20415-my-ballet-studio.json](./20415-my-ballet-studio.json) |
 | My Ballet Studio | 51105 | [51105-my-ballet-studio.json](./51105-my-ballet-studio.json) |
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
 | My Beastly Lovers | 82476 | [82476-my-beastly-lovers.json](./82476-my-beastly-lovers.json) |
