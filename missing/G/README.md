@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | Gex 64: Enter the Gecko | 47758 | [47758-gex-64-enter-the-gecko.json](./47758-gex-64-enter-the-gecko.json) |
 | Gex Jr. | 195089 | [195089-gex-jr.json](./195089-gex-jr.json) |
+| Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
@@ -3817,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO-4-Soldier-1 | 126400 | [126400-go-4-soldier-1.json](./126400-go-4-soldier-1.json) |
 | Go-Go Gourmet | 64717 | [64717-go-go-gourmet.json](./64717-go-go-gourmet.json) |
 | Go-Go Gourmet: Chef of the Year | 64714 | [64714-go-go-gourmet-chef-of-the-year.json](./64714-go-go-gourmet-chef-of-the-year.json) |
+| Go-Go Town! | 244178 | [244178-go-go-town.json](./244178-go-go-town.json) |
 | Go-Go! Grapplestaff | 322262 | [322262-go-go-grapplestaff.json](./322262-go-go-grapplestaff.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Gurt Factory! | 341455 | [341455-go-gurt-factory.json](./341455-go-gurt-factory.json) |
@@ -4096,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
+| God of Weapons | 246919 | [246919-god-of-weapons.json](./246919-god-of-weapons.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
 | God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
@@ -5470,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: Agents of Sabotage | 394521 | [394521-grand-theft-auto-online-agents-of-sabotage.json](./394521-grand-theft-auto-online-agents-of-sabotage.json) |
 | Grand Theft Auto Online: Bottom Dollar Bounties | 394526 | [394526-grand-theft-auto-online-bottom-dollar-bounties.json](./394526-grand-theft-auto-online-bottom-dollar-bounties.json) |
 | Grand Theft Auto Online: Criminal Enterprise Starter Pack | 334770 | [334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json](./334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json) |
+| Grand Theft Auto Online: Heists | 251244 | [251244-grand-theft-auto-online-heists.json](./251244-grand-theft-auto-online-heists.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
 | Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
