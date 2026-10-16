@@ -5435,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hilda Creatures | 112169 | [112169-hilda-creatures.json](./112169-hilda-creatures.json) |
 | Hilde Redemption | 308899 | [308899-hilde-redemption.json](./308899-hilde-redemption.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
+| Hill 4 Cheetah | 417321 | [417321-hill-4-cheetah.json](./417321-hill-4-cheetah.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Cliff Horse: Online | 230203 | [230203-hill-cliff-horse-online.json](./230203-hill-cliff-horse-online.json) |
 | Hill Climb on a Motorcycle | 330217 | [330217-hill-climb-on-a-motorcycle.json](./330217-hill-climb-on-a-motorcycle.json) |
