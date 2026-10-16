@@ -6173,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
+| Folk Tale | 15409 | [15409-folk-tale.json](./15409-folk-tale.json) |
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
@@ -7080,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
+| Fort Meow | 11246 | [11246-fort-meow.json](./11246-fort-meow.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
