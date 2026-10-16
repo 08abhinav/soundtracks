@@ -4052,7 +4052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
 | God Eater 2: LaLaBitMarket Special Edition | 89863 | [89863-god-eater-2-lalabitmarket-special-edition.json](./89863-god-eater-2-lalabitmarket-special-edition.json) |
 | God Eater 2: Rage Burst | 11857 | [11857-god-eater-2-rage-burst.json](./11857-god-eater-2-rage-burst.json) |
-| God Eater 3 | 28010 | [28010-god-eater-3.json](./28010-god-eater-3.json) |
 | God Eater 3: Collector's Edition | 294702 | [294702-god-eater-3-collectors-edition.json](./294702-god-eater-3-collectors-edition.json) |
 | God Eater Online | 74793 | [74793-god-eater-online.json](./74793-god-eater-online.json) |
 | God Eater: Off Shot - Twin Pack Vol. 2 | 216265 | [216265-god-eater-off-shot-twin-pack-vol-2.json](./216265-god-eater-off-shot-twin-pack-vol-2.json) |
@@ -5420,7 +5419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
 | Grand Horse Attraction | 151302 | [151302-grand-horse-attraction.json](./151302-grand-horse-attraction.json) |
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
-| Grand Kingdom | 19163 | [19163-grand-kingdom.json](./19163-grand-kingdom.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
 | Grand Knights History | 42808 | [42808-grand-knights-history.json](./42808-grand-knights-history.json) |
