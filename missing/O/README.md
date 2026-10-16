@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
 | OctagonEdges | 59485 | [59485-octagonedges.json](./59485-octagonedges.json) |
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
+| Octahedron | 89749 | [89749-octahedron.json](./89749-octahedron.json) |
 | Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
