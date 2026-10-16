@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
+| Vikings: Wolves of Midgard | 21429 | [21429-vikings-wolves-of-midgard.json](./21429-vikings-wolves-of-midgard.json) |
 | VikingScape | 269197 | [269197-vikingscape.json](./269197-vikingscape.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
 | Viktor | 17328 | [17328-viktor.json](./17328-viktor.json) |
