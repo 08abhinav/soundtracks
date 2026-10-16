@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T05:54:09.859Z",
-  "total_soundtracks": 1823,
+  "generated_at": "2026-10-16T05:54:22.467Z",
+  "total_soundtracks": 1824,
   "games": [
     {
       "igdb_id": 7522,
@@ -20479,6 +20479,20 @@
         {
           "album_name": "Victor Vran (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/14psQ8YGy9TiVCwH4kplaz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 148372,
+      "game_name": "Victoria 3",
+      "game_url": "https://ostdb.net/games/victoria-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be56d16460a3b721b1a72ce1",
+      "albums": [
+        {
+          "album_name": "Victoria 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5v6wiVV635TiJJYhwtZBp5",
           "apple_music_url": "",
           "album_link_url": ""
         }
