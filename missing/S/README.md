@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S2: Silent Storm - Gold Edition | 51870 | [51870-s2-silent-storm-gold-edition.json](./51870-s2-silent-storm-gold-edition.json) |
+| S4 League | 51310 | [51310-s4-league.json](./51310-s4-league.json) |
 | S40 Racing | 93213 | [93213-s40-racing.json](./93213-s40-racing.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
@@ -5336,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
 | She Plays Dirty | 393569 | [393569-she-plays-dirty.json](./393569-she-plays-dirty.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
+| She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
@@ -7177,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
+| Silent Hill HD Collection | 21600 | [21600-silent-hill-hd-collection.json](./21600-silent-hill-hd-collection.json) |
 | Silent Hill Metamorphoses | 275631 | [275631-silent-hill-metamorphoses.json](./275631-silent-hill-metamorphoses.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
@@ -7309,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
 | Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
+| Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -11208,6 +11212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solas 128 | 139176 | [139176-solas-128.json](./139176-solas-128.json) |
 | Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
 | Solasta II | 325589 | [325589-solasta-ii.json](./325589-solasta-ii.json) |
+| Solasta: Crown of the Magister | 120170 | [120170-solasta-crown-of-the-magister.json](./120170-solasta-crown-of-the-magister.json) |
 | Solasta: Crown of the Magister - Inner Strength | 219594 | [219594-solasta-crown-of-the-magister-inner-strength.json](./219594-solasta-crown-of-the-magister-inner-strength.json) |
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
 | Solasta: Crown of the Magister - Palace of Ice | 242515 | [242515-solasta-crown-of-the-magister-palace-of-ice.json](./242515-solasta-crown-of-the-magister-palace-of-ice.json) |
@@ -18082,6 +18087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
 | Steinstern: Spacewar | 173049 | [173049-steinstern-spacewar.json](./173049-steinstern-spacewar.json) |
 | Stel | 236166 | [236166-stel.json](./236166-stel.json) |
+| Stela | 116125 | [116125-stela.json](./116125-stela.json) |
 | Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
@@ -19670,6 +19676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
+| Stronghold HD | 86652 | [86652-stronghold-hd.json](./86652-stronghold-hd.json) |
 | Stronghold Kingdoms | 15030 | [15030-stronghold-kingdoms.json](./15030-stronghold-kingdoms.json) |
 | Stronghold Siege | 266292 | [266292-stronghold-siege.json](./266292-stronghold-siege.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
@@ -23044,6 +23051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
+| Superflight | 75184 | [75184-superflight.json](./75184-superflight.json) |
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
