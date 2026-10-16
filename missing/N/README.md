@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
+| NASCAR Racing 2 | 802 | [802-nascar-racing-2.json](./802-nascar-racing-2.json) |
 | NASCAR Racing 2002 Season | 803 | [803-nascar-racing-2002-season.json](./803-nascar-racing-2002-season.json) |
 | NASCAR Racing 3 :Craftsman Truck Series - Expansion Pack | 69538 | [69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json](./69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json) |
 | NASCAR Racing Arcade | 131360 | [131360-nascar-racing-arcade.json](./131360-nascar-racing-arcade.json) |
