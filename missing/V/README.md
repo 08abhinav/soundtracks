@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Vision Crew's Deltarune: Alternate Chapters | 329603 | [329603-vision-crews-deltarune-alternate-chapters.json](./329603-vision-crews-deltarune-alternate-chapters.json) |
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
+| Vision of Aurora Borealis | 32347 | [32347-vision-of-aurora-borealis.json](./32347-vision-of-aurora-borealis.json) |
 | Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
+| Void Rangers | 31277 | [31277-void-rangers.json](./31277-void-rangers.json) |
 | Void Reaper | 280129 | [280129-void-reaper.json](./280129-void-reaper.json) |
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
 | Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
@@ -2700,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Island Paradise | 265260 | [265260-vr-dinosaur-island-paradise.json](./265260-vr-dinosaur-island-paradise.json) |
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
+| VR Disc Golf | 32338 | [32338-vr-disc-golf.json](./32338-vr-disc-golf.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
@@ -2907,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
+| VRporize - VR FPS | 32385 | [32385-vrporize-vr-fps.json](./32385-vrporize-vr-fps.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
 | VRQB | 30052 | [30052-vrqb.json](./30052-vrqb.json) |
 | VRRCC | 118361 | [118361-vrrcc.json](./118361-vrrcc.json) |
