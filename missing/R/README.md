@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Rampart Tactics | 118240 | [118240-rampart-tactics.json](./118240-rampart-tactics.json) |
+| Rampartloom: PvP Tower Defense | 424033 | [424033-rampartloom-pvp-tower-defense.json](./424033-rampartloom-pvp-tower-defense.json) |
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
@@ -3749,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
+| Rescue Drone Simulator: Second Chance | 424036 | [424036-rescue-drone-simulator-second-chance.json](./424036-rescue-drone-simulator-second-chance.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
 | Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
@@ -8348,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
+| RUIN: 35th Anniversary - Definitive Edition | 424040 | [424040-ruin-35th-anniversary-definitive-edition.json](./424040-ruin-35th-anniversary-definitive-edition.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruin: Kami no Isan | 59325 | [59325-ruin-kami-no-isan.json](./59325-ruin-kami-no-isan.json) |
 | Ruin's Hold | 180553 | [180553-ruins-hold.json](./180553-ruins-hold.json) |
