@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Drumset Fucking Werewolf | 65586 | [65586-keyboard-drumset-fucking-werewolf.json](./65586-keyboard-drumset-fucking-werewolf.json) |
 | KeyBoard Guitar Master | 95594 | [95594-keyboard-guitar-master.json](./95594-keyboard-guitar-master.json) |
 | Keyboard Killer | 29062 | [29062-keyboard-killer.json](./29062-keyboard-killer.json) |
+| Keyboard Killers | 61648 | [61648-keyboard-killers.json](./61648-keyboard-killers.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
 | Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
@@ -1658,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
 | Kiki & Fifi Pet Beauty Salon | 102682 | [102682-kiki-and-fifi-pet-beauty-salon.json](./102682-kiki-and-fifi-pet-beauty-salon.json) |
 | Kiki Ippatsu | 305563 | [305563-kiki-ippatsu.json](./305563-kiki-ippatsu.json) |
+| KiKi KaiKai | 1535 | [1535-kiki-kaikai.json](./1535-kiki-kaikai.json) |
 | KiKi KaiKai: Dotou-hen | 41269 | [41269-kiki-kaikai-dotou-hen.json](./41269-kiki-kaikai-dotou-hen.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
