@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Yume no Kuni Daibouken | 76186 | [76186-hello-kitty-yume-no-kuni-daibouken.json](./76186-hello-kitty-yume-no-kuni-daibouken.json) |
 | Hello Kitty's Big Fun Deluxe | 288138 | [288138-hello-kittys-big-fun-deluxe.json](./288138-hello-kittys-big-fun-deluxe.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
+| Hello Kitty's Cube Frenzy | 3687 | [3687-hello-kittys-cube-frenzy.json](./3687-hello-kittys-cube-frenzy.json) |
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
