@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
 | Last Resort | 36750 | [36750-last-resort.json](./36750-last-resort.json) |
+| Last Resort Island | 99026 | [99026-last-resort-island.json](./99026-last-resort-island.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
+| LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
