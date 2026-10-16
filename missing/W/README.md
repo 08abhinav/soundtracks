@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Me Stream My Mental Breakdown | 132514 | [132514-watch-me-stream-my-mental-breakdown.json](./132514-watch-me-stream-my-mental-breakdown.json) |
 | Watch My Step! | 415204 | [415204-watch-my-step.json](./415204-watch-my-step.json) |
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
+| Watch Out: Shark! | 423264 | [423264-watch-out-shark.json](./423264-watch-out-shark.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
 | Watch Quest! Heroes of Time | 60359 | [60359-watch-quest-heroes-of-time.json](./60359-watch-quest-heroes-of-time.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
+| Where There's a Mask | 423234 | [423234-where-theres-a-mask.json](./423234-where-theres-a-mask.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
 | Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
+| Wink Mafia | 423236 | [423236-wink-mafia.json](./423236-wink-mafia.json) |
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
@@ -4861,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
+| Wolf Plot | 423286 | [423286-wolf-plot.json](./423286-wolf-plot.json) |
 | Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
@@ -5714,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
+| World of Kadal: Protector of Hammerdale | 423239 | [423239-world-of-kadal-protector-of-hammerdale.json](./423239-world-of-kadal-protector-of-hammerdale.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
 | World of Magic: Rise of Magic | 304918 | [304918-world-of-magic-rise-of-magic.json](./304918-world-of-magic-rise-of-magic.json) |
