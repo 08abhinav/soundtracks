@@ -3517,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
 | Mass Effect: Genesis | 202311 | [202311-mass-effect-genesis.json](./202311-mass-effect-genesis.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
+| Mass Effect: Infiltrator | 93517 | [93517-mass-effect-infiltrator.json](./93517-mass-effect-infiltrator.json) |
 | Mass Effect: Limited Collector's Edition | 45179 | [45179-mass-effect-limited-collectors-edition.json](./45179-mass-effect-limited-collectors-edition.json) |
 | Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
@@ -7804,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
+| Might & Magic: Heroes VI - Pirates of the Savage Sea | 13457 | [13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json](./13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json) |
 | Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
 | Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
@@ -8539,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | Minecraft: Village & Pillage | 221919 | [221919-minecraft-village-and-pillage.json](./221919-minecraft-village-and-pillage.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
+| Minecraft: Wii U Edition | 84610 | [84610-minecraft-wii-u-edition.json](./84610-minecraft-wii-u-edition.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraft: World of Color Update | 221878 | [221878-minecraft-world-of-color-update.json](./221878-minecraft-world-of-color-update.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
