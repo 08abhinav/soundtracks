@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno | 22739 | [22739-uno.json](./22739-uno.json) |
 | Uno | 255867 | [255867-uno.json](./255867-uno.json) |
 | Uno | 81358 | [81358-uno.json](./81358-uno.json) |
+| Uno / Skip-Bo / Uno Freefall | 91430 | [91430-uno-skip-bo-uno-freefall.json](./91430-uno-skip-bo-uno-freefall.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
