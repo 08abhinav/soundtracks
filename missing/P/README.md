@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
 | Pain-T | 361288 | [361288-pain-t.json](./361288-pain-t.json) |
+| Pain: Amusement Park | 21685 | [21685-pain-amusement-park.json](./21685-pain-amusement-park.json) |
 | Pain: Movie Studio | 21612 | [21612-pain-movie-studio.json](./21612-pain-movie-studio.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
+| Paparazzi | 21550 | [21550-paparazzi.json](./21550-paparazzi.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Papaye Bang Bang VR | 256181 | [256181-papaye-bang-bang-vr.json](./256181-papaye-bang-bang-vr.json) |
@@ -2537,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
 | Peacekeeper | 62088 | [62088-peacekeeper.json](./62088-peacekeeper.json) |
+| Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
@@ -7246,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Player: Dig Dug | 275241 | [275241-pocket-player-dig-dug.json](./275241-pocket-player-dig-dug.json) |
 | Pocket Player: Pac-Man | 233036 | [233036-pocket-player-pac-man.json](./233036-pocket-player-pac-man.json) |
+| Pocket Pool | 21618 | [21618-pocket-pool.json](./21618-pocket-pool.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
@@ -10614,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2014: Collector's Edition | 53477 | [53477-professional-farmer-2014-collectors-edition.json](./53477-professional-farmer-2014-collectors-edition.json) |
 | Professional Farmer 2014: Platinum Edition | 53478 | [53478-professional-farmer-2014-platinum-edition.json](./53478-professional-farmer-2014-platinum-edition.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
+| Professional Farmer 2017 | 19885 | [19885-professional-farmer-2017.json](./19885-professional-farmer-2017.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Farmer 2017: Gold Edition | 22160 | [22160-professional-farmer-2017-gold-edition.json](./22160-professional-farmer-2017-gold-edition.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
@@ -12826,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Brain Games | 84788 | [84788-puzzler-brain-games.json](./84788-puzzler-brain-games.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
+| Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
