@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
 | Magazine Mogul | 135642 | [135642-magazine-mogul.json](./135642-magazine-mogul.json) |
+| Magdalena | 33779 | [33779-magdalena.json](./33779-magdalena.json) |
 | Magdalene | 277491 | [277491-magdalene.json](./277491-magdalene.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
@@ -8246,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 359605 | [359605-mimic.json](./359605-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
+| Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
@@ -8327,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
+| Mind OVR Matter | 32838 | [32838-mind-ovr-matter.json](./32838-mind-ovr-matter.json) |
 | Mind Palace | 177267 | [177267-mind-palace.json](./177267-mind-palace.json) |
 | Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
@@ -15132,6 +15135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
+| Mystic Destinies: Serendipity of Aeons | 33805 | [33805-mystic-destinies-serendipity-of-aeons.json](./33805-mystic-destinies-serendipity-of-aeons.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
 | Mystic Emporium | 56906 | [56906-mystic-emporium.json](./56906-mystic-emporium.json) |
