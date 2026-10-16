@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
 | Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
+| Hexwell | 418573 | [418573-hexwell.json](./418573-hexwell.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
 | Hexworld | 180794 | [180794-hexworld.json](./180794-hexworld.json) |
 | Hexx: Heresy of the Wizard | 2513 | [2513-hexx-heresy-of-the-wizard.json](./2513-hexx-heresy-of-the-wizard.json) |
@@ -5963,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
+| Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
 | Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
@@ -6838,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
+| Horde Reapers | 418616 | [418616-horde-reapers.json](./418616-horde-reapers.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde Survival Bundle Xbox: Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King | 333692 | [333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json](./333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json) |
 | Horde Survival Bundle Xbox: Andromeda, Godsvivors and Farmer Survivors | 333691 | [333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json](./333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json) |
