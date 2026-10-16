@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T19:41:24.056Z",
-  "total_soundtracks": 1950,
+  "generated_at": "2026-10-16T19:41:36.607Z",
+  "total_soundtracks": 1951,
   "games": [
     {
       "igdb_id": 7522,
@@ -6419,6 +6419,20 @@
           "spotify_url": "https://open.spotify.com/album/505922VpdI0wTf9a7hyWkb",
           "apple_music_url": "https://music.apple.com/us/album/elite-dangerous-original-soundtrack/976843287",
           "album_link_url": "https://album.link/i/976843287"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7512,
+      "game_name": "Emperor: Rise of the Middle Kingdom",
+      "game_url": "https://ostdb.net/games/emperor-rise-of-the-middle-kingdom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df2b2b6076ad4c0b2273a97e",
+      "albums": [
+        {
+          "album_name": "Emperor: Rise of the Middle Kingdom (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4iIqYSf3vxDWLy94LNtgi8",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
