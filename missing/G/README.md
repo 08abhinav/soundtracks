@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
 | Galactic Civilizations | 10344 | [10344-galactic-civilizations.json](./10344-galactic-civilizations.json) |
 | Galactic Civilizations II: Endless Universe | 21353 | [21353-galactic-civilizations-ii-endless-universe.json](./21353-galactic-civilizations-ii-endless-universe.json) |
+| Galactic Civilizations II: Twilight of the Arnor | 723 | [723-galactic-civilizations-ii-twilight-of-the-arnor.json](./723-galactic-civilizations-ii-twilight-of-the-arnor.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
