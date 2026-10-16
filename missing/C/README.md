@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
+| Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
 | Chained in the Backrooms | 319684 | [319684-chained-in-the-backrooms.json](./319684-chained-in-the-backrooms.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trainer | 13498 | [13498-classic-trainer.json](./13498-classic-trainer.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
+| Classic Uno | 100795 | [100795-classic-uno.json](./100795-classic-uno.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Word Games | 79535 | [79535-classic-word-games.json](./79535-classic-word-games.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
