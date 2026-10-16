@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
+| Camp Keepalive | 22140 | [22140-camp-keepalive.json](./22140-camp-keepalive.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
@@ -5311,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Command | 18408 | [18408-chopper-command.json](./18408-chopper-command.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
+| Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
@@ -8849,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos 3: HD Remaster | 204961 | [204961-commandos-3-hd-remaster.json](./204961-commandos-3-hd-remaster.json) |
 | Commandos 5 | 9760 | [9760-commandos-5.json](./9760-commandos-5.json) |
 | Commandos Pro Simulator | 287761 | [287761-commandos-pro-simulator.json](./287761-commandos-pro-simulator.json) |
+| Commandos: Ammo Pack | 21942 | [21942-commandos-ammo-pack.json](./21942-commandos-ammo-pack.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Beyond the Call of Duty | 961 | [961-commandos-beyond-the-call-of-duty.json](./961-commandos-beyond-the-call-of-duty.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
@@ -10896,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabby Adventure | 66953 | [66953-crabby-adventure.json](./66953-crabby-adventure.json) |
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
 | Crabby Fishes | 335367 | [335367-crabby-fishes.json](./335367-crabby-fishes.json) |
+| Crabitron | 22162 | [22162-crabitron.json](./22162-crabitron.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
 | Crabland | 290998 | [290998-crabland.json](./290998-crabland.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
@@ -13336,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
 | Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
+| Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
