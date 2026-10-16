@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent P Strikes Back | 354954 | [354954-agent-p-strikes-back.json](./354954-agent-p-strikes-back.json) |
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
+| Agent Roswell | 124176 | [124176-agent-roswell.json](./124176-agent-roswell.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent Simulator | 172140 | [172140-agent-simulator.json](./172140-agent-simulator.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
@@ -3534,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
 | Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
+| Air Marty | 118136 | [118136-air-marty.json](./118136-air-marty.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
 | Air Navy Fighters | 104135 | [104135-air-navy-fighters.json](./104135-air-navy-fighters.json) |
@@ -8805,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
+| ArcheAge: Unchained | 125340 | [125340-archeage-unchained.json](./125340-archeage-unchained.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archeholder | 238560 | [238560-archeholder.json](./238560-archeholder.json) |
 | Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
@@ -9169,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
+| Argonus and the Gods of Stone | 118458 | [118458-argonus-and-the-gods-of-stone.json](./118458-argonus-and-the-gods-of-stone.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
