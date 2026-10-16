@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave | 183935 | [183935-weave.json](./183935-weave.json) |
+| Weave the Line | 99943 | [99943-weave-the-line.json](./99943-weave-the-line.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Sun | 116274 | [116274-white-sun.json](./116274-white-sun.json) |
+| White Tiger Family Sim Online | 100806 | [100806-white-tiger-family-sim-online.json](./100806-white-tiger-family-sim-online.json) |
 | White Tiles 4: Piano Master 2 | 87008 | [87008-white-tiles-4-piano-master-2.json](./87008-white-tiles-4-piano-master-2.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
@@ -5615,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
 | World Football 98 | 260062 | [260062-world-football-98.json](./260062-world-football-98.json) |
 | World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
+| World Football Champion | 100810 | [100810-world-football-champion.json](./100810-world-football-champion.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
