@@ -4896,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
 | Ricochet Infinity | 23820 | [23820-ricochet-infinity.json](./23820-ricochet-infinity.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
+| Ricochet Kills: Noir | 29397 | [29397-ricochet-kills-noir.json](./29397-ricochet-kills-noir.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Riders | 404995 | [404995-ricochet-riders.json](./404995-ricochet-riders.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
@@ -5638,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
+| Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
