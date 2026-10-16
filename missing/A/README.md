@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
+| ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
+| Adeptus Titanicus: Dominus | 100354 | [100354-adeptus-titanicus-dominus.json](./100354-adeptus-titanicus-dominus.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
 | Adera | 78263 | [78263-adera.json](./78263-adera.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
@@ -2534,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aenigma Game: Storm Hacker | 264792 | [264792-aenigma-game-storm-hacker.json](./264792-aenigma-game-storm-hacker.json) |
 | Aenigma Os | 84740 | [84740-aenigma-os.json](./84740-aenigma-os.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
+| Aentity | 99590 | [99590-aentity.json](./99590-aentity.json) |
 | Aeoliada | 353882 | [353882-aeoliada.json](./353882-aeoliada.json) |
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
@@ -3737,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
+| Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Tycoon | 78900 | [78900-airport-tycoon.json](./78900-airport-tycoon.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
@@ -7618,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnywhereVR | 115772 | [115772-anywherevr.json](./115772-anywherevr.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
+| AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
@@ -8306,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
+| Arcade Archives: Bubble Bobble | 99762 | [99762-arcade-archives-bubble-bobble.json](./99762-arcade-archives-bubble-bobble.json) |
 | Arcade Archives: Burger Time | 145241 | [145241-arcade-archives-burger-time.json](./145241-arcade-archives-burger-time.json) |
 | Arcade Archives: Burnin' Rubber | 145248 | [145248-arcade-archives-burnin-rubber.json](./145248-arcade-archives-burnin-rubber.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
@@ -8359,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
+| Arcade Archives: Gradius | 99560 | [99560-arcade-archives-gradius.json](./99560-arcade-archives-gradius.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
 | Arcade Archives: Gradius III | 147110 | [147110-arcade-archives-gradius-iii.json](./147110-arcade-archives-gradius-iii.json) |
 | Arcade Archives: Grobda | 238098 | [238098-arcade-archives-grobda.json](./238098-arcade-archives-grobda.json) |
@@ -8483,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
+| Arcade Archives: Super Dodge Ball | 99568 | [99568-arcade-archives-super-dodge-ball.json](./99568-arcade-archives-super-dodge-ball.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
 | Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
@@ -10058,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
+| Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
