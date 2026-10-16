@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
 | Epitaph | 29703 | [29703-epitaph.json](./29703-epitaph.json) |
+| Epitasis | 52051 | [52051-epitasis.json](./52051-epitasis.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
+| Escape Room: Reality | 51455 | [51455-escape-room-reality.json](./51455-escape-room-reality.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
 | Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
