@@ -5257,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigChick | 158002 | [158002-bigchick.json](./158002-bigchick.json) |
 | BigDay | 80972 | [80972-bigday.json](./80972-bigday.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
+| BigFest | 21586 | [21586-bigfest.json](./21586-bigfest.json) |
 | Bigflap Attack | 152052 | [152052-bigflap-attack.json](./152052-bigflap-attack.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bigfoot | 279695 | [279695-bigfoot.json](./279695-bigfoot.json) |
@@ -7490,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
 | Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
+| Blood Alloy: Reborn | 17454 | [17454-blood-alloy-reborn.json](./17454-blood-alloy-reborn.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
@@ -9906,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
 | Brain Age: Concentration Training | 20884 | [20884-brain-age-concentration-training.json](./20884-brain-age-concentration-training.json) |
+| Brain Assist | 21679 | [21679-brain-assist.json](./21679-brain-assist.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
