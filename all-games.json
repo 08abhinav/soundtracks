@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-16T14:41:51.423Z",
-  "total_soundtracks": 1910,
+  "generated_at": "2026-10-16T14:42:07.852Z",
+  "total_soundtracks": 1911,
   "games": [
     {
       "igdb_id": 7522,
@@ -12807,6 +12807,20 @@
           "spotify_url": "https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1"
+        }
+      ]
+    },
+    {
+      "igdb_id": 22499,
+      "game_name": "Moons of Madness",
+      "game_url": "https://ostdb.net/games/moons-of-madness",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273885956ec800a5b26da371cf0",
+      "albums": [
+        {
+          "album_name": "Moons of Madness (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0XB1SujKZMXHHnmmT1yVse",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
