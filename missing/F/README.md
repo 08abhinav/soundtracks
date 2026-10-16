@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Gold Bundle | 89845 | [89845-fallout-4-gold-bundle.json](./89845-fallout-4-gold-bundle.json) |
 | Fallout 4: Pip-Boy Edition | 45130 | [45130-fallout-4-pip-boy-edition.json](./45130-fallout-4-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
+| Fallout 4: Vault-Tec Workshop | 19533 | [19533-fallout-4-vault-tec-workshop.json](./19533-fallout-4-vault-tec-workshop.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2013: Ursus | 166096 | [166096-farming-simulator-2013-ursus.json](./166096-farming-simulator-2013-ursus.json) |
 | Farming Simulator 2013: Väderstad | 166092 | [166092-farming-simulator-2013-vaderstad.json](./166092-farming-simulator-2013-vaderstad.json) |
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
+| Farming Simulator 22 | 146112 | [146112-farming-simulator-22.json](./146112-farming-simulator-22.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
