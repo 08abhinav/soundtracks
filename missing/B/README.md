@@ -3921,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
+| Becastled | 139654 | [139654-becastled.json](./139654-becastled.json) |
 | Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
@@ -6316,6 +6317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
 | Black Somnia | 146643 | [146643-black-somnia.json](./146643-black-somnia.json) |
+| Black Souls | 349235 | [349235-black-souls.json](./349235-black-souls.json) |
+| Black Souls II | 361391 | [361391-black-souls-ii.json](./361391-black-souls-ii.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
@@ -11425,6 +11428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
+| Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
 | Buddy Simulator 1984 | 132333 | [132333-buddy-simulator-1984.json](./132333-buddy-simulator-1984.json) |
