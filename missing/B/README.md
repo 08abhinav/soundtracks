@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
+| Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
 | Battlefield Hardline: Deluxe Edition | 99791 | [99791-battlefield-hardline-deluxe-edition.json](./99791-battlefield-hardline-deluxe-edition.json) |
 | Battlefield Hardline: Getaway | 18025 | [18025-battlefield-hardline-getaway.json](./18025-battlefield-hardline-getaway.json) |
@@ -7011,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
+| Blik | 82033 | [82033-blik.json](./82033-blik.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
@@ -12146,6 +12148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Burd. | 184836 | [184836-burd.json](./184836-burd.json) |
+| Burden | 83484 | [83484-burden.json](./83484-burden.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
