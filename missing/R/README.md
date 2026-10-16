@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
+| Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
@@ -4690,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
+| Rflex | 34677 | [34677-rflex.json](./34677-rflex.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
@@ -8862,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
+| Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Love Story | 104552 | [104552-russian-love-story.json](./104552-russian-love-story.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
