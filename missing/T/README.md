@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
+| Tales of a Spymaster | 113573 | [113573-tales-of-a-spymaster.json](./113573-tales-of-a-spymaster.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of a Viking: Episode One | 233086 | [233086-tales-of-a-viking-episode-one.json](./233086-tales-of-a-viking-episode-one.json) |
 | Tales of Adventure 2 | 17600 | [17600-tales-of-adventure-2.json](./17600-tales-of-adventure-2.json) |
@@ -7001,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
+| The Ghost of You | 113236 | [113236-the-ghost-of-you.json](./113236-the-ghost-of-you.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
@@ -7919,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
+| The Jekoos | 113543 | [113543-the-jekoos.json](./113543-the-jekoos.json) |
 | The Jelly Adventure | 197102 | [197102-the-jelly-adventure.json](./197102-the-jelly-adventure.json) |
 | The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
@@ -11484,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
+| The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
 | The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
