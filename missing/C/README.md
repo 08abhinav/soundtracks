@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Descent | 20292 | [20292-call-of-duty-black-ops-iii-descent.json](./20292-call-of-duty-black-ops-iii-descent.json) |
 | Call of Duty: Black Ops III - Digital Deluxe Edition | 30717 | [30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json](./30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json) |
+| Call of Duty: Black Ops III - Eclipse | 20291 | [20291-call-of-duty-black-ops-iii-eclipse.json](./20291-call-of-duty-black-ops-iii-eclipse.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops III - Steelbook Edition | 8905 | [8905-call-of-duty-black-ops-iii-steelbook-edition.json](./8905-call-of-duty-black-ops-iii-steelbook-edition.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleStorm | 19136 | [19136-castlestorm.json](./19136-castlestorm.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
+| CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
@@ -11214,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
 | Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
+| Crash Time 5: Undercover | 19974 | [19974-crash-time-5-undercover.json](./19974-crash-time-5-undercover.json) |
 | Crash Time II | 6946 | [6946-crash-time-ii.json](./6946-crash-time-ii.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
@@ -14183,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberspace Defender | 347293 | [347293-cyberspace-defender.json](./347293-cyberspace-defender.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
+| CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
