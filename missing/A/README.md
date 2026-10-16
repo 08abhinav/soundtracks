@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
+| Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
@@ -4028,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Andalus 711 | 213273 | [213273-al-andalus-711.json](./213273-al-andalus-711.json) |
+| Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
@@ -11073,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
+| Astrophobia | 421183 | [421183-astrophobia.json](./421183-astrophobia.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
