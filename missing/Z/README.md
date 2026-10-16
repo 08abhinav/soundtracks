@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
+| ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
