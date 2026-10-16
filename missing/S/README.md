@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
 | Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
+| Sakura Magical Girls | 29730 | [29730-sakura-magical-girls.json](./29730-sakura-magical-girls.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
+| Sakura Shrine Girls | 31619 | [31619-sakura-shrine-girls.json](./31619-sakura-shrine-girls.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
 | Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
@@ -8082,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
 | Sisyphus Paradox | 277812 | [277812-sisyphus-paradox.json](./277812-sisyphus-paradox.json) |
+| Sisyphus Reborn | 31542 | [31542-sisyphus-reborn.json](./31542-sisyphus-reborn.json) |
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
@@ -13030,6 +13033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
+| Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
@@ -14684,6 +14688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
 | Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
+| SpellForce 2: Anniversary Edition | 29209 | [29209-spellforce-2-anniversary-edition.json](./29209-spellforce-2-anniversary-edition.json) |
 | SpellForce 2: Dragon Storm | 7037 | [7037-spellforce-2-dragon-storm.json](./7037-spellforce-2-dragon-storm.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
 | SpellForce 2: Faith in Destiny - Scenario 2: The Golden Fool | 144286 | [144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json](./144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json) |
@@ -15287,6 +15292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
 | Spiritus Astrum | 217355 | [217355-spiritus-astrum.json](./217355-spiritus-astrum.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
+| Spirou | 19757 | [19757-spirou.json](./19757-spirou.json) |
 | Spirou | 368890 | [368890-spirou.json](./368890-spirou.json) |
 | Spirou | 368891 | [368891-spirou.json](./368891-spirou.json) |
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
@@ -15836,6 +15842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprocket Junkie | 65213 | [65213-sprocket-junkie.json](./65213-sprocket-junkie.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
+| Sproggiwood | 14686 | [14686-sproggiwood.json](./14686-sproggiwood.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
