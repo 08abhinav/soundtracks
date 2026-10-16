@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
+| Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating of the Future | 349276 | [349276-dating-of-the-future.json](./349276-dating-of-the-future.json) |
@@ -9850,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
+| Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
@@ -12205,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
 | Dum Game | 258099 | [258099-dum-game.json](./258099-dum-game.json) |
+| Dum-Dum | 121349 | [121349-dum-dum.json](./121349-dum-dum.json) |
 | Dum-Dum Thoughts | 282521 | [282521-dum-dum-thoughts.json](./282521-dum-dum-thoughts.json) |
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
