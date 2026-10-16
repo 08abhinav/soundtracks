@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
 | 3 on 3 Dunk Madness | 406696 | [406696-3-on-3-dunk-madness.json](./406696-3-on-3-dunk-madness.json) |
+| 3 on 3 NHL Arcade | 21258 | [21258-3-on-3-nhl-arcade.json](./21258-3-on-3-nhl-arcade.json) |
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
 | 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
+| 4PM | 8115 | [8115-4pm.json](./8115-4pm.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4rc4n01d! | 81969 | [81969-4rc4n01d.json](./81969-4rc4n01d.json) |
 | 4RC4N01D! 2: Retro Edition | 334263 | [334263-4rc4n01d-2-retro-edition.json](./334263-4rc4n01d-2-retro-edition.json) |
