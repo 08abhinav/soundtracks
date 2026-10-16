@@ -6194,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Gold | 14609 | [14609-black-gold.json](./14609-black-gold.json) |
 | Black Gold | 156052 | [156052-black-gold.json](./156052-black-gold.json) |
+| Black Gold | 435 | [435-black-gold.json](./435-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
