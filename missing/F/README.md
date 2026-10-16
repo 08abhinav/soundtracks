@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
 | Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
+| Fishing King: Legend of Black Lake | 418614 | [418614-fishing-king-legend-of-black-lake.json](./418614-fishing-king-legend-of-black-lake.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
 | Fishing Kings | 92522 | [92522-fishing-kings.json](./92522-fishing-kings.json) |
 | Fishing Koushien | 42243 | [42243-fishing-koushien.json](./42243-fishing-koushien.json) |
@@ -6834,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Tunnel | 422084 | [422084-forever-tunnel.json](./422084-forever-tunnel.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
+| Forever Yours | 418561 | [418561-forever-yours.json](./418561-forever-yours.json) |
 | Forever, watching Perseids | 183931 | [183931-forever-watching-perseids.json](./183931-forever-watching-perseids.json) |
 | Foreveracers | 91328 | [91328-foreveracers.json](./91328-foreveracers.json) |
 | Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
