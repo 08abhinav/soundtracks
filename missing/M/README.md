@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
 | Magic 2014: Duels of the Planeswalkers - Expansion | 362457 | [362457-magic-2014-duels-of-the-planeswalkers-expansion.json](./362457-magic-2014-duels-of-the-planeswalkers-expansion.json) |
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
+| Magic Academy | 91307 | [91307-magic-academy.json](./91307-magic-academy.json) |
 | Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
+| Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
 | Micro Monster Park | 105874 | [105874-micro-monster-park.json](./105874-micro-monster-park.json) |
+| Micro Monster Truck | 91352 | [91352-micro-monster-truck.json](./91352-micro-monster-truck.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Murder: But It's Robots So It's OK | 181238 | [181238-micro-murder-but-its-robots-so-its-ok.json](./181238-micro-murder-but-its-robots-so-its-ok.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
