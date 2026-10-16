@@ -4849,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
+| ShadowComm. Associate Studio: Enterprise Edition | 421199 | [421199-shadowcomm-associate-studio-enterprise-edition.json](./421199-shadowcomm-associate-studio-enterprise-edition.json) |
 | ShadowCore VR | 75069 | [75069-shadowcore-vr.json](./75069-shadowcore-vr.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
@@ -10135,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
+| SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
@@ -14249,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
 | Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
+| Spaghetti Celesti | 421214 | [421214-spaghetti-celesti.json](./421214-spaghetti-celesti.json) |
 | Spaghetti Western Shooter | 268381 | [268381-spaghetti-western-shooter.json](./268381-spaghetti-western-shooter.json) |
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
@@ -16410,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 135714 | [135714-stack.json](./135714-stack.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
+| Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
@@ -22956,6 +22960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slapshot | 42451 | [42451-super-slapshot.json](./42451-super-slapshot.json) |
+| Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
 | Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
@@ -23113,6 +23118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic Racer | 87993 | [87993-super-sonic-racer.json](./87993-super-sonic-racer.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
 | Super Sonic Surge | 39786 | [39786-super-sonic-surge.json](./39786-super-sonic-surge.json) |
+| Super Space Acer | 421225 | [421225-super-space-acer.json](./421225-super-space-acer.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
 | Super Space Frogs | 356049 | [356049-super-space-frogs.json](./356049-super-space-frogs.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
