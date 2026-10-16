@@ -1079,7 +1079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Fret | 92695 | [92695-happy-fret.json](./92695-happy-fret.json) |
 | Happy fruit | 191057 | [191057-happy-fruit.json](./191057-happy-fruit.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
-| Happy Game | 141681 | [141681-happy-game.json](./141681-happy-game.json) |
 | Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
 | Happy Geography Fun | 129652 | [129652-happy-geography-fun.json](./129652-happy-geography-fun.json) |
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
@@ -1287,7 +1286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
-| Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
 | Hard West: Collector's Edition | 51822 | [51822-hard-west-collectors-edition.json](./51822-hard-west-collectors-edition.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
@@ -1929,7 +1927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
-| Have a Nice Death | 185241 | [185241-have-a-nice-death.json](./185241-have-a-nice-death.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
@@ -7378,7 +7375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
 | Hotshot | 94623 | [94623-hotshot.json](./94623-hotshot.json) |
-| Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
@@ -7435,7 +7431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
 | House Flip | 281329 | [281329-house-flip.json](./281329-house-flip.json) |
 | House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
-| House Flipper 2 | 191797 | [191797-house-flipper-2.json](./191797-house-flipper-2.json) |
 | House Flipper 2: Co-op DLC | 402395 | [402395-house-flipper-2-co-op-dlc.json](./402395-house-flipper-2-co-op-dlc.json) |
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
