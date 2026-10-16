@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 4: Special Edition | 241439 | [241439-just-dance-4-special-edition.json](./241439-just-dance-4-special-edition.json) |
 | Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
 | Just Dance Kids 2 | 3300 | [3300-just-dance-kids-2.json](./3300-just-dance-kids-2.json) |
+| Just Dance Kids 2014 | 3301 | [3301-just-dance-kids-2014.json](./3301-just-dance-kids-2014.json) |
 | Just Dance VR | 241442 | [241442-just-dance-vr.json](./241442-just-dance-vr.json) |
 | Just Dance Wii | 3297 | [3297-just-dance-wii.json](./3297-just-dance-wii.json) |
 | Just Dance Wii 2 | 3298 | [3298-just-dance-wii-2.json](./3298-just-dance-wii-2.json) |
