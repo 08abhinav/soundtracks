@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
+| One Piece: Treasure Cruise | 18376 | [18376-one-piece-treasure-cruise.json](./18376-one-piece-treasure-cruise.json) |
 | One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
 | One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
@@ -2408,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
 | Operation K.A.T.B. | 225713 | [225713-operation-k-a-t-b.json](./225713-operation-k-a-t-b.json) |
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
+| Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
 | Operation Marakudja | 289428 | [289428-operation-marakudja.json](./289428-operation-marakudja.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
 | Overpass 2: Polaris Vehicles Pack | 271284 | [271284-overpass-2-polaris-vehicles-pack.json](./271284-overpass-2-polaris-vehicles-pack.json) |
 | Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
+| Overpower | 18924 | [18924-overpower.json](./18924-overpower.json) |
 | Overpower RPG - Capítulo 1: A Saga de Bulgar | 348733 | [348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json](./348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
