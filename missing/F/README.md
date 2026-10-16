@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Legend | 193891 | [193891-fishing-legend.json](./193891-fishing-legend.json) |
 | Fishing Mania | 117504 | [117504-fishing-mania.json](./117504-fishing-mania.json) |
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
+| Fishing Master | 21511 | [21511-fishing-master.json](./21511-fishing-master.json) |
 | Fishing Master | 247007 | [247007-fishing-master.json](./247007-fishing-master.json) |
 | Fishing Master | 99734 | [99734-fishing-master.json](./99734-fishing-master.json) |
 | Fishing Master 2 | 68943 | [68943-fishing-master-2.json](./68943-fishing-master-2.json) |
