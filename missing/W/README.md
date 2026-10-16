@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
 | Weakless | 119658 | [119658-weakless.json](./119658-weakless.json) |
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
+| WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
 | Weaphones: Firearms Simulator 2 | 93815 | [93815-weaphones-firearms-simulator-2.json](./93815-weaphones-firearms-simulator-2.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
