@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
+| Vanquish The Eternal | 372776 | [372776-vanquish-the-eternal.json](./372776-vanquish-the-eternal.json) |
 | Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | Vanya Online | 410719 | [410719-vanya-online.json](./410719-vanya-online.json) |
