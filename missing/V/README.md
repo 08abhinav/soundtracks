@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valz | 114155 | [114155-valz.json](./114155-valz.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
+| Vambina | 401260 | [401260-vambina.json](./401260-vambina.json) |
 | Vamp Night | 148918 | [148918-vamp-night.json](./148918-vamp-night.json) |
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
 | Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
