@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
+| Ballistic Tilt | 363667 | [363667-ballistic-tilt.json](./363667-ballistic-tilt.json) |
 | Ballistic Zen | 211087 | [211087-ballistic-zen.json](./211087-ballistic-zen.json) |
 | Ballistic: Ecks vs. Sever | 49196 | [49196-ballistic-ecks-vs-sever.json](./49196-ballistic-ecks-vs-sever.json) |
 | Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
@@ -3053,6 +3054,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
 | Battlefield of Eternal | 175681 | [175681-battlefield-of-eternal.json](./175681-battlefield-of-eternal.json) |
 | Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
+| Battlefield Pirates | 363689 | [363689-battlefield-pirates.json](./363689-battlefield-pirates.json) |
+| Battlefield Pirates 2 | 363690 | [363690-battlefield-pirates-2.json](./363690-battlefield-pirates-2.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
@@ -6914,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
+| Blaster Bunny Chronicles | 363661 | [363661-blaster-bunny-chronicles.json](./363661-blaster-bunny-chronicles.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
 | Blaster Master 2 | 46238 | [46238-blaster-master-2.json](./46238-blaster-master-2.json) |
@@ -11045,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
+| Brigands | 363687 | [363687-brigands.json](./363687-brigands.json) |
 | Brigands and Barbarians | 223637 | [223637-brigands-and-barbarians.json](./223637-brigands-and-barbarians.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Bird | 139208 | [139208-bright-bird.json](./139208-bright-bird.json) |
