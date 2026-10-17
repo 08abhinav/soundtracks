@@ -6583,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
 | Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
+| Dino Shift 2 | 406635 | [406635-dino-shift-2.json](./406635-dino-shift-2.json) |
 | Dino Skater | 175237 | [175237-dino-skater.json](./175237-dino-skater.json) |
 | Dino Slug | 395462 | [395462-dino-slug.json](./395462-dino-slug.json) |
 | Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
