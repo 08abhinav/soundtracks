@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nayuta no Kiseki: Kai | 146036 | [146036-nayuta-no-kiseki-kai.json](./146036-nayuta-no-kiseki-kai.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
+| Nazi | 385988 | [385988-nazi.json](./385988-nazi.json) |
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
