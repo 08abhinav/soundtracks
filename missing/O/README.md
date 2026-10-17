@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
+| Oddsparks: An Automation Adventure - Coaster Rush | 385449 | [385449-oddsparks-an-automation-adventure-coaster-rush.json](./385449-oddsparks-an-automation-adventure-coaster-rush.json) |
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
