@@ -5897,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
+| The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
 | The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
@@ -9989,6 +9990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
 | The Morrison Survival Game | 135070 | [135070-the-morrison-survival-game.json](./135070-the-morrison-survival-game.json) |
+| The Mortal | 374378 | [374378-the-mortal.json](./374378-the-mortal.json) |
 | The Mortimer Paradox | 390616 | [390616-the-mortimer-paradox.json](./390616-the-mortimer-paradox.json) |
 | The Mortuary Assistant | 133131 | [133131-the-mortuary-assistant.json](./133131-the-mortuary-assistant.json) |
 | The Mortuary Assistant: Definitive Edition | 312284 | [312284-the-mortuary-assistant-definitive-edition.json](./312284-the-mortuary-assistant-definitive-edition.json) |
@@ -19415,6 +19417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Survivors | 216444 | [216444-tower-survivors.json](./216444-tower-survivors.json) |
 | Tower Swap | 182748 | [182748-tower-swap.json](./182748-tower-swap.json) |
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
+| Tower Tactics II | 374368 | [374368-tower-tactics-ii.json](./374368-tower-tactics-ii.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
@@ -23842,6 +23845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
+| Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
@@ -23874,6 +23878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
+| Typing Fireworks | 374350 | [374350-typing-fireworks.json](./374350-typing-fireworks.json) |
 | Typing Frankenstein | 407862 | [407862-typing-frankenstein.json](./407862-typing-frankenstein.json) |
 | Typing game | 109386 | [109386-typing-game.json](./109386-typing-game.json) |
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
