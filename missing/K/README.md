@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitou Apricot | 202589 | [202589-kaitou-apricot.json](./202589-kaitou-apricot.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
+| Kaitou Joker: Toki wo Koeru Kaitou to Ushinawareta Houseki | 393962 | [393962-kaitou-joker-toki-wo-koeru-kaitou-to-ushinawareta-houseki.json](./393962-kaitou-joker-toki-wo-koeru-kaitou-to-ushinawareta-houseki.json) |
 | Kaitou Rousseau | 214573 | [214573-kaitou-rousseau.json](./214573-kaitou-rousseau.json) |
 | Kaitou Saint Tail | 45273 | [45273-kaitou-saint-tail.json](./45273-kaitou-saint-tail.json) |
 | Kaitou Saint Tail: Saint Tail to One, Two, Three! | 283817 | [283817-kaitou-saint-tail-saint-tail-to-one-two-three.json](./283817-kaitou-saint-tail-saint-tail-to-one-two-three.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
+| KenGeki CrossZone | 393953 | [393953-kengeki-crosszone.json](./393953-kengeki-crosszone.json) |
 | Kengo 2: Sword of the Samurai | 1421 | [1421-kengo-2-sword-of-the-samurai.json](./1421-kengo-2-sword-of-the-samurai.json) |
 | Kengo 3 | 1422 | [1422-kengo-3.json](./1422-kengo-3.json) |
 | Kengo: Legend of the 9 | 1423 | [1423-kengo-legend-of-the-9.json](./1423-kengo-legend-of-the-9.json) |
@@ -1971,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2905,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittengumi Short: Chapter 0 | 376268 | [376268-kittengumi-short-chapter-0.json](./376268-kittengumi-short-chapter-0.json) |
 | Kittengumi: The Sakabato's Thief | 258467 | [258467-kittengumi-the-sakabatos-thief.json](./258467-kittengumi-the-sakabatos-thief.json) |
 | KittenMouse: Summer of Love | 235375 | [235375-kittenmouse-summer-of-love.json](./235375-kittenmouse-summer-of-love.json) |
+| Kittenpire | 393984 | [393984-kittenpire.json](./393984-kittenpire.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
