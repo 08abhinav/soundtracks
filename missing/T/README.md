@@ -9112,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
 | The Leisure of Grisaia | 33058 | [33058-the-leisure-of-grisaia.json](./33058-the-leisure-of-grisaia.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
+| The Lemonade Stand Game | 397104 | [397104-the-lemonade-stand-game.json](./397104-the-lemonade-stand-game.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
@@ -23019,6 +23020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | Turbo Trucks | 66929 | [66929-turbo-trucks.json](./66929-turbo-trucks.json) |
 | Turbo Tunnel | 102348 | [102348-turbo-tunnel.json](./102348-turbo-tunnel.json) |
+| Turbo Turbo Turbo | 397105 | [397105-turbo-turbo-turbo.json](./397105-turbo-turbo-turbo.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
 | Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
 | Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
@@ -23215,6 +23217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
 | Tuttle: Star Flower Harvest | 247934 | [247934-tuttle-star-flower-harvest.json](./247934-tuttle-star-flower-harvest.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
+| Tux 2 | 397053 | [397053-tux-2.json](./397053-tux-2.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
@@ -23442,6 +23445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
 | Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
+| Twirl and Hurl | 397109 | [397109-twirl-and-hurl.json](./397109-twirl-and-hurl.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Switch Bundle | 147767 | [147767-twist-and-switch-bundle.json](./147767-twist-and-switch-bundle.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
