@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Masquerade of the Guilty | 273864 | [273864-genshin-impact-masquerade-of-the-guilty.json](./273864-genshin-impact-masquerade-of-the-guilty.json) |
 | Genshin Impact: Midsummer Island Adventure | 256978 | [256978-genshin-impact-midsummer-island-adventure.json](./256978-genshin-impact-midsummer-island-adventure.json) |
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
+| Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
 | Goldfish Go-Karts | 166298 | [166298-goldfish-go-karts.json](./166298-goldfish-go-karts.json) |
 | Goldfish Pinball Blast | 107075 | [107075-goldfish-pinball-blast.json](./107075-goldfish-pinball-blast.json) |
+| Goldfish Simulator | 407172 | [407172-goldfish-simulator.json](./407172-goldfish-simulator.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
 | Goldgräber Simulator | 136368 | [136368-goldgraber-simulator.json](./136368-goldgraber-simulator.json) |
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
