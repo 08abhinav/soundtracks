@@ -16277,7 +16277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
-| Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
