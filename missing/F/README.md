@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
+| Feditor | 390550 | [390550-feditor.json](./390550-feditor.json) |
 | Fedora Spade: Death Wears a Fedora | 72296 | [72296-fedora-spade-death-wears-a-fedora.json](./72296-fedora-spade-death-wears-a-fedora.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Fedya Mod | 394099 | [394099-fedya-mod.json](./394099-fedya-mod.json) |
