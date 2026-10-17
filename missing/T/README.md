@@ -4152,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
 | The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
+| The Amazing Digital Circus Visual Novel: Candy Chaos | 364875 | [364875-the-amazing-digital-circus-visual-novel-candy-chaos.json](./364875-the-amazing-digital-circus-visual-novel-candy-chaos.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
@@ -19291,6 +19292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: VDL Futura FDD2 | 168887 | [168887-tourist-bus-simulator-vdl-futura-fdd2.json](./168887-tourist-bus-simulator-vdl-futura-fdd2.json) |
 | Tourist Bus Simulator: VDL Futura FHD2 | 168886 | [168886-tourist-bus-simulator-vdl-futura-fhd2.json](./168886-tourist-bus-simulator-vdl-futura-fhd2.json) |
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
+| Tourist in Trouble: Escape The PickPockets! | 364858 | [364858-tourist-in-trouble-escape-the-pickpockets.json](./364858-tourist-in-trouble-escape-the-pickpockets.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
@@ -22370,6 +22372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
+| Trivial Pursuit Featuring The Simpsons | 364836 | [364836-trivial-pursuit-featuring-the-simpsons.json](./364836-trivial-pursuit-featuring-the-simpsons.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bet You Know It | 51114 | [51114-trivial-pursuit-bet-you-know-it.json](./51114-trivial-pursuit-bet-you-know-it.json) |
