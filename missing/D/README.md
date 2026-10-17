@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
+| Dog Go To The Moon | 366544 | [366544-dog-go-to-the-moon.json](./366544-dog-go-to-the-moon.json) |
 | Dog Gone Golfing | 54498 | [54498-dog-gone-golfing.json](./54498-dog-gone-golfing.json) |
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog Hotel Tycoon | 417400 | [417400-dog-hotel-tycoon.json](./417400-dog-hotel-tycoon.json) |
@@ -13608,6 +13609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystobel | 240687 | [240687-dystobel.json](./240687-dystobel.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| Dystopia Derby | 366558 | [366558-dystopia-derby.json](./366558-dystopia-derby.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
