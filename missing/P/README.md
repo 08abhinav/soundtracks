@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
+| Poker Loafer | 369321 | [369321-poker-loafer.json](./369321-poker-loafer.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
@@ -9496,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Potty Training Game | 100688 | [100688-potty-training-game.json](./100688-potty-training-game.json) |
+| Potyguara Verse | 369345 | [369345-potyguara-verse.json](./369345-potyguara-verse.json) |
 | Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
@@ -9707,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Supplied | 76496 | [76496-power-supplied.json](./76496-power-supplied.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
 | Power Tennis | 43198 | [43198-power-tennis.json](./43198-power-tennis.json) |
+| Power the Future | 369353 | [369353-power-the-future.json](./369353-power-the-future.json) |
 | Power The Light | 254064 | [254064-power-the-light.json](./254064-power-the-light.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power to the People | 145263 | [145263-power-to-the-people.json](./145263-power-to-the-people.json) |
