@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
 | Unoccupied | 142191 | [142191-unoccupied.json](./142191-unoccupied.json) |
+| UnoDos | 381298 | [381298-unodos.json](./381298-unodos.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
