@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletopia: Wingspan - European Expansion | 162887 | [162887-tabletopia-wingspan-european-expansion.json](./162887-tabletopia-wingspan-european-expansion.json) |
 | Tabletopia: Wizard Kittens + Magical Monsters Expansion | 162883 | [162883-tabletopia-wizard-kittens-magical-monsters-expansion.json](./162883-tabletopia-wizard-kittens-magical-monsters-expansion.json) |
 | Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
+| Tablets of Power | 369881 | [369881-tablets-of-power.json](./369881-tablets-of-power.json) |
 | Tabloid Beauties | 201265 | [201265-tabloid-beauties.json](./201265-tabloid-beauties.json) |
 | Taboo 5 | 255884 | [255884-taboo-5.json](./255884-taboo-5.json) |
 | Taboo Trial | 259170 | [259170-taboo-trial.json](./259170-taboo-trial.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
+| The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -7209,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
 | The Gladiators of Rome | 27619 | [27619-the-gladiators-of-rome.json](./27619-the-gladiators-of-rome.json) |
 | The Gladiators: Galactic Circus Games | 71740 | [71740-the-gladiators-galactic-circus-games.json](./71740-the-gladiators-galactic-circus-games.json) |
+| The Glass Sea | 369883 | [369883-the-glass-sea.json](./369883-the-glass-sea.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
@@ -17607,6 +17610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
+| Tokimeki Memorial 2: EVS Append Disc | 369848 | [369848-tokimeki-memorial-2-evs-append-disc.json](./369848-tokimeki-memorial-2-evs-append-disc.json) |
 | Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
@@ -22575,6 +22579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
+| Truck Driver: The Dutch Connection | 369873 | [369873-truck-driver-the-dutch-connection.json](./369873-truck-driver-the-dutch-connection.json) |
 | Truck Driver: UK Paint Jobs | 241069 | [241069-truck-driver-uk-paint-jobs.json](./241069-truck-driver-uk-paint-jobs.json) |
 | Truck Driver: USA Paint Jobs | 241070 | [241070-truck-driver-usa-paint-jobs.json](./241070-truck-driver-usa-paint-jobs.json) |
 | Truck Driving | 362360 | [362360-truck-driving.json](./362360-truck-driving.json) |
