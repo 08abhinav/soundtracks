@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Hungry Adventure | 367550 | [367550-kittys-hungry-adventure.json](./367550-kittys-hungry-adventure.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
+| Kittycat Couture | 399419 | [399419-kittycat-couture.json](./399419-kittycat-couture.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
 | Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
