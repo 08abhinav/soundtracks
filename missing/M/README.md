@@ -8773,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mined Plants: Farm | 105536 | [105536-mined-plants-farm.json](./105536-mined-plants-farm.json) |
 | Mined-Out | 93131 | [93131-mined-out.json](./93131-mined-out.json) |
 | MineDeeper | 376265 | [376265-minedeeper.json](./376265-minedeeper.json) |
+| Minedle | 375535 | [375535-minedle.json](./375535-minedle.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
@@ -12751,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
+| Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
 | Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
