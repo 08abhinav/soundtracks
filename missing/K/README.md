@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Disastrous | 59761 | [59761-kitty-disastrous.json](./59761-kitty-disastrous.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
+| Kitty Haven | 385350 | [385350-kitty-haven.json](./385350-kitty-haven.json) |
 | Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
