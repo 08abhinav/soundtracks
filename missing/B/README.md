@@ -12251,6 +12251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
 | Bunny Business | 184887 | [184887-bunny-business.json](./184887-bunny-business.json) |
 | Bunny Bye-Bye | 242117 | [242117-bunny-bye-bye.json](./242117-bunny-bye-bye.json) |
+| Bunny Catch Those Eggs | 387730 | [387730-bunny-catch-those-eggs.json](./387730-bunny-catch-those-eggs.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
 | Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
