@@ -13500,6 +13500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Barnacle | 108889 | [108889-space-barnacle.json](./108889-space-barnacle.json) |
 | Space Base | 302753 | [302753-space-base.json](./302753-space-base.json) |
 | Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
+| Space Bash | 379727 | [379727-space-bash.json](./379727-space-bash.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
@@ -20211,6 +20212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
+| Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Stripe Physics | 95315 | [95315-stripe-physics.json](./95315-stripe-physics.json) |
 | Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
@@ -21268,6 +21270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
+| Summoner Tale | 379626 | [379626-summoner-tale.json](./379626-summoner-tale.json) |
 | Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
@@ -24863,6 +24866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
 | Sweet Story Wet-Bottom Pie | 369675 | [369675-sweet-story-wet-bottom-pie.json](./369675-sweet-story-wet-bottom-pie.json) |
 | Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
+| Sweet Succubus Home | 379658 | [379658-sweet-succubus-home.json](./379658-sweet-succubus-home.json) |
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
