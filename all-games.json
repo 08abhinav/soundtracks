@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:35:25.733Z",
-  "total_soundtracks": 2083,
+  "generated_at": "2026-10-17T15:35:33.968Z",
+  "total_soundtracks": 2084,
   "games": [
     {
       "igdb_id": 7522,
@@ -3115,6 +3115,20 @@
         {
           "album_name": "Bound By Flame (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7iseRLOjgTXOnKxq2fCm9X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152124,
+      "game_name": "Bramble: The Mountain King",
+      "game_url": "https://ostdb.net/games/bramble-the-mountain-king",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735d543f84de7e21b54dd12afe",
+      "albums": [
+        {
+          "album_name": "Bramble: The Mountain King (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4HyeqcMHnJhYm7kQSrfwiJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
