@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Museum | 265338 | [265338-life-museum.json](./265338-life-museum.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
+| Life of a Cockroach | 398904 | [398904-life-of-a-cockroach.json](./398904-life-of-a-cockroach.json) |
 | Life of A Commenter | 183917 | [183917-life-of-a-commenter.json](./183917-life-of-a-commenter.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
+| Love, I'm Not Good For You | 398915 | [398915-love-im-not-good-for-you.json](./398915-love-im-not-good-for-you.json) |
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
 | Love, Internet, and Murder Magic | 328013 | [328013-love-internet-and-murder-magic.json](./328013-love-internet-and-murder-magic.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
