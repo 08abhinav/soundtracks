@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
+| Wandering Memories | 372183 | [372183-wandering-memories.json](./372183-wandering-memories.json) |
 | Wandering Monolith | 319831 | [319831-wandering-monolith.json](./319831-wandering-monolith.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
 | Wandering Pet Garden | 297892 | [297892-wandering-pet-garden.json](./297892-wandering-pet-garden.json) |
@@ -2741,7 +2742,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
 | What They Gave Us | 407391 | [407391-what-they-gave-us.json](./407391-what-they-gave-us.json) |
 | What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
+| What Time is it? | 372192 | [372192-what-time-is-it.json](./372192-what-time-is-it.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
+| What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
 | What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
