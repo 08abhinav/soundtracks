@@ -3542,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
+| Deep Chalk: First Phase | 404081 | [404081-deep-chalk-first-phase.json](./404081-deep-chalk-first-phase.json) |
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
 | Deep Chalk: Third Phase | 404191 | [404191-deep-chalk-third-phase.json](./404191-deep-chalk-third-phase.json) |
 | Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
@@ -3997,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeGen Rivals | 384851 | [384851-degen-rivals.json](./384851-degen-rivals.json) |
 | Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
+| Degenerate Star | 404065 | [404065-degenerate-star.json](./404065-degenerate-star.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degeons Project | 390796 | [390796-degeons-project.json](./390796-degeons-project.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
