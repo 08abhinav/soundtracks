@@ -1945,7 +1945,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Games Bundle | 305564 | [305564-action-games-bundle.json](./305564-action-games-bundle.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
-| Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
@@ -3929,7 +3928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akaku Forest | 318123 | [318123-akaku-forest.json](./318123-akaku-forest.json) |
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
-| Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
@@ -10613,7 +10611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
-| Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
