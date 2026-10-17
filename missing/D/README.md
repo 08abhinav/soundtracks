@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
+| Delphinium | 394603 | [394603-delphinium.json](./394603-delphinium.json) |
 | Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
 | Delta | 13839 | [13839-delta.json](./13839-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
