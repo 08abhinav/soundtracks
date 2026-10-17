@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
+| Darkness Rainfall | 405953 | [405953-darkness-rainfall.json](./405953-darkness-rainfall.json) |
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
@@ -3054,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
+| Death End Re;Quest 3 | 405964 | [405964-death-end-re-quest-3.json](./405964-death-end-re-quest-3.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
@@ -3453,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
 | Decline | 204865 | [204865-decline.json](./204865-decline.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
+| Decline | 405959 | [405959-decline.json](./405959-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
@@ -7761,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
+| Do Disciplinary Committee Members Dream of Succubi? | 405981 | [405981-do-disciplinary-committee-members-dream-of-succubi.json](./405981-do-disciplinary-committee-members-dream-of-succubi.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
@@ -7827,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
+| Docked: Deep Waters | 405957 | [405957-docked-deep-waters.json](./405957-docked-deep-waters.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
 | Docking Bay | 374212 | [374212-docking-bay.json](./374212-docking-bay.json) |
@@ -11488,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
+| Driftwood Fate | 405975 | [405975-driftwood-fate.json](./405975-driftwood-fate.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
