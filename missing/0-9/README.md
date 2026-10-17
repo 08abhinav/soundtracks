@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
+| 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's BASIC Games | 313458 | [313458-80s-basic-games.json](./313458-80s-basic-games.json) |
