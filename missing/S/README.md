@@ -19457,7 +19457,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
-| Stranded Deep | 8751 | [8751-stranded-deep.json](./8751-stranded-deep.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
