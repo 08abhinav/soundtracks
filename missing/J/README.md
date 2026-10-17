@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Ducks | 90505 | [90505-jet-ducks.json](./90505-jet-ducks.json) |
 | Jet Fighter | 13251 | [13251-jet-fighter.json](./13251-jet-fighter.json) |
+| Jet Fighters with Friends 2 | 384303 | [384303-jet-fighters-with-friends-2.json](./384303-jet-fighters-with-friends-2.json) |
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
 | Jet Grind Radio | 145186 | [145186-jet-grind-radio.json](./145186-jet-grind-radio.json) |
@@ -3067,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juventus Club Football | 267879 | [267879-juventus-club-football.json](./267879-juventus-club-football.json) |
 | Juventus Club Football 2005 | 267900 | [267900-juventus-club-football-2005.json](./267900-juventus-club-football-2005.json) |
 | Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
+| Juxtapose | 384347 | [384347-juxtapose.json](./384347-juxtapose.json) |
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
 | JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jya Jya | 251086 | [251086-jya-jya.json](./251086-jya-jya.json) |
