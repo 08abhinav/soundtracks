@@ -1456,7 +1456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Depths | 116230 | [116230-darkest-depths.json](./116230-darkest-depths.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
-| Darkest Dungeon II | 115425 | [115425-darkest-dungeon-ii.json](./115425-darkest-dungeon-ii.json) |
 | Darkest Dungeon II: Hero Origin Pack | 370240 | [370240-darkest-dungeon-ii-hero-origin-pack.json](./370240-darkest-dungeon-ii-hero-origin-pack.json) |
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
