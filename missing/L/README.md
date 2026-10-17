@@ -4823,7 +4823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | Locomotive 2 | 66556 | [66556-locomotive-2.json](./66556-locomotive-2.json) |
-| LocoRoco | 1459 | [1459-locoroco.json](./1459-locoroco.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
 | LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
