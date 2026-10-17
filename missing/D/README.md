@@ -10836,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
+| Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
@@ -11810,6 +11811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
+| Drop and Grow | 383105 | [383105-drop-and-grow.json](./383105-drop-and-grow.json) |
 | Drop Blox | 155392 | [155392-drop-blox.json](./155392-drop-blox.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop by Hippo Cooperation | 107020 | [107020-drop-by-hippo-cooperation.json](./107020-drop-by-hippo-cooperation.json) |
