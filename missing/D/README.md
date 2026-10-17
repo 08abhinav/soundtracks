@@ -9727,6 +9727,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
+| Doubutsu no Mori e+: K05 - Mura Melo Card: Keke Ondo | 364272 | [364272-doubutsu-no-mori-e-k05-mura-melo-card-keke-ondo.json](./364272-doubutsu-no-mori-e-k05-mura-melo-card-keke-ondo.json) |
+| Doubutsu no Mori e+: K06 - Mura Melo Card: Keke-Billy | 364271 | [364271-doubutsu-no-mori-e-k06-mura-melo-card-keke-billy.json](./364271-doubutsu-no-mori-e-k06-mura-melo-card-keke-billy.json) |
+| Doubutsu no Mori e+: K07 - Mura Melo Card: Kangaechuu | 364269 | [364269-doubutsu-no-mori-e-k07-mura-melo-card-kangaechuu.json](./364269-doubutsu-no-mori-e-k07-mura-melo-card-kangaechuu.json) |
+| Doubutsu no Mori e+: K08 - Mura Melo Card: Funa Uta 2001 | 364266 | [364266-doubutsu-no-mori-e-k08-mura-melo-card-funa-uta-2001.json](./364266-doubutsu-no-mori-e-k08-mura-melo-card-funa-uta-2001.json) |
+| Doubutsu no Mori e+: K09 - Mura Melo Card: Napolitain | 364259 | [364259-doubutsu-no-mori-e-k09-mura-melo-card-napolitain.json](./364259-doubutsu-no-mori-e-k09-mura-melo-card-napolitain.json) |
+| Doubutsu no Mori e+: K10 - Mura Melo Card: Nidanzaka | 364260 | [364260-doubutsu-no-mori-e-k10-mura-melo-card-nidanzaka.json](./364260-doubutsu-no-mori-e-k10-mura-melo-card-nidanzaka.json) |
+| Doubutsu no Mori e+: K11 - Mura Melo Card: Keke Metal | 364261 | [364261-doubutsu-no-mori-e-k11-mura-melo-card-keke-metal.json](./364261-doubutsu-no-mori-e-k11-mura-melo-card-keke-metal.json) |
+| Doubutsu no Mori e+: K12 - Mura Melo Card: Keke Daimyou | 364264 | [364264-doubutsu-no-mori-e-k12-mura-melo-card-keke-daimyou.json](./364264-doubutsu-no-mori-e-k12-mura-melo-card-keke-daimyou.json) |
+| Doubutsu no Mori e+: PR - Bow | 364253 | [364253-doubutsu-no-mori-e-pr-bow.json](./364253-doubutsu-no-mori-e-pr-bow.json) |
+| Doubutsu no Mori e+: PR - Meow | 364254 | [364254-doubutsu-no-mori-e-pr-meow.json](./364254-doubutsu-no-mori-e-pr-meow.json) |
+| Doubutsu no Mori e+: PR - Nindori | 364251 | [364251-doubutsu-no-mori-e-pr-nindori.json](./364251-doubutsu-no-mori-e-pr-nindori.json) |
+| Doubutsu no Mori e+: PR - Pierre | 364252 | [364252-doubutsu-no-mori-e-pr-pierre.json](./364252-doubutsu-no-mori-e-pr-pierre.json) |
+| Doubutsu no Mori e+: PR - Shinabiru | 364256 | [364256-doubutsu-no-mori-e-pr-shinabiru.json](./364256-doubutsu-no-mori-e-pr-shinabiru.json) |
+| Doubutsu no Mori e+: PR - Shoukichi | 364255 | [364255-doubutsu-no-mori-e-pr-shoukichi.json](./364255-doubutsu-no-mori-e-pr-shoukichi.json) |
 | Doubutsu no Mori+ | 353228 | [353228-doubutsu-no-mori.json](./353228-doubutsu-no-mori.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
@@ -9771,6 +9785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
+| Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
