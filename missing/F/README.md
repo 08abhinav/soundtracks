@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 5 | 94647 | [94647-fantasy-5.json](./94647-fantasy-5.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
+| Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
@@ -5224,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
 | Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
+| Flappy Puffy | 385965 | [385965-flappy-puffy.json](./385965-flappy-puffy.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
@@ -7122,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
@@ -7820,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
+| Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
 | Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
 | Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
