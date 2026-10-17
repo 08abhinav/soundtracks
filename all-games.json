@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T14:55:25.609Z",
-  "total_soundtracks": 2019,
+  "generated_at": "2026-10-17T14:55:33.200Z",
+  "total_soundtracks": 2020,
   "games": [
     {
       "igdb_id": 7522,
@@ -7037,6 +7037,20 @@
         {
           "album_name": "F1 22 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217555,
+      "game_name": "Fae Farm",
+      "game_url": "https://ostdb.net/games/fae-farm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c64d6c57b0752cbae854c17",
+      "albums": [
+        {
+          "album_name": "Fae Farm (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/59mxfP8W8ksmXRGSkcXRUV",
           "apple_music_url": "",
           "album_link_url": ""
         }
