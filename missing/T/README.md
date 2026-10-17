@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
+| Team F1 | 386525 | [386525-team-f1.json](./386525-team-f1.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
@@ -5090,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cellar | 115400 | [115400-the-cellar.json](./115400-the-cellar.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
+| The Cemetery Shift | 386536 | [386536-the-cemetery-shift.json](./386536-the-cemetery-shift.json) |
 | The Cenozoic Era | 231303 | [231303-the-cenozoic-era.json](./231303-the-cenozoic-era.json) |
 | The Centennial Case | 250435 | [250435-the-centennial-case.json](./250435-the-centennial-case.json) |
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
@@ -6016,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door You Can Never Open | 360726 | [360726-the-door-you-can-never-open.json](./360726-the-door-you-can-never-open.json) |
 | The Door-Secret Neighbor | 96912 | [96912-the-door-secret-neighbor.json](./96912-the-door-secret-neighbor.json) |
 | The Doorbreaker | 74136 | [74136-the-doorbreaker.json](./74136-the-doorbreaker.json) |
+| The Doors | 386535 | [386535-the-doors.json](./386535-the-doors.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Doorway Effect | 240685 | [240685-the-doorway-effect.json](./240685-the-doorway-effect.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
@@ -6320,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of the Age | 379162 | [379162-the-end-of-the-age.json](./379162-the-end-of-the-age.json) |
+| The End of the Beginning of Courage, Reasoning, and Seaweed 10 | 386559 | [386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json](./386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json) |
 | The End of the Line: New Age | 420483 | [420483-the-end-of-the-line-new-age.json](./420483-the-end-of-the-line-new-age.json) |
 | The End of the World | 308442 | [308442-the-end-of-the-world.json](./308442-the-end-of-the-world.json) |
 | The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
@@ -11936,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
 | The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
+| The Skin Stapler | 386539 | [386539-the-skin-stapler.json](./386539-the-skin-stapler.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skull Embroidery | 57479 | [57479-the-skull-embroidery.json](./57479-the-skull-embroidery.json) |
@@ -17398,6 +17403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
+| Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
@@ -18143,6 +18149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Truand | 405499 | [405499-tony-truand.json](./405499-tony-truand.json) |
 | Tony: Montezuma's Gold | 403543 | [403543-tony-montezumas-gold.json](./403543-tony-montezumas-gold.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
+| Tonzura-kun | 386520 | [386520-tonzura-kun.json](./386520-tonzura-kun.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
@@ -22831,6 +22838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
+| Tsuri Baka Nisshi | 386526 | [386526-tsuri-baka-nisshi.json](./386526-tsuri-baka-nisshi.json) |
 | Tsuri Kichi Sanpei: Blue Marlin-hen | 48875 | [48875-tsuri-kichi-sanpei-blue-marlin-hen.json](./48875-tsuri-kichi-sanpei-blue-marlin-hen.json) |
 | Tsuri ni Ikou | 356612 | [356612-tsuri-ni-ikou.json](./356612-tsuri-ni-ikou.json) |
 | Tsuri Sensei | 418609 | [418609-tsuri-sensei.json](./418609-tsuri-sensei.json) |
