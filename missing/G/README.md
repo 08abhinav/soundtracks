@@ -7947,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Touhou 2 | 178365 | [178365-gyakuten-touhou-2.json](./178365-gyakuten-touhou-2.json) |
 | Gyakuten Touhou Gaiden | 231784 | [231784-gyakuten-touhou-gaiden.json](./231784-gyakuten-touhou-gaiden.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
+| Gyaru to Papakatsu: Yarichin Chuunen Oji no Enjoy PacoPaco Life | 408518 | [408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json](./408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json) |
 | Gyaru x Ota: Orikawa Kirara wa Osewa Shitai | 402456 | [402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json](./402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
