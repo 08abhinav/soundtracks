@@ -7404,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
+| Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
@@ -9548,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
+| Ark: Valguero Ascended | 377895 | [377895-ark-valguero-ascended.json](./377895-ark-valguero-ascended.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
@@ -10993,6 +10995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Hunter Zosma | 221644 | [221644-astra-hunter-zosma.json](./221644-astra-hunter-zosma.json) |
+| Astra Industria | 377938 | [377938-astra-industria.json](./377938-astra-industria.json) |
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
