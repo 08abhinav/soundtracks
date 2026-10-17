@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terro bot | 108360 | [108360-terro-bot.json](./108360-terro-bot.json) |
 | Terro Eliminator | 309023 | [309023-terro-eliminator.json](./309023-terro-eliminator.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
+| Terroid | 390122 | [390122-terroid.json](./390122-terroid.json) |
 | Terroir | 28753 | [28753-terroir.json](./28753-terroir.json) |
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
 | Terror at Oakheart | 258945 | [258945-terror-at-oakheart.json](./258945-terror-at-oakheart.json) |
@@ -7704,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
+| The Housekeeper | 390039 | [390039-the-housekeeper.json](./390039-the-housekeeper.json) |
 | The Housekeeper | 398903 | [398903-the-housekeeper.json](./398903-the-housekeeper.json) |
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
@@ -22427,6 +22429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trovemount | 341644 | [341644-trovemount.json](./341644-trovemount.json) |
 | Trover Saves the Universe: Important Cosmic Jobs | 132636 | [132636-trover-saves-the-universe-important-cosmic-jobs.json](./132636-trover-saves-the-universe-important-cosmic-jobs.json) |
 | Trow's Space | 250876 | [250876-trows-space.json](./250876-trows-space.json) |
+| Trox: The Reversal | 390033 | [390033-trox-the-reversal.json](./390033-trox-the-reversal.json) |
 | Troxia | 214480 | [214480-troxia.json](./214480-troxia.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Troy-Bilt: Testing Grounds | 327791 | [327791-troy-bilt-testing-grounds.json](./327791-troy-bilt-testing-grounds.json) |
