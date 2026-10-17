@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valleys Between | 106993 | [106993-valleys-between.json](./106993-valleys-between.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
+| Valor | 368260 | [368260-valor.json](./368260-valor.json) |
 | Valor & Blade | 318544 | [318544-valor-and-blade.json](./318544-valor-and-blade.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor & Victory: Shield of Cholm | 207788 | [207788-valor-and-victory-shield-of-cholm.json](./207788-valor-and-victory-shield-of-cholm.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
+| VR Slots 3D | 368240 | [368240-vr-slots-3d.json](./368240-vr-slots-3d.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
 | VR Sniper Hunt | 288472 | [288472-vr-sniper-hunt.json](./288472-vr-sniper-hunt.json) |
 | VR Snowballs | 29957 | [29957-vr-snowballs.json](./29957-vr-snowballs.json) |
@@ -2982,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
+| VRpatients | 368237 | [368237-vrpatients.json](./368237-vrpatients.json) |
 | VRporize - VR FPS | 32385 | [32385-vrporize-vr-fps.json](./32385-vrporize-vr-fps.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
 | VRQB | 30052 | [30052-vrqb.json](./30052-vrqb.json) |
