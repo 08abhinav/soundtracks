@@ -8301,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Hops 2 | 375559 | [375559-fresh-hops-2.json](./375559-fresh-hops-2.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
+| Fresh Squeezed Lemonade | 393992 | [393992-fresh-squeezed-lemonade.json](./393992-fresh-squeezed-lemonade.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
 | Fresh Story | 272765 | [272765-fresh-story.json](./272765-fresh-story.json) |
 | Fresh Tracks | 335842 | [335842-fresh-tracks.json](./335842-fresh-tracks.json) |
