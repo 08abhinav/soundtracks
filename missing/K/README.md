@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kabenaguri | 367724 | [367724-kabenaguri.json](./367724-kabenaguri.json) |
 | Kabitis | 32615 | [32615-kabitis.json](./32615-kabitis.json) |
 | Kabitis 2 | 122041 | [122041-kabitis-2.json](./122041-kabitis-2.json) |
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
+| Kotowari no Sketch | 367723 | [367723-kotowari-no-sketch.json](./367723-kotowari-no-sketch.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kottabos VR | 289233 | [289233-kottabos-vr.json](./289233-kottabos-vr.json) |
 | Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
