@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
+| Bartender Life Simulator | 390052 | [390052-bartender-life-simulator.json](./390052-bartender-life-simulator.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
 | Bartender: The Right Mix | 192098 | [192098-bartender-the-right-mix.json](./192098-bartender-the-right-mix.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
 | Battleboat | 368279 | [368279-battleboat.json](./368279-battleboat.json) |
+| BattleBoat X | 390029 | [390029-battleboat-x.json](./390029-battleboat-x.json) |
 | Battleboats.io | 327906 | [327906-battleboats-io.json](./327906-battleboats-io.json) |
 | Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
