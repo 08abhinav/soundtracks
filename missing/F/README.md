@@ -5458,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator 2025 | 371411 | [371411-flight-simulator-2025.json](./371411-flight-simulator-2025.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Flight Simulator 2026 | 401128 | [401128-flight-simulator-2026.json](./401128-flight-simulator-2026.json) |
+| Flight Simulator 2026 Collection | 415390 | [415390-flight-simulator-2026-collection.json](./415390-flight-simulator-2026-collection.json) |
 | Flight Simulator 2d | 223935 | [223935-flight-simulator-2d.json](./223935-flight-simulator-2d.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
