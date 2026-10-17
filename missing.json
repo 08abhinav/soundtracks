@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:18:26.590Z",
-  "total_missing": 223617,
+  "generated_at": "2026-10-17T11:24:03.847Z",
+  "total_missing": 223602,
   "games": [
     {
       "igdb_id": 191680,
@@ -21652,11 +21652,6 @@
       "file": "missing/A/221840-action-half-life.json"
     },
     {
-      "igdb_id": 14550,
-      "game_name": "Action Henk",
-      "file": "missing/A/14550-action-henk.json"
-    },
-    {
       "igdb_id": 313769,
       "game_name": "Action Hero",
       "file": "missing/A/313769-action-hero.json"
@@ -31580,11 +31575,6 @@
       "igdb_id": 2417,
       "game_name": "Akalabeth: World of Doom",
       "file": "missing/A/2417-akalabeth-world-of-doom.json"
-    },
-    {
-      "igdb_id": 103484,
-      "game_name": "Akane",
-      "file": "missing/A/103484-akane.json"
     },
     {
       "igdb_id": 204685,
@@ -65050,11 +65040,6 @@
       "igdb_id": 141160,
       "game_name": "Assassin's Creed Valhalla: Collector's Edition",
       "file": "missing/A/141160-assassins-creed-valhalla-collectors-edition.json"
-    },
-    {
-      "igdb_id": 185706,
-      "game_name": "Assassin's Creed Valhalla: Dawn of Ragnarök",
-      "file": "missing/A/185706-assassins-creed-valhalla-dawn-of-ragnarok.json"
     },
     {
       "igdb_id": 211296,
@@ -169592,11 +169577,6 @@
       "file": "missing/C/333574-chrono-tales.json"
     },
     {
-      "igdb_id": 263446,
-      "game_name": "Chrono Trigger",
-      "file": "missing/C/263446-chrono-trigger.json"
-    },
-    {
       "igdb_id": 263447,
       "game_name": "Chrono Trigger",
       "file": "missing/C/263447-chrono-trigger.json"
@@ -193052,11 +193032,6 @@
       "file": "missing/C/374682-cosmic-spacehead.json"
     },
     {
-      "igdb_id": 27667,
-      "game_name": "Cosmic Star Heroine",
-      "file": "missing/C/27667-cosmic-star-heroine.json"
-    },
-    {
       "igdb_id": 362412,
       "game_name": "Cosmic Star Lounge",
       "file": "missing/C/362412-cosmic-star-lounge.json"
@@ -205050,11 +205025,6 @@
       "igdb_id": 245950,
       "game_name": "Crying Pony",
       "file": "missing/C/245950-crying-pony.json"
-    },
-    {
-      "igdb_id": 95032,
-      "game_name": "Crying Suns",
-      "file": "missing/C/95032-crying-suns.json"
     },
     {
       "igdb_id": 345996,
@@ -454262,11 +454232,6 @@
       "file": "missing/I/382764-immortal-rebirth.json"
     },
     {
-      "igdb_id": 23188,
-      "game_name": "Immortal Redneck",
-      "file": "missing/I/23188-immortal-redneck.json"
-    },
-    {
       "igdb_id": 53223,
       "game_name": "Immortal Redneck: Deluxe Edition",
       "file": "missing/I/53223-immortal-redneck-deluxe-edition.json"
@@ -501600,11 +501565,6 @@
       "igdb_id": 115649,
       "game_name": "Knights & Slimes",
       "file": "missing/K/115649-knights-and-slimes.json"
-    },
-    {
-      "igdb_id": 25584,
-      "game_name": "Knights and Bikes",
-      "file": "missing/K/25584-knights-and-bikes.json"
     },
     {
       "igdb_id": 223689,
@@ -561660,11 +561620,6 @@
       "igdb_id": 9380,
       "game_name": "Massive Assault: Phantom Renaissance",
       "file": "missing/M/9380-massive-assault-phantom-renaissance.json"
-    },
-    {
-      "igdb_id": 15861,
-      "game_name": "Massive Chalice",
-      "file": "missing/M/15861-massive-chalice.json"
     },
     {
       "igdb_id": 146833,
@@ -627245,11 +627200,6 @@
       "igdb_id": 68014,
       "game_name": "Necessary Force",
       "file": "missing/N/68014-necessary-force.json"
-    },
-    {
-      "igdb_id": 130788,
-      "game_name": "Necesse",
-      "file": "missing/N/130788-necesse.json"
     },
     {
       "igdb_id": 40381,
@@ -705352,11 +705302,6 @@
       "file": "missing/P/68309-playboy-manager.json"
     },
     {
-      "igdb_id": 2161,
-      "game_name": "Playboy: The Mansion",
-      "file": "missing/P/2161-playboy-the-mansion.json"
-    },
-    {
       "igdb_id": 209367,
       "game_name": "Playboy: The Mansion - Gold Edition",
       "file": "missing/P/209367-playboy-the-mansion-gold-edition.json"
@@ -744890,11 +744835,6 @@
       "igdb_id": 207756,
       "game_name": "Rage Rabbit",
       "file": "missing/R/207756-rage-rabbit.json"
-    },
-    {
-      "igdb_id": 18698,
-      "game_name": "Rage Racer",
-      "file": "missing/R/18698-rage-racer.json"
     },
     {
       "igdb_id": 242799,
@@ -811325,11 +811265,6 @@
       "igdb_id": 23461,
       "game_name": "Shadow Force: Razor Unit",
       "file": "missing/S/23461-shadow-force-razor-unit.json"
-    },
-    {
-      "igdb_id": 233307,
-      "game_name": "Shadow Gambit: The Cursed Crew",
-      "file": "missing/S/233307-shadow-gambit-the-cursed-crew.json"
     },
     {
       "igdb_id": 279876,
@@ -1041607,11 +1041542,6 @@
       "file": "missing/U/214421-underground-adventure.json"
     },
     {
-      "igdb_id": 246917,
-      "game_name": "Underground Blossom",
-      "file": "missing/U/246917-underground-blossom.json"
-    },
-    {
       "igdb_id": 406924,
       "game_name": "Underground Business",
       "file": "missing/U/406924-underground-business.json"
@@ -1107085,11 +1107015,6 @@
       "igdb_id": 288377,
       "game_name": "Ys Foliage Ocean in Celceta: Kai",
       "file": "missing/Y/288377-ys-foliage-ocean-in-celceta-kai.json"
-    },
-    {
-      "igdb_id": 21020,
-      "game_name": "Ys I & II Chronicles",
-      "file": "missing/Y/21020-ys-i-and-ii-chronicles.json"
     },
     {
       "igdb_id": 410166,
