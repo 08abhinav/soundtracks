@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
+| Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
+| Blasteroids | 371558 | [371558-blasteroids.json](./371558-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
 | Blastforge Breach | 368628 | [368628-blastforge-breach.json](./368628-blastforge-breach.json) |
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
