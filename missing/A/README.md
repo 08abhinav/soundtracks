@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
+| A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
 | A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
@@ -9254,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
+| Are You Smarter Than Patrick Star? | 383777 | [383777-are-you-smarter-than-patrick-star.json](./383777-are-you-smarter-than-patrick-star.json) |
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
 | Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
