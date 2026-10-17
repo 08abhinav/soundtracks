@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11-A-Side Soccer | 279699 | [279699-11-a-side-soccer.json](./279699-11-a-side-soccer.json) |
 | 11:45 A Vivid Life | 132652 | [132652-11-45-a-vivid-life.json](./132652-11-45-a-vivid-life.json) |
 | 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
+| 1111-Strike | 377367 | [377367-1111-strike.json](./377367-1111-strike.json) |
 | 11111Game | 219505 | [219505-11111game.json](./219505-11111game.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1112: Episode 02 | 213563 | [213563-1112-episode-02.json](./213563-1112-episode-02.json) |
@@ -1713,9 +1714,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
 | 3LDK | 58152 | [58152-3ldk.json](./58152-3ldk.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
+| 3on3 FreeStyle: 2025 Special Pack | 377374 | [377374-3on3-freestyle-2025-special-pack.json](./377374-3on3-freestyle-2025-special-pack.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 1 | 269049 | [269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json](./269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
+| 3on3 FreeStyle: Beginner's Starter Kit | 377373 | [377373-3on3-freestyle-beginners-starter-kit.json](./377373-3on3-freestyle-beginners-starter-kit.json) |
+| 3on3 FreeStyle: Character Access Pass | 377372 | [377372-3on3-freestyle-character-access-pass.json](./377372-3on3-freestyle-character-access-pass.json) |
+| 3on3 FreeStyle: Crossplay 4th Anniversary Gift Pack | 377371 | [377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json](./377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json) |
+| 3on3 FreeStyle: P5 Selection Pro Pack | 377370 | [377370-3on3-freestyle-p5-selection-pro-pack.json](./377370-3on3-freestyle-p5-selection-pro-pack.json) |
+| 3on3 FreeStyle: P5 Selection Rookie Pack | 377369 | [377369-3on3-freestyle-p5-selection-rookie-pack.json](./377369-3on3-freestyle-p5-selection-rookie-pack.json) |
+| 3on3 FreeStyle: P6 Selection Rookie Pack | 377368 | [377368-3on3-freestyle-p6-selection-rookie-pack.json](./377368-3on3-freestyle-p6-selection-rookie-pack.json) |
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
@@ -1740,6 +1748,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
 | 3x9 Kingdom: Road of Adventures | 296229 | [296229-3x9-kingdom-road-of-adventures.json](./296229-3x9-kingdom-road-of-adventures.json) |
 | 3Xtinction | 274943 | [274943-3xtinction.json](./274943-3xtinction.json) |
+| 3xtinction: 2urvive Mercenaries Pack | 377375 | [377375-3xtinction-2urvive-mercenaries-pack.json](./377375-3xtinction-2urvive-mercenaries-pack.json) |
+| 3xtinction: Broken Mind Mercenaries Pack | 377376 | [377376-3xtinction-broken-mind-mercenaries-pack.json](./377376-3xtinction-broken-mind-mercenaries-pack.json) |
+| 3xtinction: Premium Pack 2 | 377377 | [377377-3xtinction-premium-pack-2.json](./377377-3xtinction-premium-pack-2.json) |
 | 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
 | 4 Alice Magical Autistic Girls | 181043 | [181043-4-alice-magical-autistic-girls.json](./181043-4-alice-magical-autistic-girls.json) |
@@ -1867,6 +1878,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Story Online | 27734 | [27734-4story-online.json](./27734-4story-online.json) |
+| 4Story: Archer Armor Package | 377378 | [377378-4story-archer-armor-package.json](./377378-4story-archer-armor-package.json) |
+| 4Story: Assassin Armor Package | 377379 | [377379-4story-assassin-armor-package.json](./377379-4story-assassin-armor-package.json) |
+| 4Story: Mage Armor Package | 377380 | [377380-4story-mage-armor-package.json](./377380-4story-mage-armor-package.json) |
+| 4Story: Permanent Dragon Mount Package | 377381 | [377381-4story-permanent-dragon-mount-package.json](./377381-4story-permanent-dragon-mount-package.json) |
+| 4Story: Permanent Nine-tailed Fox Mount Package | 377382 | [377382-4story-permanent-nine-tailed-fox-mount-package.json](./377382-4story-permanent-nine-tailed-fox-mount-package.json) |
+| 4Story: Priest Armor Package | 377383 | [377383-4story-priest-armor-package.json](./377383-4story-priest-armor-package.json) |
 | 4Story: Summoner Armor Package | 377384 | [377384-4story-summoner-armor-package.json](./377384-4story-summoner-armor-package.json) |
 | 4Story: The Original | 349289 | [349289-4story-the-original.json](./349289-4story-the-original.json) |
 | 4Story: Warrior Armor Package | 377385 | [377385-4story-warrior-armor-package.json](./377385-4story-warrior-armor-package.json) |
