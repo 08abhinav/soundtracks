@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
 | 52Hertz | 277791 | [277791-52hertz.json](./277791-52hertz.json) |
 | 52Hertz | 367764 | [367764-52hertz.json](./367764-52hertz.json) |
+| 53X Homecoming | 384907 | [384907-53x-homecoming.json](./384907-53x-homecoming.json) |
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
