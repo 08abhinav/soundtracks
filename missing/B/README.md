@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
+| Better Days | 376835 | [376835-better-days.json](./376835-better-days.json) |
 | Better Dead Than Alien! | 11955 | [11955-better-dead-than-alien.json](./11955-better-dead-than-alien.json) |
 | Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
@@ -8152,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Archive: Volume 3 - Eden Treaty | 417991 | [417991-blue-archive-volume-3-eden-treaty.json](./417991-blue-archive-volume-3-eden-treaty.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
+| Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
@@ -9630,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 120690 | [120690-bounce.json](./120690-bounce.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
+| Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
 | Bounce and Pop | 227423 | [227423-bounce-and-pop.json](./227423-bounce-and-pop.json) |
@@ -10614,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
+| Break Through | 376830 | [376830-break-through.json](./376830-break-through.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
 | Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
@@ -12570,6 +12574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
+| Burrow | 376800 | [376800-burrow.json](./376800-burrow.json) |
 | Burrow burrow | 159784 | [159784-burrow-burrow.json](./159784-burrow-burrow.json) |
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
