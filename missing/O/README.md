@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
 | Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
 | Orblike Madness | 258637 | [258637-orblike-madness.json](./258637-orblike-madness.json) |
+| Orblins | 399439 | [399439-orblins.json](./399439-orblins.json) |
 | Orbloom | 366741 | [366741-orbloom.json](./366741-orbloom.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
+| Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
