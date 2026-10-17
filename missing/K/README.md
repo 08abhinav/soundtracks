@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts Final Mix | 212758 | [212758-kingdom-hearts-final-mix.json](./212758-kingdom-hearts-final-mix.json) |
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
+| Kingdom Hearts Gummiship Studio | 405370 | [405370-kingdom-hearts-gummiship-studio.json](./405370-kingdom-hearts-gummiship-studio.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix | 7356 | [7356-kingdom-hearts-hd-1-5-remix.json](./7356-kingdom-hearts-hd-1-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
