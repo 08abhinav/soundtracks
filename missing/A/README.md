@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm for Cobra 11: Hot Pursuit | 68263 | [68263-alarm-for-cobra-11-hot-pursuit.json](./68263-alarm-for-cobra-11-hot-pursuit.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
+| Alaryia | 400691 | [400691-alaryia.json](./400691-alaryia.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska Solitaire Classic Card Game | 337804 | [337804-alaska-solitaire-classic-card-game.json](./337804-alaska-solitaire-classic-card-game.json) |
@@ -7049,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
 | Anime Freak FX Vol. 4 | 67869 | [67869-anime-freak-fx-vol-4.json](./67869-anime-freak-fx-vol-4.json) |
 | Anime Freak FX Vol. 6 | 67868 | [67868-anime-freak-fx-vol-6.json](./67868-anime-freak-fx-vol-6.json) |
+| Anime Friends | 400693 | [400693-anime-friends.json](./400693-anime-friends.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Gas Station | 202210 | [202210-anime-gas-station.json](./202210-anime-gas-station.json) |
 | Anime Girl Kawaii High School Dress Up | 364073 | [364073-anime-girl-kawaii-high-school-dress-up.json](./364073-anime-girl-kawaii-high-school-dress-up.json) |
@@ -7591,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
 | Anti Pong | 147878 | [147878-anti-pong.json](./147878-anti-pong.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
+| Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
@@ -9719,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
+| Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
 | Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
@@ -10697,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
+| Assetto Corsa Evoluzione | 400702 | [400702-assetto-corsa-evoluzione.json](./400702-assetto-corsa-evoluzione.json) |
 | Assetto Corsa Mobile | 174267 | [174267-assetto-corsa-mobile.json](./174267-assetto-corsa-mobile.json) |
 | Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
 | Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
