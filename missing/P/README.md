@@ -8257,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
+| Pokémon: The Evil Inside | 372777 | [372777-pokemon-the-evil-inside.json](./372777-pokemon-the-evil-inside.json) |
 | Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
@@ -11787,6 +11788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
 | ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
+| Protogen Inc. | 372754 | [372754-protogen-inc.json](./372754-protogen-inc.json) |
 | Protogenisis | 118824 | [118824-protogenisis.json](./118824-protogenisis.json) |
 | ProtoHunter | 133743 | [133743-protohunter.json](./133743-protohunter.json) |
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
