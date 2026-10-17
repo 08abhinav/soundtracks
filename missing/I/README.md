@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inize Warrior | 242440 | [242440-inize-warrior.json](./242440-inize-warrior.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
+| Injection π23 'Tabula Rasa' | 404706 | [404706-injection-23-tabula-rasa.json](./404706-injection-23-tabula-rasa.json) |
 | Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
 | Injured by space | 88147 | [88147-injured-by-space.json](./88147-injured-by-space.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
