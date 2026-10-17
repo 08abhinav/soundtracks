@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
+| Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
@@ -6415,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
+| Grid | 390054 | [390054-grid.json](./390054-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
@@ -7349,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea Pig | 285427 | [285427-guinea-pig.json](./285427-guinea-pig.json) |
 | Guinea Pig Bridge! | 246928 | [246928-guinea-pig-bridge.json](./246928-guinea-pig-bridge.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
+| Guinea Pig Runaway Together | 390055 | [390055-guinea-pig-runaway-together.json](./390055-guinea-pig-runaway-together.json) |
 | Guinea Pig Temple | 395889 | [395889-guinea-pig-temple.json](./395889-guinea-pig-temple.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
