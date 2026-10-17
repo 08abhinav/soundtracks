@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
 | Secret Little Haven | 90060 | [90060-secret-little-haven.json](./90060-secret-little-haven.json) |
+| Secret Love (Or Not?) | 387154 | [387154-secret-love-or-not.json](./387154-secret-love-or-not.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
@@ -9842,6 +9843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
+| Slugmouth | 387141 | [387141-slugmouth.json](./387141-slugmouth.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
@@ -20671,6 +20673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus With Guns: Costume "Joy of Succubus" | 291678 | [291678-succubus-with-guns-costume-joy-of-succubus.json](./291678-succubus-with-guns-costume-joy-of-succubus.json) |
 | Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
+| Succubus: Hellish Edition | 387163 | [387163-succubus-hellish-edition.json](./387163-succubus-hellish-edition.json) |
 | Succubus: Hellish Orgy VR | 256180 | [256180-succubus-hellish-orgy-vr.json](./256180-succubus-hellish-orgy-vr.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
 | Succubus: Red Goddess | 249664 | [249664-succubus-red-goddess.json](./249664-succubus-red-goddess.json) |
@@ -22392,6 +22395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
 | Super Mario 64: Trouble Town | 300257 | [300257-super-mario-64-trouble-town.json](./300257-super-mario-64-trouble-town.json) |
+| Super Mario 64: Twisted Adventures | 387161 | [387161-super-mario-64-twisted-adventures.json](./387161-super-mario-64-twisted-adventures.json) |
 | Super Mario 64x4 | 315007 | [315007-super-mario-64x4.json](./315007-super-mario-64x4.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
