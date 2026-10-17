@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
+| Catgirl Bloodhunt | 380835 | [380835-catgirl-bloodhunt.json](./380835-catgirl-bloodhunt.json) |
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
