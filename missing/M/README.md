@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
 | Marvel Rivals: Season 2 Bundle | 355094 | [355094-marvel-rivals-season-2-bundle.json](./355094-marvel-rivals-season-2-bundle.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
+| Marvel Rivals: Season 5 - Love is a Battlefield | 377935 | [377935-marvel-rivals-season-5-love-is-a-battlefield.json](./377935-marvel-rivals-season-5-love-is-a-battlefield.json) |
 | Marvel Rivals: Season 5.5 - Rogue | 381241 | [381241-marvel-rivals-season-5-5-rogue.json](./381241-marvel-rivals-season-5-5-rogue.json) |
 | Marvel Rivals: Season 6 - Night at Museum | 381240 | [381240-marvel-rivals-season-6-night-at-museum.json](./381240-marvel-rivals-season-6-night-at-museum.json) |
 | Marvel Rivals: Season 7 - The Hunt is On | 395763 | [395763-marvel-rivals-season-7-the-hunt-is-on.json](./395763-marvel-rivals-season-7-the-hunt-is-on.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
+| Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
 | MechWarrior 5: Mercenaries - Heroes of the Inner Sphere | 154619 | [154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json](./154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json) |
@@ -9261,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
+| Minna Atsumore! Igo Kyoushitsu | 377944 | [377944-minna-atsumore-igo-kyoushitsu.json](./377944-minna-atsumore-igo-kyoushitsu.json) |
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
 | Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
@@ -11634,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
 | Moon Patrol | 282070 | [282070-moon-patrol.json](./282070-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
+| Moon Patrol | 377904 | [377904-moon-patrol.json](./377904-moon-patrol.json) |
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
