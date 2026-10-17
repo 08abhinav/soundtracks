@@ -9097,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bool | 94627 | [94627-bool.json](./94627-bool.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
+| Boolette | 408506 | [408506-boolette.json](./408506-boolette.json) |
 | Boolitaire | 175193 | [175193-boolitaire.json](./175193-boolitaire.json) |
 | Booly | 12406 | [12406-booly.json](./12406-booly.json) |
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
