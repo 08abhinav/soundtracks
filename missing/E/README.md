@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
 | Elysium: Blood Games | 33828 | [33828-elysium-blood-games.json](./33828-elysium-blood-games.json) |
+| Elysium: Blue Den Mansion | 410488 | [410488-elysium-blue-den-mansion.json](./410488-elysium-blue-den-mansion.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emberzone | 169340 | [169340-emberzone.json](./169340-emberzone.json) |
 | Emblem of Gundam | 66595 | [66595-emblem-of-gundam.json](./66595-emblem-of-gundam.json) |
+| Emblem Wordle | 410099 | [410099-emblem-wordle.json](./410099-emblem-wordle.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
