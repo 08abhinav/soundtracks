@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Monkey | 93453 | [93453-baby-monkey.json](./93453-baby-monkey.json) |
 | Baby Ninja | 88554 | [88554-baby-ninja.json](./88554-baby-ninja.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
+| Baby Pac-Man | 388306 | [388306-baby-pac-man.json](./388306-baby-pac-man.json) |
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
 | Baby Panda World | 231968 | [231968-baby-panda-world.json](./231968-baby-panda-world.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Bakken: Ski Jumping - Next Season | 388133 | [388133-bakken-ski-jumping-next-season.json](./388133-bakken-ski-jumping-next-season.json) |
 | Baklava Simulator | 165757 | [165757-baklava-simulator.json](./165757-baklava-simulator.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
@@ -3108,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattleOps | 224097 | [224097-battleops.json](./224097-battleops.json) |
+| BattlePaint | 388288 | [388288-battlepaint.json](./388288-battlepaint.json) |
 | BattlePan's Odyssey | 184848 | [184848-battlepans-odyssey.json](./184848-battlepans-odyssey.json) |
 | BattleParty | 143937 | [143937-battleparty.json](./143937-battleparty.json) |
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
@@ -5337,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
+| Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
