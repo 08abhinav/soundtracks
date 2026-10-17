@@ -494,6 +494,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7b6790792c9b1404012e13" width="60" /> | [Enter the Gungeon](https://ostdb.net/games/enter-the-gungeon) | **Enter the Gungeon (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5YM4EWvkmSAalgvqckMiT9) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/45/ec/b2/45ecb2b7-0b84-c405-f4bc-9dd38b6aeeb7/190374731669.jpg/600x600bb.jpg" width="60" /> | [Enter the Gungeon 2](https://ostdb.net/games/enter-the-gungeon-2) | **Enter the Gungeon (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/enter-the-gungeon-original-soundtrack/1113431896?uo=4) · [Album](https://album.link/i/1113431896) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca73c2e77d7434c9c72c8bb1" width="60" /> | [Epic Mickey 2: The Power of Two](https://ostdb.net/games/epic-mickey-2-the-power-of-two) | **Epic Mickey 2: The Power of Two (Original Game Score)** · [Spotify](https://open.spotify.com/album/5WbGfPjzE6bZviN25QYa64) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae84398709759ee170c24bbf" width="60" /> | [Erica](https://ostdb.net/games/erica) | **Erica (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4caCFbNjMwNePtqyjvbuAL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365f4689f887a4604aa4d807c" width="60" /> | [Escape Academy](https://ostdb.net/games/escape-academy) | **Escape Academy (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6XpOifCJQ4pKvEU0cVnsut) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bbaab578c03db3a447d67" width="60" /> | [Escape from Tarkov](https://ostdb.net/games/escape-from-tarkov) | **Escape from Tarkov. Raid. (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/7d0bvNhiS8nlDEZfYDTwTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3d1263dfe8bb2f6eeb13e8e" width="60" /> | [Escape the Backrooms](https://ostdb.net/games/escape-the-backrooms) | **Escape the Backrooms (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1bGBOigJULqnxttezUvj5N) |
@@ -1768,4 +1769,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2085 soundtracks · last updated 2026-10-17T15:35:42.659Z_
+_2086 soundtracks · last updated 2026-10-17T15:35:50.268Z_
