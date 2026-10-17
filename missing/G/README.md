@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchrunners | 33456 | [33456-glitchrunners.json](./33456-glitchrunners.json) |
 | Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
+| Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
 | Glitter Star Nucleus | 174600 | [174600-glitter-star-nucleus.json](./174600-glitter-star-nucleus.json) |
@@ -4390,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Down in Fishstory | 178012 | [178012-going-down-in-fishstory.json](./178012-going-down-in-fishstory.json) |
 | Going Down Turbo | 321613 | [321613-going-down-turbo.json](./321613-going-down-turbo.json) |
 | Going for Nuts | 329727 | [329727-going-for-nuts.json](./329727-going-for-nuts.json) |
+| Going Home | 396344 | [396344-going-home.json](./396344-going-home.json) |
 | Going Into the Unknown | 205577 | [205577-going-into-the-unknown.json](./205577-going-into-the-unknown.json) |
 | Going My Way? | 406927 | [406927-going-my-way.json](./406927-going-my-way.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
