@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chip's Challenge (Amiga/C64/Lynx/Mega Drive/SNES/Spectrum) | 413030 | [413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json](./413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json) |
 | Chip's Challenge 2 | 22151 | [22151-chips-challenge-2.json](./22151-chips-challenge-2.json) |
+| Chipdle | 395838 | [395838-chipdle.json](./395838-chipdle.json) |
 | Chipichapas Evolution: Clicker | 288147 | [288147-chipichapas-evolution-clicker.json](./288147-chipichapas-evolution-clicker.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
@@ -10604,6 +10605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
+| Cosmos Quest: The Origin | 395857 | [395857-cosmos-quest-the-origin.json](./395857-cosmos-quest-the-origin.json) |
 | Cosmos Remake | 179032 | [179032-cosmos-remake.json](./179032-cosmos-remake.json) |
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
 | Cosmos: Stella Returns | 263981 | [263981-cosmos-stella-returns.json](./263981-cosmos-stella-returns.json) |
