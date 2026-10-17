@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Fate: Western Chronicles | 274655 | [274655-hero-of-fate-western-chronicles.json](./274655-hero-of-fate-western-chronicles.json) |
 | Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
+| Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
@@ -6311,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
 | Holy Valkyrie Exs-Tia TS Parallel Episode 3: Twilight Sabre | 404785 | [404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json](./404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json) |
 | Holy Valkyrie EXS-TiA: Concerto 1 | 322858 | [322858-holy-valkyrie-exs-tia-concerto-1.json](./322858-holy-valkyrie-exs-tia-concerto-1.json) |
+| Holy Valkyrie EXS-TiA: Concerto 2 | 393947 | [393947-holy-valkyrie-exs-tia-concerto-2.json](./393947-holy-valkyrie-exs-tia-concerto-2.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
@@ -6370,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Garden Lulu | 394461 | [394461-home-garden-lulu.json](./394461-home-garden-lulu.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
+| Home Invaders | 393975 | [393975-home-invaders.json](./393975-home-invaders.json) |
 | Home Invasion | 415491 | [415491-home-invasion.json](./415491-home-invasion.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home is Where the Heart is | 318704 | [318704-home-is-where-the-heart-is.json](./318704-home-is-where-the-heart-is.json) |
