@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
+| Varthos: Heir to the Throne | 369888 | [369888-varthos-heir-to-the-throne.json](./369888-varthos-heir-to-the-throne.json) |
 | Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
 | Varvarion | 151812 | [151812-varvarion.json](./151812-varvarion.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
