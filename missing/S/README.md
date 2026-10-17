@@ -5536,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shells MMCCCXXXIV | 385291 | [385291-shells-mmcccxxxiv.json](./385291-shells-mmcccxxxiv.json) |
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
+| Shellshock | 410486 | [410486-shellshock.json](./410486-shellshock.json) |
 | Shellshock 2: Blood Trails | 7186 | [7186-shellshock-2-blood-trails.json](./7186-shellshock-2-blood-trails.json) |
 | ShellShock Live | 17904 | [17904-shellshock-live.json](./17904-shellshock-live.json) |
 | ShellShock Live | 293356 | [293356-shellshock-live.json](./293356-shellshock-live.json) |
@@ -20242,6 +20243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
 | Su and the Quest for meaning | 27532 | [27532-su-and-the-quest-for-meaning.json](./27532-su-and-the-quest-for-meaning.json) |
+| Su Doku Classic 2 | 410435 | [410435-su-doku-classic-2.json](./410435-su-doku-classic-2.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
@@ -21213,6 +21215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
 | Sunny Side Down, by Muno! | 258415 | [258415-sunny-side-down-by-muno.json](./258415-sunny-side-down-by-muno.json) |
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
+| Sunny Side Up | 410498 | [410498-sunny-side-up.json](./410498-sunny-side-up.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunny-Place-3: Microgods | 241275 | [241275-sunny-place-3-microgods.json](./241275-sunny-place-3-microgods.json) |
 | Sunnyside vs. the Eggies | 222797 | [222797-sunnyside-vs-the-eggies.json](./222797-sunnyside-vs-the-eggies.json) |
@@ -23218,6 +23221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Spooky 64 | 300255 | [300255-super-spooky-64.json](./300255-super-spooky-64.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
+| Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
@@ -24693,6 +24697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
+| Swim4Swim | 410280 | [410280-swim4swim.json](./410280-swim4swim.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
