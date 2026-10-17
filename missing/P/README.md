@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palphone-Sama: Curse Call | 189107 | [189107-palphone-sama-curse-call.json](./189107-palphone-sama-curse-call.json) |
 | Palps | 292001 | [292001-palps.json](./292001-palps.json) |
 | Palpus X: Annihilation | 327993 | [327993-palpus-x-annihilation.json](./327993-palpus-x-annihilation.json) |
+| Pals | 389488 | [389488-pals.json](./389488-pals.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
 | Paluah's Trench | 422099 | [422099-paluahs-trench.json](./422099-paluahs-trench.json) |
@@ -11919,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho Slasher | 176265 | [176265-psycho-slasher.json](./176265-psycho-slasher.json) |
 | Psycho Soldier | 41086 | [41086-psycho-soldier.json](./41086-psycho-soldier.json) |
+| Psycho Sphere | 389499 | [389499-psycho-sphere.json](./389499-psycho-sphere.json) |
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
