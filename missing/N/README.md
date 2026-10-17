@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
 | Neon Ultra | 31296 | [31296-neon-ultra.json](./31296-neon-ultra.json) |
 | Neon Valley: Revenge | 84098 | [84098-neon-valley-revenge.json](./84098-neon-valley-revenge.json) |
+| Neon Vault Rush | 394634 | [394634-neon-vault-rush.json](./394634-neon-vault-rush.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
