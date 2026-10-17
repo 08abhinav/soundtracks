@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
+| Rapunzel | 398265 | [398265-rapunzel.json](./398265-rapunzel.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
 | Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
+| Regions of Ruin: Runegate - The Merchant | 398304 | [398304-regions-of-ruin-runegate-the-merchant.json](./398304-regions-of-ruin-runegate-the-merchant.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
