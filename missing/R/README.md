@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
+| RatScum | 364248 | [364248-ratscum.json](./364248-ratscum.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
 | Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
