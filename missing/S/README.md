@@ -5466,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
+| Shave & Stuff: Dreads | 373822 | [373822-shave-and-stuff-dreads.json](./373822-shave-and-stuff-dreads.json) |
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
@@ -19847,6 +19848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dreams | 166497 | [166497-street-dreams.json](./166497-street-dreams.json) |
 | Street Dude: Homeless Empire | 245373 | [245373-street-dude-homeless-empire.json](./245373-street-dude-homeless-empire.json) |
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
+| Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
@@ -21494,6 +21496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny School Stories | 100843 | [100843-sunny-school-stories.json](./100843-sunny-school-stories.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
+| Sunny Shores | 373810 | [373810-sunny-shores.json](./373810-sunny-shores.json) |
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
 | Sunny Side Down, by Muno! | 258415 | [258415-sunny-side-down-by-muno.json](./258415-sunny-side-down-by-muno.json) |
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
@@ -24678,6 +24681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap | 177370 | [177370-swap.json](./177370-swap.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 247928 | [247928-swap.json](./247928-swap.json) |
+| Swap | 373817 | [373817-swap.json](./373817-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Bots | 423292 | [423292-swap-bots.json](./423292-swap-bots.json) |
