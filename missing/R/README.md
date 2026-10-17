@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Ranata the Frog and the Broken Forest | 229252 | [229252-ranata-the-frog-and-the-broken-forest.json](./229252-ranata-the-frog-and-the-broken-forest.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
+| Rance 01 | 388830 | [388830-rance-01.json](./388830-rance-01.json) |
 | Rance 01 + 02 | 384828 | [384828-rance-01-02.json](./384828-rance-01-02.json) |
 | Rance 01: Quest for Hikari | 132708 | [132708-rance-01-quest-for-hikari.json](./132708-rance-01-quest-for-hikari.json) |
 | Rance 02 | 390095 | [390095-rance-02.json](./390095-rance-02.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resttw | 235366 | [235366-resttw.json](./235366-resttw.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
+| Resultare | 388784 | [388784-resultare.json](./388784-resultare.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurface.exe | 372834 | [372834-resurface-exe.json](./372834-resurface-exe.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
@@ -8462,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
+| Ruins of Blackspire | 388787 | [388787-ruins-of-blackspire.json](./388787-ruins-of-blackspire.json) |
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
