@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:39:22.086Z",
-  "total_missing": 224195,
+  "generated_at": "2026-10-17T15:43:17.005Z",
+  "total_missing": 224184,
   "games": [
     {
       "igdb_id": 191680,
@@ -53935,11 +53935,6 @@
       "igdb_id": 203850,
       "game_name": "Arafinn Kontor",
       "file": "missing/A/203850-arafinn-kontor.json"
-    },
-    {
-      "igdb_id": 18853,
-      "game_name": "Aragami",
-      "file": "missing/A/18853-aragami.json"
     },
     {
       "igdb_id": 38489,
@@ -180222,11 +180217,6 @@
       "file": "missing/C/212506-coffee-stack.json"
     },
     {
-      "igdb_id": 106847,
-      "game_name": "Coffee Talk",
-      "file": "missing/C/106847-coffee-talk.json"
-    },
-    {
       "igdb_id": 270576,
       "game_name": "Coffee Talk 1+2 Double Pack Edition",
       "file": "missing/C/270576-coffee-talk-1-2-double-pack-edition.json"
@@ -194210,11 +194200,6 @@
       "igdb_id": 189968,
       "game_name": "Costume Party",
       "file": "missing/C/189968-costume-party.json"
-    },
-    {
-      "igdb_id": 5637,
-      "game_name": "Costume Quest",
-      "file": "missing/C/5637-costume-quest.json"
     },
     {
       "igdb_id": 383648,
@@ -245070,11 +245055,6 @@
       "igdb_id": 218861,
       "game_name": "Dig Dug",
       "file": "missing/D/218861-dig-dug.json"
-    },
-    {
-      "igdb_id": 2636,
-      "game_name": "Dig Dug",
-      "file": "missing/D/2636-dig-dug.json"
     },
     {
       "igdb_id": 132160,
@@ -550787,11 +550767,6 @@
       "file": "missing/M/2042-magicka.json"
     },
     {
-      "igdb_id": 9807,
-      "game_name": "Magicka 2",
-      "file": "missing/M/9807-magicka-2.json"
-    },
-    {
       "igdb_id": 321760,
       "game_name": "Magicka 2 Complete Collection",
       "file": "missing/M/321760-magicka-2-complete-collection.json"
@@ -688917,11 +688892,6 @@
       "file": "missing/P/405351-persona-5-royal-velvet-room-costume-and-bgm-set.json"
     },
     {
-      "igdb_id": 117731,
-      "game_name": "Persona 5 Strikers",
-      "file": "missing/P/117731-persona-5-strikers.json"
-    },
-    {
       "igdb_id": 237861,
       "game_name": "Persona 5 Strikers: Digital Deluxe Edition",
       "file": "missing/P/237861-persona-5-strikers-digital-deluxe-edition.json"
@@ -755175,11 +755145,6 @@
       "igdb_id": 273445,
       "game_name": "Realtor",
       "file": "missing/R/273445-realtor.json"
-    },
-    {
-      "igdb_id": 314265,
-      "game_name": "Reanimal",
-      "file": "missing/R/314265-reanimal.json"
     },
     {
       "igdb_id": 378339,
@@ -852117,11 +852082,6 @@
       "file": "missing/S/210302-sonic-riders.json"
     },
     {
-      "igdb_id": 4158,
-      "game_name": "Sonic Riders",
-      "file": "missing/S/4158-sonic-riders.json"
-    },
-    {
       "igdb_id": 172466,
       "game_name": "Sonic Riders DX",
       "file": "missing/S/172466-sonic-riders-dx.json"
@@ -943352,11 +943312,6 @@
       "file": "missing/T/337678-the-case-of-the-dark-strangler.json"
     },
     {
-      "igdb_id": 166722,
-      "game_name": "The Case of the Golden Idol",
-      "file": "missing/T/166722-the-case-of-the-golden-idol.json"
-    },
-    {
       "igdb_id": 264814,
       "game_name": "The Case of the Golden Idol: Complete Edition",
       "file": "missing/T/264814-the-case-of-the-golden-idol-complete-edition.json"
@@ -1011365,11 +1011320,6 @@
       "igdb_id": 12982,
       "game_name": "Total War: Arena",
       "file": "missing/T/12982-total-war-arena.json"
-    },
-    {
-      "igdb_id": 8200,
-      "game_name": "Total War: Attila",
-      "file": "missing/T/8200-total-war-attila.json"
     },
     {
       "igdb_id": 82023,
@@ -1097720,11 +1097670,6 @@
       "igdb_id": 47081,
       "game_name": "Worms United",
       "file": "missing/W/47081-worms-united.json"
-    },
-    {
-      "igdb_id": 19696,
-      "game_name": "Worms W.M.D",
-      "file": "missing/W/19696-worms-w-m-d.json"
     },
     {
       "igdb_id": 245960,
