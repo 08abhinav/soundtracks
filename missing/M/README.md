@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
 | Magic Tower Story | 197647 | [197647-magic-tower-story.json](./197647-magic-tower-story.json) |
 | Magic Tower: Cao Cao | 415513 | [415513-magic-tower-cao-cao.json](./415513-magic-tower-cao-cao.json) |
+| Magic Tower: Legion | 391089 | [391089-magic-tower-legion.json](./391089-magic-tower-legion.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
+| Maids of Storm | 391027 | [391027-maids-of-storm.json](./391027-maids-of-storm.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
@@ -6413,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
 | Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
 | Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
+| MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
@@ -7409,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
 | Micro Rogue | 265326 | [265326-micro-rogue.json](./265326-micro-rogue.json) |
 | Micro RPG | 197794 | [197794-micro-rpg.json](./197794-micro-rpg.json) |
+| Micro Rush | 391085 | [391085-micro-rush.json](./391085-micro-rush.json) |
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
