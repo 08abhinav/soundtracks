@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
+| Linkling | 390061 | [390061-linkling.json](./390061-linkling.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links 2003 | 22068 | [22068-links-2003.json](./22068-links-2003.json) |
