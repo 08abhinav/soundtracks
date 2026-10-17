@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onrush: Digital Deluxe Edition | 91319 | [91319-onrush-digital-deluxe-edition.json](./91319-onrush-digital-deluxe-edition.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
+| Onsen MILF Rainbow Party | 393380 | [393380-onsen-milf-rainbow-party.json](./393380-onsen-milf-rainbow-party.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
+| Oppai Daisuki | 393373 | [393373-oppai-daisuki.json](./393373-oppai-daisuki.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Oppai Orbs | 341683 | [341683-oppai-oppai-orbs.json](./341683-oppai-oppai-orbs.json) |
