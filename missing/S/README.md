@@ -9624,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipstream | 75096 | [75096-slipstream.json](./75096-slipstream.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
+| SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
@@ -21118,6 +21119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
+| Suncroft | 412343 | [412343-suncroft.json](./412343-suncroft.json) |
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday City | 376280 | [376280-sunday-city.json](./376280-sunday-city.json) |
@@ -25142,6 +25144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
+| SymphonyRecomp | 412328 | [412328-symphonyrecomp.json](./412328-symphonyrecomp.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 2 | 81159 | [81159-symploke-legend-of-gustavo-bueno-chapter-2.json](./81159-symploke-legend-of-gustavo-bueno-chapter-2.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
