@@ -6959,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
+| The Forgotten Island | 368267 | [368267-the-forgotten-island.json](./368267-the-forgotten-island.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
@@ -13241,6 +13242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
+| The Unstoppables 2 | 368245 | [368245-the-unstoppables-2.json](./368245-the-unstoppables-2.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
@@ -16666,6 +16668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TiminGooo! | 178339 | [178339-timingooo.json](./178339-timingooo.json) |
 | Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
 | Timmy and the Magic Pictures | 290313 | [290313-timmy-and-the-magic-pictures.json](./290313-timmy-and-the-magic-pictures.json) |
+| Timmy L'Escargot | 368250 | [368250-timmy-lescargot.json](./368250-timmy-lescargot.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timmy Time | 113890 | [113890-timmy-time.json](./113890-timmy-time.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
@@ -16882,6 +16885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
+| Tiny Monsters | 368269 | [368269-tiny-monsters.json](./368269-tiny-monsters.json) |
 | Tiny Mortals VR | 118135 | [118135-tiny-mortals-vr.json](./118135-tiny-mortals-vr.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
@@ -16982,6 +16986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
+| Tiny Village | 368263 | [368263-tiny-village.json](./368263-tiny-village.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
@@ -16990,6 +16995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
+| Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
@@ -22065,6 +22071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
+| Tricky Fox | 368262 | [368262-tricky-fox.json](./368262-tricky-fox.json) |
 | Tricky Gems | 264221 | [264221-tricky-gems.json](./264221-tricky-gems.json) |
 | Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
