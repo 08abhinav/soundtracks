@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
+| In The Dark Collection | 410282 | [410282-in-the-dark-collection.json](./410282-in-the-dark-collection.json) |
 | In the Darkness | 212990 | [212990-in-the-darkness.json](./212990-in-the-darkness.json) |
 | In the Darkness of the Sea | 29559 | [29559-in-the-darkness-of-the-sea.json](./29559-in-the-darkness-of-the-sea.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
