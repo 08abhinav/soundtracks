@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
+| Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
@@ -6913,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
 | Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
+| Hoppin: Into the Woods | 374930 | [374930-hoppin-into-the-woods.json](./374930-hoppin-into-the-woods.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
