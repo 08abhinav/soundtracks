@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Season | 248526 | [248526-open-season.json](./248526-open-season.json) |
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
 | Open Sesame | 40679 | [40679-open-sesame.json](./40679-open-sesame.json) |
+| Open Sesame: Alibaba Dash | 376228 | [376228-open-sesame-alibaba-dash.json](./376228-open-sesame-alibaba-dash.json) |
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sonic the Hedgehog | 266710 | [266710-open-sonic-the-hedgehog.json](./266710-open-sonic-the-hedgehog.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
