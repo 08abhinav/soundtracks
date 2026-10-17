@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
+| Alien Madness | 363161 | [363161-alien-madness.json](./363161-alien-madness.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
 | Alien Maker | 409730 | [409730-alien-maker.json](./409730-alien-maker.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
@@ -7666,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
+| Antenna Dilemma | 363159 | [363159-antenna-dilemma.json](./363159-antenna-dilemma.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
@@ -8503,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
 | ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
+| Arcabbit | 363172 | [363172-arcabbit.json](./363172-arcabbit.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
 | Arcade & Puzzle Games | 79626 | [79626-arcade-and-puzzle-games.json](./79626-arcade-and-puzzle-games.json) |
 | Arcade 3D | 92394 | [92394-arcade-3d.json](./92394-arcade-3d.json) |
@@ -9958,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World 5: Beautiful America - Collector's Edition | 363162 | [363162-around-the-world-5-beautiful-america-collectors-edition.json](./363162-around-the-world-5-beautiful-america-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 74935 | [74935-around-the-world-in-80-days.json](./74935-around-the-world-in-80-days.json) |
@@ -11300,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Essential Bundle | 280147 | [280147-astroneer-essential-bundle.json](./280147-astroneer-essential-bundle.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
 | Astroneer: Jet Powered | 234027 | [234027-astroneer-jet-powered.json](./234027-astroneer-jet-powered.json) |
+| Astroneer: Megatech | 363156 | [363156-astroneer-megatech.json](./363156-astroneer-megatech.json) |
 | Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
 | Astroneer: Suit Bundle | 280148 | [280148-astroneer-suit-bundle.json](./280148-astroneer-suit-bundle.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
