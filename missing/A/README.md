@@ -10267,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
+| Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
