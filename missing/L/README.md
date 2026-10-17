@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Dance Virtual | 139703 | [139703-line-dance-virtual.json](./139703-line-dance-virtual.json) |
 | Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
 | Line Drop: Spirit Catcher | 63134 | [63134-line-drop-spirit-catcher.json](./63134-line-drop-spirit-catcher.json) |
+| Line Fluffy Diver | 381908 | [381908-line-fluffy-diver.json](./381908-line-fluffy-diver.json) |
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
+| Lisc: Season 1 | 382008 | [382008-lisc-season-1.json](./382008-lisc-season-1.json) |
 | Lishogi | 321664 | [321664-lishogi.json](./321664-lishogi.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
