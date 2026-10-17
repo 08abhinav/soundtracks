@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
+| Scarlet Backrooms | 392200 | [392200-scarlet-backrooms.json](./392200-scarlet-backrooms.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Cross | 314618 | [314618-scarlet-cross.json](./314618-scarlet-cross.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
@@ -19483,6 +19484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Skies | 245193 | [245193-stranger-skies.json](./245193-stranger-skies.json) |
+| Stranger Tavern: Brawl | 392108 | [392108-stranger-tavern-brawl.json](./392108-stranger-tavern-brawl.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
@@ -21677,6 +21679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
+| Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
