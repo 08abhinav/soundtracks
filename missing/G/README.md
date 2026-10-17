@@ -5803,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
 | Grave Desecrator | 278935 | [278935-grave-desecrator.json](./278935-grave-desecrator.json) |
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
+| Grave Dodgers | 392190 | [392190-grave-dodgers.json](./392190-grave-dodgers.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
