@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
+| Werehouse | 383183 | [383183-werehouse.json](./383183-werehouse.json) |
 | Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
 | Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
@@ -3309,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
+| White Memories | 383101 | [383101-white-memories.json](./383101-white-memories.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
