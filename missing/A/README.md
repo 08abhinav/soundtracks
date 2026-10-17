@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
+| Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
