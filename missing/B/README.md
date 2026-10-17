@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Files Taxes | 230189 | [230189-baba-files-taxes.json](./230189-baba-files-taxes.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
+| Baba is You Demake | 382000 | [382000-baba-is-you-demake.json](./382000-baba-is-you-demake.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bacchus | 221338 | [221338-bacchus.json](./221338-bacchus.json) |
+| Bacharu M.I.A.R.E. no Kuronikuru | 381898 | [381898-bacharu-m-i-a-r-e-no-kuronikuru.json](./381898-bacharu-m-i-a-r-e-no-kuronikuru.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Bachelor Party | 11128 | [11128-bachelor-party.json](./11128-bachelor-party.json) |
 | Bachelor Party/Gigolo | 79966 | [79966-bachelor-party-gigolo.json](./79966-bachelor-party-gigolo.json) |
@@ -4667,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Gopher Ever | 392746 | [392746-best-gopher-ever.json](./392746-best-gopher-ever.json) |
+| Best Guess Live | 381909 | [381909-best-guess-live.json](./381909-best-guess-live.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best Hits Fun Collection 10 in 1 Bundle | 417287 | [417287-best-hits-fun-collection-10-in-1-bundle.json](./417287-best-hits-fun-collection-10-in-1-bundle.json) |
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
@@ -6710,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Trick | 382547 | [382547-blade-trick.json](./382547-blade-trick.json) |
 | Blade vs. Undead | 339936 | [339936-blade-vs-undead.json](./339936-blade-vs-undead.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
+| Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
@@ -12116,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
+| Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
