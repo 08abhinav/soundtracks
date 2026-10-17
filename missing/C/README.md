@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
 | Cat a Photo | 406937 | [406937-cat-a-photo.json](./406937-cat-a-photo.json) |
+| Cat a Sketch | 401930 | [401930-cat-a-sketch.json](./401930-cat-a-sketch.json) |
 | Cat Adoption Tales | 390739 | [390739-cat-adoption-tales.json](./390739-cat-adoption-tales.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
@@ -14230,6 +14231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
+| Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber West: Hidden Object Games - Western | 232525 | [232525-cyber-west-hidden-object-games-western.json](./232525-cyber-west-hidden-object-games-western.json) |
