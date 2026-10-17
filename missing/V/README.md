@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaunted | 396028 | [396028-vaunted.json](./396028-vaunted.json) |
 | Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
+| Vaxinator | 373850 | [373850-vaxinator.json](./373850-vaxinator.json) |
 | Vaxol: Heavy Armed Storming Vehicle | 41785 | [41785-vaxol-heavy-armed-storming-vehicle.json](./41785-vaxol-heavy-armed-storming-vehicle.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
