@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
+| Photo Quiz: Animals | 370993 | [370993-photo-quiz-animals.json](./370993-photo-quiz-animals.json) |
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
