@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
+| Only Down: Not Up! | 383782 | [383782-only-down-not-up.json](./383782-only-down-not-up.json) |
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
