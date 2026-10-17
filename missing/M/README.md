@@ -9458,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
+| Miseria | 397630 | [397630-miseria.json](./397630-miseria.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
@@ -11268,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tale Ultimate | 60450 | [60450-monster-tale-ultimate.json](./60450-monster-tale-ultimate.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tamer | 366100 | [366100-monster-tamer.json](./366100-monster-tamer.json) |
+| Monster Tamer | 397604 | [397604-monster-tamer.json](./397604-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
@@ -11725,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
+| Mooooon | 397617 | [397617-mooooon.json](./397617-mooooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
 | Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
