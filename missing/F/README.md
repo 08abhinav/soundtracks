@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Dungeons | 116082 | [116082-fallen-dungeons.json](./116082-fallen-dungeons.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
+| Fallen Echoes | 381308 | [381308-fallen-echoes.json](./381308-fallen-echoes.json) |
 | Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
 | Fallen Enchantress | 10297 | [10297-fallen-enchantress.json](./10297-fallen-enchantress.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Composer | 41287 | [41287-family-composer.json](./41287-family-composer.json) |
 | Family Computer Golf: Japan Course | 41260 | [41260-family-computer-golf-japan-course.json](./41260-family-computer-golf-japan-course.json) |
 | Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
+| Family Crisis | 381386 | [381386-family-crisis.json](./381386-family-crisis.json) |
 | Family Dinner | 178470 | [178470-family-dinner.json](./178470-family-dinner.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
@@ -4165,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
+| Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
@@ -6295,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Foley's Escape | 53037 | [53037-foleys-escape.json](./53037-foleys-escape.json) |
 | Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
+| Folia Felina | 381303 | [381303-folia-felina.json](./381303-folia-felina.json) |
 | Folia: The King's Revelry | 236750 | [236750-folia-the-kings-revelry.json](./236750-folia-the-kings-revelry.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
