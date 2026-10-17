@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Project: Ryuusei Fantasia | 148845 | [148845-b-project-ryuusei-fantasia.json](./148845-b-project-ryuusei-fantasia.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
+| B-Run | 410483 | [410483-b-run.json](./410483-b-run.json) |
 | B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Team | 193693 | [193693-b-team.json](./193693-b-team.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Bounce | 217460 | [217460-baldy-bounce.json](./217460-baldy-bounce.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
+| Balefire Blues | 410201 | [410201-balefire-blues.json](./410201-balefire-blues.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
@@ -4709,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
+| Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
 | Betrayal in Antara | 8828 | [8828-betrayal-in-antara.json](./8828-betrayal-in-antara.json) |
