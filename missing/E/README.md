@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embric of Wulfhammer's Castle | 66174 | [66174-embric-of-wulfhammers-castle.json](./66174-embric-of-wulfhammers-castle.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
+| EmDePloy | 372727 | [372727-emdeploy.json](./372727-emdeploy.json) |
 | Ememe | 280291 | [280291-ememe.json](./280291-ememe.json) |
 | Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald & Mrs. Ghost: The Ship that Never Returns | 113591 | [113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json](./113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
+| Eroge Music Quiz | 372733 | [372733-eroge-music-quiz.json](./372733-eroge-music-quiz.json) |
 | Erogoddess: Mirage | 339762 | [339762-erogoddess-mirage.json](./339762-erogoddess-mirage.json) |
 | Erogoddess: Olympus | 293520 | [293520-erogoddess-olympus.json](./293520-erogoddess-olympus.json) |
 | Erogods: Asgard | 278644 | [278644-erogods-asgard.json](./278644-erogods-asgard.json) |
