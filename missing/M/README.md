@@ -7954,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
+| Migblock | 387144 | [387144-migblock.json](./387144-migblock.json) |
 | Might | 32223 | [32223-might.json](./32223-might.json) |
 | Might & Magic Collection | 53357 | [53357-might-and-magic-collection.json](./53357-might-and-magic-collection.json) |
 | Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
@@ -9121,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigore 2: Zombies | 64188 | [64188-minigore-2-zombies.json](./64188-minigore-2-zombies.json) |
+| Minigun Miner | 387148 | [387148-minigun-miner.json](./387148-minigun-miner.json) |
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
