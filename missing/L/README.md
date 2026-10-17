@@ -5066,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
+| Lone Shadow | 370997 | [370997-lone-shadow.json](./370997-lone-shadow.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
 | Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
