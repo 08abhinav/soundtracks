@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
+| Mapster | 381411 | [381411-mapster.json](./381411-mapster.json) |
 | Mapstermind | 200408 | [200408-mapstermind.json](./200408-mapstermind.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Maptroid | 210833 | [210833-maptroid.json](./210833-maptroid.json) |
@@ -4699,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatballphobia | 62286 | [62286-meatballphobia.json](./62286-meatballphobia.json) |
 | Meatballs | 409391 | [409391-meatballs.json](./409391-meatballs.json) |
 | Meatballs Farm | 381281 | [381281-meatballs-farm.json](./381281-meatballs-farm.json) |
+| Meatbound | 381309 | [381309-meatbound.json](./381309-meatbound.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
@@ -8423,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
 | Mind Corridors: Paroniria | 226679 | [226679-mind-corridors-paroniria.json](./226679-mind-corridors-paroniria.json) |
+| Mind Defender | 381302 | [381302-mind-defender.json](./381302-mind-defender.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Donor | 225559 | [225559-mind-donor.json](./225559-mind-donor.json) |
@@ -13377,6 +13380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | Muldulamulom | 129502 | [129502-muldulamulom.json](./129502-muldulamulom.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
+| Mulheres na taverna | 381307 | [381307-mulheres-na-taverna.json](./381307-mulheres-na-taverna.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
@@ -15570,6 +15574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Myths & Fairy Tales Bundle | 274418 | [274418-myths-and-fairy-tales-bundle.json](./274418-myths-and-fairy-tales-bundle.json) |
+| Myths & Rites | 381296 | [381296-myths-and-rites.json](./381296-myths-and-rites.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths and Legends Online | 130686 | [130686-myths-and-legends-online.json](./130686-myths-and-legends-online.json) |
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
