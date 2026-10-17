@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hachi Hachi | 56304 | [56304-hachi-hachi.json](./56304-hachi-hachi.json) |
+| Hachi: Eight Feet Tall | 381981 | [381981-hachi-eight-feet-tall.json](./381981-hachi-eight-feet-tall.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Ruin | 6806 | [6806-heroes-of-ruin.json](./6806-heroes-of-ruin.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
+| Heroes of Sokoban | 381991 | [381991-heroes-of-sokoban.json](./381991-heroes-of-sokoban.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
 | Heroes of SoulCraft | 17770 | [17770-heroes-of-soulcraft.json](./17770-heroes-of-soulcraft.json) |
 | Heroes of Spyria | 250462 | [250462-heroes-of-spyria.json](./250462-heroes-of-spyria.json) |
