@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:01:59.884Z",
-  "total_soundtracks": 2032,
+  "generated_at": "2026-10-17T15:02:08.336Z",
+  "total_soundtracks": 2033,
   "games": [
     {
       "igdb_id": 7522,
@@ -22529,6 +22529,20 @@
         {
           "album_name": "Turmoil (The Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/04oGvmw6mLF1TCFP9yk6Fb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217645,
+      "game_name": "Turnip Boy Robs a Bank",
+      "game_url": "https://ostdb.net/games/turnip-boy-robs-a-bank",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730b78e84b8287b1870f837594",
+      "albums": [
+        {
+          "album_name": "Turnip Boy Robs a Bank (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0V4sNrqNUQdOP8APcSSzpD",
           "apple_music_url": "",
           "album_link_url": ""
         }
