@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
+| Maniac Path 4 | 370996 | [370996-maniac-path-4.json](./370996-maniac-path-4.json) |
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
+| Marisa! Return The Book! | 371017 | [371017-marisa-return-the-book.json](./371017-marisa-return-the-book.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
@@ -6639,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
+| Mermaid no Kisetsu | 371011 | [371011-mermaid-no-kisetsu.json](./371011-mermaid-no-kisetsu.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets12 - Heartbreak Love Story | 100838 | [100838-mermaid-secrets12-heartbreak-love-story.json](./100838-mermaid-secrets12-heartbreak-love-story.json) |
@@ -9551,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Misguided Remastered | 392322 | [392322-misguided-remastered.json](./392322-misguided-remastered.json) |
+| Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
@@ -13504,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiworlds | 377850 | [377850-multiworlds.json](./377850-multiworlds.json) |
 | Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
+| Mumble Pines: The Arrival | 371032 | [371032-mumble-pines-the-arrival.json](./371032-mumble-pines-the-arrival.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummies Rising | 59733 | [59733-mummies-rising.json](./59733-mummies-rising.json) |
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
