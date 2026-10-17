@@ -8190,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
+| Milenay | 369323 | [369323-milenay.json](./369323-milenay.json) |
 | Miles & Kilo | 76041 | [76041-miles-and-kilo.json](./76041-miles-and-kilo.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
 | Miles Between Us | 396122 | [396122-miles-between-us.json](./396122-miles-between-us.json) |
@@ -9390,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Girls Festival | 86426 | [86426-miracle-girls-festival.json](./86426-miracle-girls-festival.json) |
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
+| Miracle Journey: 3D Find Differences | 369339 | [369339-miracle-journey-3d-find-differences.json](./369339-miracle-journey-3d-find-differences.json) |
 | Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
@@ -9464,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
+| Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
 | Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
@@ -13098,6 +13101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Go! Extra | 218419 | [218419-mr-go-extra.json](./218419-mr-go-extra.json) |
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
+| Mr. Golden Revenge Machine | 369327 | [369327-mr-golden-revenge-machine.json](./369327-mr-golden-revenge-machine.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
