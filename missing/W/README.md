@@ -4940,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Plot | 423286 | [423286-wolf-plot.json](./423286-wolf-plot.json) |
 | Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
+| Wolf Sheep & Cabbage | 381383 | [381383-wolf-sheep-and-cabbage.json](./381383-wolf-sheep-and-cabbage.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
@@ -6506,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
+| WriteNor | 381389 | [381389-writenor.json](./381389-writenor.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
