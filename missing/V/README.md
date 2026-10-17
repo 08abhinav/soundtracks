@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varvarion | 151812 | [151812-varvarion.json](./151812-varvarion.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
+| Vasilisa | 378525 | [378525-vasilisa.json](./378525-vasilisa.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
 | Vasilisas Torment | 264524 | [264524-vasilisas-torment.json](./264524-vasilisas-torment.json) |
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
+| Villains: Robot Battle Royale | 378613 | [378613-villains-robot-battle-royale.json](./378613-villains-robot-battle-royale.json) |
 | Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
+| Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
 | Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
