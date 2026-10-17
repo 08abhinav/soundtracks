@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:40:48.680Z",
-  "total_soundtracks": 2106,
+  "generated_at": "2026-10-17T15:40:56.305Z",
+  "total_soundtracks": 2107,
   "games": [
     {
       "igdb_id": 7522,
@@ -5989,6 +5989,20 @@
         {
           "album_name": "Diablo IV: Vessel of Hatred (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2636,
+      "game_name": "Dig Dug",
+      "game_url": "https://ostdb.net/games/dig-dug",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2b874fc3309cb0ef08be0eb",
+      "albums": [
+        {
+          "album_name": "Dig Dug (Game Sound Effect) Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6Q8Xvmxz9QBJbHR5NXA7Kf",
           "apple_music_url": "",
           "album_link_url": ""
         }
