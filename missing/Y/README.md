@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho: Bakutou Ankoku Bujutsu Kai | 48517 | [48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json](./48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json) |
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
 | YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
+| Yuyukana: Under the Starlight | 396469 | [396469-yuyukana-under-the-starlight.json](./396469-yuyukana-under-the-starlight.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
