@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Free Reclaimer Outfit | 375262 | [375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json](./375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemon x Machina: Titanic Scion - Reclaimers Outfit Set | 375261 | [375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json](./375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json) |
+| Daemon: The Wolf, the Witch, and the Labyrinth | 390477 | [390477-daemon-the-wolf-the-witch-and-the-labyrinth.json](./390477-daemon-the-wolf-the-witch-and-the-labyrinth.json) |
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
@@ -7481,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Trails | 392119 | [392119-distant-trails.json](./392119-distant-trails.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
+| Distant Visitant | 390483 | [390483-distant-visitant.json](./390483-distant-visitant.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
