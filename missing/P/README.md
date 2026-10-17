@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
 | Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
+| Path of Exile 2: Return of the Ancients | 403534 | [403534-path-of-exile-2-return-of-the-ancients.json](./403534-path-of-exile-2-return-of-the-ancients.json) |
 | Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
@@ -5796,6 +5797,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Complete Edition | 246889 | [246889-pixel-paint-complete-edition.json](./246889-pixel-paint-complete-edition.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
+| Pixel Paint: Space Adventure | 403420 | [403420-pixel-paint-space-adventure.json](./403420-pixel-paint-space-adventure.json) |
+| Pixel Paint: Under The Water | 403421 | [403421-pixel-paint-under-the-water.json](./403421-pixel-paint-under-the-water.json) |
 | Pixel Painter Story | 58618 | [58618-pixel-painter-story.json](./58618-pixel-painter-story.json) |
 | Pixel Panic | 285902 | [285902-pixel-panic.json](./285902-pixel-panic.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
@@ -7566,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
+| Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
