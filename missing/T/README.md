@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Alice who Went Through the Looking-Glass and Came Back Though Not Much Changed | 84467 | [84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json](./84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json) |
 | The Adventures of Ally The Alligator | 349822 | [349822-the-adventures-of-ally-the-alligator.json](./349822-the-adventures-of-ally-the-alligator.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
+| The Adventures of Astel and the Dark Curse | 377339 | [377339-the-adventures-of-astel-and-the-dark-curse.json](./377339-the-adventures-of-astel-and-the-dark-curse.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
@@ -4334,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
 | The Attic | 288271 | [288271-the-attic.json](./288271-the-attic.json) |
+| The Attic | 377353 | [377353-the-attic.json](./377353-the-attic.json) |
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
@@ -6474,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit 8 | 275404 | [275404-the-exit-8.json](./275404-the-exit-8.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
+| The Exit Strategy | 377346 | [377346-the-exit-strategy.json](./377346-the-exit-strategy.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
 | The Exorcist | 54469 | [54469-the-exorcist.json](./54469-the-exorcist.json) |
@@ -13185,6 +13188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
 | The Unseen Fears: Stories Untold - Collector's Edition | 202738 | [202738-the-unseen-fears-stories-untold-collectors-edition.json](./202738-the-unseen-fears-stories-untold-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
+| The Unsolved | 377341 | [377341-the-unsolved.json](./377341-the-unsolved.json) |
 | The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
@@ -19029,6 +19033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
+| Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
