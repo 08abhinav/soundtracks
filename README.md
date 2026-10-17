@@ -978,6 +978,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/f5/1a/49f51a79-ee10-a9ba-65db-615541465444/EN.jpg/1000x1000bb.jpg" width="60" /> | [Monster Hunter Stories 3: Twisted Reflection](https://ostdb.net/games/monster-hunter-stories-3-twisted-reflection) | **Monster Hunter Stories3 Twisted Reflection Original Sound Track** · [Apple Music](https://music.apple.com/us/album/monster-hunter-stories3-twisted-reflection-original/1894990036?uo=4) · [Album](https://album.link/i/1894990036) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736adbb5454badba68ee26472d" width="60" /> | [Monster Hunter Wilds](https://ostdb.net/games/monster-hunter-wilds) | **Monster Hunter Wilds Original Soundtrack** · [Spotify](https://open.spotify.com/album/7pHUiKv5aacEuna4rdiJyZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d883a977a519c07209e4eb7" width="60" /> | [Monster Hunter: World](https://ostdb.net/games/monster-hunter-world) | **MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748811f8cf42924cfac1273d" width="60" /> | [Monster Hunter: World - Iceborne](https://ostdb.net/games/monster-hunter-world-iceborne) | **Monster Hunter World: Iceborne Original Soundtrack** · [Spotify](https://open.spotify.com/album/3b2jnwe18Wy4CVMe6HgGeN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bed454b682e07eb8146ff7e" width="60" /> | [Monster Sanctuary](https://ostdb.net/games/monster-sanctuary) | **Monster Sanctuary (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/110828DW5V5gtPGTwqPb3F) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/58/43/1b5843c3-0df3-e3f9-58a3-51158d264fbb/5054227028885_1.jpg/600x600bb.jpg" width="60" /> | [Monument Valley](https://ostdb.net/games/monument-valley) | **Monument Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P) · [Apple Music](https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425) · [Album](https://album.link/i/887804425) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f8af001b0e4a0e3d367ad8e" width="60" /> | [Moonlighter](https://ostdb.net/games/moonlighter) | **Moonlighter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1) · [Album](https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1) |
@@ -1803,4 +1804,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2120 soundtracks · last updated 2026-10-17T15:50:56.565Z_
+_2121 soundtracks · last updated 2026-10-17T15:51:03.573Z_
