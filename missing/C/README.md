@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
 | Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
+| Captain Fly and Sexy Students | 384874 | [384874-captain-fly-and-sexy-students.json](./384874-captain-fly-and-sexy-students.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
@@ -13349,6 +13350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
+| Cube Dodger 3D | 384821 | [384821-cube-dodger-3d.json](./384821-cube-dodger-3d.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
@@ -14417,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
+| Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernetix | 69774 | [69774-cybernetix.json](./69774-cybernetix.json) |
