@@ -8754,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
+| Bomber | 401914 | [401914-bomber.json](./401914-bomber.json) |
 | Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
