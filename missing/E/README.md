@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Furry Killer 2020 | 351648 | [351648-endless-furry-killer-2020.json](./351648-endless-furry-killer-2020.json) |
 | Endless Furry Killer 3D | 155351 | [155351-endless-furry-killer-3d.json](./155351-endless-furry-killer-3d.json) |
 | Endless Furry Pinball 2D | 351662 | [351662-endless-furry-pinball-2d.json](./351662-endless-furry-pinball-2d.json) |
+| Endless Furry Slayer | 385981 | [385981-endless-furry-slayer.json](./385981-endless-furry-slayer.json) |
 | Endless Furry Tower Defense | 275553 | [275553-endless-furry-tower-defense.json](./275553-endless-furry-tower-defense.json) |
 | Endless Glory | 277921 | [277921-endless-glory.json](./277921-endless-glory.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
