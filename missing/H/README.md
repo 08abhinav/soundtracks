@@ -8603,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
+| Hydra Heli 2 | 390066 | [390066-hydra-heli-2.json](./390066-hydra-heli-2.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
