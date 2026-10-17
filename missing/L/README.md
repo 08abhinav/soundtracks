@@ -5580,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
 | Lost But Found | 319745 | [319745-lost-but-found.json](./319745-lost-but-found.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
+| Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
