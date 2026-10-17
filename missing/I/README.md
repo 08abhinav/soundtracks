@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
+| In Us | 399437 | [399437-in-us.json](./399437-in-us.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Vitra | 30310 | [30310-in-vitra.json](./30310-in-vitra.json) |
