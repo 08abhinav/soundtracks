@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungbung's Adventure 2 | 367730 | [367730-jungbungs-adventure-2.json](./367730-jungbungs-adventure-2.json) |
 | Jungle Adventure | 14140 | [14140-jungle-adventure.json](./14140-jungle-adventure.json) |
 | Jungle Adventure | 322073 | [322073-jungle-adventure.json](./322073-jungle-adventure.json) |
 | Jungle Adventures 2 | 362958 | [362958-jungle-adventures-2.json](./362958-jungle-adventures-2.json) |
