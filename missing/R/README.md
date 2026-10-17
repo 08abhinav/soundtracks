@@ -9057,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Train Trip | 189054 | [189054-russian-train-trip.json](./189054-russian-train-trip.json) |
 | Russian Train Trip 2 | 235640 | [235640-russian-train-trip-2.json](./235640-russian-train-trip-2.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
+| Russian Village Simulator 2 | 387745 | [387745-russian-village-simulator-2.json](./387745-russian-village-simulator-2.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
