@@ -8449,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
+| Fridge Frenzy | 379622 | [379622-fridge-frenzy.json](./379622-fridge-frenzy.json) |
 | Fridgy | 90905 | [90905-fridgy.json](./90905-fridgy.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
@@ -9329,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
 | Full Tilt Poker | 33940 | [33940-full-tilt-poker.json](./33940-full-tilt-poker.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
+| Full Uso: Complete Four Seasons | 379636 | [379636-full-uso-complete-four-seasons.json](./379636-full-uso-complete-four-seasons.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Full Void | 204028 | [204028-full-void.json](./204028-full-void.json) |
 | Full Void: Special Edition | 260078 | [260078-full-void-special-edition.json](./260078-full-void-special-edition.json) |
@@ -9946,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
+| Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
