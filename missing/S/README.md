@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior Fantasy | 208091 | [208091-savior-fantasy.json](./208091-savior-fantasy.json) |
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
+| Savior Syndrome: The Crimson Sun | 377929 | [377929-savior-syndrome-the-crimson-sun.json](./377929-savior-syndrome-the-crimson-sun.json) |
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
+| SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
@@ -3702,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
+| Seize The Elixir | 377941 | [377941-seize-the-elixir.json](./377941-seize-the-elixir.json) |
 | Seize the Night | 193812 | [193812-seize-the-night.json](./193812-seize-the-night.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
 | Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
@@ -4235,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim | 75694 | [75694-session-skate-sim.json](./75694-session-skate-sim.json) |
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
+| Session: Skate Sim - El Lay | 377891 | [377891-session-skate-sim-el-lay.json](./377891-session-skate-sim-el-lay.json) |
 | Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
 | Session: Skate Sim - Year Two Pack | 331911 | [331911-session-skate-sim-year-two-pack.json](./331911-session-skate-sim-year-two-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
@@ -13202,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
+| Soulflame | 377942 | [377942-soulflame.json](./377942-soulflame.json) |
 | Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
 | Soulfly | 214145 | [214145-soulfly.json](./214145-soulfly.json) |
 | SoulForge | 348379 | [348379-soulforge.json](./348379-soulforge.json) |
@@ -18263,6 +18268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
+| Status Entropos | 377918 | [377918-status-entropos.json](./377918-status-entropos.json) |
 | Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
