@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
+| Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 223521 | [223521-pixel-paint.json](./223521-pixel-paint.json) |
