@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Recoil | 112502 | [112502-heavy-recoil.json](./112502-heavy-recoil.json) |
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
+| Heavy Spoilers RPG 2: Your Best Friend Is Actually the Great Demon King | 377945 | [377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json](./377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
 | Heavy Sword | 259037 | [259037-heavy-sword.json](./259037-heavy-sword.json) |
 | Heavy Traffic | 272334 | [272334-heavy-traffic.json](./272334-heavy-traffic.json) |
@@ -4703,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hi-Flyer | 91362 | [91362-hi-flyer.json](./91362-hi-flyer.json) |
+| Hi-Hou-Ou: Mou Omae to ha Kuchi Kikan!! | 377897 | [377897-hi-hou-ou-mou-omae-to-ha-kuchi-kikan.json](./377897-hi-hou-ou-mou-omae-to-ha-kuchi-kikan.json) |
 | Hi-iro no Kakera | 77914 | [77914-hi-iro-no-kakera.json](./77914-hi-iro-no-kakera.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
