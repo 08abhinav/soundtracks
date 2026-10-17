@@ -4415,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
+| Island of Ruin | 391622 | [391622-island-of-ruin.json](./391622-island-of-ruin.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island of the Damned | 185469 | [185469-island-of-the-damned.json](./185469-island-of-the-damned.json) |
 | Island of Winds | 171529 | [171529-island-of-winds.json](./171529-island-of-winds.json) |
@@ -4545,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isomer | 17595 | [17595-isomer.json](./17595-isomer.json) |
 | Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
 | Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
+| Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
