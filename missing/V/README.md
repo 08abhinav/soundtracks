@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Girls | 45902 | [45902-vegas-girls.json](./45902-vegas-girls.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
+| Vegas Jackpot | 416711 | [416711-vegas-jackpot.json](./416711-vegas-jackpot.json) |
 | Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
 | Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
@@ -913,6 +914,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
+| Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
+| Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
 | Velocity 2X: Critical Mass Edition | 167039 | [167039-velocity-2x-critical-mass-edition.json](./167039-velocity-2x-critical-mass-edition.json) |
@@ -1115,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Versalis | 365095 | [365095-versalis.json](./365095-versalis.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
+| Verse of Birth | 416561 | [416561-verse-of-birth.json](./416561-verse-of-birth.json) |
 | Verse of the Hollow Oath | 384269 | [384269-verse-of-the-hollow-oath.json](./384269-verse-of-the-hollow-oath.json) |
 | Verse Project | 378312 | [378312-verse-project.json](./378312-verse-project.json) |
 | Verse Roll | 263564 | [263564-verse-roll.json](./263564-verse-roll.json) |
@@ -2566,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Point 8: The Rock | 95966 | [95966-vortex-point-8-the-rock.json](./95966-vortex-point-8-the-rock.json) |
 | Vortex Point: Far Journeys | 95981 | [95981-vortex-point-far-journeys.json](./95981-vortex-point-far-journeys.json) |
 | Vortex Protocol | 385248 | [385248-vortex-protocol.json](./385248-vortex-protocol.json) |
+| Vortex Raider | 416723 | [416723-vortex-raider.json](./416723-vortex-raider.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
