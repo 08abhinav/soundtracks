@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.R.T.: Adventures Mission Math - Sabotage at the Space Station | 85385 | [85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
 | S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
+| S.N.A.P. | 390475 | [390475-s-n-a-p.json](./390475-s-n-a-p.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Tactical Arsenal | 306551 | [306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json](./306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
+| Saccharine Echo | 390578 | [390578-saccharine-echo.json](./390578-saccharine-echo.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
 | Saccharine: A Misleading Sim Date | 387038 | [387038-saccharine-a-misleading-sim-date.json](./387038-saccharine-a-misleading-sim-date.json) |
@@ -7262,6 +7264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
 | Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
+| Sign White | 390556 | [390556-sign-white.json](./390556-sign-white.json) |
 | Sign: Broken Kether | 406269 | [406269-sign-broken-kether.json](./406269-sign-broken-kether.json) |
 | Signal | 124085 | [124085-signal.json](./124085-signal.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
@@ -10307,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
+| Snack Escort | 390576 | [390576-snack-escort.json](./390576-snack-escort.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack King | 66562 | [66562-snack-king.json](./66562-snack-king.json) |
 | Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
@@ -11088,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346074 | [346074-soccer.json](./346074-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
+| Soccer | 390480 | [390480-soccer.json](./390480-soccer.json) |
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
 | Soccer - Ultimate Team | 104472 | [104472-soccer-ultimate-team.json](./104472-soccer-ultimate-team.json) |
