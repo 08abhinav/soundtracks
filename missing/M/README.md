@@ -628,6 +628,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
+| Mafia: The Old Country Definitive Edition | 413586 | [413586-mafia-the-old-country-definitive-edition.json](./413586-mafia-the-old-country-definitive-edition.json) |
+| Mafia: The Omertà Collection | 413580 | [413580-mafia-the-omerta-collection.json](./413580-mafia-the-omerta-collection.json) |
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
 | Messy Hearts | 373178 | [373178-messy-hearts.json](./373178-messy-hearts.json) |
+| Messy Minecart | 413583 | [413583-messy-minecart.json](./413583-messy-minecart.json) |
 | Messy Room Girlfriend Project | 393129 | [393129-messy-room-girlfriend-project.json](./393129-messy-room-girlfriend-project.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
@@ -14750,6 +14753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
 | My Time Traveling Girlfriend | 208368 | [208368-my-time-traveling-girlfriend.json](./208368-my-time-traveling-girlfriend.json) |
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
+| My Tiny Grocery Store | 413443 | [413443-my-tiny-grocery-store.json](./413443-my-tiny-grocery-store.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
 | My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
 | My Tizi Town: Daycare | 299215 | [299215-my-tizi-town-daycare.json](./299215-my-tizi-town-daycare.json) |
