@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ala Mobile GP | 175736 | [175736-ala-mobile-gp.json](./175736-ala-mobile-gp.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Bones | 119420 | [119420-alabama-bones.json](./119420-alabama-bones.json) |
+| Alabama Meets Will Vi | 387136 | [387136-alabama-meets-will-vi.json](./387136-alabama-meets-will-vi.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alaca | 272778 | [272778-alaca.json](./272778-alaca.json) |
@@ -5236,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
 | Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
+| Alonitaire | 387150 | [387150-alonitaire.json](./387150-alonitaire.json) |
 | Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
@@ -5754,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
 | Ambre | 28661 | [28661-ambre.json](./28661-ambre.json) |
+| Ambre | 387151 | [387151-ambre.json](./387151-ambre.json) |
 | Ambroise Niflette & the Gleaned Bell | 323975 | [323975-ambroise-niflette-and-the-gleaned-bell.json](./323975-ambroise-niflette-and-the-gleaned-bell.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
@@ -10326,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asha | 189915 | [189915-asha.json](./189915-asha.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
+| Ashbane | 387139 | [387139-ashbane.json](./387139-ashbane.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
 | Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
