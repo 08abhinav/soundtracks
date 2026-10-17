@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
+| Easy Joe 2 | 399487 | [399487-easy-joe-2.json](./399487-easy-joe-2.json) |
 | Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
 | Evergreen South | 285691 | [285691-evergreen-south.json](./285691-evergreen-south.json) |
+| Evergreen Valley: The Parkour Game | 398292 | [398292-evergreen-valley-the-parkour-game.json](./398292-evergreen-valley-the-parkour-game.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
