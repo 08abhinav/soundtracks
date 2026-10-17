@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
+| Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
@@ -13122,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
 | Dustin Dash | 245192 | [245192-dustin-dash.json](./245192-dustin-dash.json) |
+| Dustin Sunset | 404684 | [404684-dustin-sunset.json](./404684-dustin-sunset.json) |
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
