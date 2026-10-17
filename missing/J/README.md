@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
 | Jump Journey | 215589 | [215589-jump-journey.json](./215589-jump-journey.json) |
+| Jump Jump | 405337 | [405337-jump-jump.json](./405337-jump-jump.json) |
 | Jump Jump Cyberpunk | 242603 | [242603-jump-jump-cyberpunk.json](./242603-jump-jump-cyberpunk.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
@@ -2900,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
 | Just Dumb Little Dances | 184000 | [184000-just-dumb-little-dances.json](./184000-just-dumb-little-dances.json) |
 | Just Dying | 400470 | [400470-just-dying.json](./400470-just-dying.json) |
+| Just Eat Sushi! | 405354 | [405354-just-eat-sushi.json](./405354-just-eat-sushi.json) |
 | Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
