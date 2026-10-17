@@ -1612,6 +1612,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273c516872ee6aaa82d5fb5c1b6" width="60" /> | [Vintage Story](https://ostdb.net/games/vintage-story) | **Vintage Story (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/22ZrsjdeHrS2VFrK7CEIMB) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/90/65/fb906542-0a22-0035-73aa-036f2eaeeea1/artwork.jpg/600x600bb.jpg" width="60" /> | [Visage](https://ostdb.net/games/visage) | **Visage (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4) · [Album](https://album.link/i/1811122497) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1c/93/4b1c9318-03b2-6517-41f6-607e995dfde8/SQEX-11094-1_3000_3000.jpg/600x600bb.jpg" width="60" /> | [Visions of Mana](https://ostdb.net/games/visions-of-mana) | **聖剣伝説 VISIONS of MANA Original Soundtrack** · [Spotify](https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4) · [Album](https://album.link/i/1765291659) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273130b7e1aff078f5033bde454" width="60" /> | [Void Bastards](https://ostdb.net/games/void-bastards) | **Void Bastards (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0XEpyPWBgKkTKxP5rf5eI1) |
 
 ### W
 
@@ -1734,4 +1735,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2051 soundtracks · last updated 2026-10-17T15:11:48.664Z_
+_2052 soundtracks · last updated 2026-10-17T15:11:57.116Z_
