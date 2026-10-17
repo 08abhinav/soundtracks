@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
 | Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
+| Battlemaidens | 411389 | [411389-battlemaidens.json](./411389-battlemaidens.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
+| Bellocco | 411709 | [411709-bellocco.json](./411709-bellocco.json) |
 | Belloncho Body Inspection | 264657 | [264657-belloncho-body-inspection.json](./264657-belloncho-body-inspection.json) |
 | Bells & Whistles | 39878 | [39878-bells-and-whistles.json](./39878-bells-and-whistles.json) |
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
@@ -4726,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
 | Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
+| Better Super Mario Sunshine Online | 411435 | [411435-better-super-mario-sunshine-online.json](./411435-better-super-mario-sunshine-online.json) |
 | Better Than Wolves | 297008 | [297008-better-than-wolves.json](./297008-better-than-wolves.json) |
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
@@ -12062,6 +12065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
+| Bumpers & Broadswords Mini | 411357 | [411357-bumpers-and-broadswords-mini.json](./411357-bumpers-and-broadswords-mini.json) |
 | Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
