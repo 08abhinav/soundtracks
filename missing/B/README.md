@@ -11773,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bug-Off! | 210321 | [210321-bug-off.json](./210321-bug-off.json) |
 | Bug: Beetles Underground | 254999 | [254999-bug-beetles-underground.json](./254999-bug-beetles-underground.json) |
+| Bug!Ban!Break! | 390484 | [390484-bug-ban-break.json](./390484-bug-ban-break.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
 | BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
