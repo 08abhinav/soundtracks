@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
+| Ratdoodle Adventure | 381982 | [381982-ratdoodle-adventure.json](./381982-ratdoodle-adventure.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
@@ -6706,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
 | Rocket League: Season 2 | 141575 | [141575-rocket-league-season-2.json](./141575-rocket-league-season-2.json) |
+| Rocket League: Season 21 | 381986 | [381986-rocket-league-season-21.json](./381986-rocket-league-season-21.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
 | Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
