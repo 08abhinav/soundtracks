@@ -7297,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Bang Bang | 368827 | [368827-fortnite-festival-bang-bang.json](./368827-fortnite-festival-bang-bang.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
+| Fortnite Festival: Big Dawgs | 366563 | [366563-fortnite-festival-big-dawgs.json](./366563-fortnite-festival-big-dawgs.json) |
 | Fortnite Festival: Bling-Bang-Bang-Born | 372800 | [372800-fortnite-festival-bling-bang-bang-born.json](./372800-fortnite-festival-bling-bang-bang-born.json) |
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
 | Fortnite Festival: Bum Bum | 367583 | [367583-fortnite-festival-bum-bum.json](./367583-fortnite-festival-bum-bum.json) |
@@ -7334,10 +7335,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 6 | 322820 | [322820-fortnite-festival-season-6.json](./322820-fortnite-festival-season-6.json) |
 | Fortnite Festival: Season 8 | 339230 | [339230-fortnite-festival-season-8.json](./339230-fortnite-festival-season-8.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
+| Fortnite Festival: Stacy's Mom | 366562 | [366562-fortnite-festival-stacys-mom.json](./366562-fortnite-festival-stacys-mom.json) |
 | Fortnite Festival: Starboy | 370568 | [370568-fortnite-festival-starboy.json](./370568-fortnite-festival-starboy.json) |
 | Fortnite Festival: Sticky | 378001 | [378001-fortnite-festival-sticky.json](./378001-fortnite-festival-sticky.json) |
 | Fortnite Festival: Sunflower - Spider-Man: Into the Spider-Verse | 372127 | [372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json](./372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json) |
 | Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
+| Fortnite Festival: Unholy | 366564 | [366564-fortnite-festival-unholy.json](./366564-fortnite-festival-unholy.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
@@ -8976,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
+| Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
