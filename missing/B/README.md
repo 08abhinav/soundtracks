@@ -7732,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
 | Blood Moon Massacre | 373904 | [373904-blood-moon-massacre.json](./373904-blood-moon-massacre.json) |
+| Blood Moon Reckoning | 385976 | [385976-blood-moon-reckoning.json](./385976-blood-moon-reckoning.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
@@ -7841,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
+| Bloodfall: The First Temple | 385952 | [385952-bloodfall-the-first-temple.json](./385952-bloodfall-the-first-temple.json) |
 | Bloodfire | 367982 | [367982-bloodfire.json](./367982-bloodfire.json) |
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
 | Bloodfront | 391730 | [391730-bloodfront.json](./391730-bloodfront.json) |
@@ -8349,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
+| BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
