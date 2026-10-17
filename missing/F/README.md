@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Wars | 72131 | [72131-famicom-wars.json](./72131-famicom-wars.json) |
 | Famicom Zenkoku Issei Quiz | 328605 | [328605-famicom-zenkoku-issei-quiz.json](./328605-famicom-zenkoku-issei-quiz.json) |
 | Famidash | 308404 | [308404-famidash.json](./308404-famidash.json) |
+| Familegion | 388149 | [388149-familegion.json](./388149-familegion.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar | 196570 | [196570-familiar.json](./196570-familiar.json) |
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fastlane Pinball | 73889 | [73889-fastlane-pinball.json](./73889-fastlane-pinball.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
+| Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
@@ -3604,7 +3606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
 | Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
-| Final Fantasy V | 158984 | [158984-final-fantasy-v.json](./158984-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
@@ -6403,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
+| FoodStars.io | 388131 | [388131-foodstars-io.json](./388131-foodstars-io.json) |
 | Foodtruck Arena | 126982 | [126982-foodtruck-arena.json](./126982-foodtruck-arena.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
@@ -7396,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Famine | 190408 | [190408-fortune-and-famine.json](./190408-fortune-and-famine.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
+| Fortune and Glory | 388125 | [388125-fortune-and-glory.json](./388125-fortune-and-glory.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
 | Fortune Builder | 40895 | [40895-fortune-builder.json](./40895-fortune-builder.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
