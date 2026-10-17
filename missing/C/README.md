@@ -5768,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
 | Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
+| Chronicles Meteorfall | 390062 | [390062-chronicles-meteorfall.json](./390062-chronicles-meteorfall.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath - Collector's Edition | 245276 | [245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json](./245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json) |
 | Chronicles of a Dark Lord: Episode 1 - Tides of Fate Complete | 36076 | [36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json](./36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloud Server Simulator | 398595 | [398595-cloud-server-simulator.json](./398595-cloud-server-simulator.json) |
+| Cloud Shadow | 390045 | [390045-cloud-shadow.json](./390045-cloud-shadow.json) |
 | Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloud: Telos | 236377 | [236377-cloud-telos.json](./236377-cloud-telos.json) |
 | Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
@@ -11689,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
+| Crazy Hotel Together | 390053 | [390053-crazy-hotel-together.json](./390053-crazy-hotel-together.json) |
 | Crazy Indian | 157555 | [157555-crazy-indian.json](./157555-crazy-indian.json) |
 | Crazy Indian: Minion Skins | 157556 | [157556-crazy-indian-minion-skins.json](./157556-crazy-indian-minion-skins.json) |
 | Crazy Indian: Monster Skins | 157557 | [157557-crazy-indian-monster-skins.json](./157557-crazy-indian-monster-skins.json) |
@@ -14354,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberFuck 2069 | 216401 | [216401-cyberfuck-2069.json](./216401-cyberfuck-2069.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | Cybergenic Ranger: Secret of the 7th Planet | 74000 | [74000-cybergenic-ranger-secret-of-the-7th-planet.json](./74000-cybergenic-ranger-secret-of-the-7th-planet.json) |
+| CyberGhitch | 390059 | [390059-cyberghitch.json](./390059-cyberghitch.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
 | CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
