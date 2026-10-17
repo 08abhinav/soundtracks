@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Runner | 369712 | [369712-sad-virus-runner.json](./369712-sad-virus-runner.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
+| Sad Virus Space | 369346 | [369346-sad-virus-space.json](./369346-sad-virus-space.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
 | Sad Virus Western | 368286 | [368286-sad-virus-western.json](./368286-sad-virus-western.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Qúnyīng Zhuán | 143495 | [143495-sanguo-qunying-zhuan.json](./143495-sanguo-qunying-zhuan.json) |
+| Sānguó Qúnyīng Zhuàn | 369357 | [369357-sanguo-qunying-zhuan.json](./369357-sanguo-qunying-zhuan.json) |
 | Sānguó Qúnyīng Zhuán IV | 143505 | [143505-sanguo-qunying-zhuan-iv.json](./143505-sanguo-qunying-zhuan-iv.json) |
 | Sānguó Qúnyīng Zhuán V | 143513 | [143513-sanguo-qunying-zhuan-v.json](./143513-sanguo-qunying-zhuan-v.json) |
 | Sānguó Qúnyīng Zhuán VI | 143520 | [143520-sanguo-qunying-zhuan-vi.json](./143520-sanguo-qunying-zhuan-vi.json) |
@@ -4858,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Siege | 326229 | [326229-shadow-siege.json](./326229-shadow-siege.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Sorcerer | 12764 | [12764-shadow-sorcerer.json](./12764-shadow-sorcerer.json) |
+| Shadow Spell Saga: The Winds of Fate | 369320 | [369320-shadow-spell-saga-the-winds-of-fate.json](./369320-shadow-spell-saga-the-winds-of-fate.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
 | Shadow Stalker | 251721 | [251721-shadow-stalker.json](./251721-shadow-stalker.json) |
@@ -8419,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skarab | 336034 | [336034-skarab.json](./336034-skarab.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
+| Skat 3D Premium | 369336 | [369336-skat-3d-premium.json](./369336-skat-3d-premium.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
@@ -11011,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
+| Snowflake Master | 369335 | [369335-snowflake-master.json](./369335-snowflake-master.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
@@ -11427,6 +11432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoGhost: Unfinished Business | 390021 | [390021-sokoghost-unfinished-business.json](./390021-sokoghost-unfinished-business.json) |
+| Sokoku | 369349 | [369349-sokoku.json](./369349-sokoku.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | Sokoman | 66575 | [66575-sokoman.json](./66575-sokoman.json) |
