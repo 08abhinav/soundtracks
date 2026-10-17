@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:01:22.933Z",
-  "total_soundtracks": 2012,
+  "generated_at": "2026-10-17T12:01:31.995Z",
+  "total_soundtracks": 2013,
   "games": [
     {
       "igdb_id": 7522,
@@ -18498,6 +18498,20 @@
           "album_name": "Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5174,
+      "game_name": "Spectrobes",
+      "game_url": "https://ostdb.net/games/spectrobes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273166bd1e9a13e06df6b47f939",
+      "albums": [
+        {
+          "album_name": "Spectrobes (Original Soundtrack Remade)",
+          "spotify_url": "https://open.spotify.com/album/0OK8un2mTaSi5V0Y7X2sTo",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
