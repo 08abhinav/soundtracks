@@ -9502,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
+| The Machine Stops | 404072 | [404072-the-machine-stops.json](./404072-the-machine-stops.json) |
 | The Machine That Breathes | 121341 | [121341-the-machine-that-breathes.json](./121341-the-machine-that-breathes.json) |
 | The Machine's Garden | 152045 | [152045-the-machines-garden.json](./152045-the-machines-garden.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
@@ -9823,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
+| The Moment of Panic | 404165 | [404165-the-moment-of-panic.json](./404165-the-moment-of-panic.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
 | The Monad | 372610 | [372610-the-monad.json](./372610-the-monad.json) |
@@ -10066,6 +10068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverending Labyrinth | 165149 | [165149-the-neverending-labyrinth.json](./165149-the-neverending-labyrinth.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
+| The Neverending Summer | 404177 | [404177-the-neverending-summer.json](./404177-the-neverending-summer.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
@@ -19515,6 +19518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Mania! | 220267 | [220267-toy-story-mania.json](./220267-toy-story-mania.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
+| Toy Story Racer | 404086 | [404086-toy-story-racer.json](./404086-toy-story-racer.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
