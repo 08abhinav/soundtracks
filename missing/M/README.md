@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Curveball | 302428 | [302428-major-league-curveball.json](./302428-major-league-curveball.json) |
 | Major League Eating: The Game | 21790 | [21790-major-league-eating-the-game.json](./21790-major-league-eating-the-game.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
+| Major League Hockey | 408532 | [408532-major-league-hockey.json](./408532-major-league-hockey.json) |
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
 | Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
 | Maloomify the Ocean | 401770 | [401770-maloomify-the-ocean.json](./401770-maloomify-the-ocean.json) |
+| MalOvent | 408536 | [408536-malovent.json](./408536-malovent.json) |
 | Malpiot Horror | 369927 | [369927-malpiot-horror.json](./369927-malpiot-horror.json) |
 | Malpraxis | 389124 | [389124-malpraxis.json](./389124-malpraxis.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
 | Marble Mill | 414603 | [414603-marble-mill.json](./414603-marble-mill.json) |
+| Marble Mirage | 408534 | [408534-marble-mirage.json](./408534-marble-mirage.json) |
 | Marble Mixer for iPad | 96265 | [96265-marble-mixer-for-ipad.json](./96265-marble-mixer-for-ipad.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
@@ -5594,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
 | MegaGlest | 29772 | [29772-megaglest.json](./29772-megaglest.json) |
 | MegaGum | 403810 | [403810-megagum.json](./403810-megagum.json) |
+| Megagun | 408538 | [408538-megagun.json](./408538-megagun.json) |
 | Megajump | 174077 | [174077-megajump.json](./174077-megajump.json) |
 | Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
@@ -9424,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
+| Misdamnation | 408489 | [408489-misdamnation.json](./408489-misdamnation.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
@@ -9775,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsumete Knight R: Daibouken-hen | 166164 | [166164-mitsumete-knight-r-daibouken-hen.json](./166164-mitsumete-knight-r-daibouken-hen.json) |
 | Mitsurugi Kamui Hikae | 8822 | [8822-mitsurugi-kamui-hikae.json](./8822-mitsurugi-kamui-hikae.json) |
 | Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
+| Mittelland AD: Origins | 408533 | [408533-mittelland-ad-origins.json](./408533-mittelland-ad-origins.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
 | Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
@@ -10614,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
 | Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
+| Monke Survivor | 408515 | [408515-monke-survivor.json](./408515-monke-survivor.json) |
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
@@ -14397,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
+| My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
 | My Life As An Archeologist | 170889 | [170889-my-life-as-an-archeologist.json](./170889-my-life-as-an-archeologist.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
