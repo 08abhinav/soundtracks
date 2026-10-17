@@ -12134,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Chess | 241866 | [241866-pudding-chess.json](./241866-pudding-chess.json) |
+| Pudding Fantasy: Tales of Go and Magic | 370407 | [370407-pudding-fantasy-tales-of-go-and-magic.json](./370407-pudding-fantasy-tales-of-go-and-magic.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
 | Pudding Monster | 120805 | [120805-pudding-monster.json](./120805-pudding-monster.json) |
@@ -13321,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Builder | 183276 | [183276-pyramid-builder.json](./183276-pyramid-builder.json) |
+| Pyramid Clicker | 370418 | [370418-pyramid-clicker.json](./370418-pyramid-clicker.json) |
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
