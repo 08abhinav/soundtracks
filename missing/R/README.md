@@ -5984,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
 | Road Rage | 55244 | [55244-road-rage.json](./55244-road-rage.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
+| Road Rage Radio | 383776 | [383776-road-rage-radio.json](./383776-road-rage-radio.json) |
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
