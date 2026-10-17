@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
 | Koboo: The Tree Spirit | 152679 | [152679-koboo-the-tree-spirit.json](./152679-koboo-the-tree-spirit.json) |
 | Koboomballs | 112845 | [112845-koboomballs.json](./112845-koboomballs.json) |
+| Kobuta Survivor | 373254 | [373254-kobuta-survivor.json](./373254-kobuta-survivor.json) |
 | Kobyashi Naru | 52204 | [52204-kobyashi-naru.json](./52204-kobyashi-naru.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
 | Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki | 166505 | [166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json](./166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json) |
