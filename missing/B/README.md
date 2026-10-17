@@ -10543,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
+| BreakEven: Idle | 409865 | [409865-breakeven-idle.json](./409865-breakeven-idle.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
 | Breakfast Bar Tycoon | 144578 | [144578-breakfast-bar-tycoon.json](./144578-breakfast-bar-tycoon.json) |
