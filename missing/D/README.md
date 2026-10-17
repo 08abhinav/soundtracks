@@ -1593,7 +1593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwing Duck | 210309 | [210309-darkwing-duck.json](./210309-darkwing-duck.json) |
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 139157 | [139157-darkwood.json](./139157-darkwood.json) |
-| Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkwood: Special Edition | 118154 | [118154-darkwood-special-edition.json](./118154-darkwood-special-edition.json) |
 | Darkworld | 273002 | [273002-darkworld.json](./273002-darkworld.json) |
 | Darkwurlde | 13572 | [13572-darkwurlde.json](./13572-darkwurlde.json) |
