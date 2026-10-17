@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kin's Chronicle | 149981 | [149981-kins-chronicle.json](./149981-kins-chronicle.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
+| Kinap | 374366 | [374366-kinap.json](./374366-kinap.json) |
 | Kind () Station | 357438 | [357438-kind-station.json](./357438-kind-station.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Heart Defenders | 221104 | [221104-kind-heart-defenders.json](./221104-kind-heart-defenders.json) |
