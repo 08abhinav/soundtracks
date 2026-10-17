@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T22:48:33.218Z",
-  "total_missing": 225649,
+  "generated_at": "2026-10-17T23:03:22.066Z",
+  "total_missing": 225699,
   "games": [
     {
       "igdb_id": 191680,
@@ -86990,6 +86990,11 @@
       "igdb_id": 254784,
       "game_name": "Basalt Breaker",
       "file": "missing/B/254784-basalt-breaker.json"
+    },
+    {
+      "igdb_id": 364246,
+      "game_name": "Basalt: The Cursed Vein",
+      "file": "missing/B/364246-basalt-the-cursed-vein.json"
     },
     {
       "igdb_id": 294457,
@@ -264037,6 +264042,76 @@
       "file": "missing/D/356647-doubutsu-no-mori-card-e-series-1.json"
     },
     {
+      "igdb_id": 364272,
+      "game_name": "Doubutsu no Mori e+: K05 - Mura Melo Card: Keke Ondo",
+      "file": "missing/D/364272-doubutsu-no-mori-e-k05-mura-melo-card-keke-ondo.json"
+    },
+    {
+      "igdb_id": 364271,
+      "game_name": "Doubutsu no Mori e+: K06 - Mura Melo Card: Keke-Billy",
+      "file": "missing/D/364271-doubutsu-no-mori-e-k06-mura-melo-card-keke-billy.json"
+    },
+    {
+      "igdb_id": 364269,
+      "game_name": "Doubutsu no Mori e+: K07 - Mura Melo Card: Kangaechuu",
+      "file": "missing/D/364269-doubutsu-no-mori-e-k07-mura-melo-card-kangaechuu.json"
+    },
+    {
+      "igdb_id": 364266,
+      "game_name": "Doubutsu no Mori e+: K08 - Mura Melo Card: Funa Uta 2001",
+      "file": "missing/D/364266-doubutsu-no-mori-e-k08-mura-melo-card-funa-uta-2001.json"
+    },
+    {
+      "igdb_id": 364259,
+      "game_name": "Doubutsu no Mori e+: K09 - Mura Melo Card: Napolitain",
+      "file": "missing/D/364259-doubutsu-no-mori-e-k09-mura-melo-card-napolitain.json"
+    },
+    {
+      "igdb_id": 364260,
+      "game_name": "Doubutsu no Mori e+: K10 - Mura Melo Card: Nidanzaka",
+      "file": "missing/D/364260-doubutsu-no-mori-e-k10-mura-melo-card-nidanzaka.json"
+    },
+    {
+      "igdb_id": 364261,
+      "game_name": "Doubutsu no Mori e+: K11 - Mura Melo Card: Keke Metal",
+      "file": "missing/D/364261-doubutsu-no-mori-e-k11-mura-melo-card-keke-metal.json"
+    },
+    {
+      "igdb_id": 364264,
+      "game_name": "Doubutsu no Mori e+: K12 - Mura Melo Card: Keke Daimyou",
+      "file": "missing/D/364264-doubutsu-no-mori-e-k12-mura-melo-card-keke-daimyou.json"
+    },
+    {
+      "igdb_id": 364253,
+      "game_name": "Doubutsu no Mori e+: PR - Bow",
+      "file": "missing/D/364253-doubutsu-no-mori-e-pr-bow.json"
+    },
+    {
+      "igdb_id": 364254,
+      "game_name": "Doubutsu no Mori e+: PR - Meow",
+      "file": "missing/D/364254-doubutsu-no-mori-e-pr-meow.json"
+    },
+    {
+      "igdb_id": 364251,
+      "game_name": "Doubutsu no Mori e+: PR - Nindori",
+      "file": "missing/D/364251-doubutsu-no-mori-e-pr-nindori.json"
+    },
+    {
+      "igdb_id": 364252,
+      "game_name": "Doubutsu no Mori e+: PR - Pierre",
+      "file": "missing/D/364252-doubutsu-no-mori-e-pr-pierre.json"
+    },
+    {
+      "igdb_id": 364256,
+      "game_name": "Doubutsu no Mori e+: PR - Shinabiru",
+      "file": "missing/D/364256-doubutsu-no-mori-e-pr-shinabiru.json"
+    },
+    {
+      "igdb_id": 364255,
+      "game_name": "Doubutsu no Mori e+: PR - Shoukichi",
+      "file": "missing/D/364255-doubutsu-no-mori-e-pr-shoukichi.json"
+    },
+    {
       "igdb_id": 353228,
       "game_name": "Doubutsu no Mori+",
       "file": "missing/D/353228-doubutsu-no-mori.json"
@@ -264255,6 +264330,11 @@
       "igdb_id": 264119,
       "game_name": "Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken",
       "file": "missing/D/264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json"
+    },
+    {
+      "igdb_id": 364262,
+      "game_name": "Dove Days: Time Flies",
+      "file": "missing/D/364262-dove-days-time-flies.json"
     },
     {
       "igdb_id": 80607,
@@ -285742,6 +285822,11 @@
       "file": "missing/E/105433-eat-my-shuriken-and-die.json"
     },
     {
+      "igdb_id": 364223,
+      "game_name": "Eat or Eaten",
+      "file": "missing/E/364223-eat-or-eaten.json"
+    },
+    {
       "igdb_id": 314950,
       "game_name": "Eat or Fight",
       "file": "missing/E/314950-eat-or-fight.json"
@@ -286340,6 +286425,11 @@
       "igdb_id": 243932,
       "game_name": "Echo Point Nova",
       "file": "missing/E/243932-echo-point-nova.json"
+    },
+    {
+      "igdb_id": 364276,
+      "game_name": "Echo Point Nova: Under the Clouds",
+      "file": "missing/E/364276-echo-point-nova-under-the-clouds.json"
     },
     {
       "igdb_id": 360642,
@@ -326147,6 +326237,11 @@
       "file": "missing/F/388421-fearwoods.json"
     },
     {
+      "igdb_id": 364224,
+      "game_name": "Feast",
+      "file": "missing/F/364224-feast.json"
+    },
+    {
       "igdb_id": 381697,
       "game_name": "Feast of the Beast: Unleashed",
       "file": "missing/F/381697-feast-of-the-beast-unleashed.json"
@@ -348935,6 +349030,11 @@
       "igdb_id": 313201,
       "game_name": "Forknite",
       "file": "missing/F/313201-forknite.json"
+    },
+    {
+      "igdb_id": 364225,
+      "game_name": "Forkraith",
+      "file": "missing/F/364225-forkraith.json"
     },
     {
       "igdb_id": 380676,
@@ -423932,6 +424032,11 @@
       "file": "missing/H/183390-her-sign.json"
     },
     {
+      "igdb_id": 364226,
+      "game_name": "Her Time of the Month!",
+      "file": "missing/H/364226-her-time-of-the-month.json"
+    },
+    {
       "igdb_id": 222793,
       "game_name": "Her Trees: First Puzzle",
       "file": "missing/H/222793-her-trees-first-puzzle.json"
@@ -432180,6 +432285,11 @@
       "igdb_id": 57505,
       "game_name": "Hill Ridge Lost & Found",
       "file": "missing/H/57505-hill-ridge-lost-and-found.json"
+    },
+    {
+      "igdb_id": 364229,
+      "game_name": "Hill Slide: The Skate Adventure",
+      "file": "missing/H/364229-hill-slide-the-skate-adventure.json"
     },
     {
       "igdb_id": 71989,
@@ -449752,6 +449862,11 @@
       "file": "missing/I/135120-i-am-a-man.json"
     },
     {
+      "igdb_id": 364231,
+      "game_name": "I am a Princess from Another World",
+      "file": "missing/I/364231-i-am-a-princess-from-another-world.json"
+    },
+    {
       "igdb_id": 41246,
       "game_name": "I Am a Teacher: Super Mario Sweater",
       "file": "missing/I/41246-i-am-a-teacher-super-mario-sweater.json"
@@ -450700,6 +450815,11 @@
       "igdb_id": 378565,
       "game_name": "I Dreamed about static again",
       "file": "missing/I/378565-i-dreamed-about-static-again.json"
+    },
+    {
+      "igdb_id": 364232,
+      "game_name": "I Dreamt of Something Lost",
+      "file": "missing/I/364232-i-dreamt-of-something-lost.json"
     },
     {
       "igdb_id": 334284,
@@ -456470,6 +456590,11 @@
       "igdb_id": 215344,
       "game_name": "Ifrit",
       "file": "missing/I/215344-ifrit.json"
+    },
+    {
+      "igdb_id": 364233,
+      "game_name": "Iftar for Two",
+      "file": "missing/I/364233-iftar-for-two.json"
     },
     {
       "igdb_id": 302488,
@@ -484487,6 +484612,11 @@
       "file": "missing/J/275580-journey-to-bethlehem-fig-run.json"
     },
     {
+      "igdb_id": 364234,
+      "game_name": "Journey to Candy Mountain",
+      "file": "missing/J/364234-journey-to-candy-mountain.json"
+    },
+    {
       "igdb_id": 355218,
       "game_name": "Journey to Chaos: Pilgrimage to the West",
       "file": "missing/J/355218-journey-to-chaos-pilgrimage-to-the-west.json"
@@ -486720,6 +486850,11 @@
       "igdb_id": 243100,
       "game_name": "Jumping Jacks",
       "file": "missing/J/243100-jumping-jacks.json"
+    },
+    {
+      "igdb_id": 364235,
+      "game_name": "Jumping Jean",
+      "file": "missing/J/364235-jumping-jean.json"
     },
     {
       "igdb_id": 170387,
@@ -498862,6 +498997,11 @@
       "file": "missing/K/276201-kill-the-shadow.json"
     },
     {
+      "igdb_id": 364236,
+      "game_name": "Kill the Sun",
+      "file": "missing/K/364236-kill-the-sun.json"
+    },
+    {
       "igdb_id": 420518,
       "game_name": "Kill the Thing",
       "file": "missing/K/420518-kill-the-thing.json"
@@ -508982,6 +509122,11 @@
       "file": "missing/K/403556-kopernicus-extraction.json"
     },
     {
+      "igdb_id": 364237,
+      "game_name": "KopiCat",
+      "file": "missing/K/364237-kopicat.json"
+    },
+    {
       "igdb_id": 294581,
       "game_name": "Koppotate's Rescue Mission",
       "file": "missing/K/294581-koppotates-rescue-mission.json"
@@ -518802,6 +518947,11 @@
       "file": "missing/L/292425-law-transporter.json"
     },
     {
+      "igdb_id": 364238,
+      "game_name": "Lawang Sewu: Basement B",
+      "file": "missing/L/364238-lawang-sewu-basement-b.json"
+    },
+    {
       "igdb_id": 234195,
       "game_name": "Lawbringer",
       "file": "missing/L/234195-lawbringer.json"
@@ -528197,6 +528347,11 @@
       "file": "missing/L/153348-life-as-designed.json"
     },
     {
+      "igdb_id": 364239,
+      "game_name": "Life at 12:47PM",
+      "file": "missing/L/364239-life-at-12-47pm.json"
+    },
+    {
       "igdb_id": 90221,
       "game_name": "Life Beyond",
       "file": "missing/L/90221-life-beyond.json"
@@ -531107,6 +531262,11 @@
       "file": "missing/L/398480-liminal-sick-pizza-blue.json"
     },
     {
+      "igdb_id": 364244,
+      "game_name": "Liminal Skies",
+      "file": "missing/L/364244-liminal-skies.json"
+    },
+    {
       "igdb_id": 416092,
       "game_name": "Liminal Sorting",
       "file": "missing/L/416092-liminal-sorting.json"
@@ -532375,6 +532535,11 @@
       "igdb_id": 138256,
       "game_name": "Lionkiller",
       "file": "missing/L/138256-lionkiller.json"
+    },
+    {
+      "igdb_id": 364240,
+      "game_name": "Liono IceCape",
+      "file": "missing/L/364240-liono-icecape.json"
     },
     {
       "igdb_id": 193266,
@@ -541450,6 +541615,11 @@
       "igdb_id": 401605,
       "game_name": "Lost in the Hole",
       "file": "missing/L/401605-lost-in-the-hole.json"
+    },
+    {
+      "igdb_id": 364243,
+      "game_name": "Lost in the Maze of Those Memories I Wander and Nervously Laugh",
+      "file": "missing/L/364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json"
     },
     {
       "igdb_id": 306377,
@@ -574457,6 +574627,11 @@
       "file": "missing/M/200174-meekanoid.json"
     },
     {
+      "igdb_id": 364257,
+      "game_name": "Meena",
+      "file": "missing/M/364257-meena.json"
+    },
+    {
       "igdb_id": 393098,
       "game_name": "Meeple Fantasy 6",
       "file": "missing/M/393098-meeple-fantasy-6.json"
@@ -589055,6 +589230,11 @@
       "igdb_id": 360638,
       "game_name": "Mighty Kingdom",
       "file": "missing/M/360638-mighty-kingdom.json"
+    },
+    {
+      "igdb_id": 364230,
+      "game_name": "Mighty Knight",
+      "file": "missing/M/364230-mighty-knight.json"
     },
     {
       "igdb_id": 275339,
@@ -613227,6 +613407,11 @@
       "file": "missing/M/303075-moving-on.json"
     },
     {
+      "igdb_id": 364263,
+      "game_name": "Moving On",
+      "file": "missing/M/364263-moving-on.json"
+    },
+    {
       "igdb_id": 113866,
       "game_name": "Moving Out",
       "file": "missing/M/113866-moving-out.json"
@@ -627627,6 +627812,11 @@
       "file": "missing/N/213623-naious.json"
     },
     {
+      "igdb_id": 364265,
+      "game_name": "Nair Pico",
+      "file": "missing/N/364265-nair-pico.json"
+    },
+    {
       "igdb_id": 52609,
       "game_name": "Nairo High School: Seishun Hakusho",
       "file": "missing/N/52609-nairo-high-school-seishun-hakusho.json"
@@ -633607,6 +633797,11 @@
       "file": "missing/N/345550-need-for-scream.json"
     },
     {
+      "igdb_id": 364277,
+      "game_name": "Need for Seat",
+      "file": "missing/N/364277-need-for-seat.json"
+    },
+    {
       "igdb_id": 185512,
       "game_name": "Need For Seed: Undergrowth",
       "file": "missing/N/185512-need-for-seed-undergrowth.json"
@@ -636390,6 +636585,11 @@
       "igdb_id": 361857,
       "game_name": "Neon Overdrive",
       "file": "missing/N/361857-neon-overdrive.json"
+    },
+    {
+      "igdb_id": 364267,
+      "game_name": "Neon Overflow",
+      "file": "missing/N/364267-neon-overflow.json"
     },
     {
       "igdb_id": 68558,
@@ -652662,6 +652862,11 @@
       "file": "missing/N/279709-nourish.json"
     },
     {
+      "igdb_id": 364250,
+      "game_name": "Nourish",
+      "file": "missing/N/364250-nourish.json"
+    },
+    {
       "igdb_id": 105167,
       "game_name": "Nous",
       "file": "missing/N/105167-nous.json"
@@ -663112,6 +663317,11 @@
       "file": "missing/O/86762-one-bit-arena.json"
     },
     {
+      "igdb_id": 364278,
+      "game_name": "One Box, Blue Box",
+      "file": "missing/O/364278-one-box-blue-box.json"
+    },
+    {
       "igdb_id": 103553,
       "game_name": "One Bullet - Flip the gun",
       "file": "missing/O/103553-one-bullet-flip-the-gun.json"
@@ -668930,6 +669140,11 @@
       "igdb_id": 347189,
       "game_name": "Orbit Maze",
       "file": "missing/O/347189-orbit-maze.json"
+    },
+    {
+      "igdb_id": 364279,
+      "game_name": "Orbit of Eternity",
+      "file": "missing/O/364279-orbit-of-eternity.json"
     },
     {
       "igdb_id": 405604,
@@ -732687,6 +732902,11 @@
       "file": "missing/P/315023-project-freedom.json"
     },
     {
+      "igdb_id": 364275,
+      "game_name": "Project Freefall",
+      "file": "missing/P/364275-project-freefall.json"
+    },
+    {
       "igdb_id": 286067,
       "game_name": "Project Frontier",
       "file": "missing/P/286067-project-frontier.json"
@@ -756220,6 +756440,11 @@
       "igdb_id": 49087,
       "game_name": "Rats!",
       "file": "missing/R/49087-rats.json"
+    },
+    {
+      "igdb_id": 364248,
+      "game_name": "RatScum",
+      "file": "missing/R/364248-ratscum.json"
     },
     {
       "igdb_id": 91604,
@@ -800422,6 +800647,11 @@
       "file": "missing/S/282551-sanctity.json"
     },
     {
+      "igdb_id": 364280,
+      "game_name": "Sanctuaries",
+      "file": "missing/S/364280-sanctuaries.json"
+    },
+    {
       "igdb_id": 404390,
       "game_name": "Sanctuaries",
       "file": "missing/S/404390-sanctuaries.json"
@@ -831200,6 +831430,11 @@
       "igdb_id": 23633,
       "game_name": "Siegelord",
       "file": "missing/S/23633-siegelord.json"
+    },
+    {
+      "igdb_id": 364242,
+      "game_name": "Siegeturtle",
+      "file": "missing/S/364242-siegeturtle.json"
     },
     {
       "igdb_id": 90784,
@@ -918007,6 +918242,11 @@
       "file": "missing/S/249366-sushi-cat-words.json"
     },
     {
+      "igdb_id": 364270,
+      "game_name": "Sushi Cat: Tower Defense",
+      "file": "missing/S/364270-sushi-cat-tower-defense.json"
+    },
+    {
       "igdb_id": 320746,
       "game_name": "Sushi Catapult",
       "file": "missing/S/320746-sushi-catapult.json"
@@ -970460,6 +970700,11 @@
       "igdb_id": 220692,
       "game_name": "The Life of Arthur",
       "file": "missing/T/220692-the-life-of-arthur.json"
+    },
+    {
+      "igdb_id": 364228,
+      "game_name": "The Life of Buzludzha",
+      "file": "missing/T/364228-the-life-of-buzludzha.json"
     },
     {
       "igdb_id": 148987,
@@ -1110930,6 +1111175,11 @@
       "igdb_id": 60391,
       "game_name": "Xplore Health",
       "file": "missing/X/60391-xplore-health.json"
+    },
+    {
+      "igdb_id": 364273,
+      "game_name": "Xplorite",
+      "file": "missing/X/364273-xplorite.json"
     },
     {
       "igdb_id": 73169,
