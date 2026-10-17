@@ -8694,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogmageddon | 322799 | [322799-frogmageddon.json](./322799-frogmageddon.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
+| Frogmancer | 397021 | [397021-frogmancer.json](./397021-frogmancer.json) |
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
@@ -9659,6 +9660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Further and Rarer | 406917 | [406917-further-and-rarer.json](./406917-further-and-rarer.json) |
 | Further Beyond Fighting | 61121 | [61121-further-beyond-fighting.json](./61121-further-beyond-fighting.json) |
+| Further Data | 397030 | [397030-further-data.json](./397030-further-data.json) |
 | Further Skies | 321388 | [321388-further-skies.json](./321388-further-skies.json) |
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | FurtherTime 1.0 | 86038 | [86038-furthertime-1-0.json](./86038-furthertime-1-0.json) |
