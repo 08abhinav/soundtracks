@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
+| I Am You, I Am Everything. | 367189 | [367189-i-am-you-i-am-everything.json](./367189-i-am-you-i-am-everything.json) |
 | I Am Your Beast | 305180 | [305180-i-am-your-beast.json](./305180-i-am-your-beast.json) |
 | I Am Your Beast VR | 360781 | [360781-i-am-your-beast-vr.json](./360781-i-am-your-beast-vr.json) |
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
+| I hate trains | 367184 | [367184-i-hate-trains.json](./367184-i-hate-trains.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Hate Zombies | 232890 | [232890-i-hate-zombies.json](./232890-i-hate-zombies.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
