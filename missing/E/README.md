@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Soul | 23651 | [23651-echo-of-soul.json](./23651-echo-of-soul.json) |
 | Echo of the DarkZone | 374949 | [374949-echo-of-the-darkzone.json](./374949-echo-of-the-darkzone.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
+| Echo of the Walls | 379179 | [379179-echo-of-the-walls.json](./379179-echo-of-the-walls.json) |
 | Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
