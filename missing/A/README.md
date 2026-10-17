@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
+| Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
+| Ace of Space | 376841 | [376841-ace-of-space.json](./376841-ace-of-space.json) |
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
@@ -2063,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapt | 118085 | [118085-adapt.json](./118085-adapt.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
+| Adapta Solva | 376842 | [376842-adapta-solva.json](./376842-adapta-solva.json) |
 | AdaptaTank | 143930 | [143930-adaptatank.json](./143930-adaptatank.json) |
 | Adaptory | 222870 | [222870-adaptory.json](./222870-adaptory.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
@@ -2764,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | Aetherift | 271668 | [271668-aetherift.json](./271668-aetherift.json) |
+| Aetherion | 376843 | [376843-aetherion.json](./376843-aetherion.json) |
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
@@ -2860,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
+| After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
 | After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
@@ -8118,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
+| Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
 | Appel | 381201 | [381201-appel.json](./381201-appel.json) |
@@ -10943,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
 | Asteroids | 319568 | [319568-asteroids.json](./319568-asteroids.json) |
+| Asteroids | 376807 | [376807-asteroids.json](./376807-asteroids.json) |
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
@@ -12118,6 +12125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
+| Autobahn Racing | 376805 | [376805-autobahn-racing.json](./376805-autobahn-racing.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
 | Autobahn Raser II | 210276 | [210276-autobahn-raser-ii.json](./210276-autobahn-raser-ii.json) |
 | Autobahn Raser III | 210277 | [210277-autobahn-raser-iii.json](./210277-autobahn-raser-iii.json) |
