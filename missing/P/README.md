@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
+| Pink Carnations | 398811 | [398811-pink-carnations.json](./398811-pink-carnations.json) |
 | Pink Dot Blue Dot | 84822 | [84822-pink-dot-blue-dot.json](./84822-pink-dot-blue-dot.json) |
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
@@ -8252,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Tournament | 80399 | [80399-poker-tournament.json](./80399-poker-tournament.json) |
 | Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
+| Poker Town | 398819 | [398819-poker-town.json](./398819-poker-town.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker With Bob | 22102 | [22102-poker-with-bob.json](./22102-poker-with-bob.json) |
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
