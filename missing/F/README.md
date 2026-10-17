@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fio: Figure It Out! | 186584 | [186584-fio-figure-it-out.json](./186584-fio-figure-it-out.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
 | Fionna Fights: Adventure Time | 61138 | [61138-fionna-fights-adventure-time.json](./61138-fionna-fights-adventure-time.json) |
+| Fiora | 363686 | [363686-fiora.json](./363686-fiora.json) |
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
 | Fiore I: Daffodil | 153918 | [153918-fiore-i-daffodil.json](./153918-fiore-i-daffodil.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
