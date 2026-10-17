@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Verismo | 362986 | [362986-verismo.json](./362986-verismo.json) |
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
+| Veritas Tales: Witch of the Dark Castle | 399423 | [399423-veritas-tales-witch-of-the-dark-castle.json](./399423-veritas-tales-witch-of-the-dark-castle.json) |
 | Veritex | 81166 | [81166-veritex.json](./81166-veritex.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
