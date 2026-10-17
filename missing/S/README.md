@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
+| SAB Baseball | 388118 | [388118-sab-baseball.json](./388118-sab-baseball.json) |
 | Sabacc Cantina | 355502 | [355502-sabacc-cantina.json](./355502-sabacc-cantina.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Helper | 41491 | [41491-santas-helper.json](./41491-santas-helper.json) |
 | Santa's Hitlist CEO Edition | 347346 | [347346-santas-hitlist-ceo-edition.json](./347346-santas-hitlist-ceo-edition.json) |
 | Santa's Holiday | 127010 | [127010-santas-holiday.json](./127010-santas-holiday.json) |
+| Santa's Hunt | 388153 | [388153-santas-hunt.json](./388153-santas-hunt.json) |
 | Santa's Legacy | 391114 | [391114-santas-legacy.json](./391114-santas-legacy.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
@@ -4013,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
 | Sepak U: Sports Fighting Game | 404802 | [404802-sepak-u-sports-fighting-game.json](./404802-sepak-u-sports-fighting-game.json) |
 | Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
+| Separate Blue | 388135 | [388135-separate-blue.json](./388135-separate-blue.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separated Worlds | 279525 | [279525-separated-worlds.json](./279525-separated-worlds.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
@@ -4168,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Servant of the Lake | 350179 | [350179-servant-of-the-lake.json](./350179-servant-of-the-lake.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
+| Serve Tarantuala | 388141 | [388141-serve-tarantuala.json](./388141-serve-tarantuala.json) |
 | Serve The Cups | 276176 | [276176-serve-the-cups.json](./276176-serve-the-cups.json) |
 | Served | 135037 | [135037-served.json](./135037-served.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
@@ -9593,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Trials | 340361 | [340361-slime-trials.json](./340361-slime-trials.json) |
 | Slime Village VR | 187377 | [187377-slime-village-vr.json](./187377-slime-village-vr.json) |
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
+| Slime Volleyball: One Slime | 388119 | [388119-slime-volleyball-one-slime.json](./388119-slime-volleyball-one-slime.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime vs. Mushroom 2 | 225581 | [225581-slime-vs-mushroom-2.json](./225581-slime-vs-mushroom-2.json) |
 | Slime wants music! | 232004 | [232004-slime-wants-music.json](./232004-slime-wants-music.json) |
@@ -15734,6 +15739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
 | Spongebob Boo or Boom | 307863 | [307863-spongebob-boo-or-boom.json](./307863-spongebob-boo-or-boom.json) |
+| SpongeBob Excludes Squidward | 388139 | [388139-spongebob-excludes-squidward.json](./388139-spongebob-excludes-squidward.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
@@ -17470,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Trench Run | 21743 | [21743-star-wars-trench-run.json](./21743-star-wars-trench-run.json) |
 | Star Wars: Trials on Tatooine | 34982 | [34982-star-wars-trials-on-tatooine.json](./34982-star-wars-trials-on-tatooine.json) |
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
+| Star Wars: X-Wing - Collector's CD-ROM | 388148 | [388148-star-wars-x-wing-collectors-cd-rom.json](./388148-star-wars-x-wing-collectors-cd-rom.json) |
 | Star Wars: X-Wing Alliance | 169 | [169-star-wars-x-wing-alliance.json](./169-star-wars-x-wing-alliance.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
