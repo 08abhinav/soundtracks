@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:56:03.740Z",
-  "total_soundtracks": 2004,
+  "generated_at": "2026-10-17T11:56:11.116Z",
+  "total_soundtracks": 2005,
   "games": [
     {
       "igdb_id": 7522,
@@ -11767,6 +11767,20 @@
         {
           "album_name": "LittleBigPlanet 3 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5nwloVlGgbHIu4noBGGBf7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115421,
+      "game_name": "Littlewood",
+      "game_url": "https://ostdb.net/games/littlewood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735e88704303627227f099e354",
+      "albums": [
+        {
+          "album_name": "Littlewood (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1QU5JAN7UKL35beHhiEGe7",
           "apple_music_url": "",
           "album_link_url": ""
         }
