@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One: Secret Empire | 298657 | [298657-one-secret-empire.json](./298657-one-secret-empire.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
+| One/Iro | 363666 | [363666-one-iro.json](./363666-one-iro.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
