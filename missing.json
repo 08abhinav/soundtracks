@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:03:39.288Z",
-  "total_missing": 224162,
+  "generated_at": "2026-10-17T15:07:20.026Z",
+  "total_missing": 224156,
   "games": [
     {
       "igdb_id": 191680,
@@ -259360,11 +259360,6 @@
       "igdb_id": 341698,
       "game_name": "Doom",
       "file": "missing/D/341698-doom.json"
-    },
-    {
-      "igdb_id": 76217,
-      "game_name": "Doom",
-      "file": "missing/D/76217-doom.json"
     },
     {
       "igdb_id": 13168,
@@ -532915,11 +532910,6 @@
       "igdb_id": 66556,
       "game_name": "Locomotive 2",
       "file": "missing/L/66556-locomotive-2.json"
-    },
-    {
-      "igdb_id": 1459,
-      "game_name": "LocoRoco",
-      "file": "missing/L/1459-locoroco.json"
     },
     {
       "igdb_id": 1461,
@@ -855947,11 +855937,6 @@
       "file": "missing/S/201781-soulstice-deluxe-edition.json"
     },
     {
-      "igdb_id": 210585,
-      "game_name": "Soulstone Survivors",
-      "file": "missing/S/210585-soulstone-survivors.json"
-    },
-    {
       "igdb_id": 173212,
       "game_name": "Soulstopia: Phi",
       "file": "missing/S/173212-soulstopia-phi.json"
@@ -881840,11 +881825,6 @@
       "igdb_id": 105102,
       "game_name": "Steamulator 2019",
       "file": "missing/S/105102-steamulator-2019.json"
-    },
-    {
-      "igdb_id": 232908,
-      "game_name": "SteamWorld Build",
-      "file": "missing/S/232908-steamworld-build.json"
     },
     {
       "igdb_id": 279037,
@@ -949307,11 +949287,6 @@
       "file": "missing/T/23756-the-elder-scrolls-travels-stormhold.json"
     },
     {
-      "igdb_id": 37034,
-      "game_name": "The Elder Scrolls V: Skyrim",
-      "file": "missing/T/37034-the-elder-scrolls-v-skyrim.json"
-    },
-    {
       "igdb_id": 165192,
       "game_name": "The Elder Scrolls V: Skyrim - Anniversary Edition",
       "file": "missing/T/165192-the-elder-scrolls-v-skyrim-anniversary-edition.json"
@@ -1005720,11 +1005695,6 @@
       "igdb_id": 194909,
       "game_name": "Toki Tori",
       "file": "missing/T/194909-toki-tori.json"
-    },
-    {
-      "igdb_id": 2317,
-      "game_name": "Toki Tori",
-      "file": "missing/T/2317-toki-tori.json"
     },
     {
       "igdb_id": 2351,
