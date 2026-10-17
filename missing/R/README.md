@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
+| Reawait | 410490 | [410490-reawait.json](./410490-reawait.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
 | Rebaixados Elite Brasil | 282828 | [282828-rebaixados-elite-brasil.json](./282828-rebaixados-elite-brasil.json) |
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
@@ -3402,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relirium: Iseki to Deai to Bouken to | 387347 | [387347-relirium-iseki-to-deai-to-bouken-to.json](./387347-relirium-iseki-to-deai-to-bouken-to.json) |
 | Relive | 334323 | [334323-relive.json](./334323-relive.json) |
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
+| Relive the Fear: Perfect Neighbor | 410494 | [410494-relive-the-fear-perfect-neighbor.json](./410494-relive-the-fear-perfect-neighbor.json) |
 | Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
@@ -7616,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooky Moves | 208264 | [208264-rooky-moves.json](./208264-rooky-moves.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room | 293847 | [293847-room.json](./293847-room.json) |
+| Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
@@ -8192,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
+| RSVP | 410501 | [410501-rsvp.json](./410501-rsvp.json) |
 | RSweeps | 107081 | [107081-rsweeps.json](./107081-rsweeps.json) |
 | RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
 | RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
