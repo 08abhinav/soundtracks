@@ -5906,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americana Dawn | 65007 | [65007-americana-dawn.json](./65007-americana-dawn.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
+| Ameroth RPG | 411071 | [411071-ameroth-rpg.json](./411071-ameroth-rpg.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
 | Ameshidama | 361918 | [361918-ameshidama.json](./361918-ameshidama.json) |
@@ -10513,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
 | Assassin's Creed Shadows: Gold Edition | 301518 | [301518-assassins-creed-shadows-gold-edition.json](./301518-assassins-creed-shadows-gold-edition.json) |
 | Assassin's Creed Shadows: Limited Edition | 301517 | [301517-assassins-creed-shadows-limited-edition.json](./301517-assassins-creed-shadows-limited-edition.json) |
+| Assassin's Creed Shadows: Special Edition | 410946 | [410946-assassins-creed-shadows-special-edition.json](./410946-assassins-creed-shadows-special-edition.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: A Long Night | 399890 | [399890-assassins-creed-syndicate-a-long-night.json](./399890-assassins-creed-syndicate-a-long-night.json) |
 | Assassin's Creed Syndicate: Runaway Train | 399891 | [399891-assassins-creed-syndicate-runaway-train.json](./399891-assassins-creed-syndicate-runaway-train.json) |
