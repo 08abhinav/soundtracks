@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
 | Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
+| Tape Over: Night Shift | 391017 | [391017-tape-over-night-shift.json](./391017-tape-over-night-shift.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
 | Taro the Sneaky Ninja | 305476 | [305476-taro-the-sneaky-ninja.json](./305476-taro-the-sneaky-ninja.json) |
 | Taro's Quest | 48882 | [48882-taros-quest.json](./48882-taros-quest.json) |
+| Taromancy | 391111 | [391111-taromancy.json](./391111-taromancy.json) |
 | Tarot | 177381 | [177381-tarot.json](./177381-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
@@ -8569,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
+| The Last Market | 391098 | [391098-the-last-market.json](./391098-the-last-market.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
@@ -10819,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyraplex | 124082 | [124082-the-pyraplex.json](./124082-the-pyraplex.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
+| The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
 | The Quarry: Deluxe Edition | 197608 | [197608-the-quarry-deluxe-edition.json](./197608-the-quarry-deluxe-edition.json) |
@@ -14531,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
+| Thrill Drill | 391109 | [391109-thrill-drill.json](./391109-thrill-drill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
