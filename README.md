@@ -295,6 +295,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef08a3c90ea0337f76ec5b33" width="60" /> | [Company of Heroes 3](https://ostdb.net/games/company-of-heroes-3) | **Company of Heroes 3 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7vr3DmmAevzvyzwEIFuHc6) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/57/e2/c657e252-2b18-4a52-1e5f-584b08e5bea4/859729882554_cover.jpg/600x600bb.jpg" width="60" /> | [Conan Exiles](https://ostdb.net/games/conan-exiles) | **Conan Exiles (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/conan-exiles-original-soundtrack/1568919439?uo=4) · [Album](https://album.link/i/1568919439) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/04/b2/2a04b2f8-8a59-b64c-94f0-3f12caf2ba2c/196872353204.jpg/600x600bb.jpg" width="60" /> | [Concord](https://ostdb.net/games/concord) | **Concord (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/concord-original-video-game-soundtrack/1762647182?uo=4) · [Album](https://album.link/i/1762647182) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aad722fde45fb1428e68b5c4" width="60" /> | [Concrete Genie](https://ostdb.net/games/concrete-genie) | **Concrete Genie (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3K4wEc0r2DftDLJ70OtITW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c46aa686d99cca31f342f2e4" width="60" /> | [Control](https://ostdb.net/games/control) | **Control (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0cS6rif4qDxklIaFKME68N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e60670e59f2d32d8d4bf098c" width="60" /> | [Control Resonant](https://ostdb.net/games/control-resonant) | **CONTROL Resonant (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5LxLCAfp8l1USzUOSIbgHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731622bcd7b629c4f3f202e249" width="60" /> | [Cookie Clicker](https://ostdb.net/games/cookie-clicker) | **Cookie Clicker** · [Spotify](https://open.spotify.com/album/5VeKlnm3zx3y24HONzr6S9) |
@@ -1724,4 +1725,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2041 soundtracks · last updated 2026-10-17T15:10:25.710Z_
+_2042 soundtracks · last updated 2026-10-17T15:10:33.308Z_
