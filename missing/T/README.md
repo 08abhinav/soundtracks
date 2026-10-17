@@ -16563,6 +16563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Castle | 326731 | [326731-tiny-castle.json](./326731-tiny-castle.json) |
 | Tiny Cat Fishing | 390191 | [390191-tiny-cat-fishing.json](./390191-tiny-cat-fishing.json) |
 | Tiny Catcher | 405034 | [405034-tiny-catcher.json](./405034-tiny-catcher.json) |
+| Tiny Cats vs Toys | 407184 | [407184-tiny-cats-vs-toys.json](./407184-tiny-cats-vs-toys.json) |
 | Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
@@ -18577,6 +18578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
+| Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
 | Totally Safe Railway Co | 419170 | [419170-totally-safe-railway-co.json](./419170-totally-safe-railway-co.json) |
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
 | Totally Spies! | 359460 | [359460-totally-spies.json](./359460-totally-spies.json) |
@@ -22494,6 +22496,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
+| Truxton Extreme: Batsugun Ship + Music Pack | 407141 | [407141-truxton-extreme-batsugun-ship-music-pack.json](./407141-truxton-extreme-batsugun-ship-music-pack.json) |
+| Truxton Extreme: Truxton II Ship + Music Pack | 407139 | [407139-truxton-extreme-truxton-ii-ship-music-pack.json](./407139-truxton-extreme-truxton-ii-ship-music-pack.json) |
+| Truxton Extreme: Truxton Ship + Music Pack | 407140 | [407140-truxton-extreme-truxton-ship-music-pack.json](./407140-truxton-extreme-truxton-ship-music-pack.json) |
 | Truxton II | 293647 | [293647-truxton-ii.json](./293647-truxton-ii.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Truzzle | 161609 | [161609-truzzle.json](./161609-truzzle.json) |
