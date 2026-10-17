@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
+| Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
+| Cats vs Zombies II | 379651 | [379651-cats-vs-zombies-ii.json](./379651-cats-vs-zombies-ii.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Dogs | 365543 | [365543-cats-vs-dogs.json](./365543-cats-vs-dogs.json) |
 | Cats vs. Ghosts | 281981 | [281981-cats-vs-ghosts.json](./281981-cats-vs-ghosts.json) |
@@ -5102,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
 | Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
+| Chill Fishing | 379644 | [379644-chill-fishing.json](./379644-chill-fishing.json) |
 | Chill Fox | 368820 | [368820-chill-fox.json](./368820-chill-fox.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
@@ -8931,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
+| Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
@@ -11498,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
+| Crashout | 379722 | [379722-crashout.json](./379722-crashout.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
 | CrashOut Xtreme | 240715 | [240715-crashout-xtreme.json](./240715-crashout-xtreme.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
