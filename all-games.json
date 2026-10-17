@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:14.715Z",
-  "total_soundtracks": 2089,
+  "generated_at": "2026-10-17T15:36:22.320Z",
+  "total_soundtracks": 2090,
   "games": [
     {
       "igdb_id": 7522,
@@ -12508,6 +12508,20 @@
           "album_name": "Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1 & Tape 2",
           "spotify_url": "https://open.spotify.com/album/6Sp1bcggdbLYtSML5Qrxyy",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 12520,
+      "game_name": "Lovers in a Dangerous Spacetime",
+      "game_url": "https://ostdb.net/games/lovers-in-a-dangerous-spacetime",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730594232aa4ca779ed2d775b1",
+      "albums": [
+        {
+          "album_name": "Lovers in a Dangerous Spacetime (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7lCIuRb5u4LzZQAoaMKUCo",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
