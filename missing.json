@@ -3,7 +3,7 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:41:41.282Z",
+  "generated_at": "2026-10-17T11:51:23.639Z",
   "total_missing": 223647,
   "games": [
     {
@@ -430060,11 +430060,6 @@
       "igdb_id": 161237,
       "game_name": "Hiveswap Friendsim: Volume Two",
       "file": "missing/H/161237-hiveswap-friendsim-volume-two.json"
-    },
-    {
-      "igdb_id": 11631,
-      "game_name": "Hiveswap: Act 1",
-      "file": "missing/H/11631-hiveswap-act-1.json"
     },
     {
       "igdb_id": 125164,
@@ -1109120,6 +1109115,11 @@
       "igdb_id": 308415,
       "game_name": "Yuugao",
       "file": "missing/Y/308415-yuugao.json"
+    },
+    {
+      "igdb_id": 388325,
+      "game_name": "Yuugatou",
+      "file": "missing/Y/388325-yuugatou.json"
     },
     {
       "igdb_id": 60465,
