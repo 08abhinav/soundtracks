@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
 | Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zavod: Conveyor Logic | 298623 | [298623-zavod-conveyor-logic.json](./298623-zavod-conveyor-logic.json) |
+| Závody o jahody | 397107 | [397107-zavody-o-jahody.json](./397107-zavody-o-jahody.json) |
 | Zax: The Alien Hunter | 22013 | [22013-zax-the-alien-hunter.json](./22013-zax-the-alien-hunter.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
 | Zaxxon | 2753 | [2753-zaxxon.json](./2753-zaxxon.json) |
