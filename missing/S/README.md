@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
 | SaveKunkun | 336656 | [336656-savekunkun.json](./336656-savekunkun.json) |
+| Saven | 373265 | [373265-saven.json](./373265-saven.json) |
 | Saveseeker | 356279 | [356279-saveseeker.json](./356279-saveseeker.json) |
 | Savi's Tale: When White Petals Fall Like First Snow | 412929 | [412929-savis-tale-when-white-petals-fall-like-first-snow.json](./412929-savis-tale-when-white-petals-fall-like-first-snow.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
@@ -7544,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
+| Silktrails: Cats in the Grove 2 | 373271 | [373271-silktrails-cats-in-the-grove-2.json](./373271-silktrails-cats-in-the-grove-2.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
@@ -14992,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 7: Match 3 Puzzle | 166038 | [166038-spellarium-7-match-3-puzzle.json](./166038-spellarium-7-match-3-puzzle.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
 | Spellarium 9 | 237867 | [237867-spellarium-9.json](./237867-spellarium-9.json) |
+| Spellatro | 373285 | [373285-spellatro.json](./373285-spellatro.json) |
 | Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
@@ -18198,6 +18201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
+| Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
