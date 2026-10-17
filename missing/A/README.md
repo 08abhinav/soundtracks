@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
+| Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
