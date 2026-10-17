@@ -629,10 +629,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in London | 407532 | [407532-101-dogs-hidden-in-london.json](./407532-101-dogs-hidden-in-london.json) |
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
 | 101 Dogs Hidden in Miami | 407529 | [407529-101-dogs-hidden-in-miami.json](./407529-101-dogs-hidden-in-miami.json) |
+| 101 Dogs Hidden in Milan | 407182 | [407182-101-dogs-hidden-in-milan.json](./407182-101-dogs-hidden-in-milan.json) |
 | 101 Dogs Hidden in New Delhi | 407531 | [407531-101-dogs-hidden-in-new-delhi.json](./407531-101-dogs-hidden-in-new-delhi.json) |
 | 101 Dogs Hidden in New York | 407536 | [407536-101-dogs-hidden-in-new-york.json](./407536-101-dogs-hidden-in-new-york.json) |
 | 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
+| 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
@@ -2171,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Eyes | 1975 | [1975-8-eyes.json](./1975-8-eyes.json) |
+| 8 Hours Till Dawn | 407153 | [407153-8-hours-till-dawn.json](./407153-8-hours-till-dawn.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
