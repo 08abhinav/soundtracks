@@ -12528,7 +12528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
-| Sonic Superstars | 252478 | [252478-sonic-superstars.json](./252478-sonic-superstars.json) |
 | Sonic Superstars: Digital Deluxe Edition featuring LEGO | 263550 | [263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json](./263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json) |
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
@@ -25659,7 +25658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
-| System Shock | 18375 | [18375-system-shock.json](./18375-system-shock.json) |
 | System Shock VR | 413511 | [413511-system-shock-vr.json](./413511-system-shock-vr.json) |
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
