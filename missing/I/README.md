@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
+| Illumizzle: Finding the Lost Light | 368248 | [368248-illumizzle-finding-the-lost-light.json](./368248-illumizzle-finding-the-lost-light.json) |
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
 | Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
@@ -4615,6 +4616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
+| Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
+| Istoriya Bomzha | 368251 | [368251-istoriya-bomzha.json](./368251-istoriya-bomzha.json) |
 | iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
 | iStreet Basket Deluxe | 90863 | [90863-istreet-basket-deluxe.json](./90863-istreet-basket-deluxe.json) |
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
@@ -4836,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivanych vs Eared Beast | 114204 | [114204-ivanych-vs-eared-beast.json](./114204-ivanych-vs-eared-beast.json) |
 | IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
 | Ivaxion | 265051 | [265051-ivaxion.json](./265051-ivaxion.json) |
+| Iveri: The 1.000 Story | 368264 | [368264-iveri-the-1-000-story.json](./368264-iveri-the-1-000-story.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
