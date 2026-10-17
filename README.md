@@ -814,6 +814,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273483587d9073df60885738f9d" width="60" /> | [LittleBigPlanet](https://ostdb.net/games/littlebigplanet) | **LittleBigPlanet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/1a/3e/721a3e1e-b1a1-849c-54c9-747d6f1c310b/196872922295.jpg/600x600bb.jpg" width="60" /> | [LittleBigPlanet 2](https://ostdb.net/games/littlebigplanet-2) | **LittleBigPlanet 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1tZqXH48vp932kY9ZuHDbU) · [Apple Music](https://music.apple.com/us/album/littlebigplanet-2-original-game-soundtrack/1798272955) · [Album](https://album.link/i/1798272955) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfece20d4dde263abed658d5" width="60" /> | [LittleBigPlanet 3](https://ostdb.net/games/littlebigplanet-3) | **LittleBigPlanet 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5nwloVlGgbHIu4noBGGBf7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e88704303627227f099e354" width="60" /> | [Littlewood](https://ostdb.net/games/littlewood) | **Littlewood (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1QU5JAN7UKL35beHhiEGe7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cd229a097fd284700e2c25a" width="60" /> | [Live A Live](https://ostdb.net/games/live-a-live) | **LIVE A LIVE Original Soundtrack Re-Release** · [Spotify](https://open.spotify.com/album/6PMCmi6QQjdedrkFrPDrAT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cd229a097fd284700e2c25a" width="60" /> | [Live A Live](https://ostdb.net/games/live-a-live) | **LIVE A LIVE Original Soundtrack Re-Release** · [Spotify](https://open.spotify.com/album/6PMCmi6QQjdedrkFrPDrAT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737639e0d02c0923dfe9790070" width="60" /> | [Lone Survivor](https://ostdb.net/games/lone-survivor) | **Lone Survivor: Original Soundtrack** · [Spotify](https://open.spotify.com/album/4pxNf4Rk1q7gi3cOFWNoXD) |
@@ -1687,4 +1688,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2004 soundtracks · last updated 2026-10-17T11:56:03.740Z_
+_2005 soundtracks · last updated 2026-10-17T11:56:11.116Z_
