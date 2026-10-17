@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
+| Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
@@ -12073,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | Crime Zone | 262240 | [262240-crime-zone.json](./262240-crime-zone.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
+| Crimebot | 398261 | [398261-crimebot.json](./398261-crimebot.json) |
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
