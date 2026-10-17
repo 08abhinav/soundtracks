@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:24:21.364Z",
-  "total_missing": 224175,
+  "generated_at": "2026-10-17T15:27:50.566Z",
+  "total_missing": 224165,
   "games": [
     {
       "igdb_id": 191680,
@@ -42210,11 +42210,6 @@
       "igdb_id": 131785,
       "game_name": "Amnesia: Rebirth",
       "file": "missing/A/131785-amnesia-rebirth.json"
-    },
-    {
-      "igdb_id": 228258,
-      "game_name": "Amnesia: The Bunker",
-      "file": "missing/A/228258-amnesia-the-bunker.json"
     },
     {
       "igdb_id": 196001,
@@ -88785,11 +88780,6 @@
       "igdb_id": 166167,
       "game_name": "Battle Brigade",
       "file": "missing/B/166167-battle-brigade.json"
-    },
-    {
-      "igdb_id": 14394,
-      "game_name": "Battle Brothers",
-      "file": "missing/B/14394-battle-brothers.json"
     },
     {
       "igdb_id": 155069,
@@ -172410,11 +172400,6 @@
       "igdb_id": 72778,
       "game_name": "Citizen Siege",
       "file": "missing/C/72778-citizen-siege.json"
-    },
-    {
-      "igdb_id": 152271,
-      "game_name": "Citizen Sleeper",
-      "file": "missing/C/152271-citizen-sleeper.json"
     },
     {
       "igdb_id": 200501,
@@ -348857,11 +348842,6 @@
       "file": "missing/F/136175-forza-motorsport-5-game-of-the-year-edition.json"
     },
     {
-      "igdb_id": 36872,
-      "game_name": "Forza Motorsport 7",
-      "file": "missing/F/36872-forza-motorsport-7.json"
-    },
-    {
       "igdb_id": 84940,
       "game_name": "Forza Motorsport 7: Deluxe Edition",
       "file": "missing/F/84940-forza-motorsport-7-deluxe-edition.json"
@@ -436280,11 +436260,6 @@
       "igdb_id": 121592,
       "game_name": "Horizon Beyond",
       "file": "missing/H/121592-horizon-beyond.json"
-    },
-    {
-      "igdb_id": 96476,
-      "game_name": "Horizon Chase Turbo",
-      "file": "missing/H/96476-horizon-chase-turbo.json"
     },
     {
       "igdb_id": 170428,
@@ -568445,11 +568420,6 @@
       "igdb_id": 42498,
       "game_name": "Mecarobot Golf",
       "file": "missing/M/42498-mecarobot-golf.json"
-    },
-    {
-      "igdb_id": 405028,
-      "game_name": "Meccha Chameleon",
-      "file": "missing/M/405028-meccha-chameleon.json"
     },
     {
       "igdb_id": 72548,
@@ -941397,11 +941367,6 @@
       "file": "missing/T/309607-the-binding-of-isaac-rebirth.json"
     },
     {
-      "igdb_id": 109241,
-      "game_name": "The Binding of Isaac: Repentance",
-      "file": "missing/T/109241-the-binding-of-isaac-repentance.json"
-    },
-    {
       "igdb_id": 310643,
       "game_name": "The Binding of Isaac: Repentance",
       "file": "missing/T/310643-the-binding-of-isaac-repentance.json"
@@ -988657,11 +988622,6 @@
       "file": "missing/T/119753-they-are-beasts.json"
     },
     {
-      "igdb_id": 36616,
-      "game_name": "They Are Billions",
-      "file": "missing/T/36616-they-are-billions.json"
-    },
-    {
       "igdb_id": 272574,
       "game_name": "They Are Coming",
       "file": "missing/T/272574-they-are-coming.json"
@@ -1026762,11 +1026722,6 @@
       "file": "missing/T/129080-treis-zoes.json"
     },
     {
-      "igdb_id": 152203,
-      "game_name": "Trek to Yomi",
-      "file": "missing/T/152203-trek-to-yomi.json"
-    },
-    {
       "igdb_id": 234208,
       "game_name": "Trek to Yomi: Deluxe Edition",
       "file": "missing/T/234208-trek-to-yomi-deluxe-edition.json"
@@ -1028540,11 +1028495,6 @@
       "igdb_id": 152036,
       "game_name": "Trine 4: Melody of Mystery",
       "file": "missing/T/152036-trine-4-melody-of-mystery.json"
-    },
-    {
-      "igdb_id": 110846,
-      "game_name": "Trine 4: The Nightmare Prince",
-      "file": "missing/T/110846-trine-4-the-nightmare-prince.json"
     },
     {
       "igdb_id": 245390,
