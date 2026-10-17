@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
+| Tabletop Defense | 363674 | [363674-tabletop-defense.json](./363674-tabletop-defense.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
 | Tabletop Foosball | 409513 | [409513-tabletop-foosball.json](./409513-tabletop-foosball.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
@@ -7781,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
+| The House: A Maple Street Story | 363681 | [363681-the-house-a-maple-street-story.json](./363681-the-house-a-maple-street-story.json) |
 | The Housekeeper | 390039 | [390039-the-housekeeper.json](./390039-the-housekeeper.json) |
 | The Housekeeper | 398903 | [398903-the-housekeeper.json](./398903-the-housekeeper.json) |
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
@@ -14699,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
+| ThroneBreaker | 363662 | [363662-thronebreaker.json](./363662-thronebreaker.json) |
 | Thronefall | 236547 | [236547-thronefall.json](./236547-thronefall.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
