@@ -5568,7 +5568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
-| Amanda the Adventurer | 202601 | [202601-amanda-the-adventurer.json](./202601-amanda-the-adventurer.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
 | Amanda the Adventurer Trilogy Bundle | 410839 | [410839-amanda-the-adventurer-trilogy-bundle.json](./410839-amanda-the-adventurer-trilogy-bundle.json) |
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
