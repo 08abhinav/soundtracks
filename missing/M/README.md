@@ -9175,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimon | 17564 | [17564-minimon.json](./17564-minimon.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
+| Minimonos Flight | 383765 | [383765-minimonos-flight.json](./383765-minimonos-flight.json) |
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
 | MiniMow | 262590 | [262590-minimow.json](./262590-minimow.json) |
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
@@ -15489,6 +15490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
+| Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
 | Myth or Reality: Mystery of the Lake DLC | 268997 | [268997-myth-or-reality-mystery-of-the-lake-dlc.json](./268997-myth-or-reality-mystery-of-the-lake-dlc.json) |
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
