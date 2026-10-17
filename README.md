@@ -313,6 +313,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2ff2e55d0fb5c9c02f7860b" width="60" /> | [Coral Island](https://ostdb.net/games/coral-island) | **Coral Island (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5etXpYDldtmCfhfWzMOb42) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273977669ed90b9847c1e2e2f20" width="60" /> | [Coromon](https://ostdb.net/games/coromon) | **Coromon (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0D6Nb28CcvBZj5Q2Z5NxsT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386146eb1dac1389464b9a12e" width="60" /> | [Cosmic Star Heroine](https://ostdb.net/games/cosmic-star-heroine) | **Cosmic Star Heroine (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5b0MzKoPeFOQIkLk4HW8FI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d058dca50c5cc926b650b87c" width="60" /> | [Costume Quest](https://ostdb.net/games/costume-quest) | **Costume Quest: Original Soundtrack** · [Spotify](https://open.spotify.com/album/3TCVBRgRkhAZ0PeQ7tjjvf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b5eb9cd39e9fedfce94c38d" width="60" /> | [Counter-Strike 2](https://ostdb.net/games/counter-strike-2) | **Counter-Strike 2** · [Spotify](https://open.spotify.com/album/6T0iFELA3hoLXxdzk6cmD5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260538838801a22e47f4f48c" width="60" /> | [Crackdown 3](https://ostdb.net/games/crackdown-3) | **Crackdown 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0iSiF52TBMfPoMEC9giccQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c476a9f39fa358efad960035" width="60" /> | [Crash Bandicoot N. Sane Trilogy](https://ostdb.net/games/crash-bandicoot-n-sane-trilogy) | **Music from Crash Bandicoot N. Sane Trilogy (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2) |
@@ -1787,4 +1788,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2104 soundtracks · last updated 2026-10-17T15:40:33.541Z_
+_2105 soundtracks · last updated 2026-10-17T15:40:41.060Z_
