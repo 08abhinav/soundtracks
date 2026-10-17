@@ -9792,6 +9792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor MMO | 69511 | [69511-armor-mmo.json](./69511-armor-mmo.json) |
 | Armor of Doom | 308886 | [308886-armor-of-doom.json](./308886-armor-of-doom.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
+| Armor Stride | 369337 | [369337-armor-stride.json](./369337-armor-stride.json) |
 | Armor Valley | 66430 | [66430-armor-valley.json](./66430-armor-valley.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
@@ -10943,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
+| Asteroid Forward | 369344 | [369344-asteroid-forward.json](./369344-asteroid-forward.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
@@ -11918,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
+| Attenzione Pickpocket! | 369342 | [369342-attenzione-pickpocket.json](./369342-attenzione-pickpocket.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
