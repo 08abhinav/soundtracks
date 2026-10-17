@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 2: Torna - The Golden Country | 103340 | [103340-xenoblade-chronicles-2-torna-the-golden-country.json](./103340-xenoblade-chronicles-2-torna-the-golden-country.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
+| Xenoblade Chronicles 3 Randomizer | 380732 | [380732-xenoblade-chronicles-3-randomizer.json](./380732-xenoblade-chronicles-3-randomizer.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3: Special Edition | 198151 | [198151-xenoblade-chronicles-3-special-edition.json](./198151-xenoblade-chronicles-3-special-edition.json) |
