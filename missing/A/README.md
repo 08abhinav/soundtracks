@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
+| Aegis Protocol | 373278 | [373278-aegis-protocol.json](./373278-aegis-protocol.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
 | AliveZ | 327925 | [327925-alivez.json](./327925-alivez.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
+| Aliya: Timelink | 373257 | [373257-aliya-timelink.json](./373257-aliya-timelink.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
 | Alize | 399762 | [399762-alize.json](./399762-alize.json) |
