@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Must Run | 42824 | [42824-i-must-run.json](./42824-i-must-run.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
+| I Need to Fix My Dream Car (But I Work at a Junkyard) | 407176 | [407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json](./407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json) |
 | I of the Enemy | 222809 | [222809-i-of-the-enemy.json](./222809-i-of-the-enemy.json) |
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I open the harem in the last days | 154267 | [154267-i-open-the-harem-in-the-last-days.json](./154267-i-open-the-harem-in-the-last-days.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
+| Idle Knight | 407183 | [407183-idle-knight.json](./407183-idle-knight.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
 | Idle Land of Exile | 348849 | [348849-idle-land-of-exile.json](./348849-idle-land-of-exile.json) |
