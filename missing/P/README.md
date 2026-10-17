@@ -6968,7 +6968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
 | Playboy Manager | 68309 | [68309-playboy-manager.json](./68309-playboy-manager.json) |
-| Playboy: The Mansion | 2161 | [2161-playboy-the-mansion.json](./2161-playboy-the-mansion.json) |
 | Playboy: The Mansion - Gold Edition | 209367 | [209367-playboy-the-mansion-gold-edition.json](./209367-playboy-the-mansion-gold-edition.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
