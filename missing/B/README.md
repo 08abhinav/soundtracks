@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
+| Baba Yaga | 367181 | [367181-baba-yaga.json](./367181-baba-yaga.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Babala | 338755 | [338755-babala.json](./338755-babala.json) |
@@ -8245,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
 | Blue Night Laundromat | 322668 | [322668-blue-night-laundromat.json](./322668-blue-night-laundromat.json) |
+| Blue Notebook | 367159 | [367159-blue-notebook.json](./367159-blue-notebook.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
@@ -10137,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
 | Braid: Anniversary Edition | 136511 | [136511-braid-anniversary-edition.json](./136511-braid-anniversary-edition.json) |
 | Brain | 130707 | [130707-brain.json](./130707-brain.json) |
+| Brain | 367197 | [367197-brain.json](./367197-brain.json) |
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
@@ -11510,6 +11513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
+| BT Biplanes Online | 367187 | [367187-bt-biplanes-online.json](./367187-bt-biplanes-online.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Cooking On | 313982 | [313982-bts-cooking-on.json](./313982-bts-cooking-on.json) |
