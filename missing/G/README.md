@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
+| Garage: Tidy Up! | 414762 | [414762-garage-tidy-up.json](./414762-garage-tidy-up.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
 | Garaji | 415414 | [415414-garaji.json](./415414-garaji.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
@@ -5704,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
+| Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
