@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
+| Wanderdawn | 407164 | [407164-wanderdawn.json](./407164-wanderdawn.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer | 36866 | [36866-wanderer.json](./36866-wanderer.json) |
