@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
+| Mama | 403441 | [403441-mama.json](./403441-mama.json) |
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
+| Märchen Veil II | 403428 | [403428-marchen-veil-ii.json](./403428-marchen-veil-ii.json) |
 | Marchenkanna | 270034 | [270034-marchenkanna.json](./270034-marchenkanna.json) |
 | Marchers | 109160 | [109160-marchers.json](./109160-marchers.json) |
 | Marching Band Simulator | 223601 | [223601-marching-band-simulator.json](./223601-marching-band-simulator.json) |
@@ -10340,12 +10342,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat | 197576 | [197576-mojito-the-cat.json](./197576-mojito-the-cat.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
+| Mojito the Cat: Christmas | 403424 | [403424-mojito-the-cat-christmas.json](./403424-mojito-the-cat-christmas.json) |
 | Mojito the Cat: Christmas Edition | 231256 | [231256-mojito-the-cat-christmas-edition.json](./231256-mojito-the-cat-christmas-edition.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
+| Mojito the Cat: Halloween | 403425 | [403425-mojito-the-cat-halloween.json](./403425-mojito-the-cat-halloween.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
