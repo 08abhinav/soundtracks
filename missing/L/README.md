@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
 | L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
+| La Artesana de Rostros | 388786 | [388786-la-artesana-de-rostros.json](./388786-la-artesana-de-rostros.json) |
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines 98 | 367530 | [367530-lines-98.json](./367530-lines-98.json) |
+| Lines 98 Classic | 388792 | [388792-lines-98-classic.json](./388792-lines-98-classic.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
