@@ -5105,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
+| Bienvenue au club Tom-Tom et Nana | 379190 | [379190-bienvenue-au-club-tom-tom-et-nana.json](./379190-bienvenue-au-club-tom-tom-et-nana.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost Breakout | 40606 | [40606-bifrost-breakout.json](./40606-bifrost-breakout.json) |
@@ -12308,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
+| Bunny Space Odyssey: FlopHop | 379177 | [379177-bunny-space-odyssey-flophop.json](./379177-bunny-space-odyssey-flophop.json) |
 | Bunny Sudoku | 126330 | [126330-bunny-sudoku.json](./126330-bunny-sudoku.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
