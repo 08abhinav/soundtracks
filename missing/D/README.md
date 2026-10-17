@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanceGirl: Swimwear | 368067 | [368067-dancegirl-swimwear.json](./368067-dancegirl-swimwear.json) |
 | DanceMasters | 20121 | [20121-dancemasters.json](./20121-dancemasters.json) |
 | DanceMela | 346162 | [346162-dancemela.json](./346162-dancemela.json) |
+| Dancers | 411399 | [411399-dancers.json](./411399-dancers.json) |
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances and Girls | 160084 | [160084-dances-and-girls.json](./160084-dances-and-girls.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
+| Dark Star | 411651 | [411651-dark-star.json](./411651-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
@@ -9003,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
 | Doom 2: The Way We Remember It | 252032 | [252032-doom-2-the-way-we-remember-it.json](./252032-doom-2-the-way-we-remember-it.json) |
 | Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
+| Doom 3: 2553 | 411719 | [411719-doom-3-2553.json](./411719-doom-3-2553.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 260027 | [260027-doom-3-resurrection-of-evil.json](./260027-doom-3-resurrection-of-evil.json) |
