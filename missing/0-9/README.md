@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | !Sqrxz! | 62643 | [62643-sqrxz.json](./62643-sqrxz.json) |
 | ¡Alla tú!: juego interactivo de DVD | 319740 | [319740-alla-tu-juego-interactivo-de-dvd.json](./319740-alla-tu-juego-interactivo-de-dvd.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
+| ¡Tú decides! | 411369 | [411369-tu-decides.json](./411369-tu-decides.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ¿ Y ? A Short Memoir Told in Bits | 381331 | [381331-y-a-short-memoir-told-in-bits.json](./381331-y-a-short-memoir-told-in-bits.json) |
 | ¿Me verán? | 401164 | [401164-me-veran.json](./401164-me-veran.json) |
