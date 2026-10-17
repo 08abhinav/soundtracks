@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:51:03.573Z",
-  "total_soundtracks": 2121,
+  "generated_at": "2026-10-17T15:51:11.136Z",
+  "total_soundtracks": 2122,
   "games": [
     {
       "igdb_id": 7522,
@@ -14780,6 +14780,20 @@
           "album_name": "Need for Speed: The Run",
           "spotify_url": "https://open.spotify.com/album/5UZkKCQFxHhvCKTOIlwhDm",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 219442,
+      "game_name": "Need for Speed: Unbound",
+      "game_url": "https://ostdb.net/games/need-for-speed-unbound",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273988f0fc78ee9b8710780be81",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Unbound (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7xLyQXqKOix3czQCjrc1tF",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
