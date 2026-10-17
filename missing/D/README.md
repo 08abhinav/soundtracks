@@ -6371,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Combat Simulator: Combined Arms | 79380 | [79380-digital-combat-simulator-combined-arms.json](./79380-digital-combat-simulator-combined-arms.json) |
 | Digital Combat Simulator: MiG-21Bis Fishbed | 76457 | [76457-digital-combat-simulator-mig-21bis-fishbed.json](./76457-digital-combat-simulator-mig-21bis-fishbed.json) |
 | Digital Combat Simulator: P-51D Mustang | 79381 | [79381-digital-combat-simulator-p-51d-mustang.json](./79381-digital-combat-simulator-p-51d-mustang.json) |
+| Digital Creative Framework | 379655 | [379655-digital-creative-framework.json](./379655-digital-creative-framework.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
@@ -6889,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
+| Dirty Beastly Muscles | 379650 | [379650-dirty-beastly-muscles.json](./379650-dirty-beastly-muscles.json) |
 | Dirty Birdy: An Evil Minded Rhyme Game | 101429 | [101429-dirty-birdy-an-evil-minded-rhyme-game.json](./101429-dirty-birdy-an-evil-minded-rhyme-game.json) |
 | Dirty Bomb | 1902 | [1902-dirty-bomb.json](./1902-dirty-bomb.json) |
 | Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
@@ -6900,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Fighter 1 | 46491 | [46491-dirty-fighter-1.json](./46491-dirty-fighter-1.json) |
 | Dirty Fighter 2 | 43152 | [43152-dirty-fighter-2.json](./43152-dirty-fighter-2.json) |
+| Dirty Girls | 379648 | [379648-dirty-girls.json](./379648-dirty-girls.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty Harry | 78566 | [78566-dirty-harry.json](./78566-dirty-harry.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
@@ -10857,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
+| Draughts | 379618 | [379618-draughts.json](./379618-draughts.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
@@ -11015,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream | 3104 | [3104-dream.json](./3104-dream.json) |
+| Dream | 379649 | [379649-dream.json](./379649-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Abyss: Survivors | 346560 | [346560-dream-abyss-survivors.json](./346560-dream-abyss-survivors.json) |
