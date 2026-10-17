@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
+| Carrot Kingdom | 387160 | [387160-carrot-kingdom.json](./387160-carrot-kingdom.json) |
 | Carrot Kingdom! | 401798 | [401798-carrot-kingdom.json](./401798-carrot-kingdom.json) |
 | Carrot Munch | 116456 | [116456-carrot-munch.json](./116456-carrot-munch.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
+| Celestial Ascend | 387108 | [387108-celestial-ascend.json](./387108-celestial-ascend.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
@@ -4315,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
+| Chasing the Dawn | 387140 | [387140-chasing-the-dawn.json](./387140-chasing-the-dawn.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the Unseen | 223414 | [223414-chasing-the-unseen.json](./223414-chasing-the-unseen.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
@@ -4993,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chihiro Himukai Always Walks Away | 159136 | [159136-chihiro-himukai-always-walks-away.json](./159136-chihiro-himukai-always-walks-away.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
+| Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
 | Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
@@ -8729,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat in the Void | 419328 | [419328-combat-in-the-void.json](./419328-combat-in-the-void.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
 | Combat Instinct | 74232 | [74232-combat-instinct.json](./74232-combat-instinct.json) |
+| Combat Instinct 3 | 387110 | [387110-combat-instinct-3.json](./387110-combat-instinct-3.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Kart | 265522 | [265522-combat-kart.json](./265522-combat-kart.json) |
@@ -10767,6 +10772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter Spell | 35703 | [35703-counter-spell.json](./35703-counter-spell.json) |
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
+| Counter Terror | 387112 | [387112-counter-terror.json](./387112-counter-terror.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
