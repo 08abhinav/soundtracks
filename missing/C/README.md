@@ -13547,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
+| Cuber | 365458 | [365458-cuber.json](./365458-cuber.json) |
 | Cuber 2: Ice Age Remake | 256310 | [256310-cuber-2-ice-age-remake.json](./256310-cuber-2-ice-age-remake.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
