@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Bay Resort | 105363 | [105363-waifu-bay-resort.json](./105363-waifu-bay-resort.json) |
 | Waifu Beach Bar | 383553 | [383553-waifu-beach-bar.json](./383553-waifu-beach-bar.json) |
 | Waifu Breaker | 164861 | [164861-waifu-breaker.json](./164861-waifu-breaker.json) |
+| Waifu Bubble | 414124 | [414124-waifu-bubble.json](./414124-waifu-bubble.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Bunny Club | 384716 | [384716-waifu-bunny-club.json](./384716-waifu-bunny-club.json) |
 | Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
