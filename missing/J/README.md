@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
 | Jianghu Diary | 340893 | [340893-jianghu-diary.json](./340893-jianghu-diary.json) |
 | JiangHu Record of Another World | 120707 | [120707-jianghu-record-of-another-world.json](./120707-jianghu-record-of-another-world.json) |
+| Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare Scare Jump | 407180 | [407180-jumpscare-scare-jump.json](./407180-jumpscare-scare-jump.json) |
 | Jumpscare Simulator | 337568 | [337568-jumpscare-simulator.json](./337568-jumpscare-simulator.json) |
+| Jumpscare Storey Loop | 395757 | [395757-jumpscare-storey-loop.json](./395757-jumpscare-storey-loop.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
