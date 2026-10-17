@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:50:34.220Z",
-  "total_soundtracks": 2117,
+  "generated_at": "2026-10-17T15:50:42.034Z",
+  "total_soundtracks": 2118,
   "games": [
     {
       "igdb_id": 7522,
@@ -6587,6 +6587,20 @@
         {
           "album_name": "Drakengard 3 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4FNAsVcqKs7stQCHnpu7SC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1962,
+      "game_name": "Dreamfall Chapters",
+      "game_url": "https://ostdb.net/games/dreamfall-chapters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c210b5df931cc06c5c1a724f",
+      "albums": [
+        {
+          "album_name": "Dreamfall Chapters (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2RlsC44qWF5C5YWt39g43R",
           "apple_music_url": "",
           "album_link_url": ""
         }
