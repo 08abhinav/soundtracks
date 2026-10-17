@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.O.P.O.T.A | 246829 | [246829-g-o-p-o-t-a.json](./246829-g-o-p-o-t-a.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G.R.E.G.: The Generally Really Easy Game | 310077 | [310077-g-r-e-g-the-generally-really-easy-game.json](./310077-g-r-e-g-the-generally-really-easy-game.json) |
+| G'Luck! | 402865 | [402865-gluck.json](./402865-gluck.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 3 | 23713 | [23713-g1-jockey-3.json](./23713-g1-jockey-3.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gebinden | 387616 | [387616-gebinden.json](./387616-gebinden.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
+| Gecko Shuffle | 402846 | [402846-gecko-shuffle.json](./402846-gecko-shuffle.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
@@ -6942,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
 | Grundschule Deutsch | 91624 | [91624-grundschule-deutsch.json](./91624-grundschule-deutsch.json) |
+| Grundschule Lernspaß mit Hexe Lilli: Mathematik Klasse 1+2 | 403069 | [403069-grundschule-lernspa-mit-hexe-lilli-mathematik-klasse-1-2.json](./403069-grundschule-lernspa-mit-hexe-lilli-mathematik-klasse-1-2.json) |
 | Grundschule Mathematik | 91622 | [91622-grundschule-mathematik.json](./91622-grundschule-mathematik.json) |
 | Grundschule Sachkunde | 91620 | [91620-grundschule-sachkunde.json](./91620-grundschule-sachkunde.json) |
 | Gruniożerca | 195503 | [195503-gruniozerca.json](./195503-gruniozerca.json) |
