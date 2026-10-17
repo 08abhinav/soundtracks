@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophe Escape | 101935 | [101935-catastrophe-escape.json](./101935-catastrophe-escape.json) |
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
+| CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
@@ -10530,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
+| Cosmic Maid Café | 381305 | [381305-cosmic-maid-cafe.json](./381305-cosmic-maid-cafe.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
 | Cosmic Mechanic | 193687 | [193687-cosmic-mechanic.json](./193687-cosmic-mechanic.json) |
@@ -14598,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
+| Cygnus Leapt | 381395 | [381395-cygnus-leapt.json](./381395-cygnus-leapt.json) |
 | Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
 | Cylinder Battle | 176730 | [176730-cylinder-battle.json](./176730-cylinder-battle.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
