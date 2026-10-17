@@ -6360,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
 | Pizza Express | 35121 | [35121-pizza-express.json](./35121-pizza-express.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
+| Pizza for Creeps | 371552 | [371552-pizza-for-creeps.json](./371552-pizza-for-creeps.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
@@ -7622,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
 | PointlessQuest | 406638 | [406638-pointlessquest.json](./406638-pointlessquest.json) |
+| PointWorks | 371555 | [371555-pointworks.json](./371555-pointworks.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
 | Poipoil's Adventure | 82724 | [82724-poipoils-adventure.json](./82724-poipoils-adventure.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
@@ -10189,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primarch | 238939 | [238939-primarch.json](./238939-primarch.json) |
 | Primary | 200922 | [200922-primary.json](./200922-primary.json) |
 | Primary Earth | 176194 | [176194-primary-earth.json](./176194-primary-earth.json) |
+| Primary Exit | 371541 | [371541-primary-exit.json](./371541-primary-exit.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
@@ -10405,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess Witches Excellent | 410953 | [410953-princess-witches-excellent.json](./410953-princess-witches-excellent.json) |
 | Princess x Audience | 291706 | [291706-princess-x-audience.json](./291706-princess-x-audience.json) |
+| Princess x Princess | 371578 | [371578-princess-x-princess.json](./371578-princess-x-princess.json) |
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
 | Princess.Loot.Pixel.Again | 34129 | [34129-princess-loot-pixel-again.json](./34129-princess-loot-pixel-again.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
@@ -10425,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
+| Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
