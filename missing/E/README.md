@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
 | Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
+| Edge on Truth | 397008 | [397008-edge-on-truth.json](./397008-edge-on-truth.json) |
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
