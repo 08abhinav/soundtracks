@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jìgěi Míngrì de Xīwàng | 115581 | [115581-jigei-mingri-de-xiwang.json](./115581-jigei-mingri-de-xiwang.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigenro | 402443 | [402443-jigenro.json](./402443-jigenro.json) |
+| Jiggly Strike | 373798 | [373798-jiggly-strike.json](./373798-jiggly-strike.json) |
 | Jiggly Zone | 250524 | [250524-jiggly-zone.json](./250524-jiggly-zone.json) |
 | Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
