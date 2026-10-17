@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Last Ronin | 261148 | [261148-teenage-mutant-ninja-turtles-the-last-ronin.json](./261148-teenage-mutant-ninja-turtles-the-last-ronin.json) |
+| Teenage Mutant Ninja Turtles: The Legend Returns | 379624 | [379624-teenage-mutant-ninja-turtles-the-legend-returns.json](./379624-teenage-mutant-ninja-turtles-the-legend-returns.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
@@ -3508,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
 | Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
 | Tetra Quest | 69493 | [69493-tetra-quest.json](./69493-tetra-quest.json) |
+| Tetra Rise | 379629 | [379629-tetra-rise.json](./379629-tetra-rise.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
@@ -17871,6 +17873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
 | Tomb Explorer VR | 204422 | [204422-tomb-explorer-vr.json](./204422-tomb-explorer-vr.json) |
+| Tomb Fetus | 379656 | [379656-tomb-fetus.json](./379656-tomb-fetus.json) |
 | Tomb Guard | 399901 | [399901-tomb-guard.json](./399901-tomb-guard.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
@@ -21847,6 +21850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
 | Trials of Cascadia | 226364 | [226364-trials-of-cascadia.json](./226364-trials-of-cascadia.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
+| Trials of Enkidu | 379717 | [379717-trials-of-enkidu.json](./379717-trials-of-enkidu.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of Harmony ~ Experimental Visual Novel | 122816 | [122816-trials-of-harmony-experimental-visual-novel.json](./122816-trials-of-harmony-experimental-visual-novel.json) |
