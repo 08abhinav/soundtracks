@@ -5823,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
+| Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
@@ -5885,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Collection | 147169 | [147169-shin-megami-tensei-devil-collection.json](./147169-shin-megami-tensei-devil-collection.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
+| Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Fiefdom of Death | 386457 | [386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json](./386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
@@ -10627,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assault | 66932 | [66932-sniper-assault.json](./66932-sniper-assault.json) |
 | Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
+| Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026 | 386546 | [386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json](./386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json) |
 | Sniper Elite | 3077 | [3077-sniper-elite.json](./3077-sniper-elite.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
@@ -17265,6 +17268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
 | Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
+| Star Trek: Voyager - Across the Unknown: Deluxe DLC | 386561 | [386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json](./386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json) |
+| Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
@@ -19750,6 +19755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
+| Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
@@ -20297,6 +20303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
+| Studio P | 386518 | [386518-studio-p.json](./386518-studio-p.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
 | StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
@@ -20654,6 +20661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
+| Succubus Hearts: Demon Love Redemption | 386560 | [386560-succubus-hearts-demon-love-redemption.json](./386560-succubus-hearts-demon-love-redemption.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Memories | 374785 | [374785-succubus-memories.json](./374785-succubus-memories.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
@@ -20944,6 +20952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Kinky Knight | 308492 | [308492-sugoi-girls-kinky-knight.json](./308492-sugoi-girls-kinky-knight.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
+| Sugoi Girls: Pretty Party | 386542 | [386542-sugoi-girls-pretty-party.json](./386542-sugoi-girls-pretty-party.json) |
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
