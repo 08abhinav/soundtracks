@@ -1284,6 +1284,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcec406a14284cb37371f958" width="60" /> | [Slay the Spire](https://ostdb.net/games/slay-the-spire) | **Slay the Spire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5AdlJGBQAioI4n8ZQCTG33) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/70/67/9b7067b7-f05b-3c92-db44-bc9c043edc70/196873675886.jpg/600x600bb.jpg" width="60" /> | [Sleep Awake](https://ostdb.net/games/sleep-awake) | **Sleep Awake (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4) · [Album](https://album.link/i/1853942095) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a624ac96f1cfb39602cf1b3" width="60" /> | [Sleeping Dogs](https://ostdb.net/games/sleeping-dogs) | **Sleeping Dogs (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/5EtvSNRBjcMAAaalUMYprz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349acb32e1b1b00cd2427e2df" width="60" /> | [Slender: The Arrival](https://ostdb.net/games/slender-the-arrival) | **Slender: The Arrival (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiGwOqnzzeVHcmmWtzPjl) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/46/da/5746dae2-9242-f00e-c99b-1e573cd1d3a0/859723295527_cover.jpg/600x600bb.jpg" width="60" /> | [Slime Rancher](https://ostdb.net/games/slime-rancher) | **Slime Rancher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5PDF3HjzryejKoNNCxOSs8) · [Apple Music](https://music.apple.com/us/album/slime-rancher-original-game-soundtrack/1292182475) · [Album](https://album.link/i/1292182475) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/86/17/858617f8-6e3e-2d96-61c0-8ad85f43fe8b/196872535068.jpg/600x600bb.jpg" width="60" /> | [Slitterhead](https://ostdb.net/games/slitterhead) | **Slitterhead (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4) · [Album](https://album.link/i/1784820377) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a51b317a77171e17cd6aa0a6" width="60" /> | [Smash Hit](https://ostdb.net/games/smash-hit) | **Smash Hit (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3jwyqoiT89YydTUvzONZYj) |
@@ -1751,4 +1752,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2068 soundtracks · last updated 2026-10-17T15:22:23.794Z_
+_2069 soundtracks · last updated 2026-10-17T15:22:31.027Z_
