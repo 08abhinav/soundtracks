@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
 | Marmalade Boy | 202585 | [202585-marmalade-boy.json](./202585-marmalade-boy.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
+| Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine of Sight | 101763 | [101763-mine-of-sight.json](./101763-mine-of-sight.json) |
+| Mine or Burn | 395280 | [395280-mine-or-burn.json](./395280-mine-or-burn.json) |
 | Mine or Die | 99115 | [99115-mine-or-die.json](./99115-mine-or-die.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
@@ -10254,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
+| Modularity | 395260 | [395260-modularity.json](./395260-modularity.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
@@ -10681,9 +10684,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Fruit Fight! | 366302 | [366302-monkey-fruit-fight.json](./366302-monkey-fruit-fight.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey Gems | 366443 | [366443-monkey-gems.json](./366443-monkey-gems.json) |
+| Monkey GO Happy | 395115 | [395115-monkey-go-happy.json](./395115-monkey-go-happy.json) |
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
+| Monkey GO Happy 2 | 395116 | [395116-monkey-go-happy-2.json](./395116-monkey-go-happy-2.json) |
+| Monkey GO Happy 3 | 395224 | [395224-monkey-go-happy-3.json](./395224-monkey-go-happy-3.json) |
+| Monkey GO Happy 4 | 395225 | [395225-monkey-go-happy-4.json](./395225-monkey-go-happy-4.json) |
 | Monkey GO Happy 5 | 401787 | [401787-monkey-go-happy-5.json](./401787-monkey-go-happy-5.json) |
 | Monkey GO Happy 6 | 401800 | [401800-monkey-go-happy-6.json](./401800-monkey-go-happy-6.json) |
+| Monkey GO Happy Marathon | 395226 | [395226-monkey-go-happy-marathon.json](./395226-monkey-go-happy-marathon.json) |
 | Monkey Hit | 147757 | [147757-monkey-hit.json](./147757-monkey-hit.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
