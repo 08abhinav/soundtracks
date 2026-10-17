@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:51:35.593Z",
-  "total_soundtracks": 2125,
+  "generated_at": "2026-10-17T23:30:25.764Z",
+  "total_soundtracks": 2126,
   "games": [
     {
       "igdb_id": 7522,
@@ -721,6 +721,20 @@
         {
           "album_name": "Agony (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/322KTHHaiM1VLqOxfSzQr6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115846,
+      "game_name": "AI Limit",
+      "game_url": "https://ostdb.net/games/ai-limit",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737530df3f69613942e037480c",
+      "albums": [
+        {
+          "album_name": "AI LIMIT (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Y8M4SdL9IMyLlPdqosb5D",
           "apple_music_url": "",
           "album_link_url": ""
         }
