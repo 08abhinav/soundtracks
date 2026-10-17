@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
+| Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | IncrementalOS | 421841 | [421841-incrementalos.json](./421841-incrementalos.json) |
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
+| Incretyper | 385428 | [385428-incretyper.json](./385428-incretyper.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
@@ -2680,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
+| Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
