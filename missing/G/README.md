@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
 | Ghost Trick: Phantom Detective | 236660 | [236660-ghost-trick-phantom-detective.json](./236660-ghost-trick-phantom-detective.json) |
+| Ghost Truck: Death Arena | 415864 | [415864-ghost-truck-death-arena.json](./415864-ghost-truck-death-arena.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
 | Ghost Vibration | 43420 | [43420-ghost-vibration.json](./43420-ghost-vibration.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
 | Good Intentions | 54070 | [54070-good-intentions.json](./54070-good-intentions.json) |
+| Good Job | 416125 | [416125-good-job.json](./416125-good-job.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
@@ -6634,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris: Collector's Edition | 159211 | [159211-gris-collectors-edition.json](./159211-gris-collectors-edition.json) |
 | Grisaia no Kajitsu: Side Episode | 145401 | [145401-grisaia-no-kajitsu-side-episode.json](./145401-grisaia-no-kajitsu-side-episode.json) |
+| Grisaia no Shin Kajitsu: Shuuketsu no Hyakka | 415853 | [415853-grisaia-no-shin-kajitsu-shuuketsu-no-hyakka.json](./415853-grisaia-no-shin-kajitsu-shuuketsu-no-hyakka.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 | 142700 | [142700-grisaia-phantom-trigger-5-5.json](./142700-grisaia-phantom-trigger-5-5.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
