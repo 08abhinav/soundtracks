@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
 | Catting Over It | 277262 | [277262-catting-over-it.json](./277262-catting-over-it.json) |
+| Cattle Admission Challenge | 367152 | [367152-cattle-admission-challenge.json](./367152-cattle-admission-challenge.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
@@ -13700,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cucumber Defense VR | 126947 | [126947-cucumber-defense-vr.json](./126947-cucumber-defense-vr.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
+| Cuddly Cuburt | 367195 | [367195-cuddly-cuburt.json](./367195-cuddly-cuburt.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
@@ -14008,6 +14010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
+| Cursed Loop | 367157 | [367157-cursed-loop.json](./367157-cursed-loop.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
 | Cursed Meal | 388808 | [388808-cursed-meal.json](./388808-cursed-meal.json) |
