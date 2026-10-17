@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changes | 23934 | [23934-changes.json](./23934-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
+| Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
 | Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
@@ -11369,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
+| Crash Bandicoot: Time to Rumble Bundle | 385410 | [385410-crash-bandicoot-time-to-rumble-bundle.json](./385410-crash-bandicoot-time-to-rumble-bundle.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
@@ -12408,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronus' Tomb: First Quest | 419368 | [419368-cronus-tomb-first-quest.json](./419368-cronus-tomb-first-quest.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
+| Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooked Waters | 96273 | [96273-crooked-waters.json](./96273-crooked-waters.json) |
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
