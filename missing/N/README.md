@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
 | Noël: La Neige | 107619 | [107619-noel-la-neige.json](./107619-noel-la-neige.json) |
+| Noël: La Niege Special | 377947 | [377947-noel-la-niege-special.json](./377947-noel-la-niege-special.json) |
 | Noel: Not Digital | 107620 | [107620-noel-not-digital.json](./107620-noel-not-digital.json) |
 | NoEL: Nothing on Elysion Line | 237253 | [237253-noel-nothing-on-elysion-line.json](./237253-noel-nothing-on-elysion-line.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
