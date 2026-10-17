@@ -5062,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack | 170325 | [170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json](./170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cathedral: Allison's Diary | 86423 | [86423-the-cathedral-allisons-diary.json](./86423-the-cathedral-allisons-diary.json) |
+| The Cats of Monte Cristo | 391621 | [391621-the-cats-of-monte-cristo.json](./391621-the-cats-of-monte-cristo.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cauldron Kids: The Summoning of Mr. Vermicelli | 270879 | [270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json](./270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
