@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
 | Beast Breaker | 145426 | [145426-beast-breaker.json](./145426-beast-breaker.json) |
+| Beast Bumpers | 398907 | [398907-beast-bumpers.json](./398907-beast-bumpers.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
 | Beast Busters Featuring KoF | 60771 | [60771-beast-busters-featuring-kof.json](./60771-beast-busters-featuring-kof.json) |
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
