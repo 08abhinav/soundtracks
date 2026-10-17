@@ -3412,7 +3412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Kiss FD: Nanase After | 396021 | [396021-ai-kiss-fd-nanase-after.json](./396021-ai-kiss-fd-nanase-after.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
-| AI Limit | 115846 | [115846-ai-limit.json](./115846-ai-limit.json) |
 | AI Limit: Eirene's Furnace of War | 378528 | [378528-ai-limit-eirenes-furnace-of-war.json](./378528-ai-limit-eirenes-furnace-of-war.json) |
 | Ai Love | 368272 | [368272-ai-love.json](./368272-ai-love.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
@@ -7386,7 +7385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
-| Anno: Mutationem | 106980 | [106980-anno-mutationem.json](./106980-anno-mutationem.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
