@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
+| Scent of Ashes | 401712 | [401712-scent-of-ashes.json](./401712-scent-of-ashes.json) |
 | Scent of Greed | 273433 | [273433-scent-of-greed.json](./273433-scent-of-greed.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
 | Scents & Semiosis | 177432 | [177432-scents-and-semiosis.json](./177432-scents-and-semiosis.json) |
@@ -5452,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's Still Alive | 375613 | [375613-shes-still-alive.json](./375613-shes-still-alive.json) |
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
+| Shear Madness | 401921 | [401921-shear-madness.json](./401921-shear-madness.json) |
 | Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
 | Sheba: A New Dawn | 206424 | [206424-sheba-a-new-dawn.json](./206424-sheba-a-new-dawn.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
@@ -7430,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Dreams - Snowball | 39157 | [39157-silicon-dreams-snowball.json](./39157-silicon-dreams-snowball.json) |
 | Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
+| Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -9306,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
+| Slender Island | 401906 | [401906-slender-island.json](./401906-slender-island.json) |
 | Slender Man Origins 2: House of Slender | 223626 | [223626-slender-man-origins-2-house-of-slender.json](./223626-slender-man-origins-2-house-of-slender.json) |
 | Slender Man Origins 3: Abandoned School | 101428 | [101428-slender-man-origins-3-abandoned-school.json](./101428-slender-man-origins-3-abandoned-school.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
@@ -9414,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Together | 184401 | [184401-slide-together.json](./184401-slide-together.json) |
 | Slide Treasures: Lydia's Hunt | 311778 | [311778-slide-treasures-lydias-hunt.json](./311778-slide-treasures-lydias-hunt.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
+| Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
@@ -10798,6 +10803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
+| Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
@@ -13361,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
 | Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
+| Space Ace Assassin: Capital Galaxy | 401885 | [401885-space-ace-assassin-capital-galaxy.json](./401885-space-ace-assassin-capital-galaxy.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
@@ -18037,6 +18044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
+| Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
@@ -18615,13 +18623,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Galaxy Edition | 53670 | [53670-stellaris-galaxy-edition.json](./53670-stellaris-galaxy-edition.json) |
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
+| Stellaris: Infernals Species Pack | 401938 | [401938-stellaris-infernals-species-pack.json](./401938-stellaris-infernals-species-pack.json) |
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Nova Edition | 53671 | [53671-stellaris-nova-edition.json](./53671-stellaris-nova-edition.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids | 53669 | [53669-stellaris-plantoids.json](./53669-stellaris-plantoids.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
 | Stellaris: Rick The Cube Species Portrait | 298132 | [298132-stellaris-rick-the-cube-species-portrait.json](./298132-stellaris-rick-the-cube-species-portrait.json) |
+| Stellaris: Scenario Pack 1 | 401934 | [401934-stellaris-scenario-pack-1.json](./401934-stellaris-scenario-pack-1.json) |
+| Stellaris: Scenario Pack 2 | 401935 | [401935-stellaris-scenario-pack-2.json](./401935-stellaris-scenario-pack-2.json) |
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
+| Stellaris: Season 09 | 401936 | [401936-stellaris-season-09.json](./401936-stellaris-season-09.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
@@ -20414,6 +20426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subnautic Adventures | 87875 | [87875-subnautic-adventures.json](./87875-subnautic-adventures.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
+| Subnautica Deep Ocean Bundle | 401933 | [401933-subnautica-deep-ocean-bundle.json](./401933-subnautica-deep-ocean-bundle.json) |
 | Subnautilus: Underwater FPS | 88807 | [88807-subnautilus-underwater-fps.json](./88807-subnautilus-underwater-fps.json) |
 | Subnet | 80545 | [80545-subnet.json](./80545-subnet.json) |
 | Subnodule | 79587 | [79587-subnodule.json](./79587-subnodule.json) |
@@ -22504,6 +22517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sandbox | 313766 | [313766-super-mario-sandbox.json](./313766-super-mario-sandbox.json) |
 | Super Mario Sayajin Aventura | 265845 | [265845-super-mario-sayajin-aventura.json](./265845-super-mario-sayajin-aventura.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
+| Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
