@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
 | Addictaball | 14152 | [14152-addictaball.json](./14152-addictaball.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
+| Addiction Solitaire | 370437 | [370437-addiction-solitaire.json](./370437-addiction-solitaire.json) |
 | Addictive | 94660 | [94660-addictive.json](./94660-addictive.json) |
 | Addie no Okurimono: To Moze from Addie | 64903 | [64903-addie-no-okurimono-to-moze-from-addie.json](./64903-addie-no-okurimono-to-moze-from-addie.json) |
 | Addie Shen | 402432 | [402432-addie-shen.json](./402432-addie-shen.json) |
