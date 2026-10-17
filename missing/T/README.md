@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
+| Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bustling World | 286659 | [286659-the-bustling-world.json](./286659-the-bustling-world.json) |
 | The Butcher | 127149 | [127149-the-butcher.json](./127149-the-butcher.json) |
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
+| The Butler | 395292 | [395292-the-butler.json](./395292-the-butler.json) |
 | The Butterbies | 180097 | [180097-the-butterbies.json](./180097-the-butterbies.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Butterfly Sign: Human Error | 30543 | [30543-the-butterfly-sign-human-error.json](./30543-the-butterfly-sign-human-error.json) |
@@ -6899,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten World | 244348 | [244348-the-forgotten-world.json](./244348-the-forgotten-world.json) |
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
+| The Forsaken Anthology: Obsession | 395262 | [395262-the-forsaken-anthology-obsession.json](./395262-the-forsaken-anthology-obsession.json) |
 | The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
@@ -8160,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kars | 144732 | [144732-the-kars.json](./144732-the-kars.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
+| The Kathy Rain Saga | 395284 | [395284-the-kathy-rain-saga.json](./395284-the-kathy-rain-saga.json) |
 | The Katydids Incident | 203675 | [203675-the-katydids-incident.json](./203675-the-katydids-incident.json) |
 | The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
