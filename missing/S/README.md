@@ -10348,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
+| Smudge & The Moonees | 367174 | [367174-smudge-and-the-moonees.json](./367174-smudge-and-the-moonees.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
@@ -10973,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
 | Snowball Fight 2025 | 379038 | [379038-snowball-fight-2025.json](./379038-snowball-fight-2025.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
+| SnowBall FPS | 367149 | [367149-snowball-fps.json](./367149-snowball-fps.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
@@ -16888,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
+| Standball | 367154 | [367154-standball.json](./367154-standball.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
@@ -19534,6 +19537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
 | Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
+| Storycraft | 367158 | [367158-storycraft.json](./367158-storycraft.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
 | Storynth | 137568 | [137568-storynth.json](./137568-storynth.json) |
@@ -21150,6 +21154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Game: Multi-Player Mode Expansion Pack | 287855 | [287855-suika-game-multi-player-mode-expansion-pack.json](./287855-suika-game-multi-player-mode-expansion-pack.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
+| Suika Nyaa | 367143 | [367143-suika-nyaa.json](./367143-suika-nyaa.json) |
 | Suika Pets | 290549 | [290549-suika-pets.json](./290549-suika-pets.json) |
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
