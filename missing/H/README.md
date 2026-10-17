@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
+| Hair Removal Salon Simulator | 412917 | [412917-hair-removal-salon-simulator.json](./412917-hair-removal-salon-simulator.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
 | Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
 | Hairdresser Builder Bundle | 311044 | [311044-hairdresser-builder-bundle.json](./311044-hairdresser-builder-bundle.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
 | Hazel & The Deep | 321024 | [321024-hazel-and-the-deep.json](./321024-hazel-and-the-deep.json) |
+| Hazel Rush | 413010 | [413010-hazel-rush.json](./413010-hazel-rush.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
 | Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
+| Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
