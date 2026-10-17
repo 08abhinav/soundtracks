@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
+| Telluricene | 393990 | [393990-telluricene.json](./393990-telluricene.json) |
 | Telly Addicts | 43213 | [43213-telly-addicts.json](./43213-telly-addicts.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
@@ -11452,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | the Sequence | 20036 | [20036-the-sequence.json](./20036-the-sequence.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
+| The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
 | The Serious Sam Collection | 23414 | [23414-the-serious-sam-collection.json](./23414-the-serious-sam-collection.json) |
@@ -17442,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
+| Tokë III | 393956 | [393956-toke-iii.json](./393956-toke-iii.json) |
 | Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
 | Tokeis | 270016 | [270016-tokeis.json](./270016-tokeis.json) |
@@ -19728,6 +19731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
+| Tractor Cargo Driving Simulator | 393955 | [393955-tractor-cargo-driving-simulator.json](./393955-tractor-cargo-driving-simulator.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
 | Tractor Hero | 247435 | [247435-tractor-hero.json](./247435-tractor-hero.json) |
