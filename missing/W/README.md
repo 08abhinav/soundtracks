@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wadanohara and the Great Blue Sea | 46614 | [46614-wadanohara-and-the-great-blue-sea.json](./46614-wadanohara-and-the-great-blue-sea.json) |
 | Wadanohara and the Great Blue Sea -Reboot- | 142190 | [142190-wadanohara-and-the-great-blue-sea-reboot.json](./142190-wadanohara-and-the-great-blue-sea-reboot.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
+| Waddle Doom | 366613 | [366613-waddle-doom.json](./366613-waddle-doom.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Knight | 321437 | [321437-waddle-knight.json](./321437-waddle-knight.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
@@ -308,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
+| Walking Survival | 366576 | [366576-walking-survival.json](./366576-walking-survival.json) |
 | Walking Tourist | 134935 | [134935-walking-tourist.json](./134935-walking-tourist.json) |
 | Walking War Robots | 59759 | [59759-walking-war-robots.json](./59759-walking-war-robots.json) |
 | Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WALL-E | 320385 | [320385-wall-e.json](./320385-wall-e.json) |
 | WALL-E | 350049 | [350049-wall-e.json](./350049-wall-e.json) |
 | WALL-E | 357198 | [357198-wall-e.json](./357198-wall-e.json) |
+| WALL-E | 366567 | [366567-wall-e.json](./366567-wall-e.json) |
 | WALL-E | 5261 | [5261-wall-e.json](./5261-wall-e.json) |
 | WALL-E 2 | 186658 | [186658-wall-e-2.json](./186658-wall-e-2.json) |
 | Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
@@ -4457,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
+| Wirm | 366589 | [366589-wirm.json](./366589-wirm.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
 | Wisdom Tower | 382499 | [382499-wisdom-tower.json](./382499-wisdom-tower.json) |
@@ -6391,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woute | 152673 | [152673-woute.json](./152673-woute.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
+| WoW Hentai 2! | 366542 | [366542-wow-hentai-2.json](./366542-wow-hentai-2.json) |
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
 | Wowo Island | 375508 | [375508-wowo-island.json](./375508-wowo-island.json) |
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
