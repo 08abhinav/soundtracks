@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
+| Bleeding | 394632 | [394632-bleeding.json](./394632-bleeding.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
 | Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
 | Bleeding Code | 328968 | [328968-bleeding-code.json](./328968-bleeding-code.json) |
@@ -10729,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brett Hull Hockey 95 | 46231 | [46231-brett-hull-hockey-95.json](./46231-brett-hull-hockey-95.json) |
 | Brett: Neet Adventures | 63930 | [63930-brett-neet-adventures.json](./63930-brett-neet-adventures.json) |
 | Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
+| Breve Bug: Champions of Destiny | 394627 | [394627-breve-bug-champions-of-destiny.json](./394627-breve-bug-champions-of-destiny.json) |
 | Brew | 211459 | [211459-brew.json](./211459-brew.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
@@ -11283,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
 | Brush Burial | 270639 | [270639-brush-burial.json](./270639-brush-burial.json) |
+| Brush Burial: Bruiseland | 394636 | [394636-brush-burial-bruiseland.json](./394636-brush-burial-bruiseland.json) |
 | Brush Hour | 411752 | [411752-brush-hour.json](./411752-brush-hour.json) |
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
