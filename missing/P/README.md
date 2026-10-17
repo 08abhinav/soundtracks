@@ -7283,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
+| Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
@@ -9568,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
+| Power Planner | 384344 | [384344-power-planner.json](./384344-power-planner.json) |
 | Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
 | Power Play Tennis | 80159 | [80159-power-play-tennis.json](./80159-power-play-tennis.json) |
 | Power Play: Sports Trivia | 24075 | [24075-power-play-sports-trivia.json](./24075-power-play-sports-trivia.json) |
