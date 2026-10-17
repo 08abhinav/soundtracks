@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Bullet | 292630 | [292630-major-bullet.json](./292630-major-bullet.json) |
 | Major Bummer Dude: Lassi Quest RON | 71010 | [71010-major-bummer-dude-lassi-quest-ron.json](./71010-major-bummer-dude-lassi-quest-ron.json) |
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
+| Major Hoof | 386556 | [386556-major-hoof.json](./386556-major-hoof.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
@@ -3366,6 +3367,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom 3: Fate of Two Worlds | 8248 | [8248-marvel-vs-capcom-3-fate-of-two-worlds.json](./8248-marvel-vs-capcom-3-fate-of-two-worlds.json) |
 | Marvel vs. Capcom Fighting Collection: Arcade Classics | 306147 | [306147-marvel-vs-capcom-fighting-collection-arcade-classics.json](./306147-marvel-vs-capcom-fighting-collection-arcade-classics.json) |
 | Marvel vs. Capcom Infinite: Frank West Proto Man Costume | 386493 | [386493-marvel-vs-capcom-infinite-frank-west-proto-man-costume.json](./386493-marvel-vs-capcom-infinite-frank-west-proto-man-costume.json) |
+| Marvel vs. Capcom Infinite: Jedah Makai Messiah Costume | 386529 | [386529-marvel-vs-capcom-infinite-jedah-makai-messiah-costume.json](./386529-marvel-vs-capcom-infinite-jedah-makai-messiah-costume.json) |
+| Marvel vs. Capcom Infinite: Space Suit Rocket Raccoon Costume | 386530 | [386530-marvel-vs-capcom-infinite-space-suit-rocket-raccoon-costume.json](./386530-marvel-vs-capcom-infinite-space-suit-rocket-raccoon-costume.json) |
+| Marvel vs. Capcom Infinite: Special X Costume | 386531 | [386531-marvel-vs-capcom-infinite-special-x-costume.json](./386531-marvel-vs-capcom-infinite-special-x-costume.json) |
+| Marvel vs. Capcom Infinite: Spencer Gottfried Costume | 386532 | [386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json](./386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json) |
 | Marvel vs. Capcom: Clash of Super Heroes | 8246 | [8246-marvel-vs-capcom-clash-of-super-heroes.json](./8246-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Infinite - Arthur Fallen Angel Armor Costume | 386464 | [386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json](./386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json) |
 | Marvel vs. Capcom: Infinite - Black Panther | 161319 | [161319-marvel-vs-capcom-infinite-black-panther.json](./161319-marvel-vs-capcom-infinite-black-panther.json) |
@@ -3373,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Captain America Gladiator Costume | 386465 | [386465-marvel-vs-capcom-infinite-captain-america-gladiator-costume.json](./386465-marvel-vs-capcom-infinite-captain-america-gladiator-costume.json) |
 | Marvel vs. Capcom: Infinite - Captain Marvel Warbird Costume | 386460 | [386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json](./386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json) |
 | Marvel vs. Capcom: Infinite - Chris Classic Costume | 386491 | [386491-marvel-vs-capcom-infinite-chris-classic-costume.json](./386491-marvel-vs-capcom-infinite-chris-classic-costume.json) |
+| Marvel vs. Capcom: Infinite - Dante Nephilim Costume | 386455 | [386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json](./386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json) |
 | Marvel vs. Capcom: Infinite - Doctor Strange Illuminati Costume | 386492 | [386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json](./386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json) |
 | Marvel vs. Capcom: Infinite - Firebrand Ultimate Costume | 386482 | [386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json](./386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json) |
 | Marvel vs. Capcom: Infinite - Gamora Classic Costume | 386486 | [386486-marvel-vs-capcom-infinite-gamora-classic-costume.json](./386486-marvel-vs-capcom-infinite-gamora-classic-costume.json) |
@@ -3381,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Joe Fixit Costume | 386463 | [386463-marvel-vs-capcom-infinite-joe-fixit-costume.json](./386463-marvel-vs-capcom-infinite-joe-fixit-costume.json) |
 | Marvel vs. Capcom: Infinite - Monster Hunter | 161320 | [161320-marvel-vs-capcom-infinite-monster-hunter.json](./161320-marvel-vs-capcom-infinite-monster-hunter.json) |
 | Marvel vs. Capcom: Infinite - Morrigan Night Warrior Costume | 386479 | [386479-marvel-vs-capcom-infinite-morrigan-night-warrior-costume.json](./386479-marvel-vs-capcom-infinite-morrigan-night-warrior-costume.json) |
+| Marvel vs. Capcom: Infinite - Nova Prime Costume | 386458 | [386458-marvel-vs-capcom-infinite-nova-prime-costume.json](./386458-marvel-vs-capcom-infinite-nova-prime-costume.json) |
 | Marvel vs. Capcom: Infinite - Sigma | 161322 | [161322-marvel-vs-capcom-infinite-sigma.json](./161322-marvel-vs-capcom-infinite-sigma.json) |
 | Marvel vs. Capcom: Infinite - Strider Hien Costume | 386487 | [386487-marvel-vs-capcom-infinite-strider-hien-costume.json](./386487-marvel-vs-capcom-infinite-strider-hien-costume.json) |
 | Marvel vs. Capcom: Infinite - Superior Iron Man Costume | 386461 | [386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json](./386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json) |
@@ -3388,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Ultimate Hawkeye Costume | 386459 | [386459-marvel-vs-capcom-infinite-ultimate-hawkeye-costume.json](./386459-marvel-vs-capcom-infinite-ultimate-hawkeye-costume.json) |
 | Marvel vs. Capcom: Infinite - Ultimate Thor Costume | 386480 | [386480-marvel-vs-capcom-infinite-ultimate-thor-costume.json](./386480-marvel-vs-capcom-infinite-ultimate-thor-costume.json) |
 | Marvel vs. Capcom: Infinite - Venom | 161318 | [161318-marvel-vs-capcom-infinite-venom.json](./161318-marvel-vs-capcom-infinite-venom.json) |
+| Marvel vs. Capcom: Infinite - Warrior Thor Costume | 386456 | [386456-marvel-vs-capcom-infinite-warrior-thor-costume.json](./386456-marvel-vs-capcom-infinite-warrior-thor-costume.json) |
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
 | Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
 | Marvel War of Heroes | 38875 | [38875-marvel-war-of-heroes.json](./38875-marvel-war-of-heroes.json) |
@@ -12142,6 +12150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Shaolin Monks | 1614 | [1614-mortal-kombat-shaolin-monks.json](./1614-mortal-kombat-shaolin-monks.json) |
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
+| Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
 | Mortal Rite | 173012 | [173012-mortal-rite.json](./173012-mortal-rite.json) |
