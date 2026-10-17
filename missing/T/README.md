@@ -12539,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Story of Seeking Generals | 284612 | [284612-the-three-kingdoms-the-story-of-seeking-generals.json](./284612-the-three-kingdoms-the-story-of-seeking-generals.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
+| The Three Little Pigs: Interactive Book | 400063 | [400063-the-three-little-pigs-interactive-book.json](./400063-the-three-little-pigs-interactive-book.json) |
 | The Three Monkeys | 397425 | [397425-the-three-monkeys.json](./397425-the-three-monkeys.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
@@ -16218,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
+| Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
@@ -17309,6 +17311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
+| Toddlers | 400096 | [400096-toddlers.json](./400096-toddlers.json) |
 | Todesangst | 324866 | [324866-todesangst.json](./324866-todesangst.json) |
 | Todesangst 2: Der Echte Feind | 324868 | [324868-todesangst-2-der-echte-feind.json](./324868-todesangst-2-der-echte-feind.json) |
 | Todlio | 107074 | [107074-todlio.json](./107074-todlio.json) |
@@ -20492,6 +20495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus | 204302 | [204302-trainz-plus.json](./204302-trainz-plus.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
+| Trainz Plus DLC: OBB Eurofima Second Class Pack | 400080 | [400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json](./400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus DLC: Pro Train DB Class 52 | 254070 | [254070-trainz-plus-dlc-pro-train-db-class-52.json](./254070-trainz-plus-dlc-pro-train-db-class-52.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
@@ -23334,6 +23338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
+| Twin Legend | 400098 | [400098-twin-legend.json](./400098-twin-legend.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
