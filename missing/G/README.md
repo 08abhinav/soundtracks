@@ -7978,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutterball - Golden Pin Bowling | 88627 | [88627-gutterball-golden-pin-bowling.json](./88627-gutterball-golden-pin-bowling.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
 | Gutterball: Golden Pin Bowling HD | 103149 | [103149-gutterball-golden-pin-bowling-hd.json](./103149-gutterball-golden-pin-bowling-hd.json) |
+| Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
 | Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
