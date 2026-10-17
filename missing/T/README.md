@@ -4669,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
 | The Black Vault | 329140 | [329140-the-black-vault.json](./329140-the-black-vault.json) |
+| The Black Watch: Bloodline | 414087 | [414087-the-black-watch-bloodline.json](./414087-the-black-watch-bloodline.json) |
 | The Black Watchmen | 27707 | [27707-the-black-watchmen.json](./27707-the-black-watchmen.json) |
 | The Black Watchmen: Alone in the Dark Web | 170484 | [170484-the-black-watchmen-alone-in-the-dark-web.json](./170484-the-black-watchmen-alone-in-the-dark-web.json) |
 | The Black Watchmen: Mother Russia | 170485 | [170485-the-black-watchmen-mother-russia.json](./170485-the-black-watchmen-mother-russia.json) |
@@ -8429,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
+| The Last Disease Z | 414114 | [414114-the-last-disease-z.json](./414114-the-last-disease-z.json) |
 | The Last Dogma | 35149 | [35149-the-last-dogma.json](./35149-the-last-dogma.json) |
 | The Last Dogma - Complete Experience | 53754 | [53754-the-last-dogma-complete-experience.json](./53754-the-last-dogma-complete-experience.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
@@ -12972,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
+| The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
 | The Under | 75708 | [75708-the-under.json](./75708-the-under.json) |
@@ -14605,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
+| ThunderBolt | 414202 | [414202-thunderbolt.json](./414202-thunderbolt.json) |
 | Thunderbolt Boxing | 208336 | [208336-thunderbolt-boxing.json](./208336-thunderbolt-boxing.json) |
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
@@ -17462,6 +17466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
+| Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
 | Tokyo Revengers: Last Mission | 321649 | [321649-tokyo-revengers-last-mission.json](./321649-tokyo-revengers-last-mission.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
@@ -21281,6 +21286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
 | Traveler of Light | 366338 | [366338-traveler-of-light.json](./366338-traveler-of-light.json) |
+| Traveler Stories: Journeys of Real People | 414113 | [414113-traveler-stories-journeys-of-real-people.json](./414113-traveler-stories-journeys-of-real-people.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
