@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
+| Fragments of a Melody | 408503 | [408503-fragments-of-a-melody.json](./408503-fragments-of-a-melody.json) |
 | Fragments of a Mind | 157428 | [157428-fragments-of-a-mind.json](./157428-fragments-of-a-mind.json) |
 | Fragments of Dread: Fale Haven | 372827 | [372827-fragments-of-dread-fale-haven.json](./372827-fragments-of-dread-fale-haven.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
