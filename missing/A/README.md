@@ -6728,7 +6728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Rio HD | 88589 | [88589-angry-birds-rio-hd.json](./88589-angry-birds-rio-hd.json) |
 | Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
-| Angry Birds Space | 16365 | [16365-angry-birds-space.json](./16365-angry-birds-space.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
@@ -12542,7 +12541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
-| Awesomenauts | 1281 | [1281-awesomenauts.json](./1281-awesomenauts.json) |
 | Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
 | Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
