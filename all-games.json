@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:22:09.345Z",
-  "total_soundtracks": 1986,
+  "generated_at": "2026-10-17T11:22:16.559Z",
+  "total_soundtracks": 1987,
   "games": [
     {
       "igdb_id": 7522,
@@ -15563,6 +15563,20 @@
           "spotify_url": "https://open.spotify.com/album/4Vpij8BFebiVgfCrwUM1lP",
           "apple_music_url": "https://music.apple.com/us/album/raft-original-soundtrack/1718285264",
           "album_link_url": "https://album.link/i/1718285264"
+        }
+      ]
+    },
+    {
+      "igdb_id": 18698,
+      "game_name": "Rage Racer",
+      "game_url": "https://ostdb.net/games/rage-racer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27337da1f8a823c402c570aadaf",
+      "albums": [
+        {
+          "album_name": "RAGE RACER Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5AyrhoARrTrsKJsicmrcQK",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
