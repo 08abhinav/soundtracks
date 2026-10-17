@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
 | Tabletop Inc. | 422087 | [422087-tabletop-inc.json](./422087-tabletop-inc.json) |
+| Tabletop Shop Simulator | 390559 | [390559-tabletop-shop-simulator.json](./390559-tabletop-shop-simulator.json) |
 | Tabletop Simulator | 8351 | [8351-tabletop-simulator.json](./8351-tabletop-simulator.json) |
 | Tabletop Simulator: Abraca...What? | 161282 | [161282-tabletop-simulator-abraca-what.json](./161282-tabletop-simulator-abraca-what.json) |
 | Tabletop Simulator: Adventure Mart | 161291 | [161291-tabletop-simulator-adventure-mart.json](./161291-tabletop-simulator-adventure-mart.json) |
@@ -2110,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
 | TBmsTF | 281361 | [281361-tbmstf.json](./281361-tbmstf.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
+| TBTE: The Button Tycoon Experience | 390554 | [390554-tbte-the-button-tycoon-experience.json](./390554-tbte-the-button-tycoon-experience.json) |
 | TC Strikers 1 | 169805 | [169805-tc-strikers-1.json](./169805-tc-strikers-1.json) |
 | TC Strikers 2 | 153499 | [153499-tc-strikers-2.json](./153499-tc-strikers-2.json) |
 | TC Strikers 3 | 169782 | [169782-tc-strikers-3.json](./169782-tc-strikers-3.json) |
@@ -4151,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
+| The American Dream of Gunther Aims | 390474 | [390474-the-american-dream-of-gunther-aims.json](./390474-the-american-dream-of-gunther-aims.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ammonite’s Whisper | 406264 | [406264-the-ammonite-s-whisper.json](./406264-the-ammonite-s-whisper.json) |
@@ -6990,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Gallery: Episode 2 - Heart of the Emberstone | 68173 | [68173-the-gallery-episode-2-heart-of-the-emberstone.json](./68173-the-gallery-episode-2-heart-of-the-emberstone.json) |
+| The Gallery: VR Secrets | 390561 | [390561-the-gallery-vr-secrets.json](./390561-the-gallery-vr-secrets.json) |
 | The Gambit Lost to Time | 327173 | [327173-the-gambit-lost-to-time.json](./327173-the-gambit-lost-to-time.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
 | The Game | 191567 | [191567-the-game.json](./191567-the-game.json) |
@@ -13718,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) | 385366 | [385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json](./385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) 2 | 385367 | [385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json](./385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json) |
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
@@ -16607,6 +16612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
+| Tinkering Is Enough | 390579 | [390579-tinkering-is-enough.json](./390579-tinkering-is-enough.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
@@ -19872,6 +19878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
 | Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
+| Trailer Game | 390557 | [390557-trailer-game.json](./390557-trailer-game.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
@@ -22839,6 +22846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyokiss Next | 194588 | [194588-tsuyokiss-next.json](./194588-tsuyokiss-next.json) |
 | Tsuyokiss: Mighty Heart | 62432 | [62432-tsuyokiss-mighty-heart.json](./62432-tsuyokiss-mighty-heart.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
+| Tsuyukusa Euphoria | 390538 | [390538-tsuyukusa-euphoria.json](./390538-tsuyukusa-euphoria.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
