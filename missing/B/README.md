@@ -8558,7 +8558,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
-| Bodycam | 248994 | [248994-bodycam.json](./248994-bodycam.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
 | Bodycam Onrecord | 365058 | [365058-bodycam-onrecord.json](./365058-bodycam-onrecord.json) |
 | Bodycam Police Simulator | 317218 | [317218-bodycam-police-simulator.json](./317218-bodycam-police-simulator.json) |
@@ -11273,7 +11272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Blood | 132559 | [132559-brothers-in-blood.json](./132559-brothers-in-blood.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
 | Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
-| Brothers: A Tale of Two Sons Remake | 279612 | [279612-brothers-a-tale-of-two-sons-remake.json](./279612-brothers-a-tale-of-two-sons-remake.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | BrotherZ | 36963 | [36963-brotherz.json](./36963-brotherz.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
