@@ -10118,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Attack | 216275 | [216275-smoke-attack.json](./216275-smoke-attack.json) |
 | Smoke Attack 2 | 229125 | [229125-smoke-attack-2.json](./229125-smoke-attack-2.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
+| Smoke Keeper | 414765 | [414765-smoke-keeper.json](./414765-smoke-keeper.json) |
 | Smoke Masks | 321041 | [321041-smoke-masks.json](./321041-smoke-masks.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
@@ -16300,6 +16301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakross: Home Squeak Home | 305074 | [305074-squeakross-home-squeak-home.json](./305074-squeakross-home-squeak-home.json) |
 | Squeaky Clean | 146552 | [146552-squeaky-clean.json](./146552-squeaky-clean.json) |
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
+| Squeeballs Party | 414802 | [414802-squeeballs-party.json](./414802-squeeballs-party.json) |
 | Squeebing Up the Tower of Friendship | 258406 | [258406-squeebing-up-the-tower-of-friendship.json](./258406-squeebing-up-the-tower-of-friendship.json) |
 | Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
 | Squeeks: Trickshot Festival | 258395 | [258395-squeeks-trickshot-festival.json](./258395-squeeks-trickshot-festival.json) |
@@ -24069,6 +24071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
+| Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Purge | 380770 | [380770-surviving-purge.json](./380770-surviving-purge.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
