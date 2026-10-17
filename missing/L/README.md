@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
+| Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
