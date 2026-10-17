@@ -7634,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
+| Pokedex-Accurate Dual-Type Pokemon Personality Test | 376193 | [376193-pokedex-accurate-dual-type-pokemon-personality-test.json](./376193-pokedex-accurate-dual-type-pokemon-personality-test.json) |
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | PokéHeroes | 383188 | [383188-pokeheroes.json](./383188-pokeheroes.json) |
@@ -7991,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Grand Colosseum | 212982 | [212982-pokemon-grand-colosseum.json](./212982-pokemon-grand-colosseum.json) |
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
+| Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
@@ -12910,6 +12912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Frenzy | 187276 | [187276-puzzle-frenzy.json](./187276-puzzle-frenzy.json) |
+| Puzzle Fruit Merge: Match Game | 376229 | [376229-puzzle-fruit-merge-match-game.json](./376229-puzzle-fruit-merge-match-game.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
