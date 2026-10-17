@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:26:36.353Z",
-  "total_soundtracks": 2082,
+  "generated_at": "2026-10-17T15:35:25.733Z",
+  "total_soundtracks": 2083,
   "games": [
     {
       "igdb_id": 7522,
@@ -1695,6 +1695,20 @@
         {
           "album_name": "Assemble with Care (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0VHBUwgqz4tyloGTs4AwGl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7758,
+      "game_name": "Asteroids",
+      "game_url": "https://ostdb.net/games/asteroids",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b7c56a4ddc664445071c9e7",
+      "albums": [
+        {
+          "album_name": "Asteroids (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Jr84kOwZyhcTUeglHe6FZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
