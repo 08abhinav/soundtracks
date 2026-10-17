@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
+| A World of Keflings: The Curse of the Zombiesaurus | 375530 | [375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json](./375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
 | A World With No Colour | 122257 | [122257-a-world-with-no-colour.json](./122257-a-world-with-no-colour.json) |
 | A World With out You | 239205 | [239205-a-world-with-out-you.json](./239205-a-world-with-out-you.json) |
@@ -5110,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
 | Allegro: The Melodic Warrior | 316973 | [316973-allegro-the-melodic-warrior.json](./316973-allegro-the-melodic-warrior.json) |
+| Allele: Origin | 375538 | [375538-allele-origin.json](./375538-allele-origin.json) |
 | Allelon | 398824 | [398824-allelon.json](./398824-allelon.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
 | Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
@@ -11330,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
+| Asvara | 375517 | [375517-asvara.json](./375517-asvara.json) |
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
