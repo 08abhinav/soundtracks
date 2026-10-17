@@ -16747,6 +16747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
+| Stand: Sins of the Immortals | 388790 | [388790-stand-sins-of-the-immortals.json](./388790-stand-sins-of-the-immortals.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
@@ -19857,13 +19858,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
 | Street Fighter V: Skies of Honor | 321652 | [321652-street-fighter-v-skies-of-honor.json](./321652-street-fighter-v-skies-of-honor.json) |
 | Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
+| Street Fighter V: Zangief Costume Bundle | 388881 | [388881-street-fighter-v-zangief-costume-bundle.json](./388881-street-fighter-v-zangief-costume-bundle.json) |
 | Street Fighter V: Zeku | 332476 | [332476-street-fighter-v-zeku.json](./332476-street-fighter-v-zeku.json) |
 | Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X All Capcom | 80847 | [80847-street-fighter-x-all-capcom.json](./80847-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter X Tekken | 1065 | [1065-street-fighter-x-tekken.json](./1065-street-fighter-x-tekken.json) |
+| Street Fighter X Tekken: Abel (Swap Costume) | 388831 | [388831-street-fighter-x-tekken-abel-swap-costume.json](./388831-street-fighter-x-tekken-abel-swap-costume.json) |
+| Street Fighter X Tekken: Akuma (Swap Costume) | 388844 | [388844-street-fighter-x-tekken-akuma-swap-costume.json](./388844-street-fighter-x-tekken-akuma-swap-costume.json) |
+| Street Fighter X Tekken: Asuka (Swap Costume) | 388825 | [388825-street-fighter-x-tekken-asuka-swap-costume.json](./388825-street-fighter-x-tekken-asuka-swap-costume.json) |
+| Street Fighter X Tekken: Balrog (Swap Costume) | 388827 | [388827-street-fighter-x-tekken-balrog-swap-costume.json](./388827-street-fighter-x-tekken-balrog-swap-costume.json) |
+| Street Fighter X Tekken: Blanka (Swap Costume) | 388838 | [388838-street-fighter-x-tekken-blanka-swap-costume.json](./388838-street-fighter-x-tekken-blanka-swap-costume.json) |
+| Street Fighter X Tekken: Chun-Li (Swap Costume) | 388832 | [388832-street-fighter-x-tekken-chun-li-swap-costume.json](./388832-street-fighter-x-tekken-chun-li-swap-costume.json) |
+| Street Fighter X Tekken: Hugo (Swap Costume) | 388819 | [388819-street-fighter-x-tekken-hugo-swap-costume.json](./388819-street-fighter-x-tekken-hugo-swap-costume.json) |
+| Street Fighter X Tekken: Jin (Swap Costume) | 388835 | [388835-street-fighter-x-tekken-jin-swap-costume.json](./388835-street-fighter-x-tekken-jin-swap-costume.json) |
+| Street Fighter X Tekken: Juri (Swap Costume) | 388826 | [388826-street-fighter-x-tekken-juri-swap-costume.json](./388826-street-fighter-x-tekken-juri-swap-costume.json) |
+| Street Fighter X Tekken: Ken (Swap Costume) | 388833 | [388833-street-fighter-x-tekken-ken-swap-costume.json](./388833-street-fighter-x-tekken-ken-swap-costume.json) |
+| Street Fighter X Tekken: Law (Swap Costume) | 388828 | [388828-street-fighter-x-tekken-law-swap-costume.json](./388828-street-fighter-x-tekken-law-swap-costume.json) |
+| Street Fighter X Tekken: Lili (Swap Costume) | 388822 | [388822-street-fighter-x-tekken-lili-swap-costume.json](./388822-street-fighter-x-tekken-lili-swap-costume.json) |
+| Street Fighter X Tekken: Nina (Swap Costume) | 388816 | [388816-street-fighter-x-tekken-nina-swap-costume.json](./388816-street-fighter-x-tekken-nina-swap-costume.json) |
+| Street Fighter X Tekken: Paul (Swap Costume) | 388815 | [388815-street-fighter-x-tekken-paul-swap-costume.json](./388815-street-fighter-x-tekken-paul-swap-costume.json) |
+| Street Fighter X Tekken: Poison (Swap Costume) | 388823 | [388823-street-fighter-x-tekken-poison-swap-costume.json](./388823-street-fighter-x-tekken-poison-swap-costume.json) |
+| Street Fighter X Tekken: Rolento (Swap Costume) | 388824 | [388824-street-fighter-x-tekken-rolento-swap-costume.json](./388824-street-fighter-x-tekken-rolento-swap-costume.json) |
+| Street Fighter X Tekken: Rufus (Swap Costume) | 388818 | [388818-street-fighter-x-tekken-rufus-swap-costume.json](./388818-street-fighter-x-tekken-rufus-swap-costume.json) |
+| Street Fighter X Tekken: Ryu (Swap Costume) | 388834 | [388834-street-fighter-x-tekken-ryu-swap-costume.json](./388834-street-fighter-x-tekken-ryu-swap-costume.json) |
+| Street Fighter X Tekken: Sagat (Swap Costume) | 388817 | [388817-street-fighter-x-tekken-sagat-swap-costume.json](./388817-street-fighter-x-tekken-sagat-swap-costume.json) |
 | Street Fighter X Tekken: Special Edition | 45197 | [45197-street-fighter-x-tekken-special-edition.json](./45197-street-fighter-x-tekken-special-edition.json) |
+| Street Fighter X Tekken: Steve (Swap Costume) | 388820 | [388820-street-fighter-x-tekken-steve-swap-costume.json](./388820-street-fighter-x-tekken-steve-swap-costume.json) |
+| Street Fighter X Tekken: Tekken Booster Pack 3 | 388814 | [388814-street-fighter-x-tekken-tekken-booster-pack-3.json](./388814-street-fighter-x-tekken-tekken-booster-pack-3.json) |
+| Street Fighter X Tekken: Xiaoyu (Swap Costume) | 388821 | [388821-street-fighter-x-tekken-xiaoyu-swap-costume.json](./388821-street-fighter-x-tekken-xiaoyu-swap-costume.json) |
+| Street Fighter X Tekken: Zangief (Swap Costume) | 388829 | [388829-street-fighter-x-tekken-zangief-swap-costume.json](./388829-street-fighter-x-tekken-zangief-swap-costume.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
@@ -23204,6 +23229,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
 | Super Smash Asteroids | 239098 | [239098-super-smash-asteroids.json](./239098-super-smash-asteroids.json) |
+| Super Smash Bros Ultimate: Cuphead Outfit and Hat | 388797 | [388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json](./388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json) |
+| Super Smash Bros Ultimate: Erdrick's Armor and Helmet | 388795 | [388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json](./388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json) |
 | Super Smash Bros Ultimate: Jacky's Outfit and Wig | 306045 | [306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json](./306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Judd Hat | 306046 | [306046-super-smash-bros-ultimate-judd-hat.json](./306046-super-smash-bros-ultimate-judd-hat.json) |
 | Super Smash Bros Ultimate: Marie Outfit and Wig | 306607 | [306607-super-smash-bros-ultimate-marie-outfit-and-wig.json](./306607-super-smash-bros-ultimate-marie-outfit-and-wig.json) |
@@ -23211,6 +23238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros Ultimate: Morgana Hat | 306608 | [306608-super-smash-bros-ultimate-morgana-hat.json](./306608-super-smash-bros-ultimate-morgana-hat.json) |
 | Super Smash Bros Ultimate: Rabbids Hat | 338184 | [338184-super-smash-bros-ultimate-rabbids-hat.json](./338184-super-smash-bros-ultimate-rabbids-hat.json) |
 | Super Smash Bros Ultimate: Veronica's Outfit and Hat | 350409 | [350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
+| Super Smash Bros Ultitmate: Team Rocket Outfit and Hat | 388796 | [388796-super-smash-bros-ultitmate-team-rocket-outfit-and-hat.json](./388796-super-smash-bros-ultitmate-team-rocket-outfit-and-hat.json) |
 | Super Smash Bros: Exo | 394607 | [394607-super-smash-bros-exo.json](./394607-super-smash-bros-exo.json) |
 | Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
 | Super Smash Bros. 3D | 339945 | [339945-super-smash-bros-3d.json](./339945-super-smash-bros-3d.json) |
