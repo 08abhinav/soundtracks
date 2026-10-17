@@ -4211,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
+| Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
