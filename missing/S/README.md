@@ -262,8 +262,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Satan | 283109 | [283109-sad-satan.json](./283109-sad-satan.json) |
 | Sad Virus | 367548 | [367548-sad-virus.json](./367548-sad-virus.json) |
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
+| Sad Virus Cave | 397647 | [397647-sad-virus-cave.json](./397647-sad-virus-cave.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
+| Sad Virus Jungle | 397646 | [397646-sad-virus-jungle.json](./397646-sad-virus-jungle.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Runner | 369712 | [369712-sad-virus-runner.json](./369712-sad-virus-runner.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyou Pachinko Paradise 9: Shin Umi Okawari! | 326851 | [326851-sanyou-pachinko-paradise-9-shin-umi-okawari.json](./326851-sanyou-pachinko-paradise-9-shin-umi-okawari.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
+| Saoirse | 397715 | [397715-saoirse.json](./397715-saoirse.json) |
 | Sǎoléi Màoxiǎn Tán 2: Lùlùmǔ de Màoxiǎn | 163896 | [163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json](./163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json) |
 | Saomi | 199379 | [199379-saomi.json](./199379-saomi.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
@@ -2354,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
+| Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
@@ -6795,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
 | Shrink Rooms | 339971 | [339971-shrink-rooms.json](./339971-shrink-rooms.json) |
+| Shrink with a Succubus | 397622 | [397622-shrink-with-a-succubus.json](./397622-shrink-with-a-succubus.json) |
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
 | Shrinking Planet | 182932 | [182932-shrinking-planet.json](./182932-shrinking-planet.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
@@ -16133,6 +16138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
+| Spruce Falls | 397615 | [397615-spruce-falls.json](./397615-spruce-falls.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprung | 20209 | [20209-sprung.json](./20209-sprung.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
@@ -21950,6 +21956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Haste | 363020 | [363020-super-haste.json](./363020-super-haste.json) |
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
 | Super Haste: Debris DLC | 384296 | [384296-super-haste-debris-dlc.json](./384296-super-haste-debris-dlc.json) |
+| Super Haste: Exclusive Physical Edition | 397631 | [397631-super-haste-exclusive-physical-edition.json](./397631-super-haste-exclusive-physical-edition.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
