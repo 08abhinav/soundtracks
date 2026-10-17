@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Ops: DeadZone | 337764 | [337764-z-ops-deadzone.json](./337764-z-ops-deadzone.json) |
 | Z Route: Redemption | 395510 | [395510-z-route-redemption.json](./395510-z-route-redemption.json) |
+| Z RPG | 411356 | [411356-z-rpg.json](./411356-z-rpg.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z Virus: Outbreak | 362983 | [362983-z-virus-outbreak.json](./362983-z-virus-outbreak.json) |
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
+| Zoo Protocol | 411359 | [411359-zoo-protocol.json](./411359-zoo-protocol.json) |
 | Zoo Puzzle | 43236 | [43236-zoo-puzzle.json](./43236-zoo-puzzle.json) |
 | Zoo Quest | 20277 | [20277-zoo-quest.json](./20277-zoo-quest.json) |
 | Zoo Rampage | 17622 | [17622-zoo-rampage.json](./17622-zoo-rampage.json) |
