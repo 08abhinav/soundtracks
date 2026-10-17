@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
+| Sanctuaries | 364280 | [364280-sanctuaries.json](./364280-sanctuaries.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
 | Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
@@ -7241,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
+| Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Siegius Arena | 399469 | [399469-siegius-arena.json](./399469-siegius-arena.json) |
@@ -24600,6 +24602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
 | Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
 | Sushi Cat Words | 249366 | [249366-sushi-cat-words.json](./249366-sushi-cat-words.json) |
+| Sushi Cat: Tower Defense | 364270 | [364270-sushi-cat-tower-defense.json](./364270-sushi-cat-tower-defense.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Claw Machine | 412900 | [412900-sushi-claw-machine.json](./412900-sushi-claw-machine.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
