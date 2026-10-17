@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Héjīn Zǐdàn | 414116 | [414116-hejin-zidan.json](./414116-hejin-zidan.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
