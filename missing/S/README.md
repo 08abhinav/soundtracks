@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
+| Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
+| SMB3: The Rainbow Realms | 372199 | [372199-smb3-the-rainbow-realms.json](./372199-smb3-the-rainbow-realms.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
@@ -12925,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
 | Sorcery Jokers | 59780 | [59780-sorcery-jokers.json](./59780-sorcery-jokers.json) |
@@ -14480,6 +14483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
+| Spades | 372227 | [372227-spades.json](./372227-spades.json) |
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
@@ -14557,6 +14561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkling Bug | 335968 | [335968-sparkling-bug.json](./335968-sparkling-bug.json) |
 | Sparkling Corner | 172521 | [172521-sparkling-corner.json](./172521-sparkling-corner.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
+| Sparkling Memories | 372208 | [372208-sparkling-memories.json](./372208-sparkling-memories.json) |
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
@@ -22531,6 +22536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
+| Super Mario All-Stars NES | 372201 | [372201-super-mario-all-stars-nes.json](./372201-super-mario-all-stars-nes.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
 | Super Mario and the Cosmic Catalyst | 336107 | [336107-super-mario-and-the-cosmic-catalyst.json](./336107-super-mario-and-the-cosmic-catalyst.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
@@ -22593,6 +22599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
+| Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
