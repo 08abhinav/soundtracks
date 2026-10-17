@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
+| Warlock: Dungeons & Dragons | 388116 | [388116-warlock-dungeons-and-dragons.json](./388116-warlock-dungeons-and-dragons.json) |
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Which Way Up: Galaxy Games | 240762 | [240762-which-way-up-galaxy-games.json](./240762-which-way-up-galaxy-games.json) |
 | Which Wizard? | 152657 | [152657-which-wizard.json](./152657-which-wizard.json) |
+| Which-Way Adventure | 388109 | [388109-which-way-adventure.json](./388109-which-way-adventure.json) |
 | WhichWayOut? | 287703 | [287703-whichwayout.json](./287703-whichwayout.json) |
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
@@ -4028,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
 | Windfallers | 133145 | [133145-windfallers.json](./133145-windfallers.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
+| Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
 | Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
