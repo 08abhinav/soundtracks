@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 286690 | [286690-ultimate-mortal-kombat-3.json](./286690-ultimate-mortal-kombat-3.json) |
+| Ultimate Mortal Kombat 3: WaveNet Edition | 363668 | [363668-ultimate-mortal-kombat-3-wavenet-edition.json](./363668-ultimate-mortal-kombat-3-wavenet-edition.json) |
 | Ultimate Mortal Kombat Trilogy | 45153 | [45153-ultimate-mortal-kombat-trilogy.json](./45153-ultimate-mortal-kombat-trilogy.json) |
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
