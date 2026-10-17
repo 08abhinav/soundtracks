@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
 | Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
+| Land of the Dead Trees | 389490 | [389490-land-of-the-dead-trees.json](./389490-land-of-the-dead-trees.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
@@ -6532,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
 | Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
+| Lucky Fat Cat Diner | 389507 | [389507-lucky-fat-cat-diner.json](./389507-lucky-fat-cat-diner.json) |
 | Lucky Fighter II | 321648 | [321648-lucky-fighter-ii.json](./321648-lucky-fighter-ii.json) |
 | Lucky Fish Bread | 190081 | [190081-lucky-fish-bread.json](./190081-lucky-fish-bread.json) |
 | Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
