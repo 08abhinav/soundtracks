@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 193294 | [193294-abyss.json](./193294-abyss.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
+| Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Zalmoxis: Rise of the Fallen | 271676 | [271676-age-of-zalmoxis-rise-of-the-fallen.json](./271676-age-of-zalmoxis-rise-of-the-fallen.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
+| Agebound | 414082 | [414082-agebound.json](./414082-agebound.json) |
 | Agebringer | 379513 | [379513-agebringer.json](./379513-agebringer.json) |
 | Agecraft | 362933 | [362933-agecraft.json](./362933-agecraft.json) |
 | Agefield High: Rock the School | 356188 | [356188-agefield-high-rock-the-school.json](./356188-agefield-high-rock-the-school.json) |
@@ -8021,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
 | Apple Clicker | 314410 | [314410-apple-clicker.json](./314410-apple-clicker.json) |
 | Apple Climbers | 321030 | [321030-apple-climbers.json](./321030-apple-climbers.json) |
+| Apple Faces Up | 414101 | [414101-apple-faces-up.json](./414101-apple-faces-up.json) |
 | Apple Grove Picking Games | 116098 | [116098-apple-grove-picking-games.json](./116098-apple-grove-picking-games.json) |
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
