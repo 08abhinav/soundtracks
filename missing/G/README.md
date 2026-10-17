@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
 | Get Clucked | 387084 | [387084-get-clucked.json](./387084-get-clucked.json) |
+| Get Colossal | 377915 | [377915-get-colossal.json](./377915-get-colossal.json) |
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
@@ -4908,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
+| Good Morning My Darling | 377936 | [377936-good-morning-my-darling.json](./377936-good-morning-my-darling.json) |
 | Good Morning Phobos | 257306 | [257306-good-morning-phobos.json](./257306-good-morning-phobos.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
@@ -5234,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
+| Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
@@ -7372,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
+| Guilty Pleasures | 377913 | [377913-guilty-pleasures.json](./377913-guilty-pleasures.json) |
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
