@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
+| Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
 | Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
@@ -5115,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
+| Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -8858,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Tanks | 73367 | [73367-combat-tanks.json](./73367-combat-tanks.json) |
+| Combat Train TD | 363171 | [363171-combat-train-td.json](./363171-combat-train-td.json) |
 | Combat Troops VR | 192180 | [192180-combat-troops-vr.json](./192180-combat-troops-vr.json) |
 | Combat Two | 40609 | [40609-combat-two.json](./40609-combat-two.json) |
 | Combat Weapon | 224084 | [224084-combat-weapon.json](./224084-combat-weapon.json) |
