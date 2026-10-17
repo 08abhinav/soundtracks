@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
+| Undead World Order | 415844 | [415844-undead-world-order.json](./415844-undead-world-order.json) |
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
