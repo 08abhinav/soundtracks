@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
+| Tear Them All | 409861 | [409861-tear-them-all.json](./409861-tear-them-all.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anders Cyclopaedia | 327161 | [327161-the-anders-cyclopaedia.json](./327161-the-anders-cyclopaedia.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
+| The Angel Factory | 409860 | [409860-the-angel-factory.json](./409860-the-angel-factory.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
 | The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Anglerfish Project | 260079 | [260079-the-anglerfish-project.json](./260079-the-anglerfish-project.json) |
@@ -8695,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
+| The Lawnmover Massacre | 409834 | [409834-the-lawnmover-massacre.json](./409834-the-lawnmover-massacre.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Lawnmower Man | 5397 | [5397-the-lawnmower-man.json](./5397-the-lawnmower-man.json) |
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
@@ -10040,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
+| The Neptunian Gaussian Auctions | 409827 | [409827-the-neptunian-gaussian-auctions.json](./409827-the-neptunian-gaussian-auctions.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The Netcode Conflict | 301060 | [301060-the-netcode-conflict.json](./301060-the-netcode-conflict.json) |
@@ -13554,6 +13558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
 | The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
 | The Wolf Is Dead | 188972 | [188972-the-wolf-is-dead.json](./188972-the-wolf-is-dead.json) |
+| The Wolf Wears Red | 409844 | [409844-the-wolf-wears-red.json](./409844-the-wolf-wears-red.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
@@ -22149,6 +22154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
+| Trophiends | 409897 | [409897-trophiends.json](./409897-trophiends.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
@@ -22916,6 +22922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
 | Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
+| TurboJoy | 409828 | [409828-turbojoy.json](./409828-turbojoy.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
