@@ -5300,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
+| Rigby Saw Game | 384923 | [384923-rigby-saw-game.json](./384923-rigby-saw-game.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
 | Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
