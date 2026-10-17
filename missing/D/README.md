@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
 | Darling of the Sea | 225817 | [225817-darling-of-the-sea.json](./225817-darling-of-the-sea.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
+| Darling, Darling... Dead? | 363680 | [363680-darling-darling-dead.json](./363680-darling-darling-dead.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
