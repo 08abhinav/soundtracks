@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
+| Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
 | Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
+| Witherheart | 396463 | [396463-witherheart.json](./396463-witherheart.json) |
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Gardens | 301924 | [301924-withering-gardens.json](./301924-withering-gardens.json) |
