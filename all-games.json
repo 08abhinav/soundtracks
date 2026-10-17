@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:00:50.784Z",
-  "total_soundtracks": 2008,
+  "generated_at": "2026-10-17T12:00:58.466Z",
+  "total_soundtracks": 2009,
   "games": [
     {
       "igdb_id": 7522,
@@ -12521,6 +12521,20 @@
         {
           "album_name": "Mass Effect 3 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2QfSNNISIlORduwQniMz91",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 78460,
+      "game_name": "Mass Effect 3: Extended Cut",
+      "game_url": "https://ostdb.net/games/mass-effect-3-extended-cut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2928529f6d6937cd1363ad5",
+      "albums": [
+        {
+          "album_name": "Mass Effect 3: Extended Cut (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/30Y3Qe97bWefL9XYgr2PI9",
           "apple_music_url": "",
           "album_link_url": ""
         }
