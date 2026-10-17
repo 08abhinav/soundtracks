@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
 | Periapsis: Eclipse | 348215 | [348215-periapsis-eclipse.json](./348215-periapsis-eclipse.json) |
+| Periapsis: Gravity Slingshot | 406553 | [406553-periapsis-gravity-slingshot.json](./406553-periapsis-gravity-slingshot.json) |
 | Perico Delgado Maillot Amarillo | 71406 | [71406-perico-delgado-maillot-amarillo.json](./71406-perico-delgado-maillot-amarillo.json) |
 | Periculum | 317542 | [317542-periculum.json](./317542-periculum.json) |
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
