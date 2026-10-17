@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Hate Zombies | 232890 | [232890-i-hate-zombies.json](./232890-i-hate-zombies.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
+| I Have a Sect in the Mountains | 374903 | [374903-i-have-a-sect-in-the-mountains.json](./374903-i-have-a-sect-in-the-mountains.json) |
 | I Have an Adventure House | 417345 | [417345-i-have-an-adventure-house.json](./417345-i-have-an-adventure-house.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
 | I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
@@ -1073,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hacking: An Inaction RPG | 397396 | [397396-idle-hacking-an-inaction-rpg.json](./397396-idle-hacking-an-inaction-rpg.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
+| Idle Harem Dungeon | 374907 | [374907-idle-harem-dungeon.json](./374907-idle-harem-dungeon.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
 | Idle Heroes | 56380 | [56380-idle-heroes.json](./56380-idle-heroes.json) |
