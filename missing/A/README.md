@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
+| Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
@@ -8820,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
+| Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
