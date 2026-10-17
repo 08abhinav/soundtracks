@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
 | Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
+| Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
 | Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
 | Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
@@ -3562,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
+| Globalization | 370419 | [370419-globalization.json](./370419-globalization.json) |
 | GlobalMap Astro | 103944 | [103944-globalmap-astro.json](./103944-globalmap-astro.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
@@ -6463,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
+| Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
