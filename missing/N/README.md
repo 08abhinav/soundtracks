@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakayoshi Pet Series 3: Kawaii Koinu | 130615 | [130615-nakayoshi-pet-series-3-kawaii-koinu.json](./130615-nakayoshi-pet-series-3-kawaii-koinu.json) |
 | Nakayoshi Pet Series 4: Kawaii Koneko | 130614 | [130614-nakayoshi-pet-series-4-kawaii-koneko.json](./130614-nakayoshi-pet-series-4-kawaii-koneko.json) |
 | Nakayoshi Youchien | 49753 | [49753-nakayoshi-youchien.json](./49753-nakayoshi-youchien.json) |
+| Naked Adventure | 380170 | [380170-naked-adventure.json](./380170-naked-adventure.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
+| Nekomimi Days: 365 Days With You | 380167 | [380167-nekomimi-days-365-days-with-you.json](./380167-nekomimi-days-365-days-with-you.json) |
 | Nekomimi Vampire | 97777 | [97777-nekomimi-vampire.json](./97777-nekomimi-vampire.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | NekoNecro | 212970 | [212970-nekonecro.json](./212970-nekonecro.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night at Vibri's | 406951 | [406951-night-at-vibris.json](./406951-night-at-vibris.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
+| Night Bici | 380144 | [380144-night-bici.json](./380144-night-bici.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
 | Night Blood W: Cutthroat Wolf | 336646 | [336646-night-blood-w-cutthroat-wolf.json](./336646-night-blood-w-cutthroat-wolf.json) |
