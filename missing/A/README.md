@@ -6045,7 +6045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
-| Amnesia: The Bunker | 228258 | [228258-amnesia-the-bunker.json](./228258-amnesia-the-bunker.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
