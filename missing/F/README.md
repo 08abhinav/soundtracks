@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
 | Fetch Quest Remastered | 361063 | [361063-fetch-quest-remastered.json](./361063-fetch-quest-remastered.json) |
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
+| Fetidity | 404163 | [404163-fetidity.json](./404163-fetidity.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
 | FrogBall | 182169 | [182169-frogball.json](./182169-frogball.json) |
+| Frogborne | 404093 | [404093-frogborne.json](./404093-frogborne.json) |
 | Frogbound: The Legend of Sir Hopper | 297898 | [297898-frogbound-the-legend-of-sir-hopper.json](./297898-frogbound-the-legend-of-sir-hopper.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogfall | 305420 | [305420-frogfall.json](./305420-frogfall.json) |
