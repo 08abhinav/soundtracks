@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'N Shape | 108237 | [108237-n-shape.json](./108237-n-shape.json) |
 | 'Rift' Electric | 323297 | [323297-rift-electric.json](./323297-rift-electric.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
+| 'Round the Valley | 413604 | [413604-round-the-valley.json](./413604-round-the-valley.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | 'Till Death Do Us Part | 398026 | [398026-till-death-do-us-part.json](./398026-till-death-do-us-part.json) |
 | "A" Find & Touch | 83204 | [83204-a-find-and-touch.json](./83204-a-find-and-touch.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2XL Trophylite Rally | 95678 | [95678-2xl-trophylite-rally.json](./95678-2xl-trophylite-rally.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
+| 3 Bingos Away From Hell | 413590 | [413590-3-bingos-away-from-hell.json](./413590-3-bingos-away-from-hell.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
 | 3 Count Bout | 6734 | [6734-3-count-bout.json](./6734-3-count-bout.json) |
 | 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
