@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
+| Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
@@ -1998,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry the Count | 414477 | [414477-carry-the-count.json](./414477-carry-the-count.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
+| Carry the Patient Together | 391565 | [391565-carry-the-patient-together.json](./391565-carry-the-patient-together.json) |
 | Cars | 230423 | [230423-cars.json](./230423-cars.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
 | Cars | 243202 | [243202-cars.json](./243202-cars.json) |
@@ -2801,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
 | Cat Spotting Challenge! | 333518 | [333518-cat-spotting-challenge.json](./333518-cat-spotting-challenge.json) |
+| Cat Squeeze | 391633 | [391633-cat-squeeze.json](./391633-cat-squeeze.json) |
 | Cat Stories: New Year | 182223 | [182223-cat-stories-new-year.json](./182223-cat-stories-new-year.json) |
 | Cat Sudoku | 369682 | [369682-cat-sudoku.json](./369682-cat-sudoku.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
@@ -9917,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
+| Cookie Flipper | 391628 | [391628-cookie-flipper.json](./391628-cookie-flipper.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
@@ -11000,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Defense | 415386 | [415386-cozy-farm-defense.json](./415386-cozy-farm-defense.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
+| Cozy Farm Manager | 391563 | [391563-cozy-farm-manager.json](./391563-cozy-farm-manager.json) |
 | Cozy Farm: Tidy Up! | 417348 | [417348-cozy-farm-tidy-up.json](./417348-cozy-farm-tidy-up.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
