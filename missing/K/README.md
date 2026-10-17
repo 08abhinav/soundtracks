@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddymann | 100846 | [100846-kick-the-buddymann.json](./100846-kick-the-buddymann.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
+| Kick the Virus | 369905 | [369905-kick-the-virus.json](./369905-kick-the-virus.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
 | Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
 | Kick To Hell | 326635 | [326635-kick-to-hell.json](./326635-kick-to-hell.json) |
