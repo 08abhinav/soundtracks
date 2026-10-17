@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiao Xiao No. 2 | 290870 | [290870-xiao-xiao-no-2.json](./290870-xiao-xiao-no-2.json) |
 | Xiao Xiao No. 4 | 290869 | [290869-xiao-xiao-no-4.json](./290869-xiao-xiao-no-4.json) |
 | Xiao Xiao No. 6 | 290868 | [290868-xiao-xiao-no-6.json](./290868-xiao-xiao-no-6.json) |
+| Xiǎoguàiwù Bìxū Sǐ | 369354 | [369354-xiaoguaiwu-bixu-si.json](./369354-xiaoguaiwu-bixu-si.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | Xiǎojiě Wànsuì | 399289 | [399289-xiaojie-wansui.json](./399289-xiaojie-wansui.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
