@@ -336,7 +336,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Animalease | 236902 | [236902-100-animalease.json](./236902-100-animalease.json) |
 | 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
+| 100 Artroom Cats | 376182 | [376182-100-artroom-cats.json](./376182-100-artroom-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
+| 100 Atelier Cats | 376188 | [376188-100-atelier-cats.json](./376188-100-atelier-cats.json) |
 | 100 Aztec Cats | 306020 | [306020-100-aztec-cats.json](./306020-100-aztec-cats.json) |
 | 100 Bakery Cats | 376885 | [376885-100-bakery-cats.json](./376885-100-bakery-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
@@ -344,10 +346,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Berlin Cats | 334118 | [334118-100-berlin-cats.json](./334118-100-berlin-cats.json) |
 | 100 Blacksmith Cats | 376886 | [376886-100-blacksmith-cats.json](./376886-100-blacksmith-cats.json) |
 | 100 Bullets | 90935 | [90935-100-bullets.json](./90935-100-bullets.json) |
+| 100 Cafe Cats | 376181 | [376181-100-cafe-cats.json](./376181-100-cafe-cats.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
 | 100 Capitalist Cats: Extra Content | 282836 | [282836-100-capitalist-cats-extra-content.json](./282836-100-capitalist-cats-extra-content.json) |
+| 100 Casino Cats | 376180 | [376180-100-casino-cats.json](./376180-100-casino-cats.json) |
 | 100 Cats Argentina | 283865 | [283865-100-cats-argentina.json](./283865-100-cats-argentina.json) |
 | 100 Cats Beijing | 284620 | [284620-100-cats-beijing.json](./284620-100-cats-beijing.json) |
 | 100 Cats Belgrade | 284619 | [284619-100-cats-belgrade.json](./284619-100-cats-belgrade.json) |
@@ -473,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Pumpkins | 175852 | [175852-100-pumpkins.json](./175852-100-pumpkins.json) |
 | 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
+| 100 Ramen Cats | 376179 | [376179-100-ramen-cats.json](./376179-100-ramen-cats.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
@@ -484,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
+| 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
