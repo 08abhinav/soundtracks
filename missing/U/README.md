@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Battle | 33524 | [33524-unknown-battle.json](./33524-unknown-battle.json) |
 | Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
 | Unknown Dungeon | 266980 | [266980-unknown-dungeon.json](./266980-unknown-dungeon.json) |
+| Unknown Entity | 389531 | [389531-unknown-entity.json](./389531-unknown-entity.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown FPV: Drone Simulator | 251722 | [251722-unknown-fpv-drone-simulator.json](./251722-unknown-fpv-drone-simulator.json) |
