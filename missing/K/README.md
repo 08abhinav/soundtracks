@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
 | Kawaii Girls: Venice Crush | 362204 | [362204-kawaii-girls-venice-crush.json](./362204-kawaii-girls-venice-crush.json) |
 | Kawaii Hamster | 49756 | [49756-kawaii-hamster.json](./49756-kawaii-hamster.json) |
+| Kawaii Hentai Girls | 366530 | [366530-kawaii-hentai-girls.json](./366530-kawaii-hentai-girls.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Home Design | 118754 | [118754-kawaii-home-design.json](./118754-kawaii-home-design.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
