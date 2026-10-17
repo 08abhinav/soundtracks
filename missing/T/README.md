@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
+| Tacom Island | 401902 | [401902-tacom-island.json](./401902-tacom-island.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
 | Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
+| Take Over | 401900 | [401900-take-over.json](./401900-take-over.json) |
 | Take Over the World | 57489 | [57489-take-over-the-world.json](./57489-take-over-the-world.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
@@ -6532,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen | 130104 | [130104-the-fallen.json](./130104-the-fallen.json) |
 | The Fallen | 184872 | [184872-the-fallen.json](./184872-the-fallen.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
+| The Fallen Castle: Chapter 1 | 401924 | [401924-the-fallen-castle-chapter-1.json](./401924-the-fallen-castle-chapter-1.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
@@ -13178,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visible City | 139166 | [139166-the-visible-city.json](./139166-the-visible-city.json) |
+| The Vision | 401826 | [401826-the-vision.json](./401826-the-vision.json) |
 | The Vision of Escaflowne | 65406 | [65406-the-vision-of-escaflowne.json](./65406-the-vision-of-escaflowne.json) |
 | The Vision of the Ant | 186682 | [186682-the-vision-of-the-ant.json](./186682-the-vision-of-the-ant.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
@@ -14125,6 +14129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Thingamajig | 114167 | [114167-thingamajig.json](./114167-thingamajig.json) |
 | Thingamajigs | 397930 | [397930-thingamajigs.json](./397930-thingamajigs.json) |
+| Thingdle | 401683 | [401683-thingdle.json](./401683-thingdle.json) |
 | Thingio Side A: Let's Go! Thingio! | 323782 | [323782-thingio-side-a-lets-go-thingio.json](./323782-thingio-side-a-lets-go-thingio.json) |
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
@@ -14458,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three-Card Trick | 55952 | [55952-three-card-trick.json](./55952-three-card-trick.json) |
 | Three's a Crowd | 417459 | [417459-threes-a-crowd.json](./417459-threes-a-crowd.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
+| Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
@@ -17232,6 +17238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
+| Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
 | Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
@@ -17258,6 +17265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
+| Toca Cars | 401919 | [401919-toca-cars.json](./401919-toca-cars.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
@@ -19168,6 +19176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
+| Tower of Baby | 401931 | [401931-tower-of-baby.json](./401931-tower-of-baby.json) |
 | Tower of Boin | 271118 | [271118-tower-of-boin.json](./271118-tower-of-boin.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
