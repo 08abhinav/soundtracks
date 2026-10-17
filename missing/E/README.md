@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden to Greeeen | 65183 | [65183-eden-to-greeeen.json](./65183-eden-to-greeeen.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
+| Eden: Create World | 370423 | [370423-eden-create-world.json](./370423-eden-create-world.json) |
 | Eden: New Dawn | 369642 | [369642-eden-new-dawn.json](./369642-eden-new-dawn.json) |
 | Eden: New Dawn - Free Edition | 395263 | [395263-eden-new-dawn-free-edition.json](./395263-eden-new-dawn-free-edition.json) |
 | Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
@@ -3790,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: Cinderella | 228007 | [228007-escape-game-cinderella.json](./228007-escape-game-cinderella.json) |
 | Escape Game: Enchanting Tales | 174263 | [174263-escape-game-enchanting-tales.json](./174263-escape-game-enchanting-tales.json) |
 | Escape Game: Fort Boyard Edition 2021 | 154787 | [154787-escape-game-fort-boyard-edition-2021.json](./154787-escape-game-fort-boyard-edition-2021.json) |
+| Escape Game: Galleria | 370420 | [370420-escape-game-galleria.json](./370420-escape-game-galleria.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
