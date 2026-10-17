@@ -3660,7 +3660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
 | PewDiePie's Pixelings | 130817 | [130817-pewdiepies-pixelings.json](./130817-pewdiepies-pixelings.json) |
-| PewDiePie's Tuber Simulator | 23867 | [23867-pewdiepies-tuber-simulator.json](./23867-pewdiepies-tuber-simulator.json) |
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew | 154837 | [154837-pewpew.json](./154837-pewpew.json) |
