@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
+| Halo: Doom Evolved | 401297 | [401297-halo-doom-evolved.json](./401297-halo-doom-evolved.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
 | Halo: Project Chozo | 414595 | [414595-halo-project-chozo.json](./414595-halo-project-chozo.json) |
