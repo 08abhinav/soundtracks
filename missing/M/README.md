@@ -3161,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart and Tetra | 167171 | [167171-mart-and-tetra.json](./167171-mart-and-tetra.json) |
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
+| Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
 | Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
@@ -8587,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Vote 2022 Skin Pack | 303029 | [303029-minecraft-mob-vote-2022-skin-pack.json](./303029-minecraft-mob-vote-2022-skin-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
+| Minecraft: Moon Edition | 416048 | [416048-minecraft-moon-edition.json](./416048-minecraft-moon-edition.json) |
 | Minecraft: Mounts of Mayhem | 383126 | [383126-minecraft-mounts-of-mayhem.json](./383126-minecraft-mounts-of-mayhem.json) |
 | Minecraft: Mutant Zombie Dungeons | 334047 | [334047-minecraft-mutant-zombie-dungeons.json](./334047-minecraft-mutant-zombie-dungeons.json) |
 | Minecraft: Mutants Add-On 2.0 | 334049 | [334049-minecraft-mutants-add-on-2-0.json](./334049-minecraft-mutants-add-on-2-0.json) |
