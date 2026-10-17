@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
+| 3Dash Ultra | 412318 | [412318-3dash-ultra.json](./412318-3dash-ultra.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
 | 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Years Classic | 377391 | [377391-50-years-classic.json](./377391-50-years-classic.json) |
 | 500 c.c MotoManager | 14196 | [14196-500-c-c-motomanager.json](./14196-500-c-c-motomanager.json) |
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
+| 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
 | 500 Years Act 1 | 35587 | [35587-500-years-act-1.json](./35587-500-years-act-1.json) |
