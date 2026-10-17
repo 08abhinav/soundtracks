@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reimus Awesome Holiday | 216204 | [216204-reimus-awesome-holiday.json](./216204-reimus-awesome-holiday.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
+| Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
+| Remnants of Sin: Deck & Puzzle | 385352 | [385352-remnants-of-sin-deck-and-puzzle.json](./385352-remnants-of-sin-deck-and-puzzle.json) |
 | Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
 | Remnants of the Precursors | 133756 | [133756-remnants-of-the-precursors.json](./133756-remnants-of-the-precursors.json) |
@@ -4519,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
+| Revenant's Reach | 385405 | [385405-revenants-reach.json](./385405-revenants-reach.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
@@ -6185,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
@@ -7002,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue | 2872 | [2872-rogue.json](./2872-rogue.json) |
 | Rogue 'n' Roll: Dice of Fate | 400466 | [400466-rogue-n-roll-dice-of-fate.json](./400466-rogue-n-roll-dice-of-fate.json) |
+| Rogue 21 | 385427 | [385427-rogue-21.json](./385427-rogue-21.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Aces Deluxe | 139683 | [139683-rogue-aces-deluxe.json](./139683-rogue-aces-deluxe.json) |
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
