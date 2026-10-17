@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
 | Rifle Dodger | 169774 | [169774-rifle-dodger.json](./169774-rifle-dodger.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
+| Rifle Range | 413014 | [413014-rifle-range.json](./413014-rifle-range.json) |
 | Rifle Strike | 149539 | [149539-rifle-strike.json](./149539-rifle-strike.json) |
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift | 489 | [489-rift.json](./489-rift.json) |
@@ -6678,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
 | RocketBird Classic | 230725 | [230725-rocketbird-classic.json](./230725-rocketbird-classic.json) |
+| RocketBird Relaunched | 412936 | [412936-rocketbird-relaunched.json](./412936-rocketbird-relaunched.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
