@@ -4192,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serra de Deus | 354401 | [354401-serra-de-deus.json](./354401-serra-de-deus.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serre | 134522 | [134522-serre.json](./134522-serre.json) |
+| Serre | 365457 | [365457-serre.json](./365457-serre.json) |
 | Sertorgina | 284616 | [284616-sertorgina.json](./284616-sertorgina.json) |
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
@@ -20923,6 +20924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4ever Plus | 71199 | [71199-sudoku-4ever-plus.json](./71199-sudoku-4ever-plus.json) |
 | Sudoku 4ever Plus | 71201 | [71201-sudoku-4ever-plus.json](./71201-sudoku-4ever-plus.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
+| Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
