@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomboard | 336055 | [336055-zomboard.json](./336055-zomboard.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
+| Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
