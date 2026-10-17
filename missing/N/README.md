@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nekrotronic VR | 121547 | [121547-nekrotronic-vr.json](./121547-nekrotronic-vr.json) |
 | Nekura na Classmate ga Ore no Ibukuro wo Tsukande Hanashite Kurenai | 326642 | [326642-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai.json](./326642-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai.json) |
+| Nekura na Classmate ga Ore no Ibukuro wo Tsukande Hanashite Kurenai: Nekura na Classmate to Issho ni Gohan Set | 411406 | [411406-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai-nekura-na-classmate-to-issho-ni-gohan-set.json](./411406-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai-nekura-na-classmate-to-issho-ni-gohan-set.json) |
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nelke & the Legendary Alchemists: Ateliers of a New World - Premium Box | 136794 | [136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json](./136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json) |
