@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
+| 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
+| 2004: Space Becherovka | 391035 | [391035-2004-space-becherovka.json](./391035-2004-space-becherovka.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
 | 2005: A Game of Macroeconomics | 299559 | [299559-2005-a-game-of-macroeconomics.json](./299559-2005-a-game-of-macroeconomics.json) |
