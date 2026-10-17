@@ -7633,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
+| DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
@@ -12425,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
+| Dune: Awakening - The Water Wars DLC | 400089 | [400089-dune-awakening-the-water-wars-dlc.json](./400089-dune-awakening-the-water-wars-dlc.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Imperium - Immortality | 407850 | [407850-dune-imperium-immortality.json](./407850-dune-imperium-immortality.json) |
 | Dune: Imperium - Uprising | 407856 | [407856-dune-imperium-uprising.json](./407856-dune-imperium-uprising.json) |
