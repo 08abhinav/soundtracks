@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
+| LEGO Batman: Legacy of the Dark Knight - The Dark Knight Returns Suit | 409868 | [409868-lego-batman-legacy-of-the-dark-knight-the-dark-knight-returns-suit.json](./409868-lego-batman-legacy-of-the-dark-knight-the-dark-knight-returns-suit.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
@@ -3647,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
 | Lime Stenched Dirt | 375555 | [375555-lime-stenched-dirt.json](./375555-lime-stenched-dirt.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
+| Limekaruza STG | 409888 | [409888-limekaruza-stg.json](./409888-limekaruza-stg.json) |
 | Limelight | 303633 | [303633-limelight.json](./303633-limelight.json) |
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | Limen | 236921 | [236921-limen.json](./236921-limen.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Shrunk: Giantess Horror | 105821 | [105821-lost-and-shrunk-giantess-horror.json](./105821-lost-and-shrunk-giantess-horror.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
+| Lost Ages Hunting | 409870 | [409870-lost-ages-hunting.json](./409870-lost-ages-hunting.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
