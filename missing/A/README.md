@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat & His Boy | 295390 | [295390-a-cat-and-his-boy.json](./295390-a-cat-and-his-boy.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat named Gossamergoober | 379457 | [379457-a-cat-named-gossamergoober.json](./379457-a-cat-named-gossamergoober.json) |
+| A Cat Named Venus Shorttail | 385444 | [385444-a-cat-named-venus-shorttail.json](./385444-a-cat-named-venus-shorttail.json) |
 | A Cat's Night | 125203 | [125203-a-cats-night.json](./125203-a-cats-night.json) |
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
@@ -6174,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Aspie Life | 83798 | [83798-an-aspie-life.json](./83798-an-aspie-life.json) |
 | An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
+| An Automaton's Journey | 385433 | [385433-an-automatons-journey.json](./385433-an-automatons-journey.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Average Day at the Cat Cafe | 227732 | [227732-an-average-day-at-the-cat-cafe.json](./227732-an-average-day-at-the-cat-cafe.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
@@ -9352,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
+| Aresda | 385422 | [385422-aresda.json](./385422-aresda.json) |
 | Aretha | 222820 | [222820-aretha.json](./222820-aretha.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
