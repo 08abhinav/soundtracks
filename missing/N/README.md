@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Hike | 288696 | [288696-night-hike.json](./288696-night-hike.json) |
 | Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
+| Night in Delirium | 372725 | [372725-night-in-delirium.json](./372725-night-in-delirium.json) |
 | Night in the Countryside | 176400 | [176400-night-in-the-countryside.json](./176400-night-in-the-countryside.json) |
 | Night in the Storm | 134494 | [134494-night-in-the-storm.json](./134494-night-in-the-storm.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
