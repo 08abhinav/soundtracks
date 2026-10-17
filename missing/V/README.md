@@ -1714,6 +1714,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
+| Vinnie's Rampage | 393422 | [393422-vinnies-rampage.json](./393422-vinnies-rampage.json) |
+| Vinnie's Shooting Yard | 393423 | [393423-vinnies-shooting-yard.json](./393423-vinnies-shooting-yard.json) |
+| Vinnie's Shooting Yard 2 | 393424 | [393424-vinnies-shooting-yard-2.json](./393424-vinnies-shooting-yard-2.json) |
+| Vinnie's Shooting Yard 3 | 393425 | [393425-vinnies-shooting-yard-3.json](./393425-vinnies-shooting-yard-3.json) |
+| Vinnie's Shooting Yard 4 | 393426 | [393426-vinnies-shooting-yard-4.json](./393426-vinnies-shooting-yard-4.json) |
+| Vinnie's Shooting Yard 5 | 393427 | [393427-vinnies-shooting-yard-5.json](./393427-vinnies-shooting-yard-5.json) |
 | Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb | 374954 | [374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json](./374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json) |
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
