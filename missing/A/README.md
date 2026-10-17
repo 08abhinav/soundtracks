@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mars Journey: Redturtle | 109394 | [109394-a-mars-journey-redturtle.json](./109394-a-mars-journey-redturtle.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
+| A Match Made In Hell | 402863 | [402863-a-match-made-in-hell.json](./402863-a-match-made-in-hell.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Principle | 226218 | [226218-a-matter-of-principle.json](./226218-a-matter-of-principle.json) |
