@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
+| Junkyard Saints: Scrapstorm | 405930 | [405930-junkyard-saints-scrapstorm.json](./405930-junkyard-saints-scrapstorm.json) |
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
 | Junkyard War | 207557 | [207557-junkyard-war.json](./207557-junkyard-war.json) |
 | Junkybots | 292959 | [292959-junkybots.json](./292959-junkybots.json) |
