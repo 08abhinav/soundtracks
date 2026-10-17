@@ -8277,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
+| PokeNade Monster Ball | 366574 | [366574-pokenade-monster-ball.json](./366574-pokenade-monster-ball.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokéOne | 127982 | [127982-pokeone.json](./127982-pokeone.json) |
 | PokéPark 2: Wonders Beyond | 4559 | [4559-pokepark-2-wonders-beyond.json](./4559-pokepark-2-wonders-beyond.json) |
