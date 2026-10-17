@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
+| Paguroideo | 392178 | [392178-paguroideo.json](./392178-paguroideo.json) |
 | Pahelica Revelations | 22116 | [22116-pahelica-revelations.json](./22116-pahelica-revelations.json) |
 | Pahelika Secret Legends | 10649 | [10649-pahelika-secret-legends.json](./10649-pahelika-secret-legends.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park It at All Costs! | 373125 | [373125-park-it-at-all-costs.json](./373125-park-it-at-all-costs.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
+| Park My Car | 392198 | [392198-park-my-car.json](./392198-park-my-car.json) |
 | Park of Monster | 120906 | [120906-park-of-monster.json](./120906-park-of-monster.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
 | Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
@@ -6141,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
+| Pixelarium: Free Lands | 392114 | [392114-pixelarium-free-lands.json](./392114-pixelarium-free-lands.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
 | Pixelated Jigsaw | 91309 | [91309-pixelated-jigsaw.json](./91309-pixelated-jigsaw.json) |
 | Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
@@ -11802,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudo-Psy Play | 216937 | [216937-pseudo-psy-play.json](./216937-pseudo-psy-play.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Pseudomod | 281309 | [281309-pseudomod.json](./281309-pseudomod.json) |
+| Pseudoregalia Rando | 392158 | [392158-pseudoregalia-rando.json](./392158-pseudoregalia-rando.json) |
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
@@ -12380,6 +12384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
 | Puppy Luv: Your New Best Friend | 51138 | [51138-puppy-luv-your-new-best-friend.json](./51138-puppy-luv-your-new-best-friend.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
+| Puppy Park | 392208 | [392208-puppy-park.json](./392208-puppy-park.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
