@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibuya Marble Texture | 184310 | [184310-shibuya-marble-texture.json](./184310-shibuya-marble-texture.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shibuya Sukeban | 248799 | [248799-shibuya-sukeban.json](./248799-shibuya-sukeban.json) |
+| Shibuya Sushi Master | 381391 | [381391-shibuya-sushi-master.json](./381391-shibuya-sushi-master.json) |
 | Shichi-nin no Online Gamers Offline | 78095 | [78095-shichi-nin-no-online-gamers-offline.json](./78095-shichi-nin-no-online-gamers-offline.json) |
 | Shichisei Tantei Club: Koganemushi-tachi no Kisou | 226111 | [226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json](./226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
@@ -8952,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyborn | 9423 | [9423-skyborn.json](./9423-skyborn.json) |
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
+| Skybound | 381387 | [381387-skybound.json](./381387-skybound.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
@@ -13632,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Detective: The Case of the Rebel Robot | 276971 | [276971-space-detective-the-case-of-the-rebel-robot.json](./276971-space-detective-the-case-of-the-rebel-robot.json) |
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
+| Space Digger Red Beard | 381313 | [381313-space-digger-red-beard.json](./381313-space-digger-red-beard.json) |
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
@@ -22824,6 +22827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid Eleven | 324514 | [324514-super-metroid-eleven.json](./324514-super-metroid-eleven.json) |
+| Super Metroid Kaizo Possible | 381397 | [381397-super-metroid-kaizo-possible.json](./381397-super-metroid-kaizo-possible.json) |
 | Super Metroid World | 323293 | [323293-super-metroid-world.json](./323293-super-metroid-world.json) |
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
