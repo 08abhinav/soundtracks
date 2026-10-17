@@ -5323,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Wonder | 246537 | [246537-alpine-wonder.json](./246537-alpine-wonder.json) |
 | Alpine Zone | 321491 | [321491-alpine-zone.json](./321491-alpine-zone.json) |
 | Alpine: The Simulation Game | 165383 | [165383-alpine-the-simulation-game.json](./165383-alpine-the-simulation-game.json) |
+| Alptraum | 412358 | [412358-alptraum.json](./412358-alptraum.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
@@ -8777,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
+| Arcadia: Find the Difference 3D | 412341 | [412341-arcadia-find-the-difference-3d.json](./412341-arcadia-find-the-difference-3d.json) |
 | Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
@@ -10455,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
 | Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
+| Assassin's Creed II: Multiplayer | 412331 | [412331-assassins-creed-ii-multiplayer.json](./412331-assassins-creed-ii-multiplayer.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III Mobile | 68530 | [68530-assassins-creed-iii-mobile.json](./68530-assassins-creed-iii-mobile.json) |
