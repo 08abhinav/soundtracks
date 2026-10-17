@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
+| Back to the Village | 395244 | [395244-back-to-the-village.json](./395244-back-to-the-village.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
 | Back Wars | 105726 | [105726-back-wars.json](./105726-back-wars.json) |
 | Back*space | 402235 | [402235-back-space.json](./402235-back-space.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
+| Ballerspiel | 395290 | [395290-ballerspiel.json](./395290-ballerspiel.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballex | 120937 | [120937-ballex.json](./120937-ballex.json) |
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
@@ -11735,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Heroes Quest | 101039 | [101039-bug-heroes-quest.json](./101039-bug-heroes-quest.json) |
 | Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
+| Bug Hunter: The Secret of Algebra | 395254 | [395254-bug-hunter-the-secret-of-algebra.json](./395254-bug-hunter-the-secret-of-algebra.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
