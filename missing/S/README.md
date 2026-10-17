@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo and the Cyber Chase | 248593 | [248593-scooby-doo-and-the-cyber-chase.json](./248593-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Cyber Chase | 2859 | [2859-scooby-doo-and-the-cyber-chase.json](./2859-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
+| Scooby-Doo Cloning | 403005 | [403005-scooby-doo-cloning.json](./403005-scooby-doo-cloning.json) |
 | Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | Scooby-Doo!: Mystery Mayhem | 49225 | [49225-scooby-doo-mystery-mayhem.json](./49225-scooby-doo-mystery-mayhem.json) |
 | Scooby-Doo!: Pirate Ghost of the Barbary Coast | 137540 | [137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json](./137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json) |
+| Scooby-Doo!: Zombie Hunter | 403002 | [403002-scooby-doo-zombie-hunter.json](./403002-scooby-doo-zombie-hunter.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
 | Scoop it! Goldfish | 308500 | [308500-scoop-it-goldfish.json](./308500-scoop-it-goldfish.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
@@ -9441,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding-Block Puzzles | 92426 | [92426-sliding-block-puzzles.json](./92426-sliding-block-puzzles.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
+| Slight Mechanical Destruction | 402793 | [402793-slight-mechanical-destruction.json](./402793-slight-mechanical-destruction.json) |
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
@@ -9877,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
+| Small Pile of Gibs | 402797 | [402797-small-pile-of-gibs.json](./402797-small-pile-of-gibs.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
 | Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
@@ -11395,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
+| Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
