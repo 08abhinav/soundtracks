@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots AX: Rokusho Version | 49234 | [49234-medabots-ax-rokusho-version.json](./49234-medabots-ax-rokusho-version.json) |
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
 | Medabots Infinity | 3999 | [3999-medabots-infinity.json](./3999-medabots-infinity.json) |
+| Medabots Survivors | 392818 | [392818-medabots-survivors.json](./392818-medabots-survivors.json) |
 | Medabots: Metabee | 7583 | [7583-medabots-metabee.json](./7583-medabots-metabee.json) |
 | Medabots: Robattle 3D | 59828 | [59828-medabots-robattle-3d.json](./59828-medabots-robattle-3d.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
@@ -9476,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfit Company | 400409 | [400409-misfit-company.json](./400409-misfit-company.json) |
+| Misfit: The Rebirth of Death | 392712 | [392712-misfit-the-rebirth-of-death.json](./392712-misfit-the-rebirth-of-death.json) |
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfitz | 375350 | [375350-misfitz.json](./375350-misfitz.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
@@ -10935,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
+| Monster Detective | 392740 | [392740-monster-detective.json](./392740-monster-detective.json) |
 | Monster Dice | 175649 | [175649-monster-dice.json](./175649-monster-dice.json) |
 | Monster Dot | 76154 | [76154-monster-dot.json](./76154-monster-dot.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
