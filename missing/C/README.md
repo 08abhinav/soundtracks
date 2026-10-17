@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
 | Castlevania | 322139 | [322139-castlevania.json](./322139-castlevania.json) |
+| Castlevania | 398838 | [398838-castlevania.json](./398838-castlevania.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania SNES Port | 377219 | [377219-castlevania-snes-port.json](./377219-castlevania-snes-port.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow | 222412 | [222412-castlevania-aria-of-sorrow.json](./222412-castlevania-aria-of-sorrow.json) |
+| Castlevania: Aria of Sorrow | 398836 | [398836-castlevania-aria-of-sorrow.json](./398836-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow - Genya Arikado Hack | 173094 | [173094-castlevania-aria-of-sorrow-genya-arikado-hack.json](./173094-castlevania-aria-of-sorrow-genya-arikado-hack.json) |
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
@@ -2528,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
+| Castlevania: Dawn of Sorrow | 398837 | [398837-castlevania-dawn-of-sorrow.json](./398837-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
 | Castlevania: Dracula X | 16476 | [16476-castlevania-dracula-x.json](./16476-castlevania-dracula-x.json) |
 | Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
@@ -2549,6 +2552,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Moonlight Rhapsody | 421838 | [421838-castlevania-moonlight-rhapsody.json](./421838-castlevania-moonlight-rhapsody.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Order of Shadows | 1140 | [1140-castlevania-order-of-shadows.json](./1140-castlevania-order-of-shadows.json) |
+| Castlevania: Part 1 | 398839 | [398839-castlevania-part-1.json](./398839-castlevania-part-1.json) |
+| Castlevania: Part 1 | 398842 | [398842-castlevania-part-1.json](./398842-castlevania-part-1.json) |
+| Castlevania: Part 2 | 398840 | [398840-castlevania-part-2.json](./398840-castlevania-part-2.json) |
+| Castlevania: Part 2 | 398843 | [398843-castlevania-part-2.json](./398843-castlevania-part-2.json) |
+| Castlevania: Part 3 | 398841 | [398841-castlevania-part-3.json](./398841-castlevania-part-3.json) |
+| Castlevania: Part 3 | 398844 | [398844-castlevania-part-3.json](./398844-castlevania-part-3.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
 | Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
@@ -7091,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
+| Cliffhanger Solitaire | 398816 | [398816-cliffhanger-solitaire.json](./398816-cliffhanger-solitaire.json) |
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford the Big Red Dog: Phonics | 70075 | [70075-clifford-the-big-red-dog-phonics.json](./70075-clifford-the-big-red-dog-phonics.json) |
@@ -11609,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Farm: Roguelike Idle Building Game | 412497 | [412497-crazy-farm-roguelike-idle-building-game.json](./412497-crazy-farm-roguelike-idle-building-game.json) |
 | Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
 | Crazy Fishing Champion | 256200 | [256200-crazy-fishing-champion.json](./256200-crazy-fishing-champion.json) |
+| Crazy Flasher 2 | 398917 | [398917-crazy-flasher-2.json](./398917-crazy-flasher-2.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Flies | 31058 | [31058-crazy-flies.json](./31058-crazy-flies.json) |
