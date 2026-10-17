@@ -11973,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
+| Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
 | Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
