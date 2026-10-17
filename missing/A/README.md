@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Regular Store | 337209 | [337209-a-regular-store.json](./337209-a-regular-store.json) |
 | A Ride Into the Mountains | 41507 | [41507-a-ride-into-the-mountains.json](./41507-a-ride-into-the-mountains.json) |
 | A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
+| A Ridiculous Waste of Time | 408548 | [408548-a-ridiculous-waste-of-time.json](./408548-a-ridiculous-waste-of-time.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
+| Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
 | Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
@@ -4857,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Bears Love Honey | 133818 | [133818-all-bears-love-honey.json](./133818-all-bears-love-honey.json) |
 | All Black | 356686 | [356686-all-black.json](./356686-all-black.json) |
 | All Bosses | 268668 | [268668-all-bosses.json](./268668-all-bosses.json) |
+| All But Weak | 408521 | [408521-all-but-weak.json](./408521-all-but-weak.json) |
 | All Cats 'r Belong To Us | 290484 | [290484-all-cats-r-belong-to-us.json](./290484-all-cats-r-belong-to-us.json) |
 | All Chess | 259050 | [259050-all-chess.json](./259050-all-chess.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
@@ -4984,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All That Remains: Part 1 | 91069 | [91069-all-that-remains-part-1.json](./91069-all-that-remains-part-1.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
+| All the Gold in Fort Locks | 408498 | [408498-all-the-gold-in-fort-locks.json](./408498-all-the-gold-in-fort-locks.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the King's Men | 163856 | [163856-all-the-kings-men.json](./163856-all-the-kings-men.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
@@ -7856,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
+| Apex Legends Overclocked | 408527 | [408527-apex-legends-overclocked.json](./408527-apex-legends-overclocked.json) |
 | Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Bangalore Edition | 170286 | [170286-apex-legends-bangalore-edition.json](./170286-apex-legends-bangalore-edition.json) |
@@ -10968,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
+| Astro Arena | 408493 | [408493-astro-arena.json](./408493-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
