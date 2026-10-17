@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary defense | 93731 | [93731-scary-defense.json](./93731-scary-defense.json) |
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Evil Horror | 320927 | [320927-scary-evil-horror.json](./320927-scary-evil-horror.json) |
+| Scary Ferry | 369892 | [369892-scary-ferry.json](./369892-scary-ferry.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Game 2: The Mad Shepherd | 401144 | [401144-scary-game-2-the-mad-shepherd.json](./401144-scary-game-2-the-mad-shepherd.json) |
 | Scary Girl | 16284 | [16284-scary-girl.json](./16284-scary-girl.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
+| Seal of Fate | 369855 | [369855-seal-of-fate.json](./369855-seal-of-fate.json) |
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
@@ -8176,6 +8178,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
 | Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
+| Sins of a Solar Empire II: Content Pass | 369866 | [369866-sins-of-a-solar-empire-ii-content-pass.json](./369866-sins-of-a-solar-empire-ii-content-pass.json) |
+| Sins of a Solar Empire II: Harbinger | 369870 | [369870-sins-of-a-solar-empire-ii-harbinger.json](./369870-sins-of-a-solar-empire-ii-harbinger.json) |
+| Sins of a Solar Empire II: Paths to Power | 369867 | [369867-sins-of-a-solar-empire-ii-paths-to-power.json](./369867-sins-of-a-solar-empire-ii-paths-to-power.json) |
+| Sins of a Solar Empire II: Reinforcements | 369868 | [369868-sins-of-a-solar-empire-ii-reinforcements.json](./369868-sins-of-a-solar-empire-ii-reinforcements.json) |
+| Sins of a Solar Empire II: Times of War | 369869 | [369869-sins-of-a-solar-empire-ii-times-of-war.json](./369869-sins-of-a-solar-empire-ii-times-of-war.json) |
 | Sins of a Solar Empire: Diplomacy | 67208 | [67208-sins-of-a-solar-empire-diplomacy.json](./67208-sins-of-a-solar-empire-diplomacy.json) |
 | Sins of a Solar Empire: Entrenchment | 84330 | [84330-sins-of-a-solar-empire-entrenchment.json](./84330-sins-of-a-solar-empire-entrenchment.json) |
 | Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
@@ -16174,6 +16181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
 | Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
+| Spread The Love | 369846 | [369846-spread-the-love.json](./369846-spread-the-love.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
