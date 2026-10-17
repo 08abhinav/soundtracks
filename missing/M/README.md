@@ -11298,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
+| Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
@@ -11798,6 +11799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
+| More Life, Dead Interface | 402246 | [402246-more-life-dead-interface.json](./402246-more-life-dead-interface.json) |
 | More Mobile Suit Gundam Extreme Vs. 2 | 99074 | [99074-more-mobile-suit-gundam-extreme-vs-2.json](./99074-more-mobile-suit-gundam-extreme-vs-2.json) |
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
@@ -12647,6 +12649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
 | Mouse Practice for Kids | 373897 | [373897-mouse-practice-for-kids.json](./373897-mouse-practice-for-kids.json) |
+| Mouse Saving Simulator | 402226 | [402226-mouse-saving-simulator.json](./402226-mouse-saving-simulator.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
