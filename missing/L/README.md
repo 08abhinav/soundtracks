@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
+| Let Me Go | 377344 | [377344-let-me-go.json](./377344-let-me-go.json) |
 | Let Me In | 342726 | [342726-let-me-in.json](./342726-let-me-in.json) |
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
 | Let Me Inside | 376486 | [376486-let-me-inside.json](./376486-let-me-inside.json) |
