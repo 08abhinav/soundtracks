@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's cat simulator | 127819 | [127819-schrodingers-cat-simulator.json](./127819-schrodingers-cat-simulator.json) |
+| Schrodinger's Catgirl | 409882 | [409882-schrodingers-catgirl.json](./409882-schrodingers-catgirl.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Dungeon | 381845 | [381845-schrodingers-dungeon.json](./381845-schrodingers-dungeon.json) |
 | Schrödinger’s Maze | 358477 | [358477-schrodinger-s-maze.json](./358477-schrodinger-s-maze.json) |
@@ -8511,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
+| Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
@@ -14248,6 +14250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacer Project | 128260 | [128260-spacer-project.json](./128260-spacer-project.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
+| SpaceRiddle | 409833 | [409833-spaceriddle.json](./409833-spaceriddle.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
 | SpaceRoads | 75420 | [75420-spaceroads.json](./75420-spaceroads.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
@@ -14962,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
+| Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
@@ -15771,6 +15775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Tales and Mummy Trails | 420659 | [420659-spooky-tales-and-mummy-trails.json](./420659-spooky-tales-and-mummy-trails.json) |
+| Spooky Tales: Nini's Teddy | 409849 | [409849-spooky-tales-ninis-teddy.json](./409849-spooky-tales-ninis-teddy.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
@@ -20681,6 +20686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
 | Suds | 247656 | [247656-suds.json](./247656-suds.json) |
+| Suds and Buds | 409837 | [409837-suds-and-buds.json](./409837-suds-and-buds.json) |
 | Suduce-U | 401066 | [401066-suduce-u.json](./401066-suduce-u.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Sue's Chocolate Candy Maker | 293211 | [293211-sues-chocolate-candy-maker.json](./293211-sues-chocolate-candy-maker.json) |
@@ -20855,6 +20861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukeban Shachou Rena | 5195 | [5195-sukeban-shachou-rena.json](./5195-sukeban-shachou-rena.json) |
 | Sukebe Beach | 240695 | [240695-sukebe-beach.json](./240695-sukebe-beach.json) |
 | Sukebe Office | 244224 | [244224-sukebe-office.json](./244224-sukebe-office.json) |
+| Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
@@ -23332,6 +23339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Tilt Bro. | 118213 | [118213-super-tilt-bro.json](./118213-super-tilt-bro.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
+| Super Tiny Leap | 409890 | [409890-super-tiny-leap.json](./409890-super-tiny-leap.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
 | Super Tofu Friends | 183337 | [183337-super-tofu-friends.json](./183337-super-tofu-friends.json) |
