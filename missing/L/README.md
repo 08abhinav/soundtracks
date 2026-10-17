@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Law: Transporter | 292425 | [292425-law-transporter.json](./292425-law-transporter.json) |
+| Lawang Sewu: Basement B | 364238 | [364238-lawang-sewu-basement-b.json](./364238-lawang-sewu-basement-b.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
 | Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Ark 5 | 404845 | [404845-life-ark-5.json](./404845-life-ark-5.json) |
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
+| Life at 12:47PM | 364239 | [364239-life-at-12-47pm.json](./364239-life-at-12-47pm.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
@@ -3719,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Salvation | 358996 | [358996-liminal-salvation.json](./358996-liminal-salvation.json) |
 | Liminal Shroud | 321405 | [321405-liminal-shroud.json](./321405-liminal-shroud.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
+| Liminal Skies | 364244 | [364244-liminal-skies.json](./364244-liminal-skies.json) |
 | Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Space | 250824 | [250824-liminal-space.json](./250824-liminal-space.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
@@ -3973,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionheart: Legacy of the Crusader | 7505 | [7505-lionheart-legacy-of-the-crusader.json](./7505-lionheart-legacy-of-the-crusader.json) |
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
+| Liono IceCape | 364240 | [364240-liono-icecape.json](./364240-liono-icecape.json) |
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | Lips | 7050 | [7050-lips.json](./7050-lips.json) |
@@ -5788,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
+| Lost in the Maze of Those Memories I Wander and Nervously Laugh | 364243 | [364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json](./364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
 | Lost In The Murk | 245776 | [245776-lost-in-the-murk.json](./245776-lost-in-the-murk.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
