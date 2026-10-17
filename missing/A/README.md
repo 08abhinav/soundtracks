@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlifes | 118086 | [118086-afterlifes.json](./118086-afterlifes.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
+| Afterlight: The Apartment | 414805 | [414805-afterlight-the-apartment.json](./414805-afterlight-the-apartment.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
 | AfterLoop | 105427 | [105427-afterloop.json](./105427-afterloop.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
@@ -7190,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
+| Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1404: History Edition | 135738 | [135738-anno-1404-history-edition.json](./135738-anno-1404-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
@@ -8355,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
+| Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
@@ -8362,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
+| Arcade Archives 2: Ninja Emaki | 414797 | [414797-arcade-archives-2-ninja-emaki.json](./414797-arcade-archives-2-ninja-emaki.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
