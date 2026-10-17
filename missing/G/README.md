@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game no Tetsujin: The Shanghai | 44413 | [44413-game-no-tetsujin-the-shanghai.json](./44413-game-no-tetsujin-the-shanghai.json) |
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
+| Game of Dice | 374909 | [374909-game-of-dice.json](./374909-game-of-dice.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
 | Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
 | Gods and Mages | 387746 | [387746-gods-and-mages.json](./387746-gods-and-mages.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
+| Gods Deify War | 374905 | [374905-gods-deify-war.json](./374905-gods-deify-war.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
+| Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | Grassfires of Veldstar | 183328 | [183328-grassfires-of-veldstar.json](./183328-grassfires-of-veldstar.json) |
@@ -6572,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
+| Grim Pastures: Outlaws | 374920 | [374920-grim-pastures-outlaws.json](./374920-grim-pastures-outlaws.json) |
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
 | Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
 | Grim Prix | 266756 | [266756-grim-prix.json](./266756-grim-prix.json) |
@@ -6980,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
+| Growmon Island | 374908 | [374908-growmon-island.json](./374908-growmon-island.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
