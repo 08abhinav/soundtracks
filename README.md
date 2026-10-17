@@ -1545,6 +1545,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecba831ed7585b5b55ce19e1" width="60" /> | [Trover Saves the Universe](https://ostdb.net/games/trover-saves-the-universe) | **Trover Saves the Universe (Official Soundtrack) [Deluxe Edition]** · [Spotify](https://open.spotify.com/album/6GJQ4mCR4OXIlWm0QDOcIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736682939ddefafa4ca0841e94" width="60" /> | [Tunic](https://ostdb.net/games/tunic) | **Tunic (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f1d37fb81ab36539d951d3" width="60" /> | [Turmoil](https://ostdb.net/games/turmoil) | **Turmoil (The Original Soundtrack)** · [Spotify](https://open.spotify.com/album/04oGvmw6mLF1TCFP9yk6Fb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b78e84b8287b1870f837594" width="60" /> | [Turnip Boy Robs a Bank](https://ostdb.net/games/turnip-boy-robs-a-bank) | **Turnip Boy Robs a Bank (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0V4sNrqNUQdOP8APcSSzpD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739de84199defda845906bd96e" width="60" /> | [Twelve Minutes](https://ostdb.net/games/twelve-minutes) | **Twelve Minutes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4iQp0T3hWqb5XUnHG6Uh8t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bf692e6a1adcb86d81f5771" width="60" /> | [Twin Mirror](https://ostdb.net/games/twin-mirror) | **Twin Mirror (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317ee0ac76be88d1998527448" width="60" /> | [Twisted Metal](https://ostdb.net/games/twisted-metal) | **Twisted Metal (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77lCTY8B3fiNeuSxg3ljKu) |
@@ -1715,4 +1716,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2032 soundtracks · last updated 2026-10-17T15:01:59.884Z_
+_2033 soundtracks · last updated 2026-10-17T15:02:08.336Z_
