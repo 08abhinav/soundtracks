@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
 | Kingdom of Heroes | 171876 | [171876-kingdom-of-heroes.json](./171876-kingdom-of-heroes.json) |
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
+| Kingdom of Hope | 373813 | [373813-kingdom-of-hope.json](./373813-kingdom-of-hope.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
