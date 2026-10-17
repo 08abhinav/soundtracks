@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Man | 231494 | [231494-janken-man.json](./231494-janken-man.json) |
 | Janken Samurai | 235252 | [235252-janken-samurai.json](./235252-janken-samurai.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
+| JankenSoko | 401923 | [401923-jankensoko.json](./401923-jankensoko.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
