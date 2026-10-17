@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
+| T7's Basics in Birthday | 414807 | [414807-t7s-basics-in-birthday.json](./414807-t7s-basics-in-birthday.json) |
 | T7's Basics Plus | 415469 | [415469-t7s-basics-plus.json](./415469-t7s-basics-plus.json) |
 | T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
+| Tails of Iron II: Blood and Brine | 414781 | [414781-tails-of-iron-ii-blood-and-brine.json](./414781-tails-of-iron-ii-blood-and-brine.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
@@ -3630,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
+| Tetword | 414756 | [414756-tetword.json](./414756-tetword.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Teva | 100242 | [100242-teva.json](./100242-teva.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
@@ -4032,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Bhaarat | 342228 | [342228-the-age-of-bhaarat.json](./342228-the-age-of-bhaarat.json) |
 | The Age of Decadence | 4641 | [4641-the-age-of-decadence.json](./4641-the-age-of-decadence.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
+| The Age of Heroes | 414778 | [414778-the-age-of-heroes.json](./414778-the-age-of-heroes.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
 | The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
@@ -8439,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
+| The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
 | The Last Escape of Yeti | 120132 | [120132-the-last-escape-of-yeti.json](./120132-the-last-escape-of-yeti.json) |
@@ -8574,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
+| The Last Road | 414813 | [414813-the-last-road.json](./414813-the-last-road.json) |
 | The Last Rocket | 64645 | [64645-the-last-rocket.json](./64645-the-last-rocket.json) |
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
 | The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
@@ -9241,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
+| The Long Survival | 414793 | [414793-the-long-survival.json](./414793-the-long-survival.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
 | The Long Way | 249684 | [249684-the-long-way.json](./249684-the-long-way.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
@@ -9663,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
+| The Medieval Journey | 414755 | [414755-the-medieval-journey.json](./414755-the-medieval-journey.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
@@ -13607,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
+| The World's Shortest Horror Game | 414766 | [414766-the-worlds-shortest-horror-game.json](./414766-the-worlds-shortest-horror-game.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worlds of Billy | 65042 | [65042-the-worlds-of-billy.json](./65042-the-worlds-of-billy.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
@@ -14416,6 +14425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
+| Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
@@ -21918,6 +21928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
+| Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
 | Triple Shot Sports | 66889 | [66889-triple-shot-sports.json](./66889-triple-shot-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
