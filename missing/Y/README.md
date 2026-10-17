@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumeiro Patisserie: My Sweets Cooking | 394778 | [394778-yumeiro-patisserie-my-sweets-cooking.json](./394778-yumeiro-patisserie-my-sweets-cooking.json) |
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
+| Yumemiru Kairou | 395293 | [395293-yumemiru-kairou.json](./395293-yumemiru-kairou.json) |
 | Yumemiru Pyon-pyon Land | 206442 | [206442-yumemiru-pyon-pyon-land.json](./206442-yumemiru-pyon-pyon-land.json) |
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
 | Yumemori | 238561 | [238561-yumemori.json](./238561-yumemori.json) |
