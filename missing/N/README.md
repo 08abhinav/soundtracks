@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Provinces: Caravan | 130064 | [130064-nine-provinces-caravan.json](./130064-nine-provinces-caravan.json) |
 | Nine Realms: Dawn Touch | 296259 | [296259-nine-realms-dawn-touch.json](./296259-nine-realms-dawn-touch.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
+| Nine Rooms | 383192 | [383192-nine-rooms.json](./383192-nine-rooms.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
@@ -4189,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
 | No Name Village | 237243 | [237243-no-name-village.json](./237243-no-name-village.json) |
+| No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
@@ -4996,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Note: A Composer and a Note | 115800 | [115800-note-a-composer-and-a-note.json](./115800-note-a-composer-and-a-note.json) |
 | NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
 | Notebook Artillery | 149485 | [149485-notebook-artillery.json](./149485-notebook-artillery.json) |
+| Notebook Battlegrounds | 383096 | [383096-notebook-battlegrounds.json](./383096-notebook-battlegrounds.json) |
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
