@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
+| Sayagatari: Promise of the Cursed Blade | 398906 | [398906-sayagatari-promise-of-the-cursed-blade.json](./398906-sayagatari-promise-of-the-cursed-blade.json) |
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
@@ -4283,6 +4284,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
+| Seven Seas Jewels: Collector's Edition | 398821 | [398821-seven-seas-jewels-collectors-edition.json](./398821-seven-seas-jewels-collectors-edition.json) |
 | Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
@@ -8394,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skautfold: Usurper | 251103 | [251103-skautfold-usurper.json](./251103-skautfold-usurper.json) |
+| Skaz | 398899 | [398899-skaz.json](./398899-skaz.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | SKD | 278058 | [278058-skd.json](./278058-skd.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
@@ -9201,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
+| Slay the Horde | 398900 | [398900-slay-the-horde.json](./398900-slay-the-horde.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
@@ -18574,6 +18579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
+| Stellar Mole | 398909 | [398909-stellar-mole.json](./398909-stellar-mole.json) |
 | Stellar Monarch | 26493 | [26493-stellar-monarch.json](./26493-stellar-monarch.json) |
 | Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
@@ -21761,6 +21767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
+| Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Doggo Snack Time | 101080 | [101080-super-doggo-snack-time.json](./101080-super-doggo-snack-time.json) |
 | Super Doll Licca-chan: Kisekae Daisakusen | 233024 | [233024-super-doll-licca-chan-kisekae-daisakusen.json](./233024-super-doll-licca-chan-kisekae-daisakusen.json) |
