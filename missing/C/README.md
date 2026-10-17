@@ -9303,7 +9303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
-| Concrete Genie | 75238 | [75238-concrete-genie.json](./75238-concrete-genie.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
