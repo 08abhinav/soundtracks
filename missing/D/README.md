@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
+| Dice Mice | 409217 | [409217-dice-mice.json](./409217-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
 | Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
 | Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
@@ -13096,6 +13097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustbowl Brulo | 326115 | [326115-dustbowl-brulo.json](./326115-dustbowl-brulo.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | DustCrow | 413470 | [413470-dustcrow.json](./413470-dustcrow.json) |
+| Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
