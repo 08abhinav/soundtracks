@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Billion Ducks | 408542 | [408542-one-billion-ducks.json](./408542-one-billion-ducks.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
+| One Box, Blue Box | 364278 | [364278-one-box-blue-box.json](./364278-one-box-blue-box.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
+| Orbit of Eternity | 364279 | [364279-orbit-of-eternity.json](./364279-orbit-of-eternity.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
 | Orbit Outlaws | 155845 | [155845-orbit-outlaws.json](./155845-orbit-outlaws.json) |
 | Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
