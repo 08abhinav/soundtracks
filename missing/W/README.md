@@ -57,7 +57,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Squad | 418710 | [418710-wacky-squad.json](./418710-wacky-squad.json) |
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
-| Wacky Wheels | 8880 | [8880-wacky-wheels.json](./8880-wacky-wheels.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
 | Wacky Wonderland Wollop: A 3D Platformer for the Ages Game of the Year All Time: The Game | 259149 | [259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json](./259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
