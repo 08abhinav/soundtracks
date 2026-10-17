@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragnarok: The Lost Memories | 175719 | [175719-ragnarok-the-lost-memories.json](./175719-ragnarok-the-lost-memories.json) |
+| Ragnarok: The New World | 364821 | [364821-ragnarok-the-new-world.json](./364821-ragnarok-the-new-world.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
 | RagnaTales MMORPG | 320479 | [320479-ragnatales-mmorpg.json](./320479-ragnatales-mmorpg.json) |
@@ -3330,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
 | Reinvasion | 249140 | [249140-reinvasion.json](./249140-reinvasion.json) |
 | Reioku: Ghost House | 355229 | [355229-reioku-ghost-house.json](./355229-reioku-ghost-house.json) |
+| Reiten lernen mit Anna und Flocke | 364823 | [364823-reiten-lernen-mit-anna-und-flocke.json](./364823-reiten-lernen-mit-anna-und-flocke.json) |
 | reIterate() | 156545 | [156545-reiterate.json](./156545-reiterate.json) |
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
 | Rejected Custom Night | 299569 | [299569-rejected-custom-night.json](./299569-rejected-custom-night.json) |
@@ -8029,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
+| Rotten Survivor | 364831 | [364831-rotten-survivor.json](./364831-rotten-survivor.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
 | Rotten Woods | 369710 | [369710-rotten-woods.json](./369710-rotten-woods.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
