@@ -7138,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime War: Modern Campaign | 135664 | [135664-anime-war-modern-campaign.json](./135664-anime-war-modern-campaign.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime World | 167886 | [167886-anime-world.json](./167886-anime-world.json) |
+| Anime World Bundle 4 in 1 | 398190 | [398190-anime-world-bundle-4-in-1.json](./398190-anime-world-bundle-4-in-1.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
+| Antique Checkers | 398272 | [398272-antique-checkers.json](./398272-antique-checkers.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
@@ -8420,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Ninja Emaki | 414797 | [414797-arcade-archives-2-ninja-emaki.json](./414797-arcade-archives-2-ninja-emaki.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
+| Arcade Archives 2: Polaris | 398191 | [398191-arcade-archives-2-polaris.json](./398191-arcade-archives-2-polaris.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
@@ -8585,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
+| Arcade Archives: Polaris | 398192 | [398192-arcade-archives-polaris.json](./398192-arcade-archives-polaris.json) |
 | Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
 | Arcade Archives: Pooyan | 119447 | [119447-arcade-archives-pooyan.json](./119447-arcade-archives-pooyan.json) |
 | Arcade Archives: Pop Flamer | 168692 | [168692-arcade-archives-pop-flamer.json](./168692-arcade-archives-pop-flamer.json) |
@@ -11748,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Inirea | 342254 | [342254-attack-on-inirea.json](./342254-attack-on-inirea.json) |
 | Attack on IO | 257303 | [257303-attack-on-io.json](./257303-attack-on-io.json) |
 | Attack on King: Reloaded | 226225 | [226225-attack-on-king-reloaded.json](./226225-attack-on-king-reloaded.json) |
+| Attack on Kiss | 398287 | [398287-attack-on-kiss.json](./398287-attack-on-kiss.json) |
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Moe H | 98503 | [98503-attack-on-moe-h.json](./98503-attack-on-moe-h.json) |
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
