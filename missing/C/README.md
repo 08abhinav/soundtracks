@@ -5688,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shooting | 178355 | [178355-christmas-shooting.json](./178355-christmas-shooting.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
+| Christmas Slots: Casino Game | 369341 | [369341-christmas-slots-casino-game.json](./369341-christmas-slots-casino-game.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
@@ -6450,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
 | City Game Studio | 74956 | [74956-city-game-studio.json](./74956-city-game-studio.json) |
+| City Gangs War in Miami | 369315 | [369315-city-gangs-war-in-miami.json](./369315-city-gangs-war-in-miami.json) |
 | City Gangster Simulator | 339451 | [339451-city-gangster-simulator.json](./339451-city-gangster-simulator.json) |
 | City God Alice | 393599 | [393599-city-god-alice.json](./393599-city-god-alice.json) |
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
@@ -11291,6 +11293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
+| Crafter's Hollow | 369361 | [369361-crafters-hollow.json](./369361-crafters-hollow.json) |
 | Crafters Heaven | 349826 | [349826-crafters-heaven.json](./349826-crafters-heaven.json) |
 | Craftia's Defender | 236191 | [236191-craftias-defender.json](./236191-craftias-defender.json) |
 | Craftica | 413011 | [413011-craftica.json](./413011-craftica.json) |
@@ -12255,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
 | Crimson Earth | 28945 | [28945-crimson-earth.json](./28945-crimson-earth.json) |
 | Crimson Earth 2 | 74682 | [74682-crimson-earth-2.json](./74682-crimson-earth-2.json) |
+| Crimson Echoes | 369318 | [369318-crimson-echoes.json](./369318-crimson-echoes.json) |
 | Crimson Empire: Circumstances to Serve a Noble | 58056 | [58056-crimson-empire-circumstances-to-serve-a-noble.json](./58056-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
@@ -14214,6 +14218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Train | 203148 | [203148-cute-train.json](./203148-cute-train.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
+| Cute Warrior Girl | 369352 | [369352-cute-warrior-girl.json](./369352-cute-warrior-girl.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
@@ -14441,6 +14446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercon III | 12023 | [12023-cybercon-iii.json](./12023-cybercon-iii.json) |
+| CyberCook | 369347 | [369347-cybercook.json](./369347-cybercook.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
