@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
 | New Jersey Transit | 133901 | [133901-new-jersey-transit.json](./133901-new-jersey-transit.json) |
+| New Jinsei Game | 409842 | [409842-new-jinsei-game.json](./409842-new-jinsei-game.json) |
 | New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Kind of Adventure | 35089 | [35089-new-kind-of-adventure.json](./35089-new-kind-of-adventure.json) |
