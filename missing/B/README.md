@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bartox | 213439 | [213439-bartox.json](./213439-bartox.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
+| Basalt: The Cursed Vein | 364246 | [364246-basalt-the-cursed-vein.json](./364246-basalt-the-cursed-vein.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Basault VR | 190062 | [190062-basault-vr.json](./190062-basault-vr.json) |
 | Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
