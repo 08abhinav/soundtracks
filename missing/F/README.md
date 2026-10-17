@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face au train | 90835 | [90835-face-au-train.json](./90835-face-au-train.json) |
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
+| Face Interrogation | 373273 | [373273-face-interrogation.json](./373273-face-interrogation.json) |
 | Face Kart: Photo Finish | 65984 | [65984-face-kart-photo-finish.json](./65984-face-kart-photo-finish.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
@@ -4691,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Clicker | 333667 | [333667-fishing-clicker.json](./333667-fishing-clicker.json) |
+| Fishing Corner | 373289 | [373289-fishing-corner.json](./373289-fishing-corner.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
 | Fishing Diary, Fishing Joy | 88422 | [88422-fishing-diary-fishing-joy.json](./88422-fishing-diary-fishing-joy.json) |
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
@@ -6358,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
+| Food and Wood | 373293 | [373293-food-and-wood.json](./373293-food-and-wood.json) |
 | Food Battle: The Game | 200364 | [200364-food-battle-the-game.json](./200364-food-battle-the-game.json) |
 | Food Bomber | 107795 | [107795-food-bomber.json](./107795-food-bomber.json) |
 | Food Cart Simulator | 346174 | [346174-food-cart-simulator.json](./346174-food-cart-simulator.json) |
