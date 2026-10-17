@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Reload | 194344 | [194344-viral-reload.json](./194344-viral-reload.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
+| ViralGuessr | 371012 | [371012-viralguessr.json](./371012-viralguessr.json) |
 | Virality | 84136 | [84136-virality.json](./84136-virality.json) |
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyruz: Destruction of the Untel Empire | 112224 | [112224-vyruz-destruction-of-the-untel-empire.json](./112224-vyruz-destruction-of-the-untel-empire.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
+| Vyulettes | 371006 | [371006-vyulettes.json](./371006-vyulettes.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
 | Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
