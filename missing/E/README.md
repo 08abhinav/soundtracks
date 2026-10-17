@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
 | Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
+| Eckspelled | 409883 | [409883-eckspelled.json](./409883-eckspelled.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
+| Emoticon Defense | 409873 | [409873-emoticon-defense.json](./409873-emoticon-defense.json) |
 | Emoticon Swirl | 209205 | [209205-emoticon-swirl.json](./209205-emoticon-swirl.json) |
 | Emoticons | 209204 | [209204-emoticons.json](./209204-emoticons.json) |
 | Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
