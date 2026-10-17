@@ -11195,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming Bad | 229661 | [229661-dreaming-bad.json](./229661-dreaming-bad.json) |
+| Dreaming Blue | 407853 | [407853-dreaming-blue.json](./407853-dreaming-blue.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
 | Dreaming Canvas | 123304 | [123304-dreaming-canvas.json](./123304-dreaming-canvas.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
@@ -12393,6 +12394,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
+| Dune: Imperium - Immortality | 407850 | [407850-dune-imperium-immortality.json](./407850-dune-imperium-immortality.json) |
+| Dune: Imperium - Uprising | 407856 | [407856-dune-imperium-uprising.json](./407856-dune-imperium-uprising.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
 | Dune: The Battle for Arrakis | 77207 | [77207-dune-the-battle-for-arrakis.json](./77207-dune-the-battle-for-arrakis.json) |
