@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goopty Goo | 134967 | [134967-goopty-goo.json](./134967-goopty-goo.json) |
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
+| Goose Evolution | 409203 | [409203-goose-evolution.json](./409203-goose-evolution.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
 | Goose Ronnie | 241877 | [241877-goose-ronnie.json](./241877-goose-ronnie.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
@@ -7355,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Guītú | 414118 | [414118-guitu.json](./414118-guitu.json) |
+| Guivo | 409193 | [409193-guivo.json](./409193-guivo.json) |
 | Guǐyāchuáng | 386346 | [386346-guiyachuang.json](./386346-guiyachuang.json) |
 | GuJian | 54824 | [54824-gujian.json](./54824-gujian.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
