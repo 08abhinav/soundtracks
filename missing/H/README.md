@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
 | Hey, That's My Fish! HD | 103930 | [103930-hey-thats-my-fish-hd.json](./103930-hey-thats-my-fish-hd.json) |
 | Hey! Pikmin | 28124 | [28124-hey-pikmin.json](./28124-hey-pikmin.json) |
+| Hey! Shopkeeper! | 400682 | [400682-hey-shopkeeper.json](./400682-hey-shopkeeper.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
@@ -7244,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
+| Hot Dogs, Horseshoes & Hand Grenades 2 | 400675 | [400675-hot-dogs-horseshoes-and-hand-grenades-2.json](./400675-hot-dogs-horseshoes-and-hand-grenades-2.json) |
 | Hot Donut | 234496 | [234496-hot-donut.json](./234496-hot-donut.json) |
 | Hot Dot! | 267339 | [267339-hot-dot.json](./267339-hot-dot.json) |
 | Hot Drop | 246339 | [246339-hot-drop.json](./246339-hot-drop.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
+| Hyperwurm Is Back! | 400714 | [400714-hyperwurm-is-back.json](./400714-hyperwurm-is-back.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
