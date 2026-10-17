@@ -5084,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Superhero Cats: Bonus Level | 296509 | [296509-hidden-superhero-cats-bonus-level.json](./296509-hidden-superhero-cats-bonus-level.json) |
 | Hidden Survivor | 131402 | [131402-hidden-survivor.json](./131402-hidden-survivor.json) |
 | Hidden Tactics | 296514 | [296514-hidden-tactics.json](./296514-hidden-tactics.json) |
+| Hidden Tails | 390571 | [390571-hidden-tails.json](./390571-hidden-tails.json) |
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Target | 54090 | [54090-hidden-target.json](./54090-hidden-target.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
