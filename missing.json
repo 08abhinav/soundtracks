@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:18:36.877Z",
-  "total_missing": 223679,
+  "generated_at": "2026-10-17T12:21:36.137Z",
+  "total_missing": 223678,
   "games": [
     {
       "igdb_id": 191680,
@@ -530080,11 +530080,6 @@
       "igdb_id": 35757,
       "game_name": "Littlewitch Romanesque: Editio Regia",
       "file": "missing/L/35757-littlewitch-romanesque-editio-regia.json"
-    },
-    {
-      "igdb_id": 115421,
-      "game_name": "Littlewood",
-      "file": "missing/L/115421-littlewood.json"
     },
     {
       "igdb_id": 175728,
