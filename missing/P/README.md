@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
 | Penguin Quest | 167194 | [167194-penguin-quest.json](./167194-penguin-quest.json) |
 | Penguin Quest | 76165 | [76165-penguin-quest.json](./76165-penguin-quest.json) |
+| Penguin Racers | 407908 | [407908-penguin-racers.json](./407908-penguin-racers.json) |
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
+| Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Blade | 48079 | [48079-power-blade.json](./48079-power-blade.json) |
 | Power Blazer | 48568 | [48568-power-blazer.json](./48568-power-blazer.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
+| Power Box | 407884 | [407884-power-box.json](./407884-power-box.json) |
 | Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
