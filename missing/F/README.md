@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Alarm | 406656 | [406656-false-alarm.json](./406656-false-alarm.json) |
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
+| False Echo | 398306 | [398306-false-echo.json](./398306-false-echo.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
 | False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
 | Fortnite OG: Chapter 1 Season 5 | 361184 | [361184-fortnite-og-chapter-1-season-5.json](./361184-fortnite-og-chapter-1-season-5.json) |
 | Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
+| Fortnite OG: Chapter 1 Season 8 | 398281 | [398281-fortnite-og-chapter-1-season-8.json](./398281-fortnite-og-chapter-1-season-8.json) |
 | Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
