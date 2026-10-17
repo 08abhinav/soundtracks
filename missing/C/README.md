@@ -12174,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
 | Crimsonwood | 319680 | [319680-crimsonwood.json](./319680-crimsonwood.json) |
+| Crimsooon Sun | 400077 | [400077-crimsooon-sun.json](./400077-crimsooon-sun.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
