@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
+| Against the Light | 412992 | [412992-against-the-light.json](./412992-against-the-light.json) |
 | Against the Moon | 121493 | [121493-against-the-moon.json](./121493-against-the-moon.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
@@ -7700,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anyone for Cards? | 72001 | [72001-anyone-for-cards.json](./72001-anyone-for-cards.json) |
 | Anyone There? | 235373 | [235373-anyone-there.json](./235373-anyone-there.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
+| Anything but a Gun | 413019 | [413019-anything-but-a-gun.json](./413019-anything-but-a-gun.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
