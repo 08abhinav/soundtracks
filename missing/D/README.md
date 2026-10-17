@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darth Vader Tamagotchi | 329787 | [329787-darth-vader-tamagotchi.json](./329787-darth-vader-tamagotchi.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
+| Dartmouth Championship Football | 374919 | [374919-dartmouth-championship-football.json](./374919-dartmouth-championship-football.json) |
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
 | Dartoster | 179459 | [179459-dartoster.json](./179459-dartoster.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhunters | 110495 | [110495-deadhunters.json](./110495-deadhunters.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
 | Deadland Chronicles | 294240 | [294240-deadland-chronicles.json](./294240-deadland-chronicles.json) |
+| Deadland Outlaws | 374929 | [374929-deadland-outlaws.json](./374929-deadland-outlaws.json) |
 | Deadland: Fallen Apartment | 385907 | [385907-deadland-fallen-apartment.json](./385907-deadland-fallen-apartment.json) |
 | Deadlands Noir: That Old Time Religion | 34911 | [34911-deadlands-noir-that-old-time-religion.json](./34911-deadlands-noir-that-old-time-religion.json) |
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
@@ -5364,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
+| Detective Bloodphobia | 374913 | [374913-detective-bloodphobia.json](./374913-detective-bloodphobia.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
