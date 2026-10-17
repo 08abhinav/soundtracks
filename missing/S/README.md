@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saw Hell | 148960 | [148960-saw-hell.json](./148960-saw-hell.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
+| Saw: Genesis | 404701 | [404701-saw-genesis.json](./404701-saw-genesis.json) |
 | SaWars | 126544 | [126544-sawars.json](./126544-sawars.json) |
 | Sawblader | 365854 | [365854-sawblader.json](./365854-sawblader.json) |
 | Sawdust | 219612 | [219612-sawdust.json](./219612-sawdust.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
+| Skate Rush: 90s Retro Arcade | 404771 | [404771-skate-rush-90s-retro-arcade.json](./404771-skate-rush-90s-retro-arcade.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Share Pack | 399897 | [399897-skate-share-pack.json](./399897-skate-share-pack.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
@@ -14806,6 +14808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
+| Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell of Destruction | 28712 | [28712-spell-of-destruction.json](./28712-spell-of-destruction.json) |
@@ -19050,6 +19053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stonecall | 421789 | [421789-stonecall.json](./421789-stonecall.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
+| Stoned to Death | 404767 | [404767-stoned-to-death.json](./404767-stoned-to-death.json) |
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
