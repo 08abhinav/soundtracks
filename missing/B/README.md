@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Project: Ryuusei Fantasia | 148845 | [148845-b-project-ryuusei-fantasia.json](./148845-b-project-ryuusei-fantasia.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
+| B-Ricky High School | 374386 | [374386-b-ricky-high-school.json](./374386-b-ricky-high-school.json) |
 | B-Run | 410483 | [410483-b-run.json](./410483-b-run.json) |
 | B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
@@ -6389,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
+| Black Mesa: Route to Evacuation - Part 1 | 374376 | [374376-black-mesa-route-to-evacuation-part-1.json](./374376-black-mesa-route-to-evacuation-part-1.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
 | Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
@@ -11303,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure | 264671 | [264671-brownies-adventure.json](./264671-brownies-adventure.json) |
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
+| Brownie's Adventure: The Final Resolution | 374355 | [374355-brownies-adventure-the-final-resolution.json](./374355-brownies-adventure-the-final-resolution.json) |
 | Brownie's Haunted Christmas | 280339 | [280339-brownies-haunted-christmas.json](./280339-brownies-haunted-christmas.json) |
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
 | Browning African Safari Deluxe | 206686 | [206686-browning-african-safari-deluxe.json](./206686-browning-african-safari-deluxe.json) |
