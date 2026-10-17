@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KEL Reaper of Entropy | 17737 | [17737-kel-reaper-of-entropy.json](./17737-kel-reaper-of-entropy.json) |
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
+| KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
@@ -4035,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
+| Krendel | 409830 | [409830-krendel.json](./409830-krendel.json) |
 | Kreton La Resistance | 317428 | [317428-kreton-la-resistance.json](./317428-kreton-la-resistance.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
