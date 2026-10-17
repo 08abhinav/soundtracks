@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
+| GraviCat | 409872 | [409872-gravicat.json](./409872-gravicat.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
