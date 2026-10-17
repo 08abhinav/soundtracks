@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters From Nowhere | 54165 | [54165-letters-from-nowhere.json](./54165-letters-from-nowhere.json) |
 | Letters From Nowhere 2 | 54164 | [54164-letters-from-nowhere-2.json](./54164-letters-from-nowhere-2.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
+| Letters of Art | 384324 | [384324-letters-of-art.json](./384324-letters-of-art.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters of Longing | 346619 | [346619-letters-of-longing.json](./346619-letters-of-longing.json) |
 | Letters on the Loose | 91742 | [91742-letters-on-the-loose.json](./91742-letters-on-the-loose.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
+| Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Ghost Garden | 128426 | [128426-lil-ghost-garden.json](./128426-lil-ghost-garden.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
+| Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
 | Little Buno | 98540 | [98540-little-buno.json](./98540-little-buno.json) |
