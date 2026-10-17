@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Platformer | 142136 | [142136-micro-platformer.json](./142136-micro-platformer.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
+| Micro Race R | 378490 | [378490-micro-race-r.json](./378490-micro-race-r.json) |
 | Micro Rogue | 265326 | [265326-micro-rogue.json](./265326-micro-rogue.json) |
 | Micro RPG | 197794 | [197794-micro-rpg.json](./197794-micro-rpg.json) |
 | Micro Rush | 391085 | [391085-micro-rush.json](./391085-micro-rush.json) |
@@ -7891,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
+| Midnight Scenes: Among Graves | 378524 | [378524-midnight-scenes-among-graves.json](./378524-midnight-scenes-among-graves.json) |
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
 | Midnight Scenes: The Nanny | 178317 | [178317-midnight-scenes-the-nanny.json](./178317-midnight-scenes-the-nanny.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
@@ -10252,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
 | Model Debut #Nicola | 121361 | [121361-model-debut-nicola.json](./121361-model-debut-nicola.json) |
+| Model Debut 4 | 378505 | [378505-model-debut-4.json](./378505-model-debut-4.json) |
 | Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
