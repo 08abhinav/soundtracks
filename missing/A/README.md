@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Enigma: The Secret of the Sixth Ghost | 22103 | [22103-age-of-enigma-the-secret-of-the-sixth-ghost.json](./22103-age-of-enigma-the-secret-of-the-sixth-ghost.json) |
+| Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
@@ -4988,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
+| All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
 | All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
 | All Star Action | 44829 | [44829-all-star-action.json](./44829-all-star-action.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
