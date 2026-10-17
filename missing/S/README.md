@@ -11735,6 +11735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Cat | 273423 | [273423-solitary-cat.json](./273423-solitary-cat.json) |
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
+| Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
 | Solitile | 353921 | [353921-solitile.json](./353921-solitile.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -15786,6 +15787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Legend of the Lost Spatula | 2760 | [2760-spongebob-squarepants-legend-of-the-lost-spatula.json](./2760-spongebob-squarepants-legend-of-the-lost-spatula.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 248553 | [248553-spongebob-squarepants-lights-camera-pants.json](./248553-spongebob-squarepants-lights-camera-pants.json) |
+| SpongeBob SquarePants: Lost In Time - Dunces and Dragons | 389504 | [389504-spongebob-squarepants-lost-in-time-dunces-and-dragons.json](./389504-spongebob-squarepants-lost-in-time-dunces-and-dragons.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Operation Krabby Patty | 2759 | [2759-spongebob-squarepants-operation-krabby-patty.json](./2759-spongebob-squarepants-operation-krabby-patty.json) |
@@ -20173,6 +20175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
+| Strom The House | 389503 | [389503-strom-the-house.json](./389503-strom-the-house.json) |
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
 | Strong | 287561 | [287561-strong.json](./287561-strong.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
@@ -24622,6 +24625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
+| Sweep Bump | 389533 | [389533-sweep-bump.json](./389533-sweep-bump.json) |
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
