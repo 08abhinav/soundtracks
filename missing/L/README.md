@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness: Beyond the Spirit's Eye | 59957 | [59957-last-half-of-darkness-beyond-the-spirits-eye.json](./59957-last-half-of-darkness-beyond-the-spirits-eye.json) |
 | Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
 | Last Hammashan: Awakening of a Hero | 364051 | [364051-last-hammashan-awakening-of-a-hero.json](./364051-last-hammashan-awakening-of-a-hero.json) |
+| Last Harbor | 404696 | [404696-last-harbor.json](./404696-last-harbor.json) |
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
@@ -3101,6 +3102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
+| Life Ark 2 | 404647 | [404647-life-ark-2.json](./404647-life-ark-2.json) |
+| Life Ark 3 | 404648 | [404648-life-ark-3.json](./404648-life-ark-3.json) |
 | Life Ark 4 | 404842 | [404842-life-ark-4.json](./404842-life-ark-4.json) |
 | Life Ark 5 | 404845 | [404845-life-ark-5.json](./404845-life-ark-5.json) |
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
@@ -4011,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
+| Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure | 159545 | [159545-little-adventure.json](./159545-little-adventure.json) |
 | Little adventure 2 | 161167 | [161167-little-adventure-2.json](./161167-little-adventure-2.json) |
