@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-Gon | 219683 | [219683-n-gon.json](./219683-n-gon.json) |
 | N-Ice Cover | 323956 | [323956-n-ice-cover.json](./323956-n-ice-cover.json) |
 | N-raged | 180037 | [180037-n-raged.json](./180037-n-raged.json) |
+| N-Sub | 364844 | [364844-n-sub.json](./364844-n-sub.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O | 125092 | [125092-n-e-o.json](./125092-n-e-o.json) |
@@ -2065,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
+| Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
 | NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
 | Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
@@ -2579,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
+| Nex-Ara | 364884 | [364884-nex-ara.json](./364884-nex-ara.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
@@ -4789,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
+| Nordic Ashes: The Complete Saga | 366616 | [366616-nordic-ashes-the-complete-saga.json](./366616-nordic-ashes-the-complete-saga.json) |
 | Nordic Storm Solitaire | 127682 | [127682-nordic-storm-solitaire.json](./127682-nordic-storm-solitaire.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
