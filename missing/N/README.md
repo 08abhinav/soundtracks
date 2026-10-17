@@ -1160,7 +1160,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
-| Necesse | 130788 | [130788-necesse.json](./130788-necesse.json) |
 | Neck-N-Neck | 40381 | [40381-neck-n-neck.json](./40381-neck-n-neck.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
