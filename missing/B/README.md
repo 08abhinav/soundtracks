@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ichigeki! Pachi-Slot Daikouryaku | 38158 | [38158-big-ichigeki-pachi-slot-daikouryaku.json](./38158-big-ichigeki-pachi-slot-daikouryaku.json) |
 | Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection | 38157 | [38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json](./38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
+| Big Jays Rattastic Adventure | 370430 | [370430-big-jays-rattastic-adventure.json](./370430-big-jays-rattastic-adventure.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
 | Big Kahuna Party | 51085 | [51085-big-kahuna-party.json](./51085-big-kahuna-party.json) |
 | Big Kahuna Reef | 615 | [615-big-kahuna-reef.json](./615-big-kahuna-reef.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Adventures | 233659 | [233659-boom-adventures.json](./233659-boom-adventures.json) |
+| Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
