@@ -7748,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
+| The House Remembers | 372752 | [372752-the-house-remembers.json](./372752-the-house-remembers.json) |
 | The House That Dripped Blood | 203186 | [203186-the-house-that-dripped-blood.json](./203186-the-house-that-dripped-blood.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
@@ -22766,6 +22767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try to Catch Me! | 372741 | [372741-try-to-catch-me.json](./372741-try-to-catch-me.json) |
 | Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
@@ -23151,6 +23153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
 | Turbo GT | 94635 | [94635-turbo-gt.json](./94635-turbo-gt.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
+| Turbo Hyper Drive | 372764 | [372764-turbo-hyper-drive.json](./372764-turbo-hyper-drive.json) |
 | Turbo Kart Racer | 416554 | [416554-turbo-kart-racer.json](./416554-turbo-kart-racer.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
