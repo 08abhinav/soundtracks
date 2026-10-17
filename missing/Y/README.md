@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yep It's More Skiing | 304141 | [304141-yep-its-more-skiing.json](./304141-yep-its-more-skiing.json) |
 | Yerba Mate Tycoon | 153755 | [153755-yerba-mate-tycoon.json](./153755-yerba-mate-tycoon.json) |
 | Yerevan Drive | 214551 | [214551-yerevan-drive.json](./214551-yerevan-drive.json) |
+| Yes | 393957 | [393957-yes.json](./393957-yes.json) |
 | Yes Brother | 163813 | [163813-yes-brother.json](./163813-yes-brother.json) |
 | Yes Comrade | 329176 | [329176-yes-comrade.json](./329176-yes-comrade.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
