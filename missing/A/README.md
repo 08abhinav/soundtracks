@@ -7371,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
+| Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
@@ -7961,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
 | Apidya' Special | 409792 | [409792-apidya-special.json](./409792-apidya-special.json) |
+| APlaceDominatedByFire | 390019 | [390019-aplacedominatedbyfire.json](./390019-aplacedominatedbyfire.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
@@ -12153,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
+| AutoSquad | 390017 | [390017-autosquad.json](./390017-autosquad.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
@@ -12326,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
 | Averi the Accursed | 406910 | [406910-averi-the-accursed.json](./406910-averi-the-accursed.json) |
+| Avernoth | 390049 | [390049-avernoth.json](./390049-avernoth.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
