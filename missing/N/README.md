@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nindash: Skull Valley | 93836 | [93836-nindash-skull-valley.json](./93836-nindash-skull-valley.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
+| Nine Billion Miles from Earth | 396425 | [396425-nine-billion-miles-from-earth.json](./396425-nine-billion-miles-from-earth.json) |
 | Nine Days | 273811 | [273811-nine-days.json](./273811-nine-days.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hearts | 187773 | [187773-nine-hearts.json](./187773-nine-hearts.json) |
@@ -5431,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
 | Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
+| Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
 | Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
