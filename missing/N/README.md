@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namariel Legends: Iron Lord - Collector's Edition | 251484 | [251484-namariel-legends-iron-lord-collectors-edition.json](./251484-namariel-legends-iron-lord-collectors-edition.json) |
 | Namariel Legends: Iron Lord - Premium Edition | 36273 | [36273-namariel-legends-iron-lord-premium-edition.json](./36273-namariel-legends-iron-lord-premium-edition.json) |
 | Namaste Virtual Yoga Retreat | 81684 | [81684-namaste-virtual-yoga-retreat.json](./81684-namaste-virtual-yoga-retreat.json) |
+| Nambers Level Pack | 409245 | [409245-nambers-level-pack.json](./409245-nambers-level-pack.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Realms | 99527 | [99527-nebula-realms.json](./99527-nebula-realms.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
+| Nebulae | 409243 | [409243-nebulae.json](./409243-nebulae.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
 | Nebulas Lasso | 116898 | [116898-nebulas-lasso.json](./116898-nebulas-lasso.json) |
 | Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
