@@ -7543,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poem, Poem! | 112220 | [112220-poem-poem.json](./112220-poem-poem.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
+| Poetic Trio | 369880 | [369880-poetic-trio.json](./369880-poetic-trio.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry Pigeon | 309604 | [309604-poetry-pigeon.json](./309604-poetry-pigeon.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
@@ -8773,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong: The Next Level | 265058 | [265058-pong-the-next-level.json](./265058-pong-the-next-level.json) |
 | Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
+| PongBang | 369860 | [369860-pongbang.json](./369860-pongbang.json) |
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongerground | 379132 | [379132-pongerground.json](./379132-pongerground.json) |
@@ -9185,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
+| Port Authority | 369886 | [369886-port-authority.json](./369886-port-authority.json) |
 | Port Cranes: Container Age | 215331 | [215331-port-cranes-container-age.json](./215331-port-cranes-container-age.json) |
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
@@ -9450,6 +9453,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Lucky Cat Statue | 372248 | [372248-potion-permit-lucky-cat-statue.json](./372248-potion-permit-lucky-cat-statue.json) |
+| Potion Permit: Lunar New Year Lantern | 369876 | [369876-potion-permit-lunar-new-year-lantern.json](./369876-potion-permit-lunar-new-year-lantern.json) |
+| Potion Permit: Oriental Folding Wall | 369877 | [369877-potion-permit-oriental-folding-wall.json](./369877-potion-permit-oriental-folding-wall.json) |
+| Potion Permit: Red Flower Arrangement | 369878 | [369878-potion-permit-red-flower-arrangement.json](./369878-potion-permit-red-flower-arrangement.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
 | Potion Permit: Snowman Plush Toy | 371314 | [371314-potion-permit-snowman-plush-toy.json](./371314-potion-permit-snowman-plush-toy.json) |
 | Potion Pleasing | 333177 | [333177-potion-pleasing.json](./333177-potion-pleasing.json) |
