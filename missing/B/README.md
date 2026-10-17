@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
+| Bang Bang Tank | 377921 | [377921-bang-bang-tank.json](./377921-bang-bang-tank.json) |
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
@@ -10577,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
+| Break Free | 377886 | [377886-break-free.json](./377886-break-free.json) |
 | Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
