@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
+| Perfect Color | 368268 | [368268-perfect-color.json](./368268-perfect-color.json) |
 | Perfect Crime | 116895 | [116895-perfect-crime.json](./116895-perfect-crime.json) |
 | Perfect Crime: Collector's Death | 170288 | [170288-perfect-crime-collectors-death.json](./170288-perfect-crime-collectors-death.json) |
 | Perfect Dark | 141537 | [141537-perfect-dark.json](./141537-perfect-dark.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piposh | 120136 | [120136-piposh.json](./120136-piposh.json) |
 | Piposh 3D: The Revolution | 66750 | [66750-piposh-3d-the-revolution.json](./66750-piposh-3d-the-revolution.json) |
 | Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
+| Pipp vs Flupp | 368257 | [368257-pipp-vs-flupp.json](./368257-pipp-vs-flupp.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
@@ -9318,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Position | 127822 | [127822-position.json](./127822-position.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
 | PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
+| Posledniy Den' v Uryupinske | 368254 | [368254-posledniy-den-v-uryupinske.json](./368254-posledniy-den-v-uryupinske.json) |
 | Posse of 3 | 391091 | [391091-posse-of-3.json](./391091-posse-of-3.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
@@ -11750,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the Kingdom | 179086 | [179086-protect-the-kingdom.json](./179086-protect-the-kingdom.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
+| Protect the Treasure | 368235 | [368235-protect-the-treasure.json](./368235-protect-the-treasure.json) |
 | Protect Your Fool | 126936 | [126936-protect-your-fool.json](./126936-protect-your-fool.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
@@ -12640,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push and Pull | 401071 | [401071-push-and-pull.json](./401071-push-and-pull.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
+| Push Battle | 368233 | [368233-push-battle.json](./368233-push-battle.json) |
 | Push Battle Royale | 381956 | [381956-push-battle-royale.json](./381956-push-battle-royale.json) |
 | Push Blox | 105815 | [105815-push-blox.json](./105815-push-blox.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
