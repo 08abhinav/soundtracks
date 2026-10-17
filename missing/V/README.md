@@ -2813,7 +2813,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai | 384637 | [384637-vr-hentai.json](./384637-vr-hentai.json) |
 | VR Hentai 18+ | 384636 | [384636-vr-hentai-18.json](./384636-vr-hentai-18.json) |
 | VR Hentai Cat | 160144 | [160144-vr-hentai-cat.json](./160144-vr-hentai-cat.json) |
+| VR Hentai Date | 366536 | [366536-vr-hentai-date.json](./366536-vr-hentai-date.json) |
+| VR Hentai Girl | 366539 | [366539-vr-hentai-girl.json](./366539-vr-hentai-girl.json) |
 | VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
+| VR Hentai Room | 366540 | [366540-vr-hentai-room.json](./366540-vr-hentai-room.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
