@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
 | Find Teddy | 78519 | [78519-find-teddy.json](./78519-find-teddy.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
+| Find the Beer | 409198 | [409198-find-the-beer.json](./409198-find-the-beer.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
@@ -5646,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting With Girls in Fantasy World | 386866 | [386866-flirting-with-girls-in-fantasy-world.json](./386866-flirting-with-girls-in-fantasy-world.json) |
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
+| Flixfam Abenteuer | 409215 | [409215-flixfam-abenteuer.json](./409215-flixfam-abenteuer.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
@@ -8483,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
+| Frocat Puzzles | 409205 | [409205-frocat-puzzles.json](./409205-frocat-puzzles.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frodoric the Driver | 142689 | [142689-frodoric-the-driver.json](./142689-frodoric-the-driver.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
@@ -8504,6 +8507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
 | Frog Bridge Scape | 262884 | [262884-frog-bridge-scape.json](./262884-frog-bridge-scape.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
+| Frog Climb | 409202 | [409202-frog-climb.json](./409202-frog-climb.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Demon | 113289 | [113289-frog-demon.json](./113289-frog-demon.json) |
