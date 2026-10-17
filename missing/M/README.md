@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Jefht: Ace Attorney | 309986 | [309986-max-jefht-ace-attorney.json](./309986-max-jefht-ace-attorney.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Manos | 329599 | [329599-max-manos.json](./329599-max-manos.json) |
+| Max Manos 2 | 373291 | [373291-max-manos-2.json](./373291-max-manos-2.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
 | Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
@@ -5199,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
+| Meeting Places | 373287 | [373287-meeting-places.json](./373287-meeting-places.json) |
 | MeetLight and the Secrets of the Universe | 209765 | [209765-meetlight-and-the-secrets-of-the-universe.json](./209765-meetlight-and-the-secrets-of-the-universe.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Earth Open World game | 402344 | [402344-middle-earth-open-world-game.json](./402344-middle-earth-open-world-game.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
+| Middle Management | 373251 | [373251-middle-management.json](./373251-middle-management.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle School Zombie 2 | 297905 | [297905-middle-school-zombie-2.json](./297905-middle-school-zombie-2.json) |
 | Middle-earth: Shadow of Mordor - Game of the Year Edition | 25773 | [25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json](./25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json) |
@@ -9828,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
+| Mistpaw Ravine | 373277 | [373277-mistpaw-ravine.json](./373277-mistpaw-ravine.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
@@ -10276,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
 | Modem Wars | 71057 | [71057-modem-wars.json](./71057-modem-wars.json) |
+| Moderator Mayhem | 373258 | [373258-moderator-mayhem.json](./373258-moderator-mayhem.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Air Combat: Beyond Visual Range | 264797 | [264797-modern-air-combat-beyond-visual-range.json](./264797-modern-air-combat-beyond-visual-range.json) |
 | Modern and Retro Bundle | 331538 | [331538-modern-and-retro-bundle.json](./331538-modern-and-retro-bundle.json) |
@@ -14954,6 +14959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
 | My Time Traveling Girlfriend | 208368 | [208368-my-time-traveling-girlfriend.json](./208368-my-time-traveling-girlfriend.json) |
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
+| My Tiny Garden | 373267 | [373267-my-tiny-garden.json](./373267-my-tiny-garden.json) |
 | My Tiny Grocery Store | 413443 | [413443-my-tiny-grocery-store.json](./413443-my-tiny-grocery-store.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
 | My Tiny Park | 388785 | [388785-my-tiny-park.json](./388785-my-tiny-park.json) |
