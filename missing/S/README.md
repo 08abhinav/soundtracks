@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simon | 79953 | [79953-santa-simon.json](./79953-santa-simon.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
+| Santa Simulator: Christmas Factory | 381892 | [381892-santa-simulator-christmas-factory.json](./381892-santa-simulator-christmas-factory.json) |
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
