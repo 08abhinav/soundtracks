@@ -8519,7 +8519,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydlide | 320934 | [320934-hydlide.json](./320934-hydlide.json) |
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
+| Hydlide | 411363 | [411363-hydlide.json](./411363-hydlide.json) |
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
+| Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
