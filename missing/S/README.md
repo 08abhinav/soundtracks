@@ -7103,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Dai Viet Pack | 360534 | [360534-sid-meiers-civilization-vii-dai-viet-pack.json](./360534-sid-meiers-civilization-vii-dai-viet-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Earthrise | 418583 | [418583-sid-meiers-civilization-vii-earthrise.json](./418583-sid-meiers-civilization-vii-earthrise.json) |
+| Sid Meier's Civilization VII: Edward Teach Pack | 376174 | [376174-sid-meiers-civilization-vii-edward-teach-pack.json](./376174-sid-meiers-civilization-vii-edward-teach-pack.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Sid Meier's Civilization VII: Friedrich (Baroque) Persona | 360538 | [360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json](./360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json) |
 | Sid Meier's Civilization VII: Genghis Khan Pack | 360535 | [360535-sid-meiers-civilization-vii-genghis-khan-pack.json](./360535-sid-meiers-civilization-vii-genghis-khan-pack.json) |
@@ -7112,12 +7113,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Iceland Pack | 376794 | [376794-sid-meiers-civilization-vii-iceland-pack.json](./376794-sid-meiers-civilization-vii-iceland-pack.json) |
 | Sid Meier's Civilization VII: Nepal Pack | 360532 | [360532-sid-meiers-civilization-vii-nepal-pack.json](./360532-sid-meiers-civilization-vii-nepal-pack.json) |
 | Sid Meier's Civilization VII: Ottomans Pack | 376795 | [376795-sid-meiers-civilization-vii-ottomans-pack.json](./376795-sid-meiers-civilization-vii-ottomans-pack.json) |
+| Sid Meier's Civilization VII: Republic of Pirates Pack | 376176 | [376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json](./376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json) |
 | Sid Meier's Civilization VII: Right to Rule Collection | 360541 | [360541-sid-meiers-civilization-vii-right-to-rule-collection.json](./360541-sid-meiers-civilization-vii-right-to-rule-collection.json) |
 | Sid Meier's Civilization VII: Sayyida al Hurra Pack | 376796 | [376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json](./376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
 | Sid Meier's Civilization VII: Simón Bolívar Pack | 360527 | [360527-sid-meiers-civilization-vii-simon-bolivar-pack.json](./360527-sid-meiers-civilization-vii-simon-bolivar-pack.json) |
 | Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
 | Sid Meier's Civilization VII: Tides of Power Collection | 376099 | [376099-sid-meiers-civilization-vii-tides-of-power-collection.json](./376099-sid-meiers-civilization-vii-tides-of-power-collection.json) |
+| Sid Meier's Civilization VII: Tides of Power Collection - Wonder Pack | 376178 | [376178-sid-meiers-civilization-vii-tides-of-power-collection-wonder-pack.json](./376178-sid-meiers-civilization-vii-tides-of-power-collection-wonder-pack.json) |
+| Sid Meier's Civilization VII: Tonga Pack | 376177 | [376177-sid-meiers-civilization-vii-tonga-pack.json](./376177-sid-meiers-civilization-vii-tonga-pack.json) |
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
 | Sid Meier's Civilization VII: Update 1.5.0 | 418618 | [418618-sid-meiers-civilization-vii-update-1-5-0.json](./418618-sid-meiers-civilization-vii-update-1-5-0.json) |
 | Sid Meier's Civilization VII: VR | 330781 | [330781-sid-meiers-civilization-vii-vr.json](./330781-sid-meiers-civilization-vii-vr.json) |
@@ -18667,6 +18671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Blade: Complete Edition | 346749 | [346749-stellar-blade-complete-edition.json](./346749-stellar-blade-complete-edition.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
+| Stellar Blade: Tachyon Pack | 376187 | [376187-stellar-blade-tachyon-pack.json](./376187-stellar-blade-tachyon-pack.json) |
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
 | Stellar Broadcast | 421850 | [421850-stellar-broadcast.json](./421850-stellar-broadcast.json) |
 | Stellar Cafe | 360777 | [360777-stellar-cafe.json](./360777-stellar-cafe.json) |
@@ -21253,6 +21258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
+| Summer Unpacked | 376232 | [376232-summer-unpacked.json](./376232-summer-unpacked.json) |
 | Summer Vacation | 101438 | [101438-summer-vacation.json](./101438-summer-vacation.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
@@ -23916,6 +23922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
+| Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
