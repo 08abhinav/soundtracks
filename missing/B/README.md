@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
+| Backrooms: Imposter | 384916 | [384916-backrooms-imposter.json](./384916-backrooms-imposter.json) |
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
@@ -7586,6 +7587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokers | 159192 | [159192-blokers.json](./159192-blokers.json) |
 | Blokes on Blocks! | 368811 | [368811-blokes-on-blocks.json](./368811-blokes-on-blocks.json) |
 | Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
+| Bloki | 384888 | [384888-bloki.json](./384888-bloki.json) |
 | Blokin | 102695 | [102695-blokin.json](./102695-blokin.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
