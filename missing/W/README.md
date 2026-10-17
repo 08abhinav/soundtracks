@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
+| Wet and Wild | 369893 | [369893-wet-and-wild.json](./369893-wet-and-wild.json) |
 | Wet Attack: The Empire Cums Back | 73159 | [73159-wet-attack-the-empire-cums-back.json](./73159-wet-attack-the-empire-cums-back.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet City | 347204 | [347204-wet-city.json](./347204-wet-city.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
 | WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
+| Wǒ de Tǎnkè Wǒ de Tuán | 369854 | [369854-wo-de-tanke-wo-de-tuan.json](./369854-wo-de-tanke-wo-de-tuan.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
