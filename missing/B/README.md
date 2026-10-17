@@ -2547,7 +2547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
-| Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Brothers: Lindwurm | 155347 | [155347-battle-brothers-lindwurm.json](./155347-battle-brothers-lindwurm.json) |
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
