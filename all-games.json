@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:40:25.901Z",
-  "total_soundtracks": 2103,
+  "generated_at": "2026-10-17T15:40:33.541Z",
+  "total_soundtracks": 2104,
   "games": [
     {
       "igdb_id": 7522,
@@ -4073,6 +4073,20 @@
           "spotify_url": "https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1866128877"
+        }
+      ]
+    },
+    {
+      "igdb_id": 106847,
+      "game_name": "Coffee Talk",
+      "game_url": "https://ostdb.net/games/coffee-talk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273076c33d7da40f93ff1174131",
+      "albums": [
+        {
+          "album_name": "Coffee Talk (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/47W6A384PVLeNyza0AdJ6f",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
