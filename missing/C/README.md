@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
+| Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
 | Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charta Dungeon: Ambidextrous | 344514 | [344514-charta-dungeon-ambidextrous.json](./344514-charta-dungeon-ambidextrous.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
+| Chartle | 383786 | [383786-chartle.json](./383786-chartle.json) |
 | Chartreuse Star Adventure | 268671 | [268671-chartreuse-star-adventure.json](./268671-chartreuse-star-adventure.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
@@ -8149,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
+| Collect Call | 383789 | [383789-collect-call.json](./383789-collect-call.json) |
 | Collect iT 3D | 233123 | [233123-collect-it-3d.json](./233123-collect-it-3d.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
@@ -12635,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
+| Crossroads: Fatal Truths - Collector's Edition | 383745 | [383745-crossroads-fatal-truths-collectors-edition.json](./383745-crossroads-fatal-truths-collectors-edition.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
