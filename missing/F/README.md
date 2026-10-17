@@ -2234,7 +2234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Force: Earth Assault | 306000 | [306000-fatal-force-earth-assault.json](./306000-fatal-force-earth-assault.json) |
 | Fatal Fracture | 147649 | [147649-fatal-fracture.json](./147649-fatal-fracture.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
-| Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
 | Fatal Frame II: Crimson Butterfly | 5105 | [5105-fatal-frame-ii-crimson-butterfly.json](./5105-fatal-frame-ii-crimson-butterfly.json) |
 | Fatal Frame II: Crimson Butterfly - Director's Cut | 24161 | [24161-fatal-frame-ii-crimson-butterfly-directors-cut.json](./24161-fatal-frame-ii-crimson-butterfly-directors-cut.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
@@ -3563,7 +3562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
-| Final Fantasy II | 16474 | [16474-final-fantasy-ii.json](./16474-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
