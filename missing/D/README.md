@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckfort Alchemist | 304312 | [304312-deckfort-alchemist.json](./304312-deckfort-alchemist.json) |
+| DeckLand | 388136 | [388136-deckland.json](./388136-deckland.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
+| Defender | 388144 | [388144-defender.json](./388144-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender 3D | 110744 | [110744-defender-3d.json](./110744-defender-3d.json) |
 | Defender Chronicles | 19200 | [19200-defender-chronicles.json](./19200-defender-chronicles.json) |
@@ -9247,7 +9249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
-| Door Kickers: Action Squad | 55678 | [55678-door-kickers-action-squad.json](./55678-door-kickers-action-squad.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
@@ -12914,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
 | Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
+| DungeonOS | 388132 | [388132-dungeonos.json](./388132-dungeonos.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
 | DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
