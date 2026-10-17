@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About | 110919 | [110919-a-game-about.json](./110919-a-game-about.json) |
 | A Game About a King Saving a Dragon | 384142 | [384142-a-game-about-a-king-saving-a-dragon.json](./384142-a-game-about-a-king-saving-a-dragon.json) |
+| A Game About AI | 405946 | [405946-a-game-about-ai.json](./405946-a-game-about-ai.json) |
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
 | A Game About Breaking A Cube | 379511 | [379511-a-game-about-breaking-a-cube.json](./379511-a-game-about-breaking-a-cube.json) |
@@ -7530,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Expedition Mahjong Connect | 89853 | [89853-antarctic-expedition-mahjong-connect.json](./89853-antarctic-expedition-mahjong-connect.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
+| Antarctic Grave | 405940 | [405940-antarctic-grave.json](./405940-antarctic-grave.json) |
 | Antarctic Heritage Trust | 133114 | [133114-antarctic-heritage-trust.json](./133114-antarctic-heritage-trust.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
