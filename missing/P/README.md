@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb: Day of Doofenshmirtz | 23476 | [23476-phineas-and-ferb-day-of-doofenshmirtz.json](./23476-phineas-and-ferb-day-of-doofenshmirtz.json) |
 | Phineas and Ferb: New Inventions | 17743 | [17743-phineas-and-ferb-new-inventions.json](./17743-phineas-and-ferb-new-inventions.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
+| Phineas and Ferb: The Movie Game - The Dimension of Doooom! | 395843 | [395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json](./395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phlinx II | 354986 | [354986-phlinx-ii.json](./354986-phlinx-ii.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
 | Playmobil Dinos | 344974 | [344974-playmobil-dinos.json](./344974-playmobil-dinos.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
+| Playmobil Happy Meal Digital Experience | 395741 | [395741-playmobil-happy-meal-digital-experience.json](./395741-playmobil-happy-meal-digital-experience.json) |
 | Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
 | Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
@@ -7111,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Airlines | 202209 | [202209-pleasure-airlines.json](./202209-pleasure-airlines.json) |
 | Pleasure Climb | 147873 | [147873-pleasure-climb.json](./147873-pleasure-climb.json) |
 | Pleasure Cruise | 380789 | [380789-pleasure-cruise.json](./380789-pleasure-cruise.json) |
+| Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
@@ -10292,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
+| Princess Paladin | 395761 | [395761-princess-paladin.json](./395761-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
