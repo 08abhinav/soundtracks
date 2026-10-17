@@ -3377,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be My Princess 2 | 238421 | [238421-be-my-princess-2.json](./238421-be-my-princess-2.json) |
 | Be My Princess: Party | 238420 | [238420-be-my-princess-party.json](./238420-be-my-princess-party.json) |
 | Be Not Afraid, But Run | 283990 | [283990-be-not-afraid-but-run.json](./283990-be-not-afraid-but-run.json) |
+| Be Not Afraid: Threads of Light | 383098 | [383098-be-not-afraid-threads-of-light.json](./383098-be-not-afraid-threads-of-light.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
