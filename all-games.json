@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:00:42.743Z",
-  "total_soundtracks": 2007,
+  "generated_at": "2026-10-17T12:00:50.784Z",
+  "total_soundtracks": 2008,
   "games": [
     {
       "igdb_id": 7522,
@@ -8802,6 +8802,20 @@
           "album_name": "Gone Home: Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2trGaSVNffD8KeX1Gy5TdF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87367,
+      "game_name": "Good Pizza, Great Pizza",
+      "game_url": "https://ostdb.net/games/good-pizza-great-pizza",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735368653a88d5b1156314c5a2",
+      "albums": [
+        {
+          "album_name": "Good Pizza, Great Pizza (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0mYwLzFqbGYFR5Ss1zl4gx",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
