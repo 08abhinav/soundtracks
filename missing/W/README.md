@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking Tourist | 134935 | [134935-walking-tourist.json](./134935-walking-tourist.json) |
 | Walking War Robots | 59759 | [59759-walking-war-robots.json](./59759-walking-war-robots.json) |
 | Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
+| Walking With Dinosaurs | 380813 | [380813-walking-with-dinosaurs.json](./380813-walking-with-dinosaurs.json) |
 | Walking-Race | 247053 | [247053-walking-race.json](./247053-walking-race.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walks in Paris Dress Up | 106941 | [106941-walks-in-paris-dress-up.json](./106941-walks-in-paris-dress-up.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
 | Whispers Between Worlds | 384869 | [384869-whispers-between-worlds.json](./384869-whispers-between-worlds.json) |
+| Whispers Beyond | 380811 | [380811-whispers-beyond.json](./380811-whispers-beyond.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
