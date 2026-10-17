@@ -5186,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
+| Shape Survivors | 407859 | [407859-shape-survivors.json](./407859-shape-survivors.json) |
 | Shape Swarm | 385214 | [385214-shape-swarm.json](./385214-shape-swarm.json) |
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
@@ -6322,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
+| Shoo, Naughty Little Monsters! | 407873 | [407873-shoo-naughty-little-monsters.json](./407873-shoo-naughty-little-monsters.json) |
 | ShooMachi | 142937 | [142937-shoomachi.json](./142937-shoomachi.json) |
 | Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
@@ -15057,10 +15059,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fighter: Superhero Revenge | 196535 | [196535-spider-fighter-superhero-revenge.json](./196535-spider-fighter-superhero-revenge.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
+| Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
 | Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
 | Spider Jet | 359465 | [359465-spider-jet.json](./359465-spider-jet.json) |
+| Spider Jump | 407887 | [407887-spider-jump.json](./407887-spider-jump.json) |
 | Spider Kong | 40737 | [40737-spider-kong.json](./40737-spider-kong.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
@@ -16427,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish'ems | 130801 | [130801-squishems.json](./130801-squishems.json) |
 | Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
+| Squishy League | 407883 | [407883-squishy-league.json](./407883-squishy-league.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squishys Revenge | 256197 | [256197-squishys-revenge.json](./256197-squishys-revenge.json) |
@@ -20389,6 +20394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subroutine | 344992 | [344992-subroutine.json](./344992-subroutine.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
+| Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
@@ -21425,6 +21431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
+| Super Big Mega Trucks: Arena | 407910 | [407910-super-big-mega-trucks-arena.json](./407910-super-big-mega-trucks-arena.json) |
 | Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
