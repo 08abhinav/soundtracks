@@ -8188,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
+| Blue Reflection: Second Light - Season Pass | 396336 | [396336-blue-reflection-second-light-season-pass.json](./396336-blue-reflection-second-light-season-pass.json) |
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
 | Blue Reflection: Second Light - Ultimate Edition | 237859 | [237859-blue-reflection-second-light-ultimate-edition.json](./237859-blue-reflection-second-light-ultimate-edition.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
@@ -9533,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
 | Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
+| Boulder Baby | 396450 | [396450-boulder-baby.json](./396450-boulder-baby.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 280820 | [280820-boulder-dash.json](./280820-boulder-dash.json) |
@@ -10117,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Quiz | 266120 | [266120-brain-quiz.json](./266120-brain-quiz.json) |
+| Brain Riddle | 396473 | [396473-brain-riddle.json](./396473-brain-riddle.json) |
 | Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
 | Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
