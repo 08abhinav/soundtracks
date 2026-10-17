@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
+| Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
 | Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
+| Hanzi Match | 370431 | [370431-hanzi-match.json](./370431-hanzi-match.json) |
 | Hanzo Quest | 98542 | [98542-hanzo-quest.json](./98542-hanzo-quest.json) |
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
@@ -1255,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
 | Harbinger | 315204 | [315204-harbinger.json](./315204-harbinger.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
+| Harbinger: Legacy Edition | 370406 | [370406-harbinger-legacy-edition.json](./370406-harbinger-legacy-edition.json) |
 | Harbinger: Skeleton Crew | 63554 | [63554-harbinger-skeleton-crew.json](./63554-harbinger-skeleton-crew.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
@@ -8327,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
+| Hungry Hearts Ramen: Soulful Bowl | 370455 | [370455-hungry-hearts-ramen-soulful-bowl.json](./370455-hungry-hearts-ramen-soulful-bowl.json) |
 | Hungry Hearts Restaurant | 356276 | [356276-hungry-hearts-restaurant.json](./356276-hungry-hearts-restaurant.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horace | 170795 | [170795-hungry-horace.json](./170795-hungry-horace.json) |
