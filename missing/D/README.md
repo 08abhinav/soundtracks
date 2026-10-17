@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts vs. Zombies | 64318 | [64318-darts-vs-zombies.json](./64318-darts-vs-zombies.json) |
 | Darts Wii | 344333 | [344333-darts-wii.json](./344333-darts-wii.json) |
 | Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
+| Dartwords | 416662 | [416662-dartwords.json](./416662-dartwords.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
@@ -10284,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
+| Dragon Knight | 416720 | [416720-dragon-knight.json](./416720-dragon-knight.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
 | Dragon Knight 4 | 80844 | [80844-dragon-knight-4.json](./80844-dragon-knight-4.json) |
 | Dragon Knight II | 41779 | [41779-dragon-knight-ii.json](./41779-dragon-knight-ii.json) |
