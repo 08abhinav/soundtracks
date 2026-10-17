@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Memories: Prologue | 284829 | [284829-dark-memories-prologue.json](./284829-dark-memories-prologue.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
+| Dark México | 392729 | [392729-dark-mexico.json](./392729-dark-mexico.json) |
 | Dark Miasma | 121328 | [121328-dark-miasma.json](./121328-dark-miasma.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
 | Dark Mine | 343210 | [343210-dark-mine.json](./343210-dark-mine.json) |
