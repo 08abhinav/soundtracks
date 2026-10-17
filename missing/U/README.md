@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO Hunter | 97156 | [97156-ufo-hunter.json](./97156-ufo-hunter.json) |
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
+| UFO Mayhem | 377946 | [377946-ufo-mayhem.json](./377946-ufo-mayhem.json) |
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
