@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
 | imprint-X | 27307 | [27307-imprint-x.json](./27307-imprint-x.json) |
 | Imprinted | 383141 | [383141-imprinted.json](./383141-imprinted.json) |
+| Imprinted | 398302 | [398302-imprinted.json](./398302-imprinted.json) |
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned | 63203 | [63203-imprisoned.json](./63203-imprisoned.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniti VR | 29051 | [29051-infiniti-vr.json](./29051-infiniti-vr.json) |
 | Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
 | Infinitode 2: Infinite Tower Defense | 139491 | [139491-infinitode-2-infinite-tower-defense.json](./139491-infinitode-2-infinite-tower-defense.json) |
+| Infinitory | 398270 | [398270-infinitory.json](./398270-infinitory.json) |
 | Infinitrap: Ohio Jack and the cup of Eternity | 21996 | [21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json](./21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
