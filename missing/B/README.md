@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Redemption | 115554 | [115554-baby-redemption.json](./115554-baby-redemption.json) |
 | Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
+| Baby Shapes for Kids: Puzzle, Animal, Funny, Parent, Coloring, Farm Simulator Games | 400072 | [400072-baby-shapes-for-kids-puzzle-animal-funny-parent-coloring-farm-simulator-games.json](./400072-baby-shapes-for-kids-puzzle-animal-funny-parent-coloring-farm-simulator-games.json) |
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
 | Baby Shark Run Away | 229621 | [229621-baby-shark-run-away.json](./229621-baby-shark-run-away.json) |
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
+| Best Mobile Games 5-in-1 | 400060 | [400060-best-mobile-games-5-in-1.json](./400060-best-mobile-games-5-in-1.json) |
 | Best of Arcade Games | 8664 | [8664-best-of-arcade-games.json](./8664-best-of-arcade-games.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Arcade Games: Air Hockey | 84984 | [84984-best-of-arcade-games-air-hockey.json](./84984-best-of-arcade-games-air-hockey.json) |
@@ -5245,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Kahuna Words | 91556 | [91556-big-kahuna-words.json](./91556-big-kahuna-words.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Kids Games Collection Bundle | 226330 | [226330-big-kids-games-collection-bundle.json](./226330-big-kids-games-collection-bundle.json) |
+| Big Kids Games Collection Bundle 6-in-1 Funny Educational Children & Toddler Learning Pack | 400071 | [400071-big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack.json](./400071-big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Klondike: Pyramid | 275075 | [275075-big-klondike-pyramid.json](./275075-big-klondike-pyramid.json) |
@@ -10411,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Year Of The Dragon | 318591 | [318591-brawl-stars-year-of-the-dragon.json](./318591-brawl-stars-year-of-the-dragon.json) |
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
+| Brawl.io | 400068 | [400068-brawl-io.json](./400068-brawl-io.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
 | Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
