@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
+| Lac Viet Journey | 374915 | [374915-lac-viet-journey.json](./374915-lac-viet-journey.json) |
 | Lac-Pochette Centennial | 398508 | [398508-lac-pochette-centennial.json](./398508-lac-pochette-centennial.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
 | Little Life: Island Tales | 308895 | [308895-little-life-island-tales.json](./308895-little-life-island-tales.json) |
 | Little Lighthouse of Horror | 329694 | [329694-little-lighthouse-of-horror.json](./329694-little-lighthouse-of-horror.json) |
+| Little Lights Remains TD | 374883 | [374883-little-lights-remains-td.json](./374883-little-lights-remains-td.json) |
 | Little Lilicia | 406267 | [406267-little-lilicia.json](./406267-little-lilicia.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Loki & The Yggdrasil Maze | 265630 | [265630-little-loki-and-the-yggdrasil-maze.json](./265630-little-loki-and-the-yggdrasil-maze.json) |
@@ -5709,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost Horizon | 7311 | [7311-lost-horizon.json](./7311-lost-horizon.json) |
 | Lost Host | 378896 | [378896-lost-host.json](./378896-lost-host.json) |
+| Lost Howl | 374894 | [374894-lost-howl.json](./374894-lost-howl.json) |
 | Lost Identities | 272794 | [272794-lost-identities.json](./272794-lost-identities.json) |
 | Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
 | Lost In 80s II | 89673 | [89673-lost-in-80s-ii.json](./89673-lost-in-80s-ii.json) |
