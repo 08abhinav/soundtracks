@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Mania | 40374 | [40374-paddle-mania.json](./40374-paddle-mania.json) |
 | Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
+| Paddle Pop Kombatei | 388895 | [388895-paddle-pop-kombatei.json](./388895-paddle-pop-kombatei.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
 | Paddle vs Paddle | 413015 | [413015-paddle-vs-paddle.json](./413015-paddle-vs-paddle.json) |
