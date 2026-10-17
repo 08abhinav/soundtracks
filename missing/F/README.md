@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
+| Fear Night Tales: Do You Like Coffee? | 389521 | [389521-fear-night-tales-do-you-like-coffee.json](./389521-fear-night-tales-do-you-like-coffee.json) |
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
 | Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
 | Fear of Clowns | 28420 | [28420-fear-of-clowns.json](./28420-fear-of-clowns.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
+| Feed the Demon Incremental | 389528 | [389528-feed-the-demon-incremental.json](./389528-feed-the-demon-incremental.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
@@ -5841,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flourish | 395736 | [395736-flourish.json](./395736-flourish.json) |
 | Flow | 171584 | [171584-flow.json](./171584-flow.json) |
 | Flow | 315530 | [315530-flow.json](./315530-flow.json) |
+| Flow | 389512 | [389512-flow.json](./389512-flow.json) |
 | Flow | 395829 | [395829-flow.json](./395829-flow.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Factory | 295835 | [295835-flow-factory.json](./295835-flow-factory.json) |
@@ -6796,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Curse | 413126 | [413126-forest-curse.json](./413126-forest-curse.json) |
 | Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
+| Forest Dungeon | 389487 | [389487-forest-dungeon.json](./389487-forest-dungeon.json) |
 | Forest Escape | 74230 | [74230-forest-escape.json](./74230-forest-escape.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
 | Forest Factory | 358893 | [358893-forest-factory.json](./358893-forest-factory.json) |
@@ -6823,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Legends: The Call of Love - Collector's Edition | 76916 | [76916-forest-legends-the-call-of-love-collectors-edition.json](./76916-forest-legends-the-call-of-love-collectors-edition.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Life | 234019 | [234019-forest-life.json](./234019-forest-life.json) |
+| Forest Loop | 389520 | [389520-forest-loop.json](./389520-forest-loop.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
 | Forest Mystery | 192704 | [192704-forest-mystery.json](./192704-forest-mystery.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
