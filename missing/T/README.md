@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Radiance | 122045 | [122045-tales-of-radiance.json](./122045-tales-of-radiance.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
+| Tales of SclObonia | 368806 | [368806-tales-of-sclobonia.json](./368806-tales-of-sclobonia.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sirius | 370999 | [370999-tales-of-sirius.json](./370999-tales-of-sirius.json) |
@@ -7640,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Object Show: Season 2 | 207009 | [207009-the-hidden-object-show-season-2.json](./207009-the-hidden-object-show-season-2.json) |
 | The Hidden Prophecies of Nostradamus | 210208 | [210208-the-hidden-prophecies-of-nostradamus.json](./210208-the-hidden-prophecies-of-nostradamus.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
+| The Hidden Scrolls | 368805 | [368805-the-hidden-scrolls.json](./368805-the-hidden-scrolls.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
@@ -12747,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tourist Trap | 119088 | [119088-the-tourist-trap.json](./119088-the-tourist-trap.json) |
 | The Tournament of Zulula | 63383 | [63383-the-tournament-of-zulula.json](./63383-the-tournament-of-zulula.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
+| The Touryst: Deluxe | 368773 | [368773-the-touryst-deluxe.json](./368773-the-touryst-deluxe.json) |
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
@@ -21374,6 +21377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
 | Transylmania Deluxe | 265880 | [265880-transylmania-deluxe.json](./265880-transylmania-deluxe.json) |
 | Transylmania II: The Vampire Bites Back! | 267416 | [267416-transylmania-ii-the-vampire-bites-back.json](./267416-transylmania-ii-the-vampire-bites-back.json) |
+| Transylmania: Retro Edition | 368790 | [368790-transylmania-retro-edition.json](./368790-transylmania-retro-edition.json) |
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
 | Transylvania III: Vanquish the Night | 15533 | [15533-transylvania-iii-vanquish-the-night.json](./15533-transylvania-iii-vanquish-the-night.json) |
 | Transylvanian Tower | 45312 | [45312-transylvanian-tower.json](./45312-transylvanian-tower.json) |
@@ -22269,6 +22273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | Trippy Tavern | 207575 | [207575-trippy-tavern.json](./207575-trippy-tavern.json) |
 | Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
+| Trippy Trader: Schedule & Sell Candy | 368781 | [368781-trippy-trader-schedule-and-sell-candy.json](./368781-trippy-trader-schedule-and-sell-candy.json) |
 | Trippy's Disc Golf | 258931 | [258931-trippys-disc-golf.json](./258931-trippys-disc-golf.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
@@ -23802,6 +23807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Explorer Upgrade Pack | 368783 | [368783-two-point-museum-explorer-upgrade-pack.json](./368783-two-point-museum-explorer-upgrade-pack.json) |
 | Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
 | Two Point Museum: Rides & Relics | 418502 | [418502-two-point-museum-rides-and-relics.json](./418502-two-point-museum-rides-and-relics.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
