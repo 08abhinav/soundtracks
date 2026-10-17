@@ -9947,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moogies | 65239 | [65239-the-moogies.json](./65239-the-moogies.json) |
 | The Moon 2044 | 282043 | [282043-the-moon-2044.json](./282043-the-moon-2044.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
+| The Moon Adventures of Apollo Starlight | 382599 | [382599-the-moon-adventures-of-apollo-starlight.json](./382599-the-moon-adventures-of-apollo-starlight.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Fields | 76944 | [76944-the-moon-fields.json](./76944-the-moon-fields.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
@@ -10735,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
+| The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
@@ -11236,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
+| The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roottrees Are Dead | 288983 | [288983-the-roottrees-are-dead.json](./288983-the-roottrees-are-dead.json) |
@@ -17982,6 +17985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
+| Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
@@ -18049,6 +18053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
 | Tomorrow's Past | 189898 | [189898-tomorrows-past.json](./189898-tomorrows-past.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
+| Tomotomo | 382600 | [382600-tomotomo.json](./382600-tomotomo.json) |
 | TomoTomo | 418735 | [418735-tomotomo.json](./418735-tomotomo.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomoyasu Hotei: Stolen Song | 44823 | [44823-tomoyasu-hotei-stolen-song.json](./44823-tomoyasu-hotei-stolen-song.json) |
