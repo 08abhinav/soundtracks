@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
+| Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammery | 177450 | [177450-jammery.json](./177450-jammery.json) |
 | Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
@@ -2482,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
 | Jumps | 30790 | [30790-jumps.json](./30790-jumps.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
+| Jumpscare Scare Jump | 407180 | [407180-jumpscare-scare-jump.json](./407180-jumpscare-scare-jump.json) |
 | Jumpscare Simulator | 337568 | [337568-jumpscare-simulator.json](./337568-jumpscare-simulator.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
