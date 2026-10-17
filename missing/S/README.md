@@ -15680,6 +15680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
 | Spleen | 419990 | [419990-spleen.json](./419990-spleen.json) |
+| Splendor & Misery | 385439 | [385439-splendor-and-misery.json](./385439-splendor-and-misery.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
@@ -16074,6 +16075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
+| Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
@@ -18754,6 +18756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
 | Step Theater | 395007 | [395007-step-theater.json](./395007-step-theater.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
+| Step Ups | 385432 | [385432-step-ups.json](./385432-step-ups.json) |
 | Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Steph IQ | 100611 | [100611-steph-iq.json](./100611-steph-iq.json) |
@@ -19978,6 +19981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
+| Street Takoyaki | 385430 | [385430-street-takoyaki.json](./385430-street-takoyaki.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Thugz | 254661 | [254661-street-thugz.json](./254661-street-thugz.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
@@ -21353,6 +21357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
 | Sunder Siege | 400711 | [400711-sunder-siege.json](./400711-sunder-siege.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
+| Sundered Hope | 385435 | [385435-sundered-hope.json](./385435-sundered-hope.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
 | Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
