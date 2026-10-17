@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate | 139731 | [139731-secret-city-chalk-of-fate.json](./139731-secret-city-chalk-of-fate.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
+| Secret City: London Calling | 396448 | [396448-secret-city-london-calling.json](./396448-secret-city-london-calling.json) |
 | Secret City: The Human Threat | 139732 | [139732-secret-city-the-human-threat.json](./139732-secret-city-the-human-threat.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
 | Secret Command | 213265 | [213265-secret-command.json](./213265-secret-command.json) |
@@ -17497,6 +17498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbot | 133848 | [133848-starbot.json](./133848-starbot.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
+| Starboy and the Captain of Outer Space: Mutant Hotdog Game | 396389 | [396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json](./396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json) |
 | StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
 | Starbrew Cafe: Mystical Merge | 352184 | [352184-starbrew-cafe-mystical-merge.json](./352184-starbrew-cafe-mystical-merge.json) |
 | Starbrew Station | 372569 | [372569-starbrew-station.json](./372569-starbrew-station.json) |
