@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
+| Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
 | Eastern Dream | 414546 | [414546-eastern-dream.json](./414546-eastern-dream.json) |
 | Eastern Era | 374833 | [374833-eastern-era.json](./374833-eastern-era.json) |
 | Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
