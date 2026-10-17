@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
 | I won't finish this game | 350972 | [350972-i-wont-finish-this-game.json](./350972-i-wont-finish-this-game.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
+| I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dangers | 347200 | [347200-idle-dangers.json](./347200-idle-dangers.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Deepcore | 398901 | [398901-idle-deepcore.json](./398901-idle-deepcore.json) |
+| Idle Defragmenter 95 | 381902 | [381902-idle-defragmenter-95.json](./381902-idle-defragmenter-95.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
 | Idle Devils: New Character - Belial | 293848 | [293848-idle-devils-new-character-belial.json](./293848-idle-devils-new-character-belial.json) |
@@ -3431,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive meadow 64 | 178022 | [178022-interactive-meadow-64.json](./178022-interactive-meadow-64.json) |
 | Interactive Portraits: Trans People in Japan | 134988 | [134988-interactive-portraits-trans-people-in-japan.json](./134988-interactive-portraits-trans-people-in-japan.json) |
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
+| Interactive Sex: Threesome | 382009 | [382009-interactive-sex-threesome.json](./382009-interactive-sex-threesome.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
 | Interastra | 147226 | [147226-interastra.json](./147226-interastra.json) |
