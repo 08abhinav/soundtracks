@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
 | Deadline | 357729 | [357729-deadline.json](./357729-deadline.json) |
+| Deadline | 376825 | [376825-deadline.json](./376825-deadline.json) |
 | Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
@@ -11023,6 +11024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream | 3104 | [3104-dream.json](./3104-dream.json) |
+| Dream | 376819 | [376819-dream.json](./376819-dream.json) |
 | Dream | 379649 | [379649-dream.json](./379649-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
