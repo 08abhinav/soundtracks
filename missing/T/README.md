@@ -9864,7 +9864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
-| The Messenger: Picnic Panic | 119314 | [119314-the-messenger-picnic-panic.json](./119314-the-messenger-picnic-panic.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
@@ -15003,6 +15002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
+| Tidal Rush | 363200 | [363200-tidal-rush.json](./363200-tidal-rush.json) |
 | Tidal Shock: Off The Hook | 133258 | [133258-tidal-shock-off-the-hook.json](./133258-tidal-shock-off-the-hook.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
