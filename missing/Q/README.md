@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Monkey Land: King of Fruits | 301355 | [301355-qs-monkey-land-king-of-fruits.json](./301355-qs-monkey-land-king-of-fruits.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | QT | 130386 | [130386-qt.json](./130386-qt.json) |
+| QTI: Quantum Tunnel Idle | 388154 | [388154-qti-quantum-tunnel-idle.json](./388154-qti-quantum-tunnel-idle.json) |
 | Qti129 | 416191 | [416191-qti129.json](./416191-qti129.json) |
 | Qtz | 419999 | [419999-qtz.json](./419999-qtz.json) |
 | Qū Mèi: Jiàohuà | 98330 | [98330-qu-mei-jiaohua.json](./98330-qu-mei-jiaohua.json) |
