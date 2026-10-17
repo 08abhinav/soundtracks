@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
+| QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
 | Quarantennis | 179977 | [179977-quarantennis.json](./179977-quarantennis.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
 | Quento | 90205 | [90205-quento.json](./90205-quento.json) |
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
+| Quest | 394628 | [394628-quest.json](./394628-quest.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Arcana | 82763 | [82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json](./82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Sina | 82762 | [82762-quest-and-quest-3d-short-short-female-adventurer-sina.json](./82762-quest-and-quest-3d-short-short-female-adventurer-sina.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Sina II | 82735 | [82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json](./82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json) |
