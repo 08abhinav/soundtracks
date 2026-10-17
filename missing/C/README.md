@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards We're Dealt | 244741 | [244741-cards-were-dealt.json](./244741-cards-were-dealt.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
+| Cards, the Universe and Everything | 379187 | [379187-cards-the-universe-and-everything.json](./379187-cards-the-universe-and-everything.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardScrawl | 311591 | [311591-cardscrawl.json](./311591-cardscrawl.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatFight! | 220544 | [220544-chatfight.json](./220544-chatfight.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | Chatle | 415433 | [415433-chatle.json](./415433-chatle.json) |
+| ChatPlay | 379185 | [379185-chatplay.json](./379185-chatplay.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
@@ -5819,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Emerland | 52509 | [52509-chronicles-of-emerland.json](./52509-chronicles-of-emerland.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
+| Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
@@ -6008,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
+| Chunithm X-Verse-X | 379181 | [379181-chunithm-x-verse-x.json](./379181-chunithm-x-verse-x.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
@@ -12970,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
+| Cry From the Abyss | 379086 | [379086-cry-from-the-abyss.json](./379086-cry-from-the-abyss.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
