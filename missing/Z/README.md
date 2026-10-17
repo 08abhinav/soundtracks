@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
 | Zenkoku Dekotora Matsuri | 198171 | [198171-zenkoku-dekotora-matsuri.json](./198171-zenkoku-dekotora-matsuri.json) |
+| Zenku | 384881 | [384881-zenku.json](./384881-zenku.json) |
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
