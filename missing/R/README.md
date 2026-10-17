@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
 | Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
+| Rabbit, Coyote, Wolf, Grizzly | 375493 | [375493-rabbit-coyote-wolf-grizzly.json](./375493-rabbit-coyote-wolf-grizzly.json) |
 | Rabbit: Jigsaw Puzzles | 96613 | [96613-rabbit-jigsaw-puzzles.json](./96613-rabbit-jigsaw-puzzles.json) |
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
+| Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
