@@ -3753,10 +3753,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber | 257309 | [257309-beat-saber.json](./257309-beat-saber.json) |
+| Beat Saber: Billie Eilish Music Pack | 363178 | [363178-beat-saber-billie-eilish-music-pack.json](./363178-beat-saber-billie-eilish-music-pack.json) |
 | Beat Saber: Britney Spears - "…Baby One More Time" | 357222 | [357222-beat-saber-britney-spears-baby-one-more-time.json](./357222-beat-saber-britney-spears-baby-one-more-time.json) |
 | Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
 | Beat Saber: Britney Spears - "Toxic" | 357221 | [357221-beat-saber-britney-spears-toxic.json](./357221-beat-saber-britney-spears-toxic.json) |
 | Beat Saber: Britney Spears Music Pack | 357250 | [357250-beat-saber-britney-spears-music-pack.json](./357250-beat-saber-britney-spears-music-pack.json) |
+| Beat Saber: BTS Music Pack | 363185 | [363185-beat-saber-bts-music-pack.json](./363185-beat-saber-bts-music-pack.json) |
 | Beat Saber: Daft Punk - “Around the World / Harder Better Faster Stronger” | 296495 | [296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json](./296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json) |
 | Beat Saber: Daft Punk - "Around The World" | 296494 | [296494-beat-saber-daft-punk-around-the-world.json](./296494-beat-saber-daft-punk-around-the-world.json) |
 | Beat Saber: Daft Punk - "Da Funk / Daftendirekt" | 298063 | [298063-beat-saber-daft-punk-da-funk-daftendirekt.json](./298063-beat-saber-daft-punk-da-funk-daftendirekt.json) |
@@ -3771,16 +3773,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
 | Beat Saber: deadmau5 - "Ghosts 'n' Stuff (feat. Rob Swire)" | 357238 | [357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json](./357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json) |
 | Beat Saber: Electronic Mixtape Music Pack | 357354 | [357354-beat-saber-electronic-mixtape-music-pack.json](./357354-beat-saber-electronic-mixtape-music-pack.json) |
+| Beat Saber: Fall Out Boy Music Pack | 363180 | [363180-beat-saber-fall-out-boy-music-pack.json](./363180-beat-saber-fall-out-boy-music-pack.json) |
 | Beat Saber: Foo Fighters - "The Pretender" | 357231 | [357231-beat-saber-foo-fighters-the-pretender.json](./357231-beat-saber-foo-fighters-the-pretender.json) |
 | Beat Saber: Green Day - "Holiday" | 357247 | [357247-beat-saber-green-day-holiday.json](./357247-beat-saber-green-day-holiday.json) |
 | Beat Saber: Green Day Music Pack | 357397 | [357397-beat-saber-green-day-music-pack.json](./357397-beat-saber-green-day-music-pack.json) |
 | Beat Saber: Hip Hop Mixtape | 357263 | [357263-beat-saber-hip-hop-mixtape.json](./357263-beat-saber-hip-hop-mixtape.json) |
+| Beat Saber: Imagine Dragons Music Pack | 363189 | [363189-beat-saber-imagine-dragons-music-pack.json](./363189-beat-saber-imagine-dragons-music-pack.json) |
+| Beat Saber: Interscope Mixtape Music Pack | 363177 | [363177-beat-saber-interscope-mixtape-music-pack.json](./363177-beat-saber-interscope-mixtape-music-pack.json) |
 | Beat Saber: Katseye - "Gabriela" | 407194 | [407194-beat-saber-katseye-gabriela.json](./407194-beat-saber-katseye-gabriela.json) |
 | Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
 | Beat Saber: Lady Gaga Music Pack | 357355 | [357355-beat-saber-lady-gaga-music-pack.json](./357355-beat-saber-lady-gaga-music-pack.json) |
+| Beat Saber: Linkin Park Music Pack | 363198 | [363198-beat-saber-linkin-park-music-pack.json](./363198-beat-saber-linkin-park-music-pack.json) |
+| Beat Saber: Linkin Park x Mike Shinoda Music Pack | 363196 | [363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json](./363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json) |
+| Beat Saber: Lizzo Music Pack | 363193 | [363193-beat-saber-lizzo-music-pack.json](./363193-beat-saber-lizzo-music-pack.json) |
 | Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
+| Beat Saber: Panic! at the Disco Music Pack | 363183 | [363183-beat-saber-panic-at-the-disco-music-pack.json](./363183-beat-saber-panic-at-the-disco-music-pack.json) |
 | Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
 | Beat Saber: Queen - "We Will Rock You" | 357225 | [357225-beat-saber-queen-we-will-rock-you.json](./357225-beat-saber-queen-we-will-rock-you.json) |
@@ -3796,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: The Weeknd - "Blinding Lights" | 357236 | [357236-beat-saber-the-weeknd-blinding-lights.json](./357236-beat-saber-the-weeknd-blinding-lights.json) |
 | Beat Saber: The Weeknd - "Can't Feel My Face" | 357237 | [357237-beat-saber-the-weeknd-cant-feel-my-face.json](./357237-beat-saber-the-weeknd-cant-feel-my-face.json) |
 | Beat Saber: The Weeknd Music Pack | 357353 | [357353-beat-saber-the-weeknd-music-pack.json](./357353-beat-saber-the-weeknd-music-pack.json) |
+| Beat Saber: Timbaland Music Pack | 363182 | [363182-beat-saber-timbaland-music-pack.json](./363182-beat-saber-timbaland-music-pack.json) |
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
@@ -4425,6 +4435,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
+| Ben 10: 001 - Character: Ben Tennyson | 363184 | [363184-ben-10-001-character-ben-tennyson.json](./363184-ben-10-001-character-ben-tennyson.json) |
+| Ben 10: 002 - Character: Four Arms | 363186 | [363186-ben-10-002-character-four-arms.json](./363186-ben-10-002-character-four-arms.json) |
+| Ben 10: 003 - Character: Stinkfly | 363187 | [363187-ben-10-003-character-stinkfly.json](./363187-ben-10-003-character-stinkfly.json) |
+| Ben 10: 004 - Character: Ripjaws | 363188 | [363188-ben-10-004-character-ripjaws.json](./363188-ben-10-004-character-ripjaws.json) |
+| Ben 10: 005 - Character: XLR8 | 363190 | [363190-ben-10-005-character-xlr8.json](./363190-ben-10-005-character-xlr8.json) |
+| Ben 10: 006 - Character: Heatblast | 363191 | [363191-ben-10-006-character-heatblast.json](./363191-ben-10-006-character-heatblast.json) |
+| Ben 10: 007 - Character: Wildmutt | 363192 | [363192-ben-10-007-character-wildmutt.json](./363192-ben-10-007-character-wildmutt.json) |
+| Ben 10: 008 - Character: Diamondhead | 363194 | [363194-ben-10-008-character-diamondhead.json](./363194-ben-10-008-character-diamondhead.json) |
+| Ben 10: 009 - Character: Ghostfreak | 363195 | [363195-ben-10-009-character-ghostfreak.json](./363195-ben-10-009-character-ghostfreak.json) |
+| Ben 10: 010 - Character: Grey Matter | 363197 | [363197-ben-10-010-character-grey-matter.json](./363197-ben-10-010-character-grey-matter.json) |
+| Ben 10: 011 - Character: Upgrade | 363199 | [363199-ben-10-011-character-upgrade.json](./363199-ben-10-011-character-upgrade.json) |
 | Ben 10: 012 - Projectile Mod: Shardblaster | 363811 | [363811-ben-10-012-projectile-mod-shardblaster.json](./363811-ben-10-012-projectile-mod-shardblaster.json) |
 | Ben 10: 013 - Attack Mod: Laserwave | 363815 | [363815-ben-10-013-attack-mod-laserwave.json](./363815-ben-10-013-attack-mod-laserwave.json) |
 | Ben 10: 014 - Attack Mod: Prismforce | 363816 | [363816-ben-10-014-attack-mod-prismforce.json](./363816-ben-10-014-attack-mod-prismforce.json) |
@@ -6937,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
+| Blastermancer | 363170 | [363170-blastermancer.json](./363170-blastermancer.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteroids | 371558 | [371558-blasteroids.json](./371558-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
