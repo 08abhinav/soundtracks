@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Koihime Musou: A Heart throbbing, Maidenly Romance of the Three Kingdoms | 23437 | [23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json](./23437-koihime-musou-a-heart-throbbing-maidenly-romance-of-the-three-kingdoms.json) |
+| Koiiro Chu! Lips | 407152 | [407152-koiiro-chu-lips.json](./407152-koiiro-chu-lips.json) |
 | Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
