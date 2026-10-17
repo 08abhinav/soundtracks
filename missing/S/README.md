@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
+| Seedverse | 409234 | [409234-seedverse.json](./409234-seedverse.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
@@ -9398,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Treasures: Lydia's Hunt | 311778 | [311778-slide-treasures-lydias-hunt.json](./311778-slide-treasures-lydias-hunt.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
+| SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
@@ -11809,6 +11811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
+| Somniac | 409211 | [409211-somniac.json](./409211-somniac.json) |
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
 | Somniphobia | 152472 | [152472-somniphobia.json](./152472-somniphobia.json) |
@@ -14324,6 +14327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
+| Spanking Exorcist | 409227 | [409227-spanking-exorcist.json](./409227-spanking-exorcist.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
@@ -15472,6 +15476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
+| Spiritual Blade | 409247 | [409247-spiritual-blade.json](./409247-spiritual-blade.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritual Girl | 212440 | [212440-spiritual-girl.json](./212440-spiritual-girl.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
@@ -15909,6 +15914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot the Diff 3D | 268955 | [268955-spot-the-diff-3d.json](./268955-spot-the-diff-3d.json) |
+| Spot the Difference | 409199 | [409199-spot-the-difference.json](./409199-spot-the-difference.json) |
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -25415,6 +25421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Syzygy | 252684 | [252684-system-syzygy.json](./252684-system-syzygy.json) |
 | System Upkeep | 310123 | [310123-system-upkeep.json](./310123-system-upkeep.json) |
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
+| System_Reboot | 409207 | [409207-system-reboot.json](./409207-system-reboot.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
 | Systematic Immunity | 34648 | [34648-systematic-immunity.json](./34648-systematic-immunity.json) |
 | Systematic Insanity | 126374 | [126374-systematic-insanity.json](./126374-systematic-insanity.json) |
