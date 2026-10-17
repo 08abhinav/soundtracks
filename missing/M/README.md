@@ -6455,7 +6455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
-| Mercenaries 2: World in Flames | 2684 | [2684-mercenaries-2-world-in-flames.json](./2684-mercenaries-2-world-in-flames.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
 | Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
@@ -15110,7 +15109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
 | Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
-| Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
