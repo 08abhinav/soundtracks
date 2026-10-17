@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:30:48.156Z",
-  "total_soundtracks": 2129,
+  "generated_at": "2026-10-17T23:30:55.646Z",
+  "total_soundtracks": 2130,
   "games": [
     {
       "igdb_id": 7522,
@@ -17620,6 +17620,20 @@
           "album_name": "RimWorld 1.7",
           "spotify_url": "https://open.spotify.com/album/1h7zhp08ylhoNxvymYSRW8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115036,
+      "game_name": "Ring of Pain",
+      "game_url": "https://ostdb.net/games/ring-of-pain",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0b72971925f3b1f29c3c24b",
+      "albums": [
+        {
+          "album_name": "Ring of Pain (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/16xvdv1bc8ZkhGRRCOj1ZP",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
