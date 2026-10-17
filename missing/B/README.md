@@ -6417,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black One Blood Brothers | 150255 | [150255-black-one-blood-brothers.json](./150255-black-one-blood-brothers.json) |
 | Black Ops | 221904 | [221904-black-ops.json](./221904-black-ops.json) |
 | Black Ops SWAT | 216136 | [216136-black-ops-swat.json](./216136-black-ops-swat.json) |
+| Black Orchestra: Worldfront 37-54 | 370986 | [370986-black-orchestra-worldfront-37-54.json](./370986-black-orchestra-worldfront-37-54.json) |
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
