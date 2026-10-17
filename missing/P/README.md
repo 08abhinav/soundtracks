@@ -3328,7 +3328,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Persona 5: Funkin' in Starlight | 327858 | [327858-persona-5-funkin-in-starlight.json](./327858-persona-5-funkin-in-starlight.json) |
 | Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
+| Persona 5: Phantom Thieves Logo Morgana Car Sticker | 409214 | [409214-persona-5-phantom-thieves-logo-morgana-car-sticker.json](./409214-persona-5-phantom-thieves-logo-morgana-car-sticker.json) |
 | Persona 5: Steelbook Edition | 167115 | [167115-persona-5-steelbook-edition.json](./167115-persona-5-steelbook-edition.json) |
+| Persona 5: Swimsuit Set | 409213 | [409213-persona-5-swimsuit-set.json](./409213-persona-5-swimsuit-set.json) |
 | Persona 5: Take Your Heart - Premium Edition | 41866 | [41866-persona-5-take-your-heart-premium-edition.json](./41866-persona-5-take-your-heart-premium-edition.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
@@ -3361,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
 | Perspectrip | 75206 | [75206-perspectrip.json](./75206-perspectrip.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
+| Persuasion RPG | 409223 | [409223-persuasion-rpg.json](./409223-persuasion-rpg.json) |
 | Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
 | Perudo | 124556 | [124556-perudo.json](./124556-perudo.json) |
 | Pervader | 54910 | [54910-pervader.json](./54910-pervader.json) |
@@ -3815,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Thief Mew's Secret Prima | 197569 | [197569-phantom-thief-mews-secret-prima.json](./197569-phantom-thief-mews-secret-prima.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
+| Phantom Tower | 409200 | [409200-phantom-tower.json](./409200-phantom-tower.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
 | Phantom Unit 999 | 280153 | [280153-phantom-unit-999.json](./280153-phantom-unit-999.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
