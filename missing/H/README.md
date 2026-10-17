@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
+| Help! I'm Turning Into a Mermaid! | 407892 | [407892-help-im-turning-into-a-mermaid.json](./407892-help-im-turning-into-a-mermaid.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
@@ -5070,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden Words! | 241336 | [241336-hidden-words.json](./241336-hidden-words.json) |
+| Hidden World | 407904 | [407904-hidden-world.json](./407904-hidden-world.json) |
 | Hidden World | 54089 | [54089-hidden-world.json](./54089-hidden-world.json) |
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
@@ -5452,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Cliff Horse: Online | 230203 | [230203-hill-cliff-horse-online.json](./230203-hill-cliff-horse-online.json) |
 | Hill Climb on a Motorcycle | 330217 | [330217-hill-climb-on-a-motorcycle.json](./330217-hill-climb-on-a-motorcycle.json) |
+| Hill Climb Racing 3 | 407909 | [407909-hill-climb-racing-3.json](./407909-hill-climb-racing-3.json) |
 | Hill Climb Runner | 256351 | [256351-hill-climb-runner.json](./256351-hill-climb-runner.json) |
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
 | Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
