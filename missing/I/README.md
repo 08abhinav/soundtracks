@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
+| I Am in This Photograph | 383751 | [383751-i-am-in-this-photograph.json](./383751-i-am-in-this-photograph.json) |
 | I Am Innocent | 138129 | [138129-i-am-innocent.json](./138129-i-am-innocent.json) |
 | I Am Janitor | 408005 | [408005-i-am-janitor.json](./408005-i-am-janitor.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
