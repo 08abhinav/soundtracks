@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Age | 404181 | [404181-a-little-age.json](./404181-a-little-age.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
+| A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
@@ -4300,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alette 0: Red Moon of April | 184813 | [184813-alette-0-red-moon-of-april.json](./184813-alette-0-red-moon-of-april.json) |
 | Alette If | 184811 | [184811-alette-if.json](./184811-alette-if.json) |
+| Alex & Arty | 392201 | [392201-alex-and-arty.json](./392201-alex-and-arty.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
 | Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Warriors Casino Jackpot | 174073 | [174073-ancient-warriors-casino-jackpot.json](./174073-ancient-warriors-casino-jackpot.json) |
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
 | Ancient Wars: Sparta Definitive Edition | 188425 | [188425-ancient-wars-sparta-definitive-edition.json](./188425-ancient-wars-sparta-definitive-edition.json) |
+| Ancient Wars: Sparta HD | 392185 | [392185-ancient-wars-sparta-hd.json](./392185-ancient-wars-sparta-hd.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
@@ -11621,6 +11624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
 | Atomanta | 365222 | [365222-atomanta.json](./365222-atomanta.json) |
+| Atomcraft | 392209 | [392209-atomcraft.json](./392209-atomcraft.json) |
 | Atomega | 64204 | [64204-atomega.json](./64204-atomega.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
 | Atomfall: Complete Edition | 393802 | [393802-atomfall-complete-edition.json](./393802-atomfall-complete-edition.json) |
