@@ -598,7 +598,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 2 Digsite: E3 2003 Demo | 321524 | [321524-halo-2-digsite-e3-2003-demo.json](./321524-halo-2-digsite-e3-2003-demo.json) |
 | Halo 2 Uncut | 257553 | [257553-halo-2-uncut.json](./257553-halo-2-uncut.json) |
 | Halo 2: Anniversary | 125009 | [125009-halo-2-anniversary.json](./125009-halo-2-anniversary.json) |
+| Halo 2: Blastacular Pack | 394642 | [394642-halo-2-blastacular-pack.json](./394642-halo-2-blastacular-pack.json) |
+| Halo 2: Bonus Pack | 394639 | [394639-halo-2-bonus-pack.json](./394639-halo-2-bonus-pack.json) |
+| Halo 2: Killtacular Pack | 394640 | [394640-halo-2-killtacular-pack.json](./394640-halo-2-killtacular-pack.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
+| Halo 2: Maptacular Pack | 394641 | [394641-halo-2-maptacular-pack.json](./394641-halo-2-maptacular-pack.json) |
 | Halo 2: Multiplayer Map Pack | 3122 | [3122-halo-2-multiplayer-map-pack.json](./3122-halo-2-multiplayer-map-pack.json) |
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
 | Halo 2600 | 18286 | [18286-halo-2600.json](./18286-halo-2600.json) |
@@ -3222,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
+| Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
@@ -7130,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
+| Horses 2025 | 394645 | [394645-horses-2025.json](./394645-horses-2025.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
@@ -8737,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
+| Hyperbeat Multiplayer | 394646 | [394646-hyperbeat-multiplayer.json](./394646-hyperbeat-multiplayer.json) |
 | Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
