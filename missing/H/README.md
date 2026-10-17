@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Panzer Lehr | 331900 | [331900-hell-let-loose-panzer-lehr.json](./331900-hell-let-loose-panzer-lehr.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
 | Hell Let Loose: Polish Parachute Brigade Uniform | 312013 | [312013-hell-let-loose-polish-parachute-brigade-uniform.json](./312013-hell-let-loose-polish-parachute-brigade-uniform.json) |
+| Hell Let Loose: Red Army Cossack | 371024 | [371024-hell-let-loose-red-army-cossack.json](./371024-hell-let-loose-red-army-cossack.json) |
 | Hell Let Loose: Red Devils | 312015 | [312015-hell-let-loose-red-devils.json](./312015-hell-let-loose-red-devils.json) |
 | Hell Let Loose: Red Marshall | 371222 | [371222-hell-let-loose-red-marshall.json](./371222-hell-let-loose-red-marshall.json) |
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
+| Hentai Nazi: Battle of Japan | 371016 | [371016-hentai-nazi-battle-of-japan.json](./371016-hentai-nazi-battle-of-japan.json) |
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
@@ -5336,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher | 174060 | [174060-higher.json](./174060-higher.json) |
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | Higher or Lower: Spotify Edition | 378504 | [378504-higher-or-lower-spotify-edition.json](./378504-higher-or-lower-spotify-edition.json) |
+| Higher Than Mush | 371000 | [371000-higher-than-mush.json](./371000-higher-than-mush.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
@@ -8542,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
+| Hunting the Hunter | 370994 | [370994-hunting-the-hunter.json](./370994-hunting-the-hunter.json) |
 | Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
 | Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
