@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
+| Food Processing Simulator | 374904 | [374904-food-processing-simulator.json](./374904-food-processing-simulator.json) |
 | Food Store Simulator | 413448 | [413448-food-store-simulator.json](./413448-food-store-simulator.json) |
 | Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
+| Fracture | 374888 | [374888-fracture.json](./374888-fracture.json) |
 | Fracture | 6996 | [6996-fracture.json](./6996-fracture.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
@@ -8501,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship Club | 36147 | [36147-friendship-club.json](./36147-friendship-club.json) |
+| Friendship Dungeon: Party Puzzler | 374918 | [374918-friendship-dungeon-party-puzzler.json](./374918-friendship-dungeon-party-puzzler.json) |
 | Friendship Simulator | 359358 | [359358-friendship-simulator.json](./359358-friendship-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
 | Friendship21s | 254961 | [254961-friendship21s.json](./254961-friendship21s.json) |
