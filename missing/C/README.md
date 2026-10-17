@@ -9796,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
 | Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
+| Contrauri | 397013 | [397013-contrauri.json](./397013-contrauri.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
