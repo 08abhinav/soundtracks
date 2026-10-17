@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
+| Feed the Forest | 402224 | [402224-feed-the-forest.json](./402224-feed-the-forest.json) |
 | Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
 | Feed the Head | 96185 | [96185-feed-the-head.json](./96185-feed-the-head.json) |
@@ -7472,6 +7473,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Horizon 6 1998 Nissan Skyline Gt-r 40th Anniversary | 409011 | [409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json](./409011-forza-horizon-6-1998-nissan-skyline-gt-r-40th-anniversary.json) |
+| Forza Horizon 6: 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC | 402245 | [402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json](./402245-forza-horizon-6-1990-nissan-12-skyline-gt-r-bnr32-gr-a-jtc.json) |
+| Forza Horizon 6: Italian Passion Car Pack | 402244 | [402244-forza-horizon-6-italian-passion-car-pack.json](./402244-forza-horizon-6-italian-passion-car-pack.json) |
 | Forza Horizon 6: Time Attack Car Pack | 401832 | [401832-forza-horizon-6-time-attack-car-pack.json](./401832-forza-horizon-6-time-attack-car-pack.json) |
 | Forza Horizon 6: Treasure Map | 401830 | [401830-forza-horizon-6-treasure-map.json](./401830-forza-horizon-6-treasure-map.json) |
 | Forza Horizon 6: VIP Membership | 401831 | [401831-forza-horizon-6-vip-membership.json](./401831-forza-horizon-6-vip-membership.json) |
