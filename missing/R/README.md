@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
+| Robo Rampage | 371014 | [371014-robo-rampage.json](./371014-robo-rampage.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rapture | 176306 | [176306-robo-rapture.json](./176306-robo-rapture.json) |
 | Robo Recall | 26451 | [26451-robo-recall.json](./26451-robo-recall.json) |
@@ -7753,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
+| Room Football: Hangar | 371034 | [371034-room-football-hangar.json](./371034-room-football-hangar.json) |
 | Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
