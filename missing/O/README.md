@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Patrol | 249138 | [249138-ocean-patrol.json](./249138-ocean-patrol.json) |
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
+| Ocean Pop!: Calypso Collision | 390478 | [390478-ocean-pop-calypso-collision.json](./390478-ocean-pop-calypso-collision.json) |
 | Ocean Pressure | 269214 | [269214-ocean-pressure.json](./269214-ocean-pressure.json) |
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
 | Ocean Racer | 354583 | [354583-ocean-racer.json](./354583-ocean-racer.json) |
