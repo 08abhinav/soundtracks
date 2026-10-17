@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
+| Gravity House Duology | 378513 | [378513-gravity-house-duology.json](./378513-gravity-house-duology.json) |
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Island | 34010 | [34010-gravity-island.json](./34010-gravity-island.json) |
 | Gravity Jump | 102950 | [102950-gravity-jump.json](./102950-gravity-jump.json) |
