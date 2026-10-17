@@ -6604,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
+| Dino Dawn Doom | 378527 | [378527-dino-dawn-doom.json](./378527-dino-dawn-doom.json) |
 | Dino Dearest | 408009 | [408009-dino-dearest.json](./408009-dino-dearest.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
 | Dino Dini's Kick Off Revival | 19591 | [19591-dino-dinis-kick-off-revival.json](./19591-dino-dinis-kick-off-revival.json) |
@@ -12177,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
 | Duck Attack! | 93457 | [93457-duck-attack.json](./93457-duck-attack.json) |
+| Duck Battle Royale | 378492 | [378492-duck-battle-royale.json](./378492-duck-battle-royale.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
 | Duck Build | 176329 | [176329-duck-build.json](./176329-duck-build.json) |
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
