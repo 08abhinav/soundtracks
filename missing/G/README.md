@@ -4538,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Gambit | 361290 | [361290-golden-gambit.json](./361290-golden-gambit.json) |
 | Golden Gate | 247037 | [247037-golden-gate.json](./247037-golden-gate.json) |
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
+| Golden Gate 2: Goddess Heart | 380157 | [380157-golden-gate-2-goddess-heart.json](./380157-golden-gate-2-goddess-heart.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
 | Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
