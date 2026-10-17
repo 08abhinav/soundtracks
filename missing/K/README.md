@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
+| KinForge | 377893 | [377893-kinforge.json](./377893-kinforge.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
@@ -2285,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Bounty: Warriors of the North - Complete Edition | 51846 | [51846-kings-bounty-warriors-of-the-north-complete-edition.json](./51846-kings-bounty-warriors-of-the-north-complete-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
+| King's Courier | 377916 | [377916-kings-courier.json](./377916-kings-courier.json) |
 | King's Cup | 143441 | [143441-kings-cup.json](./143441-kings-cup.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Downfall | 383675 | [383675-kings-downfall.json](./383675-kings-downfall.json) |
