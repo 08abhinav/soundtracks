@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
+| Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
