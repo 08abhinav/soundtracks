@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayDream Mosaics | 181102 | [181102-daydream-mosaics.json](./181102-daydream-mosaics.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daydream Mosaics 3: Shards of Hope | 215021 | [215021-daydream-mosaics-3-shards-of-hope.json](./215021-daydream-mosaics-3-shards-of-hope.json) |
+| Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
@@ -8200,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doguu Senki: Haou | 77570 | [77570-doguu-senki-haou.json](./77570-doguu-senki-haou.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
+| Dogwood | 385448 | [385448-dogwood.json](./385448-dogwood.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
@@ -10307,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Cave | 361298 | [361298-dragon-cave.json](./361298-dragon-cave.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
+| Dragon Chase | 385406 | [385406-dragon-chase.json](./385406-dragon-chase.json) |
 | Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
@@ -10587,6 +10590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
 | Dragon Trail: Hunter World | 212501 | [212501-dragon-trail-hunter-world.json](./212501-dragon-trail-hunter-world.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
+| Dragon Traveler | 385416 | [385416-dragon-traveler.json](./385416-dragon-traveler.json) |
 | Dragon Treasure | 40643 | [40643-dragon-treasure.json](./40643-dragon-treasure.json) |
 | Dragon Trial | 212514 | [212514-dragon-trial.json](./212514-dragon-trial.json) |
 | Dragon Truster | 398267 | [398267-dragon-truster.json](./398267-dragon-truster.json) |
@@ -13194,6 +13198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | DustCrow | 413470 | [413470-dustcrow.json](./413470-dustcrow.json) |
 | Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
+| Dustdrive: The Lightspeed Project | 385424 | [385424-dustdrive-the-lightspeed-project.json](./385424-dustdrive-the-lightspeed-project.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
