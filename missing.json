@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:18:21.647Z",
-  "total_missing": 225749,
+  "generated_at": "2026-10-17T23:32:32.072Z",
+  "total_missing": 225743,
   "games": [
     {
       "igdb_id": 191680,
@@ -29212,11 +29212,6 @@
       "file": "missing/A/280700-ai-land-honeymoon-with-sweet-kanade-toba.json"
     },
     {
-      "igdb_id": 115846,
-      "game_name": "AI Limit",
-      "file": "missing/A/115846-ai-limit.json"
-    },
-    {
       "igdb_id": 378528,
       "game_name": "AI Limit: Eirene's Furnace of War",
       "file": "missing/A/378528-ai-limit-eirenes-furnace-of-war.json"
@@ -49105,11 +49100,6 @@
       "igdb_id": 344911,
       "game_name": "Anno: Build An Empire",
       "file": "missing/A/344911-anno-build-an-empire.json"
-    },
-    {
-      "igdb_id": 106980,
-      "game_name": "Anno: Mutationem",
-      "file": "missing/A/106980-anno-mutationem.json"
     },
     {
       "igdb_id": 324931,
@@ -576657,11 +576647,6 @@
       "file": "missing/M/268429-mega-man-x-hard-type.json"
     },
     {
-      "igdb_id": 96252,
-      "game_name": "Mega Man X: Legacy Collection",
-      "file": "missing/M/96252-mega-man-x-legacy-collection.json"
-    },
-    {
       "igdb_id": 96248,
       "game_name": "Mega Man X: Legacy Collection 1+2",
       "file": "missing/M/96248-mega-man-x-legacy-collection-1-2.json"
@@ -776017,11 +776002,6 @@
       "file": "missing/R/115464-ring-of-fire.json"
     },
     {
-      "igdb_id": 115036,
-      "game_name": "Ring of Pain",
-      "file": "missing/R/115036-ring-of-pain.json"
-    },
-    {
       "igdb_id": 22010,
       "game_name": "Ring of Red",
       "file": "missing/R/22010-ring-of-red.json"
@@ -973962,11 +973942,6 @@
       "file": "missing/T/71628-the-messenger.json"
     },
     {
-      "igdb_id": 119314,
-      "game_name": "The Messenger: Picnic Panic",
-      "file": "missing/T/119314-the-messenger-picnic-panic.json"
-    },
-    {
       "igdb_id": 237906,
       "game_name": "The Messenger: Picnic Panic Bundle",
       "file": "missing/T/237906-the-messenger-picnic-panic-bundle.json"
@@ -999655,6 +999630,11 @@
       "igdb_id": 310002,
       "game_name": "Tidal Nexus Online",
       "file": "missing/T/310002-tidal-nexus-online.json"
+    },
+    {
+      "igdb_id": 363200,
+      "game_name": "Tidal Rush",
+      "file": "missing/T/363200-tidal-rush.json"
     },
     {
       "igdb_id": 133258,
@@ -1094747,11 +1094727,6 @@
       "file": "missing/W/8801-wings-remastered-edition.json"
     },
     {
-      "igdb_id": 121586,
-      "game_name": "Wingspan",
-      "file": "missing/W/121586-wingspan.json"
-    },
-    {
       "igdb_id": 200514,
       "game_name": "Wingspan + European Expansion",
       "file": "missing/W/200514-wingspan-european-expansion.json"
@@ -1109575,11 +1109550,6 @@
       "igdb_id": 369445,
       "game_name": "X4: Envoy Pack",
       "file": "missing/X/369445-x4-envoy-pack.json"
-    },
-    {
-      "igdb_id": 55123,
-      "game_name": "X4: Foundations",
-      "file": "missing/X/55123-x4-foundations.json"
     },
     {
       "igdb_id": 124803,
