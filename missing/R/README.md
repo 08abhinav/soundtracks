@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitConquest | 250260 | [250260-rabbitconquest.json](./250260-rabbitconquest.json) |
+| RabbitHole Island: Turn-based Vtuber Battles | 374387 | [374387-rabbithole-island-turn-based-vtuber-battles.json](./374387-rabbithole-island-turn-based-vtuber-battles.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
@@ -8886,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
+| Runic Tower | 374365 | [374365-runic-tower.json](./374365-runic-tower.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
 | Runic Winds | 386384 | [386384-runic-winds.json](./386384-runic-winds.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
