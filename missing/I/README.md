@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
 | Inkafe | 372116 | [372116-inkafe.json](./372116-inkafe.json) |
 | Inkanians | 134520 | [134520-inkanians.json](./134520-inkanians.json) |
+| Inkaro | 377919 | [377919-inkaro.json](./377919-inkaro.json) |
 | Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
 | InkBall | 66582 | [66582-inkball.json](./66582-inkball.json) |
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Marines: Hero Sha'Tra | 395270 | [395270-iron-marines-hero-shatra.json](./395270-iron-marines-hero-shatra.json) |
 | Iron Marines+ | 395276 | [395276-iron-marines.json](./395276-iron-marines.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
+| Iron Nest: Heavy Turret Simulator | 377917 | [377917-iron-nest-heavy-turret-simulator.json](./377917-iron-nest-heavy-turret-simulator.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Overlord | 419834 | [419834-iron-overlord.json](./419834-iron-overlord.json) |
