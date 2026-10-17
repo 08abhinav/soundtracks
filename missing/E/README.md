@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
+| Encounter at Questar IV | 408509 | [408509-encounter-at-questar-iv.json](./408509-encounter-at-questar-iv.json) |
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
