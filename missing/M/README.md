@@ -11333,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rush Survivors | 399442 | [399442-monster-rush-survivors.json](./399442-monster-rush-survivors.json) |
 | Monster Safari | 110924 | [110924-monster-safari.json](./110924-monster-safari.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
+| Monster Saga | 372766 | [372766-monster-saga.json](./372766-monster-saga.json) |
 | Monster Saga: Evolution | 304248 | [304248-monster-saga-evolution.json](./304248-monster-saga-evolution.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
 | Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
@@ -12704,6 +12705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moujya | 207029 | [207029-moujya.json](./207029-moujya.json) |
 | Mould | 351187 | [351187-mould.json](./351187-mould.json) |
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
+| Mouldog | 372723 | [372723-mouldog.json](./372723-mouldog.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
 | Moundville Factory Lost Tape 89 | 285402 | [285402-moundville-factory-lost-tape-89.json](./285402-moundville-factory-lost-tape-89.json) |
