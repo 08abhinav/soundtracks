@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
 | Keypad Simulator | 412483 | [412483-keypad-simulator.json](./412483-keypad-simulator.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
+| Keypybara | 387476 | [387476-keypybara.json](./387476-keypybara.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
 | Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
