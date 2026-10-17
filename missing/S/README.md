@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Lupin Sansei: Kinko Yaburi Daisakusen | 66206 | [66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json](./66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
+| SD Shin Kamen Rider Rumble SJHU Season Pass | 398294 | [398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json](./398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json) |
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
+| Shape Shifter | 398276 | [398276-shape-shifter.json](./398276-shape-shifter.json) |
 | Shape Shipper | 249738 | [249738-shape-shipper.json](./249738-shape-shipper.json) |
 | Shape Shooter | 141493 | [141493-shape-shooter.json](./141493-shape-shooter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
@@ -6164,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shipwrecked: Lost Island | 38878 | [38878-shipwrecked-lost-island.json](./38878-shipwrecked-lost-island.json) |
 | Shipwreckers! | 7664 | [7664-shipwreckers.json](./7664-shipwreckers.json) |
+| Shipyard of Theseus | 398309 | [398309-shipyard-of-theseus.json](./398309-shipyard-of-theseus.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
@@ -13702,6 +13705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Harrier 3-D | 46126 | [46126-space-harrier-3-d.json](./46126-space-harrier-3-d.json) |
 | Space Harrier II | 215751 | [215751-space-harrier-ii.json](./215751-space-harrier-ii.json) |
+| Space Harrier II | 398284 | [398284-space-harrier-ii.json](./398284-space-harrier-ii.json) |
 | Space Harrier II | 4498 | [4498-space-harrier-ii.json](./4498-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
