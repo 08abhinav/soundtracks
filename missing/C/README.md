@@ -5843,7 +5843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
-| Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
@@ -10535,7 +10534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
-| Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
 | Cosmic Strike | 230740 | [230740-cosmic-strike.json](./230740-cosmic-strike.json) |
@@ -12935,7 +12933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
-| Crying Suns | 95032 | [95032-crying-suns.json](./95032-crying-suns.json) |
 | Cryken Part3 | 345996 | [345996-cryken-part3.json](./345996-cryken-part3.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
