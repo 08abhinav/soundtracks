@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Breaking A Cube | 379511 | [379511-a-game-about-breaking-a-cube.json](./379511-a-game-about-breaking-a-cube.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
 | A Game About Clicking Crystals | 379509 | [379509-a-game-about-clicking-crystals.json](./379509-a-game-about-clicking-crystals.json) |
+| A Game About Creating The Universe | 402230 | [402230-a-game-about-creating-the-universe.json](./402230-a-game-about-creating-the-universe.json) |
 | A Game About Digging A Hole | 325554 | [325554-a-game-about-digging-a-hole.json](./325554-a-game-about-digging-a-hole.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
