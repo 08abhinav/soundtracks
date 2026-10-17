@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:24:03.847Z",
-  "total_missing": 223602,
+  "generated_at": "2026-10-17T11:26:41.087Z",
+  "total_missing": 223600,
   "games": [
     {
       "igdb_id": 191680,
@@ -63550,11 +63550,6 @@
       "igdb_id": 257095,
       "game_name": "Ash of Gods: Fan Edition",
       "file": "missing/A/257095-ash-of-gods-fan-edition.json"
-    },
-    {
-      "igdb_id": 28006,
-      "game_name": "Ash of Gods: Redemption",
-      "file": "missing/A/28006-ash-of-gods-redemption.json"
     },
     {
       "igdb_id": 192439,
@@ -1007660,11 +1007655,6 @@
       "igdb_id": 172664,
       "game_name": "Toree 2",
       "file": "missing/T/172664-toree-2.json"
-    },
-    {
-      "igdb_id": 144687,
-      "game_name": "Toree 3D",
-      "file": "missing/T/144687-toree-3d.json"
     },
     {
       "igdb_id": 279783,
