@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalypse | 186640 | [186640-catalypse.json](./186640-catalypse.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
+| Catalyst Core | 412326 | [412326-catalyst-core.json](./412326-catalyst-core.json) |
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
@@ -10619,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count Masters | 305844 | [305844-count-masters.json](./305844-count-masters.json) |
 | Count Meowcula's Barbershop | 374773 | [374773-count-meowculas-barbershop.json](./374773-count-meowculas-barbershop.json) |
+| Count My Coins, Coins Counter! | 412317 | [412317-count-my-coins-coins-counter.json](./412317-count-my-coins-coins-counter.json) |
 | Count of Hatchet | 158634 | [158634-count-of-hatchet.json](./158634-count-of-hatchet.json) |
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
@@ -10685,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterSide | 132648 | [132648-counterside.json](./132648-counterside.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
 | CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
+| Counterweight | 412316 | [412316-counterweight.json](./412316-counterweight.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
@@ -13323,6 +13326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | CubeShot | 218635 | [218635-cubeshot.json](./218635-cubeshot.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
+| CubeStrike | 412222 | [412222-cubestrike.json](./412222-cubestrike.json) |
 | Cubether | 221232 | [221232-cubether.json](./221232-cubether.json) |
 | Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
