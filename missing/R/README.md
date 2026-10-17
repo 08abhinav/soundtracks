@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
+| Revertices | 415420 | [415420-revertices.json](./415420-revertices.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
