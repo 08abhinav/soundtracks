@@ -5024,7 +5024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the City Botucaiba | 257415 | [257415-the-case-of-the-city-botucaiba.json](./257415-the-case-of-the-city-botucaiba.json) |
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
-| The Case of the Golden Idol | 166722 | [166722-the-case-of-the-golden-idol.json](./166722-the-case-of-the-golden-idol.json) |
 | The Case of the Golden Idol: Complete Edition | 264814 | [264814-the-case-of-the-golden-idol-complete-edition.json](./264814-the-case-of-the-golden-idol-complete-edition.json) |
 | The Case of the Golden Idol: Spider of Lanka Bundle | 251480 | [251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json](./251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json) |
 | The Case of the Missing Heirloom | 371399 | [371399-the-case-of-the-missing-heirloom.json](./371399-the-case-of-the-missing-heirloom.json) |
@@ -18627,7 +18626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
 | Total War Saga: Thrones of Britannia - Limited Edition | 86390 | [86390-total-war-saga-thrones-of-britannia-limited-edition.json](./86390-total-war-saga-thrones-of-britannia-limited-edition.json) |
 | Total War: Arena | 12982 | [12982-total-war-arena.json](./12982-total-war-arena.json) |
-| Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
 | Total War: Attila - Celts Culture Pack | 82026 | [82026-total-war-attila-celts-culture-pack.json](./82026-total-war-attila-celts-culture-pack.json) |
