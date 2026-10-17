@@ -9987,6 +9987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Invisibles | 21437 | [21437-arthur-and-the-invisibles.json](./21437-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
+| Arthur Conan Doyle's The Lost World | 406669 | [406669-arthur-conan-doyles-the-lost-world.json](./406669-arthur-conan-doyles-the-lost-world.json) |
 | Arthur Loves Watermelon | 333132 | [333132-arthur-loves-watermelon.json](./333132-arthur-loves-watermelon.json) |
 | Arthur Owl's Word Block | 337839 | [337839-arthur-owls-word-block.json](./337839-arthur-owls-word-block.json) |
 | Arthur Owl's Word Block: Adult Pack | 338159 | [338159-arthur-owls-word-block-adult-pack.json](./338159-arthur-owls-word-block-adult-pack.json) |
