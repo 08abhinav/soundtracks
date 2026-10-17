@@ -309,6 +309,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e2c435de3789805579f8269" width="60" /> | [Crow Country](https://ostdb.net/games/crow-country) | **Crow Country (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1o5v1QHYuL1FBmNi5bE87z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe005a3fb7c6e19d50472090" width="60" /> | [Crusader Kings III](https://ostdb.net/games/crusader-kings-iii) | **Crusader Kings III (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr) · [Album](https://album.link/s/5PtKUxCsYh3QKUJOF8Mlsr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316a12d11913a5faf9ffd992a" width="60" /> | [Cry of Fear](https://ostdb.net/games/cry-of-fear) | **Cry of Fear (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5W3eM8JU5JHuGbH2wgG436) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273009e0ae1828537bcb1c7d7d0" width="60" /> | [Crying Suns](https://ostdb.net/games/crying-suns) | **Crying Suns (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5QnsXZ1lTsMukilmOChwAr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e90386ffb7a1766d9c71ed56" width="60" /> | [Crypt Custodian](https://ostdb.net/games/crypt-custodian) | **Crypt Custodian (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4j6NPwq7CsnnBrWxNeSai1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/f8/20/37f820b5-1b8e-d29a-3822-12f6471d3c6c/1227908.jpg/600x600bb.jpg" width="60" /> | [Crypt of the NecroDancer](https://ostdb.net/games/crypt-of-the-necrodancer) | **Crypt of the Necrodancer (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6t52xmTI2t3h4Y3WI0YRwS) · [Apple Music](https://music.apple.com/us/album/crypt-of-the-necrodancer-original-game-soundtrack/6792848550) · [Album](https://album.link/i/6792848550) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389f43a7f99466fc08bc50947" width="60" /> | [Crysis 2](https://ostdb.net/games/crysis-2) | **Crysis 2** · [Spotify](https://open.spotify.com/album/0VjrajlqFQUYud5YDKYxNH) |
@@ -1660,4 +1661,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1977 soundtracks · last updated 2026-10-17T11:21:03.650Z_
+_1978 soundtracks · last updated 2026-10-17T11:21:11.282Z_
