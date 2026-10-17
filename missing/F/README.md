@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
 | Find Out | 33490 | [33490-find-out.json](./33490-find-out.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
+| Find Petey | 367739 | [367739-find-petey.json](./367739-find-petey.json) |
 | Find Pixel | 74998 | [74998-find-pixel.json](./74998-find-pixel.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
 | Find Room 96 + Exit Station 7 + The Eerie Surroundings + HighScore Anomaly Shop + HighScore Anomaly Underground | 314605 | [314605-find-room-96-exit-station-7-the-eerie-surroundings-highscore-anomaly-shop-highscore-anomaly-underground.json](./314605-find-room-96-exit-station-7-the-eerie-surroundings-highscore-anomaly-shop-highscore-anomaly-underground.json) |
@@ -5913,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Dungeon: Mercenary & Berserker | 380216 | [380216-flower-dungeon-mercenary-and-berserker.json](./380216-flower-dungeon-mercenary-and-berserker.json) |
 | Flower Escape | 363364 | [363364-flower-escape.json](./363364-flower-escape.json) |
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
+| Flower for a Farewell | 367710 | [367710-flower-for-a-farewell.json](./367710-flower-for-a-farewell.json) |
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower Garden: Connect Mania | 232485 | [232485-flower-garden-connect-mania.json](./232485-flower-garden-connect-mania.json) |
@@ -6186,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
+| Flying Sword | 367752 | [367752-flying-sword.json](./367752-flying-sword.json) |
 | Flying Tank | 260602 | [260602-flying-tank.json](./260602-flying-tank.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
@@ -6279,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus | 407452 | [407452-focus.json](./407452-focus.json) |
 | Focus and Find Stereogram Training | 364087 | [364087-focus-and-find-stereogram-training.json](./364087-focus-and-find-stereogram-training.json) |
+| Focus Friend | 367721 | [367721-focus-friend.json](./367721-focus-friend.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
@@ -8847,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Them | 302202 | [302202-from-them.json](./302202-from-them.json) |
 | From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
+| From Warrior to Hero | 367751 | [367751-from-warrior-to-hero.json](./367751-from-warrior-to-hero.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
