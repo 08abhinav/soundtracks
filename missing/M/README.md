@@ -3571,7 +3571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
-| Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
