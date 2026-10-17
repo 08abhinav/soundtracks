@@ -4699,7 +4699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
-| Shadow Gambit: The Cursed Crew | 233307 | [233307-shadow-gambit-the-cursed-crew.json](./233307-shadow-gambit-the-cursed-crew.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
 | Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
