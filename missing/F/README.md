@@ -3566,7 +3566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
-| Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
 | Final Fantasy III | 340017 | [340017-final-fantasy-iii.json](./340017-final-fantasy-iii.json) |
@@ -6694,7 +6693,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
-| For the King | 20331 | [20331-for-the-king.json](./20331-for-the-king.json) |
 | For the King: Deluxe Edition | 374979 | [374979-for-the-king-deluxe-edition.json](./374979-for-the-king-deluxe-edition.json) |
 | For the Motherland | 235371 | [235371-for-the-motherland.json](./235371-for-the-motherland.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
