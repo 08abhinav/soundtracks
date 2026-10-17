@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
 | Deal or No Deal: The Interactive DVD Game Show | 218082 | [218082-deal-or-no-deal-the-interactive-dvd-game-show.json](./218082-deal-or-no-deal-the-interactive-dvd-game-show.json) |
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
+| Deal With Nyarlathotep | 370409 | [370409-deal-with-nyarlathotep.json](./370409-deal-with-nyarlathotep.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Dice | 410091 | [410091-dealers-dice.json](./410091-dealers-dice.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
+| Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
@@ -6897,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Racing Bundle 4 in 1 | 381798 | [381798-dirt-racing-bundle-4-in-1.json](./381798-dirt-racing-bundle-4-in-1.json) |
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
+| Dirt Racing Bundle Rally & Truck | 370434 | [370434-dirt-racing-bundle-rally-and-truck.json](./370434-dirt-racing-bundle-rally-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
