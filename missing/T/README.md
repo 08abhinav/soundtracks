@@ -11037,7 +11037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
 | The Red Stare | 28670 | [28670-the-red-stare.json](./28670-the-red-stare.json) |
-| The Red Strings Club | 75247 | [75247-the-red-strings-club.json](./75247-the-red-strings-club.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The Red Village | 201652 | [201652-the-red-village.json](./201652-the-red-village.json) |
