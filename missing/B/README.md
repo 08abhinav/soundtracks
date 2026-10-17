@@ -8419,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble League | 254430 | [254430-bobble-league.json](./254430-bobble-league.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
+| Bobbo's Crappy Birthday | 404649 | [404649-bobbos-crappy-birthday.json](./404649-bobbos-crappy-birthday.json) |
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
 | Bobby Bearing | 13415 | [13415-bobby-bearing.json](./13415-bobby-bearing.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
@@ -10335,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
+| Bravo | 404663 | [404663-bravo.json](./404663-bravo.json) |
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
@@ -10505,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break of Dawn | 420475 | [420475-break-of-dawn.json](./420475-break-of-dawn.json) |
+| Break Out | 404795 | [404795-break-out.json](./404795-break-out.json) |
 | Break Pattern | 211458 | [211458-break-pattern.json](./211458-break-pattern.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
@@ -10927,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
+| Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
 | Briks | 99505 | [99505-briks.json](./99505-briks.json) |
@@ -11839,6 +11843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buildest | 155709 | [155709-buildest.json](./155709-buildest.json) |
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building & Fighter | 273296 | [273296-building-and-fighter.json](./273296-building-and-fighter.json) |
+| Building 0: Hakuei University | 404679 | [404679-building-0-hakuei-university.json](./404679-building-0-hakuei-university.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
