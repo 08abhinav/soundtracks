@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
+| Max Goes by Bus, Train and Ship | 410468 | [410468-max-goes-by-bus-train-and-ship.json](./410468-max-goes-by-bus-train-and-ship.json) |
 | Max Headroom | 26436 | [26436-max-headroom.json](./26436-max-headroom.json) |
 | Max im All | 91589 | [91589-max-im-all.json](./91589-max-im-all.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Actions & Stuff | 343393 | [343393-minecraft-actions-and-stuff.json](./343393-minecraft-actions-and-stuff.json) |
 | Minecraft: Adidas Adventures Add-On | 347687 | [347687-minecraft-adidas-adventures-add-on.json](./347687-minecraft-adidas-adventures-add-on.json) |
 | Minecraft: Adventure Time Mash-up | 235324 | [235324-minecraft-adventure-time-mash-up.json](./235324-minecraft-adventure-time-mash-up.json) |
+| Minecraft: Aether Legends | 410286 | [410286-minecraft-aether-legends.json](./410286-minecraft-aether-legends.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
 | Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
 | Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
