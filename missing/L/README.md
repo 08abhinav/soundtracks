@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Gold | 125180 | [125180-legion-gold.json](./125180-legion-gold.json) |
 | Legion Hunters | 414491 | [414491-legion-hunters.json](./414491-legion-hunters.json) |
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
+| Legion of Honor | 401925 | [401925-legion-of-honor.json](./401925-legion-of-honor.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
@@ -3617,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily of the Hollow: Resurrection | 147829 | [147829-lily-of-the-hollow-resurrection.json](./147829-lily-of-the-hollow-resurrection.json) |
 | Lily of the Valley | 28639 | [28639-lily-of-the-valley.json](./28639-lily-of-the-valley.json) |
+| Lily of the Valley | 401729 | [401729-lily-of-the-valley.json](./401729-lily-of-the-valley.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
 | Lily: Shiroki Yuri no Otome-tachi | 403156 | [403156-lily-shiroki-yuri-no-otome-tachi.json](./403156-lily-shiroki-yuri-no-otome-tachi.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
