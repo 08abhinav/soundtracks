@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Pirates | 130114 | [130114-paper-pirates.json](./130114-paper-pirates.json) |
+| Paper Plane | 401272 | [401272-paper-plane.json](./401272-paper-plane.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
+| Picture Hunt | 401273 | [401273-picture-hunt.json](./401273-picture-hunt.json) |
 | Picture Hunt | 91078 | [91078-picture-hunt.json](./91078-picture-hunt.json) |
 | Picture Painting Puzzle 1000! | 111910 | [111910-picture-painting-puzzle-1000.json](./111910-picture-painting-puzzle-1000.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
@@ -8062,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokemon Ryen | 323879 | [323879-pokemon-ryen.json](./323879-pokemon-ryen.json) |
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
+| Pokèmon Saffron Version | 401292 | [401292-pokemon-saffron-version.json](./401292-pokemon-saffron-version.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
@@ -8119,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
+| Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Trading Card Game: Generations | 276109 | [276109-pokemon-trading-card-game-generations.json](./276109-pokemon-trading-card-game-generations.json) |
@@ -11727,6 +11731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Province Simulator | 392384 | [392384-province-simulator.json](./392384-province-simulator.json) |
 | Province: Suroste | 413238 | [413238-province-suroste.json](./413238-province-suroste.json) |
 | Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
+| Provisional Authority: An AI Governance Simulation | 401258 | [401258-provisional-authority-an-ai-governance-simulation.json](./401258-provisional-authority-an-ai-governance-simulation.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
@@ -12885,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
+| Puzzle Park II | 401314 | [401314-puzzle-park-ii.json](./401314-puzzle-park-ii.json) |
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
 | Puzzle Party VR | 246948 | [246948-puzzle-party-vr.json](./246948-puzzle-party-vr.json) |
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
