@@ -105,7 +105,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Senkan Yamato | 255876 | [255876-uchuu-senkan-yamato.json](./255876-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato | 37350 | [37350-uchuu-senkan-yamato.json](./37350-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato HD Remaster | 255871 | [255871-uchuu-senkan-yamato-hd-remaster.json](./255871-uchuu-senkan-yamato-hd-remaster.json) |
+| Uchuu Senkan Yamato: Ankoku Seidan Teikoku no Gyakushuu | 395822 | [395822-uchuu-senkan-yamato-ankoku-seidan-teikoku-no-gyakushuu.json](./395822-uchuu-senkan-yamato-ankoku-seidan-teikoku-no-gyakushuu.json) |
+| Uchuu Senkan Yamato: Harukanaru Hoshi Iscandar | 395817 | [395817-uchuu-senkan-yamato-harukanaru-hoshi-iscandar.json](./395817-uchuu-senkan-yamato-harukanaru-hoshi-iscandar.json) |
+| Uchuu Senkan Yamato: Iscandar he no Tsuioku | 395821 | [395821-uchuu-senkan-yamato-iscandar-he-no-tsuioku.json](./395821-uchuu-senkan-yamato-iscandar-he-no-tsuioku.json) |
 | Uchuu Senkan Yamato: Kanketsu-hen | 385807 | [385807-uchuu-senkan-yamato-kanketsu-hen.json](./385807-uchuu-senkan-yamato-kanketsu-hen.json) |
+| Uchuu Senkan Yamato: Nijuu Ginga no Houkai | 395825 | [395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json](./395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json) |
 | Uchuusen Cosmo Carrier | 48559 | [48559-uchuusen-cosmo-carrier.json](./48559-uchuusen-cosmo-carrier.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
