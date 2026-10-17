@@ -7143,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
+| Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
