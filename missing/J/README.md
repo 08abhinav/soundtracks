@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
+| Just Waiting Cats | 364863 | [364863-just-waiting-cats.json](./364863-just-waiting-cats.json) |
 | Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
