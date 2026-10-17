@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Nemesis - Collector's Edition | 22081 | [22081-sea-of-lies-nemesis-collectors-edition.json](./22081-sea-of-lies-nemesis-collectors-edition.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
+| Sea of Mirrors | 384308 | [384308-sea-of-mirrors.json](./384308-sea-of-mirrors.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Phantom Flowers | 284289 | [284289-sea-of-phantom-flowers.json](./284289-sea-of-phantom-flowers.json) |
 | Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
@@ -6328,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoe Snake Reloaded | 179429 | [179429-shoe-snake-reloaded.json](./179429-shoe-snake-reloaded.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
+| Shoes Store Simulator | 384339 | [384339-shoes-store-simulator.json](./384339-shoes-store-simulator.json) |
 | Shoestrings Story | 345090 | [345090-shoestrings-story.json](./345090-shoestrings-story.json) |
 | Shofer Race Driver | 35319 | [35319-shofer-race-driver.json](./35319-shofer-race-driver.json) |
 | Shoganai | 154428 | [154428-shoganai.json](./154428-shoganai.json) |
@@ -9307,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
+| sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
 | Sleeper Cell | 139369 | [139369-sleeper-cell.json](./139369-sleeper-cell.json) |
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
@@ -10396,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
+| Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Couple | 334805 | [334805-snake-couple.json](./334805-snake-couple.json) |
 | Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
@@ -20019,6 +20023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
 | Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
+| Streets of Rage 4 Classic Edition | 384320 | [384320-streets-of-rage-4-classic-edition.json](./384320-streets-of-rage-4-classic-edition.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
@@ -25193,6 +25198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
+| Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
