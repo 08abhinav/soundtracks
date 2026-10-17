@@ -6649,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesmerize: Trace | 209526 | [209526-mesmerize-trace.json](./209526-mesmerize-trace.json) |
 | Mesmerizer | 313193 | [313193-mesmerizer.json](./313193-mesmerizer.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
+| Mesoké | 392109 | [392109-mesoke.json](./392109-mesoke.json) |
 | Mesonoxian | 201630 | [201630-mesonoxian.json](./201630-mesonoxian.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
