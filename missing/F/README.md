@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
+| Fast & Furious 6 | 412791 | [412791-fast-and-furious-6.json](./412791-fast-and-furious-6.json) |
 | Fast & Furious 6: The Game | 61990 | [61990-fast-and-furious-6-the-game.json](./61990-fast-and-furious-6-the-game.json) |
 | Fast & Furious: Adrenaline | 66427 | [66427-fast-and-furious-adrenaline.json](./66427-fast-and-furious-adrenaline.json) |
 | Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
 | FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
+| FNaF World 2 | 412776 | [412776-fnaf-world-2.json](./412776-fnaf-world-2.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNaF World: Halloween Edition | 58707 | [58707-fnaf-world-halloween-edition.json](./58707-fnaf-world-halloween-edition.json) |
@@ -9839,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuun Shourin Ken | 375325 | [375325-fuuun-shourin-ken.json](./375325-fuuun-shourin-ken.json) |
 | Fuuun Takeshi-jou | 300010 | [300010-fuuun-takeshi-jou.json](./300010-fuuun-takeshi-jou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
+| Fúyáozhíshàng | 412943 | [412943-fuyaozhishang.json](./412943-fuyaozhishang.json) |
 | Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
 | Fuyu Kiss: Complete Limited Edition | 159822 | [159822-fuyu-kiss-complete-limited-edition.json](./159822-fuyu-kiss-complete-limited-edition.json) |
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
