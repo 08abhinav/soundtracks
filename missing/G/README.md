@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC R360 | 363984 | [363984-g-loc-r360.json](./363984-g-loc-r360.json) |
 | G-LOC R360 | 363996 | [363996-g-loc-r360.json](./363996-g-loc-r360.json) |
 | G-LOC R360 | 363997 | [363997-g-loc-r360.json](./363997-g-loc-r360.json) |
+| G-LOC: Air Battle | 363179 | [363179-g-loc-air-battle.json](./363179-g-loc-air-battle.json) |
 | G-LOC: Air Battle | 363999 | [363999-g-loc-air-battle.json](./363999-g-loc-air-battle.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gary's Wild Adventure | 103920 | [103920-garys-wild-adventure.json](./103920-garys-wild-adventure.json) |
 | Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
+| Garzey's Wing | 363152 | [363152-garzeys-wing.json](./363152-garzeys-wing.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
@@ -7028,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
+| Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
 | Grugs | 266132 | [266132-grugs.json](./266132-grugs.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
