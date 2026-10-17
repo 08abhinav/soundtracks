@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
+| Captive | 412946 | [412946-captive.json](./412946-captive.json) |
 | Captive | 91303 | [91303-captive.json](./91303-captive.json) |
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Hunter | 320287 | [320287-case-hunter.json](./320287-case-hunter.json) |
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
+| Case of 1980 | 413016 | [413016-case-of-1980.json](./413016-case-of-1980.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
@@ -4359,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
 | Cheech and Chong Bud Farm | 220176 | [220176-cheech-and-chong-bud-farm.json](./220176-cheech-and-chong-bud-farm.json) |
 | Cheeky Beetle and the Unlikely Heroes | 117430 | [117430-cheeky-beetle-and-the-unlikely-heroes.json](./117430-cheeky-beetle-and-the-unlikely-heroes.json) |
+| Cheeky Cheerhythm | 412920 | [412920-cheeky-cheerhythm.json](./412920-cheeky-cheerhythm.json) |
 | Cheeky Chickens | 180029 | [180029-cheeky-chickens.json](./180029-cheeky-chickens.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
@@ -7305,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudlands 2 | 127857 | [127857-cloudlands-2.json](./127857-cloudlands-2.json) |
 | Cloudlapse! | 419961 | [419961-cloudlapse.json](./419961-cloudlapse.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
+| Cloudly Aware | 412934 | [412934-cloudly-aware.json](./412934-cloudly-aware.json) |
 | CloudNovel Breakdown!! | 397227 | [397227-cloudnovel-breakdown.json](./397227-cloudnovel-breakdown.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudphobia | 36194 | [36194-cloudphobia.json](./36194-cloudphobia.json) |
@@ -7469,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster | 304315 | [304315-cluster.json](./304315-cluster.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
+| Cluster Cluck | 412955 | [412955-cluster-cluck.json](./412955-cluster-cluck.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
@@ -11104,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
 | Crafters Heaven | 349826 | [349826-crafters-heaven.json](./349826-crafters-heaven.json) |
 | Craftia's Defender | 236191 | [236191-craftias-defender.json](./236191-craftias-defender.json) |
+| Craftica | 413011 | [413011-craftica.json](./413011-craftica.json) |
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
@@ -14369,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybrlich and the Death Cult of Labor | 327800 | [327800-cybrlich-and-the-death-cult-of-labor.json](./327800-cybrlich-and-the-death-cult-of-labor.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
 | Cybrus | 107610 | [107610-cybrus.json](./107610-cybrus.json) |
+| Cybus Adventure | 412927 | [412927-cybus-adventure.json](./412927-cybus-adventure.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
