@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm Tale Quest | 30703 | [30703-charm-tale-quest.json](./30703-charm-tale-quest.json) |
 | Charma: Land of Enchantment | 52498 | [52498-charma-land-of-enchantment.json](./52498-charma-land-of-enchantment.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
+| Charmcraft Idle | 385957 | [385957-charmcraft-idle.json](./385957-charmcraft-idle.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
