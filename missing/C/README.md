@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
+| Catkanoid | 373297 | [373297-catkanoid.json](./373297-catkanoid.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
+| Catsuhi and Eva | 373275 | [373275-catsuhi-and-eva.json](./373275-catsuhi-and-eva.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
@@ -7897,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
+| Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
@@ -10662,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
+| Cosmonade | 373299 | [373299-cosmonade.json](./373299-cosmonade.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
