@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nandemoya of Flower Street | 239797 | [239797-nandemoya-of-flower-street.json](./239797-nandemoya-of-flower-street.json) |
+| Nandome ka no Shiki | 393972 | [393972-nandome-ka-no-shiki.json](./393972-nandome-ka-no-shiki.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nangong Detective Agency | 360153 | [360153-nangong-detective-agency.json](./360153-nangong-detective-agency.json) |
