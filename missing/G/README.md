@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
 | Gemlands | 195456 | [195456-gemlands.json](./195456-gemlands.json) |
+| Gemmiferous | 367707 | [367707-gemmiferous.json](./367707-gemmiferous.json) |
 | Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
 | Goblin Keeper | 23558 | [23558-goblin-keeper.json](./23558-goblin-keeper.json) |
+| Goblin Lands | 367736 | [367736-goblin-lands.json](./367736-goblin-lands.json) |
 | Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
