@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
+| King Charles: Rise of the Alpha | 391566 | [391566-king-charles-rise-of-the-alpha.json](./391566-king-charles-rise-of-the-alpha.json) |
 | King Colossus | 46524 | [46524-king-colossus.json](./46524-king-colossus.json) |
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73209 | [73209-king-cribbage.json](./73209-king-cribbage.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighty Night | 118920 | [118920-knighty-night.json](./118920-knighty-night.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knighventure | 352318 | [352318-knighventure.json](./352318-knighventure.json) |
+| Knitewings | 391643 | [391643-knitewings.json](./391643-knitewings.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
