@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
+| El Ídolo | 411379 | [411379-el-idolo.json](./411379-el-idolo.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Interrogatorio | 135564 | [135564-el-interrogatorio.json](./135564-el-interrogatorio.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Of World: Story | 291363 | [291363-end-of-world-story.json](./291363-end-of-world-story.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
+| End Quest | 411415 | [411415-end-quest.json](./411415-end-quest.json) |
 | End Reach | 155859 | [155859-end-reach.json](./155859-end-reach.json) |
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
 | End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
@@ -5695,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
+| Extreme Survival Club! | 411374 | [411374-extreme-survival-club.json](./411374-extreme-survival-club.json) |
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
