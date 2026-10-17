@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
 | Killing Floor III: Elite Nightfall Edition | 336153 | [336153-killing-floor-iii-elite-nightfall-edition.json](./336153-killing-floor-iii-elite-nightfall-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
+| Killing Floor III: Operation Shadow Hunter | 411360 | [411360-killing-floor-iii-operation-shadow-hunter.json](./411360-killing-floor-iii-operation-shadow-hunter.json) |
 | Killing Floor III: Rearmament | 370716 | [370716-killing-floor-iii-rearmament.json](./370716-killing-floor-iii-rearmament.json) |
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
