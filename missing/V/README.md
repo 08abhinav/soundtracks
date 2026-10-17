@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villain Rehabilitation | 181621 | [181621-villain-rehabilitation.json](./181621-villain-rehabilitation.json) |
+| Villain: Path of the Necromancer | 392191 | [392191-villain-path-of-the-necromancer.json](./392191-villain-path-of-the-necromancer.json) |
 | Villain's Legacy 2 | 349273 | [349273-villains-legacy-2.json](./349273-villains-legacy-2.json) |
 | Villainess Idolized By Everyone | 252654 | [252654-villainess-idolized-by-everyone.json](./252654-villainess-idolized-by-everyone.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
