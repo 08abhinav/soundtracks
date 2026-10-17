@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:45.169Z",
-  "total_soundtracks": 2093,
+  "generated_at": "2026-10-17T15:36:53.524Z",
+  "total_soundtracks": 2094,
   "games": [
     {
       "igdb_id": 7522,
@@ -18339,6 +18339,20 @@
         {
           "album_name": "Shin Megami Tensei Original Soundtrack (Super Famicom version)",
           "spotify_url": "https://open.spotify.com/album/1zwRAaq0ZJBM4OcTZfvU4i",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6886,
+      "game_name": "Shin Megami Tensei IV",
+      "game_url": "https://ostdb.net/games/shin-megami-tensei-iv",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bb633963c7fb32c6dec0793a",
+      "albums": [
+        {
+          "album_name": "Shin Megami Tensei Ⅳ Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7LTdrQyj7SXU17IRf25eFg",
           "apple_music_url": "",
           "album_link_url": ""
         }
