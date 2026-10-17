@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhu Zhu Pets 2: The Wild Bunch | 47878 | [47878-zhu-zhu-pets-2-the-wild-bunch.json](./47878-zhu-zhu-pets-2-the-wild-bunch.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
+| Zhuó Lìng | 373296 | [373296-zhuo-ling.json](./373296-zhuo-ling.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | Zi | 279039 | [279039-zi.json](./279039-zi.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Exodus: Safe Haven - Part Two | 171336 | [171336-zombie-exodus-safe-haven-part-two.json](./171336-zombie-exodus-safe-haven-part-two.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
+| Zombie Farm Battles | 373245 | [373245-zombie-farm-battles.json](./373245-zombie-farm-battles.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
 | Zombie Flick | 108334 | [108334-zombie-flick.json](./108334-zombie-flick.json) |
 | Zombie Flick | 58184 | [58184-zombie-flick.json](./58184-zombie-flick.json) |
