@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
+| Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
@@ -5051,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
+| The Cascadier | 366573 | [366573-the-cascadier.json](./366573-the-cascadier.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
 | The Case of Arcadia Springs | 385301 | [385301-the-case-of-arcadia-springs.json](./385301-the-case-of-arcadia-springs.json) |
@@ -5171,6 +5173,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
+| The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
+| The Chessmaster | 366556 | [366556-the-chessmaster.json](./366556-the-chessmaster.json) |
+| The Chessmaster | 366559 | [366559-the-chessmaster.json](./366559-the-chessmaster.json) |
 | The Chessmaster 2000 | 13482 | [13482-the-chessmaster-2000.json](./13482-the-chessmaster-2000.json) |
 | The Chessmaster 3-D | 15879 | [15879-the-chessmaster-3-d.json](./15879-the-chessmaster-3-d.json) |
 | The Chessmaster 3000 | 15876 | [15876-the-chessmaster-3000.json](./15876-the-chessmaster-3000.json) |
@@ -8288,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
+| The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
 | The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
@@ -8531,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
+| The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -11417,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Chaos | 289959 | [289959-the-scarlet-chaos.json](./289959-the-scarlet-chaos.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
+| The Scarlet Harvest | 366618 | [366618-the-scarlet-harvest.json](./366618-the-scarlet-harvest.json) |
 | The Scarlet Lion | 409769 | [409769-the-scarlet-lion.json](./409769-the-scarlet-lion.json) |
 | The Scary Square | 169862 | [169862-the-scary-square.json](./169862-the-scary-square.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
@@ -14060,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
+| Therapy | 366580 | [366580-therapy.json](./366580-therapy.json) |
 | Therapy for Orchestra Movement III | 248803 | [248803-therapy-for-orchestra-movement-iii.json](./248803-therapy-for-orchestra-movement-iii.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
@@ -17540,6 +17549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together We Live | 221212 | [221212-together-we-live.json](./221212-together-we-live.json) |
 | Together With Me | 221181 | [221181-together-with-me.json](./221181-together-with-me.json) |
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
+| Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
@@ -18093,6 +18103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome Rush | 156902 | [156902-tome-rush.json](./156902-tome-rush.json) |
 | Tome Tumble Tournament | 356560 | [356560-tome-tumble-tournament.json](./356560-tome-tumble-tournament.json) |
 | Tome: Immortal Arena | 62570 | [62570-tome-immortal-arena.json](./62570-tome-immortal-arena.json) |
+| Tomebound | 366553 | [366553-tomebound.json](./366553-tomebound.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
 | Tomeling in Trouble | 85447 | [85447-tomeling-in-trouble.json](./85447-tomeling-in-trouble.json) |
 | Tomena Sanner | 21158 | [21158-tomena-sanner.json](./21158-tomena-sanner.json) |
