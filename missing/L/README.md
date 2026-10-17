@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
 | Labyrinthus: Episode 1 | 168697 | [168697-labyrinthus-episode-1.json](./168697-labyrinthus-episode-1.json) |
+| Labyris | 363149 | [363149-labyris.json](./363149-labyris.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
