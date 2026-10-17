@@ -5905,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
+| Chrono Stranded | 363659 | [363659-chrono-stranded.json](./363659-chrono-stranded.json) |
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
@@ -9277,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
 | Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
+| Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
@@ -10913,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
+| Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
 | Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
