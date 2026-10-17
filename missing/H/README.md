@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | HU-man Dungeons | 294963 | [294963-hu-man-dungeons.json](./294963-hu-man-dungeons.json) |
+| Hua Lian Yue Yi | 407197 | [407197-hua-lian-yue-yi.json](./407197-hua-lian-yue-yi.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
