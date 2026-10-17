@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
 | Manual Samuel | 18688 | [18688-manual-samuel.json](./18688-manual-samuel.json) |
+| Manufactoid | 401753 | [401753-manufactoid.json](./401753-manufactoid.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
