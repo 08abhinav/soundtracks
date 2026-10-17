@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
+| Babushka | 414754 | [414754-babushka.json](./414754-babushka.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
@@ -12350,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
+| Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
 | Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
