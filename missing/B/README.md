@@ -7201,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobbelnoppel | 384260 | [384260-blobbelnoppel.json](./384260-blobbelnoppel.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
+| Blobber | 416727 | [416727-blobber.json](./416727-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbins 2048 | 115417 | [115417-blobbins-2048.json](./115417-blobbins-2048.json) |
@@ -8666,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 4 | 191115 | [191115-bomb-it-4.json](./191115-bomb-it-4.json) |
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
+| Bomb Jack | 416566 | [416566-bomb-jack.json](./416566-bomb-jack.json) |
 | Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
 | Bomb Jack DX | 279677 | [279677-bomb-jack-dx.json](./279677-bomb-jack-dx.json) |
 | Bomb Jack II | 13421 | [13421-bomb-jack-ii.json](./13421-bomb-jack-ii.json) |
