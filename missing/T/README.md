@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
+| Tales of Sirius | 370999 | [370999-tales-of-sirius.json](./370999-tales-of-sirius.json) |
 | Tales of Skiora | 154249 | [154249-tales-of-skiora.json](./154249-tales-of-skiora.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
 | Tetraminos | 31013 | [31013-tetraminos.json](./31013-tetraminos.json) |
+| Tetramorph | 371029 | [371029-tetramorph.json](./371029-tetramorph.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
 | Tetrapod | 13767 | [13767-tetrapod.json](./13767-tetrapod.json) |
 | Tetraptykon | 261462 | [261462-tetraptykon.json](./261462-tetraptykon.json) |
@@ -4856,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
+| The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
@@ -9323,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid | 255682 | [255682-the-little-mermaid.json](./255682-the-little-mermaid.json) |
+| The Little Mermaid: The Wedding | 371003 | [371003-the-little-mermaid-the-wedding.json](./371003-the-little-mermaid-the-wedding.json) |
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
@@ -10435,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphan A Tale of An Errant Ghost: Hidden Object Game | 127870 | [127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json](./127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
+| The Orphanage | 370989 | [370989-the-orphanage.json](./370989-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
 | The Orpheus Ruse | 33910 | [33910-the-orpheus-ruse.json](./33910-the-orpheus-ruse.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
