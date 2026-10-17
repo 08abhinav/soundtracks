@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Crashers | 297326 | [297326-caribbean-crashers.json](./297326-caribbean-crashers.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
+| Caribbean Legend: Age of Pirates | 377894 | [377894-caribbean-legend-age-of-pirates.json](./377894-caribbean-legend-age-of-pirates.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
 | Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Soup: Fluffy Town | 383150 | [383150-cats-and-soup-fluffy-town.json](./383150-cats-and-soup-fluffy-town.json) |
 | Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
+| Cats and Cows | 377933 | [377933-cats-and-cows.json](./377933-cats-and-cows.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
 | Cats and Mice | 307260 | [307260-cats-and-mice.json](./307260-cats-and-mice.json) |
