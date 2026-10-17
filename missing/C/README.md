@@ -4051,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
 | Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
+| Chante: Fortress of Spores | 369884 | [369884-chante-fortress-of-spores.json](./369884-chante-fortress-of-spores.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chants of Sennaar | 198499 | [198499-chants-of-sennaar.json](./198499-chants-of-sennaar.json) |
@@ -7704,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
+| Cocaine Dealer | 369903 | [369903-cocaine-dealer.json](./369903-cocaine-dealer.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
 | Cocco Game | 145904 | [145904-cocco-game.json](./145904-cocco-game.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
@@ -9377,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
 | Cone Punk | 420575 | [420575-cone-punk.json](./420575-cone-punk.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
+| Cone’Z Broken Bonez | 369901 | [369901-cone-z-broken-bonez.json](./369901-cone-z-broken-bonez.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
@@ -11193,6 +11196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
 | Crabs & Cocktails | 412211 | [412211-crabs-and-cocktails.json](./412211-crabs-and-cocktails.json) |
+| Crabs and Rats | 369897 | [369897-crabs-and-rats.json](./369897-crabs-and-rats.json) |
 | Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
 | Crabs: Chef's Story | 197089 | [197089-crabs-chefs-story.json](./197089-crabs-chefs-story.json) |
