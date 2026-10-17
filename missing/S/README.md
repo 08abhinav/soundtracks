@@ -6759,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
+| Shrek Kart | 395759 | [395759-shrek-kart.json](./395759-shrek-kart.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Smash n' Crash Racing | 248506 | [248506-shrek-smash-n-crash-racing.json](./248506-shrek-smash-n-crash-racing.json) |
@@ -15434,6 +15435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
 | Spirit City: Lofi Sessions - All Aboard! | 363005 | [363005-spirit-city-lofi-sessions-all-aboard.json](./363005-spirit-city-lofi-sessions-all-aboard.json) |
 | Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
+| Spirit City: Lofi Sessions - Enchanted Garden | 395742 | [395742-spirit-city-lofi-sessions-enchanted-garden.json](./395742-spirit-city-lofi-sessions-enchanted-garden.json) |
 | Spirit City: Lofi Sessions - Supporter Pack | 378592 | [378592-spirit-city-lofi-sessions-supporter-pack.json](./378592-spirit-city-lofi-sessions-supporter-pack.json) |
 | Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
 | Spirit Clash | 149877 | [149877-spirit-clash.json](./149877-spirit-clash.json) |
@@ -15938,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Test Driver: Monaco Trials | 90539 | [90539-sports-car-test-driver-monaco-trials.json](./90539-sports-car-test-driver-monaco-trials.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Card Shop Simulator | 389101 | [389101-sports-card-shop-simulator.json](./389101-sports-card-shop-simulator.json) |
+| Sports Challenge: 50+ Games Edition | 395663 | [395663-sports-challenge-50-games-edition.json](./395663-sports-challenge-50-games-edition.json) |
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
@@ -22891,6 +22894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
+| Super Pig | 395880 | [395880-super-pig.json](./395880-super-pig.json) |
 | Super Pig X | 119623 | [119623-super-pig-x.json](./119623-super-pig-x.json) |
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
