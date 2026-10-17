@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
+| Eli Girls | 379635 | [379635-eli-girls.json](./379635-eli-girls.json) |
 | Eli's Ladder | 40642 | [40642-elis-ladder.json](./40642-elis-ladder.json) |
 | Elibean Nights | 135718 | [135718-elibean-nights.json](./135718-elibean-nights.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
@@ -5778,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
+| Extrocore | 379726 | [379726-extrocore.json](./379726-extrocore.json) |
 | Exurgo | 118674 | [118674-exurgo.json](./118674-exurgo.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
