@@ -12450,7 +12450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reversi Hyper | 210305 | [210305-sonic-reversi-hyper.json](./210305-sonic-reversi-hyper.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 210302 | [210302-sonic-riders.json](./210302-sonic-riders.json) |
-| Sonic Riders | 4158 | [4158-sonic-riders.json](./4158-sonic-riders.json) |
 | Sonic Riders DX | 172466 | [172466-sonic-riders-dx.json](./172466-sonic-riders-dx.json) |
 | Sonic Riders DX v2.0 | 294577 | [294577-sonic-riders-dx-v2-0.json](./294577-sonic-riders-dx-v2-0.json) |
 | Sonic Riders Enhanced | 417435 | [417435-sonic-riders-enhanced.json](./417435-sonic-riders-enhanced.json) |
