@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
+| Keito | 384913 | [384913-keito.json](./384913-keito.json) |
 | Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson | 409799 | [409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json](./409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Kekcroc's Pizza Delivery | 233128 | [233128-kekcrocs-pizza-delivery.json](./233128-kekcrocs-pizza-delivery.json) |
