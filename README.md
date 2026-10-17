@@ -1322,6 +1322,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/86/17/858617f8-6e3e-2d96-61c0-8ad85f43fe8b/196872535068.jpg/600x600bb.jpg" width="60" /> | [Slitterhead](https://ostdb.net/games/slitterhead) | **Slitterhead (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4) · [Album](https://album.link/i/1784820377) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a51b317a77171e17cd6aa0a6" width="60" /> | [Smash Hit](https://ostdb.net/games/smash-hit) | **Smash Hit (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3jwyqoiT89YydTUvzONZYj) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/e1/78/66e178eb-3f91-d04f-6339-e09f3ab543a6/780163661521.jpg/600x600bb.jpg" width="60" /> | [Smite 2](https://ostdb.net/games/smite-2) | **SMITE 2 (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/smite-2-official-game-soundtrack/1760409404?uo=4) · [Album](https://album.link/i/1760409404) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf231ce09e850f7e0d1534f" width="60" /> | [Sniper: Ghost Warrior](https://ostdb.net/games/sniper-ghost-warrior) | **Sniper Ghost Warrior 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1poBYbc3r8vZ6QmGYtItYA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf231ce09e850f7e0d1534f" width="60" /> | [Sniper: Ghost Warrior 3](https://ostdb.net/games/sniper-ghost-warrior-3) | **Sniper Ghost Warrior 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1poBYbc3r8vZ6QmGYtItYA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fd799314a4c6ca3c77f8dbd" width="60" /> | [Snowboard Kids](https://ostdb.net/games/snowboard-kids) | **Snowboard Kids Original Soundtrack** · [Spotify](https://open.spotify.com/album/17Sw8Zis0jkP5yN38B82vc) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/9f/c3/d19fc3d5-6987-f336-693c-808085462790/859764942046_cover.jpg/600x600bb.jpg" width="60" /> | [Solar Ash](https://ostdb.net/games/solar-ash) | **Solar Ash (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/solar-ash-original-soundtrack/1643125222?uo=4) · [Album](https://album.link/i/1643125222) |
@@ -1805,4 +1806,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2122 soundtracks · last updated 2026-10-17T15:51:11.136Z_
+_2123 soundtracks · last updated 2026-10-17T15:51:18.738Z_
