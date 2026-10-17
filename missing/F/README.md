@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
 | Find Cats 4 | 344984 | [344984-find-cats-4.json](./344984-find-cats-4.json) |
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
+| Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
