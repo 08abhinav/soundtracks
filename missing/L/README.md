@@ -4529,12 +4529,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
 | Living Legends: Fallen Sky | 295660 | [295660-living-legends-fallen-sky.json](./295660-living-legends-fallen-sky.json) |
+| Living Legends: Fallen Sky - Collector's Edition | 397042 | [397042-living-legends-fallen-sky-collectors-edition.json](./397042-living-legends-fallen-sky-collectors-edition.json) |
 | Living Legends: Frozen Beauty | 62837 | [62837-living-legends-frozen-beauty.json](./62837-living-legends-frozen-beauty.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
+| Living Legends: Frozen Destiny | 397040 | [397040-living-legends-frozen-destiny.json](./397040-living-legends-frozen-destiny.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
+| Living Legends: Haunting Melody - Collector's Edition | 397041 | [397041-living-legends-haunting-melody-collectors-edition.json](./397041-living-legends-haunting-melody-collectors-edition.json) |
 | Living Legends: Ice Rose | 62835 | [62835-living-legends-ice-rose.json](./62835-living-legends-ice-rose.json) |
 | Living Legends: Ice Rose - Collector's Edition | 104704 | [104704-living-legends-ice-rose-collectors-edition.json](./104704-living-legends-ice-rose-collectors-edition.json) |
+| Living Legends: The Blue Chamber | 397037 | [397037-living-legends-the-blue-chamber.json](./397037-living-legends-the-blue-chamber.json) |
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
+| Living Legends: The Red Trace | 397038 | [397038-living-legends-the-red-trace.json](./397038-living-legends-the-red-trace.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Voice of the Sea - Collector's Edition | 154276 | [154276-living-legends-voice-of-the-sea-collectors-edition.json](./154276-living-legends-voice-of-the-sea-collectors-edition.json) |
@@ -5087,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Ago: A Puzzle Tale | 148169 | [148169-long-ago-a-puzzle-tale.json](./148169-long-ago-a-puzzle-tale.json) |
+| Long and Hard… Summer! | 397019 | [397019-long-and-hard-summer.json](./397019-long-and-hard-summer.json) |
 | Long Arm of the Law | 111863 | [111863-long-arm-of-the-law.json](./111863-long-arm-of-the-law.json) |
 | Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
 | Long Car Journey | 169491 | [169491-long-car-journey.json](./169491-long-car-journey.json) |
@@ -5308,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
+| Loot Line: Season 1 | 397017 | [397017-loot-line-season-1.json](./397017-loot-line-season-1.json) |
 | Loot List | 226875 | [226875-loot-list.json](./226875-loot-list.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
