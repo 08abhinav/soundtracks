@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
+| Nainai no Meitantei | 387117 | [387117-nainai-no-meitantei.json](./387117-nainai-no-meitantei.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Q RAC Rally | 261884 | [261884-network-q-rac-rally.json](./261884-network-q-rac-rally.json) |
 | Networking Event Simulator | 177799 | [177799-networking-event-simulator.json](./177799-networking-event-simulator.json) |
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
+| Neues | 387131 | [387131-neues.json](./387131-neues.json) |
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
 | Neural Drive | 390584 | [390584-neural-drive.json](./390584-neural-drive.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nishijin Pachinko 3 | 37904 | [37904-nishijin-pachinko-3.json](./37904-nishijin-pachinko-3.json) |
 | Nishijin Pachinko Monogatari | 37903 | [37903-nishijin-pachinko-monogatari.json](./37903-nishijin-pachinko-monogatari.json) |
 | Nishijin Pachinko Monogatari 2 | 37902 | [37902-nishijin-pachinko-monogatari-2.json](./37902-nishijin-pachinko-monogatari-2.json) |
+| Nishijin Pachinko Tengoku EX | 387123 | [387123-nishijin-pachinko-tengoku-ex.json](./387123-nishijin-pachinko-tengoku-ex.json) |
 | Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken | 48802 | [48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json](./48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json) |
 | Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken | 48801 | [48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json](./48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json) |
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
