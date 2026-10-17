@@ -8955,6 +8955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
 | Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
+| Frostbite Frenzy: Flower Hat | 380228 | [380228-frostbite-frenzy-flower-hat.json](./380228-frostbite-frenzy-flower-hat.json) |
 | Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
