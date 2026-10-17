@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
 | Jester | 251714 | [251714-jester.json](./251714-jester.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
+| Jester Party | 374931 | [374931-jester-party.json](./374931-jester-party.json) |
 | Jester Street: Card Counting Trainer | 186029 | [186029-jester-street-card-counting-trainer.json](./186029-jester-street-card-counting-trainer.json) |
 | Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
