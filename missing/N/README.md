@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
 | NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
+| NES Classics | 392737 | [392737-nes-classics.json](./392737-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
 | NES Play Action Football | 48194 | [48194-nes-play-action-football.json](./48194-nes-play-action-football.json) |
 | NES Remix | 6401 | [6401-nes-remix.json](./6401-nes-remix.json) |
@@ -4035,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
+| Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
+| Null: Remastered | 392719 | [392719-null-remastered.json](./392719-null-remastered.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
