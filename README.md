@@ -445,6 +445,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b7fc94a51d8c75c027c89ff" width="60" /> | [Duke Nukem 3D](https://ostdb.net/games/duke-nukem-3d) | **Duke Nukem 3d Soundtrack Rebuild** · [Spotify](https://open.spotify.com/album/3zBmExKhhB4FvrrQRVFyf2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738367d9d8bd46511f8de2ea02" width="60" /> | [Dune: Awakening](https://ostdb.net/games/dune-awakening) | **Dune: Awakening (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739271d8cfc4dc7d9aab7a3cb4" width="60" /> | [Dungeon Keeper](https://ostdb.net/games/dungeon-keeper) | **Dungeons & Dragons - Official Roleplaying Soundtrack** · [Spotify](https://open.spotify.com/album/4vlLjXLtpTqL3516bAWNHx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320528a09e0adda32a12ea77d" width="60" /> | [Dungeon of the Endless](https://ostdb.net/games/dungeon-of-the-endless) | **Dungeon of the Endless (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/74BTQabh5GLhYcgQDqXGqc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273697c5a9c30e9bae32c60c51c" width="60" /> | [Dungeons of Dredmor](https://ostdb.net/games/dungeons-of-dredmor) | **Dungeons of Dredmor (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4AVNjCot0zr9QVMz07rO7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b452d5b385d4531af810b0a3" width="60" /> | [Dungeons of Hinterberg](https://ostdb.net/games/dungeons-of-hinterberg) | **Dungeons of Hinterberg (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5OzfZxATcJhS4j510OxksL) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/8a/2a/dc8a2a42-cbb0-a7f5-0982-32b261574780/3663729331892_cover.jpg/600x600bb.jpg" width="60" /> | [Dustborn](https://ostdb.net/games/dustborn) | **Dustborn (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dustborn-original-game-soundtrack/1763069973?uo=4) · [Album](https://album.link/i/1763069973)<br>**Good Ways to Cry (From Dustborn) - Single** · [Spotify](https://music.apple.com/us/album/good-ways-to-cry-from-dustborn-single/1762847076?uo=4) · [Album](https://album.link/i/1762847076) |
@@ -1707,4 +1708,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2024 soundtracks · last updated 2026-10-17T15:00:52.074Z_
+_2025 soundtracks · last updated 2026-10-17T15:00:59.684Z_
