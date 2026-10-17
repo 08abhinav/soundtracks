@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
 | After He Was Gone | 203836 | [203836-after-he-was-gone.json](./203836-after-he-was-gone.json) |
+| After Heaven | 364851 | [364851-after-heaven.json](./364851-after-heaven.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Hours | 113144 | [113144-after-hours.json](./113144-after-hours.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
+| All The Stars | 364866 | [364866-all-the-stars.json](./364866-all-the-stars.json) |
 | All the Way Down | 171978 | [171978-all-the-way-down.json](./171978-all-the-way-down.json) |
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
 | All the Words She Wrote | 195564 | [195564-all-the-words-she-wrote.json](./195564-all-the-words-she-wrote.json) |
@@ -12135,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
 | Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
+| Auto Drive | 364852 | [364852-auto-drive.json](./364852-auto-drive.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
 | Auto Empire: Dealer Car Simulator | 309001 | [309001-auto-empire-dealer-car-simulator.json](./309001-auto-empire-dealer-car-simulator.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
