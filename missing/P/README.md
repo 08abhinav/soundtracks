@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painters Guild | 20345 | [20345-painters-guild.json](./20345-painters-guild.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
+| Painting Pixels | 393970 | [393970-painting-pixels.json](./393970-painting-pixels.json) |
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
+| Path of Exile: Mirage | 393960 | [393960-path-of-exile-mirage.json](./393960-path-of-exile-mirage.json) |
 | Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Space Station | 183417 | [183417-personal-space-station.json](./183417-personal-space-station.json) |
+| Personal Study | 393939 | [393939-personal-study.json](./393939-personal-study.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
 | Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
