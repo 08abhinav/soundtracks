@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-mail Nascar | 200387 | [200387-e-mail-nascar.json](./200387-e-mail-nascar.json) |
 | E-mail Upwords | 200389 | [200389-e-mail-upwords.json](./200389-e-mail-upwords.json) |
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
+| E-Moto Mania | 413508 | [413508-e-moto-mania.json](./413508-e-moto-mania.json) |
 | E-On | 211701 | [211701-e-on.json](./211701-e-on.json) |
 | E-Police | 341531 | [341531-e-police.json](./341531-e-police.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
