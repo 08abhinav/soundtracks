@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
+| Wander Scoop | 384335 | [384335-wander-scoop.json](./384335-wander-scoop.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderdawn | 407164 | [407164-wanderdawn.json](./407164-wanderdawn.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where We Used to Play | 385956 | [385956-where-we-used-to-play.json](./385956-where-we-used-to-play.json) |
 | Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
+| Where Winds Meet: Live to Game | 384243 | [384243-where-winds-meet-live-to-game.json](./384243-where-winds-meet-live-to-game.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
 | Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
 | Where's Ami Do | 362741 | [362741-wheres-ami-do.json](./362741-wheres-ami-do.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
+| Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whip Rush | 28039 | [28039-whip-rush.json](./28039-whip-rush.json) |
 | Whip Swing! | 108909 | [108909-whip-swing.json](./108909-whip-swing.json) |
