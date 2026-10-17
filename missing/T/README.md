@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
+| Tactical Assassin 3 | 388108 | [388108-tactical-assassin-3.json](./388108-tactical-assassin-3.json) |
 | Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
 | Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ford Simulator | 69764 | [69764-the-ford-simulator.json](./69764-the-ford-simulator.json) |
 | The Foreigner | 128915 | [128915-the-foreigner.json](./128915-the-foreigner.json) |
 | The Foreigner | 343759 | [343759-the-foreigner.json](./343759-the-foreigner.json) |
+| The Forest | 388289 | [388289-the-forest.json](./388289-the-forest.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
 | The Forest Below | 133827 | [133827-the-forest-below.json](./133827-the-forest-below.json) |
@@ -8964,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
+| The Legend of the Wind | 388124 | [388124-the-legend-of-the-wind.json](./388124-the-legend-of-the-wind.json) |
 | The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
@@ -21965,6 +21968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
 | Tricone Lab | 34686 | [34686-tricone-lab.json](./34686-tricone-lab.json) |
+| Tricycle Racers | 388146 | [388146-tricycle-racers.json](./388146-tricycle-racers.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
