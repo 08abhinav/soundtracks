@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Family's Secret | 186693 | [186693-mafia-familys-secret.json](./186693-mafia-familys-secret.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
+| Mafia: The Old Country - Padrino Pack | 404699 | [404699-mafia-the-old-country-padrino-pack.json](./404699-mafia-the-old-country-padrino-pack.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
 | Mafia: The Old Country Definitive Edition | 413586 | [413586-mafia-the-old-country-definitive-edition.json](./413586-mafia-the-old-country-definitive-edition.json) |
 | Mafia: The Omertà Collection | 413580 | [413580-mafia-the-omerta-collection.json](./413580-mafia-the-omerta-collection.json) |
@@ -7058,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
+| Metro Trip Simulator | 404772 | [404772-metro-trip-simulator.json](./404772-metro-trip-simulator.json) |
 | Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
@@ -7961,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
+| Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
@@ -11337,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
 | Monsters Tap Tap Music Battle University | 253273 | [253273-monsters-tap-tap-music-battle-university.json](./253273-monsters-tap-tap-music-battle-university.json) |
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
+| Monsters University | 404650 | [404650-monsters-university.json](./404650-monsters-university.json) |
 | Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
 | Monsters vs. Aliens | 248558 | [248558-monsters-vs-aliens.json](./248558-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
