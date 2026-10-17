@@ -3378,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
+| Ai & the Demon & the Curse of Lust | 372758 | [372758-ai-and-the-demon-and-the-curse-of-lust.json](./372758-ai-and-the-demon-and-the-curse-of-lust.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
@@ -10457,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
+| Ashes Remember Us | 372746 | [372746-ashes-remember-us.json](./372746-ashes-remember-us.json) |
 | Ashes to Ashes | 258104 | [258104-ashes-to-ashes.json](./258104-ashes-to-ashes.json) |
 | Ashes to Ashes | 69776 | [69776-ashes-to-ashes.json](./69776-ashes-to-ashes.json) |
 | Ashes: 2063 | 141485 | [141485-ashes-2063.json](./141485-ashes-2063.json) |
