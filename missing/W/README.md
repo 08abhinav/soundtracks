@@ -3577,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
+| Wikipedia Quest | 402504 | [402504-wikipedia-quest.json](./402504-wikipedia-quest.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
@@ -5461,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Wordomi | 387505 | [387505-wordomi.json](./387505-wordomi.json) |
+| Wordox | 402320 | [402320-wordox.json](./402320-wordox.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
 | Wordplay | 45899 | [45899-wordplay.json](./45899-wordplay.json) |
 | WordPlus: Unique Word Game | 232063 | [232063-wordplus-unique-word-game.json](./232063-wordplus-unique-word-game.json) |
