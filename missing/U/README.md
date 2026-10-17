@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
+| Utterance | 410721 | [410721-utterance.json](./410721-utterance.json) |
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
