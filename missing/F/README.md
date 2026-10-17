@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
+| Fire Emblem: The Dark Amulet | 382588 | [382588-fire-emblem-the-dark-amulet.json](./382588-fire-emblem-the-dark-amulet.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
 | Fire Emblem: The Hag in White | 335825 | [335825-fire-emblem-the-hag-in-white.json](./335825-fire-emblem-the-hag-in-white.json) |
