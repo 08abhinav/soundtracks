@@ -6046,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
+| Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
