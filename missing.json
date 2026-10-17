@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T13:33:28.127Z",
-  "total_missing": 223928,
+  "generated_at": "2026-10-17T13:48:29.800Z",
+  "total_missing": 223978,
   "games": [
     {
       "igdb_id": 191680,
@@ -9907,6 +9907,11 @@
       "file": "missing/0-9/367764-52hertz.json"
     },
     {
+      "igdb_id": 384907,
+      "game_name": "53X Homecoming",
+      "file": "missing/0-9/384907-53x-homecoming.json"
+    },
+    {
       "igdb_id": 241328,
       "game_name": "555!",
       "file": "missing/0-9/241328-555.json"
@@ -19492,6 +19497,11 @@
       "file": "missing/A/372125-abyssal-maw.json"
     },
     {
+      "igdb_id": 384912,
+      "game_name": "Abyssal Merge",
+      "file": "missing/A/384912-abyssal-merge.json"
+    },
+    {
       "igdb_id": 337790,
       "game_name": "Abyssal Shade",
       "file": "missing/A/337790-abyssal-shade.json"
@@ -28000,6 +28010,11 @@
       "igdb_id": 259180,
       "game_name": "Agent Heart: Deception",
       "file": "missing/A/259180-agent-heart-deception.json"
+    },
+    {
+      "igdb_id": 384893,
+      "game_name": "Agent Horny: Season 1",
+      "file": "missing/A/384893-agent-horny-season-1.json"
     },
     {
       "igdb_id": 43512,
@@ -52612,6 +52627,11 @@
       "file": "missing/A/249740-apple-quest-monsters-dx.json"
     },
     {
+      "igdb_id": 384925,
+      "game_name": "Apple Rabble Dazzle",
+      "file": "missing/A/384925-apple-rabble-dazzle.json"
+    },
+    {
       "igdb_id": 176460,
       "game_name": "Apple Sauce Apartments",
       "file": "missing/A/176460-apple-sauce-apartments.json"
@@ -56500,6 +56520,11 @@
       "igdb_id": 191241,
       "game_name": "Arcana: Heat and Cold - Season 2",
       "file": "missing/A/191241-arcana-heat-and-cold-season-2.json"
+    },
+    {
+      "igdb_id": 384903,
+      "game_name": "Arcana: Heat and Cold - Season 3",
+      "file": "missing/A/384903-arcana-heat-and-cold-season-3.json"
     },
     {
       "igdb_id": 252233,
@@ -69537,6 +69562,11 @@
       "file": "missing/A/12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json"
     },
     {
+      "igdb_id": 384887,
+      "game_name": "Atelier Sophie: The Alchemist of the Mysterious Book - Limited Edition",
+      "file": "missing/A/384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json"
+    },
+    {
       "igdb_id": 169739,
       "game_name": "Atelier Tia",
       "file": "missing/A/169739-atelier-tia.json"
@@ -78180,6 +78210,11 @@
       "igdb_id": 340939,
       "game_name": "Backrooms: Hide Together",
       "file": "missing/B/340939-backrooms-hide-together.json"
+    },
+    {
+      "igdb_id": 384916,
+      "game_name": "Backrooms: Imposter",
+      "file": "missing/B/384916-backrooms-imposter.json"
     },
     {
       "igdb_id": 324985,
@@ -113857,6 +113892,11 @@
       "file": "missing/B/276965-bloki.json"
     },
     {
+      "igdb_id": 384888,
+      "game_name": "Bloki",
+      "file": "missing/B/384888-bloki.json"
+    },
+    {
       "igdb_id": 102695,
       "game_name": "Blokin",
       "file": "missing/B/102695-blokin.json"
@@ -146790,6 +146830,11 @@
       "igdb_id": 14376,
       "game_name": "Captain Fizz Meets the Blaster-Trons",
       "file": "missing/C/14376-captain-fizz-meets-the-blaster-trons.json"
+    },
+    {
+      "igdb_id": 384874,
+      "game_name": "Captain Fly and Sexy Students",
+      "file": "missing/C/384874-captain-fly-and-sexy-students.json"
     },
     {
       "igdb_id": 90666,
@@ -207267,6 +207312,11 @@
       "file": "missing/C/120363-cube-doa.json"
     },
     {
+      "igdb_id": 384821,
+      "game_name": "Cube Dodger 3D",
+      "file": "missing/C/384821-cube-dodger-3d.json"
+    },
+    {
       "igdb_id": 360110,
       "game_name": "Cube Droid Holiday Special",
       "file": "missing/C/360110-cube-droid-holiday-special.json"
@@ -212605,6 +212655,11 @@
       "igdb_id": 70080,
       "game_name": "Cybernetic Hi-School Part 2: Highway Buster",
       "file": "missing/C/70080-cybernetic-hi-school-part-2-highway-buster.json"
+    },
+    {
+      "igdb_id": 384890,
+      "game_name": "Cybernetic Seduction: Season 1",
+      "file": "missing/C/384890-cybernetic-seduction-season-1.json"
     },
     {
       "igdb_id": 164253,
@@ -314437,6 +314492,11 @@
       "file": "missing/F/254153-fall-of-porcupine-save-the-world-edition.json"
     },
     {
+      "igdb_id": 384901,
+      "game_name": "Fall of the Final Age",
+      "file": "missing/F/384901-fall-of-the-final-age.json"
+    },
+    {
       "igdb_id": 157395,
       "game_name": "Fall of the Mafia",
       "file": "missing/F/157395-fall-of-the-mafia.json"
@@ -319010,6 +319070,11 @@
       "igdb_id": 53091,
       "game_name": "Fapic",
       "file": "missing/F/53091-fapic.json"
+    },
+    {
+      "igdb_id": 384910,
+      "game_name": "Fapout 69",
+      "file": "missing/F/384910-fapout-69.json"
     },
     {
       "igdb_id": 194316,
@@ -324737,6 +324802,16 @@
       "file": "missing/F/382480-femdom-hero.json"
     },
     {
+      "igdb_id": 384898,
+      "game_name": "Femdom Hero 2",
+      "file": "missing/F/384898-femdom-hero-2.json"
+    },
+    {
+      "igdb_id": 384909,
+      "game_name": "Femdom Hero 3",
+      "file": "missing/F/384909-femdom-hero-3.json"
+    },
+    {
       "igdb_id": 368130,
       "game_name": "Femdom Lines",
       "file": "missing/F/368130-femdom-lines.json"
@@ -330185,6 +330260,11 @@
       "igdb_id": 231956,
       "game_name": "Final Warfare",
       "file": "missing/F/231956-final-warfare.json"
+    },
+    {
+      "igdb_id": 384900,
+      "game_name": "Final Word Royale",
+      "file": "missing/F/384900-final-word-royale.json"
     },
     {
       "igdb_id": 90646,
@@ -367270,6 +367350,11 @@
       "igdb_id": 209456,
       "game_name": "Garden of Seif: Curse of Gravehollow Peaks",
       "file": "missing/G/209456-garden-of-seif-curse-of-gravehollow-peaks.json"
+    },
+    {
+      "igdb_id": 384819,
+      "game_name": "Garden of the Atom",
+      "file": "missing/G/384819-garden-of-the-atom.json"
     },
     {
       "igdb_id": 336717,
@@ -437402,6 +437487,11 @@
       "file": "missing/H/296911-hot-and-lovely-dream.json"
     },
     {
+      "igdb_id": 384884,
+      "game_name": "Hot and Lovely: Purple",
+      "file": "missing/H/384884-hot-and-lovely-purple.json"
+    },
+    {
       "igdb_id": 366336,
       "game_name": "Hot and Lovely: Seduction",
       "file": "missing/H/366336-hot-and-lovely-seduction.json"
@@ -437697,6 +437787,11 @@
       "file": "missing/H/193265-hot-milf.json"
     },
     {
+      "igdb_id": 384880,
+      "game_name": "Hot Milf 10 Bikini",
+      "file": "missing/H/384880-hot-milf-10-bikini.json"
+    },
+    {
       "igdb_id": 189976,
       "game_name": "Hot Milf 2",
       "file": "missing/H/189976-hot-milf-2.json"
@@ -437727,6 +437822,11 @@
       "file": "missing/H/344432-hot-milf-vr.json"
     },
     {
+      "igdb_id": 384877,
+      "game_name": "Hot Mom",
+      "file": "missing/H/384877-hot-mom.json"
+    },
+    {
       "igdb_id": 270065,
       "game_name": "Hot Noon",
       "file": "missing/H/270065-hot-noon.json"
@@ -437735,6 +437835,11 @@
       "igdb_id": 296910,
       "game_name": "Hot Office: Sex Story",
       "file": "missing/H/296910-hot-office-sex-story.json"
+    },
+    {
+      "igdb_id": 384883,
+      "game_name": "Hot Pieces",
+      "file": "missing/H/384883-hot-pieces.json"
     },
     {
       "igdb_id": 398447,
@@ -437990,6 +438095,11 @@
       "igdb_id": 173835,
       "game_name": "Hot Vacation",
       "file": "missing/H/173835-hot-vacation.json"
+    },
+    {
+      "igdb_id": 384885,
+      "game_name": "Hot View Ecchi Girls",
+      "file": "missing/H/384885-hot-view-ecchi-girls.json"
     },
     {
       "igdb_id": 40780,
@@ -438775,6 +438885,11 @@
       "igdb_id": 101014,
       "game_name": "Hotel Tycoon 2 HD",
       "file": "missing/H/101014-hotel-tycoon-2-hd.json"
+    },
+    {
+      "igdb_id": 384876,
+      "game_name": "Hotel VIP",
+      "file": "missing/H/384876-hotel-vip.json"
     },
     {
       "igdb_id": 36379,
@@ -491652,6 +491767,11 @@
       "file": "missing/K/15264-keith-van-erons-pro-soccer.json"
     },
     {
+      "igdb_id": 384913,
+      "game_name": "Keito",
+      "file": "missing/K/384913-keito.json"
+    },
+    {
       "igdb_id": 409799,
       "game_name": "Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson",
       "file": "missing/K/409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json"
@@ -531227,6 +531347,11 @@
       "file": "missing/L/234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json"
     },
     {
+      "igdb_id": 384894,
+      "game_name": "Living with Temptation 2: French Confessions",
+      "file": "missing/L/384894-living-with-temptation-2-french-confessions.json"
+    },
+    {
       "igdb_id": 293877,
       "game_name": "Living with Temptation: American Sunset",
       "file": "missing/L/293877-living-with-temptation-american-sunset.json"
@@ -533677,6 +533802,11 @@
       "file": "missing/L/326140-lonely-christmas.json"
     },
     {
+      "igdb_id": 384897,
+      "game_name": "Lonely Christmas: Cute Santa 2",
+      "file": "missing/L/384897-lonely-christmas-cute-santa-2.json"
+    },
+    {
       "igdb_id": 374966,
       "game_name": "Lonely Guardian",
       "file": "missing/L/374966-lonely-guardian.json"
@@ -535000,6 +535130,11 @@
       "igdb_id": 397017,
       "game_name": "Loot Line: Season 1",
       "file": "missing/L/397017-loot-line-season-1.json"
+    },
+    {
+      "igdb_id": 384895,
+      "game_name": "Loot Line: Season 2",
+      "file": "missing/L/384895-loot-line-season-2.json"
     },
     {
       "igdb_id": 226875,
@@ -590812,6 +590947,11 @@
       "file": "missing/M/294805-minsho.json"
     },
     {
+      "igdb_id": 384921,
+      "game_name": "Minsk '44 Gold",
+      "file": "missing/M/384921-minsk-44-gold.json"
+    },
+    {
       "igdb_id": 115631,
       "game_name": "Minskies",
       "file": "missing/M/115631-minskies.json"
@@ -614027,6 +614167,11 @@
       "file": "missing/M/4023-mutsu-tonohohon.json"
     },
     {
+      "igdb_id": 384882,
+      "game_name": "Mutton",
+      "file": "missing/M/384882-mutton.json"
+    },
+    {
       "igdb_id": 253269,
       "game_name": "Mutton for Punishment 3",
       "file": "missing/M/253269-mutton-for-punishment-3.json"
@@ -614400,6 +614545,11 @@
       "igdb_id": 350650,
       "game_name": "MX vs. ATV: Legends - Polaris Pack",
       "file": "missing/M/350650-mx-vs-atv-legends-polaris-pack.json"
+    },
+    {
+      "igdb_id": 384904,
+      "game_name": "MX vs. ATV: Legends - Redline Ridge Finals",
+      "file": "missing/M/384904-mx-vs-atv-legends-redline-ridge-finals.json"
     },
     {
       "igdb_id": 252169,
@@ -660627,6 +660777,11 @@
       "file": "missing/O/33699-onion-force.json"
     },
     {
+      "igdb_id": 384920,
+      "game_name": "Onion House",
+      "file": "missing/O/384920-onion-house.json"
+    },
+    {
       "igdb_id": 146142,
       "game_name": "Oniria Crimes: Rounder Edition",
       "file": "missing/O/146142-oniria-crimes-rounder-edition.json"
@@ -667195,6 +667350,11 @@
       "igdb_id": 304812,
       "game_name": "Our Field Trip Adventure + More Missions Pack Set",
       "file": "missing/O/304812-our-field-trip-adventure-more-missions-pack-set.json"
+    },
+    {
+      "igdb_id": 384905,
+      "game_name": "Our Final Choice",
+      "file": "missing/O/384905-our-final-choice.json"
     },
     {
       "igdb_id": 123375,
@@ -682380,6 +682540,11 @@
       "igdb_id": 182326,
       "game_name": "Pathways",
       "file": "missing/P/182326-pathways.json"
+    },
+    {
+      "igdb_id": 384918,
+      "game_name": "Pathways",
+      "file": "missing/P/384918-pathways.json"
     },
     {
       "igdb_id": 38747,
@@ -717012,6 +717177,11 @@
       "file": "missing/P/385795-porn-star-island.json"
     },
     {
+      "igdb_id": 384886,
+      "game_name": "PornBeat Hardcore",
+      "file": "missing/P/384886-pornbeat-hardcore.json"
+    },
+    {
       "igdb_id": 241406,
       "game_name": "Porndle",
       "file": "missing/P/241406-porndle.json"
@@ -729675,6 +729845,11 @@
       "igdb_id": 208451,
       "game_name": "Prostitute Simulator",
       "file": "missing/P/208451-prostitute-simulator.json"
+    },
+    {
+      "igdb_id": 384899,
+      "game_name": "Prostitute Simulator 3",
+      "file": "missing/P/384899-prostitute-simulator-3.json"
     },
     {
       "igdb_id": 20572,
@@ -769152,6 +769327,11 @@
       "file": "missing/R/28102-rigs-dream-3d.json"
     },
     {
+      "igdb_id": 384923,
+      "game_name": "Rigby Saw Game",
+      "file": "missing/R/384923-rigby-saw-game.json"
+    },
+    {
       "igdb_id": 55084,
       "game_name": "Rigel's Revenge",
       "file": "missing/R/55084-rigels-revenge.json"
@@ -798427,6 +798607,11 @@
       "file": "missing/S/343774-scarf.json"
     },
     {
+      "igdb_id": 384915,
+      "game_name": "Scarf Tale",
+      "file": "missing/S/384915-scarf-tale.json"
+    },
+    {
       "igdb_id": 5140,
       "game_name": "Scarface: Money. Power. Respect.",
       "file": "missing/S/5140-scarface-money-power-respect.json"
@@ -810872,6 +811057,11 @@
       "file": "missing/S/382392-sex-game-threesome-episode-6.json"
     },
     {
+      "igdb_id": 384891,
+      "game_name": "Sex Game: Gay Affair - Episode 1",
+      "file": "missing/S/384891-sex-game-gay-affair-episode-1.json"
+    },
+    {
       "igdb_id": 382383,
       "game_name": "Sex Game: Gay Affair - Episode 2",
       "file": "missing/S/382383-sex-game-gay-affair-episode-2.json"
@@ -811675,6 +811865,11 @@
       "igdb_id": 367288,
       "game_name": "Sexy Nurse Puzzle",
       "file": "missing/S/367288-sexy-nurse-puzzle.json"
+    },
+    {
+      "igdb_id": 384875,
+      "game_name": "Sexy Pussies",
+      "file": "missing/S/384875-sexy-pussies.json"
     },
     {
       "igdb_id": 335443,
@@ -826510,6 +826705,11 @@
       "igdb_id": 365848,
       "game_name": "Silvanis",
       "file": "missing/S/365848-silvanis.json"
+    },
+    {
+      "igdb_id": 384917,
+      "game_name": "Silvarn",
+      "file": "missing/S/384917-silvarn.json"
     },
     {
       "igdb_id": 7042,
@@ -858575,6 +858775,11 @@
       "igdb_id": 157404,
       "game_name": "Space Ninja Simulator",
       "file": "missing/S/157404-space-ninja-simulator.json"
+    },
+    {
+      "igdb_id": 384924,
+      "game_name": "Space Oddity",
+      "file": "missing/S/384924-space-oddity.json"
     },
     {
       "igdb_id": 392732,
@@ -891722,6 +891927,11 @@
       "file": "missing/S/365850-subspace-voyage.json"
     },
     {
+      "igdb_id": 384878,
+      "game_name": "Substance Wars 64",
+      "file": "missing/S/384878-substance-wars-64.json"
+    },
+    {
       "igdb_id": 398531,
       "game_name": "Substrate: Emergence",
       "file": "missing/S/398531-substrate-emergence.json"
@@ -914597,6 +914807,11 @@
       "file": "missing/S/40727-sword-of-saros.json"
     },
     {
+      "igdb_id": 384914,
+      "game_name": "Sword of Shandar",
+      "file": "missing/S/384914-sword-of-shandar.json"
+    },
+    {
       "igdb_id": 158088,
       "game_name": "Sword of Shushan",
       "file": "missing/S/158088-sword-of-shushan.json"
@@ -926837,6 +927052,11 @@
       "file": "missing/T/33469-tasty-planet-back-for-seconds.json"
     },
     {
+      "igdb_id": 384906,
+      "game_name": "Tasty Planet: Final Bite",
+      "file": "missing/T/384906-tasty-planet-final-bite.json"
+    },
+    {
       "igdb_id": 176503,
       "game_name": "Tasty Ramen",
       "file": "missing/T/176503-tasty-ramen.json"
@@ -932810,6 +933030,11 @@
       "igdb_id": 217394,
       "game_name": "Terminal Breach",
       "file": "missing/T/217394-terminal-breach.json"
+    },
+    {
+      "igdb_id": 384902,
+      "game_name": "Terminal Breach: Final Dawn",
+      "file": "missing/T/384902-terminal-breach-final-dawn.json"
     },
     {
       "igdb_id": 314463,
@@ -951750,6 +951975,11 @@
       "igdb_id": 157911,
       "game_name": "The Forsaken Ruins",
       "file": "missing/T/157911-the-forsaken-ruins.json"
+    },
+    {
+      "igdb_id": 384820,
+      "game_name": "The Forsaken Tomb",
+      "file": "missing/T/384820-the-forsaken-tomb.json"
     },
     {
       "igdb_id": 346730,
@@ -989262,6 +989492,11 @@
       "file": "missing/T/394374-those-who-rule-ii.json"
     },
     {
+      "igdb_id": 384879,
+      "game_name": "Thot on Trial",
+      "file": "missing/T/384879-thot-on-trial.json"
+    },
+    {
       "igdb_id": 134566,
       "game_name": "Thou Shalt Be Brave",
       "file": "missing/T/134566-thou-shalt-be-brave.json"
@@ -989480,6 +989715,11 @@
       "igdb_id": 192965,
       "game_name": "Three Finger Battle Arena",
       "file": "missing/T/192965-three-finger-battle-arena.json"
+    },
+    {
+      "igdb_id": 384896,
+      "game_name": "Three Forbidden Books: Eins",
+      "file": "missing/T/384896-three-forbidden-books-eins.json"
     },
     {
       "igdb_id": 379352,
@@ -989900,6 +990140,11 @@
       "igdb_id": 417510,
       "game_name": "Thrift Store Treasure: Hidden Objects",
       "file": "missing/T/417510-thrift-store-treasure-hidden-objects.json"
+    },
+    {
+      "igdb_id": 384818,
+      "game_name": "Thriftgirl",
+      "file": "missing/T/384818-thriftgirl.json"
     },
     {
       "igdb_id": 391109,
@@ -1113345,6 +1113590,11 @@
       "igdb_id": 198171,
       "game_name": "Zenkoku Dekotora Matsuri",
       "file": "missing/Z/198171-zenkoku-dekotora-matsuri.json"
+    },
+    {
+      "igdb_id": 384881,
+      "game_name": "Zenku",
+      "file": "missing/Z/384881-zenku.json"
     },
     {
       "igdb_id": 316048,
