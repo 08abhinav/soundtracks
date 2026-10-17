@@ -8392,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Fruits | 399729 | [399729-color-splash-fruits.json](./399729-color-splash-fruits.json) |
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
+| Color Splash: Mushrooms | 383164 | [383164-color-splash-mushrooms.json](./383164-color-splash-mushrooms.json) |
 | Color Splash: Predators | 289544 | [289544-color-splash-predators.json](./289544-color-splash-predators.json) |
 | Color Splash: Reptiles | 408541 | [408541-color-splash-reptiles.json](./408541-color-splash-reptiles.json) |
 | Color Story: Pixa's Quest | 205074 | [205074-color-story-pixas-quest.json](./205074-color-story-pixas-quest.json) |
@@ -14219,6 +14220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
+| Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
