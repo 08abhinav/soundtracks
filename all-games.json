@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:02:08.212Z",
-  "total_soundtracks": 2017,
+  "generated_at": "2026-10-17T12:10:25.998Z",
+  "total_soundtracks": 2018,
   "games": [
     {
       "igdb_id": 7522,
@@ -21759,6 +21759,20 @@
           "spotify_url": "https://open.spotify.com/album/3dB7GJBPHfEPtaQ38yLBpX",
           "apple_music_url": "https://music.apple.com/us/album/thronebreaker-the-witcher-tales-original-game-soundtrack/1445188244",
           "album_link_url": "https://album.link/i/1445188244"
+        }
+      ]
+    },
+    {
+      "igdb_id": 9646,
+      "game_name": "Time Commando",
+      "game_url": "https://ostdb.net/games/time-commando",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e8d06b811ebe591e4fbf7585",
+      "albums": [
+        {
+          "album_name": "Time Commando (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/52LJAp9APCut3I0fD4xXtb",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
