@@ -722,6 +722,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273dcbca161a7787a3fe0cb429c" width="60" /> | [Hollow Knight](https://ostdb.net/games/hollow-knight) | **Hollow Knight (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgGOMRY7H4hl6OQi5wb2Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9bb10e381fbd4f78ce2a511" width="60" /> | [Hollow Knight: Silksong](https://ostdb.net/games/hollow-knight-silksong) | **Hollow Knight: Silksong (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2mvEK1s3lpArLiUVRkqoD5) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/fd/c6/7efdc675-ae42-b13f-3009-5f10da4bdb9d/8721093103479.png/600x600bb.jpg" width="60" /> | [Homeworld 3](https://ostdb.net/games/homeworld-3) | **Homeworld 3 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4) · [Album](https://album.link/i/1745081505) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ed80d740f0a1dc2d0624d91" width="60" /> | [Horizon Chase Turbo](https://ostdb.net/games/horizon-chase-turbo) | **Horizon Chase Turbo (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3RSQstdNi5EQNVkTnNlgHa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d93472745d93f50a571b1514" width="60" /> | [Horizon Forbidden West](https://ostdb.net/games/horizon-forbidden-west) | **Horizon Forbidden West (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739524909c26d6f8f465638c25" width="60" /> | [Horizon Forbidden West: Burning Shores](https://ostdb.net/games/horizon-forbidden-west-burning-shores) | **Horizon Forbidden West: Burning Shores (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3rXbcaodz5tzIIeSRCSon8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273508b0d1163de5fc62f6cc914" width="60" /> | [Horizon Zero Dawn](https://ostdb.net/games/horizon-zero-dawn) | **Horizon Zero Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1tnJU98uHAWkkAsRekqtTe) |
@@ -1759,4 +1760,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2076 soundtracks · last updated 2026-10-17T15:25:50.064Z_
+_2077 soundtracks · last updated 2026-10-17T15:25:57.710Z_
