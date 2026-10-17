@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi | 20035 | [20035-koi.json](./20035-koi.json) |
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
+| Koi Frenzy | 410725 | [410725-koi-frenzy.json](./410725-koi-frenzy.json) |
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
@@ -3879,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosodate Quiz: Motto My Angel | 167092 | [167092-kosodate-quiz-motto-my-angel.json](./167092-kosodate-quiz-motto-my-angel.json) |
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
+| Kota: The Survival | 410717 | [410717-kota-the-survival.json](./410717-kota-the-survival.json) |
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Kotama and Academy Citadel | 368815 | [368815-kotama-and-academy-citadel.json](./368815-kotama-and-academy-citadel.json) |
 | Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000 | 387714 | [387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json](./387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json) |
