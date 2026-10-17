@@ -5881,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
 | Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
+| Dice of Fate | 413452 | [413452-dice-of-fate.json](./413452-dice-of-fate.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
 | Dice of Life | 184466 | [184466-dice-of-life.json](./184466-dice-of-life.json) |
@@ -11376,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift City Underground | 235662 | [235662-drift-city-underground.json](./235662-drift-city-underground.json) |
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
+| Drift Club | 413582 | [413582-drift-club.json](./413582-drift-club.json) |
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Experience Japan | 234533 | [234533-drift-experience-japan.json](./234533-drift-experience-japan.json) |
@@ -12211,6 +12213,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Cats | 246309 | [246309-duet-cats.json](./246309-duet-cats.json) |
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
+| Duet Night Abyss: The Firmament Unbound | 413589 | [413589-duet-night-abyss-the-firmament-unbound.json](./413589-duet-night-abyss-the-firmament-unbound.json) |
+| Duet Night Abyss: The Wind Awakening, Part 2 | 413574 | [413574-duet-night-abyss-the-wind-awakening-part-2.json](./413574-duet-night-abyss-the-wind-awakening-part-2.json) |
 | Duex | 116172 | [116172-duex.json](./116172-duex.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dug Out | 334314 | [334314-dug-out.json](./334314-dug-out.json) |
