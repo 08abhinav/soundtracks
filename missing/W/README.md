@@ -6282,7 +6282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms Rumble: Legends Pack | 227318 | [227318-worms-rumble-legends-pack.json](./227318-worms-rumble-legends-pack.json) |
 | Worms United | 47081 | [47081-worms-united.json](./47081-worms-united.json) |
-| Worms W.M.D | 19696 | [19696-worms-w-m-d.json](./19696-worms-w-m-d.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
 | Worms World Party | 6294 | [6294-worms-world-party.json](./6294-worms-world-party.json) |
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
