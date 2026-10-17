@@ -9934,6 +9934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
+| Mizi No!: Paperwork | 382491 | [382491-mizi-no-paperwork.json](./382491-mizi-no-paperwork.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
@@ -11863,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
 | Morbius: The Utopia Conspiracy | 90226 | [90226-morbius-the-utopia-conspiracy.json](./90226-morbius-the-utopia-conspiracy.json) |
+| Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
@@ -13055,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
+| Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
@@ -13943,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
+| Mutasmagoria | 382498 | [382498-mutasmagoria.json](./382498-mutasmagoria.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Mutation | 146539 | [146539-mutation.json](./146539-mutation.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
@@ -14635,6 +14639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
+| My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
 | My Lovely Series | 313440 | [313440-my-lovely-series.json](./313440-my-lovely-series.json) |
