@@ -5249,6 +5249,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
 | Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
+| Pioneers of Pagonia: A Touch of Spring Cosmetics Pack | 402238 | [402238-pioneers-of-pagonia-a-touch-of-spring-cosmetics-pack.json](./402238-pioneers-of-pagonia-a-touch-of-spring-cosmetics-pack.json) |
+| Pioneers of Pagonia: Builder's Edition | 402237 | [402237-pioneers-of-pagonia-builders-edition.json](./402237-pioneers-of-pagonia-builders-edition.json) |
+| Pioneers of Pagonia: Meadowsong | 402240 | [402240-pioneers-of-pagonia-meadowsong.json](./402240-pioneers-of-pagonia-meadowsong.json) |
 | Pioneers of the Coast | 341575 | [341575-pioneers-of-the-coast.json](./341575-pioneers-of-the-coast.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pioner | 148454 | [148454-pioner.json](./148454-pioner.json) |
@@ -12586,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
+| Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt Golf | 242458 | [242458-putt-golf.json](./242458-putt-golf.json) |
