@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 51: Jungle Adventure | 378553 | [378553-fantasy-mosaics-51-jungle-adventure.json](./378553-fantasy-mosaics-51-jungle-adventure.json) |
 | Fantasy Mosaics 52: Enchanted Woods | 381365 | [381365-fantasy-mosaics-52-enchanted-woods.json](./381365-fantasy-mosaics-52-enchanted-woods.json) |
 | Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
+| Fantasy Mosaics 6: Into the Unknown | 365468 | [365468-fantasy-mosaics-6-into-the-unknown.json](./365468-fantasy-mosaics-6-into-the-unknown.json) |
 | Fantasy Mosaics 7: Our Home | 96838 | [96838-fantasy-mosaics-7-our-home.json](./96838-fantasy-mosaics-7-our-home.json) |
 | Fantasy Mosaics 9: Portal in the Woods | 96839 | [96839-fantasy-mosaics-9-portal-in-the-woods.json](./96839-fantasy-mosaics-9-portal-in-the-woods.json) |
 | Fantasy Mountains | 401027 | [401027-fantasy-mountains.json](./401027-fantasy-mountains.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens: The Last of Cats | 295868 | [295868-find-kittens-the-last-of-cats.json](./295868-find-kittens-the-last-of-cats.json) |
 | Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
+| Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find Me: Horror Game | 127772 | [127772-find-me-horror-game.json](./127772-find-me-horror-game.json) |
