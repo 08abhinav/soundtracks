@@ -858,6 +858,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect Legendary Edition](https://ostdb.net/games/mass-effect-legendary-edition) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect Trilogy](https://ostdb.net/games/mass-effect-trilogy) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g)<br>**Mass Effect 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KnSz1vjaGwl1KcfkTf6Nj)<br>**Mass Effect 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2QfSNNISIlORduwQniMz91) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6919d7a471d663ad15faca8" width="60" /> | [Mass Effect: Andromeda](https://ostdb.net/games/mass-effect-andromeda) | **Mass Effect Andromeda (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1B5vWuDmlBjH3DzFT5fsUB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735105625d50107da8f5affd22" width="60" /> | [Massive Chalice](https://ostdb.net/games/massive-chalice) | **Massive Chalice (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2qInh9XMnHXDFXINUun5CO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a8de7e6cef29bb4b1de099d" width="60" /> | [Max Payne 3](https://ostdb.net/games/max-payne-3) | **Max Payne 3 Official Soundtrack** · [Spotify](https://open.spotify.com/album/5WWosyWLObT7BowuLqcnar) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/aa/7d/baaa7dd3-9906-ccf3-ac7c-ddde35df25fe/cover.jpg/1000x1000bb.jpg" width="60" /> | [Mecha Break](https://ostdb.net/games/mecha-break) | **UPGRADE(D) [feat. Laco] [Theme Song from "Mecha Break"] - Single** · [Apple Music](https://music.apple.com/us/album/upgrade-d-feat-laco-theme-song-from-mecha-break-single/1818749629?uo=4) · [Album](https://album.link/i/1818749629) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360d5f1b43c3a1312dbb2924" width="60" /> | [Medal of Honor](https://ostdb.net/games/medal-of-honor) | **Medal of Honor (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/0LUy77n2ADBs4QhP3wD2Ss)<br>**Medal of Honor (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6m03Ph97WTSmQIERO6NrA8) |
@@ -1666,4 +1667,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1983 soundtracks · last updated 2026-10-17T11:21:48.323Z_
+_1984 soundtracks · last updated 2026-10-17T11:21:55.098Z_
