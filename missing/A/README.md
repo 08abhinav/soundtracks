@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
+| Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
+| Alien Agent X | 385882 | [385882-alien-agent-x.json](./385882-alien-agent-x.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
@@ -7581,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
+| Antarctic Adventure | 385990 | [385990-antarctic-adventure.json](./385990-antarctic-adventure.json) |
 | Antarctic Expedition Mahjong Connect | 89853 | [89853-antarctic-expedition-mahjong-connect.json](./89853-antarctic-expedition-mahjong-connect.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Grave | 405940 | [405940-antarctic-grave.json](./405940-antarctic-grave.json) |
@@ -9520,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
 | Arkan: The Dog Adventurer | 122806 | [122806-arkan-the-dog-adventurer.json](./122806-arkan-the-dog-adventurer.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
+| Arkandian Legends 1: Crusade | 385964 | [385964-arkandian-legends-1-crusade.json](./385964-arkandian-legends-1-crusade.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
 | Arkanoid | 273037 | [273037-arkanoid.json](./273037-arkanoid.json) |
