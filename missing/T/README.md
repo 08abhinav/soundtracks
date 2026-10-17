@@ -8978,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Master of Time | 159195 | [159195-the-legend-of-zelda-master-of-time.json](./159195-the-legend-of-zelda-master-of-time.json) |
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
+| The Legend of Zelda: Mirror of Worlds | 412171 | [412171-the-legend-of-zelda-mirror-of-worlds.json](./412171-the-legend-of-zelda-mirror-of-worlds.json) |
 | The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
@@ -16654,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
+| Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
 | Tiny Mortals VR | 118135 | [118135-tiny-mortals-vr.json](./118135-tiny-mortals-vr.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
@@ -17157,6 +17159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
+| Toaru Majutsu no Index | 412324 | [412324-toaru-majutsu-no-index.json](./412324-toaru-majutsu-no-index.json) |
+| Toaru Majutsu No Index: Struggle Battle | 412322 | [412322-toaru-majutsu-no-index-struggle-battle.json](./412322-toaru-majutsu-no-index-struggle-battle.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
@@ -17359,6 +17363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
+| Toki no Komorebi | 412332 | [412332-toki-no-komorebi.json](./412332-toki-no-komorebi.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Time Trial | 105194 | [105194-toki-time-trial.json](./105194-toki-time-trial.json) |
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
@@ -19458,6 +19463,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3 | 408990 | [408990-toy-story-3.json](./408990-toy-story-3.json) |
 | Toy Story 3 | 77156 | [77156-toy-story-3.json](./77156-toy-story-3.json) |
 | Toy Story 3: The Video Game | 202117 | [202117-toy-story-3-the-video-game.json](./202117-toy-story-3-the-video-game.json) |
+| Toy Story 5 Buzz Lightyear Game & Go | 412230 | [412230-toy-story-5-buzz-lightyear-game-and-go.json](./412230-toy-story-5-buzz-lightyear-game-and-go.json) |
+| Toy Story 5 Explore & Learn Lilypad | 412231 | [412231-toy-story-5-explore-and-learn-lilypad.json](./412231-toy-story-5-explore-and-learn-lilypad.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Mania! | 220267 | [220267-toy-story-mania.json](./220267-toy-story-mania.json) |
@@ -20950,6 +20957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Siberian Legends: Novosibirsk | 291691 | [291691-trans-siberian-legends-novosibirsk.json](./291691-trans-siberian-legends-novosibirsk.json) |
 | Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
+| Trans': Boku to Atashi no Kyoukaisen | 412252 | [412252-trans-boku-to-atashi-no-kyoukaisen.json](./412252-trans-boku-to-atashi-no-kyoukaisen.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transatlantic Liners 1889 | 183805 | [183805-transatlantic-liners-1889.json](./183805-transatlantic-liners-1889.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
