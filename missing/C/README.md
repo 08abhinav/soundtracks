@@ -10081,6 +10081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copter Crisis | 51123 | [51123-copter-crisis.json](./51123-copter-crisis.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
+| Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
@@ -14498,6 +14499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
+| Cython Cat | 407193 | [407193-cython-cat.json](./407193-cython-cat.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
 | Cytoid | 174630 | [174630-cytoid.json](./174630-cytoid.json) |
