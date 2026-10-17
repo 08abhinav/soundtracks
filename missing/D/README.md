@@ -11979,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk as I Like: Gensokyo Drinking Attitude | 280719 | [280719-drunk-as-i-like-gensokyo-drinking-attitude.json](./280719-drunk-as-i-like-gensokyo-drinking-attitude.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Dad Vs Family | 395778 | [395778-drunk-dad-vs-family.json](./395778-drunk-dad-vs-family.json) |
+| Drunk Driving Simulator | 385980 | [385980-drunk-driving-simulator.json](./385980-drunk-driving-simulator.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Fred in the Cell | 320915 | [320915-drunk-fred-in-the-cell.json](./320915-drunk-fred-in-the-cell.json) |
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
@@ -12002,6 +12003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
+| Drunken Hog | 385950 | [385950-drunken-hog.json](./385950-drunken-hog.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
 | Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
