@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandbox Play | 184364 | [184364-sandbox-play.json](./184364-sandbox-play.json) |
 | Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
+| Sandbox Survivors | 415842 | [415842-sandbox-survivors.json](./415842-sandbox-survivors.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
 | Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
+| Secret Cats: Independence Day | 416133 | [416133-secret-cats-independence-day.json](./416133-secret-cats-independence-day.json) |
 | Secret Cats: Pirates | 306611 | [306611-secret-cats-pirates.json](./306611-secret-cats-pirates.json) |
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
@@ -22037,6 +22039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
 | Super Laydock: Mission Striker | 72144 | [72144-super-laydock-mission-striker.json](./72144-super-laydock-mission-striker.json) |
+| Super League | 415935 | [415935-super-league.json](./415935-super-league.json) |
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
@@ -23369,6 +23372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
+| Super Wiloo Deluxe | 415862 | [415862-super-wiloo-deluxe.json](./415862-super-wiloo-deluxe.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
