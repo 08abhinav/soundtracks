@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
+| Whitedary | 400700 | [400700-whitedary.json](./400700-whitedary.json) |
 | Whitehaven | 152683 | [152683-whitehaven.json](./152683-whitehaven.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
@@ -4162,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winguel | 54210 | [54210-winguel.json](./54210-winguel.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
+| Winhack 95 | 400710 | [400710-winhack-95.json](./400710-winhack-95.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
 | Wink Mafia | 423236 | [423236-wink-mafia.json](./423236-wink-mafia.json) |
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
