@@ -4315,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
+| Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bison Battle Machine | 297906 | [297906-bison-battle-machine.json](./297906-bison-battle-machine.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
+| Bist Squad | 372740 | [372740-bist-squad.json](./372740-bist-squad.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
