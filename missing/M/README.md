@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
+| Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoujin Guru-guru | 44440 | [44440-mahoujin-guru-guru.json](./44440-mahoujin-guru-guru.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
+| Megalophobia | 396338 | [396338-megalophobia.json](./396338-megalophobia.json) |
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
@@ -13018,6 +13020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mudkip 3 | 323876 | [323876-mr-mudkip-3.json](./323876-mr-mudkip-3.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
+| Mr. Mullet | 396424 | [396424-mr-mullet.json](./396424-mr-mullet.json) |
 | Mr. Nibbles Forever | 33372 | [33372-mr-nibbles-forever.json](./33372-mr-nibbles-forever.json) |
 | Mr. Nutz | 249142 | [249142-mr-nutz.json](./249142-mr-nutz.json) |
 | Mr. Nutz | 249143 | [249143-mr-nutz.json](./249143-mr-nutz.json) |
