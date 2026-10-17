@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | B99 | 133265 | [133265-b99.json](./133265-b99.json) |
 | B99 Overclocked | 288664 | [288664-b99-overclocked.json](./288664-b99-overclocked.json) |
+| Ba Bị | 381312 | [381312-ba-bi.json](./381312-ba-bi.json) |
 | Ba Da Bump | 88789 | [88789-ba-da-bump.json](./88789-ba-da-bump.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Revamped | 381187 | [381187-ball-revamped.json](./381187-ball-revamped.json) |
 | Ball Revamped 2: Metaphysik | 381191 | [381191-ball-revamped-2-metaphysik.json](./381191-ball-revamped-2-metaphysik.json) |
 | Ball Revamped III: Andromeda | 381213 | [381213-ball-revamped-iii-andromeda.json](./381213-ball-revamped-iii-andromeda.json) |
+| Ball Revamped III: Gemini | 381317 | [381317-ball-revamped-iii-gemini.json](./381317-ball-revamped-iii-gemini.json) |
 | Ball Roller | 384713 | [384713-ball-roller.json](./384713-ball-roller.json) |
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
