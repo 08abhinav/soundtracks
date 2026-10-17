@@ -5318,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
+| Big Tits | 393375 | [393375-big-tits.json](./393375-big-tits.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
@@ -12652,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
 | Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
+| Bussy Master: Ropeshooter Ranch | 393379 | [393379-bussy-master-ropeshooter-ranch.json](./393379-bussy-master-ropeshooter-ranch.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a Block 2 | 322070 | [322070-bust-a-block-2.json](./322070-bust-a-block-2.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
