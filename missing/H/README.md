@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Hunt of Two Temptresses | 368100 | [368100-hentai-tales-hunt-of-two-temptresses.json](./368100-hentai-tales-hunt-of-two-temptresses.json) |
 | Hentai Tales: Infinite Climax - Endless Ecstasy | 398650 | [398650-hentai-tales-infinite-climax-endless-ecstasy.json](./398650-hentai-tales-infinite-climax-endless-ecstasy.json) |
 | Hentai Tales: Isekai Uncle Reversal | 367029 | [367029-hentai-tales-isekai-uncle-reversal.json](./367029-hentai-tales-isekai-uncle-reversal.json) |
+| Hentai Tales: Isekai Uncle Reversal 2 | 367709 | [367709-hentai-tales-isekai-uncle-reversal-2.json](./367709-hentai-tales-isekai-uncle-reversal-2.json) |
 | Hentai Tales: Mysterious Clinic | 291094 | [291094-hentai-tales-mysterious-clinic.json](./291094-hentai-tales-mysterious-clinic.json) |
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
 | Hentai Tales: Saimin Kouhai | 340454 | [340454-hentai-tales-saimin-kouhai.json](./340454-hentai-tales-saimin-kouhai.json) |
