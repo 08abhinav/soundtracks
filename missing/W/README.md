@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
+| Wild Hive | 410287 | [410287-wild-hive.json](./410287-wild-hive.json) |
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
 | Wild Horse Racing | 275139 | [275139-wild-horse-racing.json](./275139-wild-horse-racing.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
+| Witching Hour | 410130 | [410130-witching-hour.json](./410130-witching-hour.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
