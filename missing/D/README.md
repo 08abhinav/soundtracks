@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
+| Demise: Revenge of the Tavern Keeper | 415940 | [415940-demise-revenge-of-the-tavern-keeper.json](./415940-demise-revenge-of-the-tavern-keeper.json) |
 | Demise: Survival Uncharted | 260311 | [260311-demise-survival-uncharted.json](./260311-demise-survival-uncharted.json) |
 | Demise: The Revelation | 69922 | [69922-demise-the-revelation.json](./69922-demise-the-revelation.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
@@ -6230,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
+| Digimon Story Time Stranger: A Hero's Eternal Legacy | 416127 | [416127-digimon-story-time-stranger-a-heros-eternal-legacy.json](./416127-digimon-story-time-stranger-a-heros-eternal-legacy.json) |
 | Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
 | Digimon Story: Cyber Sleuth | 15705 | [15705-digimon-story-cyber-sleuth.json](./15705-digimon-story-cyber-sleuth.json) |
@@ -8227,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
+| Doko no Donata no Kanjou Root | 415854 | [415854-doko-no-donata-no-kanjou-root.json](./415854-doko-no-donata-no-kanjou-root.json) |
 | Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
