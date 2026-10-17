@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
+| Nightmare Pick | 374925 | [374925-nightmare-pick.json](./374925-nightmare-pick.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
+| Nocturnal Sun | 374926 | [374926-nocturnal-sun.json](./374926-nocturnal-sun.json) |
 | Nocturnal Throne | 373732 | [373732-nocturnal-throne.json](./373732-nocturnal-throne.json) |
 | Nocturnal Visit | 177290 | [177290-nocturnal-visit.json](./177290-nocturnal-visit.json) |
 | Nocturnal Visitors | 226134 | [226134-nocturnal-visitors.json](./226134-nocturnal-visitors.json) |
