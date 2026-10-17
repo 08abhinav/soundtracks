@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
 | Haengbulhaeng: Haengbogui Sijageun Jigeumbuteo | 264543 | [264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json](./264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
+| Haex | 404685 | [404685-haex.json](./404685-haex.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
 | Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Blast | 341604 | [341604-hex-blast.json](./341604-hex-blast.json) |
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
+| Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
@@ -6277,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
 | Holy Sword Rave Ranciel Story | 95585 | [95585-holy-sword-rave-ranciel-story.json](./95585-holy-sword-rave-ranciel-story.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
+| Holy Valkyrie Exs-Tia F Parallel Episode 2: Reunion | 404653 | [404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json](./404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json) |
 | Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
 | Holy Valkyrie Exs-Tia TS Parallel Episode 3: Twilight Sabre | 404785 | [404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json](./404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json) |
 | Holy Valkyrie EXS-TiA: Concerto 1 | 322858 | [322858-holy-valkyrie-exs-tia-concerto-1.json](./322858-holy-valkyrie-exs-tia-concerto-1.json) |
