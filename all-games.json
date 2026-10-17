@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:21:34.528Z",
-  "total_soundtracks": 1981,
+  "generated_at": "2026-10-17T11:21:41.378Z",
+  "total_soundtracks": 1982,
   "games": [
     {
       "igdb_id": 7522,
@@ -10251,6 +10251,20 @@
         {
           "album_name": "If Found (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/03Z1llAQxqTVmhCfq2lFzz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 23188,
+      "game_name": "Immortal Redneck",
+      "game_url": "https://ostdb.net/games/immortal-redneck",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27301386fba8d6186e82c9f87d5",
+      "albums": [
+        {
+          "album_name": "Immortal Redneck (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6q4zjAxiHxrlo8MlZcqXgI",
           "apple_music_url": "",
           "album_link_url": ""
         }
