@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
+| Warlords Battleground: Extraction | 368792 | [368792-warlords-battleground-extraction.json](./368792-warlords-battleground-extraction.json) |
 | Warlords Classic Strategy | 197718 | [197718-warlords-classic-strategy.json](./197718-warlords-classic-strategy.json) |
 | Warlords DS | 79562 | [79562-warlords-ds.json](./79562-warlords-ds.json) |
 | Warlords I + II | 154234 | [154234-warlords-i-ii.json](./154234-warlords-i-ii.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
 | Welcome to the Dark Place | 121599 | [121599-welcome-to-the-dark-place.json](./121599-welcome-to-the-dark-place.json) |
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
+| Welcome to the Dungeon | 368789 | [368789-welcome-to-the-dungeon.json](./368789-welcome-to-the-dungeon.json) |
 | Welcome to the Endgame | 263947 | [263947-welcome-to-the-endgame.json](./263947-welcome-to-the-endgame.json) |
 | Welcome to the Future | 70096 | [70096-welcome-to-the-future.json](./70096-welcome-to-the-future.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
