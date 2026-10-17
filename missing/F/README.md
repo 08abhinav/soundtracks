@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
+| Fairy Tale Plan | 405974 | [405974-fairy-tale-plan.json](./405974-fairy-tale-plan.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
 | Fairy Tale Quest | 146618 | [146618-fairy-tale-quest.json](./146618-fairy-tale-quest.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Lights: The Crypt – Escape | 315795 | [315795-falling-lights-the-crypt-escape.json](./315795-falling-lights-the-crypt-escape.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
+| Falling Petals: Bloom Edition | 405976 | [405976-falling-petals-bloom-edition.json](./405976-falling-petals-bloom-edition.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
@@ -1690,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
+| Far Mining | 405984 | [405984-far-mining.json](./405984-far-mining.json) |
 | Far North Survival | 146065 | [146065-far-north-survival.json](./146065-far-north-survival.json) |
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
@@ -4996,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
 | Five Nights with Mac Tonight | 268031 | [268031-five-nights-with-mac-tonight.json](./268031-five-nights-with-mac-tonight.json) |
 | Five Nights with Mac Tonight 2 | 305326 | [305326-five-nights-with-mac-tonight-2.json](./305326-five-nights-with-mac-tonight-2.json) |
+| Five Nights with Maids | 405935 | [405935-five-nights-with-maids.json](./405935-five-nights-with-maids.json) |
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
