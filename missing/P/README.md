@@ -5876,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Pixie | 312770 | [312770-pixel-pixie.json](./312770-pixel-pixie.json) |
+| Pixel Place | 363176 | [363176-pixel-place.json](./363176-pixel-place.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
