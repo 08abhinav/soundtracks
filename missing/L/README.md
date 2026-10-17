@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Lavi Quest | 55010 | [55010-lavi-quest.json](./55010-lavi-quest.json) |
+| LaVonne's Lemons Idle | 402229 | [402229-lavonnes-lemons-idle.json](./402229-lavonnes-lemons-idle.json) |
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
 | Lost to Time | 143446 | [143446-lost-to-time.json](./143446-lost-to-time.json) |
 | Lost Tomb | 23503 | [23503-lost-tomb.json](./23503-lost-tomb.json) |
+| Lost Totem Trajipon! | 402222 | [402222-lost-totem-trajipon.json](./402222-lost-totem-trajipon.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
