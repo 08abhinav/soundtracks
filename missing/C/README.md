@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
+| Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
 | Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
 | Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
@@ -4208,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie in the Moistverse of Madness | 192257 | [192257-charlie-in-the-moistverse-of-madness.json](./192257-charlie-in-the-moistverse-of-madness.json) |
 | Charlie in Underworld! | 212503 | [212503-charlie-in-underworld.json](./212503-charlie-in-underworld.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
+| Charlie Sheen: Winning | 388111 | [388111-charlie-sheen-winning.json](./388111-charlie-sheen-winning.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
 | Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
@@ -9986,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
+| Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
 | Cooking Companions | 132788 | [132788-cooking-companions.json](./132788-cooking-companions.json) |
 | Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
@@ -11402,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
+| Crash Team Racing | 388117 | [388117-crash-team-racing.json](./388117-crash-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
 | Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Cove Cruiser Kart Body + Tropic Swirl Decal | 325137 | [325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json](./325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json) |
