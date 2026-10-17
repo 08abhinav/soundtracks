@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
 | Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
 | Dead Party | 397029 | [397029-dead-party.json](./397029-dead-party.json) |
+| Dead Patrol | 396458 | [396458-dead-patrol.json](./396458-dead-patrol.json) |
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 2 | 327932 | [327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json](./327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json) |
+| Dragon Ball: Xenoverse 2 - Future Saga: Chapter 3 | 396449 | [396449-dragon-ball-xenoverse-2-future-saga-chapter-3.json](./396449-dragon-ball-xenoverse-2-future-saga-chapter-3.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 4 | 376250 | [376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json](./376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice Pack 1 | 226333 | [226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json](./226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
