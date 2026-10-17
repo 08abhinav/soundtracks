@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
 | The Ash Remembers | 415267 | [415267-the-ash-remembers.json](./415267-the-ash-remembers.json) |
+| The Ashen Oz | 389497 | [389497-the-ashen-oz.json](./389497-the-ashen-oz.json) |
 | The Ashes of the Fallen Fires | 181132 | [181132-the-ashes-of-the-fallen-fires.json](./181132-the-ashes-of-the-fallen-fires.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
@@ -18715,6 +18716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
 | Totally Safe Railway Co | 419170 | [419170-totally-safe-railway-co.json](./419170-totally-safe-railway-co.json) |
+| Totally Secure Airport | 389505 | [389505-totally-secure-airport.json](./389505-totally-secure-airport.json) |
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
 | Totally Spies! | 359460 | [359460-totally-spies.json](./359460-totally-spies.json) |
 | Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
