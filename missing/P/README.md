@@ -11588,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
 | Project:; Cold Case.Mirage | 337066 | [337066-project-cold-case-mirage.json](./337066-project-cold-case-mirage.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
+| Project.Tasker | 381301 | [381301-project-tasker.json](./381301-project-tasker.json) |
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
 | Projectile Dysfunction | 138511 | [138511-projectile-dysfunction.json](./138511-projectile-dysfunction.json) |
@@ -12384,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
+| Puppet Pals | 381413 | [381413-puppet-pals.json](./381413-puppet-pals.json) |
 | Puppet Saurus | 330793 | [330793-puppet-saurus.json](./330793-puppet-saurus.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
 | Puppet Story | 123886 | [123886-puppet-story.json](./123886-puppet-story.json) |
