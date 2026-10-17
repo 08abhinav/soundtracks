@@ -3937,6 +3937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | Willi's Haunted Hayride | 30654 | [30654-willis-haunted-hayride.json](./30654-willis-haunted-hayride.json) |
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
+| William and Sly | 377899 | [377899-william-and-sly.json](./377899-william-and-sly.json) |
+| William and Sly 2 | 377900 | [377900-william-and-sly-2.json](./377900-william-and-sly-2.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
