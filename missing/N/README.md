@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Witcher - Mirror | 269234 | [269234-night-of-full-moon-witcher-mirror.json](./269234-night-of-full-moon-witcher-mirror.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
+| Night of Nightmare | 391025 | [391025-night-of-nightmare.json](./391025-night-of-nightmare.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
