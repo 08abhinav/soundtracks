@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:37:01.983Z",
-  "total_soundtracks": 2095,
+  "generated_at": "2026-10-17T15:37:10.592Z",
+  "total_soundtracks": 2096,
   "games": [
     {
       "igdb_id": 7522,
@@ -19187,6 +19187,20 @@
         {
           "album_name": "SOULCALIBUR Ⅳ ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/2KXbLwn7OWdJMTPzTCJwhv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1013,
+      "game_name": "SoulCalibur V",
+      "game_url": "https://ostdb.net/games/soulcalibur-v",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9c4a3958770fbd09eb502d1",
+      "albums": [
+        {
+          "album_name": "SOULCALIBUR Ⅴ ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/56G1fI0U95k7PZaZ5SxL1U",
           "apple_music_url": "",
           "album_link_url": ""
         }
