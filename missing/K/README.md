@@ -165,9 +165,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
+| Kaiju Cleaner Simulator | 368798 | [368798-kaiju-cleaner-simulator.json](./368798-kaiju-cleaner-simulator.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
+| Kaiju Cracking Corporation | 368807 | [368807-kaiju-cracking-corporation.json](./368807-kaiju-cracking-corporation.json) |
 | Kaiju Crush | 147814 | [147814-kaiju-crush.json](./147814-kaiju-crush.json) |
 | Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Feeder | 305320 | [305320-kaiju-feeder.json](./305320-kaiju-feeder.json) |
