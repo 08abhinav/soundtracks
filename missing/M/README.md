@@ -5856,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Liebe II: Hokori to Seigi to Ai | 203178 | [203178-meine-liebe-ii-hokori-to-seigi-to-ai.json](./203178-meine-liebe-ii-hokori-to-seigi-to-ai.json) |
+| Meine Reise | 395851 | [395851-meine-reise.json](./395851-meine-reise.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
 | Meine Tierklinik | 78533 | [78533-meine-tierklinik.json](./78533-meine-tierklinik.json) |
@@ -8100,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
+| Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
