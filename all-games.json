@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:21:04.027Z",
-  "total_soundtracks": 2058,
+  "generated_at": "2026-10-17T15:21:12.023Z",
+  "total_soundtracks": 2059,
   "games": [
     {
       "igdb_id": 7522,
@@ -9932,6 +9932,20 @@
           "album_name": "Halo 4: Forward Unto Dawn (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5QaiPJKkEujdDDAE4zx3Zm",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9101,
+      "game_name": "Hand of Fate",
+      "game_url": "https://ostdb.net/games/hand-of-fate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b40605db9f72bef3909b29f",
+      "albums": [
+        {
+          "album_name": "Hand of Fate (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0v5WURE15pAe8RBMVM5S4S",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
