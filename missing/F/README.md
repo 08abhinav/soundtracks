@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
+| Fantasy and Girls | 367166 | [367166-fantasy-and-girls.json](./367166-fantasy-and-girls.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
+| Find the Demon | 367161 | [367161-find-the-demon.json](./367161-find-the-demon.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
@@ -8814,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
+| From Lamer to Guru | 367156 | [367156-from-lamer-to-guru.json](./367156-from-lamer-to-guru.json) |
 | From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
@@ -9178,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
+| Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
 | Fruta Luta | 176323 | [176323-fruta-luta.json](./176323-fruta-luta.json) |
@@ -9858,6 +9862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
+| Futanari Affairs | 367199 | [367199-futanari-affairs.json](./367199-futanari-affairs.json) |
 | Futanari di Funghi | 260333 | [260333-futanari-di-funghi.json](./260333-futanari-di-funghi.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
