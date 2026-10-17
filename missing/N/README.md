@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
 | Namida no Sokoban Special | 41295 | [41295-namida-no-sokoban-special.json](./41295-namida-no-sokoban-special.json) |
 | Namiko | 64127 | [64127-namiko.json](./64127-namiko.json) |
+| Nammo | 368794 | [368794-nammo.json](./368794-nammo.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
+| Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Devil Unleashed | 154067 | [154067-nyctophobia-devil-unleashed.json](./154067-nyctophobia-devil-unleashed.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
+| NyctoType | 368797 | [368797-nyctotype.json](./368797-nyctotype.json) |
 | Nyet | 94355 | [94355-nyet.json](./94355-nyet.json) |
 | Nyghtmare: The Ninth King | 300969 | [300969-nyghtmare-the-ninth-king.json](./300969-nyghtmare-the-ninth-king.json) |
 | Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
