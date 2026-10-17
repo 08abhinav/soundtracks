@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
+| Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
@@ -4519,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
 | Hexen: Deathkings of the Dark Citadel | 8851 | [8851-hexen-deathkings-of-the-dark-citadel.json](./8851-hexen-deathkings-of-the-dark-citadel.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
+| Hexep | 409871 | [409871-hexep.json](./409871-hexep.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
 | Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
 | Hexeptional Picture Puzzle | 134385 | [134385-hexeptional-picture-puzzle.json](./134385-hexeptional-picture-puzzle.json) |
