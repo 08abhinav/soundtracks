@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
+| Kaboom Farm | 412924 | [412924-kaboom-farm.json](./412924-kaboom-farm.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom: The Suicide Bombing Game | 174111 | [174111-kaboom-the-suicide-bombing-game.json](./174111-kaboom-the-suicide-bombing-game.json) |
 | Kaboom! | 12309 | [12309-kaboom.json](./12309-kaboom.json) |
