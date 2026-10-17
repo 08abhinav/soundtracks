@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
 | Knight Of The Earthends | 319835 | [319835-knight-of-the-earthends.json](./319835-knight-of-the-earthends.json) |
 | Knight of the Hamsters | 17939 | [17939-knight-of-the-hamsters.json](./17939-knight-of-the-hamsters.json) |
+| Knight of the Keep | 379184 | [379184-knight-of-the-keep.json](./379184-knight-of-the-keep.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight of the Parking Lot | 158123 | [158123-knight-of-the-parking-lot.json](./158123-knight-of-the-parking-lot.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
+| Knight´s Quest | 379182 | [379182-knight-s-quest.json](./379182-knight-s-quest.json) |
 | Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
 | Knightcore | 398647 | [398647-knightcore.json](./398647-knightcore.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
