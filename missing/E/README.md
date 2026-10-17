@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
 | EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
+| Evoluth | 381993 | [381993-evoluth.json](./381993-evoluth.json) |
 | Evolution | 150743 | [150743-evolution.json](./150743-evolution.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 23915 | [23915-evolution.json](./23915-evolution.json) |
