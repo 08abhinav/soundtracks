@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
 | Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
+| Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Load On | 390573 | [390573-mega-load-on.json](./390573-mega-load-on.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Sudoku Plus | 59066 | [59066-mega-sudoku-plus.json](./59066-mega-sudoku-plus.json) |
 | Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
+| Mega Trons Survivors | 390051 | [390051-mega-trons-survivors.json](./390051-mega-trons-survivors.json) |
 | Mega Turrican | 85286 | [85286-mega-turrican.json](./85286-mega-turrican.json) |
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
 | Mega Typhoon | 245245 | [245245-mega-typhoon.json](./245245-mega-typhoon.json) |
@@ -6222,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
+| Memory Maze | 390031 | [390031-memory-maze.json](./390031-memory-maze.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
 | Memory Novel: Lesbian Romance | 286476 | [286476-memory-novel-lesbian-romance.json](./286476-memory-novel-lesbian-romance.json) |
 | Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
@@ -7190,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewgenics | 8042 | [8042-mewgenics.json](./8042-mewgenics.json) |
 | Méwilo | 38861 | [38861-mewilo.json](./38861-mewilo.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
+| Mewlin the Clicker | 390041 | [390041-mewlin-the-clicker.json](./390041-mewlin-the-clicker.json) |
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
 | Mewn | 212772 | [212772-mewn.json](./212772-mewn.json) |
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
@@ -11857,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
 | More Life, Dead Interface | 402246 | [402246-more-life-dead-interface.json](./402246-more-life-dead-interface.json) |
+| More Love Yuri | 390036 | [390036-more-love-yuri.json](./390036-more-love-yuri.json) |
 | More Mobile Suit Gundam Extreme Vs. 2 | 99074 | [99074-more-mobile-suit-gundam-extreme-vs-2.json](./99074-more-mobile-suit-gundam-extreme-vs-2.json) |
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
