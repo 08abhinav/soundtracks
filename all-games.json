@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:50:25.840Z",
-  "total_soundtracks": 2116,
+  "generated_at": "2026-10-17T15:50:34.220Z",
+  "total_soundtracks": 2117,
   "games": [
     {
       "igdb_id": 7522,
@@ -4219,6 +4219,20 @@
           "spotify_url": "https://open.spotify.com/album/5TxjcMSN3NclQgjNcCRaI3",
           "apple_music_url": "https://music.apple.com/us/album/command-conquer-red-alert-3-original-soundtrack/1482425987",
           "album_link_url": "https://album.link/i/1482425987"
+        }
+      ]
+    },
+    {
+      "igdb_id": 706,
+      "game_name": "Command & Conquer: Renegade",
+      "game_url": "https://ostdb.net/games/command-and-conquer-renegade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27303ae13525d4e7e67b16eb95e",
+      "albums": [
+        {
+          "album_name": "Command & Conquer: Renegade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/18SPiXOBghpKBhrqeRQUzd",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
