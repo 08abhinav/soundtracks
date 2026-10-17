@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
+| One by One | 379645 | [379645-one-by-one.json](./379645-one-by-one.json) |
 | One By One | 181139 | [181139-one-by-one.json](./181139-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
@@ -4122,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
+| Overtrick | 379623 | [379623-overtrick.json](./379623-overtrick.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
