@@ -7218,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Cruise | 105087 | [105087-miami-cruise.json](./105087-miami-cruise.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
+| Miami Menace | 409229 | [409229-miami-menace.json](./409229-miami-menace.json) |
 | Miami Nights 2: The City Is Yours | 145915 | [145915-miami-nights-2-the-city-is-yours.json](./145915-miami-nights-2-the-city-is-yours.json) |
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Life in the Spotlight | 67226 | [67226-miami-nights-life-in-the-spotlight.json](./67226-miami-nights-life-in-the-spotlight.json) |
@@ -9496,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
 | Miss Rosen's Wowtastic! Marching Band | 316732 | [316732-miss-rosens-wowtastic-marching-band.json](./316732-miss-rosens-wowtastic-marching-band.json) |
+| Miss Sasami is Losing Her Mind! | 409190 | [409190-miss-sasami-is-losing-her-mind.json](./409190-miss-sasami-is-losing-her-mind.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Sunny Patch Friends: Scavenger Hunt | 23816 | [23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json](./23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
