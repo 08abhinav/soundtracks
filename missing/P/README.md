@@ -3810,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Battle Grounds | 11324 | [11324-phantom-breaker-battle-grounds.json](./11324-phantom-breaker-battle-grounds.json) |
+| Phantom Breaker: Battle Grounds Mobile | 363670 | [363670-phantom-breaker-battle-grounds-mobile.json](./363670-phantom-breaker-battle-grounds-mobile.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
@@ -11465,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Skylab | 106509 | [106509-project-skylab.json](./106509-project-skylab.json) |
 | Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
+| Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
@@ -12411,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
 | PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
+| Punk Girl | 363660 | [363660-punk-girl.json](./363660-punk-girl.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
@@ -13243,6 +13246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Behind High Walls | 353447 | [353447-puzzling-places-behind-high-walls.json](./353447-puzzling-places-behind-high-walls.json) |
 | Puzzling Places: Cherry Blossom | 338761 | [338761-puzzling-places-cherry-blossom.json](./338761-puzzling-places-cherry-blossom.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
+| Puzzling Places: Cozy Corner | 363675 | [363675-puzzling-places-cozy-corner.json](./363675-puzzling-places-cozy-corner.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
 | Puzzling Places: EuroTrip Bundle | 353885 | [353885-puzzling-places-eurotrip-bundle.json](./353885-puzzling-places-eurotrip-bundle.json) |
 | Puzzling Places: MDRS Pack | 338762 | [338762-puzzling-places-mdrs-pack.json](./338762-puzzling-places-mdrs-pack.json) |
@@ -13285,6 +13289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Monthly Pack #9 - Greece | 353454 | [353454-puzzling-places-monthly-pack-9-greece.json](./353454-puzzling-places-monthly-pack-9-greece.json) |
 | Puzzling Places: New York City | 353487 | [353487-puzzling-places-new-york-city.json](./353487-puzzling-places-new-york-city.json) |
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
+| Puzzling Places: Return to Greece | 363676 | [363676-puzzling-places-return-to-greece.json](./363676-puzzling-places-return-to-greece.json) |
 | Puzzling Places: Summer Dive | 353475 | [353475-puzzling-places-summer-dive.json](./353475-puzzling-places-summer-dive.json) |
 | Puzzling Places: The Wave | 353466 | [353466-puzzling-places-the-wave.json](./353466-puzzling-places-the-wave.json) |
 | Puzzling Places: Undead Afterparty | 379660 | [379660-puzzling-places-undead-afterparty.json](./379660-puzzling-places-undead-afterparty.json) |
