@@ -4909,6 +4909,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 052: Mod - Unum Pan Daum | 363433 | [363433-iwl-interstellar-wrestling-league-052-mod-unum-pan-daum.json](./363433-iwl-interstellar-wrestling-league-052-mod-unum-pan-daum.json) |
 | IWL: Interstellar Wrestling League - 053: Mod - Atlury | 363435 | [363435-iwl-interstellar-wrestling-league-053-mod-atlury.json](./363435-iwl-interstellar-wrestling-league-053-mod-atlury.json) |
 | IWL: Interstellar Wrestling League - 054: Mod - Tria Pan 3 | 363436 | [363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json](./363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json) |
+| IWL: Interstellar Wrestling League - 055: Mod - Orion's Belt | 363697 | [363697-iwl-interstellar-wrestling-league-055-mod-orions-belt.json](./363697-iwl-interstellar-wrestling-league-055-mod-orions-belt.json) |
+| IWL: Interstellar Wrestling League - 056: Mod - Planet Crusher | 363698 | [363698-iwl-interstellar-wrestling-league-056-mod-planet-crusher.json](./363698-iwl-interstellar-wrestling-league-056-mod-planet-crusher.json) |
+| IWL: Interstellar Wrestling League - 057: Mod - The Force... to Be Reckoned with | 363699 | [363699-iwl-interstellar-wrestling-league-057-mod-the-force-to-be-reckoned-with.json](./363699-iwl-interstellar-wrestling-league-057-mod-the-force-to-be-reckoned-with.json) |
+| IWL: Interstellar Wrestling League - 058: Mod - Unum Apollo Daum | 363700 | [363700-iwl-interstellar-wrestling-league-058-mod-unum-apollo-daum.json](./363700-iwl-interstellar-wrestling-league-058-mod-unum-apollo-daum.json) |
+| IWL: Interstellar Wrestling League - 059: Mod - Unum Mercury Daum | 363701 | [363701-iwl-interstellar-wrestling-league-059-mod-unum-mercury-daum.json](./363701-iwl-interstellar-wrestling-league-059-mod-unum-mercury-daum.json) |
+| IWL: Interstellar Wrestling League - 060: Mod - Tria Hercules 3 | 363702 | [363702-iwl-interstellar-wrestling-league-060-mod-tria-hercules-3.json](./363702-iwl-interstellar-wrestling-league-060-mod-tria-hercules-3.json) |
+| IWL: Interstellar Wrestling League - 061: Mod - Tria Apollo 3 | 363703 | [363703-iwl-interstellar-wrestling-league-061-mod-tria-apollo-3.json](./363703-iwl-interstellar-wrestling-league-061-mod-tria-apollo-3.json) |
+| IWL: Interstellar Wrestling League - 062: Mod - Tria Apollo Mercury 3 | 363704 | [363704-iwl-interstellar-wrestling-league-062-mod-tria-apollo-mercury-3.json](./363704-iwl-interstellar-wrestling-league-062-mod-tria-apollo-mercury-3.json) |
+| IWL: Interstellar Wrestling League - 063: Mod - Tria Atlas 3 | 363706 | [363706-iwl-interstellar-wrestling-league-063-mod-tria-atlas-3.json](./363706-iwl-interstellar-wrestling-league-063-mod-tria-atlas-3.json) |
+| IWL: Interstellar Wrestling League - 064: Mod - Max Apollo Meyiotos | 363707 | [363707-iwl-interstellar-wrestling-league-064-mod-max-apollo-meyiotos.json](./363707-iwl-interstellar-wrestling-league-064-mod-max-apollo-meyiotos.json) |
+| IWL: Interstellar Wrestling League - 065: Mod - Max Atlas Meyiotos | 363708 | [363708-iwl-interstellar-wrestling-league-065-mod-max-atlas-meyiotos.json](./363708-iwl-interstellar-wrestling-league-065-mod-max-atlas-meyiotos.json) |
+| IWL: Interstellar Wrestling League - 066: Mod - Apocules | 363709 | [363709-iwl-interstellar-wrestling-league-066-mod-apocules.json](./363709-iwl-interstellar-wrestling-league-066-mod-apocules.json) |
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
 | IwoCon 2 | 235778 | [235778-iwocon-2.json](./235778-iwocon-2.json) |
 | IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
