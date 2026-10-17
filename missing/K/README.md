@@ -3221,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Fly | 394446 | [394446-knights-fly.json](./394446-knights-fly.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
+| Knight's Path | 384342 | [384342-knights-path.json](./384342-knights-path.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
 | Knight's Pride | 340885 | [340885-knights-pride.json](./340885-knights-pride.json) |
 | Knight's Quest | 356665 | [356665-knights-quest.json](./356665-knights-quest.json) |
