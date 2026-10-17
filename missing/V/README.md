@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad Circus: Descend Into Madness | 219779 | [219779-vlad-circus-descend-into-madness.json](./219779-vlad-circus-descend-into-madness.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
+| Vlad the Landlord | 394620 | [394620-vlad-the-landlord.json](./394620-vlad-the-landlord.json) |
 | Vlad Voievod Dracula: Dungeons of Edirne | 272880 | [272880-vlad-voievod-dracula-dungeons-of-edirne.json](./272880-vlad-voievod-dracula-dungeons-of-edirne.json) |
 | Vlad Voievod Dracula: Episode 1 - Manhunt | 212219 | [212219-vlad-voievod-dracula-episode-1-manhunt.json](./212219-vlad-voievod-dracula-episode-1-manhunt.json) |
 | Vlad Voievod Dracula: Episode 2 | 271899 | [271899-vlad-voievod-dracula-episode-2.json](./271899-vlad-voievod-dracula-episode-2.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
+| Void Nebula | 394648 | [394648-void-nebula.json](./394648-void-nebula.json) |
 | Void Noir | 411554 | [411554-void-noir.json](./411554-void-noir.json) |
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void Observation | 419329 | [419329-void-observation.json](./419329-void-observation.json) |
