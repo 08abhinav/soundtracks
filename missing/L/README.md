@@ -877,7 +877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
-| Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
 | Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
@@ -6382,7 +6381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers Anonymous: Rehab for Romantics | 217482 | [217482-lovers-anonymous-rehab-for-romantics.json](./217482-lovers-anonymous-rehab-for-romantics.json) |
 | Lovers Die | 414810 | [414810-lovers-die.json](./414810-lovers-die.json) |
-| Lovers in a Dangerous Spacetime | 12520 | [12520-lovers-in-a-dangerous-spacetime.json](./12520-lovers-in-a-dangerous-spacetime.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
