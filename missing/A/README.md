@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
+| Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
+| Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
 | Aery VR: Calm Mind | 237249 | [237249-aery-vr-calm-mind.json](./237249-aery-vr-calm-mind.json) |
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
@@ -8261,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabians Lost: The Engagement on Desert | 79744 | [79744-arabians-lost-the-engagement-on-desert.json](./79744-arabians-lost-the-engagement-on-desert.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arac | 13804 | [13804-arac.json](./13804-arac.json) |
+| Arachnaut | 415845 | [415845-arachnaut.json](./415845-arachnaut.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnid Wars | 385934 | [385934-arachnid-wars.json](./385934-arachnid-wars.json) |
 | Arachnid Wars 1.5 | 385935 | [385935-arachnid-wars-1-5.json](./385935-arachnid-wars-1-5.json) |
