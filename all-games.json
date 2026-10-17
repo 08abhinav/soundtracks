@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:22:00.160Z",
-  "total_soundtracks": 2065,
+  "generated_at": "2026-10-17T15:22:08.361Z",
+  "total_soundtracks": 2066,
   "games": [
     {
       "igdb_id": 7522,
@@ -15348,6 +15348,20 @@
           "album_name": "Papers, Please (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7388,
+      "game_name": "Papo & Yo",
+      "game_url": "https://ostdb.net/games/papo-and-yo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de9bc8440147447897d4c991",
+      "albums": [
+        {
+          "album_name": "Papo & Yo Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/73qxzEZNtpyke9P7IYvbr5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
