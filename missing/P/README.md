@@ -9872,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Wolf Predator | 197587 | [197587-predator-hunting-grounds-wolf-predator.json](./197587-predator-hunting-grounds-wolf-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predator: Hunting Grounds: Oni Predator | 361905 | [361905-predator-hunting-grounds-oni-predator.json](./361905-predator-hunting-grounds-oni-predator.json) |
+| Predators | 377350 | [377350-predators.json](./377350-predators.json) |
 | Predators | 79534 | [79534-predators.json](./79534-predators.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predecessor | 115078 | [115078-predecessor.json](./115078-predecessor.json) |
@@ -10103,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pricia Defense | 225204 | [225204-pricia-defense.json](./225204-pricia-defense.json) |
 | Prickle | 297186 | [297186-prickle.json](./297186-prickle.json) |
 | Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
+| Prickly Pistoleros | 377362 | [377362-prickly-pistoleros.json](./377362-prickly-pistoleros.json) |
 | Pricolage: Idolized | 260237 | [260237-pricolage-idolized.json](./260237-pricolage-idolized.json) |
 | Priconne! Grand Masters | 196523 | [196523-priconne-grand-masters.json](./196523-priconne-grand-masters.json) |
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
