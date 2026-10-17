@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
+| Garden of the Atom | 384819 | [384819-garden-of-the-atom.json](./384819-garden-of-the-atom.json) |
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
