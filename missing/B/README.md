@@ -6569,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
+| Blackjack 21: Blackjackist | 367740 | [367740-blackjack-21-blackjackist.json](./367740-blackjack-21-blackjackist.json) |
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
@@ -7107,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
 | Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
+| Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
@@ -10006,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxer's Road 2: The Real | 61438 | [61438-boxers-road-2-the-real.json](./61438-boxers-road-2-the-real.json) |
 | Boxerpunk Stories | 203711 | [203711-boxerpunk-stories.json](./203711-boxerpunk-stories.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
+| Boxes and Cutouts | 367750 | [367750-boxes-and-cutouts.json](./367750-boxes-and-cutouts.json) |
 | Boxes Inc. | 97231 | [97231-boxes-inc.json](./97231-boxes-inc.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
