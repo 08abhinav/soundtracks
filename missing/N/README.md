@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
+| Night Pump: A Horror Game Remake | 402239 | [402239-night-pump-a-horror-game-remake.json](./402239-night-pump-a-horror-game-remake.json) |
 | Night Racing: Miami Street Traffic Racer | 106004 | [106004-night-racing-miami-street-traffic-racer.json](./106004-night-racing-miami-street-traffic-racer.json) |
 | Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
@@ -5323,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
+| Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
