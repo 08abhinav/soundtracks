@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
+| Dead Beyond | 372736 | [372736-dead-beyond.json](./372736-dead-beyond.json) |
 | Dead Bit | 390072 | [390072-dead-bit.json](./390072-dead-bit.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
 | Dead Block | 10170 | [10170-dead-block.json](./10170-dead-block.json) |
@@ -8546,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
 | Dominus | 172081 | [172081-dominus.json](./172081-dominus.json) |
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
+| Dominus Automa | 372769 | [372769-dominus-automa.json](./372769-dominus-automa.json) |
 | Dominus Diabolicus | 294764 | [294764-dominus-diabolicus.json](./294764-dominus-diabolicus.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Galaxia: KS Edition | 176845 | [176845-dominus-galaxia-ks-edition.json](./176845-dominus-galaxia-ks-edition.json) |
@@ -11078,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chronicles: The Book of Fire | 66000 | [66000-dream-chronicles-the-book-of-fire.json](./66000-dream-chronicles-the-book-of-fire.json) |
 | Dream Chronicles: The Book of Water | 66001 | [66001-dream-chronicles-the-book-of-water.json](./66001-dream-chronicles-the-book-of-water.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
+| Dream City | 372750 | [372750-dream-city.json](./372750-dream-city.json) |
 | Dream City Apocalypse | 381945 | [381945-dream-city-apocalypse.json](./381945-dream-city-apocalypse.json) |
 | Dream City Fugitive | 381947 | [381947-dream-city-fugitive.json](./381947-dream-city-fugitive.json) |
 | Dream City Life | 140303 | [140303-dream-city-life.json](./140303-dream-city-life.json) |
@@ -11748,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
 | Driving in Traffic | 107061 | [107061-driving-in-traffic.json](./107061-driving-in-traffic.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
+| Driving Party | 372759 | [372759-driving-party.json](./372759-driving-party.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
