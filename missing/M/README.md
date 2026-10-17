@@ -1166,7 +1166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicite | 7883 | [7883-magicite.json](./7883-magicite.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
 | Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
-| Magicka 2 | 9807 | [9807-magicka-2.json](./9807-magicka-2.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
