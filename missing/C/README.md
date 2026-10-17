@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: Infinite Warfare + Destiny - The Collection | 370987 | [370987-call-of-duty-infinite-warfare-destiny-the-collection.json](./370987-call-of-duty-infinite-warfare-destiny-the-collection.json) |
 | Call of Duty: League - Atlanta FaZe Team Pack 2024 | 281931 | [281931-call-of-duty-league-atlanta-faze-team-pack-2024.json](./281931-call-of-duty-league-atlanta-faze-team-pack-2024.json) |
 | Call of Duty: League - Boston Breach Team Pack 2024 | 281935 | [281935-call-of-duty-league-boston-breach-team-pack-2024.json](./281935-call-of-duty-league-boston-breach-team-pack-2024.json) |
 | Call of Duty: League - Carolina Royal Ravens Team Pack 2024 | 281932 | [281932-call-of-duty-league-carolina-royal-ravens-team-pack-2024.json](./281932-call-of-duty-league-carolina-royal-ravens-team-pack-2024.json) |
