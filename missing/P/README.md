@@ -686,7 +686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
-| Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
@@ -1281,7 +1280,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
-| Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Papo City Builder | 299225 | [299225-papo-city-builder.json](./299225-papo-city-builder.json) |
 | Papo City: Hospital | 299238 | [299238-papo-city-hospital.json](./299238-papo-city-hospital.json) |
 | Papo Learn & Play | 299275 | [299275-papo-learn-and-play.json](./299275-papo-learn-and-play.json) |
