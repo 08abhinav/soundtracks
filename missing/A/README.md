@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acquittal: Induction | 302599 | [302599-acquittal-induction.json](./302599-acquittal-induction.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
+| Acre: Last Stand | 381299 | [381299-acre-last-stand.json](./381299-acre-last-stand.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
 | Acro Storm | 30837 | [30837-acro-storm.json](./30837-acro-storm.json) |
@@ -6541,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
+| Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
 | Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
@@ -7358,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
+| Ano Yo Iki Densha | 381405 | [381405-ano-yo-iki-densha.json](./381405-ano-yo-iki-densha.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
@@ -9417,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
+| Arguice no Tsubasa | 381406 | [381406-arguice-no-tsubasa.json](./381406-arguice-no-tsubasa.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
 | Argus | 273033 | [273033-argus.json](./273033-argus.json) |
