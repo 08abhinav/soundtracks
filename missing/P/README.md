@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
 | Planetary Control! | 149888 | [149888-planetary-control.json](./149888-planetary-control.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
+| Planetary Defense | 408546 | [408546-planetary-defense.json](./408546-planetary-defense.json) |
 | Planetary Defense Duel | 143416 | [143416-planetary-defense-duel.json](./143416-planetary-defense-duel.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
