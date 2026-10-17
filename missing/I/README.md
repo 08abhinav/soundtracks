@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iced Fish | 402441 | [402441-iced-fish.json](./402441-iced-fish.json) |
 | Iced In | 132120 | [132120-iced-in.json](./132120-iced-in.json) |
 | Iced VR | 99126 | [99126-iced-vr.json](./99126-iced-vr.json) |
+| Icee Keyring Arcade | 414193 | [414193-icee-keyring-arcade.json](./414193-icee-keyring-arcade.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
