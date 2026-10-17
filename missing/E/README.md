@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
+| El-Silbon | 391659 | [391659-el-silbon.json](./391659-el-silbon.json) |
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
 | Elaine | 29596 | [29596-elaine.json](./29596-elaine.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
 | Essex | 25893 | [25893-essex.json](./25893-essex.json) |
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
+| Esta será mi cara para siempre | 391658 | [391658-esta-sera-mi-cara-para-siempre.json](./391658-esta-sera-mi-cara-para-siempre.json) |
 | Estab Life: Unity Memories | 289563 | [289563-estab-life-unity-memories.json](./289563-estab-life-unity-memories.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estamos Pensando | 92675 | [92675-estamos-pensando.json](./92675-estamos-pensando.json) |
