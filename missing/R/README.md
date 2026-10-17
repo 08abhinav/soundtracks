@@ -5825,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
 | River Simulator 2012: Inland Waterway Transport | 89510 | [89510-river-simulator-2012-inland-waterway-transport.json](./89510-river-simulator-2012-inland-waterway-transport.json) |
 | River Song | 245359 | [245359-river-song.json](./245359-river-song.json) |
+| River Strike | 414792 | [414792-river-strike.json](./414792-river-strike.json) |
 | River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
