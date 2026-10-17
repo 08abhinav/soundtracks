@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 5: Guardians - Digital Deluxe Edition | 75413 | [75413-halo-5-guardians-digital-deluxe-edition.json](./75413-halo-5-guardians-digital-deluxe-edition.json) |
 | Halo 5: Guardians - Limited Collector's Edition | 45144 | [45144-halo-5-guardians-limited-collectors-edition.json](./45144-halo-5-guardians-limited-collectors-edition.json) |
 | Halo 5: Guardians - Limited Edition | 45145 | [45145-halo-5-guardians-limited-edition.json](./45145-halo-5-guardians-limited-edition.json) |
+| Halo and Pixy | 392735 | [392735-halo-and-pixy.json](./392735-halo-and-pixy.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
