@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Escape Bundle | 215318 | [215318-red-escape-bundle.json](./215318-red-escape-bundle.json) |
+| Red Exit Is a Lie | 392714 | [392714-red-exit-is-a-lie.json](./392714-red-exit-is-a-lie.json) |
 | Red Eye | 274378 | [274378-red-eye.json](./274378-red-eye.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
 | Rhapsody: A Musical Adventure | 315651 | [315651-rhapsody-a-musical-adventure.json](./315651-rhapsody-a-musical-adventure.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
+| Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
@@ -7193,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
+| RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
