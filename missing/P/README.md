@@ -10095,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Destruction | 171528 | [171528-prince-of-destruction.json](./171528-prince-of-destruction.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
+| Prince of Egypt | 416710 | [416710-prince-of-egypt.json](./416710-prince-of-egypt.json) |
 | Prince of Evil | 78911 | [78911-prince-of-evil.json](./78911-prince-of-evil.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
@@ -12654,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Blox | 233410 | [233410-puzzle-blox.json](./233410-puzzle-blox.json) |
 | Puzzle Bobble 2X & Space Invaders | 79528 | [79528-puzzle-bobble-2x-and-space-invaders.json](./79528-puzzle-bobble-2x-and-space-invaders.json) |
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
+| Puzzle Bobble DS | 416577 | [416577-puzzle-bobble-ds.json](./416577-puzzle-bobble-ds.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble Online | 64297 | [64297-puzzle-bobble-online.json](./64297-puzzle-bobble-online.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
