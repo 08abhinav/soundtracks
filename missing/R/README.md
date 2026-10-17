@@ -6104,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
 | Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
+| Robbo Millennium | 400081 | [400081-robbo-millennium.json](./400081-robbo-millennium.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
 | Robby's Adventure | 55806 | [55806-robbys-adventure.json](./55806-robbys-adventure.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
