@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
 | Queen of Tenshindo 95 | 94657 | [94657-queen-of-tenshindo-95.json](./94657-queen-of-tenshindo-95.json) |
+| Queen of the Community | 392199 | [392199-queen-of-the-community.json](./392199-queen-of-the-community.json) |
 | Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
