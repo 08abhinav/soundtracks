@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairn: Deluxe Edition | 401736 | [401736-cairn-deluxe-edition.json](./401736-cairn-deluxe-edition.json) |
 | Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Cairn: On the Trail | 397806 | [397806-cairn-on-the-trail.json](./397806-cairn-on-the-trail.json) |
+| Cairn: Stone Towers | 374385 | [374385-cairn-stone-towers.json](./374385-cairn-stone-towers.json) |
 | Cairns | 374398 | [374398-cairns.json](./374398-cairns.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
