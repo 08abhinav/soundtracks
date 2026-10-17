@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
 | Mariel's First Day | 179450 | [179450-mariels-first-day.json](./179450-mariels-first-day.json) |
+| Marienbad | 367717 | [367717-marienbad.json](./367717-marienbad.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
@@ -12366,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
+| Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
 | Motel Manager Simulator | 268254 | [268254-motel-manager-simulator.json](./268254-motel-manager-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
