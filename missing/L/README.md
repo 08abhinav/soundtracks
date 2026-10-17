@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
 | Lobsterbotomy | 182137 | [182137-lobsterbotomy.json](./182137-lobsterbotomy.json) |
+| Lobsterpunk | 369895 | [369895-lobsterpunk.json](./369895-lobsterpunk.json) |
 | Loca Deserta: Odesa | 274925 | [274925-loca-deserta-odesa.json](./274925-loca-deserta-odesa.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Paradise | 402842 | [402842-lost-paradise.json](./402842-lost-paradise.json) |
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
+| Lost Patient | 369858 | [369858-lost-patient.json](./369858-lost-patient.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
 | Lost Phoenix | 307174 | [307174-lost-phoenix.json](./307174-lost-phoenix.json) |
@@ -6958,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
+| Lunar New Year Lanterns | 369879 | [369879-lunar-new-year-lanterns.json](./369879-lunar-new-year-lanterns.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
