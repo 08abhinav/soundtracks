@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of Lust | 392896 | [392896-cards-of-lust.json](./392896-cards-of-lust.json) |
 | Cards of Terra | 174258 | [174258-cards-of-terra.json](./174258-cards-of-terra.json) |
+| Cards of the Abyss | 364832 | [364832-cards-of-the-abyss.json](./364832-cards-of-the-abyss.json) |
 | Cards of the Bog | 182862 | [182862-cards-of-the-bog.json](./182862-cards-of-the-bog.json) |
 | Cards of the Dead | 147335 | [147335-cards-of-the-dead.json](./147335-cards-of-the-dead.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
 | Cascadio | 134948 | [134948-cascadio.json](./134948-cascadio.json) |
+| Cascadou | 364881 | [364881-cascadou.json](./364881-cascadou.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
@@ -6656,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil Disturbance | 65973 | [65973-civil-disturbance.json](./65973-civil-disturbance.json) |
 | Civil Engineering Simulator | 62428 | [62428-civil-engineering-simulator.json](./62428-civil-engineering-simulator.json) |
+| Civil Purgatory | 364840 | [364840-civil-purgatory.json](./364840-civil-purgatory.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
@@ -7467,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsea Frontier | 406268 | [406268-cloudsea-frontier.json](./406268-cloudsea-frontier.json) |
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
+| Cloudspan | 364879 | [364879-cloudspan.json](./364879-cloudspan.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudwalkers | 356280 | [356280-cloudwalkers.json](./356280-cloudwalkers.json) |
@@ -13759,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
+| Cult Vacui | 364848 | [364848-cult-vacui.json](./364848-cult-vacui.json) |
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
