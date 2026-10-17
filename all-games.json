@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:10:41.122Z",
-  "total_soundtracks": 1968,
+  "generated_at": "2026-10-17T11:10:48.380Z",
+  "total_soundtracks": 1969,
   "games": [
     {
       "igdb_id": 7522,
@@ -11613,6 +11613,20 @@
           "spotify_url": "https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1877399644"
+        }
+      ]
+    },
+    {
+      "igdb_id": 94970,
+      "game_name": "Lumines Remastered",
+      "game_url": "https://ostdb.net/games/lumines-remastered",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cfd7157187b572cb45388bee",
+      "albums": [
+        {
+          "album_name": "Lumines Remastered (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/43Tq0z1GJOyHCig85q3ffI",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
