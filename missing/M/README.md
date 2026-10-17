@@ -11809,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori | 179430 | [179430-mori.json](./179430-mori.json) |
+| Mori | 407867 | [407867-mori.json](./407867-mori.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
@@ -12641,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
+| Mouser | 407849 | [407849-mouser.json](./407849-mouser.json) |
 | MouseRun | 127180 | [127180-mouserun.json](./127180-mouserun.json) |
 | Mousetrap | 12923 | [12923-mousetrap.json](./12923-mousetrap.json) |
 | MouseVentures | 331967 | [331967-mouseventures.json](./331967-mouseventures.json) |
