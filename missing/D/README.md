@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
 | Deadly Towers | 48067 | [48067-deadly-towers.json](./48067-deadly-towers.json) |
+| Deadly Trick | 368801 | [368801-deadly-trick.json](./368801-deadly-trick.json) |
 | Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
@@ -8391,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
+| Doku Girls 2 | 368762 | [368762-doku-girls-2.json](./368762-doku-girls-2.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
 | Doku's Noodle Empire | 217464 | [217464-dokus-noodle-empire.json](./217464-dokus-noodle-empire.json) |
