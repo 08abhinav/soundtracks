@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
+| Wacky Races | 411705 | [411705-wacky-races.json](./411705-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
 | Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
@@ -536,6 +537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
 | Wanna Survive | 119809 | [119809-wanna-survive.json](./119809-wanna-survive.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
+| Wannabe Creators | 411401 | [411401-wannabe-creators.json](./411401-wannabe-creators.json) |
+| Wannabe Creators 2 | 411402 | [411402-wannabe-creators-2.json](./411402-wannabe-creators-2.json) |
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
 | WannaFest 22 | 265206 | [265206-wannafest-22.json](./265206-wannafest-22.json) |
 | WannaMine | 88196 | [88196-wannamine.json](./88196-wannamine.json) |
@@ -1829,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
+| Wavebreaker | 411362 | [411362-wavebreaker.json](./411362-wavebreaker.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
@@ -3627,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
 | Wild Gun | 160078 | [160078-wild-gun.json](./160078-wild-gun.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
+| Wild Gunman Remake | 411646 | [411646-wild-gunman-remake.json](./411646-wild-gunman-remake.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
@@ -3761,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilde Investigations: Animal Sanctuary Shuffle | 415989 | [415989-wilde-investigations-animal-sanctuary-shuffle.json](./415989-wilde-investigations-animal-sanctuary-shuffle.json) |
 | Wilde Investigations: Animal Sanctuary Shuffle - Collector's Edition | 337248 | [337248-wilde-investigations-animal-sanctuary-shuffle-collectors-edition.json](./337248-wilde-investigations-animal-sanctuary-shuffle-collectors-edition.json) |
 | Wilde Investigations: The Zoo Kerfuffle - Collector's Edition | 337240 | [337240-wilde-investigations-the-zoo-kerfuffle-collectors-edition.json](./337240-wilde-investigations-the-zoo-kerfuffle-collectors-edition.json) |
+| Wildeck | 411419 | [411419-wildeck.json](./411419-wildeck.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
@@ -4039,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
+| Windy wo Kaitain desu ga... | 411715 | [411715-windy-wo-kaitain-desu-ga.json](./411715-windy-wo-kaitain-desu-ga.json) |
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
 | Windy Zetsumetsu Keikaku | 412337 | [412337-windy-zetsumetsu-keikaku.json](./412337-windy-zetsumetsu-keikaku.json) |
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
