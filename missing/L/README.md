@@ -1254,7 +1254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Law: Transporter | 292425 | [292425-law-transporter.json](./292425-law-transporter.json) |
-| LawBreakers | 11797 | [11797-lawbreakers.json](./11797-lawbreakers.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
 | Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
@@ -4461,7 +4460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlewing | 143965 | [143965-littlewing.json](./143965-littlewing.json) |
 | Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
-| Littlewood | 115421 | [115421-littlewood.json](./115421-littlewood.json) |
 | Liu Yin | 175728 | [175728-liu-yin.json](./175728-liu-yin.json) |
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
