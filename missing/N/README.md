@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
+| Neko-Mimi Sweet Housemates Vol. 2 | 405362 | [405362-neko-mimi-sweet-housemates-vol-2.json](./405362-neko-mimi-sweet-housemates-vol-2.json) |
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
 | Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
