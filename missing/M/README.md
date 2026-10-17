@@ -7841,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Shift | 337663 | [337663-midnight-shift.json](./337663-midnight-shift.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
+| Midnight Sin | 404062 | [404062-midnight-sin.json](./404062-midnight-sin.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Snack | 339894 | [339894-midnight-snack.json](./339894-midnight-snack.json) |
 | Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
@@ -14390,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Insect Girl Can't Be This Cute | 220683 | [220683-my-insect-girl-cant-be-this-cute.json](./220683-my-insect-girl-cant-be-this-cute.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
+| My Isekai Hotel | 404059 | [404059-my-isekai-hotel.json](./404059-my-isekai-hotel.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
 | My Jigsaw Adventures: The Source of Power | 163002 | [163002-my-jigsaw-adventures-the-source-of-power.json](./163002-my-jigsaw-adventures-the-source-of-power.json) |
