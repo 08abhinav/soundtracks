@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
 | Kaze no Tansakusha: Grand Slam | 270630 | [270630-kaze-no-tansakusha-grand-slam.json](./270630-kaze-no-tansakusha-grand-slam.json) |
+| Kaze no Tayori | 402849 | [402849-kaze-no-tayori.json](./402849-kaze-no-tayori.json) |
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
 | Kiyo: Bunny Tyranny | 356562 | [356562-kiyo-bunny-tyranny.json](./356562-kiyo-bunny-tyranny.json) |
 | Kizi Adventures | 56911 | [56911-kizi-adventures.json](./56911-kizi-adventures.json) |
+| Kiziland | 403121 | [403121-kiziland.json](./403121-kiziland.json) |
 | Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
@@ -4410,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
+| Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
