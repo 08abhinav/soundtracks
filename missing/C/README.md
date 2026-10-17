@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Memories - Find the Hidden Stories | 305973 | [305973-cat-memories-find-the-hidden-stories.json](./305973-cat-memories-find-the-hidden-stories.json) |
 | Cat Meoir: Feline Detective | 298416 | [298416-cat-meoir-feline-detective.json](./298416-cat-meoir-feline-detective.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
+| Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
 | Cat Music Chaos | 419335 | [419335-cat-music-chaos.json](./419335-cat-music-chaos.json) |
@@ -2820,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
 | Cat Snack Bar | 231781 | [231781-cat-snack-bar.json](./231781-cat-snack-bar.json) |
+| Cat Snap | 374884 | [374884-cat-snap.json](./374884-cat-snap.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
@@ -3313,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
+| Cave Explorers | 374916 | [374916-cave-explorers.json](./374916-cave-explorers.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Game | 130140 | [130140-cave-game.json](./130140-cave-game.json) |
@@ -13718,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
+| Cultivation Magic World | 374882 | [374882-cultivation-magic-world.json](./374882-cultivation-magic-world.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Cultivator | 383561 | [383561-cultivator.json](./383561-cultivator.json) |
 | Cultivator Legacy | 199987 | [199987-cultivator-legacy.json](./199987-cultivator-legacy.json) |
