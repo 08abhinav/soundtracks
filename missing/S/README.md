@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Cave | 397647 | [397647-sad-virus-cave.json](./397647-sad-virus-cave.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
+| Sad Virus Forest | 387751 | [387751-sad-virus-forest.json](./387751-sad-virus-forest.json) |
 | Sad Virus Jungle | 397646 | [397646-sad-virus-jungle.json](./397646-sad-virus-jungle.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
@@ -7961,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
+| Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
@@ -10899,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party | 71202 | [71202-snowboard-party.json](./71202-snowboard-party.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
+| Snowboard Stunts | 387732 | [387732-snowboard-stunts.json](./387732-snowboard-stunts.json) |
 | Snowboard Xtreme | 85384 | [85384-snowboard-xtreme.json](./85384-snowboard-xtreme.json) |
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
@@ -11990,6 +11993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Conquest: Supporter Edition | 201036 | [201036-songs-of-conquest-supporter-edition.json](./201036-songs-of-conquest-supporter-edition.json) |
 | Songs of Conquest: Vanir | 319147 | [319147-songs-of-conquest-vanir.json](./319147-songs-of-conquest-vanir.json) |
+| Songs of Conquest: Yulan | 387743 | [387743-songs-of-conquest-yulan.json](./387743-songs-of-conquest-yulan.json) |
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
@@ -24114,6 +24118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
 | Surv1v3 | 75178 | [75178-surv1v3.json](./75178-surv1v3.json) |
+| Survalker | 387748 | [387748-survalker.json](./387748-survalker.json) |
 | Survarium: Steam Shotgun Pack | 162712 | [162712-survarium-steam-shotgun-pack.json](./162712-survarium-steam-shotgun-pack.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
@@ -24854,10 +24859,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
+| Sweetie Candy Maze: Blueberry | 387747 | [387747-sweetie-candy-maze-blueberry.json](./387747-sweetie-candy-maze-blueberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweetie Candy Maze: Crimson Strawberry | 418576 | [418576-sweetie-candy-maze-crimson-strawberry.json](./418576-sweetie-candy-maze-crimson-strawberry.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
 | Sweetie Candy Maze: Orange | 357201 | [357201-sweetie-candy-maze-orange.json](./357201-sweetie-candy-maze-orange.json) |
+| Sweetie Candy Maze: Pink Raspberry | 387750 | [387750-sweetie-candy-maze-pink-raspberry.json](./387750-sweetie-candy-maze-pink-raspberry.json) |
 | Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
