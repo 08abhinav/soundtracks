@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 6684 | [6684-fantasy-zone.json](./6684-fantasy-zone.json) |
 | Fantasy Zone II | 6687 | [6687-fantasy-zone-ii.json](./6687-fantasy-zone-ii.json) |
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
+| Fantasy Zone II: The Tears of Opa-Opa | 388998 | [388998-fantasy-zone-ii-the-tears-of-opa-opa.json](./388998-fantasy-zone-ii-the-tears-of-opa-opa.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
