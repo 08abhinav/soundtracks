@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔdiàn | 109864 | [109864-jiudian.json](./109864-jiudian.json) |
+| Jiǔguǎn Zhànzhēng | 414119 | [414119-jiuguan-zhanzheng.json](./414119-jiuguan-zhanzheng.json) |
 | Jiǔlóng Mahjong | 104539 | [104539-jiulong-mahjong.json](./104539-jiulong-mahjong.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
