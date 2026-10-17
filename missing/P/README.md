@@ -6672,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank Road | 202558 | [202558-plank-road.json](./202558-plank-road.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
+| Planks Wars | 404161 | [404161-planks-wars.json](./404161-planks-wars.json) |
 | Plankton Gang: Sponge Neighbor | 326701 | [326701-plankton-gang-sponge-neighbor.json](./326701-plankton-gang-sponge-neighbor.json) |
 | planktOs | 36200 | [36200-planktos.json](./36200-planktos.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
