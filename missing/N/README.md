@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N.O.V.A.: Near Orbit Vanguard Alliance | 19316 | [19316-n-o-v-a-near-orbit-vanguard-alliance.json](./19316-n-o-v-a-near-orbit-vanguard-alliance.json) |
+| N.O.X. | 369872 | [369872-n-o-x.json](./369872-n-o-x.json) |
 | N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
 | Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman | 369122 | [369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json](./369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json) |
+| Nihon Pro Mahjong Renmei Kounin: Tehodoki Mahjong Nyuumon-hen | 369847 | [369847-nihon-pro-mahjong-renmei-kounin-tehodoki-mahjong-nyuumon-hen.json](./369847-nihon-pro-mahjong-renmei-kounin-tehodoki-mahjong-nyuumon-hen.json) |
 | Nihon Sumo Kyokai Kounin: Nihon Oozumou Gekitou Honbasho-hen | 318502 | [318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json](./318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json) |
 | Nihon-shi Nengou Grid | 288434 | [288434-nihon-shi-nengou-grid.json](./288434-nihon-shi-nengou-grid.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
