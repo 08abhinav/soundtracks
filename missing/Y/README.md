@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K II: Benevolent Psychosis | 348292 | [348292-y2k-ii-benevolent-psychosis.json](./348292-y2k-ii-benevolent-psychosis.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
+| Y2kill | 414801 | [414801-y2kill.json](./414801-y2kill.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Y2Roll | 329783 | [329783-y2roll.json](./329783-y2roll.json) |
 | Ya Budu Kosmonavtom | 171969 | [171969-ya-budu-kosmonavtom.json](./171969-ya-budu-kosmonavtom.json) |
