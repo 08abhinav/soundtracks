@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Only Live Once | 212697 | [212697-you-only-live-once.json](./212697-you-only-live-once.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You Picked the Wrong Castle | 366116 | [366116-you-picked-the-wrong-castle.json](./366116-you-picked-the-wrong-castle.json) |
+| You Picked Your Poison | 397012 | [397012-you-picked-your-poison.json](./397012-you-picked-your-poison.json) |
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
 | You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
+| You Were There | 397106 | [397106-you-were-there.json](./397106-you-were-there.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
 | You Will Die a Lot Buddy, Trust Me! | 197103 | [197103-you-will-die-a-lot-buddy-trust-me.json](./197103-you-will-die-a-lot-buddy-trust-me.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
