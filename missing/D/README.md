@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Thrones | 165173 | [165173-dark-thrones.json](./165173-dark-thrones.json) |
 | Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
+| Dark Ties | 369849 | [369849-dark-ties.json](./369849-dark-ties.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
 | Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
@@ -5800,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dhalman | 408006 | [408006-dhalman.json](./408006-dhalman.json) |
 | Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
+| Dhilly Game 6 Remake | 369885 | [369885-dhilly-game-6-remake.json](./369885-dhilly-game-6-remake.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Dhux's Scar | 124526 | [124526-dhuxs-scar.json](./124526-dhuxs-scar.json) |
 | Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doamari | 412340 | [412340-doamari.json](./412340-doamari.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
+| DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
 | DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
