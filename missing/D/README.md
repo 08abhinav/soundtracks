@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Night | 33742 | [33742-dark-night.json](./33742-dark-night.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
+| Dark Nights: Reflections | 397602 | [397602-dark-nights-reflections.json](./397602-dark-nights-reflections.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
@@ -3317,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathtrip | 297872 | [297872-deathtrip.json](./297872-deathtrip.json) |
 | Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
+| Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
