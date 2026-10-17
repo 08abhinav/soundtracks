@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse: The Dark Being | 12439 | [12439-lighthouse-the-dark-being.json](./12439-lighthouse-the-dark-being.json) |
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
+| Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
 | Lightmatter | 113150 | [113150-lightmatter.json](./113150-lightmatter.json) |
