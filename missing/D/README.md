@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
+| Dissolving Gallery | 398288 | [398288-dissolving-gallery.json](./398288-dissolving-gallery.json) |
 | Dissonance: An Interactive Novelette | 34029 | [34029-dissonance-an-interactive-novelette.json](./34029-dissonance-an-interactive-novelette.json) |
 | Distance | 385378 | [385378-distance.json](./385378-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
@@ -10546,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Treasure | 40643 | [40643-dragon-treasure.json](./40643-dragon-treasure.json) |
 | Dragon Trial | 212514 | [212514-dragon-trial.json](./212514-dragon-trial.json) |
+| Dragon Truster | 398267 | [398267-dragon-truster.json](./398267-dragon-truster.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
