@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gary's Wild Adventure | 103920 | [103920-garys-wild-adventure.json](./103920-garys-wild-adventure.json) |
+| Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
@@ -5129,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
+| Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
@@ -5476,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
+| Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
