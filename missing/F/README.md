@@ -5319,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatwaters | 86741 | [86741-flatwaters.json](./86741-flatwaters.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
+| Flavor Rave | 401310 | [401310-flavor-rave.json](./401310-flavor-rave.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
 | Flaw | 265539 | [265539-flaw.json](./265539-flaw.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formido | 372243 | [372243-formido.json](./372243-formido.json) |
 | Formidolosa Nocte | 282839 | [282839-formidolosa-nocte.json](./282839-formidolosa-nocte.json) |
 | Formilion | 261747 | [261747-formilion.json](./261747-formilion.json) |
+| ForMind | 401286 | [401286-formind.json](./401286-formind.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
@@ -8910,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
+| Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
