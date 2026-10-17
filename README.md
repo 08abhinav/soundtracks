@@ -866,6 +866,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27374aa62a8cc77ced19f957b15" width="60" /> | [Lost Records: Bloom & Rage](https://ostdb.net/games/lost-records-bloom-and-rage) | **Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1** · [Spotify](https://open.spotify.com/album/1GR7EZWxuukQBvIHzFNoMB)<br>**Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1 & Tape 2** · [Spotify](https://open.spotify.com/album/6Sp1bcggdbLYtSML5Qrxyy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c684eb4dc55c526c5036aa40" width="60" /> | [Lost in Play](https://ostdb.net/games/lost-in-play) | **Lost in Play Original Soundtrack** · [Spotify](https://open.spotify.com/album/7JN6t7TMxUzHDpi1R2iJII) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/81/31/0881318e-268d-526c-c1f4-3aa30d44b862/artwork.jpg/600x600bb.jpg" width="60" /> | [Lost in Random: The Eternal Die](https://ostdb.net/games/lost-in-random-the-eternal-die) | **Lost in Random: The Eternal Die Official Soundtrack** · [Spotify](https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4) · [Album](https://album.link/i/1820923645) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730594232aa4ca779ed2d775b1" width="60" /> | [Lovers in a Dangerous Spacetime](https://ostdb.net/games/lovers-in-a-dangerous-spacetime) | **Lovers in a Dangerous Spacetime (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7lCIuRb5u4LzZQAoaMKUCo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccdf9b669fd722b41c6dc75" width="60" /> | [Lucius II](https://ostdb.net/games/lucius-ii) | **Lucius II - Soundtrack** · [Spotify](https://open.spotify.com/album/6CRQEFeklxduZERYFwOSWL) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/ff/db/ceffdb19-59ee-6e45-14fc-87f9e30bd638/859731455272_cover.jpg/600x600bb.jpg" width="60" /> | [Lumines Arise](https://ostdb.net/games/lumines-arise) | **Lumines Arise (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4) · [Album](https://album.link/i/1877399644) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfd7157187b572cb45388bee" width="60" /> | [Lumines Remastered](https://ostdb.net/games/lumines-remastered) | **Lumines Remastered (Original Score)** · [Spotify](https://open.spotify.com/album/43Tq0z1GJOyHCig85q3ffI) |
@@ -1772,4 +1773,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2089 soundtracks · last updated 2026-10-17T15:36:14.715Z_
+_2090 soundtracks · last updated 2026-10-17T15:36:22.320Z_
