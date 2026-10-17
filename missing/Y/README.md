@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi World SP | 61324 | [61324-yamasa-digi-world-sp.json](./61324-yamasa-digi-world-sp.json) |
 | Yamasa Digi World: Tetra Master | 61326 | [61326-yamasa-digi-world-tetra-master.json](./61326-yamasa-digi-world-tetra-master.json) |
 | Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
+| Yamato | 388242 | [388242-yamato.json](./388242-yamato.json) |
 | Yamato | 6143 | [6143-yamato.json](./6143-yamato.json) |
 | Yamb | 252306 | [252306-yamb.json](./252306-yamb.json) |
 | YAMC: Yet Another Minesweeper Client | 226113 | [226113-yamc-yet-another-minesweeper-client.json](./226113-yamc-yet-another-minesweeper-client.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarudora Series Vol. 2: Kisetsu wo Dakishimete | 65029 | [65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json](./65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
+| Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
@@ -1498,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
+| Yuugatou | 388325 | [388325-yuugatou.json](./388325-yuugatou.json) |
 | Yuugen Gaisha Brave Company | 60465 | [60465-yuugen-gaisha-brave-company.json](./60465-yuugen-gaisha-brave-company.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Gaisha London Star: Koi no Double Click | 77874 | [77874-yuugen-gaisha-london-star-koi-no-double-click.json](./77874-yuugen-gaisha-london-star-koi-no-double-click.json) |
