@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscuria 2 | 369917 | [369917-obscuria-2.json](./369917-obscuria-2.json) |
 | Obscuris | 400538 | [400538-obscuris.json](./400538-obscuris.json) |
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
+| Obscurite Magie 3: The Divine Stones | 364855 | [364855-obscurite-magie-3-the-divine-stones.json](./364855-obscurite-magie-3-the-divine-stones.json) |
 | Obscurite Magie: The Blood of Kings | 245948 | [245948-obscurite-magie-the-blood-of-kings.json](./245948-obscurite-magie-the-blood-of-kings.json) |
 | Obscurite Magie: The City of Sin | 168111 | [168111-obscurite-magie-the-city-of-sin.json](./168111-obscurite-magie-the-city-of-sin.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
