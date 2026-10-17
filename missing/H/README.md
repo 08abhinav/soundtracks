@@ -5833,6 +5833,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Sudou Junko no Yuuwaku~ | 59261 | [59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json](./59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json) |
+| Hitstick 2: No Time for Diplomacy | 393405 | [393405-hitstick-2-no-time-for-diplomacy.json](./393405-hitstick-2-no-time-for-diplomacy.json) |
+| Hitstick 3: Deadly Breeze | 393406 | [393406-hitstick-3-deadly-breeze.json](./393406-hitstick-3-deadly-breeze.json) |
+| Hitstick 5: Redemption | 393410 | [393410-hitstick-5-redemption.json](./393410-hitstick-5-redemption.json) |
+| Hitstick 6: Last Contracts | 393411 | [393411-hitstick-6-last-contracts.json](./393411-hitstick-6-last-contracts.json) |
+| Hitstick Rebirth | 393421 | [393421-hitstick-rebirth.json](./393421-hitstick-rebirth.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
@@ -7243,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
+| Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
 | Hot Brain | 44483 | [44483-hot-brain.json](./44483-hot-brain.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
@@ -8865,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hypersomnia | 286133 | [286133-hypersomnia.json](./286133-hypersomnia.json) |
+| Hypersonic GP | 393407 | [393407-hypersonic-gp.json](./393407-hypersonic-gp.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
