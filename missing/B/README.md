@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
+| Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
 | Balloono | 405334 | [405334-balloono.json](./405334-balloono.json) |
 | Balloonrain | 130836 | [130836-balloonrain.json](./130836-balloonrain.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
@@ -8091,6 +8092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
 | BluBoy: The Journey Begins | 115509 | [115509-bluboy-the-journey-begins.json](./115509-bluboy-the-journey-begins.json) |
+| BluCat | 395876 | [395876-blucat.json](./395876-blucat.json) |
 | Bludgeon | 119488 | [119488-bludgeon.json](./119488-bludgeon.json) |
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
