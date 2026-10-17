@@ -937,6 +937,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273885956ec800a5b26da371cf0" width="60" /> | [Moons of Madness](https://ostdb.net/games/moons-of-madness) | **Moons of Madness (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0XB1SujKZMXHHnmmT1yVse) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/8d/14/148d14a3-1fbc-ec63-b293-4dfe8c091f1a/3663729404442_cover.jpg/600x600bb.jpg" width="60" /> | [Morbid Metal](https://ostdb.net/games/morbid-metal) | **Saru (From Morbid Metal) - Single** · [Spotify](https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4) · [Album](https://album.link/i/1840670106) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dacb023115cac021e3b6c4f4" width="60" /> | [Mordhau](https://ostdb.net/games/mordhau) | **Mordhau (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3ZND2W4JhgMCy14xpED0LC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c93bb650c2763bb25d92a4fb" width="60" /> | [Mortal Kombat](https://ostdb.net/games/mortal-kombat) | **Mortal Kombat (Soundtrack from the Arcade Game) [2021 Remaster]** · [Spotify](https://open.spotify.com/album/5ADzg7I1UtDGjAPP57XNjO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a20cf4ce9c9730c72850c" width="60" /> | [Mortal Kombat 1](https://ostdb.net/games/mortal-kombat-1) | **Mortal Kombat 1 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2Gh3ZhIPiCGZc0d9pFol18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732684410b60ac67b8d069fb08" width="60" /> | [Mortal Kombat 11](https://ostdb.net/games/mortal-kombat-11) | **Mortal Kombat 11 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/11fV9jbJ5hva1YW7xsx31e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c71c30e2c43f93fb8a83b5c" width="60" /> | [Mortal Kombat 4](https://ostdb.net/games/mortal-kombat-4) | **Mortal Kombat 4 (Soundtrack from the Arcade Game) [2021 Remaster]** · [Spotify](https://open.spotify.com/album/00XgQ6LdIjos0omSgqfE3Q) |
@@ -1708,4 +1709,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2025 soundtracks · last updated 2026-10-17T15:00:59.684Z_
+_2026 soundtracks · last updated 2026-10-17T15:01:07.663Z_
