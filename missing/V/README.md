@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vector's Adventures | 102292 | [102292-vectors-adventures.json](./102292-vectors-adventures.json) |
 | Vectorball | 13043 | [13043-vectorball.json](./13043-vectorball.json) |
+| Vectored | 395662 | [395662-vectored.json](./395662-vectored.json) |
 | Vectorgeddon | 64191 | [64191-vectorgeddon.json](./64191-vectorgeddon.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
