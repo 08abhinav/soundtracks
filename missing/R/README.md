@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | RectRacer | 43154 | [43154-rectracer.json](./43154-rectracer.json) |
+| Recuerdos de Invierno | 369861 | [369861-recuerdos-de-invierno.json](./369861-recuerdos-de-invierno.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
@@ -4052,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Residuum | 373820 | [373820-residuum.json](./373820-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
+| Resilience 2043 | 369900 | [369900-resilience-2043.json](./369900-resilience-2043.json) |
 | Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
 | Resilient | 400390 | [400390-resilient.json](./400390-resilient.json) |
 | Resist Mutants | 360708 | [360708-resist-mutants.json](./360708-resist-mutants.json) |
