@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
+| Garden of Oblivion | 387155 | [387155-garden-of-oblivion.json](./387155-garden-of-oblivion.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Pizzlerat | 250818 | [250818-garden-of-pizzlerat.json](./250818-garden-of-pizzlerat.json) |
 | Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Studio's 5th Anniversary | 316682 | [316682-gb-studios-5th-anniversary.json](./316682-gb-studios-5th-anniversary.json) |
 | GB Wordyl | 229081 | [229081-gb-wordyl.json](./229081-gb-wordyl.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
+| Gbbbs5 | 387146 | [387146-gbbbs5.json](./387146-gbbbs5.json) |
 | GbDices | 184461 | [184461-gbdices.json](./184461-gbdices.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
@@ -5170,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
+| Gossamer | 387109 | [387109-gossamer.json](./387109-gossamer.json) |
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
