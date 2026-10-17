@@ -1337,7 +1337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Shift 2 Unleashed | 248135 | [248135-need-for-speed-shift-2-unleashed.json](./248135-need-for-speed-shift-2-unleashed.json) |
 | Need for Speed: The Run | 248134 | [248134-need-for-speed-the-run.json](./248134-need-for-speed-the-run.json) |
 | Need for Speed: Top Speed | 210103 | [210103-need-for-speed-top-speed.json](./210103-need-for-speed-top-speed.json) |
-| Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
