@@ -7931,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
 | Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
+| Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
