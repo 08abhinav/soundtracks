@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impromptu Trip | 285910 | [285910-impromptu-trip.json](./285910-impromptu-trip.json) |
+| Improvise, Adapt, Overcome | 402802 | [402802-improvise-adapt-overcome.json](./402802-improvise-adapt-overcome.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
@@ -2378,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo 7 | 153509 | [153509-indigo-7.json](./153509-indigo-7.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Loop | 207570 | [207570-indigo-loop.json](./207570-indigo-loop.json) |
+| Indigo Park: Chapter 2 | 402870 | [402870-indigo-park-chapter-2.json](./402870-indigo-park-chapter-2.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indirection | 186000 | [186000-indirection.json](./186000-indirection.json) |
