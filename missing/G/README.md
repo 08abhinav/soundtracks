@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetic Disaster | 68324 | [68324-genetic-disaster.json](./68324-genetic-disaster.json) |
 | Genetic Drift | 24831 | [24831-genetic-drift.json](./24831-genetic-drift.json) |
 | Genetic Species | 73458 | [73458-genetic-species.json](./73458-genetic-species.json) |
+| Genetica: Extinction | 390476 | [390476-genetica-extinction.json](./390476-genetica-extinction.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genetos | 64187 | [64187-genetos.json](./64187-genetos.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
