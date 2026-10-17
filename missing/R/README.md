@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Port | 151460 | [151460-raven-port.json](./151460-raven-port.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
+| Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
@@ -6096,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
+| RoadCraft: Rebuild Expansion | 371568 | [371568-roadcraft-rebuild-expansion.json](./371568-roadcraft-rebuild-expansion.json) |
 | RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
 | Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
@@ -9243,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
 | Ryan Marks Revenge Mission | 136821 | [136821-ryan-marks-revenge-mission.json](./136821-ryan-marks-revenge-mission.json) |
 | Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
+| Ryan Ward's Lunch-Out!! | 371521 | [371521-ryan-wards-lunch-out.json](./371521-ryan-wards-lunch-out.json) |
 | Ryan's Apparition Wandering Restaurant | 336065 | [336065-ryans-apparition-wandering-restaurant.json](./336065-ryans-apparition-wandering-restaurant.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
