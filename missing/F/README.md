@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
 | Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
+| Fantasy RPG Bundle | 368771 | [368771-fantasy-rpg-bundle.json](./368771-fantasy-rpg-bundle.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Feel It Still | 371639 | [371639-fortnite-festival-feel-it-still.json](./371639-fortnite-festival-feel-it-still.json) |
+| Fortnite Festival: Fuel | 368799 | [368799-fortnite-festival-fuel.json](./368799-fortnite-festival-fuel.json) |
 | Fortnite Festival: Get Lucky | 370567 | [370567-fortnite-festival-get-lucky.json](./370567-fortnite-festival-get-lucky.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
 | Fortnite Festival: Instant Crush | 370570 | [370570-fortnite-festival-instant-crush.json](./370570-fortnite-festival-instant-crush.json) |
