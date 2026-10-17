@@ -272,6 +272,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
+| Face Shot | 403485 | [403485-face-shot.json](./403485-face-shot.json) |
+| Face Shot 2 | 403487 | [403487-face-shot-2.json](./403487-face-shot-2.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
 | Face Training: Facial Exercises to Strengthen and Relax from Fumiko Inudo | 91846 | [91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json](./91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json) |
@@ -1329,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
+| Fantastic Contraption 2 | 403482 | [403482-fantastic-contraption-2.json](./403482-fantastic-contraption-2.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
 | Fantastic Creations: House of Brass | 62819 | [62819-fantastic-creations-house-of-brass.json](./62819-fantastic-creations-house-of-brass.json) |
 | Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
@@ -7517,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForzeBreak | 107705 | [107705-forzebreak.json](./107705-forzebreak.json) |
 | Fos | 43153 | [43153-fos.json](./43153-fos.json) |
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
+| Fossara | 403451 | [403451-fossara.json](./403451-fossara.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Diggers VR | 265525 | [265525-fossil-diggers-vr.json](./265525-fossil-diggers-vr.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
