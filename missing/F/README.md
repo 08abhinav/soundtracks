@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firby | 400101 | [400101-firby.json](./400101-firby.json) |
 | Fire | 10321 | [10321-fire.json](./10321-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
+| Fire | 371569 | [371569-fire.json](./371569-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
