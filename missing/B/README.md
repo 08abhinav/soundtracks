@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
+| Baldis Advanced 3D Math Class | 372196 | [372196-baldis-advanced-3d-math-class.json](./372196-baldis-advanced-3d-math-class.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behemoth | 323797 | [323797-behemoth.json](./323797-behemoth.json) |
 | Beherit | 125350 | [125350-beherit.json](./125350-beherit.json) |
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
+| Behind Border Zone | 372215 | [372215-behind-border-zone.json](./372215-behind-border-zone.json) |
 | Behind Closed Doors | 385578 | [385578-behind-closed-doors.json](./385578-behind-closed-doors.json) |
 | Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
 | Behind Closed Doors (The Sequel) | 58852 | [58852-behind-closed-doors-the-sequel.json](./58852-behind-closed-doors-the-sequel.json) |
@@ -11146,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
+| Broken Aperture | 372221 | [372221-broken-aperture.json](./372221-broken-aperture.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Arrow | 147187 | [147187-broken-arrow.json](./147187-broken-arrow.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
