@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
 | Hello, Neighbor! Reborn | 357197 | [357197-hello-neighbor-reborn.json](./357197-hello-neighbor-reborn.json) |
+| Hello, Runa! | 413451 | [413451-hello-runa.json](./413451-hello-runa.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
 | Hello, World! | 182322 | [182322-hello-world.json](./182322-hello-world.json) |
@@ -5295,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
+| Highway Legends: Gold Edition | 413573 | [413573-highway-legends-gold-edition.json](./413573-highway-legends-gold-edition.json) |
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
 | Highway Moto Rider - Traffic Race | 105850 | [105850-highway-moto-rider-traffic-race.json](./105850-highway-moto-rider-traffic-race.json) |
