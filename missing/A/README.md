@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
+| A Ghost Journey | 373811 | [373811-a-ghost-journey.json](./373811-a-ghost-journey.json) |
 | A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
@@ -5548,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I Part of the Problem? | 182914 | [182914-am-i-part-of-the-problem.json](./182914-am-i-part-of-the-problem.json) |
+| Am I The Asshole? | 373829 | [373829-am-i-the-asshole.json](./373829-am-i-the-asshole.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
@@ -7812,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
 | Anyland | 31966 | [31966-anyland.json](./31966-anyland.json) |
 | Anyone for Cards? | 72001 | [72001-anyone-for-cards.json](./72001-anyone-for-cards.json) |
+| Anyone in the House？ | 373809 | [373809-anyone-in-the-house.json](./373809-anyone-in-the-house.json) |
 | Anyone There? | 235373 | [235373-anyone-there.json](./235373-anyone-there.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything but a Gun | 413019 | [413019-anything-but-a-gun.json](./413019-anything-but-a-gun.json) |
