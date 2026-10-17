@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Artorias of the Abyss | 21988 | [21988-dark-souls-artorias-of-the-abyss.json](./21988-dark-souls-artorias-of-the-abyss.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
+| Dark Souls: Nightfall | 401846 | [401846-dark-souls-nightfall.json](./401846-dark-souls-nightfall.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derringer | 230213 | [230213-derringer.json](./230213-derringer.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Deru: The Art of Cooperation | 68702 | [68702-deru-the-art-of-cooperation.json](./68702-deru-the-art-of-cooperation.json) |
+| Derust | 401719 | [401719-derust.json](./401719-derust.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Des Chiffres et des Lettres | 69743 | [69743-des-chiffres-et-des-lettres.json](./69743-des-chiffres-et-des-lettres.json) |
@@ -12375,6 +12377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
+| Dumdum Afterthoughts | 401721 | [401721-dumdum-afterthoughts.json](./401721-dumdum-afterthoughts.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
 | Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
