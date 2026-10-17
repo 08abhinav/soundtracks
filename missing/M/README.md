@@ -5222,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
+| Mega Load On | 390573 | [390573-mega-load-on.json](./390573-mega-load-on.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 1738 | [1738-mega-man.json](./1738-mega-man.json) |
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria | 385382 | [385382-memoria.json](./385382-memoria.json) |
 | Memória | 290085 | [290085-memoria.json](./290085-memoria.json) |
 | Memória 3D | 290076 | [290076-memoria-3d.json](./290076-memoria-3d.json) |
+| Memoria Arcana | 390572 | [390572-memoria-arcana.json](./390572-memoria-arcana.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
@@ -9304,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minuto: Galactic Deliveries | 342706 | [342706-minuto-galactic-deliveries.json](./342706-minuto-galactic-deliveries.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
+| MioAquaria | 390577 | [390577-mioaquaria.json](./390577-mioaquaria.json) |
 | Miodesopsia: Whispering Stories | 282846 | [282846-miodesopsia-whispering-stories.json](./282846-miodesopsia-whispering-stories.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
@@ -9765,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Twister | 209957 | [209957-mister-twister.json](./209957-mister-twister.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
+| Misteri Rumah Pak RT | 390552 | [390552-misteri-rumah-pak-rt.json](./390552-misteri-rumah-pak-rt.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
 | Mistery | 237470 | [237470-mistery.json](./237470-mistery.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
@@ -10717,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
 | Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
 | Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
+| Monkey King Simulator: Chapter Huaguo Mountain | 390553 | [390553-monkey-king-simulator-chapter-huaguo-mountain.json](./390553-monkey-king-simulator-chapter-huaguo-mountain.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Five Elements Survival | 344891 | [344891-monkey-king-five-elements-survival.json](./344891-monkey-king-five-elements-survival.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
@@ -11164,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
+| Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
 | Monster Looter | 101756 | [101756-monster-looter.json](./101756-monster-looter.json) |
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
