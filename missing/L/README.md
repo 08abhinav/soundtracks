@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthatory | 258639 | [258639-labyrinthatory.json](./258639-labyrinthatory.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
+| Labyrinthesis | 391106 | [391106-labyrinthesis.json](./391106-labyrinthesis.json) |
 | Labyrinthian | 55650 | [55650-labyrinthian.json](./55650-labyrinthian.json) |
 | Labyrinthian Lockdown | 290627 | [290627-labyrinthian-lockdown.json](./290627-labyrinthian-lockdown.json) |
 | Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
