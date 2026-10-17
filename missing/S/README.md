@@ -7191,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
+| Sigillum | 407173 | [407173-sigillum.json](./407173-sigillum.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma 7 | 36861 | [36861-sigma-7.json](./36861-sigma-7.json) |
@@ -11235,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
+| Sokoban 2 | 407226 | [407226-sokoban-2.json](./407226-sokoban-2.json) |
 | Sokoban Block Puzzle | 215315 | [215315-sokoban-block-puzzle.json](./215315-sokoban-block-puzzle.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
@@ -11692,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon no Kagi: Another Ver | 414621 | [414621-solomon-no-kagi-another-ver.json](./414621-solomon-no-kagi-another-ver.json) |
 | Solomon no Kagi: Oujo Rihita no Namida | 46127 | [46127-solomon-no-kagi-oujo-rihita-no-namida.json](./46127-solomon-no-kagi-oujo-rihita-no-namida.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
+| Solomon's Boneyard: Hideous Retro Edition | 407175 | [407175-solomons-boneyard-hideous-retro-edition.json](./407175-solomons-boneyard-hideous-retro-edition.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
@@ -15326,6 +15329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
+| SpinWhisker | 407178 | [407178-spinwhisker.json](./407178-spinwhisker.json) |
 | Spinword | 69567 | [69567-spinword.json](./69567-spinword.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
@@ -19636,7 +19640,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
 | Street Fighter 6: Additional Character - Alex | 347693 | [347693-street-fighter-6-additional-character-alex.json](./347693-street-fighter-6-additional-character-alex.json) |
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
+| Street Fighter 6: Additional Character - Arjun & Outfit 2 | 407142 | [407142-street-fighter-6-additional-character-arjun-and-outfit-2.json](./407142-street-fighter-6-additional-character-arjun-and-outfit-2.json) |
+| Street Fighter 6: Additional Character - Bosch & Outfit 2 & Outfit 3 (Yasmine, Arjun, Tifa, Bosch) | 407143 | [407143-street-fighter-6-additional-character-bosch-and-outfit-2-and-outfit-3-yasmine-arjun-tifa-bosch.json](./407143-street-fighter-6-additional-character-bosch-and-outfit-2-and-outfit-3-yasmine-arjun-tifa-bosch.json) |
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
+| Street Fighter 6: Additional Character - Tifa & Outfit 2 | 407144 | [407144-street-fighter-6-additional-character-tifa-and-outfit-2.json](./407144-street-fighter-6-additional-character-tifa-and-outfit-2.json) |
+| Street Fighter 6: Additional Character - Yasmine & Outfit 2 | 407145 | [407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json](./407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Lenticular Edition | 239145 | [239145-street-fighter-6-lenticular-edition.json](./239145-street-fighter-6-lenticular-edition.json) |
 | Street Fighter 6: Mad Gear Box | 239146 | [239146-street-fighter-6-mad-gear-box.json](./239146-street-fighter-6-mad-gear-box.json) |
