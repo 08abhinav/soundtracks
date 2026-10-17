@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
+| Jump Heat | 391104 | [391104-jump-heat.json](./391104-jump-heat.json) |
 | Jump Hero | 137956 | [137956-jump-hero.json](./137956-jump-hero.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Hero: Beginning | 166802 | [166802-jump-hero-beginning.json](./166802-jump-hero-beginning.json) |
