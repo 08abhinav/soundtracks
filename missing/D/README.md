@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Break: The Flaming Emperor | 95690 | [95690-dawn-break-the-flaming-emperor.json](./95690-dawn-break-the-flaming-emperor.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
+| Dawn Girl | 392115 | [392115-dawn-girl.json](./392115-dawn-girl.json) |
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
 | Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
@@ -5905,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
+| Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
@@ -7472,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
+| Distant Trails | 392119 | [392119-distant-trails.json](./392119-distant-trails.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
@@ -11443,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drew | 176747 | [176747-drew.json](./176747-drew.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Drewdler | 301079 | [301079-drewdler.json](./301079-drewdler.json) |
+| Drft | 392182 | [392182-drft.json](./392182-drft.json) |
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
