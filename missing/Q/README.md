@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest to be King | 99101 | [99101-quest-to-be-king.json](./99101-quest-to-be-king.json) |
 | Quest Together | 156696 | [156696-quest-together.json](./156696-quest-together.json) |
 | Quest Town Saga | 276137 | [276137-quest-town-saga.json](./276137-quest-town-saga.json) |
+| Quest-Top | 390030 | [390030-quest-top.json](./390030-quest-top.json) |
 | Quest: Brian's Journey | 49892 | [49892-quest-brians-journey.json](./49892-quest-brians-journey.json) |
 | Quest: Escape Room | 160180 | [160180-quest-escape-room.json](./160180-quest-escape-room.json) |
 | Quest: Escape Room 2 | 149391 | [149391-quest-escape-room-2.json](./149391-quest-escape-room-2.json) |
