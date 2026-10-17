@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:38:01.191Z",
-  "total_soundtracks": 2102,
+  "generated_at": "2026-10-17T15:40:25.901Z",
+  "total_soundtracks": 2103,
   "games": [
     {
       "igdb_id": 7522,
@@ -1136,6 +1136,20 @@
           "album_name": "Apsulov: End of Gods (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18853,
+      "game_name": "Aragami",
+      "game_url": "https://ostdb.net/games/aragami",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273434c03e1ac265e34e0b219cb",
+      "albums": [
+        {
+          "album_name": "Aragami (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/59EuNnwsJyfhGf6XQ5KS0Z",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
