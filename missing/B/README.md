@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
 | Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
+| Barrage | 366578 | [366578-barrage.json](./366578-barrage.json) |
 | Barrage | 78603 | [78603-barrage.json](./78603-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
