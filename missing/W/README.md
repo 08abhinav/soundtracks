@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WASDJK | 311198 | [311198-wasdjk.json](./311198-wasdjk.json) |
 | Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
+| Wash Cleaner Simulator | 380161 | [380161-wash-cleaner-simulator.json](./380161-wash-cleaner-simulator.json) |
 | Wash Sim | 294969 | [294969-wash-sim.json](./294969-wash-sim.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
