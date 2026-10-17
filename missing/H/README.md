@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
+| Her Time of the Month! | 364226 | [364226-her-time-of-the-month.json](./364226-her-time-of-the-month.json) |
 | Her Trees: First Puzzle | 222793 | [222793-her-trees-first-puzzle.json](./222793-her-trees-first-puzzle.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
 | Her War | 135752 | [135752-her-war.json](./135752-her-war.json) |
@@ -5592,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
+| Hill Slide: The Skate Adventure | 364229 | [364229-hill-slide-the-skate-adventure.json](./364229-hill-slide-the-skate-adventure.json) |
 | Hill Street Blues | 71989 | [71989-hill-street-blues.json](./71989-hill-street-blues.json) |
 | Hillary Race for the White House | 343880 | [343880-hillary-race-for-the-white-house.json](./343880-hillary-race-for-the-white-house.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
