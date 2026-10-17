@@ -5143,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
+| Hide and Luig | 385411 | [385411-hide-and-luig.json](./385411-hide-and-luig.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
+| Hotdog Cart Simulator | 385447 | [385447-hotdog-cart-simulator.json](./385447-hotdog-cart-simulator.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
 | Hotdog Man | 116189 | [116189-hotdog-man.json](./116189-hotdog-man.json) |
