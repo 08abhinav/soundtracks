@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
+| Teardown: Multiplayer | 393378 | [393378-teardown-multiplayer.json](./393378-teardown-multiplayer.json) |
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
+| Tekken 6: Bloodline Rebellion | 393420 | [393420-tekken-6-bloodline-rebellion.json](./393420-tekken-6-bloodline-rebellion.json) |
 | Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
 | Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
@@ -17918,6 +17920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
+| Tomboy Stranded in Space | 393388 | [393388-tomboy-stranded-in-space.json](./393388-tomboy-stranded-in-space.json) |
 | Tomboy: Trapped by Orcs | 348934 | [348934-tomboy-trapped-by-orcs.json](./348934-tomboy-trapped-by-orcs.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
