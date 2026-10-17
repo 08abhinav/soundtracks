@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Revenge | 219222 | [219222-carrot-revenge.json](./219222-carrot-revenge.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
+| Carrot Smash | 378522 | [378522-carrot-smash.json](./378522-carrot-smash.json) |
 | Carrot the Cat | 261314 | [261314-carrot-the-cat.json](./261314-carrot-the-cat.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
@@ -8433,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
+| Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
@@ -13003,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
@@ -14076,6 +14079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
+| Cut It! | 378530 | [378530-cut-it.json](./378530-cut-it.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
