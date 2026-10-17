@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
+| Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
 | Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Dissonance | 297349 | [297349-night-shift-dissonance.json](./297349-night-shift-dissonance.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
+| Ninja Arena | 376804 | [376804-ninja-arena.json](./376804-ninja-arena.json) |
 | Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
 | Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
