@@ -10236,7 +10236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
 | Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
-| Bramble: The Mountain King | 152124 | [152124-bramble-the-mountain-king.json](./152124-bramble-the-mountain-king.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
