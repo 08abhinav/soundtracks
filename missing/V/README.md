@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V8 Supercars 2 | 79836 | [79836-v8-supercars-2.json](./79836-v8-supercars-2.json) |
 | Va Pi Nu Pi Tu Ru | 395242 | [395242-va-pi-nu-pi-tu-ru.json](./395242-va-pi-nu-pi-tu-ru.json) |
 | VA-11 Hall-A Kids | 130622 | [130622-va-11-hall-a-kids.json](./130622-va-11-hall-a-kids.json) |
+| VA-11 HALL-A Prototype | 380827 | [380827-va-11-hall-a-prototype.json](./380827-va-11-hall-a-prototype.json) |
 | VA-11 Hall-A: Cyberpunk Bartender Action | 15465 | [15465-va-11-hall-a-cyberpunk-bartender-action.json](./15465-va-11-hall-a-cyberpunk-bartender-action.json) |
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
