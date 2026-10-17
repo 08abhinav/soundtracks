@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
 | Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
+| Death Counter | 412915 | [412915-death-counter.json](./412915-death-counter.json) |
 | Death Crimson | 54917 | [54917-death-crimson.json](./54917-death-crimson.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crimson OX | 40106 | [40106-death-crimson-ox.json](./40106-death-crimson-ox.json) |
@@ -3056,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flash | 97251 | [97251-death-flash.json](./97251-death-flash.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
+| Death Forest Echoes | 413018 | [413018-death-forest-echoes.json](./413018-death-forest-echoes.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
@@ -4448,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
+| Demon World: Raya's Way of Life | 412922 | [412922-demon-world-rayas-way-of-life.json](./412922-demon-world-rayas-way-of-life.json) |
 | Demon Zombie Outpost | 149861 | [149861-demon-zombie-outpost.json](./149861-demon-zombie-outpost.json) |
 | Demon: Recollect | 286222 | [286222-demon-recollect.json](./286222-demon-recollect.json) |
 | Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
@@ -7898,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
+| Dodge Blast | 412976 | [412976-dodge-blast.json](./412976-dodge-blast.json) |
 | Dodge Bubble | 116265 | [116265-dodge-bubble.json](./116265-dodge-bubble.json) |
 | Dodge Club Party | 58693 | [58693-dodge-club-party.json](./58693-dodge-club-party.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
