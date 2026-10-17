@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBC: Firebreak | 320144 | [320144-fbc-firebreak.json](./320144-fbc-firebreak.json) |
+| FBC: Firebreak - Breakpoint | 371013 | [371013-fbc-firebreak-breakpoint.json](./371013-fbc-firebreak-breakpoint.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
@@ -2781,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Lines | 368130 | [368130-femdom-lines.json](./368130-femdom-lines.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | Femdom Stories: Findom Simulator Sex Game | 368129 | [368129-femdom-stories-findom-simulator-sex-game.json](./368129-femdom-stories-findom-simulator-sex-game.json) |
+| Femdom University 0 | 371036 | [371036-femdom-university-0.json](./371036-femdom-university-0.json) |
 | Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Love Story | 187800 | [187800-first-love-story.json](./187800-first-love-story.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
+| First Moon of Mercury | 371005 | [371005-first-moon-of-mercury.json](./371005-first-moon-of-mercury.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Page of Love | 254955 | [254955-first-page-of-love.json](./254955-first-page-of-love.json) |
 | First Person Hooper | 237329 | [237329-first-person-hooper.json](./237329-first-person-hooper.json) |
