@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
 | Faker Crime: Elysion | 82709 | [82709-faker-crime-elysion.json](./82709-faker-crime-elysion.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
+| Falafel King | 416735 | [416735-falafel-king.json](./416735-falafel-king.json) |
 | Falafel Restaurant Simulator | 166840 | [166840-falafel-restaurant-simulator.json](./166840-falafel-restaurant-simulator.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
+| Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
 | Fallout 3: Broken Steel and Point Lookout | 202169 | [202169-fallout-3-broken-steel-and-point-lookout.json](./202169-fallout-3-broken-steel-and-point-lookout.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
@@ -5493,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flinger Tactics | 123899 | [123899-flinger-tactics.json](./123899-flinger-tactics.json) |
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flingleberries! | 171418 | [171418-flingleberries.json](./171418-flingleberries.json) |
+| Flingo | 416736 | [416736-flingo.json](./416736-flingo.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
@@ -8082,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
 | Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
 | Free War | 188326 | [188326-free-war.json](./188326-free-war.json) |
+| Free Wheels | 416737 | [416737-free-wheels.json](./416737-free-wheels.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free Yourself - The Gravity Puzzle Game Starring YOU | 81789 | [81789-free-yourself-the-gravity-puzzle-game-starring-you.json](./81789-free-yourself-the-gravity-puzzle-game-starring-you.json) |
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
@@ -9002,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Slice by Motion Capture | 289261 | [289261-fruit-slice-by-motion-capture.json](./289261-fruit-slice-by-motion-capture.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Smash | 174775 | [174775-fruit-smash.json](./174775-fruit-smash.json) |
+| Fruit Smash Lite | 416741 | [416741-fruit-smash-lite.json](./416741-fruit-smash-lite.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
