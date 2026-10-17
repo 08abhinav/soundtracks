@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
+| Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
 | Carnivores 2 | 20564 | [20564-carnivores-2.json](./20564-carnivores-2.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Requiem: Symphony of the Night & Rondo of Blood | 109594 | [109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json](./109594-castlevania-requiem-symphony-of-the-night-and-rondo-of-blood.json) |
 | Castlevania Retold II | 222975 | [222975-castlevania-retold-ii.json](./222975-castlevania-retold-ii.json) |
 | Castlevania SNES Port | 377219 | [377219-castlevania-snes-port.json](./377219-castlevania-snes-port.json) |
+| Castlevania: Anniversary Collection - Ultimate Edition | 384321 | [384321-castlevania-anniversary-collection-ultimate-edition.json](./384321-castlevania-anniversary-collection-ultimate-edition.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow | 222412 | [222412-castlevania-aria-of-sorrow.json](./222412-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow | 398836 | [398836-castlevania-aria-of-sorrow.json](./398836-castlevania-aria-of-sorrow.json) |
@@ -3119,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | Catrophy Trail | 230346 | [230346-catrophy-trail.json](./230346-catrophy-trail.json) |
+| Catrun | 384312 | [384312-catrun.json](./384312-catrun.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
@@ -14177,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
+| Cuttle | 384341 | [384341-cuttle.json](./384341-cuttle.json) |
 | Cuttlefish | 252018 | [252018-cuttlefish.json](./252018-cuttlefish.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
