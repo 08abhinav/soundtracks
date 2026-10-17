@@ -1944,9 +1944,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque | 4705 | [4705-baroque.json](./4705-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
+| Baroque FPS | 410811 | [410811-baroque-fps.json](./410811-baroque-fps.json) |
+| Baroque Maniac Quiz | 410807 | [410807-baroque-maniac-quiz.json](./410807-baroque-maniac-quiz.json) |
+| Baroque Online | 410813 | [410813-baroque-online.json](./410813-baroque-online.json) |
 | Baroque Shooting | 73368 | [73368-baroque-shooting.json](./73368-baroque-shooting.json) |
 | Baroque Shooting: Reversed | 378350 | [378350-baroque-shooting-reversed.json](./378350-baroque-shooting-reversed.json) |
 | Baroque Syndrome | 73872 | [73872-baroque-syndrome.json](./73872-baroque-syndrome.json) |
+| Baroque the Tower | 410810 | [410810-baroque-the-tower.json](./410810-baroque-the-tower.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
@@ -3484,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
+| Bean's Jack | 410906 | [410906-beans-jack.json](./410906-beans-jack.json) |
 | Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
@@ -6901,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
+| Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
@@ -11358,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
+| Bubba in the Turd Dimension | 410990 | [410990-bubba-in-the-turd-dimension.json](./410990-bubba-in-the-turd-dimension.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubba's Diner | 233969 | [233969-bubbas-diner.json](./233969-bubbas-diner.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
