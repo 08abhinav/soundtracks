@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigty Jigsaw Puzzles | 328004 | [328004-jigty-jigsaw-puzzles.json](./328004-jigty-jigsaw-puzzles.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
+| Jiji the Bajillionaire | 366577 | [366577-jiji-the-bajillionaire.json](./366577-jiji-the-bajillionaire.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
 | Jikki Pachi-Slot Simulator Vol. 1 | 254450 | [254450-jikki-pachi-slot-simulator-vol-1.json](./254450-jikki-pachi-slot-simulator-vol-1.json) |
