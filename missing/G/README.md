@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
+| Gear Number Go Up | 391013 | [391013-gear-number-go-up.json](./391013-gear-number-go-up.json) |
 | Gear of Glass: Eolarn's war | 181077 | [181077-gear-of-glass-eolarns-war.json](./181077-gear-of-glass-eolarns-war.json) |
 | Gear of Time | 329085 | [329085-gear-of-time.json](./329085-gear-of-time.json) |
 | Gear Path | 76913 | [76913-gear-path.json](./76913-gear-path.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
 | Give Me All Your Love | 282520 | [282520-give-me-all-your-love.json](./282520-give-me-all-your-love.json) |
+| Give Me Back! | 391099 | [391099-give-me-back.json](./391099-give-me-back.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give Me More Pills | 181094 | [181094-give-me-more-pills.json](./181094-give-me-more-pills.json) |
 | Give Me Strength | 165563 | [165563-give-me-strength.json](./165563-give-me-strength.json) |
@@ -5868,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
+| Graveyard Report | 391105 | [391105-graveyard-report.json](./391105-graveyard-report.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
 | Graveyard Shift | 271588 | [271588-graveyard-shift.json](./271588-graveyard-shift.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
