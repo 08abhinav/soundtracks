@@ -5494,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
 | Billy Hatcher and the Giant Egg | 3810 | [3810-billy-hatcher-and-the-giant-egg.json](./3810-billy-hatcher-and-the-giant-egg.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
+| Billy Hatcher Scrambled! | 402766 | [402766-billy-hatcher-scrambled.json](./402766-billy-hatcher-scrambled.json) |
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
