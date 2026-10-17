@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:01:16.193Z",
-  "total_soundtracks": 2027,
+  "generated_at": "2026-10-17T15:01:24.184Z",
+  "total_soundtracks": 2028,
   "games": [
     {
       "igdb_id": 7522,
@@ -18445,6 +18445,20 @@
         {
           "album_name": "SONIC RUSH ADVENTURE Original Soundtrack (Bonus Track Version)",
           "spotify_url": "https://open.spotify.com/album/16Vc29Y6JniVjfHI8Tk8W4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 252478,
+      "game_name": "Sonic Superstars",
+      "game_url": "https://ostdb.net/games/sonic-superstars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a29cceb3f930a7f214c12fb9",
+      "albums": [
+        {
+          "album_name": "Sonic Superstars Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6FRooPXIKWual1wUZMhIAM",
           "apple_music_url": "",
           "album_link_url": ""
         }
