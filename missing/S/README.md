@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
+| Scarlet Shift | 366588 | [366588-scarlet-shift.json](./366588-scarlet-shift.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Tale | 216930 | [216930-scarlet-tale.json](./216930-scarlet-tale.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Anime Puzzle Game: A Hentai Girl Puzzle Adventure | 366537 | [366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json](./366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json) |
 | Sexy Apocalypse Girls | 294966 | [294966-sexy-apocalypse-girls.json](./294966-sexy-apocalypse-girls.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
 | Sexy Beach 2 | 22421 | [22421-sexy-beach-2.json](./22421-sexy-beach-2.json) |
@@ -7349,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
+| Signs Of Life | 366579 | [366579-signs-of-life.json](./366579-signs-of-life.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signs of Zodiac | 161605 | [161605-signs-of-zodiac.json](./161605-signs-of-zodiac.json) |
 | Signum Malum | 342095 | [342095-signum-malum.json](./342095-signum-malum.json) |
@@ -13129,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
+| Soul Essence | 366582 | [366582-soul-essence.json](./366582-soul-essence.json) |
 | Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
 | Soul Fantasy | 191079 | [191079-soul-fantasy.json](./191079-soul-fantasy.json) |
 | Soul Fighter | 45840 | [45840-soul-fighter.json](./45840-soul-fighter.json) |
@@ -13314,6 +13318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
 | Souls | 51417 | [51417-souls.json](./51417-souls.json) |
+| Souls Alive: Origins | 366612 | [366612-souls-alive-origins.json](./366612-souls-alive-origins.json) |
 | Souls Chess | 301057 | [301057-souls-chess.json](./301057-souls-chess.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
@@ -19026,6 +19031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
