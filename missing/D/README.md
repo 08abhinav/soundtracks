@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Treasury | 151482 | [151482-dark-treasury.json](./151482-dark-treasury.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
+| Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadville | 277772 | [277772-deadville.json](./277772-deadville.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
+| Deadwave | 402845 | [402845-deadwave.json](./402845-deadwave.json) |
 | Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadwood Drive | 385302 | [385302-deadwood-drive.json](./385302-deadwood-drive.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Pferdebande: Falsches Spiel bei der Pferdeshow | 94956 | [94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json](./94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json) |
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
+| Die Rache der Sumpfhühner | 402835 | [402835-die-rache-der-sumpfhuhner.json](./402835-die-rache-der-sumpfhuhner.json) |
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
@@ -7438,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
+| Distant Paradise | 402858 | [402858-distant-paradise.json](./402858-distant-paradise.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
