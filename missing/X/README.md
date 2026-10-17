@@ -338,7 +338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X3: GoldBox | 53102 | [53102-x3-goldbox.json](./53102-x3-goldbox.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X4: Envoy Pack | 369445 | [369445-x4-envoy-pack.json](./369445-x4-envoy-pack.json) |
-| X4: Foundations | 55123 | [55123-x4-foundations.json](./55123-x4-foundations.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
 | X4: Hyperion Pack | 413188 | [413188-x4-hyperion-pack.json](./413188-x4-hyperion-pack.json) |
