@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:26:28.506Z",
-  "total_soundtracks": 2081,
+  "generated_at": "2026-10-17T15:26:36.353Z",
+  "total_soundtracks": 2082,
   "games": [
     {
       "igdb_id": 7522,
@@ -23106,6 +23106,20 @@
           "album_name": "Trine 2: Goblin Menace (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5azA00u9MDeXcBdBu2RXZZ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 110846,
+      "game_name": "Trine 4: The Nightmare Prince",
+      "game_url": "https://ostdb.net/games/trine-4-the-nightmare-prince",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732290d29bef911489eaba99f8",
+      "albums": [
+        {
+          "album_name": "Trine 4: The Nightmare Prince (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/75nJjVaDH6p2I2FqKvE9TD",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
