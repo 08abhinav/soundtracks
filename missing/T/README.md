@@ -6249,7 +6249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Travels: Oblivion | 77202 | [77202-the-elder-scrolls-travels-oblivion.json](./77202-the-elder-scrolls-travels-oblivion.json) |
 | The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
 | The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
-| The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
 | The Elder Scrolls V: Skyrim - Anniversary Edition | 165192 | [165192-the-elder-scrolls-v-skyrim-anniversary-edition.json](./165192-the-elder-scrolls-v-skyrim-anniversary-edition.json) |
 | The Elder Scrolls V: Skyrim - Apostasy | 392823 | [392823-the-elder-scrolls-v-skyrim-apostasy.json](./392823-the-elder-scrolls-v-skyrim-apostasy.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
@@ -17532,7 +17531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Time Trial | 105194 | [105194-toki-time-trial.json](./105194-toki-time-trial.json) |
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
-| Toki Tori | 2317 | [2317-toki-tori.json](./2317-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
