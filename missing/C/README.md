@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
 | Canyon Carnage | 420503 | [420503-canyon-carnage.json](./420503-canyon-carnage.json) |
 | Canyon Defense | 186125 | [186125-canyon-defense.json](./186125-canyon-defense.json) |
+| Canyon Defense 2 | 400671 | [400671-canyon-defense-2.json](./400671-canyon-defense-2.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
 | Canyon Ridge | 103385 | [103385-canyon-ridge.json](./103385-canyon-ridge.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clash: Mutants Vs Pirates | 93769 | [93769-clash-mutants-vs-pirates.json](./93769-clash-mutants-vs-pirates.json) |
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
+| Clash'N Slash | 400685 | [400685-clashn-slash.json](./400685-clashn-slash.json) |
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
@@ -12190,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
+| Crisis of Dreamcell | 400699 | [400699-crisis-of-dreamcell.json](./400699-crisis-of-dreamcell.json) |
 | Crisis of the Middle Ages | 118408 | [118408-crisis-of-the-middle-ages.json](./118408-crisis-of-the-middle-ages.json) |
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
 | Crisis on the Planet of the Apes VR | 89552 | [89552-crisis-on-the-planet-of-the-apes-vr.json](./89552-crisis-on-the-planet-of-the-apes-vr.json) |
