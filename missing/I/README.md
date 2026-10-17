@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'd Kiss That Fish | 321616 | [321616-id-kiss-that-fish.json](./321616-id-kiss-that-fish.json) |
 | I'd Look Better With Angel Wings | 257523 | [257523-id-look-better-with-angel-wings.json](./257523-id-look-better-with-angel-wings.json) |
+| I'd Lowkey Simp for that Bussin Femboy at Work | 393390 | [393390-id-lowkey-simp-for-that-bussin-femboy-at-work.json](./393390-id-lowkey-simp-for-that-bussin-femboy-at-work.json) |
 | I'd rather be fishing | 313755 | [313755-id-rather-be-fishing.json](./313755-id-rather-be-fishing.json) |
 | I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Be Home With You | 360145 | [360145-ill-be-home-with-you.json](./360145-ill-be-home-with-you.json) |
@@ -892,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
+| iDate: ReVibe | 393418 | [393418-idate-revibe.json](./393418-idate-revibe.json) |
 | Ide do szkoly | 318487 | [318487-ide-do-szkoly.json](./318487-ide-do-szkoly.json) |
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
