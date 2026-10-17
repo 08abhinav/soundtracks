@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eden | 30713 | [30713-dark-eden.json](./30713-dark-eden.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Eden: Blood War | 220288 | [220288-dark-eden-blood-war.json](./220288-dark-eden-blood-war.json) |
+| Dark Edge | 390038 | [390038-dark-edge.json](./390038-dark-edge.json) |
 | Dark Edge | 39413 | [39413-dark-edge.json](./39413-dark-edge.json) |
 | Dark Effigy | 181059 | [181059-dark-effigy.json](./181059-dark-effigy.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
+| Dark Fantasia | 390032 | [390032-dark-fantasia.json](./390032-dark-fantasia.json) |
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
 | Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
@@ -4274,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
+| Deluge: Raintime | 390063 | [390063-deluge-raintime.json](./390063-deluge-raintime.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
@@ -6414,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
+| Dilemma | 390026 | [390026-dilemma.json](./390026-dilemma.json) |
 | Dilemma: The Game | 353363 | [353363-dilemma-the-game.json](./353363-dilemma-the-game.json) |
 | Dilemo | 283684 | [283684-dilemo.json](./283684-dilemo.json) |
 | Dillingham | 379024 | [379024-dillingham.json](./379024-dillingham.json) |
@@ -12093,6 +12097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
+| Duat Wayfarer | 390042 | [390042-duat-wayfarer.json](./390042-duat-wayfarer.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
