@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatMafia | 158931 | [158931-catmafia.json](./158931-catmafia.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
+| Catmarine | 382001 | [382001-catmarine.json](./382001-catmarine.json) |
 | Catmaze | 74686 | [74686-catmaze.json](./74686-catmaze.json) |
 | Catmorphosis | 395252 | [395252-catmorphosis.json](./395252-catmorphosis.json) |
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
