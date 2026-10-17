@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If You Joined the Rugby Club... | 82698 | [82698-if-you-joined-the-rugby-club.json](./82698-if-you-joined-the-rugby-club.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
+| If You Stay | 396455 | [396455-if-you-stay.json](./396455-if-you-stay.json) |
 | If You Stay | 413853 | [413853-if-you-stay.json](./413853-if-you-stay.json) |
 | If You Touch Me, I Will Marry You. | 307221 | [307221-if-you-touch-me-i-will-marry-you.json](./307221-if-you-touch-me-i-will-marry-you.json) |
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 297908 | [297908-iris.json](./297908-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
+| Iris | 396352 | [396352-iris.json](./396352-iris.json) |
 | Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
 | Iris and the Giant: Deluxe Soundtrack Edition | 240337 | [240337-iris-and-the-giant-deluxe-soundtrack-edition.json](./240337-iris-and-the-giant-deluxe-soundtrack-edition.json) |
 | Iris Blade | 420006 | [420006-iris-blade.json](./420006-iris-blade.json) |
