@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
+| I Broke My Legs and Got Left Behind in a Burning Hospital | 381398 | [381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json](./381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
 | I Buried Steve | 415445 | [415445-i-buried-steve.json](./415445-i-buried-steve.json) |
