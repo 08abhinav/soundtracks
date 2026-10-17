@@ -3347,7 +3347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set | 405355 | [405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json](./405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json) |
 | Persona 5 Royal: Tracksuit Costume Set | 405353 | [405353-persona-5-royal-tracksuit-costume-set.json](./405353-persona-5-royal-tracksuit-costume-set.json) |
 | Persona 5 Royal: Velvet Room Costume & BGM Set | 405351 | [405351-persona-5-royal-velvet-room-costume-and-bgm-set.json](./405351-persona-5-royal-velvet-room-costume-and-bgm-set.json) |
-| Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
