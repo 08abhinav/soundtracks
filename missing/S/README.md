@@ -527,7 +527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Reborn | 422512 | [422512-saints-reborn.json](./422512-saints-reborn.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
-| Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
@@ -5871,7 +5870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
-| Shin Megami Tensei IV | 6886 | [6886-shin-megami-tensei-iv.json](./6886-shin-megami-tensei-iv.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
@@ -12266,7 +12264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
-| Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
 | Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
@@ -13171,7 +13168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
 | Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
-| SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | SoulCalibur VI: 2B | 168722 | [168722-soulcalibur-vi-2b.json](./168722-soulcalibur-vi-2b.json) |
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
