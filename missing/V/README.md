@@ -21,7 +21,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
-| V Rising | 148228 | [148228-v-rising.json](./148228-v-rising.json) |
 | V Rising: Dracula's Relics Pack | 226891 | [226891-v-rising-draculas-relics-pack.json](./226891-v-rising-draculas-relics-pack.json) |
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
 | V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
