@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:01:49.759Z",
-  "total_soundtracks": 2015,
+  "generated_at": "2026-10-17T12:01:59.362Z",
+  "total_soundtracks": 2016,
   "games": [
     {
       "igdb_id": 7522,
@@ -21771,6 +21771,20 @@
         {
           "album_name": "TimeSplitters (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6FfNaXPZx9Zt7frfqDrgFK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 131653,
+      "game_name": "Tiny Bunny",
+      "game_url": "https://ostdb.net/games/tiny-bunny",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d85828bf47cc109dedb45d8d",
+      "albums": [
+        {
+          "album_name": "Tiny Bunny (Original Game Soundtrack Compilation 1-4 Episode)",
+          "spotify_url": "https://open.spotify.com/album/5kL3FbRjyYQnpqik4vsIgP",
           "apple_music_url": "",
           "album_link_url": ""
         }
