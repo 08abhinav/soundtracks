@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
 | Nightmare Yokai Village | 222238 | [222238-nightmare-yokai-village.json](./222238-nightmare-yokai-village.json) |
 | Nightmare Zapping | 252277 | [252277-nightmare-zapping.json](./252277-nightmare-zapping.json) |
+| Nightmare: Reimagined Beginning | 381396 | [381396-nightmare-reimagined-beginning.json](./381396-nightmare-reimagined-beginning.json) |
 | Nightmare: The Lunatic | 186025 | [186025-nightmare-the-lunatic.json](./186025-nightmare-the-lunatic.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
