@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seonbi: Scholar of Joseon | 247949 | [247949-seonbi-scholar-of-joseon.json](./247949-seonbi-scholar-of-joseon.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
 | Seoul Apocalypse | 256454 | [256454-seoul-apocalypse.json](./256454-seoul-apocalypse.json) |
+| Seoul Bridge | 383161 | [383161-seoul-bridge.json](./383161-seoul-bridge.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
@@ -8716,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuf Simulator | 276968 | [276968-skuf-simulator.json](./276968-skuf-simulator.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
+| Skuld | 383093 | [383093-skuld.json](./383093-skuld.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
@@ -10072,6 +10074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Frenzy 3 | 54375 | [54375-smash-frenzy-3.json](./54375-smash-frenzy-3.json) |
 | Smash Frenzy 4 | 54376 | [54376-smash-frenzy-4.json](./54376-smash-frenzy-4.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
+| Smash Hit Museum | 383180 | [383180-smash-hit-museum.json](./383180-smash-hit-museum.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
 | Smash Hit Plunder | 112180 | [112180-smash-hit-plunder.json](./112180-smash-hit-plunder.json) |
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
@@ -11999,6 +12002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
 | SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
+| SongPop Live | 383182 | [383182-songpop-live.json](./383182-songpop-live.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
@@ -14914,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
+| Spell Fist | 383200 | [383200-spell-fist.json](./383200-spell-fist.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
@@ -25579,6 +25584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
+| Synthetic Orders | 383095 | [383095-synthetic-orders.json](./383095-synthetic-orders.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
