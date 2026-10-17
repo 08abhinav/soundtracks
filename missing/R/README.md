@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn: The Mark Of The Blood | 143465 | [143465-reborn-the-mark-of-the-blood.json](./143465-reborn-the-mark-of-the-blood.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound | 111188 | [111188-rebound.json](./111188-rebound.json) |
+| Rebound | 366547 | [366547-rebound.json](./366547-rebound.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Metal | 280745 | [280745-red-metal.json](./280745-red-metal.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
+| Red Moon Kingdom | 366606 | [366606-red-moon-kingdom.json](./366606-red-moon-kingdom.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red Moon: The Awakening of Alisa | 347306 | [347306-red-moon-the-awakening-of-alisa.json](./347306-red-moon-the-awakening-of-alisa.json) |
 | Red Night | 318065 | [318065-red-night.json](./318065-red-night.json) |
@@ -6134,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
+| Roadtrip: The Engine of Madness | 366601 | [366601-roadtrip-the-engine-of-madness.json](./366601-roadtrip-the-engine-of-madness.json) |
 | Roadwar 2000 | 12746 | [12746-roadwar-2000.json](./12746-roadwar-2000.json) |
 | Roadwar Europa | 12747 | [12747-roadwar-europa.json](./12747-roadwar-europa.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
@@ -6561,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
 | Roche Limit: The Death of CMK | 240370 | [240370-roche-limit-the-death-of-cmk.json](./240370-roche-limit-the-death-of-cmk.json) |
 | Rocher no Nagai Yoru | 265215 | [265215-rocher-no-nagai-yoru.json](./265215-rocher-no-nagai-yoru.json) |
+| Rochinko | 366572 | [366572-rochinko.json](./366572-rochinko.json) |
 | Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
@@ -8207,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
+| Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
 | Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
 | Royal Jigsaw 2 | 201470 | [201470-royal-jigsaw-2.json](./201470-royal-jigsaw-2.json) |
