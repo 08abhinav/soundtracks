@@ -4514,8 +4514,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Mahjong | 67925 | [67925-the-battle-of-mahjong.json](./67925-the-battle-of-mahjong.json) |
 | The Battle of Olympus | 7773 | [7773-the-battle-of-olympus.json](./7773-the-battle-of-olympus.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
+| The Battle of Polytopia: Ai-Mo | 371519 | [371519-the-battle-of-polytopia-ai-mo.json](./371519-the-battle-of-polytopia-ai-mo.json) |
 | The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
+| The Battle of Polytopia: Aumux | 371524 | [371524-the-battle-of-polytopia-aumux.json](./371524-the-battle-of-polytopia-aumux.json) |
 | The Battle of Polytopia: Baergøff | 366861 | [366861-the-battle-of-polytopia-baerg-ff.json](./366861-the-battle-of-polytopia-baerg-ff.json) |
+| The Battle of Polytopia: Cultists | 371525 | [371525-the-battle-of-polytopia-cultists.json](./371525-the-battle-of-polytopia-cultists.json) |
 | The Battle of Polytopia: Forgotten | 370329 | [370329-the-battle-of-polytopia-forgotten.json](./370329-the-battle-of-polytopia-forgotten.json) |
 | The Battle of Polytopia: Hoodrick | 366857 | [366857-the-battle-of-polytopia-hoodrick.json](./366857-the-battle-of-polytopia-hoodrick.json) |
 | The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
@@ -4528,6 +4531,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Skin Pack 2 | 255231 | [255231-the-battle-of-polytopia-skin-pack-2.json](./255231-the-battle-of-polytopia-skin-pack-2.json) |
 | The Battle of Polytopia: Skin Pack 3 | 255232 | [255232-the-battle-of-polytopia-skin-pack-3.json](./255232-the-battle-of-polytopia-skin-pack-3.json) |
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
+| The Battle of Polytopia: To-Lï | 371523 | [371523-the-battle-of-polytopia-to-li.json](./371523-the-battle-of-polytopia-to-li.json) |
+| The Battle of Polytopia: Ürkaz | 371526 | [371526-the-battle-of-polytopia-urkaz.json](./371526-the-battle-of-polytopia-urkaz.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
@@ -6614,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
+| The False Alice: Retold Tale | 371528 | [371528-the-false-alice-retold-tale.json](./371528-the-false-alice-retold-tale.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family | 218652 | [218652-the-family.json](./218652-the-family.json) |
 | The Family Cat | 190963 | [190963-the-family-cat.json](./190963-the-family-cat.json) |
@@ -7410,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
+| The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
@@ -12246,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
+| The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
@@ -22022,6 +22030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickshot League | 138504 | [138504-trickshot-league.json](./138504-trickshot-league.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
+| Trickshotterz | 371538 | [371538-trickshotterz.json](./371538-trickshotterz.json) |
 | Trickster | 57935 | [57935-trickster.json](./57935-trickster.json) |
 | Trickster Cards: Euchre | 334065 | [334065-trickster-cards-euchre.json](./334065-trickster-cards-euchre.json) |
 | Trickster Chaos | 280247 | [280247-trickster-chaos.json](./280247-trickster-chaos.json) |
