@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
 | Garmm Adventurer Vol.1 | 276259 | [276259-garmm-adventurer-vol-1.json](./276259-garmm-adventurer-vol-1.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
+| Garnet Arena: Mages of Magicary | 377366 | [377366-garnet-arena-mages-of-magicary.json](./377366-garnet-arena-mages-of-magicary.json) |
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Garnet Cradle Portable: Kagi no Himemiko | 221889 | [221889-garnet-cradle-portable-kagi-no-himemiko.json](./221889-garnet-cradle-portable-kagi-no-himemiko.json) |
 | Garnet Cradle: Sugary Sparkle | 221892 | [221892-garnet-cradle-sugary-sparkle.json](./221892-garnet-cradle-sugary-sparkle.json) |
