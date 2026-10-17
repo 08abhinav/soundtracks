@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
+| Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
 | Narisokonai Eiyuuden: Taiyou to Tsuki no Monogatari | 67878 | [67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json](./67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json) |
 | Narita Boy: Collector's Edition | 282052 | [282052-narita-boy-collectors-edition.json](./282052-narita-boy-collectors-edition.json) |
 | Nark the Dragon | 81693 | [81693-nark-the-dragon.json](./81693-nark-the-dragon.json) |
@@ -5344,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numblast | 20282 | [20282-numblast.json](./20282-numblast.json) |
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
+| Numbskull Monogatari | 415958 | [415958-numbskull-monogatari.json](./415958-numbskull-monogatari.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
