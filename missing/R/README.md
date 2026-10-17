@@ -8461,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
 | Ruffian | 92858 | [92858-ruffian.json](./92858-ruffian.json) |
+| Ruffnauts: Planet Pals | 363151 | [363151-ruffnauts-planet-pals.json](./363151-ruffnauts-planet-pals.json) |
 | Rufus Snackdown | 338401 | [338401-rufus-snackdown.json](./338401-rufus-snackdown.json) |
 | Rufus Snow Ride | 338404 | [338404-rufus-snow-ride.json](./338404-rufus-snow-ride.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
