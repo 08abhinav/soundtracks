@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Goo Adventure | 38769 | [38769-a-goo-adventure.json](./38769-a-goo-adventure.json) |
 | A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
 | A Good Day to Pie | 185398 | [185398-a-good-day-to-pie.json](./185398-a-good-day-to-pie.json) |
+| A Good Deed On Harris Avenue | 404160 | [404160-a-good-deed-on-harris-avenue.json](./404160-a-good-deed-on-harris-avenue.json) |
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
 | A Good Hunch | 219116 | [219116-a-good-hunch.json](./219116-a-good-hunch.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
@@ -1704,6 +1705,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Unexpected Visitor | 164584 | [164584-ace-combat-7-skies-unknown-unexpected-visitor.json](./164584-ace-combat-7-skies-unknown-unexpected-visitor.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
+| Ace Combat 8: Wings of Theve - Customizable Cosmetic Set | 404096 | [404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json](./404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json) |
+| Ace Combat 8: Wings of Theve - Playable Aircraft: F-14A | 404094 | [404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json](./404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json) |
+| Ace Combat 8: Wings of Theve Deluxe Edition | 404097 | [404097-ace-combat-8-wings-of-theve-deluxe-edition.json](./404097-ace-combat-8-wings-of-theve-deluxe-edition.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
@@ -2974,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Again | 193673 | [193673-again.json](./193673-again.json) |
 | Again and Again | 216182 | [216182-again-and-again.json](./216182-again-and-again.json) |
+| Again: Loop | 404168 | [404168-again-loop.json](./404168-again-loop.json) |
 | Again? | 106503 | [106503-again.json](./106503-again.json) |
 | Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
@@ -10919,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
 | Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
+| Astral Dive | 404088 | [404088-astral-dive.json](./404088-astral-dive.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
