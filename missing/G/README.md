@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
 | Games Galaxy 2 | 66946 | [66946-games-galaxy-2.json](./66946-games-galaxy-2.json) |
+| Games in Tight Spaces | 381883 | [381883-games-in-tight-spaces.json](./381883-games-in-tight-spaces.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Table Games Wii | 83448 | [83448-ginsei-table-games-wii.json](./83448-ginsei-table-games-wii.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
+| Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
 | Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
 | Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
@@ -3795,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
+| Gnorts vs. The Greylenoids | 381985 | [381985-gnorts-vs-the-greylenoids.json](./381985-gnorts-vs-the-greylenoids.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Gnosis | 388922 | [388922-gnosis.json](./388922-gnosis.json) |
