@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
+| Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lustful BlackJack: My Succubus Dealer | 384752 | [384752-lustful-blackjack-my-succubus-dealer.json](./384752-lustful-blackjack-my-succubus-dealer.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
+| Lustful Chemistry | 405951 | [405951-lustful-chemistry.json](./405951-lustful-chemistry.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
