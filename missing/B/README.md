@@ -8030,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
 | Bloxd.io | 280970 | [280970-bloxd-io.json](./280970-bloxd-io.json) |
 | Bloxeed | 38586 | [38586-bloxeed.json](./38586-bloxeed.json) |
+| Bloxer | 413587 | [413587-bloxer.json](./413587-bloxer.json) |
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
@@ -10762,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
+| Brickerang | 413591 | [413591-brickerang.json](./413591-brickerang.json) |
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
@@ -11700,6 +11702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
+| Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Buggy Off-Road: Combo Edition | 397890 | [397890-buggy-off-road-combo-edition.json](./397890-buggy-off-road-combo-edition.json) |
