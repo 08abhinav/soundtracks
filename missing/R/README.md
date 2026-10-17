@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
+| Reclock | 382495 | [382495-reclock.json](./382495-reclock.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
 | Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
 | Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
+| Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
@@ -5835,6 +5837,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals of Aether II | 245847 | [245847-rivals-of-aether-ii.json](./245847-rivals-of-aether-ii.json) |
+| Rivals of Aether: Arcade Skin Pack | 382510 | [382510-rivals-of-aether-arcade-skin-pack.json](./382510-rivals-of-aether-arcade-skin-pack.json) |
+| Rivals of Aether: Champion Skin Pack | 382512 | [382512-rivals-of-aether-champion-skin-pack.json](./382512-rivals-of-aether-champion-skin-pack.json) |
+| Rivals of Aether: Community Skin Pack | 382509 | [382509-rivals-of-aether-community-skin-pack.json](./382509-rivals-of-aether-community-skin-pack.json) |
+| Rivals of Aether: Genesis Skin Pack | 382511 | [382511-rivals-of-aether-genesis-skin-pack.json](./382511-rivals-of-aether-genesis-skin-pack.json) |
+| Rivals of Aether: Heat Wave Skin Pack | 382513 | [382513-rivals-of-aether-heat-wave-skin-pack.json](./382513-rivals-of-aether-heat-wave-skin-pack.json) |
+| Rivals of Aether: Legacy Skin Pack | 382508 | [382508-rivals-of-aether-legacy-skin-pack.json](./382508-rivals-of-aether-legacy-skin-pack.json) |
+| Rivals of Aether: Pool Party Skin Pack | 382506 | [382506-rivals-of-aether-pool-party-skin-pack.json](./382506-rivals-of-aether-pool-party-skin-pack.json) |
+| Rivals of Aether: Steampunk Skin Pack | 382507 | [382507-rivals-of-aether-steampunk-skin-pack.json](./382507-rivals-of-aether-steampunk-skin-pack.json) |
+| Rivals of Aether: Summit Skin Pack | 382514 | [382514-rivals-of-aether-summit-skin-pack.json](./382514-rivals-of-aether-summit-skin-pack.json) |
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
 | Rivals: Esports Manager | 327799 | [327799-rivals-esports-manager.json](./327799-rivals-esports-manager.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
@@ -9015,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
+| Rushline | 382497 | [382497-rushline.json](./382497-rushline.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Rushmore | 388331 | [388331-rushmore.json](./388331-rushmore.json) |
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
