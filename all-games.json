@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:41:59.536Z",
-  "total_soundtracks": 2115,
+  "generated_at": "2026-10-17T15:50:25.840Z",
+  "total_soundtracks": 2116,
   "games": [
     {
       "igdb_id": 7522,
@@ -1060,6 +1060,20 @@
           "album_name": "Anno 1800 – Post-Launch Compilation (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2959,
+      "game_name": "Anno 2070",
+      "game_url": "https://ostdb.net/games/anno-2070",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5a7cf9c2d64caffb4bcf49d",
+      "albums": [
+        {
+          "album_name": "Anno 2070 (Original Game Soundtrack) [Collector's Edition]",
+          "spotify_url": "https://open.spotify.com/album/45wvyBpfoVt3gJ3NiR4Tx1",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
