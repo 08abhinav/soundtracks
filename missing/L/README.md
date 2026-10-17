@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Room on Rails | 314014 | [314014-locked-room-on-rails.json](./314014-locked-room-on-rails.json) |
+| Locked Together | 372722 | [372722-locked-together.json](./372722-locked-together.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
