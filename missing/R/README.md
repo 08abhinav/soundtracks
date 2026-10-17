@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
+| Rail Route: Map Pack | 376799 | [376799-rail-route-map-pack.json](./376799-rail-route-map-pack.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Simulator | 10740 | [10740-rail-simulator.json](./10740-rail-simulator.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
 | Relay | 179989 | [179989-relay.json](./179989-relay.json) |
+| Relay | 376814 | [376814-relay.json](./376814-relay.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
 | Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
@@ -4525,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant | 26630 | [26630-revenant.json](./26630-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
+| Revenant | 376823 | [376823-revenant.json](./376823-revenant.json) |
 | Revenant Dogma | 38505 | [38505-revenant-dogma.json](./38505-revenant-dogma.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
 | Revenant in the Paradise | 114501 | [114501-revenant-in-the-paradise.json](./114501-revenant-in-the-paradise.json) |
