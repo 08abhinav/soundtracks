@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
+| Gravity Bumpers | 404652 | [404652-gravity-bumpers.json](./404652-gravity-bumpers.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
@@ -7186,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
+| Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
@@ -7199,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
+| Guild Wars 3 | 404694 | [404694-guild-wars-3.json](./404694-guild-wars-3.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Factions - Collector's Edition | 142206 | [142206-guild-wars-factions-collectors-edition.json](./142206-guild-wars-factions-collectors-edition.json) |
@@ -7259,6 +7262,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors: Baiken | 338151 | [338151-guilty-gear-xrd-rev-2-character-colors-baiken.json](./338151-guilty-gear-xrd-rev-2-character-colors-baiken.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors: Bedman | 338152 | [338152-guilty-gear-xrd-rev-2-character-colors-bedman.json](./338152-guilty-gear-xrd-rev-2-character-colors-bedman.json) |
+| Guilty Gear Xrd: Revalator - Playable Character Dizzy | 404655 | [404655-guilty-gear-xrd-revalator-playable-character-dizzy.json](./404655-guilty-gear-xrd-revalator-playable-character-dizzy.json) |
+| Guilty Gear Xrd: Revalator - Playable Character Sin Kiske | 404656 | [404656-guilty-gear-xrd-revalator-playable-character-sin-kiske.json](./404656-guilty-gear-xrd-revalator-playable-character-sin-kiske.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Additional Playable Character Kum Haehyun | 409067 | [409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json](./409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json) |
 | Guilty Gear Xrd: Revelator - Character Colors Pack | 409068 | [409068-guilty-gear-xrd-revelator-character-colors-pack.json](./409068-guilty-gear-xrd-revelator-character-colors-pack.json) |
@@ -7587,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Nova | 331365 | [331365-gundam-nova.json](./331365-gundam-nova.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
+| Gundam Rogue Orbit | 404690 | [404690-gundam-rogue-orbit.json](./404690-gundam-rogue-orbit.json) |
 | Gundam Side Story 0079: Rise From the Ashes | 45859 | [45859-gundam-side-story-0079-rise-from-the-ashes.json](./45859-gundam-side-story-0079-rise-from-the-ashes.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
