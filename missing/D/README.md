@@ -3862,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Life: TD | 9882 | [9882-defend-your-life-td.json](./9882-defend-your-life-td.json) |
 | Defend Your Motti | 108943 | [108943-defend-your-motti.json](./108943-defend-your-motti.json) |
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
+| Defend Your Nuts 2 | 399466 | [399466-defend-your-nuts-2.json](./399466-defend-your-nuts-2.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
+| Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
@@ -11536,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Hero Legend | 291899 | [291899-drill-hero-legend.json](./291899-drill-hero-legend.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
+| Drill Panic | 399431 | [399431-drill-panic.json](./399431-drill-panic.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
 | Drill Sergeant Mindstrong | 51116 | [51116-drill-sergeant-mindstrong.json](./51116-drill-sergeant-mindstrong.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
@@ -11952,6 +11955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
+| Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
 | Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
@@ -13370,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
 | Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
+| Dynamo Kid Touch | 399424 | [399424-dynamo-kid-touch.json](./399424-dynamo-kid-touch.json) |
 | Dynapuff Jump! | 102030 | [102030-dynapuff-jump.json](./102030-dynapuff-jump.json) |
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
