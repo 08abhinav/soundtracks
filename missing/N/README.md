@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
+| Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
 | Net de Bomberman | 77673 | [77673-net-de-bomberman.json](./77673-net-de-bomberman.json) |
 | Net de Get: Minigame @100 | 107186 | [107186-net-de-get-minigame-100.json](./107186-net-de-get-minigame-100.json) |
@@ -3275,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
+| Nightmare Drive | 391655 | [391655-nightmare-drive.json](./391655-nightmare-drive.json) |
 | Nightmare Farm | 194343 | [194343-nightmare-farm.json](./194343-nightmare-farm.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
