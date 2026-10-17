@@ -6022,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flushed Away | 243193 | [243193-flushed-away.json](./243193-flushed-away.json) |
 | Flushed Away | 243194 | [243194-flushed-away.json](./243194-flushed-away.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
+| FlushFall | 369355 | [369355-flushfall.json](./369355-flushfall.json) |
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
