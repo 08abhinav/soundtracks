@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
+| Koltera 2 | 392207 | [392207-koltera-2.json](./392207-koltera-2.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
 | Kolydr | 387605 | [387605-kolydr.json](./387605-kolydr.json) |
 | Koma | 266883 | [266883-koma.json](./266883-koma.json) |
@@ -3849,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
+| Korinki | 392204 | [392204-korinki.json](./392204-korinki.json) |
 | Korix | 22755 | [22755-korix.json](./22755-korix.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
 | Koro Pata | 91385 | [91385-koro-pata.json](./91385-koro-pata.json) |
