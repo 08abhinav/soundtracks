@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
+| Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
@@ -9188,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
+| FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
 | Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
