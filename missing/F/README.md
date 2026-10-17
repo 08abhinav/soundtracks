@@ -7086,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
 | Forlorn | 273555 | [273555-forlorn.json](./273555-forlorn.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
+| Forlorn Manor | 383202 | [383202-forlorn-manor.json](./383202-forlorn-manor.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
