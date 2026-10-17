@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
 | Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
+| Yogenkyo | 402840 | [402840-yogenkyo.json](./402840-yogenkyo.json) |
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yule Sock | 178610 | [178610-yule-sock.json](./178610-yule-sock.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yuletide Legends: Who Framed Santa Claus | 127738 | [127738-yuletide-legends-who-framed-santa-claus.json](./127738-yuletide-legends-who-framed-santa-claus.json) |
+| Yuletide Machine | 402856 | [402856-yuletide-machine.json](./402856-yuletide-machine.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
