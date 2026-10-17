@@ -6040,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyeeex | 117619 | [117619-flyeeex.json](./117619-flyeeex.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyff Legacy | 68901 | [68901-flyff-legacy.json](./68901-flyff-legacy.json) |
+| FlyFuture | 413445 | [413445-flyfuture.json](./413445-flyfuture.json) |
 | Flyga | 293004 | [293004-flyga.json](./293004-flyga.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia | 287881 | [287881-flyhight-cloudia.json](./287881-flyhight-cloudia.json) |
@@ -6325,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
+| Food Store Simulator | 413448 | [413448-food-store-simulator.json](./413448-food-store-simulator.json) |
 | Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
