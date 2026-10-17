@@ -5666,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Flower | 267577 | [267577-lost-flower.json](./267577-lost-flower.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
+| Lost Found Secure | 380145 | [380145-lost-found-secure.json](./380145-lost-found-secure.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
@@ -7053,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Academy: Season 3 | 289462 | [289462-lust-academy-season-3.json](./289462-lust-academy-season-3.json) |
+| Lust Anime Girls | 380162 | [380162-lust-anime-girls.json](./380162-lust-anime-girls.json) |
 | Lust Arcanum | 350625 | [350625-lust-arcanum.json](./350625-lust-arcanum.json) |
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
