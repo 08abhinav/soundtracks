@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Together | 173051 | [173051-golf-together.json](./173051-golf-together.json) |
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
 | Golf Training | 90924 | [90924-golf-training.json](./90924-golf-training.json) |
+| Golf Training at Home, Good Putt! | 368763 | [368763-golf-training-at-home-good-putt.json](./368763-golf-training-at-home-good-putt.json) |
 | Golf Up | 324977 | [324977-golf-up.json](./324977-golf-up.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf vs. Zombies | 244852 | [244852-golf-vs-zombies.json](./244852-golf-vs-zombies.json) |
