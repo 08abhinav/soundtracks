@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
+| Icy Cave | 409242 | [409242-icy-cave.json](./409242-icy-cave.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Construction 3D | 294046 | [294046-idle-construction-3d.json](./294046-idle-construction-3d.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
+| Idle Crown | 409201 | [409201-idle-crown.json](./409201-idle-crown.json) |
 | Idle Crypto Capitalist | 262924 | [262924-idle-crypto-capitalist.json](./262924-idle-crypto-capitalist.json) |
 | Idle Cultivation | 369241 | [369241-idle-cultivation.json](./369241-idle-cultivation.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
@@ -4462,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iso-Sphere | 34146 | [34146-iso-sphere.json](./34146-iso-sphere.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
+| Isoball 3 | 409239 | [409239-isoball-3.json](./409239-isoball-3.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
 | IsoChess | 236779 | [236779-isochess.json](./236779-isochess.json) |
 | IsoCubes | 151605 | [151605-isocubes.json](./151605-isocubes.json) |
@@ -4728,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
 | Itty Bitty Toilet Kitty | 332973 | [332973-itty-bitty-toilet-kitty.json](./332973-itty-bitty-toilet-kitty.json) |
 | ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
+| ItzVerse: The Last File | 409209 | [409209-itzverse-the-last-file.json](./409209-itzverse-the-last-file.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
 | Ivan ''Ironman'' Stewart's Super Off Road | 12735 | [12735-ivan-ironman-stewarts-super-off-road.json](./12735-ivan-ironman-stewarts-super-off-road.json) |
