@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep in Mind: Remastered - Deluxe Edition | 187851 | [187851-keep-in-mind-remastered-deluxe-edition.json](./187851-keep-in-mind-remastered-deluxe-edition.json) |
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
 | Keep it alive! | 311680 | [311680-keep-it-alive.json](./311680-keep-it-alive.json) |
+| Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
