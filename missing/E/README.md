@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad | 393932 | [393932-echoes-of-aincrad.json](./393932-echoes-of-aincrad.json) |
 | Echoes of Aincrad: Genesis Maidens | 416126 | [416126-echoes-of-aincrad-genesis-maidens.json](./416126-echoes-of-aincrad-genesis-maidens.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
+| Echoes of Aincrad: Ultimate Edition | 393968 | [393968-echoes-of-aincrad-ultimate-edition.json](./393968-echoes-of-aincrad-ultimate-edition.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
+| Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
