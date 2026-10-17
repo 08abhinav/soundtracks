@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Dream Race | 17630 | [17630-4x4-dream-race.json](./17630-4x4-dream-race.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
 | 4x4 Hummer | 46453 | [46453-4x4-hummer.json](./46453-4x4-hummer.json) |
+| 4x4 in a Furniture Store | 385958 | [385958-4x4-in-a-furniture-store.json](./385958-4x4-in-a-furniture-store.json) |
 | 4x4 Jam | 42785 | [42785-4x4-jam.json](./42785-4x4-jam.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Mud: Offroad Car Simulator & Truck | 270330 | [270330-4x4-mud-offroad-car-simulator-and-truck.json](./270330-4x4-mud-offroad-car-simulator-and-truck.json) |
