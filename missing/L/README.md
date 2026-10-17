@@ -22,7 +22,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
-| L.A. Noire | 59849 | [59849-l-a-noire.json](./59849-l-a-noire.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
