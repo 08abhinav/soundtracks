@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
 | JoJo's Bizarre Adventure: Golden Spirit | 413426 | [413426-jojos-bizarre-adventure-golden-spirit.json](./413426-jojos-bizarre-adventure-golden-spirit.json) |
 | JoJo's Bizarre Adventure: Heritage for the Future | 75962 | [75962-jojos-bizarre-adventure-heritage-for-the-future.json](./75962-jojos-bizarre-adventure-heritage-for-the-future.json) |
+| JoJo's Bizarre Adventure: Ora Ora Overdrive | 372767 | [372767-jojos-bizarre-adventure-ora-ora-overdrive.json](./372767-jojos-bizarre-adventure-ora-ora-overdrive.json) |
 | JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
 | JoJo's Bizarre Adventure: Stardust Shooters | 62019 | [62019-jojos-bizarre-adventure-stardust-shooters.json](./62019-jojos-bizarre-adventure-stardust-shooters.json) |
 | Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josou Gal Bitch Gakuen | 59047 | [59047-josou-gal-bitch-gakuen.json](./59047-josou-gal-bitch-gakuen.json) |
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | JosPlays' Escape: GameJam April 2024 | 303597 | [303597-josplays-escape-gamejam-april-2024.json](./303597-josplays-escape-gamejam-april-2024.json) |
+| Joth Fading | 372726 | [372726-joth-fading.json](./372726-joth-fading.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
 | Jotun: Valhalla Edition | 18149 | [18149-jotun-valhalla-edition.json](./18149-jotun-valhalla-edition.json) |
 | Jotunn: Day of Judgement | 223069 | [223069-jotunn-day-of-judgement.json](./223069-jotunn-day-of-judgement.json) |
