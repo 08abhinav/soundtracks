@@ -4938,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All in Casino Girls: Extended Edition | 237855 | [237855-all-in-casino-girls-extended-edition.json](./237855-all-in-casino-girls-extended-edition.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
+| All in One | 390565 | [390565-all-in-one.json](./390565-all-in-one.json) |
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
 | All In One Sports: Four Ball Billiards | 417371 | [417371-all-in-one-sports-four-ball-billiards.json](./417371-all-in-one-sports-four-ball-billiards.json) |
 | All In One Sports: Hockey | 417369 | [417369-all-in-one-sports-hockey.json](./417369-all-in-one-sports-hockey.json) |
@@ -6051,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
+| Among Paws | 390570 | [390570-among-paws.json](./390570-among-paws.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
@@ -8226,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
 | Aquaman: Battle for Atlantis | 3788 | [3788-aquaman-battle-for-atlantis.json](./3788-aquaman-battle-for-atlantis.json) |
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
+| Aquamarine: Explorer's Edition | 390486 | [390486-aquamarine-explorers-edition.json](./390486-aquamarine-explorers-edition.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
@@ -8438,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
+| Arcade Archives 2: Mega Zone | 390481 | [390481-arcade-archives-2-mega-zone.json](./390481-arcade-archives-2-mega-zone.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
@@ -8580,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mat Mania Exciting Hour | 99793 | [99793-arcade-archives-mat-mania-exciting-hour.json](./99793-arcade-archives-mat-mania-exciting-hour.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
+| Arcade Archives: Mega Zone | 390482 | [390482-arcade-archives-mega-zone.json](./390482-arcade-archives-mega-zone.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
@@ -10861,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Must Die! 2 | 178629 | [178629-asteroid-must-die-2.json](./178629-asteroid-must-die-2.json) |
 | Asteroid Next | 25705 | [25705-asteroid-next.json](./25705-asteroid-next.json) |
 | Asteroid Odyssey | 383510 | [383510-asteroid-odyssey.json](./383510-asteroid-odyssey.json) |
+| Asteroid Patrol | 390560 | [390560-asteroid-patrol.json](./390560-asteroid-patrol.json) |
 | Asteroid Quarry | 84770 | [84770-asteroid-quarry.json](./84770-asteroid-quarry.json) |
 | Asteroid Quest! | 100766 | [100766-asteroid-quest.json](./100766-asteroid-quest.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
@@ -12315,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
+| Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
