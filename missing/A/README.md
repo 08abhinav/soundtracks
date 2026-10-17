@@ -9088,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Outpost | 262264 | [262264-arctic-outpost.json](./262264-arctic-outpost.json) |
 | Arctic Quest | 175787 | [175787-arctic-quest.json](./175787-arctic-quest.json) |
 | Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
+| Arctic Shift: Fuel Station | 410497 | [410497-arctic-shift-fuel-station.json](./410497-arctic-shift-fuel-station.json) |
 | Arctic Stud Poker Run | 21432 | [21432-arctic-stud-poker-run.json](./21432-arctic-stud-poker-run.json) |
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
@@ -9490,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights Episode 15: Dissociative Recombination | 413438 | [413438-arknights-episode-15-dissociative-recombination.json](./413438-arknights-episode-15-dissociative-recombination.json) |
 | Arknights Episode 16: Abnormal Spectrum | 413439 | [413439-arknights-episode-16-abnormal-spectrum.json](./413439-arknights-episode-16-abnormal-spectrum.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
+| Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
