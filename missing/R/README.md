@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters 2: Operation Hell Dive | 8859 | [8859-raiden-fighters-2-operation-hell-dive.json](./8859-raiden-fighters-2-operation-hell-dive.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
 | Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
+| Raiden Fighters Remix | 394652 | [394652-raiden-fighters-remix.json](./394652-raiden-fighters-remix.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax | 225770 | [225770-raiden-iii-x-mikado-maniax.json](./225770-raiden-iii-x-mikado-maniax.json) |
@@ -4716,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
+| Rewolborough Vol.1 | 394622 | [394622-rewolborough-vol-1.json](./394622-rewolborough-vol-1.json) |
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
