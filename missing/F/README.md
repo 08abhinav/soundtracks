@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
+| Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
@@ -5335,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
 | Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
 | Fleet Commander II | 41805 | [41805-fleet-commander-ii.json](./41805-fleet-commander-ii.json) |
+| Fleet Conquest | 410277 | [410277-fleet-conquest.json](./410277-fleet-conquest.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
