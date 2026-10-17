@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Secrets Untold | 182750 | [182750-secrets-untold.json](./182750-secrets-untold.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
+| Sect Leader's Decree | 393981 | [393981-sect-leaders-decree.json](./393981-sect-leaders-decree.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
@@ -15977,6 +15978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
+| SportsBlitz | 393985 | [393985-sportsblitz.json](./393985-sportsblitz.json) |
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
 | Sportsman's Double Play | 63648 | [63648-sportsmans-double-play.json](./63648-sportsmans-double-play.json) |
 | Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
@@ -18973,6 +18975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stifflip & Co. | 36883 | [36883-stifflip-and-co.json](./36883-stifflip-and-co.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
+| Stigma: Dragonfly | 393988 | [393988-stigma-dragonfly.json](./393988-stigma-dragonfly.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
@@ -19592,6 +19595,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
+| Stray Sheep and Corpse Love | 393979 | [393979-stray-sheep-and-corpse-love.json](./393979-stray-sheep-and-corpse-love.json) |
+| Stray Sheep vs. Unreal Killers | 393978 | [393978-stray-sheep-vs-unreal-killers.json](./393978-stray-sheep-vs-unreal-killers.json) |
 | Stray Sheep: The Adventures of Poe and Merry | 142790 | [142790-stray-sheep-the-adventures-of-poe-and-merry.json](./142790-stray-sheep-the-adventures-of-poe-and-merry.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
