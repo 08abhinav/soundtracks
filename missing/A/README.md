@@ -9501,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arimaa | 139750 | [139750-arimaa.json](./139750-arimaa.json) |
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
+| Arinoa: Conquest | 374359 | [374359-arinoa-conquest.json](./374359-arinoa-conquest.json) |
 | Ario | 293346 | [293346-ario.json](./293346-ario.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
@@ -10388,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | Ashbane | 387139 | [387139-ashbane.json](./387139-ashbane.json) |
+| Ashbound Expanse | 374362 | [374362-ashbound-expanse.json](./374362-ashbound-expanse.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
 | Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
