@@ -4591,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernograd | 307272 | [307272-chernograd.json](./307272-chernograd.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Chernov Incident | 392852 | [392852-chernov-incident.json](./392852-chernov-incident.json) |
+| Cherokee Numbers Maze | 375494 | [375494-cherokee-numbers-maze.json](./375494-cherokee-numbers-maze.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
 | Cherry blossom | 392414 | [392414-cherry-blossom.json](./392414-cherry-blossom.json) |
 | Cherry Blossom | 380064 | [380064-cherry-blossom.json](./380064-cherry-blossom.json) |
