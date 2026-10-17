@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:22.320Z",
-  "total_soundtracks": 2090,
+  "generated_at": "2026-10-17T15:36:29.814Z",
+  "total_soundtracks": 2091,
   "games": [
     {
       "igdb_id": 7522,
@@ -13337,6 +13337,20 @@
         {
           "album_name": "Medal of Honor: Rising Sun (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6sMtKW4mZmYnXecJFWiJ6K",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1308,
+      "game_name": "Medal of Honor: Underground",
+      "game_url": "https://ostdb.net/games/medal-of-honor-underground",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27345f8fd2c4ff5e856dddae43e",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Underground (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4oSATScWPNj78mIi0fIi9Y",
           "apple_music_url": "",
           "album_link_url": ""
         }
