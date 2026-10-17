@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
 | Back to Modern World: Fantasy Hero | 364966 | [364966-back-to-modern-world-fantasy-hero.json](./364966-back-to-modern-world-fantasy-hero.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
+| Back to Origin | 405967 | [405967-back-to-origin.json](./405967-back-to-origin.json) |
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
 | Back to Saturn X Episode 2: Tower in the Fountain of Sparks | 340875 | [340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json](./340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json) |
 | Back to Saturn X Episode 3: Instructions to the Rusty Time Machine | 340877 | [340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json](./340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Pencil | 417944 | [417944-black-pencil.json](./417944-black-pencil.json) |
 | Black Penguin | 92958 | [92958-black-penguin.json](./92958-black-penguin.json) |
 | Black Pieces Move First | 360695 | [360695-black-pieces-move-first.json](./360695-black-pieces-move-first.json) |
+| Black Plague | 405942 | [405942-black-plague.json](./405942-black-plague.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
