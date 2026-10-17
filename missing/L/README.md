@@ -6121,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
 | Love is Our Specialty! | 210520 | [210520-love-is-our-specialty.json](./210520-love-is-our-specialty.json) |
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
+| Love is Trauma | 393419 | [393419-love-is-trauma.json](./393419-love-is-trauma.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
