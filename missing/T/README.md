@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenyshire | 274004 | [274004-teenyshire.json](./274004-teenyshire.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeter | 324975 | [324975-teeter.json](./324975-teeter.json) |
+| Teeter | 398279 | [398279-teeter.json](./398279-teeter.json) |
 | Teeter Torture | 39513 | [39513-teeter-torture.json](./39513-teeter-torture.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
+| The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
@@ -14119,6 +14122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves and Gold | 404359 | [404359-thieves-and-gold.json](./404359-thieves-and-gold.json) |
 | Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
+| Thieves and Tasers | 398273 | [398273-thieves-and-tasers.json](./398273-thieves-and-tasers.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves Guild Tycoon | 58731 | [58731-thieves-guild-tycoon.json](./58731-thieves-guild-tycoon.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
@@ -19428,6 +19432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
+| Town of Cinders | 398307 | [398307-town-of-cinders.json](./398307-town-of-cinders.json) |
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
