@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
+| A Completely Normal Dating Simulation That Is Definitely Completely Sweet, Innnocent and Normal: Somethingeth Aniversary Edition | 368246 | [368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json](./368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json) |
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
@@ -1601,6 +1602,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
+| ACA NeoGeo Selection Vol. 5 | 368234 | [368234-aca-neogeo-selection-vol-5.json](./368234-aca-neogeo-selection-vol-5.json) |
+| ACA NeoGeo Selection Vol. 6 | 368238 | [368238-aca-neogeo-selection-vol-6.json](./368238-aca-neogeo-selection-vol-6.json) |
+| ACA NeoGeo Selection Vol. 7 | 368241 | [368241-aca-neogeo-selection-vol-7.json](./368241-aca-neogeo-selection-vol-7.json) |
+| ACA NeoGeo Selection Vol. 8 | 368243 | [368243-aca-neogeo-selection-vol-8.json](./368243-aca-neogeo-selection-vol-8.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
@@ -3405,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
 | AI Limit | 115846 | [115846-ai-limit.json](./115846-ai-limit.json) |
 | AI Limit: Eirene's Furnace of War | 378528 | [378528-ai-limit-eirenes-furnace-of-war.json](./378528-ai-limit-eirenes-furnace-of-war.json) |
+| Ai Love | 368272 | [368272-ai-love.json](./368272-ai-love.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
@@ -8844,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202791 | [202791-arcade-gamer-classic.json](./202791-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202792 | [202792-arcade-gamer-classic.json](./202792-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
+| Arcade Games Collection | 368265 | [368265-arcade-games-collection.json](./368265-arcade-games-collection.json) |
 | Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
