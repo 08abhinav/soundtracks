@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
 | Hiveswap: Act 1 | 11631 | [11631-hiveswap-act-1.json](./11631-hiveswap-act-1.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
+| Hivex | 409246 | [409246-hivex.json](./409246-hivex.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
@@ -7395,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel 19-95 | 37004 | [37004-hotel-19-95.json](./37004-hotel-19-95.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
+| Hotel 8 | 409218 | [409218-hotel-8.json](./409218-hotel-8.json) |
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
@@ -8307,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter | 112716 | [112716-hunter.json](./112716-hunter.json) |
 | Hunter | 12149 | [12149-hunter.json](./12149-hunter.json) |
 | Hunter | 303816 | [303816-hunter.json](./303816-hunter.json) |
+| Hunter | 409230 | [409230-hunter.json](./409230-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
@@ -8341,6 +8344,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
+| Hunter: Brotherhood | 409233 | [409233-hunter-brotherhood.json](./409233-hunter-brotherhood.json) |
+| Hunter: Red Star | 409232 | [409232-hunter-red-star.json](./409232-hunter-red-star.json) |
+| Hunter: Snowfall | 409231 | [409231-hunter-snowfall.json](./409231-hunter-snowfall.json) |
 | Hunter: The Reckoning | 3950 | [3950-hunter-the-reckoning.json](./3950-hunter-the-reckoning.json) |
 | Hunter: The Reckoning - Day for Night | 408918 | [408918-hunter-the-reckoning-day-for-night.json](./408918-hunter-the-reckoning-day-for-night.json) |
 | Hunter: The Reckoning - Deathwish | 396020 | [396020-hunter-the-reckoning-deathwish.json](./396020-hunter-the-reckoning-deathwish.json) |
@@ -8761,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
 | Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
+| HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
