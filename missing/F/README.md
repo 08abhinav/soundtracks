@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
+| Fallen Princess Knight | 393384 | [393384-fallen-princess-knight.json](./393384-fallen-princess-knight.json) |
 | Fallen Rebellion | 158114 | [158114-fallen-rebellion.json](./158114-fallen-rebellion.json) |
 | Fallen Region | 130253 | [130253-fallen-region.json](./130253-fallen-region.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
@@ -6266,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
+| Foldy Bird | 393408 | [393408-foldy-bird.json](./393408-foldy-bird.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Foley's Escape | 53037 | [53037-foleys-escape.json](./53037-foleys-escape.json) |
 | Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
@@ -9138,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
+| Fuck Who You Desire | 393382 | [393382-fuck-who-you-desire.json](./393382-fuck-who-you-desire.json) |
 | Fuck You Witch | 293818 | [293818-fuck-you-witch.json](./293818-fuck-you-witch.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
@@ -9621,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
+| Furry Master: Slutbunnies | 393381 | [393381-furry-master-slutbunnies.json](./393381-furry-master-slutbunnies.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
 | Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
