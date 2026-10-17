@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Special Dog | 312856 | [312856-a-very-special-dog.json](./312856-a-very-special-dog.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
+| A Viagem de Vasco da Gama à Índia | 405497 | [405497-a-viagem-de-vasco-da-gama-a-india.json](./405497-a-viagem-de-vasco-da-gama-a-india.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Friends | 173058 | [173058-a-visit-to-friends.json](./173058-a-visit-to-friends.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterconflict Lost War | 123324 | [123324-afterconflict-lost-war.json](./123324-afterconflict-lost-war.json) |
 | Afterdream | 207735 | [207735-afterdream.json](./207735-afterdream.json) |
 | Afterdream & Distraint Series Bundle | 271122 | [271122-afterdream-and-distraint-series-bundle.json](./271122-afterdream-and-distraint-series-bundle.json) |
+| Aftereffect | 405349 | [405349-aftereffect.json](./405349-aftereffect.json) |
 | Afterfall: Insanity | 8375 | [8375-afterfall-insanity.json](./8375-afterfall-insanity.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
@@ -10561,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Anthology | 45120 | [45120-assassins-creed-anthology.json](./45120-assassins-creed-anthology.json) |
 | Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
+| Assassin's Creed: Brotherhood - Animus Project Update 1.0 | 405359 | [405359-assassins-creed-brotherhood-animus-project-update-1-0.json](./405359-assassins-creed-brotherhood-animus-project-update-1-0.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
 | Assassin's Creed: Brotherhood Mobile | 68528 | [68528-assassins-creed-brotherhood-mobile.json](./68528-assassins-creed-brotherhood-mobile.json) |
 | Assassin's Creed: Codename Hexe | 216321 | [216321-assassins-creed-codename-hexe.json](./216321-assassins-creed-codename-hexe.json) |
