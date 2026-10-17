@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
+| Pathways | 384918 | [384918-pathways.json](./384918-pathways.json) |
 | Pathways into Darkness | 38747 | [38747-pathways-into-darkness.json](./38747-pathways-into-darkness.json) |
 | Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
@@ -9130,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Fake Interview | 385892 | [385892-porn-star-fake-interview.json](./385892-porn-star-fake-interview.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
+| PornBeat Hardcore | 384886 | [384886-pornbeat-hardcore.json](./384886-pornbeat-hardcore.json) |
 | Porndle | 241406 | [241406-porndle.json](./241406-porndle.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Porno Party: Sailor Fuku to Yakyuken - The Yakyuken Game | 96310 | [96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json](./96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json) |
@@ -11663,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
+| Prostitute Simulator 3 | 384899 | [384899-prostitute-simulator-3.json](./384899-prostitute-simulator-3.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
 | Protagon | 55654 | [55654-protagon.json](./55654-protagon.json) |
