@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pit Stop Simulator | 407554 | [407554-galactic-pit-stop-simulator.json](./407554-galactic-pit-stop-simulator.json) |
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
+| Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
 | Ggg Collection: Gubbie | 170853 | [170853-ggg-collection-gubbie.json](./170853-ggg-collection-gubbie.json) |
 | Ggg Collection: The Olivia Saga | 170852 | [170852-ggg-collection-the-olivia-saga.json](./170852-ggg-collection-the-olivia-saga.json) |
+| GGnZ: Deck of the Dead | 372193 | [372193-ggnz-deck-of-the-dead.json](./372193-ggnz-deck-of-the-dead.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Ghajini: The Game | 215001 | [215001-ghajini-the-game.json](./215001-ghajini-the-game.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
+| Golden Rails: The Heart of the State | 372218 | [372218-golden-rails-the-heart-of-the-state.json](./372218-golden-rails-the-heart-of-the-state.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
 | Golden Rails: World's Fair | 213559 | [213559-golden-rails-worlds-fair.json](./213559-golden-rails-worlds-fair.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
@@ -4664,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 231780 | [231780-golf.json](./231780-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
+| Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
