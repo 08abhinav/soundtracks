@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T09:18:15.917Z",
-  "total_missing": 223219,
+  "generated_at": "2026-10-17T09:33:12.588Z",
+  "total_missing": 223269,
   "games": [
     {
       "igdb_id": 191680,
@@ -47385,6 +47385,11 @@
       "igdb_id": 362370,
       "game_name": "Anime Girls: Nimble Ninja",
       "file": "missing/A/362370-anime-girls-nimble-ninja.json"
+    },
+    {
+      "igdb_id": 393414,
+      "game_name": "Anime Girls: Shanghai Romance",
+      "file": "missing/A/393414-anime-girls-shanghai-romance.json"
     },
     {
       "igdb_id": 396432,
@@ -102302,6 +102307,11 @@
       "file": "missing/B/50625-big-time-rush-dance-party.json"
     },
     {
+      "igdb_id": 393375,
+      "game_name": "Big Tits",
+      "file": "missing/B/393375-big-tits.json"
+    },
+    {
       "igdb_id": 97667,
       "game_name": "Big Titty Teacher: Hentai School Life",
       "file": "missing/B/97667-big-titty-teacher-hentai-school-life.json"
@@ -138972,6 +138982,11 @@
       "file": "missing/B/318421-bussy-master-halloween-advent-2024.json"
     },
     {
+      "igdb_id": 393379,
+      "game_name": "Bussy Master: Ropeshooter Ranch",
+      "file": "missing/B/393379-bussy-master-ropeshooter-ranch.json"
+    },
+    {
       "igdb_id": 319973,
       "game_name": "Bust a Block",
       "file": "missing/B/319973-bust-a-block.json"
@@ -152352,6 +152367,11 @@
       "file": "missing/C/364563-castle-travel.json"
     },
     {
+      "igdb_id": 393415,
+      "game_name": "Castle Tycoon Simulator",
+      "file": "missing/C/393415-castle-tycoon-simulator.json"
+    },
+    {
       "igdb_id": 331947,
       "game_name": "Castle V Castle",
       "file": "missing/C/331947-castle-v-castle.json"
@@ -155425,6 +155445,11 @@
       "igdb_id": 323415,
       "game_name": "Catherna's Destiny",
       "file": "missing/C/323415-cathernas-destiny.json"
+    },
+    {
+      "igdb_id": 393412,
+      "game_name": "Cathode Quest 64",
+      "file": "missing/C/393412-cathode-quest-64.json"
     },
     {
       "igdb_id": 290340,
@@ -197627,6 +197652,11 @@
       "file": "missing/C/378793-crayon-food.json"
     },
     {
+      "igdb_id": 393416,
+      "game_name": "Crayon Little Dino",
+      "file": "missing/C/393416-crayon-little-dino.json"
+    },
+    {
       "igdb_id": 402566,
       "game_name": "Crayon Magic World",
       "file": "missing/C/402566-crayon-magic-world.json"
@@ -199285,6 +199315,11 @@
       "igdb_id": 184477,
       "game_name": "Creamy Mami: Futari no Rondo",
       "file": "missing/C/184477-creamy-mami-futari-no-rondo.json"
+    },
+    {
+      "igdb_id": 393417,
+      "game_name": "CreArt: Painting by Numbers",
+      "file": "missing/C/393417-creart-painting-by-numbers.json"
     },
     {
       "igdb_id": 149202,
@@ -216190,6 +216225,11 @@
       "igdb_id": 87048,
       "game_name": "Dancing Line",
       "file": "missing/D/87048-dancing-line.json"
+    },
+    {
+      "igdb_id": 393403,
+      "game_name": "Dancing Line: Community Edition",
+      "file": "missing/D/393403-dancing-line-community-edition.json"
     },
     {
       "igdb_id": 13836,
@@ -260260,6 +260300,11 @@
       "igdb_id": 411575,
       "game_name": "Dot Clicker",
       "file": "missing/D/411575-dot-clicker.json"
+    },
+    {
+      "igdb_id": 393383,
+      "game_name": "Dot Com Mystery",
+      "file": "missing/D/393383-dot-com-mystery.json"
     },
     {
       "igdb_id": 400361,
@@ -314302,6 +314347,11 @@
       "file": "missing/F/55909-fallen-princess.json"
     },
     {
+      "igdb_id": 393384,
+      "game_name": "Fallen Princess Knight",
+      "file": "missing/F/393384-fallen-princess-knight.json"
+    },
+    {
       "igdb_id": 158114,
       "game_name": "Fallen Rebellion",
       "file": "missing/F/158114-fallen-rebellion.json"
@@ -341237,6 +341287,11 @@
       "file": "missing/F/92609-foldit.json"
     },
     {
+      "igdb_id": 393408,
+      "game_name": "Foldy Bird",
+      "file": "missing/F/393408-foldy-bird.json"
+    },
+    {
       "igdb_id": 335865,
       "game_name": "Foldy's OS Quest",
       "file": "missing/F/335865-foldys-os-quest.json"
@@ -355597,6 +355652,11 @@
       "file": "missing/F/79958-fuck-typing.json"
     },
     {
+      "igdb_id": 393382,
+      "game_name": "Fuck Who You Desire",
+      "file": "missing/F/393382-fuck-who-you-desire.json"
+    },
+    {
       "igdb_id": 293818,
       "game_name": "Fuck You Witch",
       "file": "missing/F/293818-fuck-you-witch.json"
@@ -358010,6 +358070,11 @@
       "igdb_id": 165026,
       "game_name": "Furry Love 2",
       "file": "missing/F/165026-furry-love-2.json"
+    },
+    {
+      "igdb_id": 393381,
+      "game_name": "Furry Master: Slutbunnies",
+      "file": "missing/F/393381-furry-master-slutbunnies.json"
     },
     {
       "igdb_id": 224241,
@@ -399252,6 +399317,11 @@
       "file": "missing/G/350956-gut-eater.json"
     },
     {
+      "igdb_id": 393377,
+      "game_name": "Gut Fear Boundary",
+      "file": "missing/G/393377-gut-fear-boundary.json"
+    },
+    {
       "igdb_id": 257439,
       "game_name": "Gutasaga",
       "file": "missing/G/257439-gutasaga.json"
@@ -428997,6 +429067,31 @@
       "file": "missing/H/59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json"
     },
     {
+      "igdb_id": 393405,
+      "game_name": "Hitstick 2: No Time for Diplomacy",
+      "file": "missing/H/393405-hitstick-2-no-time-for-diplomacy.json"
+    },
+    {
+      "igdb_id": 393406,
+      "game_name": "Hitstick 3: Deadly Breeze",
+      "file": "missing/H/393406-hitstick-3-deadly-breeze.json"
+    },
+    {
+      "igdb_id": 393410,
+      "game_name": "Hitstick 5: Redemption",
+      "file": "missing/H/393410-hitstick-5-redemption.json"
+    },
+    {
+      "igdb_id": 393411,
+      "game_name": "Hitstick 6: Last Contracts",
+      "file": "missing/H/393411-hitstick-6-last-contracts.json"
+    },
+    {
+      "igdb_id": 393421,
+      "game_name": "Hitstick Rebirth",
+      "file": "missing/H/393421-hitstick-rebirth.json"
+    },
+    {
       "igdb_id": 268454,
       "game_name": "Hitstream",
       "file": "missing/H/268454-hitstream.json"
@@ -436045,6 +436140,11 @@
       "igdb_id": 367270,
       "game_name": "Hot And Lovely: Violet",
       "file": "missing/H/367270-hot-and-lovely-violet.json"
+    },
+    {
+      "igdb_id": 393391,
+      "game_name": "Hot Asses",
+      "file": "missing/H/393391-hot-asses.json"
     },
     {
       "igdb_id": 44483,
@@ -444157,6 +444257,11 @@
       "file": "missing/H/286133-hypersomnia.json"
     },
     {
+      "igdb_id": 393407,
+      "game_name": "Hypersonic GP",
+      "file": "missing/H/393407-hypersonic-gp.json"
+    },
+    {
       "igdb_id": 297489,
       "game_name": "Hyperspace",
       "file": "missing/H/297489-hyperspace.json"
@@ -447102,6 +447207,11 @@
       "file": "missing/I/257523-id-look-better-with-angel-wings.json"
     },
     {
+      "igdb_id": 393390,
+      "game_name": "I'd Lowkey Simp for that Bussin Femboy at Work",
+      "file": "missing/I/393390-id-lowkey-simp-for-that-bussin-femboy-at-work.json"
+    },
+    {
       "igdb_id": 313755,
       "game_name": "I'd rather be fishing",
       "file": "missing/I/313755-id-rather-be-fishing.json"
@@ -449015,6 +449125,11 @@
       "igdb_id": 384190,
       "game_name": "iDate Reborn",
       "file": "missing/I/384190-idate-reborn.json"
+    },
+    {
+      "igdb_id": 393418,
+      "game_name": "iDate: ReVibe",
+      "file": "missing/I/393418-idate-revibe.json"
     },
     {
       "igdb_id": 318487,
@@ -500802,6 +500917,11 @@
       "file": "missing/K/96489-knights-of-light.json"
     },
     {
+      "igdb_id": 393393,
+      "game_name": "Knights of MILFgaard",
+      "file": "missing/K/393393-knights-of-milfgaard.json"
+    },
+    {
       "igdb_id": 113080,
       "game_name": "Knights of Pen & Paper 2: Deluxiest Edition",
       "file": "missing/K/113080-knights-of-pen-and-paper-2-deluxiest-edition.json"
@@ -537385,6 +537505,11 @@
       "igdb_id": 178526,
       "game_name": "Love is Strange",
       "file": "missing/L/178526-love-is-strange.json"
+    },
+    {
+      "igdb_id": 393419,
+      "game_name": "Love is Trauma",
+      "file": "missing/L/393419-love-is-trauma.json"
     },
     {
       "igdb_id": 321619,
@@ -614157,6 +614282,11 @@
       "file": "missing/M/213447-my-furry-protogen-18-adult-only-patch.json"
     },
     {
+      "igdb_id": 393374,
+      "game_name": "My Furry Stepmom",
+      "file": "missing/M/393374-my-furry-stepmom.json"
+    },
+    {
       "igdb_id": 253899,
       "game_name": "My Furry Succubus",
       "file": "missing/M/253899-my-furry-succubus.json"
@@ -624095,6 +624225,11 @@
       "igdb_id": 174692,
       "game_name": "Naughty Monster Story",
       "file": "missing/N/174692-naughty-monster-story.json"
+    },
+    {
+      "igdb_id": 393385,
+      "game_name": "Naughty New Year",
+      "file": "missing/N/393385-naughty-new-year.json"
     },
     {
       "igdb_id": 416844,
@@ -659262,6 +659397,11 @@
       "file": "missing/O/77561-onryou-senki.json"
     },
     {
+      "igdb_id": 393380,
+      "game_name": "Onsen MILF Rainbow Party",
+      "file": "missing/O/393380-onsen-milf-rainbow-party.json"
+    },
+    {
       "igdb_id": 246072,
       "game_name": "Onsen mo Issho",
       "file": "missing/O/246072-onsen-mo-issho.json"
@@ -660935,6 +661075,11 @@
       "igdb_id": 147454,
       "game_name": "Oppai Academy Big, Bouncy, Booby Babes!",
       "file": "missing/O/147454-oppai-academy-big-bouncy-booby-babes.json"
+    },
+    {
+      "igdb_id": 393373,
+      "game_name": "Oppai Daisuki",
+      "file": "missing/O/393373-oppai-daisuki.json"
     },
     {
       "igdb_id": 77934,
@@ -822327,6 +822472,36 @@
       "file": "missing/S/283246-sift-heads-5.json"
     },
     {
+      "igdb_id": 393386,
+      "game_name": "Sift Heads Assault",
+      "file": "missing/S/393386-sift-heads-assault.json"
+    },
+    {
+      "igdb_id": 393387,
+      "game_name": "Sift Heads Assault 2",
+      "file": "missing/S/393387-sift-heads-assault-2.json"
+    },
+    {
+      "igdb_id": 393389,
+      "game_name": "Sift Heads Assault 3",
+      "file": "missing/S/393389-sift-heads-assault-3.json"
+    },
+    {
+      "igdb_id": 393394,
+      "game_name": "Sift Heads Cartels Act 1",
+      "file": "missing/S/393394-sift-heads-cartels-act-1.json"
+    },
+    {
+      "igdb_id": 393395,
+      "game_name": "Sift Heads Cartels Act 2",
+      "file": "missing/S/393395-sift-heads-cartels-act-2.json"
+    },
+    {
+      "igdb_id": 393396,
+      "game_name": "Sift Heads Cartels Act 3",
+      "file": "missing/S/393396-sift-heads-cartels-act-3.json"
+    },
+    {
       "igdb_id": 191898,
       "game_name": "Sift Heads Reborn",
       "file": "missing/S/191898-sift-heads-reborn.json"
@@ -822350,6 +822525,26 @@
       "igdb_id": 311993,
       "game_name": "Sift Heads: Legendary Pack",
       "file": "missing/S/311993-sift-heads-legendary-pack.json"
+    },
+    {
+      "igdb_id": 393397,
+      "game_name": "Sift Renegade",
+      "file": "missing/S/393397-sift-renegade.json"
+    },
+    {
+      "igdb_id": 393399,
+      "game_name": "Sift Renegade 2",
+      "file": "missing/S/393399-sift-renegade-2.json"
+    },
+    {
+      "igdb_id": 393400,
+      "game_name": "Sift Renegade 3",
+      "file": "missing/S/393400-sift-renegade-3.json"
+    },
+    {
+      "igdb_id": 393401,
+      "game_name": "Sift Renegade 3 Defiance",
+      "file": "missing/S/393401-sift-renegade-3-defiance.json"
     },
     {
       "igdb_id": 144022,
@@ -873917,6 +874112,11 @@
       "file": "missing/S/396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json"
     },
     {
+      "igdb_id": 393402,
+      "game_name": "Starboys",
+      "file": "missing/S/393402-starboys.json"
+    },
+    {
       "igdb_id": 19174,
       "game_name": "StarBreak",
       "file": "missing/S/19174-starbreak.json"
@@ -925477,6 +925677,11 @@
       "file": "missing/T/307673-teardown-folkrace.json"
     },
     {
+      "igdb_id": 393378,
+      "game_name": "Teardown: Multiplayer",
+      "file": "missing/T/393378-teardown-multiplayer.json"
+    },
+    {
       "igdb_id": 276809,
       "game_name": "Teardown: Time Campers",
       "file": "missing/T/276809-teardown-time-campers.json"
@@ -926950,6 +927155,11 @@
       "igdb_id": 272551,
       "game_name": "Tekken 6",
       "file": "missing/T/272551-tekken-6.json"
+    },
+    {
+      "igdb_id": 393420,
+      "game_name": "Tekken 6: Bloodline Rebellion",
+      "file": "missing/T/393420-tekken-6-bloodline-rebellion.json"
     },
     {
       "igdb_id": 163266,
@@ -1003747,6 +1003957,11 @@
       "file": "missing/T/298096-tomboy-adventure-2.json"
     },
     {
+      "igdb_id": 393388,
+      "game_name": "Tomboy Stranded in Space",
+      "file": "missing/T/393388-tomboy-stranded-in-space.json"
+    },
+    {
       "igdb_id": 348934,
       "game_name": "Tomboy: Trapped by Orcs",
       "file": "missing/T/348934-tomboy-trapped-by-orcs.json"
@@ -1054977,6 +1055192,36 @@
       "file": "missing/V/343333-vinnies-diary-vr.json"
     },
     {
+      "igdb_id": 393422,
+      "game_name": "Vinnie's Rampage",
+      "file": "missing/V/393422-vinnies-rampage.json"
+    },
+    {
+      "igdb_id": 393423,
+      "game_name": "Vinnie's Shooting Yard",
+      "file": "missing/V/393423-vinnies-shooting-yard.json"
+    },
+    {
+      "igdb_id": 393424,
+      "game_name": "Vinnie's Shooting Yard 2",
+      "file": "missing/V/393424-vinnies-shooting-yard-2.json"
+    },
+    {
+      "igdb_id": 393425,
+      "game_name": "Vinnie's Shooting Yard 3",
+      "file": "missing/V/393425-vinnies-shooting-yard-3.json"
+    },
+    {
+      "igdb_id": 393426,
+      "game_name": "Vinnie's Shooting Yard 4",
+      "file": "missing/V/393426-vinnies-shooting-yard-4.json"
+    },
+    {
+      "igdb_id": 393427,
+      "game_name": "Vinnie's Shooting Yard 5",
+      "file": "missing/V/393427-vinnies-shooting-yard-5.json"
+    },
+    {
       "igdb_id": 374954,
       "game_name": "Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb",
       "file": "missing/V/374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json"
@@ -1076905,6 +1077150,11 @@
       "igdb_id": 387592,
       "game_name": "Where's My Egg?",
       "file": "missing/W/387592-wheres-my-egg.json"
+    },
+    {
+      "igdb_id": 393376,
+      "game_name": "Where’s My Futa Deck? Bonekeep",
+      "file": "missing/W/393376-where-s-my-futa-deck-bonekeep.json"
     },
     {
       "igdb_id": 197230,
