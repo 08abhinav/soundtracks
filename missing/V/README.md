@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxenvale | 404900 | [404900-voxenvale.json](./404900-voxenvale.json) |
+| Voxie Survivor | 407861 | [407861-voxie-survivor.json](./407861-voxie-survivor.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxiom.io | 139381 | [139381-voxiom-io.json](./139381-voxiom-io.json) |
