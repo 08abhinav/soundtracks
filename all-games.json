@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:41:42.775Z",
-  "total_soundtracks": 2113,
+  "generated_at": "2026-10-17T15:41:51.345Z",
+  "total_soundtracks": 2114,
   "games": [
     {
       "igdb_id": 7522,
@@ -23249,6 +23249,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/tormented-souls-2-original-soundtrack/1847460718?uo=4",
           "album_link_url": "https://album.link/i/1847460718"
+        }
+      ]
+    },
+    {
+      "igdb_id": 8200,
+      "game_name": "Total War: Attila",
+      "game_url": "https://ostdb.net/games/total-war-attila",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735a3d4b2af54863b9a2e48099",
+      "albums": [
+        {
+          "album_name": "Total War: Attila (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6keTfnCqLmpsLjfCEm2YPL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
