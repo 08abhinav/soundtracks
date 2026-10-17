@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
 | Key | 217484 | [217484-key.json](./217484-key.json) |
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
+| Key and Lokk | 408505 | [408505-key-and-lokk.json](./408505-key-and-lokk.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
 | Key Girl | 397895 | [397895-key-girl.json](./397895-key-girl.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
 | Knightly Gnomes | 309508 | [309508-knightly-gnomes.json](./309508-knightly-gnomes.json) |
+| Knightly Peak | 408504 | [408504-knightly-peak.json](./408504-knightly-peak.json) |
 | Knightly Routine | 244125 | [244125-knightly-routine.json](./244125-knightly-routine.json) |
 | KnightMan | 257387 | [257387-knightman.json](./257387-knightman.json) |
 | Knightmare | 12166 | [12166-knightmare.json](./12166-knightmare.json) |
@@ -3414,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
 | Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
+| Knuckle Creek | 408543 | [408543-knuckle-creek.json](./408543-knuckle-creek.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
 | Knuckle Joe | 39874 | [39874-knuckle-joe.json](./39874-knuckle-joe.json) |
