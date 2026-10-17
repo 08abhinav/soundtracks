@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
+| Camp Hollow | 410493 | [410493-camp-hollow.json](./410493-camp-hollow.json) |
 | Camp Keepalive | 22140 | [22140-camp-keepalive.json](./22140-camp-keepalive.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
@@ -4984,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood's Rush | 293541 | [293541-childhoods-rush.json](./293541-childhoods-rush.json) |
 | Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Childlike | 191171 | [191171-childlike.json](./191171-childlike.json) |
+| ChildMare | 410489 | [410489-childmare.json](./410489-childmare.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
@@ -8035,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse Relapse | 203969 | [203969-collapse-relapse.json](./203969-collapse-relapse.json) |
 | Collapse Zone | 382309 | [382309-collapse-zone.json](./382309-collapse-zone.json) |
 | Collapse! | 84439 | [84439-collapse.json](./84439-collapse.json) |
+| Collapse! Chaos | 410114 | [410114-collapse-chaos.json](./410114-collapse-chaos.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
 | Collapsed | 118801 | [118801-collapsed.json](./118801-collapsed.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
@@ -10600,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
+| Cotton to Freaks | 410254 | [410254-cotton-to-freaks.json](./410254-cotton-to-freaks.json) |
 | Cotton: Fantastic Night Dreams | 39488 | [39488-cotton-fantastic-night-dreams.json](./39488-cotton-fantastic-night-dreams.json) |
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
@@ -13094,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
+| CSI: Squeak Sneak | 410219 | [410219-csi-squeak-sneak.json](./410219-csi-squeak-sneak.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | CSR Racing | 63899 | [63899-csr-racing.json](./63899-csr-racing.json) |
