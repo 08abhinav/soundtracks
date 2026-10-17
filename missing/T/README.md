@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
+| Tactica: First Contact | 396467 | [396467-tactica-first-contact.json](./396467-tactica-first-contact.json) |
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
 | Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrors to Unveil: Last Trace | 383708 | [383708-terrors-to-unveil-last-trace.json](./383708-terrors-to-unveil-last-trace.json) |
+| Terrorstorm: Ground Zero | 396339 | [396339-terrorstorm-ground-zero.json](./396339-terrorstorm-ground-zero.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
 | Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
@@ -5203,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Classroom 2 | 361307 | [361307-the-classroom-2.json](./361307-the-classroom-2.json) |
+| The Classroom 3 | 396446 | [396446-the-classroom-3.json](./396446-the-classroom-3.json) |
 | The Classrooms | 212853 | [212853-the-classrooms.json](./212853-the-classrooms.json) |
 | The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
@@ -7072,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Archives: Haunting of Shady Valley | 87065 | [87065-the-ghost-archives-haunting-of-shady-valley.json](./87065-the-ghost-archives-haunting-of-shady-valley.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
+| The Ghost in My Apartment | 396353 | [396353-the-ghost-in-my-apartment.json](./396353-the-ghost-in-my-apartment.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
@@ -8975,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
+| The Legend of Zelda: Corruption's Embrace | 396451 | [396451-the-legend-of-zelda-corruptions-embrace.json](./396451-the-legend-of-zelda-corruptions-embrace.json) |
 | The Legend of Zelda: Demon's Quest | 345626 | [345626-the-legend-of-zelda-demons-quest.json](./345626-the-legend-of-zelda-demons-quest.json) |
 | The Legend of Zelda: Dungeon Rush | 268674 | [268674-the-legend-of-zelda-dungeon-rush.json](./268674-the-legend-of-zelda-dungeon-rush.json) |
 | The Legend of Zelda: Dungeons of Infinity | 316720 | [316720-the-legend-of-zelda-dungeons-of-infinity.json](./316720-the-legend-of-zelda-dungeons-of-infinity.json) |
@@ -10576,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
+| The Pirate: Republic of Nassau | 396461 | [396461-the-pirate-republic-of-nassau.json](./396461-the-pirate-republic-of-nassau.json) |
 | The Pirate's Fate | 76587 | [76587-the-pirates-fate.json](./76587-the-pirates-fate.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
@@ -14714,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
+| Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
@@ -17177,6 +17184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | To the Sunset | 374781 | [374781-to-the-sunset.json](./374781-to-the-sunset.json) |
 | To the Tavern | 276147 | [276147-to-the-tavern.json](./276147-to-the-tavern.json) |
+| To the Toilet | 396348 | [396348-to-the-toilet.json](./396348-to-the-toilet.json) |
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top | 237258 | [237258-to-the-top.json](./237258-to-the-top.json) |
 | To the Top, Mammoth! | 192013 | [192013-to-the-top-mammoth.json](./192013-to-the-top-mammoth.json) |
