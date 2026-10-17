@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Chronicle Saviours - Space Harrier | 168174 | [168174-dariusburst-chronicle-saviours-space-harrier.json](./168174-dariusburst-chronicle-saviours-space-harrier.json) |
 | Dariusburst: Chronicle Saviours - Varth: Operation Thunderstorm | 168183 | [168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json](./168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
+| Dark | 380231 | [380231-dark.json](./380231-dark.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
 | Dark Abyss | 148283 | [148283-dark-abyss.json](./148283-dark-abyss.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
+| Dark Door | 380232 | [380232-dark-door.json](./380232-dark-door.json) |
 | Dark Dragonkin | 160066 | [160066-dark-dragonkin.json](./160066-dark-dragonkin.json) |
 | Dark Dreams on Diverging Roads | 382592 | [382592-dark-dreams-on-diverging-roads.json](./382592-dark-dreams-on-diverging-roads.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
@@ -1264,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
+| Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
@@ -1700,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
+| DashBall | 380237 | [380237-dashball.json](./380237-dashball.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
 | Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
@@ -1750,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Carddass Dragon Ball Z | 66916 | [66916-data-carddass-dragon-ball-z.json](./66916-data-carddass-dragon-ball-z.json) |
 | Data Carddass Dragon Ball Z 2 | 66915 | [66915-data-carddass-dragon-ball-z-2.json](./66915-data-carddass-dragon-ball-z-2.json) |
+| Data Center | 380236 | [380236-data-center.json](./380236-data-center.json) |
 | Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
@@ -1839,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
+| Dating App Simulator | 380235 | [380235-dating-app-simulator.json](./380235-dating-app-simulator.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
@@ -1906,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
+| Dawn | 380240 | [380240-dawn.json](./380240-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
@@ -2044,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Day: 40 | 116915 | [116915-day-40.json](./116915-day-40.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
+| Daybreak | 380239 | [380239-daybreak.json](./380239-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
 | DayBreak Online | 112867 | [112867-daybreak-online.json](./112867-daybreak-online.json) |
 | Daybreaker VR | 208833 | [208833-daybreaker-vr.json](./208833-daybreaker-vr.json) |
@@ -2053,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
+| Daydream | 380238 | [380238-daydream.json](./380238-daydream.json) |
 | Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
@@ -2295,6 +2304,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ahead: Roadside | 400539 | [400539-dead-ahead-roadside.json](./400539-dead-ahead-roadside.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
 | Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
+| Dead Air | 380241 | [380241-dead-air.json](./380241-dead-air.json) |
+| Dead Air | 380242 | [380242-dead-air.json](./380242-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
@@ -2412,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Effect 2 VR: Escape From Meridian | 170967 | [170967-dead-effect-2-vr-escape-from-meridian.json](./170967-dead-effect-2-vr-escape-from-meridian.json) |
 | Dead Effect 2: Escape From Meridian | 170968 | [170968-dead-effect-2-escape-from-meridian.json](./170968-dead-effect-2-escape-from-meridian.json) |
 | Dead End | 285003 | [285003-dead-end.json](./285003-dead-end.json) |
+| Dead End | 380245 | [380245-dead-end.json](./380245-dead-end.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
@@ -2461,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
+| Dead Hand | 380244 | [380244-dead-hand.json](./380244-dead-hand.json) |
 | Dead Head Fred | 21047 | [21047-dead-head-fred.json](./21047-dead-head-fred.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
@@ -2547,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead Oil | 346549 | [346549-dead-oil.json](./346549-dead-oil.json) |
 | Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
+| Dead On Arrival | 380246 | [380246-dead-on-arrival.json](./380246-dead-on-arrival.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
@@ -2766,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
+| Deadhold | 380243 | [380243-deadhold.json](./380243-deadhold.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadhunters | 110495 | [110495-deadhunters.json](./110495-deadhunters.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
@@ -3556,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
+| Deep | 380247 | [380247-deep.json](./380247-deep.json) |
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
@@ -3569,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sea | 73300 | [73300-deep-blue-sea.json](./73300-deep-blue-sea.json) |
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
+| Deep Breath | 380248 | [380248-deep-breath.json](./380248-deep-breath.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Chalk: First Phase | 404081 | [404081-deep-chalk-first-phase.json](./404081-deep-chalk-first-phase.json) |
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
