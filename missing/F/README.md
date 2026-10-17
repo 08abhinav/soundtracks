@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
+| Football | 411534 | [411534-football.json](./411534-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
@@ -7843,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
 | Fragsurf | 130123 | [130123-fragsurf.json](./130123-fragsurf.json) |
 | Frail Faces | 154586 | [154586-frail-faces.json](./154586-frail-faces.json) |
+| Frail Keep | 411376 | [411376-frail-keep.json](./411376-frail-keep.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
