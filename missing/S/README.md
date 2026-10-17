@@ -8359,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skadonk Showdown | 74718 | [74718-skadonk-showdown.json](./74718-skadonk-showdown.json) |
 | Skala | 217395 | [217395-skala.json](./217395-skala.json) |
 | Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
+| Skald: Against the Black Priory - Deluxe Edition | 380152 | [380152-skald-against-the-black-priory-deluxe-edition.json](./380152-skald-against-the-black-priory-deluxe-edition.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
 | Skaldsong | 349517 | [349517-skaldsong.json](./349517-skaldsong.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
@@ -9444,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice of Life | 55276 | [55276-slice-of-life.json](./55276-slice-of-life.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
+| Slice Overdrive | 380159 | [380159-slice-overdrive.json](./380159-slice-overdrive.json) |
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
@@ -11678,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
+| Solitaire Flowerscapes | 380227 | [380227-solitaire-flowerscapes.json](./380227-solitaire-flowerscapes.json) |
 | Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
 | Solitaire Forever II | 149360 | [149360-solitaire-forever-ii.json](./149360-solitaire-forever-ii.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
@@ -24600,6 +24603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
+| Swampwalker | 380146 | [380146-swampwalker.json](./380146-swampwalker.json) |
 | Swampy | 227739 | [227739-swampy.json](./227739-swampy.json) |
 | Swan Hill | 177821 | [177821-swan-hill.json](./177821-swan-hill.json) |
 | Swan Princess Gator Escape | 340534 | [340534-swan-princess-gator-escape.json](./340534-swan-princess-gator-escape.json) |
