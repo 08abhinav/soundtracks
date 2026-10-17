@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
 | Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
+| Relative Velocity | 385993 | [385993-relative-velocity.json](./385993-relative-velocity.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
 | Relativity Wars - A Science Space RTS | 35953 | [35953-relativity-wars-a-science-space-rts.json](./35953-relativity-wars-a-science-space-rts.json) |
 | Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
@@ -7989,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
 | Roulette Simulator | 82001 | [82001-roulette-simulator.json](./82001-roulette-simulator.json) |
+| Roulette Simulator 2 | 385989 | [385989-roulette-simulator-2.json](./385989-roulette-simulator-2.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
