@@ -4800,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
+| Fishy Business | 376818 | [376818-fishy-business.json](./376818-fishy-business.json) |
 | Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
 | Fishy But In 2.5D | 163807 | [163807-fishy-but-in-2-5d.json](./163807-fishy-but-in-2-5d.json) |
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
@@ -9221,6 +9222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugu | 314377 | [314377-fugu.json](./314377-fugu.json) |
 | Fugu Maze | 104703 | [104703-fugu-maze.json](./104703-fugu-maze.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
+| Fugue | 376806 | [376806-fugue.json](./376806-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
