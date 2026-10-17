@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
+| Incredeck | 415973 | [415973-incredeck.json](./415973-incredeck.json) |
 | Incrediball: The Seven Sapphires | 71984 | [71984-incrediball-the-seven-sapphires.json](./71984-incrediball-the-seven-sapphires.json) |
 | Incredibasketball | 24773 | [24773-incredibasketball.json](./24773-incredibasketball.json) |
 | Incredible Crisis | 26637 | [26637-incredible-crisis.json](./26637-incredible-crisis.json) |
