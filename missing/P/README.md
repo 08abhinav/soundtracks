@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
+| Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
