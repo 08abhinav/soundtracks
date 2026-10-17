@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Algolemeth | 283903 | [283903-algolemeth.json](./283903-algolemeth.json) |
 | Algor Pew Pew | 270858 | [270858-algor-pew-pew.json](./270858-algor-pew-pew.json) |
+| Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
