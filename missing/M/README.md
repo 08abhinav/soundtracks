@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manafinder | 152033 | [152033-manafinder.json](./152033-manafinder.json) |
+| Manafinder II | 398908 | [398908-manafinder-ii.json](./398908-manafinder-ii.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Manaftory | 369157 | [369157-manaftory.json](./369157-manaftory.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
@@ -3923,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching Cats | 173040 | [173040-matching-cats.json](./173040-matching-cats.json) |
 | Matching Meadows | 287054 | [287054-matching-meadows.json](./287054-matching-meadows.json) |
+| Matching Moments | 398817 | [398817-matching-moments.json](./398817-matching-moments.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
@@ -9356,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miramagia | 209560 | [209560-miramagia.json](./209560-miramagia.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Miramixi Storyteller | 215599 | [215599-miramixi-storyteller.json](./215599-miramixi-storyteller.json) |
+| Miranda Village | 398820 | [398820-miranda-village.json](./398820-miranda-village.json) |
 | Miraneko | 404307 | [404307-miraneko.json](./404307-miraneko.json) |
 | Miranza Futebol Clube | 413124 | [413124-miranza-futebol-clube.json](./413124-miranza-futebol-clube.json) |
 | Miraroma | 93979 | [93979-miraroma.json](./93979-miraroma.json) |
@@ -10573,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
+| Monastery 2: Beyond the Darkness | 398814 | [398814-monastery-2-beyond-the-darkness.json](./398814-monastery-2-beyond-the-darkness.json) |
 | Monastery: Ora et Labora | 364402 | [364402-monastery-ora-et-labora.json](./364402-monastery-ora-et-labora.json) |
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
@@ -14038,6 +14042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
+| My Boyfriend | 398812 | [398812-my-boyfriend.json](./398812-my-boyfriend.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
