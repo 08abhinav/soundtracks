@@ -14188,6 +14188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
+| My Friendly Little Island Deluxe | 415395 | [415395-my-friendly-little-island-deluxe.json](./415395-my-friendly-little-island-deluxe.json) |
 | My Friendly Neighborhood | 172023 | [172023-my-friendly-neighborhood.json](./172023-my-friendly-neighborhood.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
