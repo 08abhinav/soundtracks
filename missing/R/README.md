@@ -2316,7 +2316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
 | RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
-| Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
 | Reanimal: Collector's Edition | 378339 | [378339-reanimal-collectors-edition.json](./378339-reanimal-collectors-edition.json) |
 | Reanimal: Deluxe Edition | 378346 | [378346-reanimal-deluxe-edition.json](./378346-reanimal-deluxe-edition.json) |
 | Reanimal: Digital Deluxe Edition | 378343 | [378343-reanimal-digital-deluxe-edition.json](./378343-reanimal-digital-deluxe-edition.json) |
