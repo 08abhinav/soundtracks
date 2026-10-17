@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed County | 130117 | [130117-weed-county.json](./130117-weed-county.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Farmer Simulator | 128479 | [128479-weed-farmer-simulator.json](./128479-weed-farmer-simulator.json) |
+| Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
