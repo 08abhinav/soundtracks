@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
+| Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
 | Periodonica | 33938 | [33938-periodonica.json](./33938-periodonica.json) |
 | Peripeteia | 142186 | [142186-peripeteia.json](./142186-peripeteia.json) |
+| Peripheral | 375499 | [375499-peripheral.json](./375499-peripheral.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Online | 207598 | [207598-periphery-online.json](./207598-periphery-online.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
@@ -11992,6 +11994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychopathy Assessment | 341438 | [341438-psychopathy-assessment.json](./341438-psychopathy-assessment.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
+| Psychopomp 2 | 375510 | [375510-psychopomp-2.json](./375510-psychopomp-2.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
 | Psychosis | 237263 | [237263-psychosis.json](./237263-psychosis.json) |
@@ -12389,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
+| Puppergeist | 375515 | [375515-puppergeist.json](./375515-puppergeist.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
