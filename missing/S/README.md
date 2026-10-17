@@ -25614,6 +25614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronizers: Undead Marines | 154373 | [154373-synchronizers-undead-marines.json](./154373-synchronizers-undead-marines.json) |
 | Syncline | 412792 | [412792-syncline.json](./412792-syncline.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
+| Synco Path: Automaton Prison | 366028 | [366028-synco-path-automaton-prison.json](./366028-synco-path-automaton-prison.json) |
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
