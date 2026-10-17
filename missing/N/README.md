@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
 | NASCAR Kart Racing | 5053 | [5053-nascar-kart-racing.json](./5053-nascar-kart-racing.json) |
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
+| NASCAR Racers | 370458 | [370458-nascar-racers.json](./370458-nascar-racers.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
 | NASCAR Racing 2 | 802 | [802-nascar-racing-2.json](./802-nascar-racing-2.json) |
@@ -5131,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
+| Nova's Cube! | 370415 | [370415-novas-cube.json](./370415-novas-cube.json) |
 | Novadrome | 21941 | [21941-novadrome.json](./21941-novadrome.json) |
 | Novalance | 128954 | [128954-novalance.json](./128954-novalance.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
