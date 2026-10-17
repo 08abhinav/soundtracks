@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caona | 247380 | [247380-caona.json](./247380-caona.json) |
 | Caos Begins | 97803 | [97803-caos-begins.json](./97803-caos-begins.json) |
 | Caos Trigger: Golem | 97800 | [97800-caos-trigger-golem.json](./97800-caos-trigger-golem.json) |
+| Cap'n Bubblegum Dodges the Universe | 416049 | [416049-capn-bubblegum-dodges-the-universe.json](./416049-capn-bubblegum-dodges-the-universe.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Profit | 219220 | [219220-capital-profit.json](./219220-capital-profit.json) |
 | Capital Punishment | 14373 | [14373-capital-punishment.json](./14373-capital-punishment.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
+| Capitaland | 415843 | [415843-capitaland.json](./415843-capitaland.json) |
 | Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
@@ -5072,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
 | China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
+| China Miner | 415926 | [415926-china-miner.json](./415926-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
@@ -9354,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
 | Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
+| CONQ: Crown of No Quarter | 416128 | [416128-conq-crown-of-no-quarter.json](./416128-conq-crown-of-no-quarter.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer | 83821 | [83821-conquer.json](./83821-conquer.json) |
 | Conquer and Breed the Demon Queen | 160057 | [160057-conquer-and-breed-the-demon-queen.json](./160057-conquer-and-breed-the-demon-queen.json) |
@@ -13210,6 +13214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
+| Cube on a Leash | 415855 | [415855-cube-on-a-leash.json](./415855-cube-on-a-leash.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Racer | 74217 | [74217-cube-racer.json](./74217-cube-racer.json) |
