@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Dream | 202327 | [202327-reverse-dream.json](./202327-reverse-dream.json) |
 | Reverse Dream of the Menasphere | 400430 | [400430-reverse-dream-of-the-menasphere.json](./400430-reverse-dream-of-the-menasphere.json) |
 | Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
+| Reverse Escape Room: Archaeologists Sanctum | 369334 | [369334-reverse-escape-room-archaeologists-sanctum.json](./369334-reverse-escape-room-archaeologists-sanctum.json) |
 | Reverse Fantasy Legend | 174676 | [174676-reverse-fantasy-legend.json](./174676-reverse-fantasy-legend.json) |
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
 | Reverse Horizons | 387017 | [387017-reverse-horizons.json](./387017-reverse-horizons.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
+| Richest Thief | 369360 | [369360-richest-thief.json](./369360-richest-thief.json) |
 | Richie the Gnome: Treasure Hunter | 106943 | [106943-richie-the-gnome-treasure-hunter.json](./106943-richie-the-gnome-treasure-hunter.json) |
 | Richie the Gnome: Underground Treasures | 62096 | [62096-richie-the-gnome-underground-treasures.json](./62096-richie-the-gnome-underground-treasures.json) |
 | Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
