@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All-Star Battle R - Wonder of U | 279860 | [279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json](./279860-jojos-bizarre-adventure-all-star-battle-r-wonder-of-u.json) |
 | JoJo's Bizarre Adventure: Diamond Records | 75966 | [75966-jojos-bizarre-adventure-diamond-records.json](./75966-jojos-bizarre-adventure-diamond-records.json) |
 | JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
+| JoJo's Bizarre Adventure: Golden Spirit | 413426 | [413426-jojos-bizarre-adventure-golden-spirit.json](./413426-jojos-bizarre-adventure-golden-spirit.json) |
 | JoJo's Bizarre Adventure: Heritage for the Future | 75962 | [75962-jojos-bizarre-adventure-heritage-for-the-future.json](./75962-jojos-bizarre-adventure-heritage-for-the-future.json) |
 | JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
 | JoJo's Bizarre Adventure: Stardust Shooters | 62019 | [62019-jojos-bizarre-adventure-stardust-shooters.json](./62019-jojos-bizarre-adventure-stardust-shooters.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
 | Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
+| Juvenile Power Fantasy | 413459 | [413459-juvenile-power-fantasy.json](./413459-juvenile-power-fantasy.json) |
 | Juventus Club Football | 267879 | [267879-juventus-club-football.json](./267879-juventus-club-football.json) |
 | Juventus Club Football 2005 | 267900 | [267900-juventus-club-football-2005.json](./267900-juventus-club-football-2005.json) |
 | Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
