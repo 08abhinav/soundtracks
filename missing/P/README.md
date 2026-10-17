@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
+| Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
@@ -13011,6 +13012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzletrunk | 358452 | [358452-puzzletrunk.json](./358452-puzzletrunk.json) |
 | Puzzleverse | 358453 | [358453-puzzleverse.json](./358453-puzzleverse.json) |
 | Puzzlewood Quests Premium | 194899 | [194899-puzzlewood-quests-premium.json](./194899-puzzlewood-quests-premium.json) |
+| PuzzleXor | 412258 | [412258-puzzlexor.json](./412258-puzzlexor.json) |
 | Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
