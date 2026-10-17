@@ -9636,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
+| The Man I Love | 388807 | [388807-the-man-i-love.json](./388807-the-man-i-love.json) |
 | The Man in the Cape: Special Edition | 65816 | [65816-the-man-in-the-cape-special-edition.json](./65816-the-man-in-the-cape-special-edition.json) |
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
 | The Man in the Hat.- | 321080 | [321080-the-man-in-the-hat.json](./321080-the-man-in-the-hat.json) |
